@@ -2,7 +2,7 @@
 
 Each time someone from VTEX Product Support creates or updates a public Known Issue on Zendesk, this triggers an integration that automatically translates the content to Spanish and Portuguese and then publishes or updates it on Help Center. Check the diagram below for an overview of how the integration flow works.
 
-![ki-flow](//known-issues/src/images/ki-flow.png)
+![ki-flow](https://github.com/vtexdocs/known-issues/blob/main/public/images/ki-flow.png)
 
 For each change saved on Zendesk, a Slack thread is created on `#known-issues-feed`. There, you can keep track of the publication status. For more details on this process, check the **Dos & Don'ts** section.
 
@@ -10,15 +10,15 @@ For each change saved on Zendesk, a Slack thread is created on `#known-issues-fe
 
 When the Product Support team identifies an issue, you can create a Known Issue attached to it. To do so, click on **Product > KI > Register a New Known Issue**.
 
-![register ki](//known-issues/src/images/register-ki.png)
+![register ki](https://github.com/vtexdocs/known-issues/blob/main/public/images/register-ki.png)
 
 For public Known Issues that should be available on Help Center, select `Yes` on the **Is public?** field, as illustrated below. This will automatically add the `is_public_yes` tag to the Known Issue.
 
-![known-issue-type](//known-issues/src/images/known-issue-type.png)
+![known-issue-type](https://github.com/vtexdocs/known-issues/blob/main/public/images/known-issue-type.png)
 
 Tickets linked to the Known Issue must have its **Type** set as an `Incident`. You must also select the Known Issue ID in the **Linked problem** field and the **Incident Type** as `Regular`.
 
-![ki-is-public](//known-issues/src/images/ki-is-public.png)
+![ki-is-public](https://github.com/vtexdocs/known-issues/blob/main/public/images/ki-is-public.png)
 
 ### Template
 
