@@ -5,9 +5,9 @@ status: PUBLISHED
 createdAt: 
 updatedAt: 
 contentType: knownIssue
-productTeam: Order Management
+productTeam: Order Allocation
 author: 2mXZkbi0oi061KicTExNjo
-tag: Order Management
+tag: Order Allocation
 slugEN: item-unavailability-in-sales-app-allocation-with-pickup-point-inadequate-heuristic-in-selecting-sellers
 locale: pt
 kiStatus: Backlog
@@ -27,7 +27,7 @@ Observe que o erro só se manifesta em fluxos originados do aplicativo Sales com
 ## Simulação
 
 
-Esse cenário pode não ser replicável devido às suas características, mas em alguns casos é possível executar as seguintes etapas para replicá-lo:
+Esse cenário pode não ser replicável devido às suas características, mas, em alguns casos, é possível executar as seguintes etapas para replicá-lo:
 
 1-Montar um carrinho por meio do aplicativo de vendas, o que fará com que o OrderForm tenha `"isCheckedIn: true"` e "`checkedInPickupPointId`" definidos.
 
