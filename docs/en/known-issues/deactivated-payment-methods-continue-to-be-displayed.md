@@ -17,7 +17,7 @@ internalReference: 1235817
 ## Summary
 
 
-Changes made to the payment rules of subaccounts are not reflected for the shopper. This results in payment methods that should no longer appear at checkout continuing to be displayed, which ultimately leads to a poor shopping experience, as shoppers will not be able to complete their purchase.
+Changes made to the payment rules of subaccounts are not reflected for the shopper. This results in payment methods that should no longer appear at checkout continuing to be displayed, which ultimately leads to a poor shopping experience, as shoppers will not be able to complete their purchase. 
 
 
 #### Simulation
