@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
 slugEN: error-when-updating-secrets-on-the-admin
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1233661
 ---
 
