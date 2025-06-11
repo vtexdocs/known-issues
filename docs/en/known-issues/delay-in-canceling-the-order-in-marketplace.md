@@ -1,0 +1,39 @@
+---
+title: Delay in canceling the order in Marketplace
+slug: delay-in-canceling-the-order-in-marketplace
+status: PUBLISHED
+createdAt: 
+updatedAt: 
+contentType: knownIssue
+productTeam: Order Management
+author: 2mXZkbi0oi061KicTExNjo
+tag: Order Management
+slugEN: delay-in-canceling-the-order-in-marketplace
+locale: en
+kiStatus: Backlog
+internalReference: 1242813
+---
+
+## Summary
+
+
+This KI describes the scenario where the Marketplace or Fulfillment requests the cancellation of an order, this cancellation is accepted in fulfillment, however, it takes a few minutes to be completed in the Marketplace.
+This occurs because, in the cancellation flow, there are multiple writes of the order in S3 (database), changing the status from "cancel" to "canceled" and other cancellation information.
+The way the cancellation flow is implemented today, asynchronously without lock, this type of behavior can occur, and there may even be inconsistencies in the workflow interactions, where it may go to "canceled", but then return to "cancel" due to the lack of lock in the operations.
+
+This scenario is not a big deal, because there are retries in the workflow that guarantee a certain consistency, however, it can take a while, close to 15 minutes.
+
+
+#### Simulation
+
+
+It is not possible to simulate this scenario, as it does not always occur!
+
+
+#### Workaround
+
+
+We do not have a workaround for this scenario, so the workflow retry is necessary to correct the status!
+
+
+
