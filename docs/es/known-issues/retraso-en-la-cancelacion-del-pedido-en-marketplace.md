@@ -21,7 +21,7 @@ internalReference: 1242813
 
 Este KI describe el escenario en el que el Marketplace o Fulfillment solicita la cancelación de un pedido, esta cancelación es aceptada en fulfillment, sin embargo, tarda unos minutos en completarse en el Marketplace.
 Esto ocurre porque, en el flujo de cancelación, hay múltiples escrituras del pedido en S3 (base de datos), cambiando el estado de "cancelado" a "cancelado" y otra información de cancelación.
-De la forma en que el flujo de cancelación está implementado hoy en día, de forma asíncrona sin bloqueo, este tipo de comportamiento puede ocurrir, e incluso puede haber inconsistencias en las interacciones del flujo de trabajo, donde puede ir a "cancelado", pero luego volver a "cancelado" debido a la falta de bloqueo en las operaciones.
+De la forma en que está implementado el flujo de cancelación hoy en día, de forma asíncrona sin bloqueo, se pueden producir este tipo de comportamientos, e incluso puede haber inconsistencias en las interacciones del flujo de trabajo, donde puede pasar a "cancelado", pero luego volver a "cancelado" debido a la falta de bloqueo en las operaciones. En este caso, esto puede afectar al feed/hook, ya que habrá dos notificaciones del estado cancelado.
 
 Este escenario no es un gran problema, porque hay reintentos en el flujo de trabajo que garantizan una cierta coherencia, sin embargo, puede tomar un tiempo, cerca de 15 minutos.
 
