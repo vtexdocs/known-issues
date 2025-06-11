@@ -19,7 +19,7 @@ internalReference: 1242813
 
 This KI describes the scenario where the Marketplace or Fulfillment requests the cancellation of an order, this cancellation is accepted in fulfillment, however, it takes a few minutes to be completed in the Marketplace.
 This occurs because, in the cancellation flow, there are multiple writes of the order in S3 (database), changing the status from "cancel" to "canceled" and other cancellation information.
-The way the cancellation flow is implemented today, asynchronously without lock, this type of behavior can occur, and there may even be inconsistencies in the workflow interactions, where it may go to "canceled", but then return to "cancel" due to the lack of lock in the operations.
+The way the cancellation flow is implemented today, asynchronously without lock, this type of behavior can occur, and there may even be inconsistencies in the workflow interactions, where it may go to "canceled", but then return to "cancel" due to the lack of lock in the operations. In this case, this may affect the feed/hook, as there will be two notifications of the canceled status.
 
 This scenario is not a big deal, because there are retries in the workflow that guarantee a certain consistency, however, it can take a while, close to 15 minutes.
 
