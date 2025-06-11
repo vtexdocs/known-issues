@@ -1,6 +1,6 @@
 ---
-title: [Amazon] SKUs for the same product weren't grouped on Amazon.
-slug: amazon-skus-for-the-same-product-werent-grouped-on-amazon
+title: [Amazon] Os SKUs do mesmo produto não foram agrupados na Amazon.
+slug: amazon-os-skus-do-mesmo-produto-nao-foram-agrupados-na-amazon
 status: PUBLISHED
 createdAt: 
 updatedAt: 
@@ -9,32 +9,30 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: amazon-skus-for-the-same-product-werent-grouped-on-amazon
-locale: en
+locale: pt
 kiStatus: Backlog
 internalReference: 1240446
 ---
 
-## Summary
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+
+## Sumário
 
 
-SKUs for the same product were not grouped on Amazon.
-It doesn't happen with all SKUs.
-
-
-#### Simulation
+As SKUs do mesmo produto não foram agrupadas na Amazon.
+Isso não acontece com todos os SKUs.
+## Simulação
 
 
 
-Catalog VTEX
+Catálogo VTEX
 
  ![](https://vtexhelp.zendesk.com/attachments/token/zW9gC27dV1ymA8U5xinRWKc3s/?name=image.png)
 
 Aamazon
 
- ![](https://vtexhelp.zendesk.com/attachments/token/AaeVkm0lPS92TpMYhXfqkqa7g/?name=image.png)
-
-
-#### Workaround
+ ![](https://vtexhelp.zendesk.com/attachments/token/AaeVkm0lPS92TpMYhXfqkqa7g/?name=image.png
+## Workaround
 
 
 N/A
