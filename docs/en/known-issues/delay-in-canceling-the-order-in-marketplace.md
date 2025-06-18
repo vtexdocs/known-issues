@@ -17,11 +17,9 @@ internalReference: 1242813
 ## Summary
 
 
-This KI describes the scenario where the Marketplace or Fulfillment requests the cancellation of an order, this cancellation is accepted in fulfillment, however, it takes a few minutes to be completed in the Marketplace.
-This occurs because, in the cancellation flow, there are multiple writes of the order in S3 (database), changing the status from "cancel" to "canceled" and other cancellation information.
-The way the cancellation flow is implemented today, asynchronously without lock, this type of behavior can occur, and there may even be inconsistencies in the workflow interactions, where it may go to "canceled", but then return to "cancel" due to the lack of lock in the operations. In this case, this may affect the feed/hook, as there will be two notifications of the canceled status.
+This KI describes the scenario where the Marketplace or Fulfillment requests the cancellation of an order. This cancellation is accepted in fulfillment; however, it can take a few minutes or even longer in some cases for the status to be updated in the Marketplace. This delay occurs because there are multiples writes of the order in S3 (database) during the cancellation flow, changing the status from "cancel" to "canceled" and updating other cancellation information. Given the current implementation of the cancellation flow, which operates asynchronously without a lock, this behavior can occur, and inconsistencies might arise in the workflow interactions. For instance, the status may go to "canceled" but then revert to "cancel" due to the lack of locking in the operations. Consequently, this could affect the feed/hook since there would be two notifications of the canceled status.
 
-This scenario is not a big deal, because there are retries in the workflow that guarantee a certain consistency, however, it can take a while, close to 15 minutes.
+However, this scenario is rare and does not have a significant impact because there are retries in the workflow that ensure a certain level of consistency; nonetheless, it may take a while—for the information to be updated.
 
 
 #### Simulation
