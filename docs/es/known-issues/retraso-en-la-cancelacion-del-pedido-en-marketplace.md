@@ -19,14 +19,11 @@ internalReference: 1242813
 ## Sumario
 
 
-Este KI describe el escenario en el que el Marketplace o Fulfillment solicita la cancelación de un pedido, esta cancelación es aceptada en fulfillment, sin embargo, tarda unos minutos en completarse en el Marketplace.
-Esto ocurre porque, en el flujo de cancelación, hay múltiples escrituras del pedido en S3 (base de datos), cambiando el estado de "cancelado" a "cancelado" y otra información de cancelación.
-De la forma en que está implementado el flujo de cancelación hoy en día, de forma asíncrona sin bloqueo, se pueden producir este tipo de comportamientos, e incluso puede haber inconsistencias en las interacciones del flujo de trabajo, donde puede pasar a "cancelado", pero luego volver a "cancelado" debido a la falta de bloqueo en las operaciones. En este caso, esto puede afectar al feed/hook, ya que habrá dos notificaciones del estado cancelado.
+Este KI describe el escenario en el que el Marketplace o Fulfillment solicita la cancelación de un pedido. Esta cancelación es aceptada en fulfillment; sin embargo, puede tardar unos minutos o incluso más en algunos casos para que el estado se actualice en el Marketplace. Este retraso se produce porque hay múltiples escrituras del pedido en S3 (base de datos) durante el flujo de cancelación, cambiando el estado de "cancelado" a "cancelado" y actualizando otra información de la cancelación. Dada la implementación actual del flujo de cancelación, que opera de forma asíncrona sin bloqueo, este comportamiento puede ocurrir, y podrían surgir incoherencias en las interacciones del flujo de trabajo. Por ejemplo, el estado puede pasar a "cancelado" pero luego volver a "cancelar" debido a la falta de bloqueo en las operaciones. En consecuencia, esto podría afectar al feed/hook ya que habría dos notificaciones del estado cancelado.
 
-Este escenario no es un gran problema, porque hay reintentos en el flujo de trabajo que garantizan una cierta coherencia, sin embargo, puede tomar un tiempo, cerca de 15 minutos.
+Sin embargo, este escenario es poco frecuente y no tiene un impacto significativo porque hay reintentos en el flujo de trabajo que garantizan un cierto nivel de coherencia; no obstante, la información puede tardar un poco en actualizarse.
 
-
-#### Simulación
+## Simulación
 
 
 No es posible simular esta situación, ya que no siempre se produce.
@@ -35,6 +32,7 @@ No es posible simular esta situación, ya que no siempre se produce.
 
 
 No disponemos de una solución para este caso, por lo que es necesario reintentar el flujo de trabajo para corregir el estado.
+
 
 
 
