@@ -32,3 +32,4 @@ Não temos uma solução alternativa para esse cenário, portanto, a repetição
 
 
 
+
