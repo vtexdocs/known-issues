@@ -24,7 +24,7 @@ Ao solicitar um segundo reembolso parcial com o mesmo valor do primeiro, o gatew
     Message: O cartão-presente já foi reembolsado.
 
 
-Ou, se estiver solicitando um segundo cancelamento parcial com o mesmo valor do primeiro, o gateway retorna:
+Ou se estiver solicitando um segundo cancelamento parcial com o mesmo valor do primeiro, o gateway retorna:
 
     Mensagem: "O cartão-presente já foi cancelado"
 
@@ -38,11 +38,13 @@ Esse cenário é muito mais comum para o segundo reembolso/cancelamento com o me
 1. Faça uma compra exclusivamente com um cartão-presente (GC);
 2. Conclua a transação;
 3. Emitir um reembolso parcial de um valor menor que a metade do pagamento total;
-4. Solicitar outro reembolso no mesmo valor do primeiro
+4. Solicitar outro reembolso no mesmo valor do primeiro.
+
+
 ## Workaround
 
 
-Foi criado um sinalizador de recurso em que as contas adicionadas ignoram a parte que introduz esse bug.
-https://github.com/vtex/configs/blob/main/src/configs/payment-gateway/flags/gch-refund-condition.jsonnet
+Para casos de reembolso, abra um tíquete com o suporte para aplicar a solução interna.
+Para casos de cancelamento, cancele manualmente com seu provedor.
 
 
