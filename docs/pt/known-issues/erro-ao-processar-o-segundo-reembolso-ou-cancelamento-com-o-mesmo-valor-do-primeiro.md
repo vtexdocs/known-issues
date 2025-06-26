@@ -24,7 +24,7 @@ Ao solicitar um segundo reembolso parcial com o mesmo valor do primeiro, o gatew
     Message: O cartão-presente já foi reembolsado.
 
 
-Ou se estiver solicitando um segundo cancelamento parcial com o mesmo valor do primeiro, o gateway retorna:
+Ou, se estiver solicitando um segundo cancelamento parcial com o mesmo valor do primeiro, o gateway retorna:
 
     Mensagem: "O cartão-presente já foi cancelado"
 
