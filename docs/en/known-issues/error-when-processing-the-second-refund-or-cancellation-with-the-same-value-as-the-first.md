@@ -44,7 +44,7 @@ This scenario is much more common for the second refund/cancellation with the sa
 #### Workaround
 
 
-A feature flag was created where added accounts ignore the part that introduces this bug.
-https://github.com/vtex/configs/blob/main/src/configs/payment-gateway/flags/gch-refund-condition.jsonnet
+For refund cases, please open a ticket with support to apply the internal workaround.
+For cancellation cases, cancel manually with your provider.
 
 
