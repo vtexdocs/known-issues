@@ -17,32 +17,28 @@ internalReference: 1249934
 ## Summary
 
 
-In some cases of orders originating from the native flow between marketplace and seller, when the cancellation is initiated automatically by the system (e.g. payment failure or internal rules), the cancellation origin information may not be displayed correctly in the responses from the OMS Get Order and Orders APIs.
+Em alguns casos de pedidos originados pelo fluxo nativo entre **marketplace e seller**, quando o cancelamento é iniciado automaticamente pelo sistema (ex.: falha no pagamento ou regras internas), a **informação de origem do cancelamento pode não ser exibida corretamente** nas respostas das APIs `Get Order` do OMS e do Orders.
 
-The cancellationData field, which historically identifies the origin of the cancellation (such as requestedByPaymentNotification), may contain generic information - such as fulfillment - or may not display any details. This is due to the process of merging cancellation information between marketplace and seller, which can overwrite relevant data depending on the order of events.
+O campo `cancellationData`, que historicamente identifica a origem do cancelamento (como `requestedByPaymentNotification`), pode trazer informações genéricas — como `fulfillment` — ou não exibir detalhes. Isso ocorre devido ao processo de **merge das informações de cancelamento** entre marketplace e seller, que pode sobrescrever dados relevantes dependendo da ordem dos eventos.
 
 
 #### Simulation
 
 
 
-- Generate an order in an account with integration between seller and marketplace.
-
-- Simulate an automatic cancellation, for example, due to payment authorization failure.
-
-- Access the OMS Get Order API or Orders.
-
-- Note that the `cancellationData` field may not clearly indicate that the cancellation was made by the payment module.
-
-- If possible, compare it with the response from the SOS Orders API, where the origin usually appears correctly.
+- Gere um pedido em uma conta com integração entre **seller e marketplace**.
+- Simule um cancelamento automático, por exemplo, por **falha na autorização de pagamento**.
+- Acesse a API `Get Order` do OMS ou Orders.
+- Observe que o campo `cancellationData` pode não indicar claramente que o cancelamento foi feito pelo módulo de pagamentos.
+- Se possível, compare com a resposta da API de pedidos do **SOS**, onde a origem geralmente aparece de forma correta.
 
 
 #### Workaround
 
 
-Currently, in order to correctly identify the origin of the cancellation in affected cases, support from the internal team is required.
+Atualmente, para identificar corretamente a origem do cancelamento em casos afetados, é necessário o apoio da equipe interna.
 
-We recommend opening a ticket to manually analyze the logs and validate the actual origin of the cancellation.
+Recomenda-se **abrir um ticket** para análise manual dos logs e validação da origem real do cancelamento.
 
 
 
