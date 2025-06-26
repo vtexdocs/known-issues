@@ -2,8 +2,8 @@
 title: Customer domain not displayed on the IdP screen
 slug: customer-domain-not-displayed-on-the-idp-screen
 status: PUBLISHED
-createdAt: 
-updatedAt: 
+createdAt: 2025-06-26T21:58:56.115Z
+updatedAt: 2025-06-26T21:58:56.115Z
 contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
