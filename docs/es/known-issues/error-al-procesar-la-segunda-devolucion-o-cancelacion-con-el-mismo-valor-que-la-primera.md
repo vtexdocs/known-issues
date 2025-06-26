@@ -37,15 +37,15 @@ Este escenario es mucho más común para el segundo reembolso/cancelación con e
 
 
 
-1. Realiza una compra exclusivamente con una Tarjeta Regalo (CG);
+1. Realiza una compra exclusivamente con una tarjeta regalo (CG);
 2. 2. Finalice la transacción;
 3. Emitir un reembolso parcial por un importe inferior a la mitad del pago total;
 4. 4. Solicitar otro reembolso por el mismo importe que el primero.
 
 ## Workaround
 
-
-Se ha creado un indicador de función en el que las cuentas añadidas ignoran la parte que introduce este error.
-https://github.com/vtex/configs/blob/main/src/configs/payment-gateway/flags/gch-refund-condition.jsonnet
+ provisional
+Para los casos de reembolso, abra un ticket con soporte para aplicar la solución interna.
+Para casos de cancelación, cancele manualmente con su proveedor.
 
 
