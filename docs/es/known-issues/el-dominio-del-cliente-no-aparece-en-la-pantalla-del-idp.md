@@ -8,7 +8,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: customer-domain-is-not-displayed-on-the-idp-screen
+slugEN: customer-domain-not-displayed-on-the-idp-screen
 locale: es
 kiStatus: Backlog
 internalReference: 1250421
