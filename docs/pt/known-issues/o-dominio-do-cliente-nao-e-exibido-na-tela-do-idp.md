@@ -2,8 +2,8 @@
 title: O domínio do cliente não é exibido na tela do IdP
 slug: o-dominio-do-cliente-nao-e-exibido-na-tela-do-idp
 status: PUBLISHED
-createdAt: 
-updatedAt: 
+createdAt: 2025-06-26T21:58:47.876Z
+updatedAt: 2025-06-26T21:58:47.876Z
 contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
