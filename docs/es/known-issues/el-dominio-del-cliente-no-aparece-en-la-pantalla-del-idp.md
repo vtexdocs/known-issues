@@ -2,8 +2,8 @@
 title: El dominio del cliente no aparece en la pantalla del IdP
 slug: el-dominio-del-cliente-no-aparece-en-la-pantalla-del-idp
 status: PUBLISHED
-createdAt: 
-updatedAt: 
+createdAt: 2025-06-26T21:59:02.267Z
+updatedAt: 2025-06-26T21:59:02.267Z
 contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
