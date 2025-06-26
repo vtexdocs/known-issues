@@ -2,8 +2,8 @@
 title: Amazon Código de erro 13013 ao enviar um produto para o Amazon marketplace
 slug: amazon-codigo-de-erro-13013-ao-enviar-um-produto-para-o-amazon-marketplace
 status: PUBLISHED
-createdAt: 2017-10-25T21:16:58.154Z
-updatedAt: 2019-12-31T15:13:38.602Z
+createdAt: 2025-06-26T22:09:59.769Z
+updatedAt: 2025-06-26T22:09:59.769Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
