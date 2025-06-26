@@ -1,5 +1,5 @@
 ---
-title: [Amazon] Error Code 13013 while sending product to Amazon marketplace
+title: Amazon Error Code 13013 while sending product to Amazon marketplace
 slug: amazon-error-code-13013-while-sending-product-to-amazon-marketplace
 status: PUBLISHED
 createdAt: 2017-10-25T21:16:58.154Z
