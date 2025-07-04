@@ -2,8 +2,8 @@
 title: Exportação lenta da tabela de preços para contas com catálogos grandes
 slug: exportacao-lenta-da-tabela-de-precos-para-contas-com-catalogos-grandes
 status: PUBLISHED
-createdAt: 2025-07-03T14:09:58.499Z
-updatedAt: 2025-07-03T14:09:58.499Z
+createdAt: 2025-07-04T18:29:18.247Z
+updatedAt: 2025-07-04T18:29:18.247Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
