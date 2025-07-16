@@ -2,15 +2,15 @@
 title: O botão "excluir" da interface do usuário do catálogo legado não funciona
 slug: o-botao-excluir-da-interface-do-usuario-do-catalogo-legado-nao-funciona
 status: PUBLISHED
-createdAt: 2025-07-16T12:51:36.652Z
-updatedAt: 2025-07-16T12:51:36.652Z
+createdAt: 2025-07-16T12:54:37.298Z
+updatedAt: 2025-07-16T12:54:37.298Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: legacy-catalog-ui-delete-button-not-functional
 locale: pt
-kiStatus: No Fix
+kiStatus: Fixed
 internalReference: 326408
 ---
 
