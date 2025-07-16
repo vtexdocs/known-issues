@@ -2,15 +2,15 @@
 title: El botón "eliminar" de la interfaz de usuario del catálogo heredado no funciona
 slug: el-boton-eliminar-de-la-interfaz-de-usuario-del-catalogo-heredado-no-funciona
 status: PUBLISHED
-createdAt: 2025-07-16T12:51:50.024Z
-updatedAt: 2025-07-16T12:51:50.024Z
+createdAt: 2025-07-16T12:54:52.530Z
+updatedAt: 2025-07-16T12:54:52.530Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: legacy-catalog-ui-delete-button-not-functional
 locale: es
-kiStatus: No Fix
+kiStatus: Fixed
 internalReference: 326408
 ---
 
