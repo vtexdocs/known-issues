@@ -1,5 +1,5 @@
 ---
-title: "Error listing workspace dependencies" when trying to access an account
+title: '"Error listing workspace dependencies" when trying to access an account'
 slug: error-listing-workspace-dependencies-when-trying-to-access-an-account
 status: PUBLISHED
 createdAt: 2025-07-16T13:57:47.670Z
