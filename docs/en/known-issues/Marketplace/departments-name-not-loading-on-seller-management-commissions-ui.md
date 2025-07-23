@@ -1,35 +1,47 @@
 ---
-title: Department's name not loading on seller management commissions UI
-slug: departments-name-not-loading-on-seller-management-commissions-ui
+title: "Department's name not loading on seller management commissions UI"
+id: 5TkKtfYi5oFxNOk0mTTeiQ
 status: PUBLISHED
-createdAt: 2025-07-10T14:19:23.970Z
-updatedAt: 2025-07-10T14:19:23.970Z
+createdAt: 2024-03-25T17:20:22.888Z
+updatedAt: 2024-03-25T17:20:23.761Z
+publishedAt: 2024-03-25T17:20:23.761Z
+firstPublishedAt: 2024-03-25T17:20:23.761Z
 contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slugEN: departments-name-not-loading-on-seller-management-commissions-ui
 locale: en
-kiStatus: Fixed
+kiStatus: Backlog
 internalReference: 1005799
 ---
 
 ## Summary
 
 
-The adjustments have been finalized
+When selecting a department to set a specific commission on the seller management the table is not loading the department's name. The behavior does not happen for child categories.
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/departments-name-not-loading-on-seller-management-commissions-ui_1.png)
 
 
-#### Simulation
+##
+
+## Simulation
 
 
-Describe here what steps are needed to reproduce this behavior. Be careful not to expose confidential information, such as images or attachments.
+
+1. Enable the toggle "Add commissions by category"
+2. Select a department to map the commissions and save the seller
+3. Check that the UI is not loading the department name.
 
 
-#### Workaround
+##
+
+## Workaround
 
 
-The fix is not retroactive, the user needs to save the category configuration again for it to work properly, as only then the category name will be fetched and populated."
+N/A
+
+
 
 
 

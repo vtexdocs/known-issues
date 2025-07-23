@@ -1,16 +1,18 @@
 ---
-title: Legacy Catalog UI "delete" button not functional
-slug: legacy-catalog-ui-delete-button-not-functional
+title: "Legacy Catalog UI 'delete' button not functional"
+id: 2soNSJfiQMZcxlpW6jT2FR
 status: PUBLISHED
-createdAt: 2025-07-16T12:54:47.859Z
-updatedAt: 2025-07-16T12:54:47.859Z
+createdAt: 2022-01-23T02:51:17.884Z
+updatedAt: 2024-05-21T16:03:51.417Z
+publishedAt: 2024-05-21T16:03:51.417Z
+firstPublishedAt: 2024-05-21T16:03:51.417Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: legacy-catalog-ui-delete-button-not-functional
 locale: en
-kiStatus: Fixed
+kiStatus: Backlog
 internalReference: 326408
 ---
 
@@ -19,12 +21,14 @@ internalReference: 326408
 
 The button to delete products on the catalog is not working, it simply doesn't recognize any user clicks
 
- ![](https://vtexhelp.zendesk.com/attachments/token/ZR7ogOzhfLN3yC61V9RzTMRlZ/?name=inline-652081372.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/legacy-catalog-ui-delete-button-not-functional_1.png)
 
 This action might work if the product was just created and no skus, images or any other kind of data is associated with it.
 
 
-#### Simulation
+##
+
+## Simulation
 
 
 - Go to the catalog main page;
@@ -33,9 +37,13 @@ This action might work if the product was just created and no skus, images or an
 
 
 
-#### Workaround
+##
+
+## Workaround
 
 
 There is no way to delete only a single product, only the entire base. To achieve the same result as a deletion, try replacing this product with data you'd already use for a new product anyway.
+
+
 
 

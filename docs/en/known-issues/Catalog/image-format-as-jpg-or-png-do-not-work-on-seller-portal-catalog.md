@@ -1,16 +1,18 @@
 ---
-title: Image format as JPG or PNG do not work on seller portal catalog
-slug: image-format-as-jpg-or-png-do-not-work-on-seller-portal-catalog
+title: 'Image format as JPG or PNG do not work on seller portal catalog'
+id: 19s9bGcpNsOkIkA0iGkWRi
 status: PUBLISHED
-createdAt: 2025-07-08T20:19:53.276Z
-updatedAt: 2025-07-08T20:19:53.276Z
+createdAt: 2024-04-22T12:41:43.272Z
+updatedAt: 2024-04-22T12:41:44.252Z
+publishedAt: 2024-04-22T12:41:44.252Z
+firstPublishedAt: 2024-04-22T12:41:44.252Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: image-format-as-jpg-or-png-do-not-work-on-seller-portal-catalog
 locale: en
-kiStatus: Fixed
+kiStatus: Backlog
 internalReference: 1020505
 ---
 
@@ -20,7 +22,9 @@ internalReference: 1020505
 When trying to create a product with a image format set as JPG or PNG, the product is created with a broken image. This behavior does not happen if the format is set like jpg or png (no capslock).
 
 
-#### Simulation
+##
+
+## Simulation
 
 
 
@@ -30,10 +34,14 @@ When trying to create a product with a image format set as JPG or PNG, the produ
 4. Check that the image is broken on the UI if you open the created product.
 
 
-#### Workaround
+##
+
+## Workaround
 
 
 Import images with format jpg or png (lowercase).
+
+
 
 
 

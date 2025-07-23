@@ -1,9 +1,11 @@
 ---
-title: OrderForm not updating due to Faststore/secure environment out of sync
-slug: orderform-not-updating-due-to-faststoresecure-environment-out-of-sync
+title: 'OrderForm not updating due to Faststore/secure environment out of sync'
+id: 4Xkk9LA95PRXbKxFYy189f
 status: PUBLISHED
-createdAt: 2025-07-08T18:00:38.279Z
-updatedAt: 2025-07-08T18:00:38.279Z
+createdAt: 2024-06-27T15:22:19.922Z
+updatedAt: 2024-10-30T16:04:56.063Z
+publishedAt: 2024-10-30T16:04:56.063Z
+firstPublishedAt: 2024-06-27T15:22:20.951Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
@@ -24,7 +26,9 @@ This issue may be related to the delay in updating the orderFormId due to change
 After the gatewayCallback response, the expected scenario would be a new orderFormId cookie for the user. This scenario is broken because the domain of the new cookie does not match the domain of the user's previous cookie (because of the secure domain).
 
 
-#### Simulation
+##
+
+## Simulation
 
 
 
@@ -33,11 +37,14 @@ After the gatewayCallback response, the expected scenario would be a new orderFo
 - The items that you just bought will remain in your cart
 
 
-#### Workaround
+##
+
+## Workaround
 
 
-This issue still impacts stores using the v1 version of Faststore.
+N/A
 
-For stores using v3 that are with our CLI updated, the solution is to update to the domain unification feature, so this issue will be solved. You can open a support ticket asking for this feature.
+
+
 
 
