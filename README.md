@@ -18,7 +18,7 @@ README.md            # This file
 LICENSE              # License information
 ```
 
-Each language folder under `docs/` contains Markdown files for known issues in that language, divided in subfolders by product team. English is the primary language, and Spanish and Portuguese are generated via automated translation using  [DeepL API](https://www.deepl.com/en/products/api).
+Each language folder under `docs/` contains Markdown files for known issues in that language, divided in subfolders by product team. English is the primary language, and Spanish and Portuguese are generated via automated translation using [DeepL API](https://www.deepl.com/en/products/api).
 
 ## Integration with Help Center
 
@@ -29,6 +29,8 @@ For each change saved on Zendesk, a Slack thread is created on `#known-issues-fe
 ## Creating a Known Issue (for VTEX Product Support)
 
 Only the VTEX Product Support team can create Known Issues. To do so, click on **Product > KI > Register a New Known Issue** in Zendesk.
+
+>⚠️ Don't create any known issues in the repository.
 
 ![register ki](https://github.com/vtexdocs/known-issues/blob/main/public/images/register-ki.png)
 
@@ -91,3 +93,4 @@ You must fill it in with information about the Known Issue, replacing the placeh
 - Don’t use confidential information or screenshots from VTEX clients’ stores on your Known Issue. You can only include sensitive data from our clients on the Internal Notes section.
 - Don’t delete **[KI]** from the title.
 - Don't add special characters such as `:`, `'`, or `"` to the title.
+- Don't add numbers in numeral form to the title.
