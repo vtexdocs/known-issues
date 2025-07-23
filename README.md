@@ -4,11 +4,31 @@ Each time someone from VTEX Product Support creates or updates a public Known Is
 
 ![ki-flow](https://github.com/vtexdocs/known-issues/blob/main/public/images/ki-flow.png)
 
+## Repository structure
+
+This repository is organized to support multilingual documentation and seamless integration with VTEX Help Center. The main structure is as follows:
+
+```
+docs/
+  en/known-issues/   # English Known Issue markdown files (original)
+  es/known-issues/   # Spanish translations
+  pt/known-issues/   # Portuguese translations
+public/images/       # Images used in the README.md file
+README.md            # This file
+LICENSE              # License information
+```
+
+Each language folder under `docs/` contains Markdown files for known issues in that language, divided in subfolders by product team. English is the primary language, and Spanish and Portuguese are generated via automated translation using  [DeepL API](https://www.deepl.com/en/products/api).
+
+## Integration with Help Center
+
+This repository is integrated with the [Help Center repository](https://github.com/vtexdocs/helpcenter). When a Known Issue is created or updated in Zendesk, the content is automatically translated and published to the Help Center via this integration. This ensures that all public Known Issues are available and up-to-date in multiple languages for VTEX users.
+
 For each change saved on Zendesk, a Slack thread is created on `#known-issues-feed`. There, you can keep track of the publication status. For more details on this process, check the **Dos & Don'ts** section.
 
-## Creating a Known Issue
+## Creating a Known Issue (for VTEX Product Support)
 
-When the Product Support team identifies an issue, you can create a Known Issue attached to it. To do so, click on **Product > KI > Register a New Known Issue**.
+Only the VTEX Product Support team can create Known Issues. To do so, click on **Product > KI > Register a New Known Issue** in Zendesk.
 
 ![register ki](https://github.com/vtexdocs/known-issues/blob/main/public/images/register-ki.png)
 
@@ -59,7 +79,7 @@ You must fill it in with information about the Known Issue, replacing the placeh
 - Always follow [markdown syntax](https://www.markdownguide.org/cheat-sheet/). You can use tools like [Markdown Live Preview](https://markdownlivepreview.com/) to test the final result.
 - Write detailed descriptions to the Known Issue fields. That way, the Known Issue will be more understandable for the users.
 - Check #known-issues-feed on Slack each time you create or update a public Known Issue, to see if the publication worked properly.
-- Add internal comments in the Internal Notes section, if necessary. The content in this section (more specifically, below the horizontal bar) will not be published on Help Center.
+- Add internal comments in the **Internal Notes** section, if necessary. The content in this section (more specifically, below the horizontal bar) will not be published on Help Center.
 - Whenever possible, make the Known Issue public. Make sure it doesn’t have sensitive information.
 
 ## ❌ Don'ts
@@ -70,3 +90,4 @@ You must fill it in with information about the Known Issue, replacing the placeh
 - Don’t write internal comments outside the Internal Notes section.
 - Don’t use confidential information or screenshots from VTEX clients’ stores on your Known Issue. You can only include sensitive data from our clients on the Internal Notes section.
 - Don’t delete **[KI]** from the title.
+- Don't add special characters such as `:`, `'`, or `"` to the title.
