@@ -2,8 +2,8 @@
 title: A promoção se aplica a todos os SLAs em vez de apenas ao método de envio selecionado
 slug: a-promocao-se-aplica-a-todos-os-slas-em-vez-de-apenas-ao-metodo-de-envio-selecionado
 status: PUBLISHED
-createdAt: 2025-07-24T18:01:34.457Z
-updatedAt: 2025-07-24T18:01:34.457Z
+createdAt: 2025-07-24T18:03:01.185Z
+updatedAt: 2025-07-24T18:03:01.185Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
