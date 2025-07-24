@@ -2,8 +2,8 @@
 title: El indexador de catálogos genera documentos de traducción no válidos
 slug: el-indexador-de-catalogos-genera-documentos-de-traduccion-no-validos
 status: PUBLISHED
-createdAt: 2025-07-23T22:24:35.255Z
-updatedAt: 2025-07-23T22:24:35.255Z
+createdAt: 2025-07-24T17:50:59.045Z
+updatedAt: 2025-07-24T17:50:59.045Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -33,4 +33,5 @@ No hay una manera fácil de reproducir este escenario, pero las cuentas con much
 
 
 N/A
+
 
