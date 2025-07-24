@@ -22,6 +22,7 @@ internalReference: 991494
 Ao indexar um produto com informações traduzidas, o aplicativo Messages é consultado. Essas solicitações devem ter menos de 3s e, quando demoram mais do que isso, a indexação falha e gera um documento de tradução inválido.
 
 Esse cenário gerará erros no histórico de indexação com a mensagem "translations is smaller than context".
+
 ## Simulação
 
 
