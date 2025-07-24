@@ -1,28 +1,32 @@
 ---
-title: Los formatos de imagen JPG o PNG no funcionan en el catálogo del portal del vendedor.
-slug: los-formatos-de-imagen-jpg-o-png-no-funcionan-en-el-catalogo-del-portal-del-vendedor
+title: 'Los formatos de imagen JPG o PNG no funcionan en el catálogo del portal del vendedor.'
+id: 19s9bGcpNsOkIkA0iGkWRi
 status: PUBLISHED
-createdAt: 2025-07-08T20:20:01.417Z
-updatedAt: 2025-07-08T20:20:01.417Z
+createdAt: 2024-04-22T12:41:43.272Z
+updatedAt: 2024-04-22T12:41:44.252Z
+publishedAt: 2024-04-22T12:41:44.252Z
+firstPublishedAt: 2024-04-22T12:41:44.252Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: image-format-as-jpg-or-png-do-not-work-on-seller-portal-catalog
 locale: es
-kiStatus: Fixed
+kiStatus: Backlog
 internalReference: 1020505
 ---
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
-
 ## Sumario
+
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al intentar crear un producto con un formato de imagen establecido como JPG o PNG, el producto se crea con una imagen rota. Este comportamiento no ocurre si el formato se establece como jpg o png (sin capslock).
 
 
-#### Simulación
+##
+
+## Simulación
 
 
 
@@ -31,10 +35,14 @@ Al intentar crear un producto con un formato de imagen establecido como JPG o PN
 3. Guardar el producto
 4. Compruebe que la imagen se rompe en la interfaz de usuario si abre el producto creado.
 
+
+
 ## Workaround
 
 
 Importe imágenes con formato jpg o png (minúsculas).
+
+
 
 
 
