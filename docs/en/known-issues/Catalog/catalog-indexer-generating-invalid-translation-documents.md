@@ -2,8 +2,8 @@
 title: Catalog indexer generating invalid translation documents
 slug: catalog-indexer-generating-invalid-translation-documents
 status: PUBLISHED
-createdAt: 2025-07-23T22:24:33.245Z
-updatedAt: 2025-07-23T22:24:33.245Z
+createdAt: 2025-07-24T17:50:50.631Z
+updatedAt: 2025-07-24T17:50:50.631Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -32,4 +32,5 @@ There is no easy way to reproduce this scenario, but accounts with a lot of lang
 
 
 N/A
+
 
