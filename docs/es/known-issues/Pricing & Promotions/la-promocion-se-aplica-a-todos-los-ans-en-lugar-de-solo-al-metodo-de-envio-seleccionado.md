@@ -2,8 +2,8 @@
 title: La promoción se aplica a todos los ANS en lugar de sólo al método de envío seleccionado
 slug: la-promocion-se-aplica-a-todos-los-ans-en-lugar-de-solo-al-metodo-de-envio-seleccionado
 status: PUBLISHED
-createdAt: 2025-07-24T12:50:41.735Z
-updatedAt: 2025-07-24T12:50:41.735Z
+createdAt: 2025-07-24T18:01:51.335Z
+updatedAt: 2025-07-24T18:01:51.335Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
