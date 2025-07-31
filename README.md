@@ -2,7 +2,7 @@
 
 Each time someone from VTEX Product Support creates or updates a public Known Issue on Zendesk, this triggers an integration that automatically translates the content to Spanish and Portuguese and then publishes or updates it on Help Center. Check the diagram below for an overview of how the integration flow works.
 
-![ki-flow](https://github.com/vtexdocs/known-issues/blob/main/public/images/ki-flow.png)
+![ki-flow-github](https://github.com/vtexdocs/known-issues/blob/main/public/images/ki-flow-github.png)
 
 ## Repository structure
 
