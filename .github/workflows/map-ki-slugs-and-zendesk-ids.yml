@@ -1,0 +1,50 @@
+name: Map Known Issue slugs and Zendesk IDs
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    types: [closed]
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  map-ki-slugs-and-zendesk-ids:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest changes
+        run: git pull
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+          cache: 'npm'
+    
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Set Git identity
+        run: |
+          git config user.name "vtex-known-issues[bot]"
+          git config user.email "213649991+vtex-known-issues[bot]@users.noreply.github.com"
+
+      - name: Run script to map slugs and Zendesk IDs
+        run: |
+          node .github/scripts/map-ki-slugs-and-zendesk-ids.js
+        continue-on-error: false
+
+      - name: Commit and push if there are changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add .
+            git commit -m "update: KI slugs and Zendesk IDs mapping"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
