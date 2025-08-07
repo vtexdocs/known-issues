@@ -1,0 +1,45 @@
+---
+title: Los sinónimos acentuados pueden no devolver productos en lenguas secundarias
+slug: los-sinonimos-acentuados-pueden-no-devolver-productos-en-lenguas-secundarias
+status: PUBLISHED
+createdAt: 2025-08-07T20:39:04.710Z
+updatedAt: 2025-08-07T20:39:04.710Z
+contentType: knownIssue
+productTeam: Intelligent Search
+author: 2mXZkbi0oi061KicTExNjo
+tag: Intelligent Search
+slugEN: accented-synonyms-may-not-return-products-in-secondary-languages
+locale: es
+kiStatus: Backlog
+internalReference: 1268282
+---
+
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
+
+
+Durante la indexación, la Búsqueda Inteligente aplica la normalización a los términos sinónimos, pero no normaliza los nombres de productos en idiomas secundarios al buscar esos sinónimos.
+
+Debido a este desajuste, es posible que los sinónimos no coincidan con los nombres de productos en idiomas no primarios, y que los productos afectados no aparezcan en los resultados de la búsqueda.
+
+Idiomas afectados:
+
+- `ca-ES` - catalán
+
+
+#### Simulación
+
+
+Siga los pasos que se indican a continuación para simular el escenario:
+1 - Crear un sinónimo con acentos en la configuración regional afectada.
+2 - Una vez reindexado el producto (**Admin** > **Historial de indexación**), busque los productos que contengan los sinónimos buscados.
+
+El resultado no recupera los productos esperados cuando los términos originales del nombre del producto tienen acentos.
+
+## Workaround
+
+
+N/A
+
+
