@@ -2,8 +2,8 @@
 title: Orders stuck in completed/on-order-completed status in fulfillment or Approved Payment status in Marketplace
 slug: orders-stuck-in-completedonordercompleted-status-in-fulfillment-or-approved-payment-status-in-marketplace
 status: PUBLISHED
-createdAt: 2025-08-07T20:24:31.611Z
-updatedAt: 2025-08-07T20:24:31.611Z
+createdAt: 2025-08-07T20:26:29.774Z
+updatedAt: 2025-08-07T20:26:29.774Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -17,7 +17,7 @@ internalReference: 1218615
 ## Summary
 
 
-In some cases, an order may get stuck in its initial statuses (`approve-payment` or `on-order-completed-ffm` or `processing`) even after being seemingly created successfully, this happens when one of the internal steps in the order creation flow fails silently, causing a **workflow desynchronization** that prevents the order from progressing normally.
+In some cases, an order may get stuck in its initial statuses (`approve-payment`, `on-order-completed-ffm`, `on-order-completed` Or `processing`) even after being seemingly created successfully, this happens when one of the internal steps in the order creation flow fails silently, causing a **workflow desynchronization** that prevents the order from progressing normally.
 
 
 
