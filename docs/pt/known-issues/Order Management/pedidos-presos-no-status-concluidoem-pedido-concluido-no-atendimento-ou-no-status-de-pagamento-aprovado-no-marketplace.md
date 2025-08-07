@@ -2,8 +2,8 @@
 title: Pedidos presos no status concluído/em pedido concluído no atendimento ou no status de pagamento aprovado no Marketplace
 slug: pedidos-presos-no-status-concluidoem-pedido-concluido-no-atendimento-ou-no-status-de-pagamento-aprovado-no-marketplace
 status: PUBLISHED
-createdAt: 2025-08-07T20:24:22.671Z
-updatedAt: 2025-08-07T20:24:22.671Z
+createdAt: 2025-08-07T20:26:19.839Z
+updatedAt: 2025-08-07T20:26:19.839Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,7 +19,7 @@ internalReference: 1218615
 ## Sumário
 
 
-Em alguns casos, um pedido pode ficar preso em seus status iniciais (`approve-payment` ou `on-order-completed-ffm` ou `processing`), mesmo depois de ter sido aparentemente criado com sucesso. Isso acontece quando uma das etapas internas do fluxo de criação do pedido falha silenciosamente, causando uma ** dessincronização do fluxo de trabalho** que impede que o pedido progrida normalmente.
+Em alguns casos, um pedido pode ficar preso em seus status iniciais (`approve-payment`, `on-order-completed-ffm`, `on-order-completed` ou `processing`), mesmo depois de ter sido aparentemente criado com sucesso. Isso acontece quando uma das etapas internas no fluxo de criação do pedido falha silenciosamente, causando uma ** dessincronização do fluxo de trabalho** que impede que o pedido progrida normalmente.
 
 ## Simulação
 
