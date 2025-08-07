@@ -4491,7 +4491,7 @@
   },
   {
     "locale": "en",
-    "slug": "orders-stuck-in-completedonordercompleted-status-in-fulfillment-or-approved-payment-status-in-marketplace",
+    "slug": "orders-stuck-in-completed-with-onordercompleted-status-in-fulfillment-and-approved-payment-status-in-marketplace",
     "internalReference": 1218615
   },
   {
@@ -11536,7 +11536,7 @@
   },
   {
     "locale": "es",
-    "slug": "pedidos-atascados-en-estado-completadoen-curso-de-pedido-completado-en-fulfillment-o-estado-de-pago-aprobado-en-marketplace",
+    "slug": "pedidos-atascados-en-completado-con-el-estado-en-orden-completado-en-cumplimiento-y-el-estado-de-pago-aprobado-en-el-mercado",
     "internalReference": 1218615
   },
   {
@@ -18476,7 +18476,7 @@
   },
   {
     "locale": "pt",
-    "slug": "pedidos-presos-no-status-concluidoem-pedido-concluido-no-atendimento-ou-no-status-de-pagamento-aprovado-no-marketplace",
+    "slug": "pedidos-presos-em-concluidos-com-status-de-pedido-concluido-no-atendimento-e-status-de-pagamento-aprovado-no-marketplace",
     "internalReference": 1218615
   },
   {
