@@ -3381,6 +3381,11 @@
   },
   {
     "locale": "en",
+    "slug": "accented-synonyms-may-not-return-products-in-secondary-languages",
+    "internalReference": 1268282
+  },
+  {
+    "locale": "en",
     "slug": "accounts-with-on-the-name-dont-have-metrics-on-search-report",
     "internalReference": 793570
   },
@@ -10591,6 +10596,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-sinonimos-acentuados-pueden-no-devolver-productos-en-lenguas-secundarias",
+    "internalReference": 1268282
+  },
+  {
+    "locale": "es",
     "slug": "los-sinonimos-importan-presentar-el-exito-incluso-para-las-acciones-fallidas",
     "internalReference": 984557
   },
@@ -17588,6 +17598,11 @@
     "locale": "pt",
     "slug": "regras-de-visual-merchandising-que-alteram-produtos-inesperados-devido-a-ids-conflitantes",
     "internalReference": 1092750
+  },
+  {
+    "locale": "pt",
+    "slug": "sinonimos-acentuados-podem-nao-retornar-produtos-em-idiomas-secundarios",
+    "internalReference": 1268282
   },
   {
     "locale": "pt",
