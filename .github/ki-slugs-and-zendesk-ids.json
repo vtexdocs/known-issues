@@ -3311,6 +3311,11 @@
   },
   {
     "locale": "en",
+    "slug": "2fa-sms-sent-by-vtex-appears-as-likely-scam-to-users-in-ireland",
+    "internalReference": 1268097
+  },
+  {
+    "locale": "en",
     "slug": "cookie-broken-the-apisessions",
     "internalReference": 779014
   },
@@ -10218,6 +10223,11 @@
     "locale": "es",
     "slug": "el-restablecimiento-de-la-orden-no-cierra-la-sesion-de-otras-personas",
     "internalReference": 530461
+  },
+  {
+    "locale": "es",
+    "slug": "el-sms-de-2fa-enviado-por-vtex-aparece-como-probable-estafa-a-los-usuarios-de-irlanda",
+    "internalReference": 1268097
   },
   {
     "locale": "es",
@@ -17153,6 +17163,11 @@
     "locale": "pt",
     "slug": "problema-com-apis-de-sessao-usando-propriedades-publicas-que-comecam-com-o-mesmo-prefixo",
     "internalReference": 885011
+  },
+  {
+    "locale": "pt",
+    "slug": "sms-2fa-enviado-pela-vtex-aparece-como-provavel-golpe-para-usuarios-na-irlanda",
+    "internalReference": 1268097
   },
   {
     "locale": "pt",
