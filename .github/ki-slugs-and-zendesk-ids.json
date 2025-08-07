@@ -4471,6 +4471,11 @@
   },
   {
     "locale": "en",
+    "slug": "orders-stuck-in-completedonordercompleted-status-in-fulfillment-or-approved-payment-status-in-marketplace",
+    "internalReference": 1218615
+  },
+  {
+    "locale": "en",
     "slug": "orders-with-a-creation-error-remain-stuck-in-a-cancel-status",
     "internalReference": 1089344
   },
@@ -11491,6 +11496,11 @@
   },
   {
     "locale": "es",
+    "slug": "pedidos-atascados-en-estado-completadoen-curso-de-pedido-completado-en-fulfillment-o-estado-de-pago-aprobado-en-marketplace",
+    "internalReference": 1218615
+  },
+  {
+    "locale": "es",
     "slug": "pedidos-con-kit-en-newui-se-esta-mostrando-el-id-del-kit-donde-deberia-mostrar-el-id-de-la-sku",
     "internalReference": 618388
   },
@@ -18403,6 +18413,11 @@
     "locale": "pt",
     "slug": "pedidos-com-vendedores-de-mudanca-executados-nao-estao-respeitando-o-periodo-de-carencia-de-cancelamento",
     "internalReference": 656815
+  },
+  {
+    "locale": "pt",
+    "slug": "pedidos-presos-no-status-concluidoem-pedido-concluido-no-atendimento-ou-no-status-de-pagamento-aprovado-no-marketplace",
+    "internalReference": 1218615
   },
   {
     "locale": "pt",
