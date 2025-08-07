@@ -4016,6 +4016,11 @@
   },
   {
     "locale": "en",
+    "slug": "warehouse-prioritization-is-not-deterministic-during-shipping-simulation",
+    "internalReference": 1268196
+  },
+  {
+    "locale": "en",
     "slug": "error-importing-product-image-spreadsheet",
     "internalReference": 697200
   },
@@ -10823,6 +10828,11 @@
     "locale": "es",
     "slug": "la-politica-de-envios-bloqueada-en-estado-de-tramitacion-se-muestra-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica",
     "internalReference": 925914
+  },
+  {
+    "locale": "es",
+    "slug": "la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio",
+    "internalReference": 1268196
   },
   {
     "locale": "es",
@@ -17643,6 +17653,11 @@
     "locale": "pt",
     "slug": "a-priorizacao-de-rotas-nao-oferece-a-melhor-opcao-em-termos-de-quantidade-de-pacotes-e-itens",
     "internalReference": 927747
+  },
+  {
+    "locale": "pt",
+    "slug": "a-priorizacao-do-armazem-nao-e-deterministica-durante-a-simulacao-de-expedicao",
+    "internalReference": 1268196
   },
   {
     "locale": "pt",
