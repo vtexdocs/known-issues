@@ -2,8 +2,8 @@
 title: Pedidos atascados en estado completado/en curso de pedido completado en fulfillment o estado de pago aprobado en Marketplace.
 slug: pedidos-atascados-en-estado-completadoen-curso-de-pedido-completado-en-fulfillment-o-estado-de-pago-aprobado-en-marketplace
 status: PUBLISHED
-createdAt: 2025-08-07T20:24:37.139Z
-updatedAt: 2025-08-07T20:24:37.139Z
+createdAt: 2025-08-07T20:26:35.489Z
+updatedAt: 2025-08-07T20:26:35.489Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,7 +19,7 @@ internalReference: 1218615
 ## Sumario
 
 
-En algunos casos, un pedido puede quedarse atascado en sus estados iniciales (`aprobar-pago` o `en-pedido-completado-ffm` o `procesando`) incluso después de haber sido aparentemente creado con éxito, esto ocurre cuando uno de los pasos internos en el flujo de creación del pedido falla silenciosamente, causando una **desincronización del flujo de trabajo** que impide que el pedido progrese con normalidad.
+En algunos casos, un pedido puede quedarse atascado en sus estados iniciales (`aprobar-pago`, `en-pedido-completado-ffm`, `en-pedido-completado` o `procesando`) incluso después de haber sido aparentemente creado con éxito, esto ocurre cuando uno de los pasos internos del flujo de creación del pedido falla silenciosamente, causando una **desincronización del flujo de trabajo** que impide que el pedido progrese con normalidad.
 
 
 
