@@ -311,6 +311,11 @@
   },
   {
     "locale": "en",
+    "slug": "hcms-generate-a-blank-page-in-some-releases",
+    "internalReference": 1251216
+  },
+  {
+    "locale": "en",
     "slug": "hcms-presents-issues-when-trying-to-publish-huge-amount-of-content",
     "internalReference": 1262405
   },
@@ -14148,6 +14153,11 @@
     "locale": "pt",
     "slug": "o-hcms-apresenta-problemas-ao-tentar-publicar-uma-grande-quantidade-de-conteudo",
     "internalReference": 1262405
+  },
+  {
+    "locale": "pt",
+    "slug": "o-hcms-gera-uma-pagina-em-branco-em-algumas-versoes",
+    "internalReference": 1251216
   },
   {
     "locale": "pt",
