@@ -2,8 +2,8 @@
 title: El SMS de 2FA enviado por VTEX aparece como "probable estafa" a los usuarios de Irlanda
 slug: el-sms-de-2fa-enviado-por-vtex-aparece-como-probable-estafa-a-los-usuarios-de-irlanda
 status: PUBLISHED
-createdAt: 2025-08-07T20:27:21.698Z
-updatedAt: 2025-08-07T20:27:21.698Z
+createdAt: 2025-08-08T21:09:46.316Z
+updatedAt: 2025-08-08T21:09:46.316Z
 contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
@@ -24,5 +24,16 @@ Los mensajes SMS 2FA de VTEX están marcados como "probable estafa" en Irlanda p
 
 #### Simulación
 
+
+
+- Configurar la autenticación 2FA por SMS para los usuarios de VTEX Admin con un número de teléfono en Irlanda;
+- Solicitar un inicio de sesión 2FA;
+- Observe que el SMS recibido será marcado por el proveedor local (operadores de telefonía móvil en Irlanda) como "probable estafa" debido a la ausencia del registro de ID de remitente de VTEX con ComReg.
+
 ## Workaround
+
+ provisional
+No hay ninguna solución disponible.
+
+
 
