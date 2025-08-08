@@ -2,8 +2,8 @@
 title: view_cart event is intermittently triggered twice when adding items to the minicart
 slug: viewcart-event-is-intermittently-triggered-twice-when-adding-items-to-the-minicart
 status: PUBLISHED
-createdAt: 2025-08-08T17:26:40.574Z
-updatedAt: 2025-08-08T17:26:40.574Z
+createdAt: 2025-08-08T17:31:13.331Z
+updatedAt: 2025-08-08T17:31:13.331Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
