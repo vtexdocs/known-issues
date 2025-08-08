@@ -2,8 +2,8 @@
 title: Os filtros de especificação de SKU não são carregados quando a SKU está disponível apenas em um vendedor Whitelabel
 slug: os-filtros-de-especificacao-de-sku-nao-sao-carregados-quando-a-sku-esta-disponivel-apenas-em-um-vendedor-whitelabel
 status: PUBLISHED
-createdAt: 2025-08-08T15:39:20.716Z
-updatedAt: 2025-08-08T15:39:20.716Z
+createdAt: 2025-08-08T21:06:44.222Z
+updatedAt: 2025-08-08T21:06:44.222Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
