@@ -28,7 +28,7 @@ When trying to import a spreadsheet, the user receives a generic error, such as:
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/marketplace-netwok-improve-error-when-importing-mapping-spreadsheet_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Connections/marketplace-netwok-improve-error-when-importing-mapping-spreadsheet_1.png)
 
 
 ##

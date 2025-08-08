@@ -19,10 +19,10 @@ internalReference:
 ## Summary
 
 When an item is removed from the order:
-![item removido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Post-purchase/transactional-emails-dont-consider-items-removed-from-the-order_1.jpg)
+![item removido](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Post-purchase/transactional-emails-dont-consider-items-removed-from-the-order_1.jpg)
 
 The transactional email doesn't consider the removed item and shows both items in the email:
-![email transacional](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Post-purchase/transactional-emails-dont-consider-items-removed-from-the-order_2.jpg)
+![email transacional](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Post-purchase/transactional-emails-dont-consider-items-removed-from-the-order_2.jpg)
 
 
 

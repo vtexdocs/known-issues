@@ -29,13 +29,13 @@ The example of the __Delacasa__ store illustrates the bug:
 Before it was called __delacasa__ the domain __decoramovel__ had been created. The Portal created the Binding and then added the new information to the new domain for the same Binding.
 
 The new details entered in the LM:
-![license-manager-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_1.JPG) 
+![license-manager-delacasa](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_1.JPG) 
 
 of the Website dictionary (mundinho) were shown as follows, making it clear what had happened:
-![dictionary-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_2.JPG) 
+![dictionary-delacasa](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_2.JPG) 
 
 From the Website Binding showing the result:
-![binding-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_3.JPG)
+![binding-delacasa](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_3.JPG)
 
 ## Simulation
 
@@ -52,5 +52,5 @@ The new Binding will have the new details.
 After creating a new one, make the change and later, if necessary, delete the old one.
 
 It is important to do things in this order, or the site will go off the air.
-![2017-04-10 10 40 41-Index](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_4.png)
+![2017-04-10 10 40 41-Index](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_4.png)
 

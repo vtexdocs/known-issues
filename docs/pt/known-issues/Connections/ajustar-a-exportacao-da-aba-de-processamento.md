@@ -29,7 +29,7 @@ A exportação na aba de processamento de skus está falhando:
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/ajustar-a-exportacao-da-aba-de-processamento_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Connections/ajustar-a-exportacao-da-aba-de-processamento_1.png)
 
 
 

@@ -31,7 +31,7 @@ Esto se debía a que el número `1` se había configurado por defecto, incluso c
 
 Accede al **Admin VTEX > Home > Cómo mejorar > Catálogo**. Si la sección indica que hay `1` problema encontrado, al hacer clic en `Productos sin stock en los más vistos`, serás redirigido a la página del Catálogo.
 
-![Como melhorar ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-pagina-de-inicio-del-admin-presenta-un-error-en-la-seccion-como-mejorar_1.png)
+![Como melhorar ES](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Catalog/la-pagina-de-inicio-del-admin-presenta-un-error-en-la-seccion-como-mejorar_1.png)
 
 
 ## Workaround
@@ -40,6 +40,6 @@ No es necesario que el usuario realice ninguna acción porque ya hemos soluciona
 
 `No encontramos ningún problema en su catálogo.`
 
-![Como melhorar fixed ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-pagina-de-inicio-del-admin-presenta-un-error-en-la-seccion-como-mejorar_2.png)
+![Como melhorar fixed ES](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Catalog/la-pagina-de-inicio-del-admin-presenta-un-error-en-la-seccion-como-mejorar_2.png)
 
 

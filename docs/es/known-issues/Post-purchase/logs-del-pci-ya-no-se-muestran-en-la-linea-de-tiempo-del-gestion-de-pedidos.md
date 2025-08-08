@@ -25,7 +25,7 @@ En la línea de tiempo, encontrada en los detalles del pedido (Gestión de Pedid
 
 - Elegir un pedido antiguo (por ejemplo, de Junio de 2017).
 
-![pedido com log pci](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Post-purchase/logs-del-pci-ya-no-se-muestran-en-la-linea-de-tiempo-del-gestion-de-pedidos_1.PNG)
+![pedido com log pci](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Post-purchase/logs-del-pci-ya-no-se-muestran-en-la-linea-de-tiempo-del-gestion-de-pedidos_1.PNG)
 
 - Comparar con un pedido actual.
 - Ver que no aparecerán las informaciones del PCI sobre Antifraude, que mostramos como ejemplo.

@@ -19,7 +19,7 @@ internalReference:
 ## Sumário
 
 Ao utilizar a máscara de e-mail de teste utilizando o caractere "+" ao se logar no sistema o mesmo retorna um erro. 
-![2017-06-19 12 13 20-A chamada ao recurso 'pvt profiles thiago.baranda%2Bteste%40vtex.com addresses a](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Identity/erro-ao-tentar-se-logar-com-e-mail-contendo-o-caractere_1.png)
+![2017-06-19 12 13 20-A chamada ao recurso 'pvt profiles thiago.baranda%2Bteste%40vtex.com addresses a](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Identity/erro-ao-tentar-se-logar-com-e-mail-contendo-o-caractere_1.png)
 
 ## Simulação
 

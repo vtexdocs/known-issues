@@ -32,7 +32,7 @@ Error al buscar utilizando "código de referencia sku"
 
 https://accountname.myvtex.com/admin/catalog-products
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-buscar-por-codigo-de-referencia-sku_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Catalog/catalogo-buscar-por-codigo-de-referencia-sku_1.png)
 
 
 ##

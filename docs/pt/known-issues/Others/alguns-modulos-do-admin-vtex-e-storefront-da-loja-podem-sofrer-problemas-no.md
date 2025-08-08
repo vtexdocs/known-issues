@@ -39,5 +39,5 @@ Não se preocupe: desligar essa opção não significa que sua loja estará desp
 
 >ℹ️ Se após estes passos o seu Admin ou loja ainda não carregarem, sugerimos que tente acessá-lo com outro navegador.  
 
-![Firefox bug PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Others/alguns-modulos-do-admin-vtex-e-storefront-da-loja-podem-sofrer-problemas-no_1.jpg)
+![Firefox bug PT](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Others/alguns-modulos-do-admin-vtex-e-storefront-da-loja-podem-sofrer-problemas-no_1.jpg)
 

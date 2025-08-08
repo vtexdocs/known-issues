@@ -35,7 +35,7 @@ Si la ubicación de su navegador satisface la condición anterior, siga los paso
 5. Durante el _checkout_, seleccione la opción de entrega «punto de recogida». 
 6. Observe que la página se queda cargando, mostrando el mensaje «Esperando permiso para obtener su ubicación actual».
 
-![erro Es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Post-purchase/la-geolocalizacion-para-buscar-puntos-de-recogida-se-queda-cargando_1.png)
+![erro Es](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Post-purchase/la-geolocalizacion-para-buscar-puntos-de-recogida-se-queda-cargando_1.png)
 
 ## Workaround
 

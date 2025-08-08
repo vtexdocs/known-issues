@@ -19,10 +19,10 @@ internalReference:
 ## Sumario
 
 Cuando un ítem es excluído del pedido:
-![item removido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Post-purchase/emails-transaccionales-no-consideran-items-eliminados-del-pedido_1.jpg)
+![item removido](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Post-purchase/emails-transaccionales-no-consideran-items-eliminados-del-pedido_1.jpg)
 
 El e-mail transaccional no considera el item removido y presenta los dos ítems en el e-mail:
-![email transacional](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Post-purchase/emails-transaccionales-no-consideran-items-eliminados-del-pedido_2.jpg)
+![email transacional](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Post-purchase/emails-transaccionales-no-consideran-items-eliminados-del-pedido_2.jpg)
 
 
 

@@ -25,10 +25,10 @@ Essa funcionalidade é comumente usada para criar cenários como este: a geladei
 O problema conhecido fica evidente no seguinte exemplo, em que o marketplace não consegue refletir as mesmas regras de parcelamento que o seller:
 
 ## Marketplace - Até 12x sem juros
-![Geladeira Marketplace](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Channels/marketplace-nao-considera-regra-de-parcelamento-para-produtos-que-possuem_1.png)
+![Geladeira Marketplace](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Channels/marketplace-nao-considera-regra-de-parcelamento-para-produtos-que-possuem_1.png)
 
 ## Seller - Até 10x sem juros
-![2017-06-16 18 15 44-Geladeira 540 Litros Evox Brastemp Side Inverse - Brastemp](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Channels/marketplace-nao-considera-regra-de-parcelamento-para-produtos-que-possuem_2.png)
+![2017-06-16 18 15 44-Geladeira 540 Litros Evox Brastemp Side Inverse - Brastemp](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Channels/marketplace-nao-considera-regra-de-parcelamento-para-produtos-que-possuem_2.png)
 
 A exibição no marketplace está errada. Os parcelamentos em 11x e 12x não exibem juros, quando, na realidade, deveriam exibir.
 

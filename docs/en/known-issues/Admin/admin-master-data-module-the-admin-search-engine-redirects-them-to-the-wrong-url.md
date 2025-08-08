@@ -31,9 +31,9 @@ The Master Data module, the admin search engine redirects them to the wrong URL.
 Steps:
 Admin > Search > Master Data >
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Admin/admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Admin/admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url_1.png)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Admin/admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Admin/admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url_2.png)
 
 
 ##
@@ -45,7 +45,7 @@ Admin > Search > Master Data >
 it's possible accessed normally using the side menu:
 Admin > Store front > Master Data
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Admin/admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url_3.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Admin/admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url_3.png)
 
 
 

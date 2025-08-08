@@ -26,7 +26,7 @@ O pedido é fechado e transacionado normalmente na VTEX mas, dependendo dos flux
 
 Exemplo de ocorrência:
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Shopping/divergencia-entre-valor-total-do-pedido-e-valor-total-dos-produtos_1.png)
+![image](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Shopping/divergencia-entre-valor-total-do-pedido-e-valor-total-dos-produtos_1.png)
 
 Nesse caso, o valor total do pedido cobrado do cliente ficou em `R$ 7,98`. No entanto, ao somar os valores de venda registrados em cada produto, o total seria de `R$ 7,95`.
 

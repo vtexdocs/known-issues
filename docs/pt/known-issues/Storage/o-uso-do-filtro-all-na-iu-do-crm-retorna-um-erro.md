@@ -23,7 +23,7 @@ internalReference: 1134321
 
 O filtro "All" (Todos) na interface do usuário do CRM retorna um erro quando usado em entidades com um grande número de documentos. Isso ocorre porque o filtro "All" executa uma pesquisa curinga em todos os campos pesquisáveis, o que pode resultar em um erro devido ao grande volume de dados que está sendo consultado.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/o-uso-do-filtro-all-na-iu-do-crm-retorna-um-erro_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Storage/o-uso-do-filtro-all-na-iu-do-crm-retorna-um-erro_1.png)
 
 #
 

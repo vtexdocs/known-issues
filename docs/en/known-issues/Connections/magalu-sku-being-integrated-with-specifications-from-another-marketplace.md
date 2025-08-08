@@ -30,7 +30,7 @@ For example, when integrating our catalog in magalu, we send everything that has
 
 Example specification being sent to Magalu
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/magalu-sku-being-integrated-with-specifications-from-another-marketplace_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Connections/magalu-sku-being-integrated-with-specifications-from-another-marketplace_1.png)
 
 
 ## Workaround

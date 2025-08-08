@@ -32,15 +32,15 @@ Currently, in the catalog indexing report (RelatorioIndexacao.aspx), the "Total 
 
 1) Check the total products indexed on the "Total" section of this UI
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-indexing-report-total-section-calculation-error_1.png)​
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/catalog-indexing-report-total-section-calculation-error_1.png)​
 
 2) Then check the "Products that were not indexed"
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-indexing-report-total-section-calculation-error_2.png)​
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/catalog-indexing-report-total-section-calculation-error_2.png)​
 
 3) Then go to the "Produtos" catalog section, in which you'll see how many total products your store has:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-indexing-report-total-section-calculation-error_3.png)​
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/catalog-indexing-report-total-section-calculation-error_3.png)​
 
 The math does not add up, the "Total" section should be 71 in the example above, since there are 2 products that are also not indexed.
 

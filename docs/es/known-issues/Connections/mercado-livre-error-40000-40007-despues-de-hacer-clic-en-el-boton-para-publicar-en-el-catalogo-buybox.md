@@ -34,7 +34,7 @@ En la mayoría de los casos hay que añadir nuevos mensajes de error y es necesa
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/mercado-livre-error-40000-40007-despues-de-hacer-clic-en-el-boton-para-publicar-en-el-catalogo-buybox_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Connections/mercado-livre-error-40000-40007-despues-de-hacer-clic-en-el-boton-para-publicar-en-el-catalogo-buybox_1.png)
 
 
 

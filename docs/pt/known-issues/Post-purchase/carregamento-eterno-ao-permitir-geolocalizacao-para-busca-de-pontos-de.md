@@ -35,7 +35,7 @@ Se a localização do seu navegador satisfaz a condição acima, siga com estes 
 5. Durante o checkout, selecione a opção de entrega: ponto de retirada. 
 6. Verifique que a tela apresenta uma mensagem contínua sobre carregamento da localização.
 
-![erro PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Post-purchase/carregamento-eterno-ao-permitir-geolocalizacao-para-busca-de-pontos-de_1.png)
+![erro PT](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Post-purchase/carregamento-eterno-ao-permitir-geolocalizacao-para-busca-de-pontos-de_1.png)
 
 ## Workaround
 

@@ -33,7 +33,7 @@ Sin embargo, este enlace no redirige al cliente a la página de edición, sino a
 
 
 Configure la opción Permitir a los clientes realizar cambios en los pedidos en Admin -> configuración -> configuración de pedidos
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/el-enlace-de-cambio-de-pedido-en-la-pagina-de-pagopedido-realizado-lleva-a-myaccount-en-lugar-de-a-la-pagina-de-pedido_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Catalog/el-enlace-de-cambio-de-pedido-en-la-pagina-de-pagopedido-realizado-lleva-a-myaccount-en-lugar-de-a-la-pagina-de-pedido_1.png)
 
 El comprador realiza un pedido y pasa por caja/pedidoRealizado
 

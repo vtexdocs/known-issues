@@ -31,7 +31,7 @@ Some accounts are showing error `Unable to load data. Please click the button be
 
 Admin > Dashboard > Sales Performance
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/analytics-error-loading-data-in-sales-performance-dashboard_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Connections/analytics-error-loading-data-in-sales-performance-dashboard_1.png)
 
 
 ##

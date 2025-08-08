@@ -23,7 +23,7 @@ internalReference: 1134321
 
 El filtro "Todos" de la interfaz de usuario de CRM devuelve un error cuando se utiliza en entidades con un gran número de documentos. Esto ocurre porque el filtro "Todos" realiza una búsqueda comodín en todos los campos de búsqueda, lo que puede dar lugar a un error debido al gran volumen de datos que se consultan.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Storage/al-utilizar-el-filtro-todos-en-la-interfaz-de-usuario-de-crm-se-produce-un-error_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Storage/al-utilizar-el-filtro-todos-en-la-interfaz-de-usuario-de-crm-se-produce-un-error_1.png)
 
 ##
 

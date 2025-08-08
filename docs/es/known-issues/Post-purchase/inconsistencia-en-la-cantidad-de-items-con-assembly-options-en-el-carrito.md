@@ -28,7 +28,7 @@ En los productos con personalización de Assembly options, un ítem principal ti
 3. Selecciona el ítem secundario del producto, en la misma cantidad;
 4. Revisa los ítems en el carrito.
 
-![KI assembly](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Post-purchase/inconsistencia-en-la-cantidad-de-items-con-assembly-options-en-el-carrito_1.png)
+![KI assembly](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Post-purchase/inconsistencia-en-la-cantidad-de-items-con-assembly-options-en-el-carrito_1.png)
 
 Observa que el carrito contiene una unidad más del ítem secundario en comparación con el ítem principal.
 

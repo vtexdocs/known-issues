@@ -35,7 +35,7 @@ Even with price and stock correctly registered in the VTEX catalog, some product
 
 Admin > Installed APP > Shopee > Manage Products > Product Sync Status
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/shopee-failed-to-create-product-variations_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Connections/shopee-failed-to-create-product-variations_1.png)
 
 
 

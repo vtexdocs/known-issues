@@ -25,7 +25,7 @@ Cuando la tienda tiene más de 10.000 documentos, es decir, más de 333 páginas
 
     VTEX - Datos Maestros: Ocorreu um erro inesperado no sistema. Por favor, inténtelo de nuevo, en caso de que el error persista mientras esté en contacto con VTEX.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Storage/error-al-alcanzar-paginas-superiores-a-333-en-una-lista-de-entidades-mas-de-10000-documentos_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Storage/error-al-alcanzar-paginas-superiores-a-333-en-una-lista-de-entidades-mas-de-10000-documentos_1.png)
 
 
 ##

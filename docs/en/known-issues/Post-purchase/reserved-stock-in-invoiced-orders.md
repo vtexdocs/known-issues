@@ -24,7 +24,7 @@ This happens when the order is in the `Pronto para Manuseio` status (Ready for H
 
 Example with order flow:
 
-![2017-06-13 182850](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Post-purchase/reserved-stock-in-invoiced-orders_1.jpg)
+![2017-06-13 182850](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Post-purchase/reserved-stock-in-invoiced-orders_1.jpg)
 
 In the circulated step of the order flow, the product is invoiced without acknowledgment of the reservation.
 

@@ -21,7 +21,7 @@ internalReference: 918537
 
 When a boolean filter is selected, the following message is returned:
 `An unexpected error has occurred. Please try again. If the problem persists, contact support.`
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/boolean-filter-on-form-application-does-not-work-properly_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Storage/boolean-filter-on-form-application-does-not-work-properly_1.png)
 
 
 ##
@@ -32,12 +32,12 @@ When a boolean filter is selected, the following message is returned:
 
 - Access Master Data CRM (for example https://my-account-here.vtexcrm.com.br);
 - Access a Form Application with boolean filter option:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/boolean-filter-on-form-application-does-not-work-properly_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Storage/boolean-filter-on-form-application-does-not-work-properly_2.png)
 
 - Select 0 or 1 option;
 - Click on "_Filter_" button;
 - A popup message will open with the error "`An unexpected error has occurred. Please try again. If the problem persists, contact support.`":
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/boolean-filter-on-form-application-does-not-work-properly_3.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Storage/boolean-filter-on-form-application-does-not-work-properly_3.png)
 
 
 

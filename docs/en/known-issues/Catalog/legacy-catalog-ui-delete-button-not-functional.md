@@ -21,7 +21,7 @@ internalReference: 326408
 
 The button to delete products on the catalog is not working, it simply doesn't recognize any user clicks
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/legacy-catalog-ui-delete-button-not-functional_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/legacy-catalog-ui-delete-button-not-functional_1.png)
 
 This action might work if the product was just created and no skus, images or any other kind of data is associated with it.
 

@@ -31,7 +31,7 @@ Isso ocorria porque o número `1` tinha sido configurado como padrão, mesmo qua
 
 Acesse seu **Admin VTEX > Início > Como melhorar > Catálogo**. Se a seção indicar que há `1` problema encontrado, ao clicar em `Produtos populares sem estoque`, você será redirecionado para a página do Catálogo.
 
-![Como melhorar PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/pagina-inicial-do-admin-apresenta-erro-na-secao-como-melhorar-do-catalogo_1.png)
+![Como melhorar PT](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Catalog/pagina-inicial-do-admin-apresenta-erro-na-secao-como-melhorar-do-catalogo_1.png)
 
 ## Workaround
 
@@ -39,5 +39,5 @@ Não é necessário que o usuário realize nenhuma ação, pois já corrigimos o
 
 `Não encontramos problemas no seu catálogo.`
 
-![Como melhorar fixed PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/pagina-inicial-do-admin-apresenta-erro-na-secao-como-melhorar-do-catalogo_2.png)
+![Como melhorar fixed PT](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Catalog/pagina-inicial-do-admin-apresenta-erro-na-secao-como-melhorar-do-catalogo_2.png)
 

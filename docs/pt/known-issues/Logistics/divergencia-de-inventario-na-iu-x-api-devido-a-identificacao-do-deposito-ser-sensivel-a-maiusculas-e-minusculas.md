@@ -39,21 +39,21 @@ Atualizar o tempo e o custo da doca de carregamento por API com "teste" de ident
     POST https://{accountName}.{environment}.com.br/api/logistics/pvt/configuration/warehouses{"id": "teste", "nome": "TEST", "warehouseDocks": {"dockId": "teste de doca", "tempo": "08:00:00", "custo": 0,00 }]}
 
 Embora a identificação seja a mesma, a sensibilidade a maiúsculas e minúsculas fará com que outro armazém seja criado:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_1.png)
 
 Entretanto, para a IU de inventário, a identificação não é sensível a maiúsculas e minúsculas, portanto, para ambos os inventários, as mesmas informações serão mostradas:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_2.png)
 
 Mas verificando o API, cada inventário é separado, como esperado:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_3.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_3.png)
 
 E então, ao apagar o primeiro registro de depósito (com letra maiúscula "TEST"), as informações do inventário na IU continuam mostrando aquela quantidade disponível para o inventário de "teste" de identificação (letras minúsculas), onde na verdade é 0:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_4.png)
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_5.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_4.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_5.png)
 
 E como consequência disso, a indexação SKU recebe quantidade 0, e se mostra fora de estoque no checkout:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_6.png)
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_7.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_6.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_7.png)
 
 
 ## Workaround

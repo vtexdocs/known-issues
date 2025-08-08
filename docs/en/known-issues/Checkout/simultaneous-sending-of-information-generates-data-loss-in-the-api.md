@@ -56,7 +56,7 @@ In graphic example, scenario with overlap, which generates problems:
       |||||
        |||||
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Checkout/simultaneous-sending-of-information-generates-data-loss-in-the-api_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Checkout/simultaneous-sending-of-information-generates-data-loss-in-the-api_1.png)
 ​
 Suggested, non-overlapping scenario with one request after another:
 

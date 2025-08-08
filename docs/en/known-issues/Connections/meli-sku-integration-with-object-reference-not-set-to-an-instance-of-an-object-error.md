@@ -28,7 +28,7 @@ Some skus in the Mercado Livre are logging error: "Object reference not set to a
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/meli-sku-integration-with-object-reference-not-set-to-an-instance-of-an-object-error_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Connections/meli-sku-integration-with-object-reference-not-set-to-an-instance-of-an-object-error_1.png)
 
 _**Validations and tests:**_
 - Sku isn't registered in Meli;

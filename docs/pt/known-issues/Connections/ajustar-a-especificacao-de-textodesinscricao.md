@@ -36,7 +36,7 @@ _**Especificação:**_descrição_do_texto_de_chapa
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/ajustar-a-especificacao-de-textodesinscricao_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Connections/ajustar-a-especificacao-de-textodesinscricao_1.png)
 
 
 ##

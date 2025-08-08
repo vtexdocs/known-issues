@@ -24,7 +24,7 @@ Nestes casos, o calculador de frete tem comportamento inconsistente, exibindo do
 
 Isso acontece somente na versão 5 do checkout.
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Shopping/calculador-de-frete-inconsistente-no-carrinho_1.png)
+![image](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Shopping/calculador-de-frete-inconsistente-no-carrinho_1.png)
 
 ## Simulação
 

@@ -21,7 +21,7 @@ internalReference:
 Atualmente, o cenário de exibição das opções "Receber | Retirar" é condicionado ao CEP buscado em qualquer uma das abas. Isso significa que, se na aba de "Receber" for buscado um CEP que não é atendido por um ponto de retirada, a aba "Retirar" não será exibida ao usuário.
 
 
-![Captura de Tela 2018-11-21 às 14.25.40](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Shopping/abas-de-receber-retirar-sao-exibidas-apenas-de-acordo-com-a-disponibilidade-no-cep-buscado_1.png) 
+![Captura de Tela 2018-11-21 às 14.25.40](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Shopping/abas-de-receber-retirar-sao-exibidas-apenas-de-acordo-com-a-disponibilidade-no-cep-buscado_1.png) 
 
 ## Simulação
 

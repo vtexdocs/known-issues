@@ -23,13 +23,13 @@ internalReference: 702056
 The seller can send unitMultilplier values for it's skus that are bellow 1.
 
 Example:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/suggestions-transforming-unitmultiplier-less-than-1-to-0_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Marketplace/suggestions-transforming-unitmultiplier-less-than-1-to-0_1.png)
 
 The same info is sent to the marketplace correctly:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/suggestions-transforming-unitmultiplier-less-than-1-to-0_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Marketplace/suggestions-transforming-unitmultiplier-less-than-1-to-0_2.png)
 
 However, once the product is processed by the Matcher, the value is rounded to 0:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/suggestions-transforming-unitmultiplier-less-than-1-to-0_3.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Marketplace/suggestions-transforming-unitmultiplier-less-than-1-to-0_3.png)
 
 And once is approved to the marketplace catalog, the value continues as 0. That way a wrong value is set on the marketplace's catalog.
 

@@ -30,7 +30,7 @@ The only thing necessary is a valid tracking code for each order. On the followi
 
 It's possible to send tracking updates via API, with emails continuing to be sent. The same is true for the delivery confirmation, which can also be done on the OMS interface.
 
-![2017-08-16 195850](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Post-purchase/automatic-update-of-deliveries-tracking-by-correios_1.jpg)
+![2017-08-16 195850](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Post-purchase/automatic-update-of-deliveries-tracking-by-correios_1.jpg)
 
 Delivery confirmation via OMS is also passed on to the marketplaces.
 

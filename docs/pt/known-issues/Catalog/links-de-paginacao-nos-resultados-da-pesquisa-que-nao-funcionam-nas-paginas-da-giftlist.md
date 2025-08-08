@@ -31,7 +31,7 @@ Links de paginação em `SearchResult' que não funcionam em `Giftlist'.
 - Acesse uma Giftlist com produtos suficientes para ter paginação, use um modelo padrão sem nenhuma personalização;
 - Verifique os links de paginação:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/links-de-paginacao-nos-resultados-da-pesquisa-que-nao-funcionam-nas-paginas-da-giftlist_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Catalog/links-de-paginacao-nos-resultados-da-pesquisa-que-nao-funcionam-nas-paginas-da-giftlist_1.png)
 
 - Estes links não funcionam.
 

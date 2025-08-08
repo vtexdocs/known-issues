@@ -31,7 +31,7 @@ Alguns skus estão tendo um erro na integração" "A cadeia de entrada não esta
 
 Admin > Ponte > Produtos
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/erro-de-integracao-do-sku-a-cadeia-de-entrada-nao-estava-em-um-formato-correto_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Connections/erro-de-integracao-do-sku-a-cadeia-de-entrada-nao-estava-em-um-formato-correto_1.png)
 
 
 

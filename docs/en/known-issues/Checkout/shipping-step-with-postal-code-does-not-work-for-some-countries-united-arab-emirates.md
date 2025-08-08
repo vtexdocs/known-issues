@@ -25,7 +25,7 @@ If the store configures postal code input, when arriving at the shipping step at
 
 It is not possible to add anything to the component.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Checkout/shipping-step-with-postal-code-does-not-work-for-some-countries-united-arab-emirates_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Checkout/shipping-step-with-postal-code-does-not-work-for-some-countries-united-arab-emirates_1.png)
 
 ##
 
@@ -47,10 +47,10 @@ Add any dummy postal code via API, the fields will be shown then, for example, v
     vtexjs.checkout.sendAttachment('shippingData', { "selectedAddresses": [{ addressType: "residential", country: "ARE", postalCode: "0" }]}).done(r=>{ console.log(r)})
 
 Result:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Checkout/shipping-step-with-postal-code-does-not-work-for-some-countries-united-arab-emirates_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Checkout/shipping-step-with-postal-code-does-not-work-for-some-countries-united-arab-emirates_2.png)
 
 
 ## **Workaround**
 For geocoordinates, it's possible to move with the purchase:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Checkout/shipping-step-with-postal-code-does-not-work-for-some-countries-united-arab-emirates_3.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Checkout/shipping-step-with-postal-code-does-not-work-for-some-countries-united-arab-emirates_3.png)
 

@@ -23,7 +23,7 @@ internalReference: 925679
 
 El filtro "Todos" de la interfaz de usuario de CRM devuelve un error cuando se utiliza en entidades con muchos documentos. Esto ocurre porque el filtro "Todos" realiza una búsqueda comodín en todos los campos de búsqueda, lo que puede dar lugar a un error debido al gran volumen de datos que se consultan.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Storage/se-produce-un-error-al-intentar-realizar-una-busqueda-utilizando-el-campo-todos-en-vtex-crm-ui_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Storage/se-produce-un-error-al-intentar-realizar-una-busqueda-utilizando-el-campo-todos-en-vtex-crm-ui_1.png)
 
 
 ##
@@ -33,10 +33,10 @@ El filtro "Todos" de la interfaz de usuario de CRM devuelve un error cuando se u
 
 
 - Acceda a la interfaz de usuario de CRM `https://.vtexcrm.com.br/` y navegue hasta una vista que represente una entidad con muchos registros.
-- Inicie una búsqueda utilizando el campo "Todos". ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Storage/se-produce-un-error-al-intentar-realizar-una-busqueda-utilizando-el-campo-todos-en-vtex-crm-ui_2.png)
+- Inicie una búsqueda utilizando el campo "Todos". ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Storage/se-produce-un-error-al-intentar-realizar-una-busqueda-utilizando-el-campo-todos-en-vtex-crm-ui_2.png)
 - Busque cualquier término en el campo de búsqueda.
 - Observe que el sistema intenta realizar una búsqueda comodín en todos los campos de búsqueda, lo que puede dar lugar a un error debido al gran volumen de datos.
-"**Se ha producido un error inesperado. Por favor, inténtelo de nuevo. Si el problema persiste, póngase en contacto con el servicio de asistencia. "**![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Storage/se-produce-un-error-al-intentar-realizar-una-busqueda-utilizando-el-campo-todos-en-vtex-crm-ui_3.png)
+"**Se ha producido un error inesperado. Por favor, inténtelo de nuevo. Si el problema persiste, póngase en contacto con el servicio de asistencia. "**![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Storage/se-produce-un-error-al-intentar-realizar-una-busqueda-utilizando-el-campo-todos-en-vtex-crm-ui_3.png)
 
 
 

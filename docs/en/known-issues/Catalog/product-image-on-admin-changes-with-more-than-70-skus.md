@@ -20,7 +20,7 @@ internalReference: 1003966
 
 
 When a product has more than 70 skus variations it's image on admin (and on admin only) changes to a information image:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/product-image-on-admin-changes-with-more-than-70-skus_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/product-image-on-admin-changes-with-more-than-70-skus_1.png)
 
 with the text: "ATENÇÃO: não foi possível excluir este produto porque ele tem mais SKUs do que o permitido pelo sistema."
 

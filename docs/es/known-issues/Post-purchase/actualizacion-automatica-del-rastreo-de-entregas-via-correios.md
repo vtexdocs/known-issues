@@ -30,7 +30,7 @@ Basta tener un código de rastreo válido en cualquier pedido. Los días siguien
 
 Es posible enviar actualizaciones de rastreo vía API, manteniendo el comportamiento de envío de e-mails. Lo mismo para la confirmación de entrega, que también puede hacerse por la interfaz del OMS.
 
-![2017-08-16 195850](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Post-purchase/actualizacion-automatica-del-rastreo-de-entregas-via-correios_1.jpg)
+![2017-08-16 195850](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Post-purchase/actualizacion-automatica-del-rastreo-de-entregas-via-correios_1.jpg)
 
 La confirmación de entrega hecha vía OMS también se retransmite a los marketplaces.
 

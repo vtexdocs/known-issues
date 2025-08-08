@@ -34,13 +34,13 @@ When the store creates or updates a Data Entity and then tries to publish it, th
 
 - Access the Dynamic Storage system / Data Structure application (https://my-account-here.ds.vtexcrm.com.br);
 - Access the Data Entities tab:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-when-publishing-dynamic-storage-data-entity_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Storage/error-when-publishing-dynamic-storage-data-entity_1.png)
 
 - Click on the disk icon to publish the Data Entity that was created or updated:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-when-publishing-dynamic-storage-data-entity_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Storage/error-when-publishing-dynamic-storage-data-entity_2.png)
 
 - Then the following message will be shown:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-when-publishing-dynamic-storage-data-entity_3.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Storage/error-when-publishing-dynamic-storage-data-entity_3.png)
 
     Unexpected error. Please try again or contact customer support.
 

@@ -35,7 +35,7 @@ Impacto:**_ Ocorre com alguns pedidos
 
 Admin > Ponte > Pedidos
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/ordem-com-erro-de-parametro-de-desajuste-de-contagem_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Connections/ordem-com-erro-de-parametro-de-desajuste-de-contagem_1.png)
 
 
 ##

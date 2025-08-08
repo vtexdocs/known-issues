@@ -19,10 +19,10 @@ internalReference:
 ## Sumário
 
 Quando um item é removido do pedido:
-![item removido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Post-purchase/e-mails-transacionais-nao-consideram-os-itens-removidos-do-pedido_1.jpg)
+![item removido](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Post-purchase/e-mails-transacionais-nao-consideram-os-itens-removidos-do-pedido_1.jpg)
 
 O email transacional não considera o item removido e apresenta os dois itens no e-mail:
-![email transacional](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Post-purchase/e-mails-transacionais-nao-consideram-os-itens-removidos-do-pedido_2.jpg)
+![email transacional](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Post-purchase/e-mails-transacionais-nao-consideram-os-itens-removidos-do-pedido_2.jpg)
 
 
 

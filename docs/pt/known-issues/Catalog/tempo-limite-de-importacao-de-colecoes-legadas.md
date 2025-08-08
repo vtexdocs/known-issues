@@ -23,7 +23,7 @@ internalReference: 483785
 
 Atualmente, quando um usuário tenta importar dados através do botão de inserção de dados a granel, se a folha a ser utilizada for muito extensa, o processo pode falhar.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/tempo-limite-de-importacao-de-colecoes-legadas_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Catalog/tempo-limite-de-importacao-de-colecoes-legadas_1.png)
 
 
 
@@ -44,7 +44,7 @@ Atualmente, quando um usuário tenta importar dados através do botão de inser�
 
 4) Uma mensagem de carga será mostrada por ~50s
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/tempo-limite-de-importacao-de-colecoes-legadas_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Catalog/tempo-limite-de-importacao-de-colecoes-legadas_2.png)
 
 E então o processo acabará por falhar.
 

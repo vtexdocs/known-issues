@@ -30,10 +30,10 @@ Faststore no está recibiendo eventos RC de PDP.
 
 
 Intenta acceder a un PDP desde una web de Faststore y busca el evento request to RC v8 en la pestaña network. Puede confirmar este comportamiento en nuestro defalt store:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/FastStore/faststore-no-recibe-eventos-rc_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/FastStore/faststore-no-recibe-eventos-rc_1.png)
 
 Sólo funciona en el checkout:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/FastStore/faststore-no-recibe-eventos-rc_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/FastStore/faststore-no-recibe-eventos-rc_2.png)
 
 
 ##

@@ -39,7 +39,7 @@ Para que a simulação apresente o cenário descrito, é preciso que estejam cad
 4. Veja qual ponto de retirada foi selecionado;
 5. Confira quais pontos de retirada foram descartados e observe a mensagem apresentada.
 
-![KIpontoderetirada PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Post-purchase/ponto-de-retirada-desconsiderado-por-questao-de-prioridade_1.png)
+![KIpontoderetirada PT](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Post-purchase/ponto-de-retirada-desconsiderado-por-questao-de-prioridade_1.png)
 
 O ponto de retirada foi desconsiderado porque havia outro método de envio já nomeado como **SCS Mall**.
 

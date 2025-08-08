@@ -22,7 +22,7 @@ VTEX stores can become each other's [sellers](https://help.vtex.com/en/tutorial/
 
 This is because products that are sold by both the marketplace and its sellers are not recognized by the system when they are sent. It is only possible to send products that are sold by only one of the stores.
 
-![arquitetura circular](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/error-sending-skus-from-sellers-to-marketplaces-and-vice-versa_1.JPG)
+![arquitetura circular](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Marketplace/error-sending-skus-from-sellers-to-marketplaces-and-vice-versa_1.JPG)
 
 
 ## Simulation

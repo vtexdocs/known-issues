@@ -35,7 +35,7 @@ Atualmente, ao utilizar o filtro de busca da marca Navigator juntamente com uma 
 
 1) Povoar o controlador de busca com pelo menos 2 marcas, ou seja, para uma determinada categoria/subcategoria, ter pelo menos 2 marcas diferentes listadas:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Portal/busca-filtro-navigator-faixa-de-preco-que-produz-resultados-incorretos_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Portal/busca-filtro-navigator-faixa-de-preco-que-produz-resultados-incorretos_1.png)
 
 2) Posteriormente, filtro para apenas `Brand B`, por exemplo, agora, apenas os resultados produzidos por esta marca específica para esta categoria devem ser mostrados,
 

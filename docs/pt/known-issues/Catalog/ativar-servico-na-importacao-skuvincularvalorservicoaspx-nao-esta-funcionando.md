@@ -30,13 +30,13 @@ Atualmente, na usabilidade de importação do SkuVincularValorServico.aspx, ao t
 
 1) Acesse a interface do usuário https://account.myvtex.com/admin/Site/SkuVincularValorServico.aspx e altere as linhas da planilha anexa de 0 para 1 e vice-versa:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Catalog/ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando_1.png)
 
 2) Verifique os efeitos finais na SKU cujos valores você alterou:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Catalog/ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando_2.png)
 
 Você poderá defini-los como inativos, mas não como ativos. A interface de importação avisa que as alterações foram feitas:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando_3.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Catalog/ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando_3.png)
 
 Nenhum valor é realmente alterado no banco de dados da conta fornecida
 

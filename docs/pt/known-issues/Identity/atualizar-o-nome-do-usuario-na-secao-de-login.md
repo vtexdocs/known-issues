@@ -29,9 +29,9 @@ Atualizar o nome do usuário na seção de login
 
 
 Quando nos conectamos e preenchemos os dados pela primeira vez, ele traz um nome nesta seção que está correto.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Identity/atualizar-o-nome-do-usuario-na-secao-de-login_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Identity/atualizar-o-nome-do-usuario-na-secao-de-login_1.png)
 Mas quando editamos as informações, as informações exibidas não são as mesmas.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Identity/atualizar-o-nome-do-usuario-na-secao-de-login_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Identity/atualizar-o-nome-do-usuario-na-secao-de-login_2.png)
 
 
 

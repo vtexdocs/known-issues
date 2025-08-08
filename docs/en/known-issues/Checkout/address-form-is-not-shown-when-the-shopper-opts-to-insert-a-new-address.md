@@ -31,12 +31,12 @@ Sometimes, when an identified shopper tries to add a new address in checkout's s
 - Go to checkout, identify as a shopper with a complete profile and proceed to the shipping step;
 - Choose the option to deliver to a new address;
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Checkout/address-form-is-not-shown-when-the-shopper-opts-to-insert-a-new-address_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Checkout/address-form-is-not-shown-when-the-shopper-opts-to-insert-a-new-address_1.png)
 
 
 - Enter the postal code and a message requiring authentication will appear.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Checkout/address-form-is-not-shown-when-the-shopper-opts-to-insert-a-new-address_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Checkout/address-form-is-not-shown-when-the-shopper-opts-to-insert-a-new-address_2.png)
 
 
 ##

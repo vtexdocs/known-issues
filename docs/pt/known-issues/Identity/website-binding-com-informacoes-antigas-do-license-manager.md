@@ -29,13 +29,13 @@ O exemplo da loja __Delacasa__ ilustra o bug:
 Antes de se chamar __delacasa__ haviam criado o domínimo __decoramovel__, o Portal criou o Binding e posteriormente adicionou as novas informações do novo domínio no mesmo Binding.
 
 As novas informações inseridas no LM:
-![license-manager-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Identity/website-binding-com-informacoes-antigas-do-license-manager_1.JPG) 
+![license-manager-delacasa](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Identity/website-binding-com-informacoes-antigas-do-license-manager_1.JPG) 
 
 O dicionário do Website (mundinho) como ficou, deixando o comportamento em evidência:
-![dicionario-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Identity/website-binding-com-informacoes-antigas-do-license-manager_2.JPG) 
+![dicionario-delacasa](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Identity/website-binding-com-informacoes-antigas-do-license-manager_2.JPG) 
 
 A parte de Webiste Binding que mostra o resultado:
-![binding-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Identity/website-binding-com-informacoes-antigas-do-license-manager_3.JPG)
+![binding-delacasa](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Identity/website-binding-com-informacoes-antigas-do-license-manager_3.JPG)
 
 ## Simulação
 
@@ -53,5 +53,5 @@ O novo Binding irá carregar as informações novas.
 Após criar o novo, fazer a mudança e posteriormente, se necessário, excluir o antigo.
 
 Importante manter essa ordem, para evitar que o site saia do ar.
-![2017-04-10 10 40 41-Index](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Identity/website-binding-com-informacoes-antigas-do-license-manager_4.png)
+![2017-04-10 10 40 41-Index](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Identity/website-binding-com-informacoes-antigas-do-license-manager_4.png)
 

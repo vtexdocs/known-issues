@@ -21,7 +21,7 @@ internalReference: 1134321
 
 The "All" filter in the CRM UI returns an error when used in entities with a large number of documents. This occurs because the "All" filter performs a wildcard search across all searchable fields, which can result in an error due to the high volume of data being queried.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/using-all-filter-in-the-crm-ui-returns-an-error_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Storage/using-all-filter-in-the-crm-ui-returns-an-error_1.png)
 
 ##
 

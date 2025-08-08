@@ -30,7 +30,7 @@ Error when searching using "sku reference code"
 
 https://accountname.myvtex.com/admin/catalog-products
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-search-by-sku-reference-code_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/catalog-search-by-sku-reference-code_1.png)
 
 
 ##

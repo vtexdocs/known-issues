@@ -30,7 +30,7 @@ Error downloading invoices in the "Invoices" module of Mercado Livre
 Admin > Marketplace > Mercado Livre > Invoices
 Select period 1 week (for example) > Download invoices
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/mercado-livre-error-downloading-invoices-in-the-invoices-module_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Connections/mercado-livre-error-downloading-invoices-in-the-invoices-module_1.png)
 
 
 ##

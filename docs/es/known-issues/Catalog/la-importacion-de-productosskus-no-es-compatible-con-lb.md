@@ -25,11 +25,11 @@ Actualmente, la hoja de catálogo de Productos y SKUs no soporta la unidad de me
 
 En realidad se trata de una unidad de lb en nuestro SKU UI que es configurable:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-importacion-de-productosskus-no-es-compatible-con-lb_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Catalog/la-importacion-de-productosskus-no-es-compatible-con-lb_1.png)
 
 Sin embargo, la importación de productos&sku actualmente devuelve un mensaje de error cada vez que un usuario intenta importar cualquier sku que contenga este valor, independientemente de si los otros campos son válidos:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-importacion-de-productosskus-no-es-compatible-con-lb_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Catalog/la-importacion-de-productosskus-no-es-compatible-con-lb_2.png)
 
 
 

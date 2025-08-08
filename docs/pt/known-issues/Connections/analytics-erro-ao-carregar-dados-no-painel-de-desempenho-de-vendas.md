@@ -30,7 +30,7 @@ Algumas contas estão exibindo o erro `Não foi possível carregar os dados. Cli
 
 Admin > Dashboard > Sales Performance
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/analytics-erro-ao-carregar-dados-no-painel-de-desempenho-de-vendas_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Connections/analytics-erro-ao-carregar-dados-no-painel-de-desempenho-de-vendas_1.png)
 
 ## Workaround
 

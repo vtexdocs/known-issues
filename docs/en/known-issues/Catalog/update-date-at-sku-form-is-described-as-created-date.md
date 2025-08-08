@@ -33,10 +33,10 @@ The field wrongly named as "created date" actually informs the date of the last 
 3. Check that the "created date" field is actually replaced by the current date.
 
 Before update:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/update-date-at-sku-form-is-described-as-created-date_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/update-date-at-sku-form-is-described-as-created-date_1.png)
 
 After update performed at October 21st:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/update-date-at-sku-form-is-described-as-created-date_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/update-date-at-sku-form-is-described-as-created-date_2.png)
 
 
 ##

@@ -37,7 +37,7 @@ Mesmo com preço e estoque corretamente registrados no catálogo VTEX, alguns pr
 
 Admin > APP Instalado > Calçados > Gerenciar Produtos > Status de Sincronização de Produtos
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/falha-em-criar-variacoes-de-produtos_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Connections/falha-em-criar-variacoes-de-produtos_1.png)
 
 
 

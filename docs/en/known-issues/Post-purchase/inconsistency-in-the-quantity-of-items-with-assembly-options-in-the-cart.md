@@ -28,7 +28,7 @@ In products with assembly options customization, a parent item has components, w
 3. Select the child item of the product, in the same quantity;
 4. Check the items in the cart.
 
-![KI assembly](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Post-purchase/inconsistency-in-the-quantity-of-items-with-assembly-options-in-the-cart_1.png)
+![KI assembly](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Post-purchase/inconsistency-in-the-quantity-of-items-with-assembly-options-in-the-cart_1.png)
 
 Notice that the cart contains one more unit of the child item relative to the parent item.
 

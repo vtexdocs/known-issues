@@ -32,10 +32,10 @@ Global Search doesn't recognize "Profile Menu items"
 In some cases, the search returns no results.
 For example: "Users" "Authentication"
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Admin/admin-global-search-doesnt-recognize-profile-menu-items_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Admin/admin-global-search-doesnt-recognize-profile-menu-items_1.png)
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Admin/admin-global-search-doesnt-recognize-profile-menu-items_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Admin/admin-global-search-doesnt-recognize-profile-menu-items_2.png)
 
 
 ##

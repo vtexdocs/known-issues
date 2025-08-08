@@ -25,7 +25,7 @@ Atualmente, a categoria global de produtos não está carregando corretamente os
 
 A seguinte exibição pode ser vista
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/a-categoria-global-nao-esta-sendo-carregada-corretamente-no-chrome-v12606478182-compilacao-oficial-64-bits_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Catalog/a-categoria-global-nao-esta-sendo-carregada-corretamente-no-chrome-v12606478182-compilacao-oficial-64-bits_1.png)
 
 ## Simulação
 

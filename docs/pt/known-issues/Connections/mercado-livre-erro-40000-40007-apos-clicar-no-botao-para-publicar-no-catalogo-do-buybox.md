@@ -31,7 +31,7 @@ Na maioria dos casos, precisamos adicionar novas mensagens de erro e é necessá
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/mercado-livre-erro-40000-40007-apos-clicar-no-botao-para-publicar-no-catalogo-do-buybox_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Connections/mercado-livre-erro-40000-40007-apos-clicar-no-botao-para-publicar-no-catalogo-do-buybox_1.png)
 
 
 

@@ -22,7 +22,7 @@ Ao obter os endereços que um cliente pode ter, o checkout não está validando 
 
 Mensagem: Não são permitidos múltiplos países nos endereços
 Vale lembrar que, na entidade de dados "endereços" (AD), dentro do Master Data, esses campos são abertos, ou seja, podem ser colocados como não obrigatórios, e podem estar vazios. Então, nos momentos em que esta informação é alimentada por meio de integrações (usando nossas APIs), a porta se abre para ter registros que não possuem, por exemplo, os dados de "País", terminando no erro mencionado acima.
-![image1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Shopping/campos-nao-sinalizados-como-obrigatorios-no-master-data-levam-a-erro-no-checkout_1.png)
+![image1](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Shopping/campos-nao-sinalizados-como-obrigatorios-no-master-data-levam-a-erro-no-checkout_1.png)
 
 __Comportamento esperado__
 
@@ -35,10 +35,10 @@ O checkout recebe as informações dos endereços que estão associados ao dito 
 As opções são mostradas e, apesar de não ter os dados do país dentro do JSON (country) do OrderForm (selectedAddresses.[0].country), na interface do usuário, os endereços mostram o país. Isto significa que o cliente ou o gerente da loja não pode perceber facilmente que algumas informações críticas são necessárias para continuar a compra.
 
 __JSON__
-![image2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Shopping/campos-nao-sinalizados-como-obrigatorios-no-master-data-levam-a-erro-no-checkout_2.png)
+![image2](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Shopping/campos-nao-sinalizados-como-obrigatorios-no-master-data-levam-a-erro-no-checkout_2.png)
 
 __Checkout UI__
-![image3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Shopping/campos-nao-sinalizados-como-obrigatorios-no-master-data-levam-a-erro-no-checkout_3.png)
+![image3](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Shopping/campos-nao-sinalizados-como-obrigatorios-no-master-data-levam-a-erro-no-checkout_3.png)
 
 ## Simulação
 

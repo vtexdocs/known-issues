@@ -20,7 +20,7 @@ internalReference:
 
 The NIF field (document) in the checkout for Portugal (UI) is allowing special characters to be entered as value. However, orders that are closed with special characters get stuck with error in the OMS.
 
-![OMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Shopping/nif-field-at-checkout-in-portugal-allows-special-characters-and-causes-problem-in-order-flow_1.png)
+![OMS](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Shopping/nif-field-at-checkout-in-portugal-allows-special-characters-and-causes-problem-in-order-flow_1.png)
 
 ## Simulation
 

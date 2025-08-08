@@ -34,11 +34,11 @@ Esse comportamento não afeta o perfil ou a experiência do comprador, uma vez q
 - Clique no botão "_Alterar registro_";
 - Abrir uma versão recente;
 - Verifique o "_Version author_", que será um ID de usuário, e o nome "`Note: Not found on VTEX ID.`", por exemplo:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_1.png)
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_2.png)
 
 - Verificação pela API Get version:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_3.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_3.png)
 
     "updatedBy_USER": "{\"Id\":\"d6d8269f-e7cc-4e4b-8b89-3b46a1407937\",\"Login\":\"vtex-service::checkout::stable\",\"Name\":null}",
 

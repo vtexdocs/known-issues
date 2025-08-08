@@ -23,10 +23,10 @@ internalReference: 695044
 Despite the number set on the field Currency decimal places the actual decimal places is always 2 on the PDP and PLP of the store.
 
 Setup on Trade Policy:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/field-currency-decimal-places-in-trade-policy-not-reflecting-on-pdpplp_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/field-currency-decimal-places-in-trade-policy-not-reflecting-on-pdpplp_1.png)
 
 Frontend of the account:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/field-currency-decimal-places-in-trade-policy-not-reflecting-on-pdpplp_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/field-currency-decimal-places-in-trade-policy-not-reflecting-on-pdpplp_2.png)
 
 
 

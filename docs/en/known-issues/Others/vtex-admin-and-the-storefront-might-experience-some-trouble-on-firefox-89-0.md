@@ -40,6 +40,6 @@ Don’t worry: turning off this option will not make your store unprotected.
 
 >ℹ️ If after these steps your Admin or store is still not loading, we advise you to try another browser.
 
-![Firefox bug EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Others/vtex-admin-and-the-storefront-might-experience-some-trouble-on-firefox-89-0_1.jpg)
+![Firefox bug EN](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Others/vtex-admin-and-the-storefront-might-experience-some-trouble-on-firefox-89-0_1.jpg)
 
 

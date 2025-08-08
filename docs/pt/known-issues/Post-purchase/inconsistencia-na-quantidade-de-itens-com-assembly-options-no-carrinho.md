@@ -28,7 +28,7 @@ Nos produtos com customização do Assembly options, um item pai possui componen
 3. Selecione o item filho do produto, na mesma quantidade;
 4. Confira os itens no carrinho de compras.
 
-![KI assembly](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Post-purchase/inconsistencia-na-quantidade-de-itens-com-assembly-options-no-carrinho_1.png)
+![KI assembly](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Post-purchase/inconsistencia-na-quantidade-de-itens-com-assembly-options-no-carrinho_1.png)
 Observe que o carrinho contém uma unidade a mais do item filho em relação ao item pai.
 
 

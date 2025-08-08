@@ -33,9 +33,9 @@ Arquitetura:**_ FOB / Magalu Entregas
 ## Simulação
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/pedido-fob-integrado-com-entrega-convencional_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Connections/pedido-fob-integrado-com-entrega-convencional_1.png)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/pedido-fob-integrado-com-entrega-convencional_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Connections/pedido-fob-integrado-com-entrega-convencional_2.png)
 
 
     Se nenhum pedido de enviado isFOB=true, o SLA selecionado deve ser um do tipo FOB, como, por exemplo: "selectedSla": "vtex:fob_1" Se você deseja selecionar um SLA que não é do tipo FOB, o campo isFOB deve ser enviada como false ou não ser enviada.

@@ -23,7 +23,7 @@ internalReference: 326408
 
 El botón para eliminar productos en el catálogo no funciona, simplemente no reconoce ningún clic del usuario
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/el-boton-eliminar-de-la-interfaz-de-usuario-del-catalogo-heredado-no-funciona_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Catalog/el-boton-eliminar-de-la-interfaz-de-usuario-del-catalogo-heredado-no-funciona_1.png)
 
 Esta acción puede funcionar si el producto se acaba de crear y no tiene asociados skus, imágenes o cualquier otro tipo de dato.
 

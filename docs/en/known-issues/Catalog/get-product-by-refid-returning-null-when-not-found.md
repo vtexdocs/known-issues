@@ -37,7 +37,7 @@ curl --location --request GET 'https://mystore.vtexcommercestable.com.br/api/cat
 
 You should get the following response if the given id doesn't exist
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/get-product-by-refid-returning-null-when-not-found_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/get-product-by-refid-returning-null-when-not-found_1.png)
 
 This is incorrect since the expected is a `404 - Not Found`
 

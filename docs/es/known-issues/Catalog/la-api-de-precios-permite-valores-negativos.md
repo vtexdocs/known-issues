@@ -46,7 +46,7 @@ Fije el siguiente precio:
 
 La respuesta será:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-api-de-precios-permite-valores-negativos_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Catalog/la-api-de-precios-permite-valores-negativos_1.png)
 
 Lo que rompe la lógica de precios y hace que el producto no esté disponible, ya que las aplicaciones de pago y catálogo no son capaces de tratar con valores de precio negativos.
 

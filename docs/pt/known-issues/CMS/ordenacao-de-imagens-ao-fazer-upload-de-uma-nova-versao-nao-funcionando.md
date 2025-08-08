@@ -33,7 +33,7 @@ Ir para o editor do site
 Adicionar uma nova imagem
 Tente encomendar
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/ordenacao-de-imagens-ao-fazer-upload-de-uma-nova-versao-nao-funcionando_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/CMS/ordenacao-de-imagens-ao-fazer-upload-de-uma-nova-versao-nao-funcionando_1.png)
 
 
 ##

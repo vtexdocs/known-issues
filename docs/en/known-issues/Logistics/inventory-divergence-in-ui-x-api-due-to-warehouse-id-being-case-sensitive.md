@@ -42,21 +42,21 @@ Update the loading dock time and cost by API with lowercase id "test", for examp
 
 
 Although the id is the same, being case sensitive will cause another warehouse to be created:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_1.png)
 
 However, for the inventory UI, the id is not case sensitive, so for both inventories the same information will be shown:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_2.png)
 
 But checking on the API, each inventory is separated, as expected:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_3.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_3.png)
 
 And then, when deleting the first warehouse record (with capital letter "TEST"), the inventory information in the UI keeps showing that quantity available for the id "test" inventory (lowercase), where it is actually 0:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_4.png)
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_5.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_4.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_5.png)
 
 And as a consequence of this, the SKU indexing gets 0 quantity, and it shows out of stock in the checkout:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_6.png)
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_7.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_6.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Logistics/inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive_7.png)
 
 
 

@@ -24,7 +24,7 @@ Esto ocurre cuando el pedido está en el estado `Pronto para Manuseio` status (L
 
 Ejemplo con el flujo del pedido:
 
-![2017-06-13 182850](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Post-purchase/stock-reservado-en-pedidos-facturados_1.jpg)
+![2017-06-13 182850](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Post-purchase/stock-reservado-en-pedidos-facturados_1.jpg)
 
 En el paso circulado del flujo del pedido, el producto se factura sin el reconocimiento de la reserva.
 

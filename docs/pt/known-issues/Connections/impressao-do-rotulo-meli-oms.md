@@ -32,7 +32,7 @@ Estamos tendo alguns problemas ao clicar diretamente dentro do botão "etiqueta 
 
 **Abra o link de pedido OMS e tente abrir o link "Correios".**
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/impressao-do-rotulo-meli-oms_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Connections/impressao-do-rotulo-meli-oms_1.png)
 
 
 

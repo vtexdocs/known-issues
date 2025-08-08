@@ -22,7 +22,7 @@ internalReference: 1003966
 
 
 Cuando un producto tiene más de 70 variaciones de skus su imagen en admin (y sólo en admin) cambia a una imagen de información:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-imagen-del-producto-en-admin-cambia-con-mas-de-70-skus_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Catalog/la-imagen-del-producto-en-admin-cambia-con-mas-de-70-skus_1.png)
 
 con el texto: "ATENÇÃO: não foi possível excluir este produto porque ele tem mais SKUs do que o permitido pelo sistema."
 

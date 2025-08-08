@@ -26,7 +26,7 @@ internalReference:
 ---
 
 
-![Screen Shot 2017-05-26 at 12.01.58](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Post-purchase/layout-do-my-orders-quebrado-sem-nenhuma-customizacao_1.png)
+![Screen Shot 2017-05-26 at 12.01.58](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Post-purchase/layout-do-my-orders-quebrado-sem-nenhuma-customizacao_1.png)
 
 Se o layout do novo Meus Pedidos apresentar problemas em sua loja _out of the box_, sem nenhuma customização, pode ser que o CSS de sua loja esteja interferindo com ele.
 

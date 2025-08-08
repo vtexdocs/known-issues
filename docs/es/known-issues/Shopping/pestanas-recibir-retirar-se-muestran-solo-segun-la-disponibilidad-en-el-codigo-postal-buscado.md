@@ -20,7 +20,7 @@ internalReference:
 
 Actualmente, el escenario de exhibición de las opciones "Recibir | Retirar" está condicionado a la búsqueda del código postal en cualquiera de las pestañas. Esto significa que, si se busca en la pestaña "Recibir" un código postal que no se atienda en un punto de recogida, la pestaña "Retirar" no se mostrará al usuario.
 
-![Captura de Pantalla 2018-11-21 a las  14.25.40](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Shopping/pestanas-recibir-retirar-se-muestran-solo-segun-la-disponibilidad-en-el-codigo-postal-buscado_1.png)
+![Captura de Pantalla 2018-11-21 a las  14.25.40](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Shopping/pestanas-recibir-retirar-se-muestran-solo-segun-la-disponibilidad-en-el-codigo-postal-buscado_1.png)
 
 
 ## Simulación
