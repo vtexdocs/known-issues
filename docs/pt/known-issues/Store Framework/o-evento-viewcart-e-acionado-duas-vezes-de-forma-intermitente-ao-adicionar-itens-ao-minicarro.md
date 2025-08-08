@@ -2,8 +2,8 @@
 title: O evento view_cart é acionado duas vezes de forma intermitente ao adicionar itens ao minicarro
 slug: o-evento-viewcart-e-acionado-duas-vezes-de-forma-intermitente-ao-adicionar-itens-ao-minicarro
 status: PUBLISHED
-createdAt: 2025-08-08T15:29:39.326Z
-updatedAt: 2025-08-08T15:29:39.326Z
+createdAt: 2025-08-08T17:26:32.247Z
+updatedAt: 2025-08-08T17:26:32.247Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -23,12 +23,5 @@ Ao adicionar itens ao carrinho, o evento analítico `view_cart` é acionado duas
 ## Simulação
 
 
-1. Adicione um produto ao minicarro;
-2. Verifique seu dataLayer, às vezes você verá dois eventos de `view_cart` após o `add_to_cart
 ## Workaround
-
-
-N/A
-
-
 
