@@ -2,8 +2,8 @@
 title: SKU Specification filters aren't loaded when the SKU is only available in a Whitelabel seller
 slug: sku-specification-filters-arent-loaded-when-the-sku-is-only-available-in-a-whitelabel-seller
 status: PUBLISHED
-createdAt: 2025-08-08T15:39:29.471Z
-updatedAt: 2025-08-08T15:39:29.471Z
+createdAt: 2025-08-08T21:06:49.153Z
+updatedAt: 2025-08-08T21:06:49.153Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
