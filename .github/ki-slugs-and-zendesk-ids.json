@@ -17526,11 +17526,6 @@
   },
   {
     "locale": "pt",
-    "slug": "os-produtos-podem-nao-aparecer-na-pesquisa-ao-usar-sinonimos-em-idiomas-secundarios",
-    "internalReference": 1268282
-  },
-  {
-    "locale": "pt",
     "slug": "os-termos-das-principais-pesquisas-apresentados-no-preenchimento-automatico-nao-estao-de-acordo-com-os-termos-apresentados-no-relatorio-do-analytic",
     "internalReference": 741999
   },
