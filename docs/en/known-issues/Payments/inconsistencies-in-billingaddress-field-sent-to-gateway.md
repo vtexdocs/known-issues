@@ -1,18 +1,16 @@
 ---
-title: 'Inconsistencies in billingAddress field sent to Gateway'
-id: 2SNynMgq0w0t7WBoXGoZwR
+title: Inconsistencies in billingAddress field sent to Gateway
+slug: inconsistencies-in-billingaddress-field-sent-to-gateway
 status: PUBLISHED
-createdAt: 2022-01-21T18:13:45.045Z
-updatedAt: 2024-08-14T13:26:01.437Z
-publishedAt: 2024-08-14T13:26:01.437Z
-firstPublishedAt: 2022-01-21T18:59:43.332Z
+createdAt: 2025-08-07T20:20:01.403Z
+updatedAt: 2025-08-07T20:20:01.403Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: inconsistencies-in-billingaddress-field-sent-to-gateway
 locale: en
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 291688
 ---
 
@@ -24,9 +22,7 @@ The gateway uses the wrong address in recurring purchase scenarios when there is
 The error occurs because the gateway relies on the `isBillingAddressDifferent` checkbox, which appears next to the card data at checkout, to define whether it will use the delivery address or billing address in affiliations and antifraud. The problem is that this checkbox in question doesn't even appear in the checkout after the first purchase with the card, but its value is `false` by default. This means that, being a delivery or pickup purchase, the address that the gateway will use is the delivery address and not the billing address, and this will bring problems in pickup scenarios or even to generate Bank Slips.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 Scene A:
@@ -44,14 +40,9 @@ Scenario B:
 4. Observe objects `isBillingAddressDifferent` that will be false and the `address` of the payment tha will not have a specific address
 
 
-##
-
-## Workaround
+#### Workaround
 
 
-N/A
-
-
-
+Submit a product support request to proceed with the transaction.
 
 

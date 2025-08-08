@@ -1,18 +1,16 @@
 ---
-title: "Manual sorting of collections doesn't work as expected"
-id: aGTNVDT6LKKoWuSceQWs0
+title: Manual sorting of collections doesn't work as expected
+slug: manual-sorting-of-collections-doesnt-work-as-expected
 status: PUBLISHED
-createdAt: 2017-10-03T19:13:58.344Z
-updatedAt: 2024-10-09T18:49:09.414Z
-publishedAt: 2024-10-09T18:49:09.414Z
-firstPublishedAt: 2017-10-03T19:58:57.335Z
+createdAt: 2025-08-07T21:17:39.433Z
+updatedAt: 2025-08-07T21:17:39.433Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slugEN: manual-sorting-of-collections-doesnt-work-as-expected
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 295245
 ---
 
@@ -33,9 +31,7 @@ In both cases, the system supports sorting up to **30** SKUs of the collection. 
 
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -49,9 +45,7 @@ In both cases, the system supports sorting up to **30** SKUs of the collection. 
 7. Access the page and note that the first ordered items will be items placed after 30.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 
@@ -60,4 +54,5 @@ As a workaround, we have the following options:
 
 - Use collections with only 30 items, if it's essential to apply manual sorting;
 - Use the Release Date field, register the dates in the desired sequence, and use the field to sort the collection.
+
 

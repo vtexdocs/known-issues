@@ -3311,6 +3311,11 @@
   },
   {
     "locale": "en",
+    "slug": "2fa-sms-sent-by-vtex-appears-as-likely-scam-to-users-in-ireland",
+    "internalReference": 1268097
+  },
+  {
+    "locale": "en",
     "slug": "cookie-broken-the-apisessions",
     "internalReference": 779014
   },
@@ -3373,6 +3378,11 @@
     "locale": "en",
     "slug": "users-cant-access-master-datacrm-system-when-they-try-to-log-in-by-saml-authentication",
     "internalReference": 465652
+  },
+  {
+    "locale": "en",
+    "slug": "accented-synonyms-may-not-return-products-in-secondary-languages",
+    "internalReference": 1268282
   },
   {
     "locale": "en",
@@ -3628,6 +3638,11 @@
     "locale": "en",
     "slug": "productclick-event-not-triggering-in-searchbar",
     "internalReference": 742754
+  },
+  {
+    "locale": "en",
+    "slug": "products-may-not-appear-in-search-when-using-synonyms-in-secondary-languages",
+    "internalReference": 1268282
   },
   {
     "locale": "en",
@@ -4008,6 +4023,11 @@
     "locale": "en",
     "slug": "warehouse-api-demonstrates-pickup-point-deleted-instore-warehouse",
     "internalReference": 573017
+  },
+  {
+    "locale": "en",
+    "slug": "warehouse-prioritization-is-not-deterministic-during-shipping-simulation",
+    "internalReference": 1268196
   },
   {
     "locale": "en",
@@ -4468,6 +4488,11 @@
     "locale": "en",
     "slug": "orders-seller-1-has-no-notifications-on-hook-type-fromorders-for-state-payment-approved",
     "internalReference": 640925
+  },
+  {
+    "locale": "en",
+    "slug": "orders-stuck-in-completed-with-onordercompleted-status-in-fulfillment-and-approved-payment-status-in-marketplace",
+    "internalReference": 1218615
   },
   {
     "locale": "en",
@@ -10216,6 +10241,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-sms-de-2fa-enviado-por-vtex-aparece-como-probable-estafa-a-los-usuarios-de-irlanda",
+    "internalReference": 1268097
+  },
+  {
+    "locale": "es",
     "slug": "el-usuario-solo-con-el-rol-administrador-de-usuarios-restringido-no-puede-listar-los-usuarios",
     "internalReference": 932666
   },
@@ -10358,6 +10388,11 @@
     "locale": "es",
     "slug": "es-posible-que-la-busqueda-de-productos-mediante-sinonimos-no-devuelva-todos-los-productos-del-termino-original",
     "internalReference": 1094028
+  },
+  {
+    "locale": "es",
+    "slug": "es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilizan-sinonimos-en-lenguas-secundarias",
+    "internalReference": 1268282
   },
   {
     "locale": "es",
@@ -10568,6 +10603,11 @@
     "locale": "es",
     "slug": "los-productos-sin-stock-en-los-vendedores-de-marca-blanca-aparecen-en-el-final-de-la-plp",
     "internalReference": 495741
+  },
+  {
+    "locale": "es",
+    "slug": "los-sinonimos-acentuados-pueden-no-devolver-productos-en-lenguas-secundarias",
+    "internalReference": 1268282
   },
   {
     "locale": "es",
@@ -10808,6 +10848,11 @@
     "locale": "es",
     "slug": "la-politica-de-envios-bloqueada-en-estado-de-tramitacion-se-muestra-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica",
     "internalReference": 925914
+  },
+  {
+    "locale": "es",
+    "slug": "la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio",
+    "internalReference": 1268196
   },
   {
     "locale": "es",
@@ -11488,6 +11533,11 @@
     "locale": "es",
     "slug": "pedido-sin-suscripcion-creado-y-sin-correo-electronico-de-nuevos-pedidos-en-casos-relacionados-con-el-metodo-de-pago-utilizando-conectores-como-pay",
     "internalReference": 529143
+  },
+  {
+    "locale": "es",
+    "slug": "pedidos-atascados-en-completado-con-el-estado-en-orden-completado-en-cumplimiento-y-el-estado-de-pago-aprobado-en-el-mercado",
+    "internalReference": 1218615
   },
   {
     "locale": "es",
@@ -17146,6 +17196,11 @@
   },
   {
     "locale": "pt",
+    "slug": "sms-2fa-enviado-pela-vtex-aparece-como-provavel-golpe-para-usuarios-na-irlanda",
+    "internalReference": 1268097
+  },
+  {
+    "locale": "pt",
     "slug": "tempo-limite-geracao-de-chaves-internas-do-aplicativo",
     "internalReference": 1029425
   },
@@ -17451,6 +17506,11 @@
   },
   {
     "locale": "pt",
+    "slug": "os-produtos-podem-nao-aparecer-na-pesquisa-ao-usar-sinonimos-em-idiomas-secundarios",
+    "internalReference": 1268282
+  },
+  {
+    "locale": "pt",
     "slug": "os-termos-das-principais-pesquisas-apresentados-no-preenchimento-automatico-nao-estao-de-acordo-com-os-termos-apresentados-no-relatorio-do-analytic",
     "internalReference": 741999
   },
@@ -17556,6 +17616,11 @@
   },
   {
     "locale": "pt",
+    "slug": "sinonimos-acentuados-podem-nao-retornar-produtos-em-idiomas-secundarios",
+    "internalReference": 1268282
+  },
+  {
+    "locale": "pt",
     "slug": "sinonimos-importam-apresentar-sucesso-mesmo-para-acoes-fracassadas",
     "internalReference": 984557
   },
@@ -17618,6 +17683,11 @@
     "locale": "pt",
     "slug": "a-priorizacao-de-rotas-nao-oferece-a-melhor-opcao-em-termos-de-quantidade-de-pacotes-e-itens",
     "internalReference": 927747
+  },
+  {
+    "locale": "pt",
+    "slug": "a-priorizacao-do-armazem-nao-e-deterministica-durante-a-simulacao-de-expedicao",
+    "internalReference": 1268196
   },
   {
     "locale": "pt",
@@ -18403,6 +18473,11 @@
     "locale": "pt",
     "slug": "pedidos-com-vendedores-de-mudanca-executados-nao-estao-respeitando-o-periodo-de-carencia-de-cancelamento",
     "internalReference": 656815
+  },
+  {
+    "locale": "pt",
+    "slug": "pedidos-presos-em-concluidos-com-status-de-pedido-concluido-no-atendimento-e-status-de-pagamento-aprovado-no-marketplace",
+    "internalReference": 1218615
   },
   {
     "locale": "pt",

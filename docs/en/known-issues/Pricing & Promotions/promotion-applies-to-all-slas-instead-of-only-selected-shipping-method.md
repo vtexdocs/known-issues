@@ -2,8 +2,8 @@
 title: Promotion applies to all SLAs instead of only selected shipping method
 slug: promotion-applies-to-all-slas-instead-of-only-selected-shipping-method
 status: PUBLISHED
-createdAt: 2025-07-24T18:03:06.991Z
-updatedAt: 2025-07-24T18:03:06.991Z
+createdAt: 2025-08-07T20:01:21.279Z
+updatedAt: 2025-08-07T20:01:21.279Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo

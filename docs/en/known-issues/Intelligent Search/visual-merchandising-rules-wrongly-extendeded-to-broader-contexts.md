@@ -1,18 +1,16 @@
 ---
-title: 'Visual merchandising rules wrongly extendeded to broader contexts'
-id: 2wXWYnsHwYrXByNRu3HdBK
+title: Visual merchandising rules wrongly extendeded to broader contexts
+slug: visual-merchandising-rules-wrongly-extendeded-to-broader-contexts
 status: PUBLISHED
-createdAt: 2024-09-13T22:19:38.122Z
-updatedAt: 2024-11-11T16:45:01.734Z
-publishedAt: 2024-11-11T16:45:01.734Z
-firstPublishedAt: 2024-09-13T22:19:39.138Z
+createdAt: 2025-08-07T20:22:52.058Z
+updatedAt: 2025-08-07T20:22:52.058Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: visual-merchandising-rules-wrongly-extendeded-to-broader-contexts
 locale: en
-kiStatus: Scheduled
+kiStatus: Backlog
 internalReference: 1098688
 ---
 
@@ -23,12 +21,10 @@ Visual merchandising rules are set for specific contexts by defining filters by 
 
 For context, pinned and hidden products perform the same action as the promote and remove by ID actions from a manual merch rule.
 
-The easiest example is that setting it to a category will also applly modifiers to its subcategories.
+The easiest example is that setting it to a category will also apply modifiers to its subcategories.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -37,13 +33,9 @@ The easiest example is that setting it to a category will also applly modifiers 
 - The "t-shirt" subcategory won't apply the expected sorting correctly, because it'll be under the influence of the merch rule for the "children" category
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 It's possible to create the same type of rule through the manual editor, where you can set the "exclusive trigger" option, completely avoiding the overlap between different rules.
-
-
 
 
