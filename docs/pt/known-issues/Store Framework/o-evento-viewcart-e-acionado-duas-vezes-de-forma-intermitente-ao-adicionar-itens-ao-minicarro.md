@@ -2,8 +2,8 @@
 title: O evento view_cart é acionado duas vezes de forma intermitente ao adicionar itens ao minicarro
 slug: o-evento-viewcart-e-acionado-duas-vezes-de-forma-intermitente-ao-adicionar-itens-ao-minicarro
 status: PUBLISHED
-createdAt: 2025-08-08T14:37:15.443Z
-updatedAt: 2025-08-08T14:37:15.443Z
+createdAt: 2025-08-08T14:39:37.221Z
+updatedAt: 2025-08-08T14:39:37.221Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
