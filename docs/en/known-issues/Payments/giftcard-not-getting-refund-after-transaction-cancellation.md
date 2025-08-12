@@ -1,41 +1,40 @@
 ---
-title: 'Giftcard not getting refund after transaction cancellation'
-id: lWW0jvEty50Pphr3JFYt7
+title: Giftcard not getting refund after transaction cancellation
+slug: giftcard-not-getting-refund-after-transaction-cancellation
 status: PUBLISHED
-createdAt: 2022-06-28T17:06:16.141Z
-updatedAt: 2022-11-25T22:05:08.090Z
-publishedAt: 2022-11-25T22:05:08.090Z
-firstPublishedAt: 2022-06-29T12:49:40.594Z
+createdAt: 2025-08-12T18:51:09.447Z
+updatedAt: 2025-08-12T18:51:09.447Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: giftcard-not-getting-refund-after-transaction-cancellation
 locale: en
-kiStatus: Backlog
+kiStatus: -
 internalReference: 491195
 ---
 
 ## Summary
 
 
-When the payment is a gift card and an error occurs during the order placement process and the order remains incomplete, then the GC is not refunded after the transaction is canceled.
+When the payment method is a gift card and an error occurs during the order placement process, causing the order to remain incomplete, the gift card balance is not refunded after the transaction is canceled.
 
-This issue was first discussed in this thread and basically, there are 2 operations managed by the GC system where this issue might occur:
+This results in the gift card balance being deducted even though the debit operation technically failed. Since the gift card couldn't be properly debited, the transaction remains incomplete. However, upon reviewing the gift card statement, it's possible to see that the debit was processed successfully, despite the error message displayed in the interactions.
 
-1. When the amount of the gift card is debited;
-2. It then saves the transaction info in the SimpleDB.
-
-
-
-## Simulation
+This occurs because the system utilizes multiple databases to register gift card transactions, which can result in inconsistencies between the user's statement and the data returned by the API.
+The most common scenario is that the gift card is debited first, and then the transaction is saved. If a failure occurs during this second step, the debit is not rolled back, resulting in the inconsistency
 
 
 
+#### Simulation
 
 
-## Workaround
+It's not possible to simulate
+
+
+#### Workaround
 
 
 Refund manually via the Gift Card UI.
+
 
