@@ -2,8 +2,8 @@
 title: Accented synonyms may not return products in secondary languages
 slug: accented-synonyms-may-not-return-products-in-secondary-languages
 status: PUBLISHED
-createdAt: 2025-08-07T20:38:57.977Z
-updatedAt: 2025-08-07T20:38:57.977Z
+createdAt: 2025-08-12T17:16:27.072Z
+updatedAt: 2025-08-12T17:16:27.072Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
