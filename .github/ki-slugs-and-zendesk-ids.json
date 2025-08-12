@@ -5101,11 +5101,6 @@
   },
   {
     "locale": "en",
-    "slug": "giftcard-not-getting-refund-after-transaction-cancellation",
-    "internalReference": 491195
-  },
-  {
-    "locale": "en",
     "slug": "giftcard-rechargeable-configuration-does-not-work-when-trying-to-add-credit-to-the-gift-card-through-api",
     "internalReference": 583669
   },
