@@ -2,8 +2,8 @@
 title: Manual sorting of collections doesn't work as expected
 slug: manual-sorting-of-collections-doesnt-work-as-expected
 status: PUBLISHED
-createdAt: 2025-08-07T21:17:39.433Z
-updatedAt: 2025-08-07T21:17:39.433Z
+createdAt: 2025-08-12T18:34:41.253Z
+updatedAt: 2025-08-12T18:34:41.253Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
