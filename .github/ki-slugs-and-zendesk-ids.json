@@ -4251,6 +4251,11 @@
   },
   {
     "locale": "en",
+    "slug": "delay-in-canceling-the-order-in-marketplace",
+    "internalReference": 1242813
+  },
+  {
+    "locale": "en",
     "slug": "delay-to-register-cancelreason-in-the-order-json",
     "internalReference": 792650
   },
@@ -11601,6 +11606,11 @@
   },
   {
     "locale": "es",
+    "slug": "retraso-en-la-cancelacion-del-pedido-en-marketplace",
+    "internalReference": 1242813
+  },
+  {
+    "locale": "es",
     "slug": "retraso-para-registrar-cancelreason-en-el-json-del-pedido",
     "internalReference": 792650
   },
@@ -18163,6 +18173,11 @@
     "locale": "pt",
     "slug": "assinaturas-quando-o-vendedor-e-um-pickup-point-e-nao-tem-um-dos-skus",
     "internalReference": 666701
+  },
+  {
+    "locale": "pt",
+    "slug": "atraso-no-cancelamento-do-pedido-no-marketplace",
+    "internalReference": 1242813
   },
   {
     "locale": "pt",
