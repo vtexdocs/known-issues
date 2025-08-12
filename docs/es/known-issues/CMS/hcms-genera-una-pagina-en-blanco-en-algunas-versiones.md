@@ -2,8 +2,8 @@
 title: hCMS genera una página en blanco en algunas versiones
 slug: hcms-genera-una-pagina-en-blanco-en-algunas-versiones
 status: PUBLISHED
-createdAt: 2025-08-08T14:41:18.417Z
-updatedAt: 2025-08-08T14:41:18.417Z
+createdAt: 2025-08-12T18:58:08.654Z
+updatedAt: 2025-08-12T18:58:08.654Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
