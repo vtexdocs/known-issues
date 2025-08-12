@@ -3146,6 +3146,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
+    "internalReference": 1227978
+  },
+  {
+    "locale": "en",
     "slug": "shopee-could-not-create-product",
     "internalReference": 685149
   },
@@ -10076,6 +10081,11 @@
   },
   {
     "locale": "es",
+    "slug": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
+    "internalReference": 1227978
+  },
+  {
+    "locale": "es",
     "slug": "shopee-sku-desactivado-en-el-mercado-shopeeskuhelper-actualizacion-de-sku-fallida",
     "internalReference": 685137
   },
@@ -17003,6 +17013,11 @@
     "locale": "pt",
     "slug": "revista-luiza-ordem-cancelada-no-marketplace-nao-foi-cancelada-na-vtex",
     "internalReference": 792618
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao",
+    "internalReference": 1227978
   },
   {
     "locale": "pt",
