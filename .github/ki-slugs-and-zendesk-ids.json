@@ -4516,6 +4516,11 @@
   },
   {
     "locale": "en",
+    "slug": "orders-stuck-in-starthandling-status",
+    "internalReference": 1218606
+  },
+  {
+    "locale": "en",
     "slug": "orders-with-a-creation-error-remain-stuck-in-a-cancel-status",
     "internalReference": 1089344
   },
@@ -11576,6 +11581,11 @@
   },
   {
     "locale": "es",
+    "slug": "pedidos-bloqueados-en-el-estado-de-inicio-de-tratamiento",
+    "internalReference": 1218606
+  },
+  {
+    "locale": "es",
     "slug": "pedidos-con-kit-en-newui-se-esta-mostrando-el-id-del-kit-donde-deberia-mostrar-el-id-de-la-sku",
     "internalReference": 618388
   },
@@ -18468,6 +18478,11 @@
     "locale": "pt",
     "slug": "ordem-de-assinatura-geradora-de-erro-o-mesmo-item-nao-pode-ter-mais-de-um-sla-selecionado",
     "internalReference": 658185
+  },
+  {
+    "locale": "pt",
+    "slug": "ordens-presas-no-status-de-tratamento-inicial",
+    "internalReference": 1218606
   },
   {
     "locale": "pt",
