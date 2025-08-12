@@ -3126,6 +3126,11 @@
   },
   {
     "locale": "en",
+    "slug": "netshoes-main-image-not-respected",
+    "internalReference": 1220978
+  },
+  {
+    "locale": "en",
     "slug": "order-approved-in-the-marketplace-but-not-integrated-into-vtex",
     "internalReference": 547809
   },
@@ -9803,6 +9808,11 @@
     "locale": "es",
     "slug": "flujo-de-revision-para-updatestock-netshoes",
     "internalReference": 646869
+  },
+  {
+    "locale": "es",
+    "slug": "imagen-principal-no-respetada",
+    "internalReference": 1220978
   },
   {
     "locale": "es",
@@ -16923,6 +16933,11 @@
     "locale": "pt",
     "slug": "nderstand-why-some-orders-placed-at-magalu-were-as-incomplet",
     "internalReference": 597771
+  },
+  {
+    "locale": "pt",
+    "slug": "netshoes-imagem-principal-nao-respeitada",
+    "internalReference": 1220978
   },
   {
     "locale": "pt",
