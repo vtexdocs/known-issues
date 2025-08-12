@@ -3646,11 +3646,6 @@
   },
   {
     "locale": "en",
-    "slug": "products-may-not-appear-in-search-when-using-synonyms-in-secondary-languages",
-    "internalReference": 1268282
-  },
-  {
-    "locale": "en",
     "slug": "products-with-price-zero-shown-as-unavailable-at-intelligent-search",
     "internalReference": 1045184
   },
