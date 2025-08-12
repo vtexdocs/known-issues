@@ -2,8 +2,8 @@
 title: Los filtros de especificación de SKU no se cargan cuando la SKU sólo está disponible en un vendedor de etiqueta blanca
 slug: los-filtros-de-especificacion-de-sku-no-se-cargan-cuando-la-sku-solo-esta-disponible-en-un-vendedor-de-etiqueta-blanca
 status: PUBLISHED
-createdAt: 2025-08-08T21:06:57.476Z
-updatedAt: 2025-08-08T21:06:57.476Z
+createdAt: 2025-08-12T18:59:30.771Z
+updatedAt: 2025-08-12T18:59:30.771Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
