@@ -2,8 +2,8 @@
 title: Pedido preso em on-order-completed-ffm (Fulfillment) ou on-order-completed (Marketplace) mesmo após a criação bem-sucedida (isCompleted: true)
 slug: pedido-preso-em-onordercompletedffm-fulfillment-ou-onordercompleted-marketplace-mesmo-apos-a-criacao-bemsucedida-iscompleted-true
 status: PUBLISHED
-createdAt: 2025-08-11T12:36:04.360Z
-updatedAt: 2025-08-11T12:36:04.360Z
+createdAt: 2025-08-12T19:01:47.078Z
+updatedAt: 2025-08-12T19:01:47.078Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
