@@ -3671,6 +3671,11 @@
   },
   {
     "locale": "en",
+    "slug": "productsku-specifications-taking-priority-on-the-page-title",
+    "internalReference": 1089440
+  },
+  {
+    "locale": "en",
     "slug": "promotions-resulting-in-wrong-sorting-filtering-by-price-or-discount",
     "internalReference": 888304
   },
@@ -3738,11 +3743,6 @@
     "locale": "en",
     "slug": "sku-specification-filters-arent-loaded-when-the-sku-is-only-available-in-a-whitelabel-seller",
     "internalReference": 431888
-  },
-  {
-    "locale": "en",
-    "slug": "sku-specifications-taking-priority-on-the-page-title",
-    "internalReference": 1089440
   },
   {
     "locale": "en",
@@ -10541,7 +10541,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-especificaciones-sku-tienen-prioridad-sobre-el-titulo-de-la-pagina",
+    "slug": "las-especificaciones-del-productosku-tienen-prioridad-sobre-el-titulo-de-la-pagina",
     "internalReference": 1089440
   },
   {
@@ -17311,7 +17311,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-especificacoes-da-sku-tem-prioridade-no-titulo-da-pagina",
+    "slug": "as-especificacoes-do-produtosku-tem-prioridade-no-titulo-da-pagina",
     "internalReference": 1089440
   },
   {
