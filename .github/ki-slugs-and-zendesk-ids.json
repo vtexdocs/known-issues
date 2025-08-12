@@ -6631,6 +6631,11 @@
   },
   {
     "locale": "en",
+    "slug": "ogtitle-not-considering-the-flag-removestorenametitle-on-product-pages",
+    "internalReference": 1242243
+  },
+  {
+    "locale": "en",
     "slug": "page-layout-changes-to-mobile-when-printing-ctrlp-is-used-in-chrome",
     "internalReference": 454680
   },
@@ -13701,6 +13706,11 @@
   },
   {
     "locale": "es",
+    "slug": "ogtitle-no-tiene-en-cuenta-la-bandera-removestorenametitle-en-las-paginas-de-producto",
+    "internalReference": 1242243
+  },
+  {
+    "locale": "es",
     "slug": "pageview-se-activa-dos-veces-al-acceder-a-mi-cuenta",
     "internalReference": 854480
   },
@@ -20628,6 +20638,11 @@
     "locale": "pt",
     "slug": "o-uso-do-layout-do-controle-deslizante-com-a-propriedade-navigationstep-em-1-faz-com-que-os-ultimos-pontos-fiquem-vazios",
     "internalReference": 910125
+  },
+  {
+    "locale": "pt",
+    "slug": "ogtitle-nao-esta-considerando-o-sinalizador-removestorenametitle-nas-paginas-de-produtos",
+    "internalReference": 1242243
   },
   {
     "locale": "pt",
