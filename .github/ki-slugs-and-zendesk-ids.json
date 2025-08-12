@@ -921,7 +921,7 @@
   },
   {
     "locale": "en",
-    "slug": "insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-user-agents",
+    "slug": "insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-useragent-header",
     "internalReference": 1069222
   },
   {
@@ -7821,6 +7821,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-api-de-insercion-de-archivos-sku-no-acepta-url-de-servidores-que-requieran-el-encabezado-useragent",
+    "internalReference": 1069222
+  },
+  {
+    "locale": "es",
     "slug": "la-api-de-insercionactualizacion-de-productos-permite-n-en-el-campo-textlink",
     "internalReference": 486459
   },
@@ -7853,11 +7858,6 @@
     "locale": "es",
     "slug": "la-api-get-sku-by-ean-solo-devuelve-las-sku-activas",
     "internalReference": 699007
-  },
-  {
-    "locale": "es",
-    "slug": "la-api-insertar-archivo-sku-no-acepta-urls-de-servidores-que-requieren-agentes-de-usuario",
-    "internalReference": 1069222
   },
   {
     "locale": "es",
@@ -14316,7 +14316,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-insert-sku-file-nao-aceita-urls-de-servidores-que-exigem-user-agents",
+    "slug": "a-api-insert-sku-file-nao-aceita-urls-de-servidores-que-exigem-o-cabecalho-useragent",
     "internalReference": 1069222
   },
   {
