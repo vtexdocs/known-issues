@@ -291,6 +291,11 @@
   },
   {
     "locale": "en",
+    "slug": "contenttypes-listing-has-no-way-of-scrolling-down",
+    "internalReference": 1271990
+  },
+  {
+    "locale": "en",
     "slug": "custom-video-thumbnail-image-is-not-displayed-on-mobile-version",
     "internalReference": 412632
   },
@@ -7183,6 +7188,11 @@
     "locale": "es",
     "slug": "el-editor-del-sitio-tiene-problemas-de-representacion-intermitente-en-la-pantalla-pequena",
     "internalReference": 399339
+  },
+  {
+    "locale": "es",
+    "slug": "el-listado-de-tipos-de-contenido-no-permite-desplazarse-hacia-abajo",
+    "internalReference": 1271990
   },
   {
     "locale": "es",
@@ -14108,6 +14118,11 @@
     "locale": "pt",
     "slug": "a-imagem-em-miniatura-de-video-personalizada-nao-e-exibida-na-versao-movel",
     "internalReference": 412632
+  },
+  {
+    "locale": "pt",
+    "slug": "a-listagem-de-tipos-de-conteudo-nao-tem-como-ser-rolada-para-baixo",
+    "internalReference": 1271990
   },
   {
     "locale": "pt",
