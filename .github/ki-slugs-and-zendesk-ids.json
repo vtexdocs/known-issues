@@ -3646,6 +3646,11 @@
   },
   {
     "locale": "en",
+    "slug": "products-may-not-appear-in-search-when-using-synonyms-in-secondary-languages",
+    "internalReference": 1268282
+  },
+  {
+    "locale": "en",
     "slug": "products-with-price-zero-shown-as-unavailable-at-intelligent-search",
     "internalReference": 1045184
   },
@@ -10393,6 +10398,11 @@
     "locale": "es",
     "slug": "es-posible-que-la-busqueda-de-productos-mediante-sinonimos-no-devuelva-todos-los-productos-del-termino-original",
     "internalReference": 1094028
+  },
+  {
+    "locale": "es",
+    "slug": "es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilizan-sinonimos-en-lenguas-secundarias",
+    "internalReference": 1268282
   },
   {
     "locale": "es",
@@ -17513,6 +17523,11 @@
     "locale": "pt",
     "slug": "os-precos-de-tabelas-de-precos-especificas-nao-sao-considerados-na-classificacao-ou-filtragem-de-produtos",
     "internalReference": 1085895
+  },
+  {
+    "locale": "pt",
+    "slug": "os-produtos-podem-nao-aparecer-na-pesquisa-ao-usar-sinonimos-em-idiomas-secundarios",
+    "internalReference": 1268282
   },
   {
     "locale": "pt",
