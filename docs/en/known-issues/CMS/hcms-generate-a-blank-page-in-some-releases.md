@@ -2,8 +2,8 @@
 title: hCMS generate a blank page in some releases
 slug: hcms-generate-a-blank-page-in-some-releases
 status: PUBLISHED
-createdAt: 2025-08-08T14:41:11.797Z
-updatedAt: 2025-08-08T14:41:11.797Z
+createdAt: 2025-08-12T18:58:02.888Z
+updatedAt: 2025-08-12T18:58:02.888Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
