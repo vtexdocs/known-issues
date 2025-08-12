@@ -10396,11 +10396,6 @@
   },
   {
     "locale": "es",
-    "slug": "es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilizan-sinonimos-en-lenguas-secundarias",
-    "internalReference": 1268282
-  },
-  {
-    "locale": "es",
     "slug": "especificaciones-con-el-mismo-nombre-que-afectan-a-la-visibilidad-del-filtro-en-la-busqueda-inteligente",
     "internalReference": 1078576
   },
