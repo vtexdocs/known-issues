@@ -176,6 +176,11 @@
   },
   {
     "locale": "en",
+    "slug": "failure-in-organizations-requests-status-update",
+    "internalReference": 1275305
+  },
+  {
+    "locale": "en",
     "slug": "first-digit-is-removed-from-corporatedocument-if-starts-with-letters",
     "internalReference": 920703
   },
@@ -7033,6 +7038,11 @@
     "locale": "es",
     "slug": "el-registro-estatal-no-se-completa-tras-aprobar-la-solicitud-de-organizacion",
     "internalReference": 825127
+  },
+  {
+    "locale": "es",
+    "slug": "fallo-en-la-actualizacion-del-estado-de-las-solicitudes-de-organizaciones",
+    "internalReference": 1275305
   },
   {
     "locale": "es",
@@ -14008,6 +14018,11 @@
     "locale": "pt",
     "slug": "as-permissoes-do-storefront-consideram-as-organizacoes-inativas",
     "internalReference": 927174
+  },
+  {
+    "locale": "pt",
+    "slug": "falha-na-atualizacao-do-status-das-solicitacoes-das-organizacoes",
+    "internalReference": 1275305
   },
   {
     "locale": "pt",
