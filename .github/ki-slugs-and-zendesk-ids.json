@@ -3171,6 +3171,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-error-when-updating-commercial-policy-in-the-integration-card-setup",
+    "internalReference": 1238883
+  },
+  {
+    "locale": "en",
     "slug": "shopee-failed-to-create-product-variations",
     "internalReference": 685160
   },
@@ -10113,6 +10118,11 @@
     "locale": "es",
     "slug": "revista-luiza-pedido-con-error-referencia-de-objeto-no-establecida-a-una-instancia-de-un-objeto",
     "internalReference": 777298
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-error-al-actualizar-la-politica-comercial-en-la-configuracion-de-la-tarjeta-de-integracion",
+    "internalReference": 1238883
   },
   {
     "locale": "es",
@@ -17093,6 +17103,11 @@
     "locale": "pt",
     "slug": "revista-luiza-ordem-cancelada-no-marketplace-nao-foi-cancelada-na-vtex",
     "internalReference": 792618
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-erro-ao-atualizar-a-politica-comercial-na-configuracao-do-cartao-de-integracao",
+    "internalReference": 1238883
   },
   {
     "locale": "pt",
