@@ -6871,6 +6871,11 @@
   },
   {
     "locale": "en",
+    "slug": "variable-runtimeroutequerystring-is-cached-across-different-user-sessions",
+    "internalReference": 1275673
+  },
+  {
+    "locale": "en",
     "slug": "video-component-doesnt-work-properly-on-ios-devices",
     "internalReference": 609462
   },
@@ -13666,6 +13671,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-variable-runtimeroutequerystring-se-almacena-en-cache-en-diferentes-sesiones-de-usuario",
+    "internalReference": 1275673
+  },
+  {
+    "locale": "es",
     "slug": "las-etiquetas-a-veces-no-aparecen-en-la-vista-plp-con-formato-de-lista",
     "internalReference": 982200
   },
@@ -20388,6 +20398,11 @@
     "locale": "pt",
     "slug": "a-transliteracao-so-esta-sendo-salva-no-vbase-e-nao-no-rewriter",
     "internalReference": 738334
+  },
+  {
+    "locale": "pt",
+    "slug": "a-variavel-runtimeroutequerystring-e-armazenada-em-cache-em-diferentes-sessoes-de-usuario",
+    "internalReference": 1275673
   },
   {
     "locale": "pt",
