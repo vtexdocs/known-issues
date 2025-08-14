@@ -3461,6 +3461,11 @@
   },
   {
     "locale": "en",
+    "slug": "cannot-select-the-locale-for-synonym-in-multilanguage-intelligent-search",
+    "internalReference": 1276576
+  },
+  {
+    "locale": "en",
     "slug": "clear-filter-button-doesnt-handle-multiple-filters-correctly",
     "internalReference": 960905
   },
@@ -10711,6 +10716,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-se-puede-seleccionar-la-configuracion-regional-del-sinonimo-en-la-busqueda-inteligente-multilingue",
+    "internalReference": 1276576
+  },
+  {
+    "locale": "es",
     "slug": "precio-al-contado-incorrecto-para-articulos-con-unitmultiplier-superior-a-1-en-api-de-busqueda-inteligente",
     "internalReference": 934687
   },
@@ -17548,6 +17558,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-abrir-a-sku-separada-adequada-no-pdp-em-uma-nova-guia",
     "internalReference": 871848
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-selecionar-a-localidade-para-o-sinonimo-na-intelligent-search-multilingue",
+    "internalReference": 1276576
   },
   {
     "locale": "pt",
