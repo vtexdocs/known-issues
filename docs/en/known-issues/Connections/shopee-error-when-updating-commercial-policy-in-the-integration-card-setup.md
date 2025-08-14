@@ -2,8 +2,8 @@
 title: Shopee Error when updating commercial policy in the integration card setup
 slug: shopee-error-when-updating-commercial-policy-in-the-integration-card-setup
 status: PUBLISHED
-createdAt: 2025-08-13T18:59:25.679Z
-updatedAt: 2025-08-13T18:59:25.679Z
+createdAt: 2025-08-14T16:19:35.919Z
+updatedAt: 2025-08-14T16:19:35.919Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,13 +11,14 @@ tag: Connections
 slugEN: shopee-error-when-updating-commercial-policy-in-the-integration-card-setup
 locale: en
 kiStatus: Backlog
-internalReference: 1238883
+internalReference: 1236034
 ---
 
 ## Summary
 
 
 When changing the commercial policy of an already configured Shopee account, the items previously linked to the old policy remain active. There is no automatic process to deactivate those items or re-publish them under the new commercial policy, leading to catalog issues and order failures.
+
 
 
 #### Simulation
@@ -31,12 +32,14 @@ When changing the commercial policy of an already configured Shopee account, the
 ["fields":0,"error":{"code":"ORDoo2","message":"The item {item description} is no longer available","exception":null},"operationId": {operationId number}"]
 
 
+
 #### Workaround
 
 
 Set inventory to zero for all items tied to the old commercial policy.
 Wait until this update is successfully processed by the marketplace.
 Then, update the account with the new commercial policy and re-publish items
+
 
 
 
