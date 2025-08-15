@@ -2,15 +2,15 @@
 title: og:title not considering the flag removeStoreNameTitle on product pages
 slug: ogtitle-not-considering-the-flag-removestorenametitle-on-product-pages
 status: PUBLISHED
-createdAt: 2025-08-12T18:39:07.716Z
-updatedAt: 2025-08-12T18:39:07.716Z
+createdAt: 2025-08-15T12:45:28.543Z
+updatedAt: 2025-08-15T12:45:28.543Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: ogtitle-not-considering-the-flag-removestorenametitle-on-product-pages
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1242243
 ---
 
