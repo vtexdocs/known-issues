@@ -1,18 +1,16 @@
 ---
-title: 'Filters by SKU specifications not considering regionalized availability'
-id: 3CeTfHaNBfhrC5qIi3nTLh
+title: Filters by SKU specifications not considering regionalized availability
+slug: filters-by-sku-specifications-not-considering-regionalized-availability
 status: PUBLISHED
-createdAt: 2024-06-05T20:52:53.211Z
-updatedAt: 2024-06-05T20:52:54.055Z
-publishedAt: 2024-06-05T20:52:54.055Z
-firstPublishedAt: 2024-06-05T20:52:54.055Z
+createdAt: 2025-08-15T19:48:13.719Z
+updatedAt: 2025-08-15T19:48:13.719Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: filters-by-sku-specifications-not-considering-regionalized-availability
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 1045111
 ---
 
@@ -24,9 +22,7 @@ Filtering the search by an SKU specification will also apply a filter by SKU ava
 Regionalized navigations may return products where the filtered variation is unavailable because the indexed availability for an SKU specification is based on all regular and whitelabel sellers.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 Considering a store with two sellers and the following availability matrix for a specific product:
@@ -37,13 +33,9 @@ Considering a store with two sellers and the following availability matrix for a
 In a navigation with "regionId: seller B", filtering by "size: small" will return the product (as it were available) and "size: large" will hide the product (because it's unavailable everywhere).
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 N/A
-
-
 
 
