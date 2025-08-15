@@ -2,15 +2,15 @@
 title: og:title não está considerando o sinalizador removeStoreNameTitle nas páginas de produtos
 slug: ogtitle-nao-esta-considerando-o-sinalizador-removestorenametitle-nas-paginas-de-produtos
 status: PUBLISHED
-createdAt: 2025-08-12T18:38:58.679Z
-updatedAt: 2025-08-12T18:38:58.679Z
+createdAt: 2025-08-15T12:45:22.846Z
+updatedAt: 2025-08-15T12:45:22.846Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: ogtitle-not-considering-the-flag-removestorenametitle-on-product-pages
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1242243
 ---
 
