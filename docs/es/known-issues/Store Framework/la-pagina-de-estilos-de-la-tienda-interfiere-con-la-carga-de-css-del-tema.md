@@ -2,15 +2,15 @@
 title: La página de estilos de la tienda interfiere con la carga de CSS del tema
 slug: la-pagina-de-estilos-de-la-tienda-interfiere-con-la-carga-de-css-del-tema
 status: PUBLISHED
-createdAt: 2025-08-22T20:06:52.138Z
-updatedAt: 2025-08-22T20:06:52.138Z
+createdAt: 2025-08-22T20:23:47.071Z
+updatedAt: 2025-08-22T20:23:47.071Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: storefront-styles-page-interfering-with-theme-css-loading
 locale: es
-kiStatus: -
+kiStatus: Backlog
 internalReference: 1280557
 ---
 
