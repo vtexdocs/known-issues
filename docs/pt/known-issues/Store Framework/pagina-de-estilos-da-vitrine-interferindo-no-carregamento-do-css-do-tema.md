@@ -2,15 +2,15 @@
 title: Página de estilos da vitrine interferindo no carregamento do CSS do tema
 slug: pagina-de-estilos-da-vitrine-interferindo-no-carregamento-do-css-do-tema
 status: PUBLISHED
-createdAt: 2025-08-22T20:06:40.586Z
-updatedAt: 2025-08-22T20:06:40.586Z
+createdAt: 2025-08-22T20:23:37.424Z
+updatedAt: 2025-08-22T20:23:37.424Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: storefront-styles-page-interfering-with-theme-css-loading
 locale: pt
-kiStatus: -
+kiStatus: Backlog
 internalReference: 1280557
 ---
 
