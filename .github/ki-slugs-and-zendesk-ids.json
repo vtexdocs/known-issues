@@ -6816,6 +6816,11 @@
   },
   {
     "locale": "en",
+    "slug": "storefront-styles-page-interfering-with-theme-css-loading",
+    "internalReference": 1280557
+  },
+  {
+    "locale": "en",
     "slug": "stucked-not-found-routes-on-platform",
     "internalReference": 793457
   },
@@ -13673,6 +13678,11 @@
     "locale": "es",
     "slug": "la-funcion-aplicar-al-tema-no-funciona-en-el-editor-de-sitios-con-paginas-personalizadas",
     "internalReference": 580543
+  },
+  {
+    "locale": "es",
+    "slug": "la-pagina-de-estilos-de-la-tienda-interfiere-con-la-carga-de-css-del-tema",
+    "internalReference": 1280557
   },
   {
     "locale": "es",
@@ -20773,6 +20783,11 @@
     "locale": "pt",
     "slug": "os-redirecionamentos-de-exportacao-nao-estao-funcionando-como-esperado",
     "internalReference": 537962
+  },
+  {
+    "locale": "pt",
+    "slug": "pagina-de-estilos-da-vitrine-interferindo-no-carregamento-do-css-do-tema",
+    "internalReference": 1280557
   },
   {
     "locale": "pt",
