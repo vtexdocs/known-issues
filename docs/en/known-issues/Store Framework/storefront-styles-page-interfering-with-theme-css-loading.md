@@ -2,15 +2,15 @@
 title: Storefront Styles Page Interfering with Theme CSS Loading
 slug: storefront-styles-page-interfering-with-theme-css-loading
 status: PUBLISHED
-createdAt: 2025-08-22T20:06:46.670Z
-updatedAt: 2025-08-22T20:06:46.670Z
+createdAt: 2025-08-22T20:23:43.417Z
+updatedAt: 2025-08-22T20:23:43.417Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: storefront-styles-page-interfering-with-theme-css-loading
 locale: en
-kiStatus: -
+kiStatus: Backlog
 internalReference: 1280557
 ---
 
