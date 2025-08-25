@@ -2,8 +2,8 @@
 title: Inestabilidad de los datos de exportación de informes cuando se tienen muchos pedidos.
 slug: inestabilidad-de-los-datos-de-exportacion-de-informes-cuando-se-tienen-muchos-pedidos
 status: PUBLISHED
-createdAt: 2025-08-25T13:46:01.064Z
-updatedAt: 2025-08-25T13:46:01.064Z
+createdAt: 2025-08-25T14:05:32.080Z
+updatedAt: 2025-08-25T14:05:32.080Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -29,11 +29,12 @@ Sin embargo, este número de intentos puede generar un código de estado de 429 
 
 
 Dado que el escenario es intermitente, ¡no podemos simularlo!
+Sin embargo, sugerimos reducir los filtros para mejorar y reducir el número en la lista.
 
 ## Workaround
 
 
-En este caso, la solución consiste en esperar antes de volver a intentarlo. Esto evita que el sistema experimente el código de estado 429.
+Para este escenario, la solución consiste en esperar antes de volver a intentarlo. Esto evita que el sistema experimente el código de estado 429.
 
 
 
