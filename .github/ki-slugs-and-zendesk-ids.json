@@ -4356,6 +4356,11 @@
   },
   {
     "locale": "en",
+    "slug": "inconsistency-in-displaying-the-origin-of-order-cancellations-in-the-get-orders-api",
+    "internalReference": 1249934
+  },
+  {
+    "locale": "en",
     "slug": "incorrect-price-on-order-change-due-to-unit-multiplier",
     "internalReference": 371066
   },
@@ -11431,6 +11436,11 @@
   },
   {
     "locale": "es",
+    "slug": "incoherencia-en-la-visualizacion-del-origen-de-las-anulaciones-de-pedidos-en-la-api-get-orders",
+    "internalReference": 1249934
+  },
+  {
+    "locale": "es",
     "slug": "itens-devueltos-con-el-mismo-skuid-en-diferentes-arrays-uniqueid-no-es-visible-correctamente",
     "internalReference": 1050294
   },
@@ -18363,6 +18373,11 @@
     "locale": "pt",
     "slug": "historico-de-eventos-de-assinatura-fora-de-ordem",
     "internalReference": 872697
+  },
+  {
+    "locale": "pt",
+    "slug": "inconsistencia-na-exibicao-da-origem-dos-cancelamentos-de-pedidos-na-api-get-orders",
+    "internalReference": 1249934
   },
   {
     "locale": "pt",
