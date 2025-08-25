@@ -2,8 +2,8 @@
 title: Report export data instability when you have many orders!
 slug: report-export-data-instability-when-you-have-many-orders
 status: PUBLISHED
-createdAt: 2025-08-25T13:45:56.950Z
-updatedAt: 2025-08-25T13:45:56.950Z
+createdAt: 2025-08-25T14:05:26.117Z
+updatedAt: 2025-08-25T14:05:26.117Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -27,6 +27,7 @@ However, this number of attempts can generate a status code of 429 in SOLRs (dat
 
 
 Since the scenario is intermittent, we cannot simulate it!
+However, we suggest reducing filters to improve and reduce the number in the list.
 
 
 #### Workaround
