@@ -6641,6 +6641,11 @@
   },
   {
     "locale": "en",
+    "slug": "malformed-pdp-urls-when-using-workspace-querystring",
+    "internalReference": 1281017
+  },
+  {
+    "locale": "en",
     "slug": "maximum-call-stack-size-exceeded-on-sitemap",
     "internalReference": 1132723
   },
@@ -13911,6 +13916,11 @@
   },
   {
     "locale": "es",
+    "slug": "url-de-pdp-malformadas-al-utilizar-la-cadena-de-consulta-del-espacio-de-trabajo",
+    "internalReference": 1281017
+  },
+  {
+    "locale": "es",
     "slug": "usando-sliderlayout-con-el-prop-navigationstep-a-1-causa-que-los-ultimos-puntos-esten-vacios",
     "internalReference": 910125
   },
@@ -20903,6 +20913,11 @@
     "locale": "pt",
     "slug": "traducao-automatica-de-urls-que-nao-ocorrem-devido-a-caracteres-especiais",
     "internalReference": 1062858
+  },
+  {
+    "locale": "pt",
+    "slug": "urls-de-pdp-malformados-ao-usar-a-string-de-consulta-do-espaco-de-trabalho",
+    "internalReference": 1281017
   },
   {
     "locale": "pt",
