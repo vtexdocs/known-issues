@@ -411,6 +411,11 @@
   },
   {
     "locale": "en",
+    "slug": "storefront-styles-page-interfering-with-theme-css-loading",
+    "internalReference": 1280557
+  },
+  {
+    "locale": "en",
     "slug": "stucked-releasespublications-on-hcms",
     "internalReference": 1262447
   },
@@ -7308,6 +7313,11 @@
     "locale": "es",
     "slug": "la-imagen-en-miniatura-del-video-personalizado-no-se-muestra-en-la-version-movil",
     "internalReference": 412632
+  },
+  {
+    "locale": "es",
+    "slug": "la-pagina-de-estilos-de-la-tienda-interfiere-con-la-carga-de-css-del-tema",
+    "internalReference": 1280557
   },
   {
     "locale": "es",
@@ -14348,6 +14358,11 @@
     "locale": "pt",
     "slug": "os-redirecionamentos-estao-sendo-contados-varias-vezes",
     "internalReference": 1066548
+  },
+  {
+    "locale": "pt",
+    "slug": "pagina-de-estilos-da-vitrine-interferindo-no-carregamento-do-css-do-tema",
+    "internalReference": 1280557
   },
   {
     "locale": "pt",
