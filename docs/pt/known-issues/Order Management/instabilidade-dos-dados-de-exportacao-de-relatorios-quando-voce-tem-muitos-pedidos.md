@@ -2,8 +2,8 @@
 title: Instabilidade dos dados de exportação de relatórios quando você tem muitos pedidos!
 slug: instabilidade-dos-dados-de-exportacao-de-relatorios-quando-voce-tem-muitos-pedidos
 status: PUBLISHED
-createdAt: 2025-08-25T13:45:47.407Z
-updatedAt: 2025-08-25T13:45:47.407Z
+createdAt: 2025-08-25T14:05:17.154Z
+updatedAt: 2025-08-25T14:05:17.154Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -27,6 +27,7 @@ No entanto, esse número de tentativas pode gerar um código de status de 429 no
 
 
 Como o cenário é intermitente, não podemos simulá-lo!
+No entanto, sugerimos reduzir os filtros para melhorar e reduzir o número na lista.
 
 
 ## Workaround
