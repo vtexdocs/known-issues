@@ -4581,6 +4581,11 @@
   },
   {
     "locale": "en",
+    "slug": "report-export-data-instability-when-you-have-many-orders",
+    "internalReference": 1280864
+  },
+  {
+    "locale": "en",
     "slug": "request-for-settlement-of-orders-does-not-account-for-the-value-of-interest",
     "internalReference": 1130035
   },
@@ -11438,6 +11443,11 @@
     "locale": "es",
     "slug": "incoherencia-en-la-visualizacion-del-origen-de-las-anulaciones-de-pedidos-en-la-api-get-orders",
     "internalReference": 1249934
+  },
+  {
+    "locale": "es",
+    "slug": "inestabilidad-de-los-datos-de-exportacion-de-informes-cuando-se-tienen-muchos-pedidos",
+    "internalReference": 1280864
   },
   {
     "locale": "es",
@@ -18383,6 +18393,11 @@
     "locale": "pt",
     "slug": "informacoes-do-cartao-de-pedido-causando-confusao-no-status",
     "internalReference": 619778
+  },
+  {
+    "locale": "pt",
+    "slug": "instabilidade-dos-dados-de-exportacao-de-relatorios-quando-voce-tem-muitos-pedidos",
+    "internalReference": 1280864
   },
   {
     "locale": "pt",
