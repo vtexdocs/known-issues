@@ -251,6 +251,11 @@
   },
   {
     "locale": "en",
+    "slug": "sku-quantity-miscount-in-checkout-when-more-for-less-promotion-is-applied-in-b2b-quotes",
+    "internalReference": 1281922
+  },
+  {
+    "locale": "en",
     "slug": "state-registration-is-not-filled-after-approving-the-organization-request",
     "internalReference": 825127
   },
@@ -348,6 +353,11 @@
     "locale": "en",
     "slug": "it-is-not-possible-to-create-a-path-using-content-type-via-ui",
     "internalReference": 923619
+  },
+  {
+    "locale": "en",
+    "slug": "messagessv2-flag-requires-content-to-be-saved-on-the-original-language",
+    "internalReference": 1260018
   },
   {
     "locale": "en",
@@ -1463,6 +1473,11 @@
     "locale": "en",
     "slug": "vtexcmc-productgifts-does-not-work-before-acessing-checkout",
     "internalReference": 1029719
+  },
+  {
+    "locale": "en",
+    "slug": "xml-check-installment-settings",
+    "internalReference": 1268809
   },
   {
     "locale": "en",
@@ -3981,6 +3996,11 @@
   },
   {
     "locale": "en",
+    "slug": "pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api",
+    "internalReference": 1262007
+  },
+  {
+    "locale": "en",
     "slug": "problems-opening-manage-inventory-by-admin-page-with-error-ui",
     "internalReference": 466491
   },
@@ -5141,6 +5161,11 @@
   },
   {
     "locale": "en",
+    "slug": "giftcard-not-getting-refund-after-transaction-cancellation",
+    "internalReference": 491195
+  },
+  {
+    "locale": "en",
     "slug": "giftcard-rechargeable-configuration-does-not-work-when-trying-to-add-credit-to-the-gift-card-through-api",
     "internalReference": 583669
   },
@@ -5481,6 +5506,11 @@
   },
   {
     "locale": "en",
+    "slug": "sku-quantity-miscount-in-checkout-when-more-for-less-promotion-is-applied-in-b2b-quotes",
+    "internalReference": 1281922
+  },
+  {
+    "locale": "en",
     "slug": "status-on-transactions-list-doesnt-match-actual-state",
     "internalReference": 1004883
   },
@@ -5723,6 +5753,11 @@
     "locale": "en",
     "slug": "instore-does-not-read-properly-the-html-registred-in-the-product-information",
     "internalReference": 718136
+  },
+  {
+    "locale": "en",
+    "slug": "absence-of-feedback-for-order-change-failures-in-pick-and-pack-communication-with-oms",
+    "internalReference": 1275957
   },
   {
     "locale": "en",
@@ -7091,6 +7126,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-en-el-recuento-de-la-cantidad-de-sku-en-la-caja-cuando-se-aplica-la-promocion-mas-por-menos-en-cotizaciones-b2b",
+    "internalReference": 1281922
+  },
+  {
+    "locale": "es",
     "slug": "fallo-en-la-actualizacion-del-estado-de-las-solicitudes-de-organizaciones",
     "internalReference": 1275305
   },
@@ -7303,6 +7343,11 @@
     "locale": "es",
     "slug": "headless-cms-ignora-la-configuracion-de-validacion-de-matrices",
     "internalReference": 1046372
+  },
+  {
+    "locale": "es",
+    "slug": "la-bandera-messagessv2-requiere-que-el-contenido-se-guarde-en-el-idioma-original",
+    "internalReference": 1260018
   },
   {
     "locale": "es",
@@ -8463,6 +8508,11 @@
     "locale": "es",
     "slug": "vtexcmc-regalosproducto-no-funciona-antes-de-acceder-a-la-caja",
     "internalReference": 1029719
+  },
+  {
+    "locale": "es",
+    "slug": "xml-comprobar-ajustes-de-instalacion",
+    "internalReference": 1268809
   },
   {
     "locale": "es",
@@ -10996,6 +11046,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-entrega-en-los-paises-que-no-utilizan-nuestra-api-de-codigo-postal",
+    "internalReference": 1262007
+  },
+  {
+    "locale": "es",
     "slug": "modal-como-razon-generica-incluso-este-tipo-de-modal-estan-configurados-ok",
     "internalReference": 488339
   },
@@ -12106,6 +12161,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-en-el-recuento-de-la-cantidad-de-sku-en-la-caja-cuando-se-aplica-la-promocion-mas-por-menos-en-cotizaciones-b2b",
+    "internalReference": 1281922
+  },
+  {
+    "locale": "es",
     "slug": "error-en-el-reembolso-el-valor-no-puede-ser-nulo-nombre-del-parametro-valor",
     "internalReference": 1049494
   },
@@ -12526,6 +12586,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-se-reembolsa-la-tarjeta-regalo-tras-cancelar-la-transaccion",
+    "internalReference": 491195
+  },
+  {
+    "locale": "es",
     "slug": "nps-no-aceptamos-respuestas-con-mas-de-65536-caracteres",
     "internalReference": 317389
   },
@@ -12733,6 +12798,11 @@
     "locale": "es",
     "slug": "instore-no-lee-correctamente-el-html-registrado-en-la-informacion-del-producto",
     "internalReference": 718136
+  },
+  {
+    "locale": "es",
+    "slug": "ausencia-de-retroalimentacion-por-fallos-en-el-cambio-de-pedido-en-pick-and-pack-comunicacion-con-oms",
+    "internalReference": 1275957
   },
   {
     "locale": "es",
@@ -14121,6 +14191,11 @@
   },
   {
     "locale": "pt",
+    "slug": "erro-na-contagem-da-quantidade-de-sku-no-checkout-quando-a-promocao-mais-por-menos-e-aplicada-em-cotacoes-b2b",
+    "internalReference": 1281922
+  },
+  {
+    "locale": "pt",
     "slug": "falha-na-atualizacao-do-status-das-solicitacoes-das-organizacoes",
     "internalReference": 1275305
   },
@@ -14343,6 +14418,11 @@
     "locale": "pt",
     "slug": "o-seletor-de-estilos-cms-nao-funciona-em-espacos-de-trabalho-de-desenvolvimento",
     "internalReference": 388544
+  },
+  {
+    "locale": "pt",
+    "slug": "o-sinalizador-messagessv2-exige-que-o-conteudo-seja-salvo-no-idioma-original",
+    "internalReference": 1260018
   },
   {
     "locale": "pt",
@@ -15478,6 +15558,11 @@
     "locale": "pt",
     "slug": "xml-a-moeda-da-prestacao-nao-se-aplica",
     "internalReference": 976295
+  },
+  {
+    "locale": "pt",
+    "slug": "xml-verificar-configuracoes-de-parcelamento",
+    "internalReference": 1268809
   },
   {
     "locale": "pt",
@@ -18011,6 +18096,11 @@
   },
   {
     "locale": "pt",
+    "slug": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-entrega-em-paises-que-nao-usam-nossa-api-de-codigo-postal",
+    "internalReference": 1262007
+  },
+  {
+    "locale": "pt",
     "slug": "pickup-point-not-visible-for-selection-in-shipping-policy-ui",
     "internalReference": 449813
   },
@@ -19161,6 +19251,11 @@
   },
   {
     "locale": "pt",
+    "slug": "erro-na-contagem-da-quantidade-de-sku-no-checkout-quando-a-promocao-mais-por-menos-e-aplicada-em-cotacoes-b2b",
+    "internalReference": 1281922
+  },
+  {
+    "locale": "pt",
     "slug": "erro-na-criacao-de-pagamentos-personalizados",
     "internalReference": 995110
   },
@@ -19456,6 +19551,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao",
+    "internalReference": 491195
+  },
+  {
+    "locale": "pt",
     "slug": "o-hub-do-gift-card-aceita-id-invalidavazia-em-resposta-a-criacao-da-transacao",
     "internalReference": 855864
   },
@@ -19743,6 +19843,11 @@
     "locale": "pt",
     "slug": "a-instore-nao-le-corretamente-o-registro-html-nas-informacoes-do-produto",
     "internalReference": 718136
+  },
+  {
+    "locale": "pt",
+    "slug": "ausencia-de-feedback-para-falhas-na-alteracao-de-pedidos-no-pick-and-pack-comunicacao-com-o-oms",
+    "internalReference": 1275957
   },
   {
     "locale": "pt",
