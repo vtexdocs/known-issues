@@ -5466,6 +5466,11 @@
   },
   {
     "locale": "en",
+    "slug": "risk-analysis-canceled-earlier-than-expected-due-to-fixed-retry-limit",
+    "internalReference": 1282965
+  },
+  {
+    "locale": "en",
     "slug": "scheduled-automatic-capture-does-not-appear",
     "internalReference": 1121837
   },
@@ -11883,6 +11888,11 @@
     "locale": "es",
     "slug": "early-capture-compite-injustamente-con-automatic-capture-en-authorizedotnet",
     "internalReference": 866068
+  },
+  {
+    "locale": "es",
+    "slug": "el-analisis-de-riesgos-se-cancela-antes-de-lo-previsto-debido-al-limite-fijo-de-reintentos",
+    "internalReference": 1282965
   },
   {
     "locale": "es",
@@ -18908,6 +18918,11 @@
     "locale": "pt",
     "slug": "alterar-o-numero-de-caracteres-no-boletim-da-braspag",
     "internalReference": 771045
+  },
+  {
+    "locale": "pt",
+    "slug": "analise-de-risco-cancelada-antes-do-esperado-devido-ao-limite-fixo-de-tentativas",
+    "internalReference": 1282965
   },
   {
     "locale": "pt",
