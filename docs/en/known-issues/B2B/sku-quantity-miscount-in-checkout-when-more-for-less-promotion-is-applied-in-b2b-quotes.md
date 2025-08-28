@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slugEN: sku-quantity-miscount-in-checkout-when-more-for-less-promotion-is-applied-in-b2b-quotes
 locale: en
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1281922
 ---
 
