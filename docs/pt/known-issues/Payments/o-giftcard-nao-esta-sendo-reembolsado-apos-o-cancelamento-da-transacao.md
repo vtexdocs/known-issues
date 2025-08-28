@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: giftcard-not-getting-refund-after-transaction-cancellation
 locale: pt
-kiStatus: -
+kiStatus: Unknown
 internalReference: 491195
 ---
 

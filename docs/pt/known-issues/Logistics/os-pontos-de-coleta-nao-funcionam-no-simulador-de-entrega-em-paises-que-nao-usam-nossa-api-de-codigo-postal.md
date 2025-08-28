@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slugEN: pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api
 locale: pt
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1262007
 ---
 

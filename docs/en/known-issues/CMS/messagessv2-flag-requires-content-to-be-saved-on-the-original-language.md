@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slugEN: messagessv2-flag-requires-content-to-be-saved-on-the-original-language
 locale: en
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1260018
 ---
 

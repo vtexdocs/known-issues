@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: xml-check-installment-settings
 locale: en
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1268809
 ---
 

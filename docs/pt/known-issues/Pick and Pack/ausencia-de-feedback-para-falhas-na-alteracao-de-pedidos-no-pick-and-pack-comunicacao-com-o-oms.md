@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pick and Pack
 slugEN: absence-of-feedback-for-order-change-failures-in-pick-and-pack-communication-with-oms
 locale: pt
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1275957
 ---
 
