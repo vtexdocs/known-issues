@@ -2,8 +2,8 @@
 title: Filtros por especificaciones SKU sin tener en cuenta la disponibilidad regionalizada
 slug: filtros-por-especificaciones-sku-sin-tener-en-cuenta-la-disponibilidad-regionalizada
 status: PUBLISHED
-createdAt: 2025-08-15T19:48:19.028Z
-updatedAt: 2025-08-15T19:48:19.028Z
+createdAt: 2025-08-28T18:26:03.662Z
+updatedAt: 2025-08-28T18:26:03.662Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
