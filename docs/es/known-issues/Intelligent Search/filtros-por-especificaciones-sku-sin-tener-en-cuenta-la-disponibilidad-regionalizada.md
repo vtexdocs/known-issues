@@ -2,15 +2,15 @@
 title: Filtros por especificaciones SKU sin tener en cuenta la disponibilidad regionalizada
 slug: filtros-por-especificaciones-sku-sin-tener-en-cuenta-la-disponibilidad-regionalizada
 status: PUBLISHED
-createdAt: 2025-08-28T18:26:03.662Z
-updatedAt: 2025-08-28T18:26:03.662Z
+createdAt: 2025-08-28T18:26:33.039Z
+updatedAt: 2025-08-28T18:26:33.039Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: filters-by-sku-specifications-not-considering-regionalized-availability
 locale: es
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 1045111
 ---
 
