@@ -3191,6 +3191,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-error-item-tiervariation-level-not-same-when-updating-migrated-products",
+    "internalReference": 1284853
+  },
+  {
+    "locale": "en",
     "slug": "shopee-error-when-updating-commercial-policy-in-the-integration-card-setup",
     "internalReference": 1236034
   },
@@ -10218,6 +10223,11 @@
     "locale": "es",
     "slug": "shopee-error-al-crear-variaciones-de-producto",
     "internalReference": 685160
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-error-el-nivel-de-variacion-del-articulo-no-es-el-mismo-al-actualizar-productos-migrados",
+    "internalReference": 1284853
   },
   {
     "locale": "es",
