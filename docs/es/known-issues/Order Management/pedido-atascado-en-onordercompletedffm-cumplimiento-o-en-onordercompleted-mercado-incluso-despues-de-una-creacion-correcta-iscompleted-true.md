@@ -2,15 +2,15 @@
 title: Pedido atascado en on-order-completed-ffm (Cumplimiento) o en on-order-completed (Mercado) incluso después de una creación correcta (isCompleted: true)
 slug: pedido-atascado-en-onordercompletedffm-cumplimiento-o-en-onordercompleted-mercado-incluso-despues-de-una-creacion-correcta-iscompleted-true
 status: PUBLISHED
-createdAt: 2025-08-12T19:01:52.826Z
-updatedAt: 2025-08-12T19:01:52.826Z
+createdAt: 2025-09-02T14:07:07.716Z
+updatedAt: 2025-09-02T14:07:07.716Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: order-stuck-in-onordercompletedffm-fulfillment-or-onordercompleted-marketplace-even-after-successful-creation-iscompleted-true
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1218615
 ---
 
@@ -23,7 +23,8 @@ En algunos casos, un pedido puede quedarse atascado en sus estados iniciales (`o
 
 
 
-## Simulación
+
+#### Simulación
 
 
 Por el momento, este escenario no puede simularse de forma fiable, ya que depende de fallos intermitentes o puntuales en partes aisladas del proceso de creación de pedidos.
