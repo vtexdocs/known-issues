@@ -2751,6 +2751,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-skus-for-the-same-product-werent-grouped-on-amazon",
+    "internalReference": 1240446
+  },
+  {
+    "locale": "en",
     "slug": "amazoncasacaso-erros-de-rastreamento",
     "internalReference": 360564
   },
@@ -10001,6 +10006,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-sku-del-mismo-producto-no-se-agrupaban-en-amazon",
+    "internalReference": 1240446
+  },
+  {
+    "locale": "es",
     "slug": "magalu-pedido-con-error-referencia-de-objeto-no-establecida-a-una-instancia-de-un-objeto",
     "internalReference": 707113
   },
@@ -16813,6 +16823,11 @@
     "locale": "pt",
     "slug": "amazon-erro-no-fluxo-de-atualizacao-o-sku-nao-esta-sendo-registrado-na-ponte",
     "internalReference": 990197
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-os-skus-do-mesmo-produto-nao-foram-agrupados-na-amazon",
+    "internalReference": 1240446
   },
   {
     "locale": "pt",
