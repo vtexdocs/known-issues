@@ -1196,6 +1196,11 @@
   },
   {
     "locale": "en",
+    "slug": "products-are-not-updated-after-trade-policies-are-createdupdated",
+    "internalReference": 1286569
+  },
+  {
+    "locale": "en",
     "slug": "products-with-sku-variations-approved-on-received-skus-are-being-created-with-duplicated-skus-on-the-catalog",
     "internalReference": 889676
   },
@@ -8301,6 +8306,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-productos-no-se-actualizan-tras-la-creacionactualizacion-de-las-politicas-comerciales",
+    "internalReference": 1286569
+  },
+  {
+    "locale": "es",
     "slug": "los-productos-sin-sku-no-aparecen-en-la-administracion-cuando-se-busca-por-id-de-producto",
     "internalReference": 740431
   },
@@ -15378,6 +15388,11 @@
     "locale": "pt",
     "slug": "os-diacriticos-sao-removidos-no-catalogapi",
     "internalReference": 623345
+  },
+  {
+    "locale": "pt",
+    "slug": "os-produtos-nao-sao-atualizados-depois-que-as-politicas-comerciais-sao-criadasatualizadas",
+    "internalReference": 1286569
   },
   {
     "locale": "pt",
