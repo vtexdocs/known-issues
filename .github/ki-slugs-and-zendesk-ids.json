@@ -1181,11 +1181,6 @@
   },
   {
     "locale": "en",
-    "slug": "product-specification-filter-on-collection-module-assuming-incorrect-values",
-    "internalReference": 926593
-  },
-  {
-    "locale": "en",
     "slug": "product-specification-filter-on-the-collection-module-does-not-list-root-category",
     "internalReference": 918687
   },
