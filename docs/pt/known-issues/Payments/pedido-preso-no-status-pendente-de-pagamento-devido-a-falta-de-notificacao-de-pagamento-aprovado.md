@@ -1,11 +1,9 @@
 ---
-title: 'Pedido preso no status Pendente de pagamento devido à falta de notificação de pagamento aprovado'
-id: 1yM3alrrYhrpdZhBPLslZC
+title: Pedido preso no status Pendente de pagamento devido à falta de notificação de pagamento aprovado
+slug: pedido-preso-no-status-pendente-de-pagamento-devido-a-falta-de-notificacao-de-pagamento-aprovado
 status: PUBLISHED
-createdAt: 2024-05-24T15:04:47.795Z
-updatedAt: 2024-05-24T15:04:48.820Z
-publishedAt: 2024-05-24T15:04:48.820Z
-firstPublishedAt: 2024-05-24T15:04:48.820Z
+createdAt: 2025-09-04T18:22:17.762Z
+updatedAt: 2025-09-04T18:22:17.762Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,16 +14,16 @@ kiStatus: Backlog
 internalReference: 1031035
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
 
-No status "Payment Pending" (Pagamento pendente), espera-se que uma notificação de pagamento seja enviada ao módulo Orders (Pedidos). Durante esse período, podem ocorrer alguns problemas com o processamento de eventos.
-A fila de mensagens fornece um protocolo de comunicação assíncrono, no qual os eventos são colocados em uma fila para serem consumidos em um momento predeterminado no futuro.
-Este KI refere-se explicitamente aos cenários com conectores PPP e não tem a intenção de esgotar todas as possibilidades de problemas de processamento de eventos que possam ocorrer.
 
+Quando um pedido está no status "Payment Pending" (Pagamento pendente), espera-se que uma notificação de pagamento seja registrada no módulo Orders (Pedidos). Durante esse estágio, podem ocorrer problemas no processamento de eventos.
+O OMS é notificado por meio de um ponto de extremidade de retorno de chamada acionado quando o gateway recebe uma mensagem de postback. Essa mensagem é gerada sempre que uma transação atinge estados específicos (como _Approved_) e, em seguida, é processada por um funcionário que instrui o Gateway a chamar o ponto de extremidade de retorno de chamada, atualizando o OMS sobre o novo estado da transação.
+Nesses casos, o postback é enviado com êxito, o OMS o recebe e responde com êxito, mas o pedido permanece preso devido a um erro não registrado no OMS.
+Em outras palavras, o Gateway conclui sua função corretamente, mas algum erro no processamento do OMS impede o andamento do pedido.
 ## Simulação
 
 
@@ -33,14 +31,11 @@ Este KI refere-se explicitamente aos cenários com conectores PPP e não tem a i
 Não há como simular esse comportamento.
 
 
-
 ## Workaround
 
 
 
-Entre em contato com nossa equipe de suporte para reprocessar manualmente o evento.
-
-
+Entre em contato com nossa equipe de suporte para que eles possam usar a ferramenta interna de solução de problemas
 
 
 
