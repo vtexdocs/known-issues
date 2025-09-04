@@ -1,11 +1,9 @@
 ---
-title: "Campaign Audience doesn't save coupon information"
-id: 2UVQQVLSb0UjDmyWQ5xqEX
+title: Campaign Audience doesn't save coupon information
+slug: campaign-audience-doesnt-save-coupon-information
 status: PUBLISHED
-createdAt: 2022-10-13T18:18:40.484Z
-updatedAt: 2022-11-25T22:11:35.532Z
-publishedAt: 2022-11-25T22:11:35.532Z
-firstPublishedAt: 2022-10-13T18:18:41.270Z
+createdAt: 2025-09-04T15:03:06.969Z
+updatedAt: 2025-09-04T15:03:06.969Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,24 +17,25 @@ internalReference: 521601
 ## Summary
 
 
-Campaign Audience doesn't save coupon information
+When a coupon condition is configured inside a **Campaign Audience**, the coupon information is not passed in the `matchedParameters` field of the RnB response. As a result, the Checkout and OrderForm do not retain the coupon data, and the OMS will not display it under `marketingData`.
 
 
 
-## Simulation
+#### Simulation
 
 
 
-1. Create a Campaign Audience and use a coupon condition;
-2. Create a Campaign Promotion associated to this Campaign Audience;
-3. Buy a product that has this promotion applied;
-4. Check on the OMS this order;
-5. Review the OrderForm from the order, the coupon is not saved in the `marketingData` Field
+1. Create a Campaign Audience using a coupon condition.
+2. Associate this Campaign Audience with a Campaign Promotion.
+3. Complete a purchase where this promotion applies.
+4. Check the Order in the OMS.
+5. Review the `orderForm` → note that the coupon information is missing in the `marketingData` field.
 
 
 
-## Workaround
+#### Workaround
 
 
-There is no workaround. If possible, the customer can use the coupon condition on the Promotion if it is an option.
+There is no native workaround. If possible, configure the coupon condition **directly in the Promotion** instead of using a Campaign Audience. This ensures the coupon information is returned in `matchedParameters` and saved in the order.
+
 
