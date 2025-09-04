@@ -20391,6 +20391,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-campaign-audience-nao-salva-as-informacoes-do-cupom",
+    "internalReference": 521601
+  },
+  {
+    "locale": "pt",
     "slug": "o-campo-de-colecoes-sempre-aparece-como-igual-a-no-formulario-da-campanha-para-o-publico",
     "internalReference": 697168
   },
