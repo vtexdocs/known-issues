@@ -1,11 +1,9 @@
 ---
-title: 'Order stuck in Payment Pending status due to missing payment approved notification'
-id: 1yM3alrrYhrpdZhBPLslZC
+title: Order stuck in Payment Pending status due to missing payment approved notification
+slug: order-stuck-in-payment-pending-status-due-to-missing-payment-approved-notification
 status: PUBLISHED
-createdAt: 2024-05-24T15:04:47.795Z
-updatedAt: 2024-05-24T15:04:48.820Z
-publishedAt: 2024-05-24T15:04:48.820Z
-firstPublishedAt: 2024-05-24T15:04:48.820Z
+createdAt: 2025-09-04T18:22:25.980Z
+updatedAt: 2025-09-04T18:22:25.980Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -20,29 +18,24 @@ internalReference: 1031035
 
 
 
-In the "Payment Pending" status, a payment notification is expected to be sent to the Orders module. During this period, some problems with event processing may occur.
-The message queue provides an asynchronous communication protocol, in which events are placed in a queue to be consumed at a predetermined time in the future.
-This KI refers explicitly to the scenarios with PPP connectors and is not intended to exhaust all possibilities of event processing problems that may occur.
+When an order is in the "Payment Pending" status, a payment notification is expected to be registered to the Orders module. During this stage, issues in event processing may occur.
+The OMS is notified through a callback endpoint triggered when the Gateway receives a postback message. This message is generated whenever a transaction reaches specific states (such as _Approved_) and is then processed by a worker who instructs the Gateway to call the callback endpoint, updating the OMS about the new transaction state.
+In these cases, the postback is sent successfully, the OMS receives it and responds with success, but the order remains stuck due to an unlogged error in the OMS.
+In other words, the Gateway completes its role correctly, while some error in the OMS processing prevents the order from progressing.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
 There's no way to simulate this behavior.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 
-Please contact our support team to manually reprocess the event.
-
-
+Please contact our support team so they can use the internal troubleshooter tool
 
 
 
