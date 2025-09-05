@@ -12301,6 +12301,11 @@
   },
   {
     "locale": "es",
+    "slug": "incoherencia-en-los-plazos-de-las-facturas-de-credito-de-los-clientes",
+    "internalReference": 331279
+  },
+  {
+    "locale": "es",
     "slug": "incongruencia-en-las-fechas-de-vencimiento-del-boleto-bancario",
     "internalReference": 489460
   },
@@ -19438,6 +19443,11 @@
     "locale": "pt",
     "slug": "inconsistencia-no-relatorio-de-pedidos-quando-o-campo-tid-e-duplicado-no-campo-connectorresponses-da-api-de-detalhes-de-pagamento-get",
     "internalReference": 895664
+  },
+  {
+    "locale": "pt",
+    "slug": "inconsistencia-nos-prazos-das-faturas-de-credito-do-cliente",
+    "internalReference": 331279
   },
   {
     "locale": "pt",
