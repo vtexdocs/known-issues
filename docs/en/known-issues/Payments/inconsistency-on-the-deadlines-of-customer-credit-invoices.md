@@ -1,11 +1,9 @@
 ---
-title: 'Inconsistency on the deadlines of Customer Credit invoices'
-id: 73zrcR44MDH7PAFdhu8fPM
+title: Inconsistency on the deadlines of Customer Credit invoices
+slug: inconsistency-on-the-deadlines-of-customer-credit-invoices
 status: PUBLISHED
-createdAt: 2022-03-27T13:20:54.642Z
-updatedAt: 2022-11-25T22:08:23.381Z
-publishedAt: 2022-11-25T22:08:23.381Z
-firstPublishedAt: 2022-03-27T13:20:55.062Z
+createdAt: 2025-09-05T15:41:39.869Z
+updatedAt: 2025-09-05T15:41:39.869Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,19 +17,18 @@ internalReference: 331279
 ## Summary
 
 
-Orders made using Customer Credit as the payment method generate invoices of only a single installment due to 60 days. If you check the account at the Customer Credit module it's says that the invoice was generated without problem. However, looking through the API it's possible to notice that inside the customData field the deadlines (due dates) are sent with different values. This impactes the integration with other systems that organize the fulfillments.
+In some cases, orders placed using the **Customer Credit** payment method may not correctly display the **customData** fields in the order JSON processed by OMS, even when the transaction and payment settlement are successfully completed.
+This behavior is caused by inconsistencies in how `customData` is transmitted from the `orderForm` to the final order and can be impacted by apps that update this field or by checkout customizations.
+As a result, integrations that rely on this data (such as payment terms or specific credit conditions) may fail.
 
 
-
-## Simulation
-
-
-N/A
-
-
-
-## Workaround
+#### Simulation
 
 
 N/A
 
+
+#### Workaround
+
+
+N/A
