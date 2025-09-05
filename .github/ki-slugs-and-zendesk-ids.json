@@ -4541,6 +4541,11 @@
   },
   {
     "locale": "en",
+    "slug": "order-stuck-in-payment-pending-status-due-to-missing-payment-approved-notification",
+    "internalReference": 1031035
+  },
+  {
+    "locale": "en",
     "slug": "order-with-change-itens-cannot-be-invoiced-referencing-the-items",
     "internalReference": 784171
   },
@@ -11736,6 +11741,11 @@
   },
   {
     "locale": "es",
+    "slug": "pedido-bloqueado-en-estado-pendiente-de-pago-por-falta-de-notificacion-de-pago-aprobado",
+    "internalReference": 1031035
+  },
+  {
+    "locale": "es",
     "slug": "pedido-con-estado-cancelado-pero-el-pago-sigue-autorizado",
     "internalReference": 420019
   },
@@ -18818,6 +18828,11 @@
     "locale": "pt",
     "slug": "pedido-preso-no-status-de-vendedor-cancellationrequestdeniedffm",
     "internalReference": 1004978
+  },
+  {
+    "locale": "pt",
+    "slug": "pedido-preso-no-status-pendente-de-pagamento-devido-a-falta-de-notificacao-de-pagamento-aprovado",
+    "internalReference": 1031035
   },
   {
     "locale": "pt",
