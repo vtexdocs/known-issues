@@ -3131,6 +3131,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-main-image-not-respected",
+    "internalReference": 1287784
+  },
+  {
+    "locale": "en",
     "slug": "mercado-livre-mapper-attribute-size",
     "internalReference": 592577
   },
@@ -10161,6 +10166,11 @@
   },
   {
     "locale": "es",
+    "slug": "mercado-livre-imagen-principal-no-respetada",
+    "internalReference": 1287784
+  },
+  {
+    "locale": "es",
     "slug": "mercado-livre-sku-bridge-no-registra-algunos-mensajes-de-error",
     "internalReference": 1069692
   },
@@ -17143,6 +17153,11 @@
     "locale": "pt",
     "slug": "mercado-livre-falta-o-atributo-tamanho",
     "internalReference": 658473
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-imagem-principal-nao-respeitada",
+    "internalReference": 1287784
   },
   {
     "locale": "pt",
