@@ -776,6 +776,11 @@
   },
   {
     "locale": "en",
+    "slug": "defaultvalue-property-doesnt-update-on-specification-api",
+    "internalReference": 1226096
+  },
+  {
+    "locale": "en",
     "slug": "deleting-collections-on-the-new-admin-is-not-reindexing-the-products",
     "internalReference": 490740
   },
@@ -8166,6 +8171,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-propiedad-defaultvalue-no-se-actualiza-en-la-api-de-especificacion",
+    "internalReference": 1226096
+  },
+  {
+    "locale": "es",
     "slug": "la-puesta-en-marcha-de-la-categoria-en-la-configuracion-del-seller-genera-un-time-out",
     "internalReference": 310527
   },
@@ -14733,6 +14743,11 @@
     "locale": "pt",
     "slug": "a-posicao-da-politica-comercial-depende-da-pagina-que-e-mostrada-na-interface-administrativa",
     "internalReference": 286470
+  },
+  {
+    "locale": "pt",
+    "slug": "a-propriedade-defaultvalue-nao-e-atualizada-na-api-de-especificacao",
+    "internalReference": 1226096
   },
   {
     "locale": "pt",
