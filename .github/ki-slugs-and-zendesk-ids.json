@@ -3221,6 +3221,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-the-level-of-tiervariation-not-change",
+    "internalReference": 1262367
+  },
+  {
+    "locale": "en",
     "slug": "single-sku-with-multiple-ean-in-merchant-center",
     "internalReference": 520345
   },
@@ -10248,6 +10253,11 @@
     "locale": "es",
     "slug": "revista-luiza-pedido-con-error-referencia-de-objeto-no-establecida-a-una-instancia-de-un-objeto",
     "internalReference": 777298
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-el-nivel-de-tiervariacion-no-cambia",
+    "internalReference": 1262367
   },
   {
     "locale": "es",
@@ -17343,6 +17353,11 @@
     "locale": "pt",
     "slug": "shopee-erro-ao-atualizar-a-politica-comercial-na-configuracao-do-cartao-de-integracao",
     "internalReference": 1236034
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-o-nivel-de-variacao-de-nivel-nao-muda",
+    "internalReference": 1262367
   },
   {
     "locale": "pt",
