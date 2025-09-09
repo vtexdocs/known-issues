@@ -1356,6 +1356,11 @@
   },
   {
     "locale": "en",
+    "slug": "special-characters-might-break-on-portal-results-for-field-values",
+    "internalReference": 1289146
+  },
+  {
+    "locale": "en",
     "slug": "specification-field-delete-button-not-functional",
     "internalReference": 328943
   },
@@ -8286,6 +8291,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-caracteres-especiales-podrian-romperse-en-los-resultados-del-portal-para-los-valores-de-campo",
+    "internalReference": 1289146
+  },
+  {
+    "locale": "es",
     "slug": "los-caracteres-invisibles-en-los-nombres-de-categoria-provocan-errores-de-pagina-no-encontrada",
     "internalReference": 1061149
   },
@@ -14928,6 +14938,11 @@
     "locale": "pt",
     "slug": "campos-de-texto-de-dimensao-nao-sendo-selecionados-durante-a-criacao-da-sku",
     "internalReference": 786048
+  },
+  {
+    "locale": "pt",
+    "slug": "caracteres-especiais-podem-ser-quebrados-nos-resultados-do-portal-para-valores-de-campo",
+    "internalReference": 1289146
   },
   {
     "locale": "pt",
