@@ -4786,6 +4786,11 @@
   },
   {
     "locale": "en",
+    "slug": "the-promotion-usage-counter-is-not-working-as-expected-involving-order-splits-and-incomplete-orders",
+    "internalReference": 1289805
+  },
+  {
+    "locale": "en",
     "slug": "the-user-cannot-make-a-daily-subscription-directly-from-the-mysubscriptions-area",
     "internalReference": 430650
   },
@@ -18733,6 +18738,11 @@
     "locale": "pt",
     "slug": "o-campo-judet-county-nao-esta-aparecendo-como-salvo-ao-editar-o-endereco-na-minha-conta-na-romenia",
     "internalReference": 394658
+  },
+  {
+    "locale": "pt",
+    "slug": "o-contador-de-uso-da-promocao-nao-esta-funcionando-como-esperado-envolvendo-divisoes-de-pedidos-e-pedidos-incompletos",
+    "internalReference": 1289805
   },
   {
     "locale": "pt",
