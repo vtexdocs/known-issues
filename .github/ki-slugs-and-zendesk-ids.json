@@ -11451,6 +11451,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-contador-de-uso-de-promociones-no-funciona-como-se-esperaba-en-el-caso-de-las-divisiones-de-pedidos-y-los-pedidos-incompletos",
+    "internalReference": 1289805
+  },
+  {
+    "locale": "es",
     "slug": "el-correo-electronico-de-reembolso-de-pedidos-no-se-envia-cuando-se-reembolsa-un-importe-adicional-mediante-la-nueva-interfaz-de-usuario-oms",
     "internalReference": 563300
   },
