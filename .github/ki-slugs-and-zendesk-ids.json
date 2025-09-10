@@ -8411,6 +8411,11 @@
   },
   {
     "locale": "es",
+    "slug": "producto-no-disponible-incluso-con-stock-franquiciado",
+    "internalReference": 404499
+  },
+  {
+    "locale": "es",
     "slug": "productos-no-disponibles-con-mensajes-contradictorios-en-la-nueva-administracion-de-productos-del-catalogo-facelift",
     "internalReference": 1095510
   },
@@ -15483,6 +15488,11 @@
     "locale": "pt",
     "slug": "produto-inativo-ainda-aparecendo-no-pdp-ou-checkout",
     "internalReference": 542264
+  },
+  {
+    "locale": "pt",
+    "slug": "produto-indisponivel-mesmo-com-estoque-franqueado",
+    "internalReference": 404499
   },
   {
     "locale": "pt",
