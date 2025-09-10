@@ -1,18 +1,16 @@
 ---
-title: 'APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought not always working as expected'
-id: KawgHAWqUlCvCGCAaHxDj
+title: APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought not always working as expected
+slug: apis-who-saw-also-saw-who-saw-also-bought-who-bought-also-bought-not-always-working-as-expected
 status: PUBLISHED
-createdAt: 2022-12-07T12:32:13.613Z
-updatedAt: 2022-12-07T12:33:18.595Z
-publishedAt: 2022-12-07T12:33:18.595Z
-firstPublishedAt: 2022-12-07T12:32:14.076Z
+createdAt: 2025-09-10T17:24:35.245Z
+updatedAt: 2025-09-10T17:24:35.245Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: apis-who-saw-also-saw-who-saw-also-bought-who-bought-also-bought-not-always-working-as-expected
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 712015
 ---
 
@@ -23,9 +21,7 @@ internalReference: 712015
 These 3 kinds of crossSelling APIs:  Who Saw Also Saw, Who Saw Also Bought and Who Bought Also Bought not always bring the results of the products that should be recommended. Sometimes the results are random products from the same category as the original product.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -34,10 +30,9 @@ These 3 kinds of crossSelling APIs:  Who Saw Also Saw, Who Saw Also Bought and W
 3. Check that the products returned are do not contain the other one you visited, instead are just other products from the same category as the first one.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 There is no workaround.
+
 
