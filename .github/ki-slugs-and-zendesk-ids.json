@@ -4796,6 +4796,11 @@
   },
   {
     "locale": "en",
+    "slug": "the-vtexcommerceorderchangedv2-template-cannot-send-the-reason-field-as-in-version-1-of-changeorders",
+    "internalReference": 1290946
+  },
+  {
+    "locale": "en",
     "slug": "two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull",
     "internalReference": 680919
   },
@@ -11678,6 +11683,11 @@
     "locale": "es",
     "slug": "la-orden-de-cambio-a-traves-de-la-ui-no-tiene-en-cuenta-el-calculo-de-las-promociones-toma-3-paga-2",
     "internalReference": 472882
+  },
+  {
+    "locale": "es",
+    "slug": "la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-reason-como-en-la-version-1-de-changeorders",
+    "internalReference": 1290946
   },
   {
     "locale": "es",
@@ -18793,6 +18803,11 @@
     "locale": "pt",
     "slug": "o-link-de-configuracao-de-sms-no-modelo-de-email-redireciona-o-usuario-para-a-pagina-404",
     "internalReference": 1054007
+  },
+  {
+    "locale": "pt",
+    "slug": "o-modelo-vtexcommerceorderchangedv2-nao-pode-enviar-o-campo-reason-como-na-versao-1-de-changeorders",
+    "internalReference": 1290946
   },
   {
     "locale": "pt",
