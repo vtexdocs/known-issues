@@ -2,8 +2,8 @@
 title: Las traducciones del catálogo no se reflejan en el frontend
 slug: las-traducciones-del-catalogo-no-se-reflejan-en-el-frontend
 status: PUBLISHED
-createdAt: 2025-09-15T14:11:22.877Z
-updatedAt: 2025-09-15T14:11:22.877Z
+createdAt: 2025-09-15T14:12:06.470Z
+updatedAt: 2025-09-15T14:12:06.470Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
