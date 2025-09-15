@@ -951,6 +951,11 @@
   },
   {
     "locale": "en",
+    "slug": "inserting-multiple-specification-values-not-working-on-legacy-catalog",
+    "internalReference": 1246453
+  },
+  {
+    "locale": "en",
     "slug": "installment-options-not-updating-automatically-on-pdpplp",
     "internalReference": 987467
   },
@@ -8141,6 +8146,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-insercion-de-multiples-valores-de-especificacion-no-funciona-en-el-catalogo-heredado",
+    "internalReference": 1246453
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-las-colecciones-no-permite-buscar-productos-con-caracteres-especiales",
     "internalReference": 344451
   },
@@ -14743,6 +14753,11 @@
     "locale": "pt",
     "slug": "a-importacao-de-arquivos-da-pesquisa-avancada-nao-funciona-nos-filtros-do-catalogo",
     "internalReference": 1086454
+  },
+  {
+    "locale": "pt",
+    "slug": "a-insercao-de-varios-valores-de-especificacao-nao-esta-funcionando-no-catalogo-legado",
+    "internalReference": 1246453
   },
   {
     "locale": "pt",
