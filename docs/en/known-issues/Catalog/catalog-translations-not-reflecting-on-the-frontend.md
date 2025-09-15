@@ -2,8 +2,8 @@
 title: Catalog translations not reflecting on the frontend
 slug: catalog-translations-not-reflecting-on-the-frontend
 status: PUBLISHED
-createdAt: 2025-09-15T14:11:54.141Z
-updatedAt: 2025-09-15T14:11:54.141Z
+createdAt: 2025-09-15T14:16:20.914Z
+updatedAt: 2025-09-15T14:16:20.914Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -35,9 +35,7 @@ When the merchant performs an action on the Messages app in order to have some p
 
 In order to force the translations reindex for a product, use the following API request:
 
-```
-curl --request POST 'https://.vtexcommercestable.com.br/api/notificator/changenotification//translation' \
---header 'VtexIdclientAutCookie: '
-```
+    curl --request POST 'https://{accountName}.vtexcommercestable.com.br/api/notificator/changenotification/{productId}/translation' \--header 'VtexIdclientAutCookie: {VtexIdclientAutCookie}'
+
 
 
