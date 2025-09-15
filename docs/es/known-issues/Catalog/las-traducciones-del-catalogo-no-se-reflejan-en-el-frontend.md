@@ -2,8 +2,8 @@
 title: Las traducciones del catálogo no se reflejan en el frontend
 slug: las-traducciones-del-catalogo-no-se-reflejan-en-el-frontend
 status: PUBLISHED
-createdAt: 2025-09-15T14:09:43.958Z
-updatedAt: 2025-09-15T14:09:43.958Z
+createdAt: 2025-09-15T14:11:22.877Z
+updatedAt: 2025-09-15T14:11:22.877Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -35,7 +35,9 @@ Cuando el comerciante realiza una acción en la aplicación Mensajes para que se
 
 Para forzar la reindexación de las traducciones de un producto, utilice la siguiente solicitud API:
 
-    ```curl --request POST 'https://.vtexcommercestable.com.br/api/notificator/changenotification//translation' \--header 'VtexIdclientAutCookie: '```
-
+```
+curl --request POST 'https://.vtexcommercestable.com.br/api/notificator/changenotification//translation' \
+--header 'VtexIdclientAutCookie: '
+```
 
 
