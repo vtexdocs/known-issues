@@ -1,11 +1,9 @@
 ---
-title: 'Catalog translations not reflecting on the frontend'
-id: 4c6Qzdn6NQfHhEN5U76WOi
+title: Catalog translations not reflecting on the frontend
+slug: catalog-translations-not-reflecting-on-the-frontend
 status: PUBLISHED
-createdAt: 2023-07-13T19:43:10.669Z
-updatedAt: 2023-07-13T19:43:11.858Z
-publishedAt: 2023-07-13T19:43:11.858Z
-firstPublishedAt: 2023-07-13T19:43:11.858Z
+createdAt: 2025-09-15T14:09:36.820Z
+updatedAt: 2025-09-15T14:09:36.820Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,36 +17,25 @@ internalReference: 861892
 ## Summary
 
 
-When the merchant performs an action on the Messages app in order to have some product data translated on the frontend, this action is not being actually reflected.
+When the merchant performs an action on the Messages app in order to have some product data translated on the frontend, this action is not actually reflected in the storefront.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
-1. Make a change on the messages app;
-2. Check on the indexInfo if the field GenerateAndSaveTranslationsDocument is set as 'false'
+1. Make a change on the Messages app;
+2. Notice on the `IndexedInfo` that the field `GenerateAndSaveTranslationsDocument` is set as `false`;
 3. Do not reindex the product;
-4. Check that the change did not reflected on the translated website.
+4. Check that the change did not reflect on the translated website.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
-In order to force the translations to appear is necessary to reindex the product. One of the following actions should do the trick:
+In order to force the translations reindex for a product, use the following API request:
 
-- Change the name;
-- Change the keywords;
-- Change the Text;
-- Change the category;
-- Change the brand;
-- Change the Active flag.
-
-
+    ```curl --request POST 'https://.vtexcommercestable.com.br/api/notificator/changenotification//translation' \--header 'VtexIdclientAutCookie: '```
 
 
 
