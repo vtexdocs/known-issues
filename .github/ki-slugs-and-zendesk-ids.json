@@ -3216,6 +3216,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-error-the-modelid-is-wrong-or-not-related-to-this-item",
+    "internalReference": 1292317
+  },
+  {
+    "locale": "en",
     "slug": "shopee-error-when-updating-commercial-policy-in-the-integration-card-setup",
     "internalReference": 1236034
   },
@@ -10303,6 +10308,11 @@
     "locale": "es",
     "slug": "shopee-error-al-crear-variaciones-de-producto",
     "internalReference": 685160
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-error-el-modelid-es-incorrecto-o-no-esta-relacionado-con-este-articulo",
+    "internalReference": 1292317
   },
   {
     "locale": "es",
@@ -17418,6 +17428,11 @@
     "locale": "pt",
     "slug": "shopee-erro-ao-atualizar-a-politica-comercial-na-configuracao-do-cartao-de-integracao",
     "internalReference": 1236034
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-erro-o-modelid-esta-errado-ou-nao-esta-relacionado-a-este-item",
+    "internalReference": 1292317
   },
   {
     "locale": "pt",
