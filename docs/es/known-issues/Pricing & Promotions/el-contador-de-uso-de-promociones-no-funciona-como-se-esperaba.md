@@ -1,11 +1,9 @@
 ---
-title: 'El contador de uso de promociones no funciona como se esperaba'
-id: 7iamjGsN4PuODQ359OsopW
+title: El contador de uso de promociones no funciona como se esperaba
+slug: el-contador-de-uso-de-promociones-no-funciona-como-se-esperaba
 status: PUBLISHED
-createdAt: 2024-09-02T13:01:22.361Z
-updatedAt: 2024-09-02T13:01:23.422Z
-publishedAt: 2024-09-02T13:01:23.422Z
-firstPublishedAt: 2024-09-02T13:01:23.422Z
+createdAt: 2025-09-17T20:28:24.894Z
+updatedAt: 2025-09-17T20:28:24.894Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,15 +14,13 @@ kiStatus: Backlog
 internalReference: 1090367
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-El contador de uso de promociones no está funcionando como se esperaba, lo que provoca una pérdida de control sobre el número de veces que se aplica una promoción. El problema surge porque el sistema de Checkout se encarga de notificar el uso de una promoción, mientras que el sistema de gestión de pedidos se encarga de informar de la cancelación, lo que debería disminuir el contador de uso. Sin embargo, estos sistemas envían notificaciones diferentes, provocando un mal funcionamiento del contador y creando más pedidos con la promoción aplicada de los previstos.
 
-
-##
+El contador de uso de promociones no está funcionando como se esperaba debido a un problema de validación en las notificaciones de uso. El Checkout es responsable de notificar el uso de una promoción, mientras que OMS es responsable de notificar las cancelaciones (que deberían disminuir el contador de uso). Dado que estas notificaciones no se validan correctamente, surgen discrepancias y los contadores pueden resultar incoherentes.
+Este problema afecta a tres contadores diferentes que deben corregirse: (1) el recuento total de uso de promociones, (2) el recuento de uso de promociones por perfil y (3) el recuento total de uso de cupones. El equipo ya ha publicado una solución para el primer caso (recuento total de uso de promociones), pero los otros dos aún requieren una solución.
 
 ## Simulación
 
@@ -33,18 +29,17 @@ El contador de uso de promociones no está funcionando como se esperaba, lo que 
 1. Crear una promoción con un límite de uso específico.
 2. Aplicar la promoción a múltiples pedidos a través del sistema de Checkout.
 3. Cancelar algunos de estos pedidos a través del OMS.
-4. Observe que el contador de uso de la promoción permite crear más pedidos de los previstos.
+4.
 
-Actualmente, puede que no siempre sea posible reproducir este problema de forma consistente, ya que aún no se ha determinado la causa raíz exacta.
+Observe que el contador de uso de la promoción puede permitir que se creen más pedidos de los previstos.
 
 
+
+Actualmente, puede que no siempre sea posible reproducir este problema de forma coherente, ya que aún no se ha determinado la causa raíz exacta de las notificaciones duplicadas.
 
 ## Workaround
 
 
 N/A
-
-
-
 
 
