@@ -2,8 +2,8 @@
 title: As especificações de produtos do tipo número permitem a importação de valores decimais
 slug: as-especificacoes-de-produtos-do-tipo-numero-permitem-a-importacao-de-valores-decimais
 status: PUBLISHED
-createdAt: 2025-09-18T14:39:21.896Z
-updatedAt: 2025-09-18T14:39:21.896Z
+createdAt: 2025-09-18T14:44:55.005Z
+updatedAt: 2025-09-18T14:44:55.005Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,7 +19,7 @@ internalReference: 1294268
 ## Sumário
 
 
-Em **Importar/Exportar > Especificações de produtos**, o Catalog permite a importação de valores decimais em especificações de produtos do tipo Número, mas esse tipo de campo foi criado para aceitar apenas números inteiros.
+Em **Importar/Exportar > Especificações de produtos**, o Catalog permite a importação de valores decimais em especificações de produtos do tipo Número, mas esse tipo de campo suporta apenas números inteiros.
 
 Isso causa um campo em branco/vazio na especificação da página do produto.
 ## Simulação
