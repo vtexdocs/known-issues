@@ -1116,6 +1116,11 @@
   },
   {
     "locale": "en",
+    "slug": "numbertype-product-specifications-allow-importing-array-of-values",
+    "internalReference": 1294247
+  },
+  {
+    "locale": "en",
     "slug": "offers-management-sku-status-is-not-reliable-in-vtexvtex-integrations",
     "internalReference": 745738
   },
@@ -8271,6 +8276,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-matrices-de-valores",
+    "internalReference": 1294247
+  },
+  {
+    "locale": "es",
     "slug": "las-especificaciones-obligatorias-no-se-verifican-al-crear-un-producto-a-traves-de-la-api",
     "internalReference": 522293
   },
@@ -14893,6 +14903,11 @@
     "locale": "pt",
     "slug": "as-especificacoes-da-categoria-nao-se-abrem-no-admin-na-primeira-tentativa",
     "internalReference": 664419
+  },
+  {
+    "locale": "pt",
+    "slug": "as-especificacoes-de-produto-do-tipo-numero-permitem-a-importacao-de-uma-matriz-de-valores",
+    "internalReference": 1294247
   },
   {
     "locale": "pt",
