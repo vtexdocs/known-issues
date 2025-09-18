@@ -2,8 +2,8 @@
 title: Number-type product specifications allow importing decimal values
 slug: numbertype-product-specifications-allow-importing-decimal-values
 status: PUBLISHED
-createdAt: 2025-09-18T14:39:25.690Z
-updatedAt: 2025-09-18T14:39:25.690Z
+createdAt: 2025-09-18T14:44:59.645Z
+updatedAt: 2025-09-18T14:44:59.645Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -17,7 +17,7 @@ internalReference: 1294268
 ## Summary
 
 
-In the **Import/Export > Product Specifications**, Catalog allows importing decimal values in Number-type product specifications, but this field type was built to accept only integers.
+In the **Import/Export > Product Specifications**, Catalog allows importing decimal values in Number-type product specifications, but this field type supports only integers.
 
 This causes a blank/empty field in the specification of the product page.
 
