@@ -6261,11 +6261,6 @@
   },
   {
     "locale": "en",
-    "slug": "free-shipping-promotion-fails-to-apply-due-to-minimum-or-maximum-amount-being-based-on-unit-price-instead-of-total-item-value",
-    "internalReference": 1081841
-  },
-  {
-    "locale": "en",
     "slug": "get-coupon-usage-api-doesnt-list-multiple-orders-for-the-same-coupon",
     "internalReference": 326662
   },
@@ -6388,6 +6383,11 @@
     "locale": "en",
     "slug": "promotion-usage-counter-not-working-as-expected",
     "internalReference": 1090367
+  },
+  {
+    "locale": "en",
+    "slug": "promotion-validation-uses-unit-price-instead-of-total-item-price",
+    "internalReference": 1081841
   },
   {
     "locale": "en",
@@ -13516,6 +13516,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-validacion-de-la-promocion-utiliza-el-precio-unitario-en-lugar-del-precio-total-del-articulo",
+    "internalReference": 1081841
+  },
+  {
+    "locale": "es",
     "slug": "las-condiciones-del-catalogo-de-promociones-se-aplican-a-skucomponent-aunque-solo-anada-skukit-a-la-cesta",
     "internalReference": 1085500
   },
@@ -20461,11 +20466,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-promocao-de-frete-gratis-nao-se-aplica-devido-ao-fato-de-o-valor-minimo-ou-maximo-ser-baseado-no-preco-unitario-em-vez-do-valor-total-do-item",
-    "internalReference": 1081841
-  },
-  {
-    "locale": "pt",
     "slug": "a-promocao-se-aplica-a-todos-os-slas-em-vez-de-apenas-ao-metodo-de-envio-selecionado",
     "internalReference": 1265187
   },
@@ -20473,6 +20473,11 @@
     "locale": "pt",
     "slug": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-grandes-pode-afetar-o-desempenho-ou-levar-a-erros-de-tempo-limite",
     "internalReference": 949389
+  },
+  {
+    "locale": "pt",
+    "slug": "a-validacao-da-promocao-usa-o-preco-unitario-em-vez-do-preco-total-do-item",
+    "internalReference": 1081841
   },
   {
     "locale": "pt",
