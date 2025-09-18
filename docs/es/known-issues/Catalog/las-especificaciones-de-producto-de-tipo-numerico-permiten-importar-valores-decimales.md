@@ -2,8 +2,8 @@
 title: Las especificaciones de producto de tipo numérico permiten importar valores decimales
 slug: las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-valores-decimales
 status: PUBLISHED
-createdAt: 2025-09-18T14:39:29.423Z
-updatedAt: 2025-09-18T14:39:29.423Z
+createdAt: 2025-09-18T14:45:05.145Z
+updatedAt: 2025-09-18T14:45:05.145Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,7 +19,7 @@ internalReference: 1294268
 ## Sumario
 
 
-En **Importar/Exportar > Especificaciones de Producto**, Catálogo permite importar valores decimales en especificaciones de producto de tipo Número, pero este tipo de campo fue construido para aceptar sólo enteros.
+En **Importar/Exportar > Especificaciones de producto**, Catálogo permite importar valores decimales en especificaciones de producto de tipo Número, pero este tipo de campo sólo admite números enteros.
 
 Esto provoca un campo en blanco/vacío en la especificación de la página del producto.
 
