@@ -3931,6 +3931,11 @@
   },
   {
     "locale": "en",
+    "slug": "currency-symbol-on-shelves-differs-from-website",
+    "internalReference": 1295069
+  },
+  {
+    "locale": "en",
     "slug": "api-shipping-estimate-returns-wrong-info-when-sc-is-null",
     "internalReference": 554948
   },
@@ -11038,6 +11043,11 @@
     "locale": "es",
     "slug": "traduccion-erronea-para-diferentes-campos-bajo-el-mismo-valor-original",
     "internalReference": 982848
+  },
+  {
+    "locale": "es",
+    "slug": "el-simbolo-de-la-moneda-en-las-estanterias-no-coincide-con-el-del-sitio-web",
+    "internalReference": 1295069
   },
   {
     "locale": "es",
@@ -18178,6 +18188,11 @@
     "locale": "pt",
     "slug": "traducao-incorreta-para-campos-diferentes-com-o-mesmo-valor-original",
     "internalReference": 982848
+  },
+  {
+    "locale": "pt",
+    "slug": "o-simbolo-da-moeda-nas-prateleiras-difere-do-site",
+    "internalReference": 1295069
   },
   {
     "locale": "pt",
