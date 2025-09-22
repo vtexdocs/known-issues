@@ -3561,6 +3561,11 @@
   },
   {
     "locale": "en",
+    "slug": "deleted-banners-may-remain-retrievable-in-the-banners-route-of-is-api",
+    "internalReference": 1295586
+  },
+  {
+    "locale": "en",
     "slug": "duplicated-entries-for-categoriesspecification-values-on-the-same-level",
     "internalReference": 562588
   },
@@ -10881,6 +10886,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-banners-eliminados-pueden-seguir-recuperandose-en-la-ruta-banners-de-la-api-is",
+    "internalReference": 1295586
+  },
+  {
+    "locale": "es",
     "slug": "los-filtros-de-busqueda-desaparecen-intermitentemente",
     "internalReference": 734221
   },
@@ -18013,6 +18023,11 @@
     "locale": "pt",
     "slug": "os-banners-de-pesquisa-nao-seguem-o-operador-and-para-condicoes-de-acionamento",
     "internalReference": 1053614
+  },
+  {
+    "locale": "pt",
+    "slug": "os-banners-excluidos-podem-permanecer-recuperaveis-na-rota-banners-da-api-is",
+    "internalReference": 1295586
   },
   {
     "locale": "pt",
