@@ -3566,6 +3566,11 @@
   },
   {
     "locale": "en",
+    "slug": "deleted-banners-may-still-appear-on-plp",
+    "internalReference": 1295586
+  },
+  {
+    "locale": "en",
     "slug": "duplicated-entries-for-categoriesspecification-values-on-the-same-level",
     "internalReference": 562588
   },
@@ -10886,6 +10891,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-banners-eliminados-pueden-seguir-apareciendo-en-plp",
+    "internalReference": 1295586
+  },
+  {
+    "locale": "es",
     "slug": "los-banners-eliminados-pueden-seguir-recuperandose-en-la-ruta-banners-de-la-api-is",
     "internalReference": 1295586
   },
@@ -18023,6 +18033,11 @@
     "locale": "pt",
     "slug": "os-banners-de-pesquisa-nao-seguem-o-operador-and-para-condicoes-de-acionamento",
     "internalReference": 1053614
+  },
+  {
+    "locale": "pt",
+    "slug": "os-banners-excluidos-ainda-podem-aparecer-no-plp",
+    "internalReference": 1295586
   },
   {
     "locale": "pt",
