@@ -3561,6 +3561,11 @@
   },
   {
     "locale": "en",
+    "slug": "deleted-banner-may-still-appear-on-plp",
+    "internalReference": 1295586
+  },
+  {
+    "locale": "en",
     "slug": "deleted-banners-may-remain-retrievable-in-the-banners-route-of-is-api",
     "internalReference": 1295586
   },
@@ -10658,6 +10663,11 @@
     "locale": "es",
     "slug": "el-autocompletado-de-busqueda-proporciona-una-url-obsoleta-despues-de-navegar-por-las-sugerencias",
     "internalReference": 968604
+  },
+  {
+    "locale": "es",
+    "slug": "el-banner-eliminado-puede-seguir-apareciendo-en-plp",
+    "internalReference": 1295586
   },
   {
     "locale": "es",
@@ -17983,6 +17993,11 @@
     "locale": "pt",
     "slug": "o-analisador-de-palavras-do-intelligent-search-nao-normaliza-o-genero-em-palavras-em-portugues",
     "internalReference": 1072003
+  },
+  {
+    "locale": "pt",
+    "slug": "o-banner-excluido-ainda-pode-aparecer-no-plp",
+    "internalReference": 1295586
   },
   {
     "locale": "pt",
