@@ -2,8 +2,8 @@
 title: Transação presa na liquidação após falha na captura devido à incompatibilidade de recipientsSplitRemainValue
 slug: transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-de-recipientssplitremainvalue
 status: PUBLISHED
-createdAt: 2025-09-22T16:32:43.831Z
-updatedAt: 2025-09-22T16:32:43.831Z
+createdAt: 2025-09-22T18:20:34.239Z
+updatedAt: 2025-09-22T18:20:34.239Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -28,7 +28,7 @@ O campo de dados adicionais `recipientsSplitRemainValue` armazenado para a trans
 
 
 1. Verifique se a conta está ativada com o sinalizador de recurso `can-retain-settlement.jsonnet`.
-2. Crie uma nova transação na conta de teste.
+2. Crie uma nova transação na conta.
 3. Execute uma **captura parcial** da transação.
 4. Cancelar parte do valor capturado anteriormente.
 5. Reembolsar o valor cancelado.
