@@ -2,8 +2,8 @@
 title: Transacción bloqueada en Liquidación tras fallo de Captura debido a una falta de coincidencia de recipientsSplitRemainValue.
 slug: transaccion-bloqueada-en-liquidacion-tras-fallo-de-captura-debido-a-una-falta-de-coincidencia-de-recipientssplitremainvalue
 status: PUBLISHED
-createdAt: 2025-09-22T16:32:50.062Z
-updatedAt: 2025-09-22T16:32:50.062Z
+createdAt: 2025-09-22T18:20:42.115Z
+updatedAt: 2025-09-22T18:20:42.115Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -30,7 +30,7 @@ El campo de datos adicional `recipientsSplitRemainValue` almacenado para la tran
 
 
 1. Asegurarse de que la cuenta está habilitada bajo la bandera de característica `can-retain-settlement.jsonnet`.
-2. Cree una nueva transacción en la cuenta de prueba.
+2. Cree una nueva transacción en la cuenta.
 3. Realice una **captura parcial** de la transacción.
 4. Anular parte del importe capturado previamente.
 5. Reintegrar el importe cancelado.
