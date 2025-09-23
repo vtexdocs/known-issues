@@ -3176,6 +3176,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-some-ads-are-duplicated-on-the-marketplace",
+    "internalReference": 1223372
+  },
+  {
+    "locale": "en",
     "slug": "nderstand-why-some-orders-placed-at-magalu-were-as-incomplet",
     "internalReference": 597771
   },
@@ -10233,6 +10238,11 @@
     "locale": "es",
     "slug": "mercado-livre-ad-buybox-no-actualiza-shippingmode-para-me2",
     "internalReference": 1042779
+  },
+  {
+    "locale": "es",
+    "slug": "mercado-livre-algunos-anuncios-estan-duplicados-en-el-mercado",
+    "internalReference": 1223372
   },
   {
     "locale": "es",
@@ -17318,6 +17328,11 @@
     "locale": "pt",
     "slug": "mercado-livre-ad-buybox-nao-atualiza-o-shippingmode-para-me2",
     "internalReference": 1042779
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-alguns-anuncios-estao-duplicados-no-marketplace",
+    "internalReference": 1223372
   },
   {
     "locale": "pt",
