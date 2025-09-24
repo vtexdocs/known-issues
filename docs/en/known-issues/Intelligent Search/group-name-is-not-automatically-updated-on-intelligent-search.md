@@ -1,18 +1,16 @@
 ---
-title: 'Group name is not automatically updated on Intelligent Search'
-id: 1GKDLtbKdYA0hq9YUhF2Bt
+title: Group name is not automatically updated on Intelligent Search
+slug: group-name-is-not-automatically-updated-on-intelligent-search
 status: PUBLISHED
-createdAt: 2023-05-08T19:00:44.637Z
-updatedAt: 2023-05-08T19:00:45.207Z
-publishedAt: 2023-05-08T19:00:45.207Z
-firstPublishedAt: 2023-05-08T19:00:45.207Z
+createdAt: 2025-09-24T18:20:23.232Z
+updatedAt: 2025-09-24T18:20:23.232Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: group-name-is-not-automatically-updated-on-intelligent-search
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 821481
 ---
 
@@ -26,22 +24,19 @@ Currently, there are 2 distinct collection modules:
 
 This difference is detailed here: https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3moFonW33dgOYDrU21Z1X0
 
-The legacy module has two distict data clusters, the collection (A) and the group name (B)
+The legacy module has two distinct data clusters, the collection (A) and the group name (B)
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Intelligent%20Search/group-name-is-not-automatically-updated-on-intelligent-search_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Wb85umTatjLPwTTdZ53985WHt/?name=image.png)
 
-However, the new collections module nly displaus the collection name, not its GroupName:
+However, the new collections module only displays the collection name, not its GroupName:
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Intelligent%20Search/group-name-is-not-automatically-updated-on-intelligent-search_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/dXcYFigMd8BCKPCaF5wlvcUhZ/?name=image.png)
 
-The Intelligent Search result are based on the Group Name, which is why, on cases that updates are done only on the new UI, the results are not reflected on the front end and the search queries.
-
-
+The Intelligent Search results are based on the Group Name, which is why, on cases that updates are done only on the new UI, the results are not reflected on the front end and the search queries.
 
 
-##
 
-## Simulation
+#### Simulation
 
 
 1 - create a collection using either UI
@@ -50,15 +45,10 @@ The Intelligent Search result are based on the Group Name, which is why, on case
 
 
 
-
-##
-
-## Workaround
+#### Workaround
 
 
 Manually update the GroupName on the legacy UI and click "Save Group" to reindex the collection.
-
-
 
 
 
