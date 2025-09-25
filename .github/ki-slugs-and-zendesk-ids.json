@@ -4346,6 +4346,11 @@
   },
   {
     "locale": "en",
+    "slug": "seller-selection-excludes-single-seller-of-sku-with-low-coverage-causing-unavailability-in-allocation-step",
+    "internalReference": 1298003
+  },
+  {
+    "locale": "en",
     "slug": "allow-in-the-new-order-admin-ui-return-values-without-relating-an-item",
     "internalReference": 519576
   },
@@ -11488,6 +11493,11 @@
     "locale": "es",
     "slug": "sugerencias-transformar-unitmultiplier-menor-que-1-a-0",
     "internalReference": 702056
+  },
+  {
+    "locale": "es",
+    "slug": "la-seleccion-de-vendedores-excluye-a-un-unico-vendedor-de-sku-con-baja-cobertura-lo-que-provoca-indisponibilidad-en-el-paso-de-asignacion",
+    "internalReference": 1298003
   },
   {
     "locale": "es",
