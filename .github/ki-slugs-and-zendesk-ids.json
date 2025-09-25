@@ -4721,6 +4721,11 @@
   },
   {
     "locale": "en",
+    "slug": "seller-selection-excludes-single-seller-of-sku-with-low-coverage-causing-unavailability-in-allocation-step",
+    "internalReference": 1298003
+  },
+  {
+    "locale": "en",
     "slug": "sellers-order-invoiced-with-problem-in-the-payment-capture",
     "internalReference": 376646
   },
@@ -11791,6 +11796,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-seleccion-de-vendedores-excluye-a-un-unico-vendedor-de-sku-con-baja-cobertura-lo-que-provoca-indisponibilidad-en-el-paso-de-asignacion",
+    "internalReference": 1298003
+  },
+  {
+    "locale": "es",
     "slug": "la-simulacion-de-suscripciones-devuelve-un-error-cuando-pickuppointid-contiene-caracteres-especiales",
     "internalReference": 903332
   },
@@ -18651,6 +18661,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-selecao-do-vendedor-exclui-um-unico-vendedor-de-sku-com-baixa-cobertura-causando-indisponibilidade-na-etapa-de-alocacao",
+    "internalReference": 1298003
+  },
+  {
+    "locale": "pt",
     "slug": "a-autorizacao-de-pedido-inferior-a-100-segue-o-fluxo",
     "internalReference": 983031
   },
@@ -18673,6 +18688,11 @@
     "locale": "pt",
     "slug": "a-nova-iu-nao-mostra-o-valor-faturado-na-pagina-de-itens-de-retorno",
     "internalReference": 664838
+  },
+  {
+    "locale": "pt",
+    "slug": "a-selecao-do-vendedor-exclui-um-unico-vendedor-de-sku-com-baixa-cobertura-causando-indisponibilidade-na-etapa-de-alocacao",
+    "internalReference": 1298003
   },
   {
     "locale": "pt",
