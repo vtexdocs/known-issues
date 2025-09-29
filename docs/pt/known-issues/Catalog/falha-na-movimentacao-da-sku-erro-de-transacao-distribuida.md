@@ -2,8 +2,8 @@
 title: Falha na movimentação da SKU: Erro de transação distribuída
 slug: falha-na-movimentacao-da-sku-erro-de-transacao-distribuida
 status: PUBLISHED
-createdAt: 2025-09-26T19:40:49.125Z
-updatedAt: 2025-09-26T19:40:49.125Z
+createdAt: 2025-09-29T13:14:48.897Z
+updatedAt: 2025-09-29T13:14:48.897Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,11 +19,11 @@ internalReference: 1297799
 ## Sumário
 
 
-Quando um usuário tenta mover uma SKU dentro de um produto, a ação pode falhar. O usuário receberá uma mensagem de erro na tela e um log no devtools mostrará a mensagem "Esta plataforma não oferece suporte a transações distribuídas". Esse problema ocorre de forma intermitente.
+Quando um usuário tenta mover uma SKU dentro de um produto, a ação pode falhar. O usuário receberá uma mensagem de erro na tela e um registro no DevTools mostrará a mensagem "Esta plataforma não oferece suporte a transações distribuídas". Esse problema ocorre de forma intermitente.
 ## Simulação
 
 
-Tente mover uma SKU de um produto para outro. A mensagem de erro "Não é possível mover a SKU para outro produto. Tente novamente". A mensagem detalhada pode ser vista na guia DevTools Network do navegador
+Por meio da UI do catálogo no Admin, insira uma SKU e tente movê-la para outro produto. A mensagem de erro "You can't move the SKU to another product. Try it again" será exibida na interface do usuário do Admin. A mensagem detalhada pode ser vista na guia DevTools Network do navegador
 ## Workaround
 
 
