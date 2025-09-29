@@ -3081,6 +3081,11 @@
   },
   {
     "locale": "en",
+    "slug": "meli-product-error-sequence-contains-no-elements",
+    "internalReference": 678062
+  },
+  {
+    "locale": "en",
     "slug": "meli-promotion-center-not-linking-skus-to-promotion",
     "internalReference": 801348
   },
@@ -10206,6 +10211,11 @@
   },
   {
     "locale": "es",
+    "slug": "meli-error-de-producto-la-secuencia-no-contiene-elementos",
+    "internalReference": 678062
+  },
+  {
+    "locale": "es",
     "slug": "meli-error-en-la-importacion-de-algunos-pedidos",
     "internalReference": 664351
   },
@@ -17318,6 +17328,11 @@
     "locale": "pt",
     "slug": "meli-erro-ao-importar-alguns-pedidos",
     "internalReference": 664351
+  },
+  {
+    "locale": "pt",
+    "slug": "meli-erro-de-produto-a-sequencia-nao-contem-elementos",
+    "internalReference": 678062
   },
   {
     "locale": "pt",
