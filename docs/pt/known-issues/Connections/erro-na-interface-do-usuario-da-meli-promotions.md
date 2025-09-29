@@ -1,24 +1,22 @@
 ---
-title: 'Erro na interface do usuário da MELI Promotions'
-id: BXDd7lo9fOvUq4AIM4hZs
+title: Erro na interface do usuário da MELI Promotions
+slug: erro-na-interface-do-usuario-da-meli-promotions
 status: PUBLISHED
-createdAt: 2023-04-26T11:10:30.466Z
-updatedAt: 2023-05-08T18:14:55.408Z
-publishedAt: 2023-05-08T18:14:55.408Z
-firstPublishedAt: 2023-04-26T11:10:31.106Z
+createdAt: 2025-09-29T12:05:50.781Z
+updatedAt: 2025-09-29T12:05:50.781Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: meli-promotions-ui-error
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 797143
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+
+## Sumário
 
 
 
@@ -27,20 +25,14 @@ Atualmente, temos um problema com o módulo MELI Promotions. Em alguns casos, re
 "Sorry, an error occured" (Desculpe, ocorreu um erro)
 
 Isso se deve aos limites de solicitação do MELI, e investigaremos mais a fundo como evitar esses problemas ao abrir a interface do usuário de promoções.
-
 ## Simulação
+
 
 
 Dentro do menu "Mercado Livre" - "Promoções", às vezes pode ocorrer o erro abaixo:
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Connections/erro-na-interface-do-usuario-da-meli-promotions_1.png)
-
+ ![](https://vtexhelp.zendesk.com/attachments/token/nTFCikj9ovOIsLA0QqkjuAwkU/?name=image.png
 ## Workaround
 
 
 Um simples recarregamento na tela de promoções deve resolver o problema.
-
-
-
-
-
