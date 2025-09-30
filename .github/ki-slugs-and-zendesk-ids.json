@@ -5881,6 +5881,11 @@
   },
   {
     "locale": "en",
+    "slug": "worksheet-stuck-in-to-pack-column-with-status-packed-after-packing-confirmation",
+    "internalReference": 1299842
+  },
+  {
+    "locale": "en",
     "slug": "403-error-for-all-urls-containing-develop",
     "internalReference": 975182
   },
@@ -13056,6 +13061,11 @@
   },
   {
     "locale": "es",
+    "slug": "hoja-de-calculo-atascada-en-la-columna-por-empaquetar-con-el-estado-empaquetado-tras-la-confirmacion-de-empaquetado",
+    "internalReference": 1299842
+  },
+  {
+    "locale": "es",
     "slug": "alt-attribute-not-showing-in-vtexcmcproductimage-zoomon",
     "internalReference": 526563
   },
@@ -20228,6 +20238,11 @@
     "locale": "pt",
     "slug": "ausencia-de-feedback-para-falhas-na-alteracao-de-pedidos-no-pick-and-pack-comunicacao-com-o-oms",
     "internalReference": 1275957
+  },
+  {
+    "locale": "pt",
+    "slug": "planilha-presa-na-coluna-a-embalar-com-o-status-embalado-apos-a-confirmacao-da-embalagem",
+    "internalReference": 1299842
   },
   {
     "locale": "pt",
