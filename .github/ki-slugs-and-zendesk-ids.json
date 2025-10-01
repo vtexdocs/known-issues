@@ -986,6 +986,11 @@
   },
   {
     "locale": "en",
+    "slug": "kit-component-calculations-does-not-automatically-updates-its-final-price",
+    "internalReference": 1217509
+  },
+  {
+    "locale": "en",
     "slug": "kit-creation-api-is-not-calculating-component-prices",
     "internalReference": 739693
   },
@@ -7738,6 +7743,11 @@
     "locale": "es",
     "slug": "el-boton-eliminar-de-la-interfaz-de-usuario-del-catalogo-heredado-no-funciona",
     "internalReference": 326408
+  },
+  {
+    "locale": "es",
+    "slug": "el-calculo-de-los-componentes-del-kit-no-actualiza-automaticamente-su-precio-final",
+    "internalReference": 1217509
   },
   {
     "locale": "es",
@@ -15648,6 +15658,11 @@
     "locale": "pt",
     "slug": "os-botoes-podem-nao-funcionar-na-primeira-tentativa-no-administrador-de-limpeza-completa",
     "internalReference": 790828
+  },
+  {
+    "locale": "pt",
+    "slug": "os-calculos-de-componentes-do-kit-nao-atualizam-automaticamente-seu-preco-final",
+    "internalReference": 1217509
   },
   {
     "locale": "pt",
