@@ -5506,6 +5506,11 @@
   },
   {
     "locale": "en",
+    "slug": "order-stuck-in-payment-pending-due-to-outdated-transaction-status",
+    "internalReference": 1195265
+  },
+  {
+    "locale": "en",
     "slug": "order-stuck-in-payment-pending-status-due-to-missing-payment-approved-notification",
     "internalReference": 1031035
   },
@@ -12881,6 +12886,11 @@
   },
   {
     "locale": "es",
+    "slug": "pedido-bloqueado-en-pendiente-de-pago-debido-a-un-estado-de-transaccion-obsoleto",
+    "internalReference": 1195265
+  },
+  {
+    "locale": "es",
     "slug": "problema-al-validar-el-campo-de-valor-al-comprar-con-dos-tarjetas",
     "internalReference": 460683
   },
@@ -20053,6 +20063,11 @@
     "locale": "pt",
     "slug": "pedido-com-status-de-verificacao-de-fatura-nao-e-atualizado-para-faturacao",
     "internalReference": 500245
+  },
+  {
+    "locale": "pt",
+    "slug": "pedido-preso-em-pagamento-pendente-devido-a-status-de-transacao-desatualizado",
+    "internalReference": 1195265
   },
   {
     "locale": "pt",
