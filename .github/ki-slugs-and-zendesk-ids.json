@@ -521,6 +521,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-admin-timeouts-related-to-the-number-of-values-in-a-single-specification",
+    "internalReference": 433664
+  },
+  {
+    "locale": "en",
     "slug": "catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return",
     "internalReference": 388869
   },
@@ -648,11 +653,6 @@
     "locale": "en",
     "slug": "categories-that-only-have-products-setup-by-similar-category-do-not-appear-on-sitemap",
     "internalReference": 1091727
-  },
-  {
-    "locale": "en",
-    "slug": "categoriesaspx-specification-timeout",
-    "internalReference": 433664
   },
   {
     "locale": "en",
@@ -8661,6 +8661,11 @@
   },
   {
     "locale": "es",
+    "slug": "tiempos-de-espera-del-administrador-del-catalogo-relacionados-con-el-numero-de-valores-de-una-unica-especificacion",
+    "internalReference": 433664
+  },
+  {
+    "locale": "es",
     "slug": "time-out-importar-y-exportar-admin",
     "internalReference": 424902
   },
@@ -15843,6 +15848,11 @@
     "locale": "pt",
     "slug": "tempo-limite-de-importacao-de-colecoes-legadas",
     "internalReference": 483785
+  },
+  {
+    "locale": "pt",
+    "slug": "tempo-limite-do-administrador-do-catalogo-relacionado-ao-numero-de-valores-em-uma-unica-especificacao",
+    "internalReference": 433664
   },
   {
     "locale": "pt",
