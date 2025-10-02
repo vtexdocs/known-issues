@@ -856,6 +856,11 @@
   },
   {
     "locale": "en",
+    "slug": "fullcleanup-may-generate-a-timeout",
+    "internalReference": 1228132
+  },
+  {
+    "locale": "en",
     "slug": "get-category-tree-api-with-internal-cache",
     "internalReference": 480892
   },
@@ -8241,6 +8246,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-limpieza-completa-puede-generar-un-tiempo-de-espera",
+    "internalReference": 1228132
+  },
+  {
+    "locale": "es",
     "slug": "la-lista-de-archivos-adjuntos-en-la-interfaz-de-usuario-sku-puede-provocar-tiempos-de-espera",
     "internalReference": 1133468
   },
@@ -15363,6 +15373,11 @@
     "locale": "pt",
     "slug": "filtro-product-specification-no-collection-module-assumindo-valores-incorretos",
     "internalReference": 926593
+  },
+  {
+    "locale": "pt",
+    "slug": "fullcleanup-pode-gerar-um-tempo-limite",
+    "internalReference": 1228132
   },
   {
     "locale": "pt",
