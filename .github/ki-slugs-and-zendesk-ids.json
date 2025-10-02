@@ -726,6 +726,11 @@
   },
   {
     "locale": "en",
+    "slug": "collections-timeout",
+    "internalReference": 434026
+  },
+  {
+    "locale": "en",
     "slug": "collections-ui-doesnt-allow-to-search-for-products-with-special-characters",
     "internalReference": 344451
   },
@@ -8636,6 +8641,11 @@
   },
   {
     "locale": "es",
+    "slug": "tiempo-limite-de-cobro",
+    "internalReference": 434026
+  },
+  {
+    "locale": "es",
     "slug": "tiempos-de-espera-de-internalsearcherror-en-el-portal",
     "internalReference": 1043003
   },
@@ -15807,6 +15817,11 @@
   {
     "locale": "pt",
     "slug": "tempo-limite-das-colecoes-herdadas-do-cms",
+    "internalReference": 434026
+  },
+  {
+    "locale": "pt",
+    "slug": "tempo-limite-das-colecoes",
     "internalReference": 434026
   },
   {
