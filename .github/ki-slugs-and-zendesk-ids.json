@@ -1451,6 +1451,11 @@
   },
   {
     "locale": "en",
+    "slug": "timeout-when-editing-specifications",
+    "internalReference": 1192667
+  },
+  {
+    "locale": "en",
     "slug": "trade-policy-api-do-not-generate-reindexing-request",
     "internalReference": 276511
   },
@@ -8623,6 +8628,11 @@
     "locale": "es",
     "slug": "texto-grande-indexado-y-texto-indexado-no-se-modifican-con-la-importacion-de-la-especificacion",
     "internalReference": 322657
+  },
+  {
+    "locale": "es",
+    "slug": "tiempo-de-espera-al-editar-especificaciones",
+    "internalReference": 1192667
   },
   {
     "locale": "es",
@@ -15813,6 +15823,11 @@
     "locale": "pt",
     "slug": "substituicao-de-produto-em-pedido-oms-nao-funcionando-nas-contas-do-portal-do-vendedor",
     "internalReference": 753484
+  },
+  {
+    "locale": "pt",
+    "slug": "tempo-limite-ao-editar-especificacoes",
+    "internalReference": 1192667
   },
   {
     "locale": "pt",
