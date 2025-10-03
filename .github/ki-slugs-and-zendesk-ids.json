@@ -10086,11 +10086,6 @@
   },
   {
     "locale": "es",
-    "slug": "error-en-la-interfaz-de-usuario-de-meli-promotions",
-    "internalReference": 797143
-  },
-  {
-    "locale": "es",
     "slug": "error-meli-al-enviar-el-seguimiento-del-pedido",
     "internalReference": 764885
   },
@@ -10358,6 +10353,11 @@
     "locale": "es",
     "slug": "mercado-livre-imagen-principal-no-respetada",
     "internalReference": 1287784
+  },
+  {
+    "locale": "es",
+    "slug": "mercado-livre-la-interfaz-de-usuario-de-promociones-muestra-el-mensaje-lo-sentimos-se-ha-producido-un-error-debido-a-los-limites-de-solicitudes-de-mercado-livre-modulo-promociones",
+    "internalReference": 797143
   },
   {
     "locale": "es",
