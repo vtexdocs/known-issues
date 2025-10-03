@@ -3146,11 +3146,6 @@
   },
   {
     "locale": "en",
-    "slug": "meli-variation-attribute-is-duplicated-allowed-unique-attributes-combinations",
-    "internalReference": 758331
-  },
-  {
-    "locale": "en",
     "slug": "mercado-livre-ad-buybox-doesnt-update-shippingmode-for-me2",
     "internalReference": 1042779
   },
@@ -3203,6 +3198,11 @@
     "locale": "en",
     "slug": "mercado-livre-some-ads-are-duplicated-on-the-marketplace",
     "internalReference": 1223372
+  },
+  {
+    "locale": "en",
+    "slug": "mercado-livre-variation-attribute-is-duplicated-allowed-unique-attributes-combinations",
+    "internalReference": 758331
   },
   {
     "locale": "en",
@@ -10021,11 +10021,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-atributo-meli-variacion-esta-duplicado-combinaciones-de-atributos-unicos-permitidas",
-    "internalReference": 758331
-  },
-  {
-    "locale": "es",
     "slug": "el-atributo-melishippingmode-no-se-actualiza-en-la-integracion-meli",
     "internalReference": 873993
   },
@@ -10323,6 +10318,11 @@
     "locale": "es",
     "slug": "mercado-livre-bridge-bridge-no-registra-algunos-mensajes-de-error",
     "internalReference": 1053742
+  },
+  {
+    "locale": "es",
+    "slug": "mercado-livre-el-atributo-variacion-esta-duplicado-combinaciones-de-atributos-unicos-permitidas",
+    "internalReference": 758331
   },
   {
     "locale": "es",
@@ -17501,6 +17501,11 @@
   },
   {
     "locale": "pt",
+    "slug": "mercado-livre-o-atributo-variation-esta-duplicado-combinacoes-de-atributos-exclusivos-permitidas",
+    "internalReference": 758331
+  },
+  {
+    "locale": "pt",
     "slug": "mercado-livre-remover-a-validacao-underreview-em-atualizar-sku",
     "internalReference": 890658
   },
@@ -17528,11 +17533,6 @@
     "locale": "pt",
     "slug": "netshoes-imagem-principal-nao-respeitada",
     "internalReference": 1220978
-  },
-  {
-    "locale": "pt",
-    "slug": "o-atributo-meli-variation-e-duplicado-permite-combinacoes-unicas-de-atributos",
-    "internalReference": 758331
   },
   {
     "locale": "pt",
