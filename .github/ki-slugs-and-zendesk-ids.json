@@ -4886,6 +4886,11 @@
   },
   {
     "locale": "en",
+    "slug": "tracking-update-fails-when-invoicenumber-contains-omsorders-invoice-routes",
+    "internalReference": 1302085
+  },
+  {
+    "locale": "en",
     "slug": "two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull",
     "internalReference": 680919
   },
@@ -11808,6 +11813,11 @@
     "locale": "es",
     "slug": "itens-devueltos-con-el-mismo-skuid-en-diferentes-arrays-uniqueid-no-es-visible-correctamente",
     "internalReference": 1050294
+  },
+  {
+    "locale": "es",
+    "slug": "la-actualizacion-del-seguimiento-falla-cuando-invoicenumber-contiene-rutas-de-facturas-omspedidos",
+    "internalReference": 1302085
   },
   {
     "locale": "es",
@@ -18778,6 +18788,11 @@
     "locale": "pt",
     "slug": "a-selecao-do-vendedor-exclui-um-unico-vendedor-de-sku-com-baixa-cobertura-causando-indisponibilidade-na-etapa-de-alocacao",
     "internalReference": 1298003
+  },
+  {
+    "locale": "pt",
+    "slug": "a-atualizacao-do-rastreamento-falha-quando-o-invoicenumber-contem-rotas-de-faturas-omsorders",
+    "internalReference": 1302085
   },
   {
     "locale": "pt",
