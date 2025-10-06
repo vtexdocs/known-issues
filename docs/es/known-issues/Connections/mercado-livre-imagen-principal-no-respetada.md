@@ -2,15 +2,15 @@
 title: Mercado Livre Imagen principal no respetada
 slug: mercado-livre-imagen-principal-no-respetada
 status: PUBLISHED
-createdAt: 2025-09-05T16:28:35.759Z
-updatedAt: 2025-09-05T16:28:35.759Z
+createdAt: 2025-10-06T20:35:48.555Z
+updatedAt: 2025-10-06T20:35:48.555Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: mercado-livre-main-image-not-respected
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1287784
 ---
 
@@ -39,3 +39,6 @@ La imagen principal mostrada en Mercado Livre es siempre la primera imagen subid
 1. Para controlar qué imagen aparece como imagen principal en el Mercado, el vendedor debe asegurarse de que la imagen principal deseada se carga primero al registrar el producto en VTEX.
 2. El vendedor también tiene la opción de ajustar el pedido directamente en el tablero de Mercado Livre.
 3. No es posible actualizar la imagen SKU a través de la integración VTEX después de que haya sido enviada a Mercado Livre.
+
+
+
