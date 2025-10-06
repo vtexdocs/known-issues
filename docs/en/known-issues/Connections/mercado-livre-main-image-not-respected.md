@@ -2,15 +2,15 @@
 title: Mercado Livre Main Image not respected
 slug: mercado-livre-main-image-not-respected
 status: PUBLISHED
-createdAt: 2025-09-05T16:28:29.923Z
-updatedAt: 2025-09-05T16:28:29.923Z
+createdAt: 2025-10-06T20:35:45.107Z
+updatedAt: 2025-10-06T20:35:45.107Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: mercado-livre-main-image-not-respected
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1287784
 ---
 
@@ -38,3 +38,6 @@ The main image shown on Mercado Livre is always the first image uploaded, based 
 1. To control which image appears as the main image in the Marketplace, the seller must ensure that the desired main image is uploaded first when registering the product in VTEX.
 2. Merchant also has the option to adjust the ordering directly in the Mercado Livre dashboard.
 3. It's not possible to update the SKU image through the VTEX integration after it has been sent to Mercado Livre.
+
+
+
