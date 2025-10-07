@@ -1,4 +1,16 @@
--
+---
+title: Terminal Connector entra en bucle en lugar de mostrar error cuando se introduce un código de terminal no válido (Sales App POS)
+slug: terminal-connector-entra-en-bucle-en-lugar-de-mostrar-error-cuando-se-introduce-un-codigo-de-terminal-no-valido-sales-app-pos
+status: PUBLISHED
+createdAt: 2025-10-07T12:17:34.202Z
+updatedAt: 2025-10-07T12:17:34.202Z
+contentType: knownIssue
+productTeam: Payments
+author: 2mXZkbi0oi061KicTExNjo
+tag: Payments
+slugEN: terminal-connector-loops-instead-of-showing-error-when-invalid-terminal-code-is-entered-sales-app-pos
+locale: es
+kiStatus: -
 internalReference: 1303282
 ---
 
@@ -17,7 +29,7 @@ Afecta a los flujos POS de la aplicación de ventas que utilizan vtex.terminal-c
 
 - Inicie un pago en la aplicación de ventas que abra vtex.terminal-connector-app para recopilar el número de serie del terminal.
 - Introduce un código de terminal inexistente/inválido.
-- Observe que las cajas siguen volviendo a la app, y la pantalla permanece en un bucle en lugar de cerrarse y volver a la página de cajas.
+- Observa que las cajas siguen volviendo a la app, y la pantalla permanece en un bucle en lugar de cerrarse y volver a la página de cajas.
 
 ## Workaround
 
