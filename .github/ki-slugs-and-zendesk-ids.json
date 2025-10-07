@@ -5666,6 +5666,11 @@
   },
   {
     "locale": "en",
+    "slug": "terminal-connector-loops-instead-of-showing-error-when-invalid-terminal-code-is-entered-sales-app-pos",
+    "internalReference": 1303282
+  },
+  {
+    "locale": "en",
     "slug": "the-api-to-createupdate-gift-card-providers-is-always-updating-the-current-provider-when-it-has-never-added-a-new-provider-before",
     "internalReference": 768954
   },
@@ -13031,6 +13036,11 @@
   },
   {
     "locale": "es",
+    "slug": "terminal-connector-entra-en-bucle-en-lugar-de-mostrar-error-cuando-se-introduce-un-codigo-de-terminal-no-valido-sales-app-pos",
+    "internalReference": 1303282
+  },
+  {
+    "locale": "es",
     "slug": "the-system-doesnt-work-with-more-than-one-extension-payment-affiliation-for",
     "internalReference": 319750
   },
@@ -20003,6 +20013,11 @@
     "locale": "pt",
     "slug": "o-conector-antifraude-clearsale-esta-enviando-os-itens-errados-do-carrinho-nos-casos-em-que-dois-ou-mais-itens-tem-o-mesmo-nome",
     "internalReference": 799396
+  },
+  {
+    "locale": "pt",
+    "slug": "o-conector-de-terminal-faz-um-loop-em-vez-de-mostrar-um-erro-quando-um-codigo-de-terminal-invalido-e-inserido-sales-app-pos",
+    "internalReference": 1303282
   },
   {
     "locale": "pt",
