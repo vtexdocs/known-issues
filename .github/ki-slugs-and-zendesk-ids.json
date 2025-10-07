@@ -6031,6 +6031,11 @@
   },
   {
     "locale": "en",
+    "slug": "oorderbybestdiscount-brings-the-wrong-order",
+    "internalReference": 409119
+  },
+  {
+    "locale": "en",
     "slug": "oorderbypriceasc-or-orderbypricedesc-could-bring-the-wrong-order",
     "internalReference": 582861
   },
@@ -13371,6 +13376,11 @@
   },
   {
     "locale": "es",
+    "slug": "oorderbybestdiscount-trae-el-pedido-equivocado",
+    "internalReference": 409119
+  },
+  {
+    "locale": "es",
     "slug": "oorderbypriceasc-o-orderbypricedesc-podria-dar-lugar-a-un-pedido-erroneo",
     "internalReference": 582861
   },
@@ -20548,6 +20558,11 @@
     "locale": "pt",
     "slug": "o-upload-do-file-manager-com-dois-ou-mais-arquivos-existentes-nao-atualiza-todos-os-arquivos-apenas-o-primeiro",
     "internalReference": 418253
+  },
+  {
+    "locale": "pt",
+    "slug": "oorderbybestdiscount-traz-o-pedido-errado",
+    "internalReference": 409119
   },
   {
     "locale": "pt",
