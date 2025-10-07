@@ -2,8 +2,8 @@
 title: O fluxo de substituição de itens falha para itens divididos no picking e embalagem (não é possível concluir a substituição)
 slug: o-fluxo-de-substituicao-de-itens-falha-para-itens-divididos-no-picking-e-embalagem-nao-e-possivel-concluir-a-substituicao
 status: PUBLISHED
-createdAt: 2025-10-07T14:43:34.672Z
-updatedAt: 2025-10-07T14:43:34.672Z
+createdAt: 2025-10-07T21:38:57.455Z
+updatedAt: 2025-10-07T21:38:57.455Z
 contentType: knownIssue
 productTeam: Pick and Pack
 author: 2mXZkbi0oi061KicTExNjo
