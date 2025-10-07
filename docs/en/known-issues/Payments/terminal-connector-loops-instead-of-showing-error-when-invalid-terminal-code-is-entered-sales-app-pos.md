@@ -1,16 +1,4 @@
----
-title: Terminal Connector loops instead of showing error when invalid terminal code is entered (Sales App POS)
-slug: terminal-connector-loops-instead-of-showing-error-when-invalid-terminal-code-is-entered-sales-app-pos
-status: PUBLISHED
-createdAt: 2025-10-06T18:54:38.455Z
-updatedAt: 2025-10-06T18:54:38.455Z
-contentType: knownIssue
-productTeam: Payments
-author: 2mXZkbi0oi061KicTExNjo
-tag: Payments
-slugEN: terminal-connector-loops-instead-of-showing-error-when-invalid-terminal-code-is-entered-sales-app-pos
-locale: en
-kiStatus: -
+-
 internalReference: 1303282
 ---
 
