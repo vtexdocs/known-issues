@@ -5916,6 +5916,11 @@
   },
   {
     "locale": "en",
+    "slug": "replace-items-flow-fails-for-split-items-in-pick-and-pack-cannot-complete-replacement",
+    "internalReference": 1303803
+  },
+  {
+    "locale": "en",
     "slug": "worksheet-stuck-in-to-pack-column-with-status-packed-after-packing-confirmation",
     "internalReference": 1299842
   },
@@ -13136,6 +13141,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-flujo-reemplazar-articulos-falla-para-articulos-divididos-en-recoger-y-embalar-no-se-puede-completar-el-reemplazo",
+    "internalReference": 1303803
+  },
+  {
+    "locale": "es",
     "slug": "hoja-de-calculo-atascada-en-la-columna-por-empaquetar-con-el-estado-empaquetado-tras-la-confirmacion-de-empaquetado",
     "internalReference": 1299842
   },
@@ -20353,6 +20363,11 @@
     "locale": "pt",
     "slug": "ausencia-de-feedback-para-falhas-na-alteracao-de-pedidos-no-pick-and-pack-comunicacao-com-o-oms",
     "internalReference": 1275957
+  },
+  {
+    "locale": "pt",
+    "slug": "o-fluxo-de-substituicao-de-itens-falha-para-itens-divididos-no-picking-e-embalagem-nao-e-possivel-concluir-a-substituicao",
+    "internalReference": 1303803
   },
   {
     "locale": "pt",
