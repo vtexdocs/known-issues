@@ -2,8 +2,8 @@
 title: El flujo Reemplazar Artículos falla para artículos divididos en Recoger y Embalar (no se puede completar el reemplazo).
 slug: el-flujo-reemplazar-articulos-falla-para-articulos-divididos-en-recoger-y-embalar-no-se-puede-completar-el-reemplazo
 status: PUBLISHED
-createdAt: 2025-10-07T14:43:40.577Z
-updatedAt: 2025-10-07T14:43:40.577Z
+createdAt: 2025-10-07T21:39:05.626Z
+updatedAt: 2025-10-07T21:39:05.626Z
 contentType: knownIssue
 productTeam: Pick and Pack
 author: 2mXZkbi0oi061KicTExNjo
