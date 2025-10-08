@@ -1791,6 +1791,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-shows-payment-methods-without-eligible-installment-options",
+    "internalReference": 1305022
+  },
+  {
+    "locale": "en",
     "slug": "checkout-simulation-returns-value-0-in-slastax-field-for-shipping-percentage-taxes",
     "internalReference": 1012724
   },
@@ -9241,6 +9246,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-caja-muestra-metodos-de-pago-sin-opciones-de-pago-a-plazos-elegibles",
+    "internalReference": 1305022
+  },
+  {
+    "locale": "es",
     "slug": "la-caja-no-calcula-correctamente-el-valor-del-envio-para-un-solo-articulo-que-tiene-envio-gratuito-y-entrega-programada",
     "internalReference": 529043
   },
@@ -16673,6 +16683,11 @@
     "locale": "pt",
     "slug": "o-carrinho-criado-a-partir-de-um-pedido-antigo-nao-traz-os-anexos",
     "internalReference": 802464
+  },
+  {
+    "locale": "pt",
+    "slug": "o-checkout-mostra-metodos-de-pagamento-sem-opcoes-de-parcelamento-qualificadas",
+    "internalReference": 1305022
   },
   {
     "locale": "pt",
