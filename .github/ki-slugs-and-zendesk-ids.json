@@ -5796,6 +5796,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-stuck-in-authorized-or-pending-authorization-status-after-being-approved",
+    "internalReference": 1037765
+  },
+  {
+    "locale": "en",
     "slug": "transaction-stuck-in-canceling-when-one-of-the-card-is-denied",
     "internalReference": 429082
   },
@@ -13076,6 +13081,11 @@
   },
   {
     "locale": "es",
+    "slug": "transaccion-bloqueada-en-estado-autorizado-o-pendiente-de-autorizacion-despues-de-haber-sido-aprobada",
+    "internalReference": 1037765
+  },
+  {
+    "locale": "es",
     "slug": "transaccion-cancelada-por-tiempo-de-espera-timeout-no-request-para-o-sistema-de-parcelamento",
     "internalReference": 533844
   },
@@ -20303,6 +20313,11 @@
     "locale": "pt",
     "slug": "the-system-doesnt-work-with-more-than-one-extension-payment-affiliation-for",
     "internalReference": 319750
+  },
+  {
+    "locale": "pt",
+    "slug": "transacao-bloqueada-no-status-de-autorizacao-autorizada-ou-pendente-apos-ser-aprovada",
+    "internalReference": 1037765
   },
   {
     "locale": "pt",
