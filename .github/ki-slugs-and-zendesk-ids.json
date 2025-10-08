@@ -4311,13 +4311,13 @@
   },
   {
     "locale": "en",
-    "slug": "seller-logo-not-being-saved-as-an-url",
-    "internalReference": 736716
+    "slug": "seller-inactivation-in-new-seller-register-ui-does-not-trigger-product-reindexing-marketplace-sync-gap",
+    "internalReference": 915970
   },
   {
     "locale": "en",
-    "slug": "seller-register-ui-doesnt-send-products-to-reindex-when-inactivating-a-seller",
-    "internalReference": 915970
+    "slug": "seller-logo-not-being-saved-as-an-url",
+    "internalReference": 736716
   },
   {
     "locale": "en",
@@ -11511,6 +11511,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-desactivacion-de-vendedores-en-la-nueva-interfaz-de-registro-de-vendedores-no-activa-la-reindexacion-de-productos-brecha-de-sincronizacion-de-marketplace",
+    "internalReference": 915970
+  },
+  {
+    "locale": "es",
     "slug": "la-exportacion-de-hojas-de-calculo-no-funciona-en-la-pestana-de-procesamiento-de-sku-recibido",
     "internalReference": 792511
   },
@@ -11518,11 +11523,6 @@
     "locale": "es",
     "slug": "la-hoja-de-calculo-de-skus-aprobados-no-muestra-el-precio",
     "internalReference": 552155
-  },
-  {
-    "locale": "es",
-    "slug": "la-interfaz-de-usuario-de-registro-de-vendedores-no-envia-los-productos-a-reindexar-al-desactivar-un-vendedor",
-    "internalReference": 915970
   },
   {
     "locale": "es",
@@ -18661,7 +18661,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-interface-de-usuario-de-registro-do-vendedor-nao-envia-produtos-para-reindexacao-ao-inativar-um-vendedor",
+    "slug": "a-inativacao-do-vendedor-na-nova-ui-de-registro-do-vendedor-nao-aciona-a-reindexacao-do-produto-lacuna-de-sincronizacao-do-marketplace",
     "internalReference": 915970
   },
   {
