@@ -2,8 +2,8 @@
 title: Transacción bloqueada en estado autorizado o pendiente de autorización después de haber sido aprobada
 slug: transaccion-bloqueada-en-estado-autorizado-o-pendiente-de-autorizacion-despues-de-haber-sido-aprobada
 status: PUBLISHED
-createdAt: 2025-10-08T16:31:59.891Z
-updatedAt: 2025-10-08T16:31:59.891Z
+createdAt: 2025-10-08T16:35:29.115Z
+updatedAt: 2025-10-08T16:35:29.115Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
