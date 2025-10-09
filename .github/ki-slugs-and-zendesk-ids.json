@@ -3881,6 +3881,11 @@
   },
   {
     "locale": "en",
+    "slug": "search-results-may-not-display-products-from-the-synonyms",
+    "internalReference": 1094028
+  },
+  {
+    "locale": "en",
     "slug": "searches-with-at-the-end-not-working-correctly",
     "internalReference": 509101
   },
@@ -10843,6 +10848,11 @@
     "locale": "es",
     "slug": "es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilizan-sinonimos-en-lenguas-secundarias",
     "internalReference": 1268282
+  },
+  {
+    "locale": "es",
+    "slug": "es-posible-que-los-resultados-de-la-busqueda-no-muestren-los-productos-de-los-sinonimos",
+    "internalReference": 1094028
   },
   {
     "locale": "es",
@@ -18308,6 +18318,11 @@
     "locale": "pt",
     "slug": "os-produtos-podem-nao-aparecer-na-pesquisa-ao-usar-sinonimos-em-idiomas-secundarios",
     "internalReference": 1268282
+  },
+  {
+    "locale": "pt",
+    "slug": "os-resultados-da-pesquisa-podem-nao-exibir-produtos-dos-sinonimos",
+    "internalReference": 1094028
   },
   {
     "locale": "pt",
