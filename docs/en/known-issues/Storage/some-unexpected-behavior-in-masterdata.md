@@ -1,11 +1,9 @@
 ---
-title: 'Some unexpected behavior in MasterData'
-id: 4E9jB5vkUMucnAuwUMOGQL
+title: Some unexpected behavior in MasterData
+slug: some-unexpected-behavior-in-masterdata
 status: PUBLISHED
-createdAt: 2023-09-18T21:27:15.291Z
-updatedAt: 2023-10-10T21:16:04.759Z
-publishedAt: 2023-10-10T21:16:04.759Z
-firstPublishedAt: 2023-09-18T21:27:15.908Z
+createdAt: 2025-10-10T16:12:05.352Z
+updatedAt: 2025-10-10T16:12:05.352Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -28,21 +26,16 @@ This behavior can impact some of the following functionalities:
 - No information is returned when using Search Documents API (an empty response, like `[]`), even when they contain documents.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 As this is an occasional behavior (cluster-related event), it cannot be simulated.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
-The VTEX team must check the cluster and eventually re-index the data or change the cluster, so that the data will be available again.
-
-
+A possible workaround is to perform the process described in the public documentation "_Customer and Address forms do not exist in multistores_."
+If the problem persists, please open a ticket with VTEX support.
 
 
