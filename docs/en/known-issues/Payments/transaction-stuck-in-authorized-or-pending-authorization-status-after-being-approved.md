@@ -2,8 +2,8 @@
 title: Transaction Stuck in Authorized Or Pending Authorization Status After Being Approved
 slug: transaction-stuck-in-authorized-or-pending-authorization-status-after-being-approved
 status: PUBLISHED
-createdAt: 2025-10-08T16:35:26.162Z
-updatedAt: 2025-10-08T16:35:26.162Z
+createdAt: 2025-10-10T14:10:07.832Z
+updatedAt: 2025-10-10T14:10:07.832Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
