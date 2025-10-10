@@ -1,11 +1,9 @@
 ---
-title: 'Comportamiento inesperado en MasterData'
-id: 4E9jB5vkUMucnAuwUMOGQL
+title: Comportamiento inesperado en MasterData
+slug: comportamiento-inesperado-en-masterdata
 status: PUBLISHED
-createdAt: 2023-09-18T21:27:15.291Z
-updatedAt: 2023-10-10T21:16:04.759Z
-publishedAt: 2023-10-10T21:16:04.759Z
-firstPublishedAt: 2023-09-18T21:27:15.908Z
+createdAt: 2025-10-10T16:12:09.814Z
+updatedAt: 2025-10-10T16:12:09.814Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,9 +14,9 @@ kiStatus: Backlog
 internalReference: 669048
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
 
 
 Incluso con datos disponibles (documentos), la información no se devuelve como se esperaba.
@@ -30,20 +28,15 @@ Este comportamiento puede afectar a algunas de las siguientes funcionalidades:
 - No se devuelve información al utilizar Search documents API (una respuesta vacía, como `[]`), aunque contengan documentos.
 
 
-##
-
-## Simulación
+#### Simulación
 
 
 Como se trata de un comportamiento ocasional (evento relacionado con el clúster), no se puede simular.
 
-
-
 ## Workaround
 
 
-El equipo de VTEX debe comprobar el clúster y, eventualmente, volver a indexar los datos o cambiar el clúster, para que los datos vuelvan a estar disponibles.
-
-
+Una posible solución consiste en realizar el proceso descrito en la documentación pública "_Los formularios de clientes y direcciones no existen en los multialmacenes_".
+Si el problema persiste, abra un ticket con el soporte de VTEX.
 
 
