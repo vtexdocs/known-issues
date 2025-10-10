@@ -2,15 +2,15 @@
 title: Transacción bloqueada en estado autorizado o pendiente de autorización después de haber sido aprobada
 slug: transaccion-bloqueada-en-estado-autorizado-o-pendiente-de-autorizacion-despues-de-haber-sido-aprobada
 status: PUBLISHED
-createdAt: 2025-10-10T14:10:11.457Z
-updatedAt: 2025-10-10T14:10:11.457Z
+createdAt: 2025-10-10T16:22:37.702Z
+updatedAt: 2025-10-10T16:22:37.702Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transaction-stuck-in-authorized-or-pending-authorization-status-after-being-approved
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1037765
 ---
 
