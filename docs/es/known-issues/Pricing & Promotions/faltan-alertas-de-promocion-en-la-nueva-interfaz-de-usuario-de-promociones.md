@@ -2,15 +2,15 @@
 title: Faltan alertas de promoción en la nueva interfaz de usuario de Promociones
 slug: faltan-alertas-de-promocion-en-la-nueva-interfaz-de-usuario-de-promociones
 status: PUBLISHED
-createdAt: 2025-10-13T15:25:07.307Z
-updatedAt: 2025-10-13T15:25:07.307Z
+createdAt: 2025-10-13T15:26:48.247Z
+updatedAt: 2025-10-13T15:26:48.247Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slugEN: promotion-alerts-missing-in-new-promotions-ui
 locale: es
-kiStatus: Backlog
+kiStatus: Scheduled
 internalReference: 1306763
 ---
 
