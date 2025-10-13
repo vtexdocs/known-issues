@@ -3391,6 +3391,11 @@
   },
   {
     "locale": "en",
+    "slug": "native-sitemap-is-not-fully-integrated-with-faststore",
+    "internalReference": 1220872
+  },
+  {
+    "locale": "en",
     "slug": "openclose-modal-hook-affects-all-modals-on-the-page",
     "internalReference": 1042165
   },
@@ -10583,6 +10588,11 @@
     "locale": "es",
     "slug": "el-selector-de-sku-no-elige-el-sku-correcto-cuando-hay-variaciones-similares-con-subcadenas",
     "internalReference": 1047992
+  },
+  {
+    "locale": "es",
+    "slug": "el-sitemap-nativo-no-esta-totalmente-integrado-con-faststore",
+    "internalReference": 1220872
   },
   {
     "locale": "es",
@@ -17898,6 +17908,11 @@
     "locale": "pt",
     "slug": "o-seletor-de-sku-nao-escolhe-a-sku-correta-quando-ha-variacoes-semelhantes-com-substrings",
     "internalReference": 1047992
+  },
+  {
+    "locale": "pt",
+    "slug": "o-sitemap-nativo-nao-esta-totalmente-integrado-ao-faststore",
+    "internalReference": 1220872
   },
   {
     "locale": "pt",
