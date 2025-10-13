@@ -2,8 +2,8 @@
 title: Pedido atascado en on-order-completed-ffm (Cumplimiento) o en on-order-completed (Mercado) incluso después de una creación correcta (isCompleted: true)
 slug: pedido-atascado-en-onordercompletedffm-cumplimiento-o-en-onordercompleted-mercado-incluso-despues-de-una-creacion-correcta-iscompleted-true
 status: PUBLISHED
-createdAt: 2025-09-02T14:07:07.716Z
-updatedAt: 2025-09-02T14:07:07.716Z
+createdAt: 2025-10-13T13:13:44.297Z
+updatedAt: 2025-10-13T13:13:44.297Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -23,8 +23,7 @@ En algunos casos, un pedido puede quedarse atascado en sus estados iniciales (`o
 
 
 
-
-#### Simulación
+## Simulación
 
 
 Por el momento, este escenario no puede simularse de forma fiable, ya que depende de fallos intermitentes o puntuales en partes aisladas del proceso de creación de pedidos.
