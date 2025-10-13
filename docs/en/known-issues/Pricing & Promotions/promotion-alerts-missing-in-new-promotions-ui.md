@@ -2,15 +2,15 @@
 title: Promotion alerts missing in new Promotions UI
 slug: promotion-alerts-missing-in-new-promotions-ui
 status: PUBLISHED
-createdAt: 2025-10-13T15:25:03.640Z
-updatedAt: 2025-10-13T15:25:03.640Z
+createdAt: 2025-10-13T15:26:45.274Z
+updatedAt: 2025-10-13T15:26:45.274Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slugEN: promotion-alerts-missing-in-new-promotions-ui
 locale: en
-kiStatus: Backlog
+kiStatus: Scheduled
 internalReference: 1306763
 ---
 
