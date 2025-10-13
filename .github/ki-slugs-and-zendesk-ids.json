@@ -12051,6 +12051,11 @@
   },
   {
     "locale": "es",
+    "slug": "pedido-atascado-en-onordercompletedffm-cumplimiento-o-en-onordercompleted-mercado-incluso-despues-de-una-creacion-correcta-iscompleted-true",
+    "internalReference": 1218615
+  },
+  {
+    "locale": "es",
     "slug": "pedido-bloqueado-en-el-estado-del-vendedor-cancellationrequestdeniedffm",
     "internalReference": 1004978
   },
@@ -19323,6 +19328,11 @@
     "locale": "pt",
     "slug": "pedido-do-vendedor-faturado-com-problema-na-captura-do-pagamento",
     "internalReference": 376646
+  },
+  {
+    "locale": "pt",
+    "slug": "pedido-preso-em-onordercompletedffm-fulfillment-ou-onordercompleted-marketplace-mesmo-apos-a-criacao-bemsucedida-iscompleted-true",
+    "internalReference": 1218615
   },
   {
     "locale": "pt",
