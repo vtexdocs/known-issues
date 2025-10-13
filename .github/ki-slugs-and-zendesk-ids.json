@@ -6486,6 +6486,11 @@
   },
   {
     "locale": "en",
+    "slug": "promotion-alerts-missing-in-new-promotions-ui",
+    "internalReference": 1306763
+  },
+  {
+    "locale": "en",
     "slug": "promotion-applies-to-all-slas-instead-of-only-selected-shipping-method",
     "internalReference": 1265187
   },
@@ -13676,6 +13681,11 @@
   },
   {
     "locale": "es",
+    "slug": "faltan-alertas-de-promocion-en-la-nueva-interfaz-de-usuario-de-promociones",
+    "internalReference": 1306763
+  },
+  {
+    "locale": "es",
     "slug": "informacion-incorrecta-en-los-campos-de-fecha-de-caducidad-de-las-promociones",
     "internalReference": 611284
   },
@@ -20848,6 +20858,11 @@
     "locale": "pt",
     "slug": "a-validacao-da-promocao-usa-o-preco-unitario-em-vez-do-preco-total-do-item",
     "internalReference": 1081841
+  },
+  {
+    "locale": "pt",
+    "slug": "alertas-de-promocao-ausentes-na-nova-interface-de-usuario-de-promocoes",
+    "internalReference": 1306763
   },
   {
     "locale": "pt",
