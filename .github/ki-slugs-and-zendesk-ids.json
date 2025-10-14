@@ -5606,6 +5606,11 @@
   },
   {
     "locale": "en",
+    "slug": "payment-status-stuck-and-transaction-canceling-after-risk-analysis-rejected",
+    "internalReference": 1163213
+  },
+  {
+    "locale": "en",
     "slug": "payments-gateway-does-not-correctly-send-subaccount-information-in-the-payload-to-the-connector",
     "internalReference": 801012
   },
@@ -12573,6 +12578,11 @@
     "locale": "es",
     "slug": "es-posible-pasar-de-la-orden-a-la-transaccion-pero-el-flujo-inverso-no-funciona",
     "internalReference": 393483
+  },
+  {
+    "locale": "es",
+    "slug": "estado-del-pago-bloqueado-y-anulacion-de-la-operacion-tras-el-rechazo-del-analisis-de-riesgos",
+    "internalReference": 1163213
   },
   {
     "locale": "es",
@@ -20383,6 +20393,11 @@
     "locale": "pt",
     "slug": "solicitacao-dupla-do-adyen-3ds2-gera-recusa-de-autorizacao-de-pagamento",
     "internalReference": 884154
+  },
+  {
+    "locale": "pt",
+    "slug": "status-de-pagamento-bloqueado-e-cancelamento-da-transacao-apos-a-rejeicao-da-analise-de-risco",
+    "internalReference": 1163213
   },
   {
     "locale": "pt",
