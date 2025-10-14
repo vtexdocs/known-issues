@@ -2,8 +2,8 @@
 title: Payment status stuck and transaction canceling after risk analysis rejected
 slug: payment-status-stuck-and-transaction-canceling-after-risk-analysis-rejected
 status: PUBLISHED
-createdAt: 2025-10-14T19:17:09.421Z
-updatedAt: 2025-10-14T19:17:09.421Z
+createdAt: 2025-10-14T19:17:16.888Z
+updatedAt: 2025-10-14T19:17:16.888Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
