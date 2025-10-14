@@ -2,8 +2,8 @@
 title: Fallo en la actualización del estado de las solicitudes de organizaciones
 slug: fallo-en-la-actualizacion-del-estado-de-las-solicitudes-de-organizaciones
 status: PUBLISHED
-createdAt: 2025-09-11T15:32:39.482Z
-updatedAt: 2025-09-11T15:32:39.482Z
+createdAt: 2025-10-14T13:31:35.212Z
+updatedAt: 2025-10-14T13:31:35.212Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -39,6 +39,6 @@ No hay forma de reproducir el problema.
 
 Cuando la organización esté correctamente creada (con usuario y centro de coste) puedes solicitar una sincronización de estado a los equipos de soporte de VTEX.
 
-Cuando la organización se crea sin usuarios ni centro de costes, se debe realizar una solicitud `deleteOrganization` vía graphQL para que la solicitud pueda ser aprobada de nuevo.
+Cuando la organización se crea sin usuarios ni centro de costes, debe eliminarse mediante una solicitud `deleteOrganization` a través de graphQL. La solicitud de organización puede ser aprobada una vez más después de eliminar la organización defectuosa creada anteriormente.
 
 
