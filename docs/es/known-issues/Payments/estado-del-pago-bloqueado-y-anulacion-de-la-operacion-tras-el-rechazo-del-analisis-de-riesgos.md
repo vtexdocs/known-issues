@@ -2,8 +2,8 @@
 title: Estado del pago bloqueado y anulación de la operación tras el rechazo del análisis de riesgos
 slug: estado-del-pago-bloqueado-y-anulacion-de-la-operacion-tras-el-rechazo-del-analisis-de-riesgos
 status: PUBLISHED
-createdAt: 2025-10-14T19:17:12.562Z
-updatedAt: 2025-10-14T19:17:12.562Z
+createdAt: 2025-10-14T19:17:20.001Z
+updatedAt: 2025-10-14T19:17:20.001Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
