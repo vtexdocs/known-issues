@@ -2776,6 +2776,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-listing-required-attribute-not-rendered-in-amazon-listing-ui-prevents-product-submission",
+    "internalReference": 1307340
+  },
+  {
+    "locale": "en",
     "slug": "amazon-object-reference-not-set-to-an-instance-of-an-object",
     "internalReference": 482173
   },
@@ -10003,6 +10008,11 @@
     "locale": "es",
     "slug": "amazon-la-referencia-a-un-objeto-no-es-una-instancia-de-un-objeto",
     "internalReference": 482173
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-listing-atributo-obligatorio-no-mostrado-en-la-interfaz-de-usuario-de-amazon-listing-impide-el-envio-de-productos",
+    "internalReference": 1307340
   },
   {
     "locale": "es",
@@ -17298,6 +17308,11 @@
     "locale": "pt",
     "slug": "amazon-erro-no-fluxo-de-atualizacao-o-sku-nao-esta-sendo-registrado-na-ponte",
     "internalReference": 990197
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-listagem-atributo-obrigatorio-nao-renderizado-na-interface-do-usuario-da-listagem-da-amazon-impede-o-envio-de-produtos",
+    "internalReference": 1307340
   },
   {
     "locale": "pt",
