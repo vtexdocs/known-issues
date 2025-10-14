@@ -2,8 +2,8 @@
 title: Failure in Organizations Requests status update
 slug: failure-in-organizations-requests-status-update
 status: PUBLISHED
-createdAt: 2025-09-11T15:32:32.552Z
-updatedAt: 2025-09-11T15:32:32.552Z
+createdAt: 2025-10-14T13:31:31.912Z
+updatedAt: 2025-10-14T13:31:31.912Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -39,6 +39,6 @@ There is no way to replicate the issue.
 
 When the organization is correctly created (with user and cost center) you can request a status sync to VTEX's support teams.
 
-When the organization is created with missing users and cost center, a `deleteOrganization` request must be made via graphQL so the request can be approved once more.
+When the organization is created with missing users and cost center, it must be deleted using a `deleteOrganization` request via graphQL. The organization request can be approved once more after deleting the faulty organization previously created.
 
 
