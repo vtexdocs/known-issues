@@ -2,8 +2,8 @@
 title: Falha na atualização do status das solicitações das organizações
 slug: falha-na-atualizacao-do-status-das-solicitacoes-das-organizacoes
 status: PUBLISHED
-createdAt: 2025-09-11T15:32:25.624Z
-updatedAt: 2025-09-11T15:32:25.624Z
+createdAt: 2025-10-14T13:31:28.443Z
+updatedAt: 2025-10-14T13:31:28.443Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -20,12 +20,12 @@ internalReference: 1275305
 
 
 
-Ao aprovar uma solicitação de organização no B2B Suite, é possível que o status da solicitação não seja atualizado corretamente após a criação da organização, deixando-a em "Pendente".
+Ao aprovar uma solicitação de organização no B2B Suite, é possível que o status da solicitação não seja atualizado corretamente após a criação da organização, deixando-a em `Pendente`.
 
 Isso acontece por um motivo desconhecido e há dois cenários possíveis:
 
 - A organização é criada corretamente, mas o status da solicitação não é atualizado;
-- A organização foi criada de forma incompleta, faltando informações sobre o centro de custo e os usuários, e o status não foi atualizado.
+- A organização é criada de forma incompleta, faltando informações sobre o centro de custo e os usuários, e o status não é atualizado.
 ## Simulação
 
 
@@ -39,6 +39,6 @@ Não há como replicar o problema.
 
 Quando a organização for criada corretamente (com usuário e centro de custo), você poderá solicitar uma sincronização de status às equipes de suporte da VTEX.
 
-Quando a organização é criada com usuários e centro de custo ausentes, uma solicitação `deleteOrganization` deve ser feita via graphQL para que a solicitação possa ser aprovada novamente.
+Quando a organização é criada com usuários e centro de custo ausentes, ela deve ser excluída usando uma solicitação `deleteOrganization` via graphQL. A solicitação de organização pode ser aprovada mais uma vez após a exclusão da organização defeituosa criada anteriormente.
 
 
