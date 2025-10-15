@@ -5626,6 +5626,11 @@
   },
   {
     "locale": "en",
+    "slug": "pix-payment-countdown-timer-pauses-when-checkout-tab-is-minimized",
+    "internalReference": 1308205
+  },
+  {
+    "locale": "en",
     "slug": "placeholders-showing-instead-of-the-correct-data",
     "internalReference": 371183
   },
@@ -12458,6 +12463,11 @@
     "locale": "es",
     "slug": "el-sistema-no-permite-la-cancelacion-multiple-con-giftcard",
     "internalReference": 309117
+  },
+  {
+    "locale": "es",
+    "slug": "el-temporizador-de-la-cuenta-atras-del-pago-pix-se-detiene-cuando-se-minimiza-la-pestana-de-pago",
+    "internalReference": 1308205
   },
   {
     "locale": "es",
@@ -20188,6 +20198,11 @@
     "locale": "pt",
     "slug": "o-credito-ao-cliente-nao-mostra-as-parcelas-corretamente",
     "internalReference": 501730
+  },
+  {
+    "locale": "pt",
+    "slug": "o-cronometro-de-contagem-regressiva-de-pagamento-do-pix-e-pausado-quando-a-guia-de-checkout-e-minimizada",
+    "internalReference": 1308205
   },
   {
     "locale": "pt",
