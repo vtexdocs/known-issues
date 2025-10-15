@@ -1641,6 +1641,11 @@
   },
   {
     "locale": "en",
+    "slug": "broken-carts-when-adding-unavailable-assembly-option",
+    "internalReference": 1308431
+  },
+  {
+    "locale": "en",
     "slug": "button-to-see-more-pickup-points-not-being-presented-in-the-list",
     "internalReference": 685650
   },
@@ -8878,6 +8883,11 @@
     "locale": "es",
     "slug": "carro-creado-a-partir-de-una-opcion-pedir-de-nuevo-en-mis-pedidos-el-correo-electronico-del-cliente-no-se-esta-colocando-como-se-esperaba-en-el-ord",
     "internalReference": 947563
+  },
+  {
+    "locale": "es",
+    "slug": "carros-rotos-al-anadir-la-opcion-de-montaje-no-disponible",
+    "internalReference": 1308431
   },
   {
     "locale": "es",
@@ -16468,6 +16478,11 @@
     "locale": "pt",
     "slug": "carrinho-criado-a-partir-de-uma-opcao-pedir-novamente-em-meus-pedidos-o-email-do-cliente-nao-esta-sendo-colocado-como-esperado-no-formulario-de-ped",
     "internalReference": 947563
+  },
+  {
+    "locale": "pt",
+    "slug": "carrinhos-quebrados-ao-adicionar-a-opcao-de-montagem-indisponivel",
+    "internalReference": 1308431
   },
   {
     "locale": "pt",
