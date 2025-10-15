@@ -5076,6 +5076,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-cancels-transaction-after-creation",
+    "internalReference": 1157809
+  },
+  {
+    "locale": "en",
     "slug": "cobranded-saved-card-with-wrong-payment-system-id",
     "internalReference": 833400
   },
@@ -12423,6 +12428,11 @@
     "locale": "es",
     "slug": "el-menu-desplegable-de-las-cuotas-en-la-interfaz-de-compra-esta-suelto-cuando-se-desplaza-la-pantalla",
     "internalReference": 540257
+  },
+  {
+    "locale": "es",
+    "slug": "el-pago-cancela-la-transaccion-despues-de-la-creacion",
+    "internalReference": 1157809
   },
   {
     "locale": "es",
@@ -20133,6 +20143,11 @@
     "locale": "pt",
     "slug": "o-cartaoui-gera-um-erro-quando-o-usuario-escolhe-pagar-com-dois-cartoes-muda-a-forma-de-pagamento-e-retorna-ao-pagamento-com-dois-cartoes",
     "internalReference": 670424
+  },
+  {
+    "locale": "pt",
+    "slug": "o-checkout-cancela-a-transacao-apos-a-criacao",
+    "internalReference": 1157809
   },
   {
     "locale": "pt",
