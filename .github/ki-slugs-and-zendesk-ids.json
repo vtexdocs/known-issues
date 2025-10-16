@@ -5666,6 +5666,11 @@
   },
   {
     "locale": "en",
+    "slug": "missing-refund-requests-executing-multiples-solicitations",
+    "internalReference": 1154224
+  },
+  {
+    "locale": "en",
     "slug": "my-cards-footer-is-shivering-when-trying-to-add-a-new-card",
     "internalReference": 1012542
   },
@@ -5993,6 +5998,11 @@
     "locale": "en",
     "slug": "transaction-cancellation-error-with-unreachable-code-message",
     "internalReference": 998435
+  },
+  {
+    "locale": "en",
+    "slug": "transaction-not-loading-blank-screen",
+    "internalReference": 1157426
   },
   {
     "locale": "en",
@@ -13016,6 +13026,11 @@
   },
   {
     "locale": "es",
+    "slug": "faltan-solicitudes-de-devolucion-que-ejecutan-varias-solicitudes",
+    "internalReference": 1154224
+  },
+  {
+    "locale": "es",
     "slug": "formato-de-direccion-incorrecto-en-las-direcciones-de-facturacion-de-mis-tarjetas",
     "internalReference": 791779
   },
@@ -13578,6 +13593,11 @@
     "locale": "es",
     "slug": "transaccion-liquidada-mientras-el-pago-con-giftcard-se-atasca-en-estado-autorizado-despues-de-un-error-de-autoliquidacion",
     "internalReference": 1201336
+  },
+  {
+    "locale": "es",
+    "slug": "transaccion-no-cargada-pantalla-en-blanco",
+    "internalReference": 1157426
   },
   {
     "locale": "es",
@@ -20251,6 +20271,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-transacao-nao-esta-carregando-tela-em-branco",
+    "internalReference": 1157426
+  },
+  {
+    "locale": "pt",
     "slug": "a-validade-da-promissoria-nao-cancela-a-transacao",
     "internalReference": 325491
   },
@@ -21053,6 +21078,11 @@
     "locale": "pt",
     "slug": "solicitacao-dupla-do-adyen-3ds2-gera-recusa-de-autorizacao-de-pagamento",
     "internalReference": 884154
+  },
+  {
+    "locale": "pt",
+    "slug": "solicitacoes-de-reembolso-ausentes-que-executam-multiplas-solicitacoes",
+    "internalReference": 1154224
   },
   {
     "locale": "pt",
