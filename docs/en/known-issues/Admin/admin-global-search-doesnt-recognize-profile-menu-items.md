@@ -16,18 +16,11 @@ kiStatus: Fixed
 internalReference: 969645
 ---
 
-TESTE
-
 ## Summary
-
 
 Global Search doesn't recognize "Profile Menu items"
 
-
-##
-
 ## Simulation
-
 
 In some cases, the search returns no results.
 For example: "Users" "Authentication"
@@ -38,10 +31,7 @@ For example: "Users" "Authentication"
  ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Admin/admin-global-search-doesnt-recognize-profile-menu-items_2.png)
 
 
-##
-
 ## Workaround
-
 
 Use side menu to access these modules
 
