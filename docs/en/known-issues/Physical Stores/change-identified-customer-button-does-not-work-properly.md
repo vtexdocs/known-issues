@@ -2,8 +2,8 @@
 title: Change Identified customer button does not work properly
 slug: change-identified-customer-button-does-not-work-properly
 status: PUBLISHED
-createdAt: 2025-10-16T19:40:34.155Z
-updatedAt: 2025-10-16T19:40:34.155Z
+createdAt: 2025-10-16T19:40:50.579Z
+updatedAt: 2025-10-16T19:40:50.579Z
 contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
