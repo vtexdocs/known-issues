@@ -631,6 +631,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-product-inactivation-ui",
+    "internalReference": 1260831
+  },
+  {
+    "locale": "en",
     "slug": "catalog-search-api-limited-to-2500-results",
     "internalReference": 891184
   },
@@ -8806,6 +8811,11 @@
   },
   {
     "locale": "es",
+    "slug": "ui-de-desactivacion-de-productos-de-catalogo",
+    "internalReference": 1260831
+  },
+  {
+    "locale": "es",
     "slug": "un-valor-valido-de-especificacion-de-producto-puede-ser-devuelto-en-blanco-en-el-catalogo-admin",
     "internalReference": 966499
   },
@@ -15688,6 +15698,11 @@
     "locale": "pt",
     "slug": "informacoes-indexadas-desatualizadas-ao-realizar-duas-alteracoes-de-produto-em-uma-linha",
     "internalReference": 907428
+  },
+  {
+    "locale": "pt",
+    "slug": "interface-de-usuario-de-inativacao-de-produtos-do-catalogo",
+    "internalReference": 1260831
   },
   {
     "locale": "pt",
