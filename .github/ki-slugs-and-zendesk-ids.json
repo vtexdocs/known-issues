@@ -471,6 +471,11 @@
   },
   {
     "locale": "en",
+    "slug": "when-deleting-routes-from-the-routesjson-file-they-are-not-deleted-from-the-ui",
+    "internalReference": 1172460
+  },
+  {
+    "locale": "en",
     "slug": "a-sku-can-be-active-and-have-the-activate-if-possible-flag-unchecked",
     "internalReference": 931324
   },
@@ -1023,6 +1028,11 @@
     "locale": "en",
     "slug": "incorrectlacking-indexings-for-accounts-where-the-accountname-is-different-from-the-one-registered-on-the-fulfillmentendpoint",
     "internalReference": 1050023
+  },
+  {
+    "locale": "en",
+    "slug": "indexer-builds-inconsistent-availability-response-for-regionalized-marketplaces",
+    "internalReference": 1172289
   },
   {
     "locale": "en",
@@ -5876,6 +5886,11 @@
   },
   {
     "locale": "en",
+    "slug": "payment-received-while-transaction-approved",
+    "internalReference": 1174379
+  },
+  {
+    "locale": "en",
     "slug": "payment-status-stuck-and-transaction-canceling-after-risk-analysis-rejected",
     "internalReference": 1163213
   },
@@ -7391,6 +7406,11 @@
   },
   {
     "locale": "en",
+    "slug": "rewriter-not-receiving-routes-updated-from-the-catalog",
+    "internalReference": 1172080
+  },
+  {
+    "locale": "en",
     "slug": "scroll-issues-when-swiping-in-mobile-in-quick-view-when-theres-a-slider-layout-on-background",
     "internalReference": 985097
   },
@@ -7878,6 +7898,11 @@
     "locale": "es",
     "slug": "widget-de-suplantacion-de-usuario-no-se-muestra-si-showmodal-esta-activado",
     "internalReference": 1043039
+  },
+  {
+    "locale": "es",
+    "slug": "al-eliminar-rutas-del-archivo-routesjson-no-se-eliminan-de-la-interfaz-de-usuario",
+    "internalReference": 1172460
   },
   {
     "locale": "es",
@@ -8538,6 +8563,11 @@
     "locale": "es",
     "slug": "indexaciones-incorrectasfaltantes-para-cuentas-en-las-que-el-nombre-de-cuenta-es-diferente-del-registrado-en-el-fulfillmentendpoint",
     "internalReference": 1050023
+  },
+  {
+    "locale": "es",
+    "slug": "indexer-crea-una-respuesta-de-disponibilidad-incoherente-para-mercados-regionalizados",
+    "internalReference": 1172289
   },
   {
     "locale": "es",
@@ -13651,6 +13681,11 @@
   },
   {
     "locale": "es",
+    "slug": "pago-recibido-con-transaccion-aprobada",
+    "internalReference": 1174379
+  },
+  {
+    "locale": "es",
     "slug": "pagos-duplicados-con-la-misma-informacion",
     "internalReference": 1154246
   },
@@ -14866,6 +14901,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-reescritor-no-recibe-las-rutas-actualizadas-desde-el-catalogo",
+    "internalReference": 1172080
+  },
+  {
+    "locale": "es",
     "slug": "el-selector-de-cantidad-en-modo-paso-a-paso-no-se-actualiza-despues-de-alcanzar-la-maxima-cantidad-disponible",
     "internalReference": 704458
   },
@@ -15553,6 +15593,11 @@
     "locale": "pt",
     "slug": "a-listagem-de-tipos-de-conteudo-nao-tem-como-ser-rolada-para-baixo",
     "internalReference": 1271990
+  },
+  {
+    "locale": "pt",
+    "slug": "ao-excluir-rotas-do-arquivo-routesjson-elas-nao-sao-excluidas-da-interface-do-usuario",
+    "internalReference": 1172460
   },
   {
     "locale": "pt",
@@ -16588,6 +16633,11 @@
     "locale": "pt",
     "slug": "o-formato-de-imagem-como-jpg-ou-png-nao-funciona-no-catalogo-do-portal-do-vendedor",
     "internalReference": 1020505
+  },
+  {
+    "locale": "pt",
+    "slug": "o-indexador-cria-uma-resposta-de-disponibilidade-inconsistente-para-mercados-regionalizados",
+    "internalReference": 1172289
   },
   {
     "locale": "pt",
@@ -21311,6 +21361,11 @@
   },
   {
     "locale": "pt",
+    "slug": "pagamento-recebido-durante-a-aprovacao-da-transacao",
+    "internalReference": 1174379
+  },
+  {
+    "locale": "pt",
     "slug": "pagamentos-duplicados-com-as-mesmas-informacoes",
     "internalReference": 1154246
   },
@@ -22683,6 +22738,11 @@
     "locale": "pt",
     "slug": "o-reescritor-nao-esta-recebendo-atualizacoes-de-url",
     "internalReference": 1066527
+  },
+  {
+    "locale": "pt",
+    "slug": "o-reescritor-nao-esta-recebendo-rotas-atualizadas-do-catalogo",
+    "internalReference": 1172080
   },
   {
     "locale": "pt",
