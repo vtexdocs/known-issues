@@ -2,8 +2,8 @@
 title: Faststore search api considerando fuzzy como auto por defecto
 slug: faststore-search-api-considerando-fuzzy-como-auto-por-defecto
 status: PUBLISHED
-createdAt: 2025-10-16T19:55:10.806Z
-updatedAt: 2025-10-16T19:55:10.806Z
+createdAt: 2025-10-16T20:25:54.673Z
+updatedAt: 2025-10-16T20:25:54.673Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,7 +11,7 @@ tag: FastStore
 slugEN: faststore-search-api-considering-fuzzy-as-auto-as-default
 locale: es
 kiStatus: Fixed
-internalReference: 1133355
+internalReference: 889321
 ---
 
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
