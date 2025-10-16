@@ -2761,6 +2761,11 @@
   },
   {
     "locale": "en",
+    "slug": "known-issue-test-for-presentation",
+    "internalReference": 741025
+  },
+  {
+    "locale": "en",
     "slug": "this-is-a-test",
     "internalReference": 741722
   },
@@ -10118,6 +10123,11 @@
     "locale": "es",
     "slug": "la-aplicacion-ab-tester-muestra-informacion-erronea-sobre-sesiones-y-conversion",
     "internalReference": 865727
+  },
+  {
+    "locale": "es",
+    "slug": "prueba-de-problemas-conocidos-para-la-presentacion",
+    "internalReference": 741025
   },
   {
     "locale": "es",
@@ -17513,6 +17523,11 @@
     "locale": "pt",
     "slug": "o-aplicativo-ab-tester-mostra-informacoes-mal-calculadas-para-sessoes-e-conversao",
     "internalReference": 865727
+  },
+  {
+    "locale": "pt",
+    "slug": "teste-de-problemas-conhecidos-para-apresentacao",
+    "internalReference": 741025
   },
   {
     "locale": "pt",
