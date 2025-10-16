@@ -5681,6 +5681,11 @@
   },
   {
     "locale": "en",
+    "slug": "preanalysis-request-sent-multiple-times",
+    "internalReference": 1256754
+  },
+  {
+    "locale": "en",
     "slug": "problem-to-index-payment-methods-on-checkout-when-using-period-of-time-special-condition",
     "internalReference": 402857
   },
@@ -13211,6 +13216,11 @@
   },
   {
     "locale": "es",
+    "slug": "solicitud-de-preanalisis-enviada-varias-veces",
+    "internalReference": 1256754
+  },
+  {
+    "locale": "es",
     "slug": "tarjeta-guardada-de-marca-compartida-con-identificador-de-sistema-de-pago-incorrecto",
     "internalReference": 833400
   },
@@ -20553,6 +20563,11 @@
     "locale": "pt",
     "slug": "renderizacao-do-sistema-de-pagamento-desativado-no-checkout",
     "internalReference": 1049543
+  },
+  {
+    "locale": "pt",
+    "slug": "solicitacao-de-preanalise-enviada-varias-vezes",
+    "internalReference": 1256754
   },
   {
     "locale": "pt",
