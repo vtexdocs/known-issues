@@ -561,6 +561,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-api-get-product-by-refid-returns-not-found-for-some-productsrefid",
+    "internalReference": 1157371
+  },
+  {
+    "locale": "en",
     "slug": "catalog-brand-api-rest-allows-the-client-to-break-the-information-if-sending-request-with-incorrect-values",
     "internalReference": 1126473
   },
@@ -3272,7 +3277,7 @@
   {
     "locale": "en",
     "slug": "mercado-livre-in-some-cases-a-canceled-order-on-the-marketplace-doesnt-update-stock-in-the-catalog",
-    "internalReference": 1146768
+    "internalReference": 1146543
   },
   {
     "locale": "en",
@@ -7991,6 +7996,11 @@
   },
   {
     "locale": "es",
+    "slug": "catalogo-api-get-product-by-refid-devuelve-no-encontrado-para-algunos-productosrefid",
+    "internalReference": 1157371
+  },
+  {
+    "locale": "es",
     "slug": "catalogo-buscar-por-codigo-de-referencia-sku",
     "internalReference": 1082930
   },
@@ -10727,7 +10737,7 @@
   {
     "locale": "es",
     "slug": "mercado-livre-en-algunos-casos-un-pedido-cancelado-en-el-mercado-no-actualiza-las-existencias-en-el-catalogo",
-    "internalReference": 1146768
+    "internalReference": 1146543
   },
   {
     "locale": "es",
@@ -15836,6 +15846,11 @@
   },
   {
     "locale": "pt",
+    "slug": "catalog-a-api-get-product-by-refid-retorna-nao-encontrado-para-alguns-produtosrefid",
+    "internalReference": 1157371
+  },
+  {
+    "locale": "pt",
     "slug": "catalog-a-planilha-de-importacao-de-imagens-nao-substitui-o-rotulo",
     "internalReference": 1147627
   },
@@ -18162,7 +18177,7 @@
   {
     "locale": "pt",
     "slug": "mercado-livre-em-alguns-casos-um-pedido-cancelado-no-marketplace-nao-atualiza-o-estoque-no-catalogo",
-    "internalReference": 1146768
+    "internalReference": 1146543
   },
   {
     "locale": "pt",
