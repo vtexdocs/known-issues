@@ -4486,6 +4486,11 @@
   },
   {
     "locale": "en",
+    "slug": "difference-in-values-between-the-total-changes-and-the-detail-of-values-by-product",
+    "internalReference": 1256685
+  },
+  {
+    "locale": "en",
     "slug": "error-generating-subscription-order-the-same-item-cannot-have-more-than-one-sla-selected",
     "internalReference": 658185
   },
@@ -11798,6 +11803,11 @@
     "locale": "es",
     "slug": "cuadro-de-mandos-de-las-suscripciones-con-informacion-contradictoria",
     "internalReference": 587579
+  },
+  {
+    "locale": "es",
+    "slug": "diferencia-de-valores-entre-los-cambios-totales-y-el-detalle-de-valores-por-producto",
+    "internalReference": 1256685
   },
   {
     "locale": "es",
@@ -19208,6 +19218,11 @@
     "locale": "pt",
     "slug": "carater-especial-no-relatorio-do-nome-do-vendedor",
     "internalReference": 756243
+  },
+  {
+    "locale": "pt",
+    "slug": "diferenca-de-valores-entre-as-alteracoes-totais-e-o-detalhamento-dos-valores-por-produto",
+    "internalReference": 1256685
   },
   {
     "locale": "pt",
