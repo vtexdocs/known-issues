@@ -2,8 +2,8 @@
 title: Faststore search api considering fuzzy as auto as default
 slug: faststore-search-api-considering-fuzzy-as-auto-as-default
 status: PUBLISHED
-createdAt: 2025-10-16T19:55:06.959Z
-updatedAt: 2025-10-16T19:55:06.959Z
+createdAt: 2025-10-16T20:25:52.144Z
+updatedAt: 2025-10-16T20:25:52.144Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,7 +11,7 @@ tag: FastStore
 slugEN: faststore-search-api-considering-fuzzy-as-auto-as-default
 locale: en
 kiStatus: Fixed
-internalReference: 1133355
+internalReference: 889321
 ---
 
 ## Summary
