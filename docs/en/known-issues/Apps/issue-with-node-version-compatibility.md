@@ -2,8 +2,8 @@
 title: Issue with Node Version Compatibility
 slug: issue-with-node-version-compatibility
 status: PUBLISHED
-createdAt: 2025-10-16T19:23:25.590Z
-updatedAt: 2025-10-16T19:23:25.590Z
+createdAt: 2025-10-16T19:24:27.170Z
+updatedAt: 2025-10-16T19:24:27.170Z
 contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
