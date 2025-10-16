@@ -4851,6 +4851,11 @@
   },
   {
     "locale": "en",
+    "slug": "disqualification-of-seller-at-pickup-point-due-to-divergent-quantity-between-slas-at-checkout",
+    "internalReference": 1228333
+  },
+  {
+    "locale": "en",
     "slug": "seller-selection-excludes-single-seller-of-sku-with-low-coverage-causing-unavailability-in-allocation-step",
     "internalReference": 1298003
   },
@@ -4858,6 +4863,11 @@
     "locale": "en",
     "slug": "shipping-simulation-loop-at-checkout",
     "internalReference": 1204287
+  },
+  {
+    "locale": "en",
+    "slug": "the-minimum-and-maximum-values-of-the-logistics-affect-the-allocation-flow",
+    "internalReference": 1227934
   },
   {
     "locale": "en",
@@ -7818,6 +7828,11 @@
     "locale": "en",
     "slug": "some-functions-of-the-sticky-layout-component-wont-work-as-expected-when-viewed-through-safari-browser",
     "internalReference": 868535
+  },
+  {
+    "locale": "en",
+    "slug": "special-characters-in-search-query-break-store-framework-search-behavior",
+    "internalReference": 1232881
   },
   {
     "locale": "en",
@@ -12861,8 +12876,18 @@
   },
   {
     "locale": "es",
+    "slug": "descalificacion-del-vendedor-en-el-punto-de-recogida-debido-a-una-cantidad-divergente-entre-los-ans-en-la-caja",
+    "internalReference": 1228333
+  },
+  {
+    "locale": "es",
     "slug": "la-seleccion-de-vendedores-excluye-a-un-unico-vendedor-de-sku-con-baja-cobertura-lo-que-provoca-indisponibilidad-en-el-paso-de-asignacion",
     "internalReference": 1298003
+  },
+  {
+    "locale": "es",
+    "slug": "los-valores-minimo-y-maximo-de-la-logistica-afectan-al-flujo-de-asignacion",
+    "internalReference": 1227934
   },
   {
     "locale": "es",
@@ -15798,6 +15823,11 @@
     "locale": "es",
     "slug": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
     "internalReference": 654896
+  },
+  {
+    "locale": "es",
+    "slug": "los-caracteres-especiales-en-la-consulta-de-busqueda-rompen-el-comportamiento-de-busqueda-de-store-framework",
+    "internalReference": 1232881
   },
   {
     "locale": "es",
@@ -20906,8 +20936,18 @@
   },
   {
     "locale": "pt",
+    "slug": "desqualificacao-do-vendedor-no-ponto-de-coleta-devido-a-quantidade-divergente-entre-os-slas-no-checkout",
+    "internalReference": 1228333
+  },
+  {
+    "locale": "pt",
     "slug": "loop-de-simulacao-de-remessa-no-checkout",
     "internalReference": 1204287
+  },
+  {
+    "locale": "pt",
+    "slug": "os-valores-minimo-e-maximo-da-logistica-afetam-o-fluxo-de-alocacao",
+    "internalReference": 1227934
   },
   {
     "locale": "pt",
@@ -23598,6 +23638,11 @@
     "locale": "pt",
     "slug": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql",
     "internalReference": 654896
+  },
+  {
+    "locale": "pt",
+    "slug": "caracteres-especiais-na-consulta-de-pesquisa-quebram-o-comportamento-de-pesquisa-do-store-framework",
+    "internalReference": 1232881
   },
   {
     "locale": "pt",
