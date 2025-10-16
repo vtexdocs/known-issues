@@ -721,6 +721,11 @@
   },
   {
     "locale": "en",
+    "slug": "collections-created-by-api-and-products-inserted-by-api-insert-sku-by-file-not-working-properly",
+    "internalReference": 470966
+  },
+  {
+    "locale": "en",
     "slug": "collections-does-not-allow-more-than-1000-skus-per-upload",
     "internalReference": 793274
   },
@@ -6776,6 +6781,11 @@
   },
   {
     "locale": "en",
+    "slug": "masterdata-worksheet-importexport-returning-timeout",
+    "internalReference": 400265
+  },
+  {
+    "locale": "en",
     "slug": "mdv2-returns-error-504-gateway-timeout-when-we-try-to-update-a-document-passing-a-symbol-or-special-character",
     "internalReference": 852966
   },
@@ -7918,6 +7928,11 @@
     "locale": "es",
     "slug": "cms-legacy-collections-tiempo-de-espera",
     "internalReference": 434026
+  },
+  {
+    "locale": "es",
+    "slug": "colecciones-creadas-por-api-y-productos-insertados-por-api-insertar-sku-por-archivo-no-funcionan-correctamente",
+    "internalReference": 470966
   },
   {
     "locale": "es",
@@ -14196,6 +14211,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-importacionexportacion-de-masterdata-devuelve-el-tiempo-de-espera",
+    "internalReference": 400265
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-usuario-de-crmmasterdata-no-elimina-los-documentos-incluso-con-el-mensaje-de-exito",
     "internalReference": 699374
   },
@@ -15473,6 +15493,11 @@
     "locale": "pt",
     "slug": "as-cobrancas-nao-sao-abertas-em-subcontas",
     "internalReference": 649948
+  },
+  {
+    "locale": "pt",
+    "slug": "as-colecoes-criadas-pela-api-e-os-produtos-inseridos-pela-api-insert-sku-by-file-nao-estao-funcionando-corretamente",
+    "internalReference": 470966
   },
   {
     "locale": "pt",
@@ -21638,6 +21663,11 @@
     "locale": "pt",
     "slug": "pontos-de-coleta-nao-indexados-nos-dados-mestre",
     "internalReference": 530824
+  },
+  {
+    "locale": "pt",
+    "slug": "tempo-limite-de-retorno-da-importacaoexportacao-da-planilha-masterdata",
+    "internalReference": 400265
   },
   {
     "locale": "pt",
