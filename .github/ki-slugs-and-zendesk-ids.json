@@ -4346,6 +4346,11 @@
   },
   {
     "locale": "en",
+    "slug": "carriers-with-shipping-method-named-agendada-does-not-work",
+    "internalReference": 1207733
+  },
+  {
+    "locale": "en",
     "slug": "checkout-simulation-with-a-great-quantity-of-the-same-sku-receives-a-logistics-timeout",
     "internalReference": 330775
   },
@@ -12356,6 +12361,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-transportistas-con-metodo-de-envio-llamado-agendada-no-funcionan",
+    "internalReference": 1207733
+  },
+  {
+    "locale": "es",
     "slug": "modal-como-razon-generica-incluso-este-tipo-de-modal-estan-configurados-ok",
     "internalReference": 488339
   },
@@ -20133,6 +20143,11 @@
     "locale": "pt",
     "slug": "as-tags-de-ponto-de-coleta-continuam-a-ser-exibidas-na-politica-de-remessa-apos-a-exclusao",
     "internalReference": 1015158
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transportadoras-com-o-metodo-de-envio-denominado-agendada-nao-funcionam",
+    "internalReference": 1207733
   },
   {
     "locale": "pt",
