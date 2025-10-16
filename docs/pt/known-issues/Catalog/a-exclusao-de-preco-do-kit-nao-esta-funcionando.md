@@ -2,8 +2,8 @@
 title: A exclusão de preço do KIt não está funcionando
 slug: a-exclusao-de-preco-do-kit-nao-esta-funcionando
 status: PUBLISHED
-createdAt: 2025-10-16T20:54:21.745Z
-updatedAt: 2025-10-16T20:54:21.745Z
+createdAt: 2025-10-16T20:57:53.518Z
+updatedAt: 2025-10-16T20:57:53.518Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
