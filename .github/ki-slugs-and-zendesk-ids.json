@@ -4086,6 +4086,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-search-by-id-fields-not-working-for-uppercase-characters",
+    "internalReference": 1205216
+  },
+  {
+    "locale": "en",
     "slug": "productclick-event-not-triggering-in-searchbar",
     "internalReference": 742754
   },
@@ -11836,6 +11841,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-busqueda-de-productos-por-campos-id-no-funciona-para-caracteres-en-mayusculas",
+    "internalReference": 1205216
+  },
+  {
+    "locale": "es",
     "slug": "la-busqueda-explicada-no-tiene-resultados-cuando-el-idioma-coincide-con-la-configuracion-regional-del-administrador-tambien-configurada-en-la-busqu",
     "internalReference": 830490
   },
@@ -19533,6 +19543,11 @@
     "locale": "pt",
     "slug": "a-paginacao-inteligente-dos-valores-de-campo-da-busca-inteligente-e-limitada-a-9999-itens",
     "internalReference": 428486
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pesquisa-de-produtos-por-campos-de-id-nao-funciona-com-caracteres-maiusculos",
+    "internalReference": 1205216
   },
   {
     "locale": "pt",
