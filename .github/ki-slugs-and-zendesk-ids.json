@@ -736,6 +736,11 @@
   },
   {
     "locale": "en",
+    "slug": "category-trees-specification-navigation-can-return-incorrect-data",
+    "internalReference": 1179682
+  },
+  {
+    "locale": "en",
     "slug": "change-order-link-on-checkoutorderplaced-is-leading-to-myaccount-instead-of-the-order-page",
     "internalReference": 844893
   },
@@ -2646,6 +2651,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-preview-wrongly-displaying-the-price-in-pickup-and-delivery-split",
+    "internalReference": 1181570
+  },
+  {
+    "locale": "en",
     "slug": "shipping-preview-wrongly-displaying-the-price-when-its-scheduled-delivery",
     "internalReference": 532487
   },
@@ -3561,6 +3571,11 @@
   },
   {
     "locale": "en",
+    "slug": "faststores-breadcrumb-doesnt-handle-special-characters-well",
+    "internalReference": 1182343
+  },
+  {
+    "locale": "en",
     "slug": "faststores-not-working-correctly-in-firefox-private-mode",
     "internalReference": 828685
   },
@@ -3643,6 +3658,11 @@
     "locale": "en",
     "slug": "webops-build-status-is-blank",
     "internalReference": 1133146
+  },
+  {
+    "locale": "en",
+    "slug": "webops-deploys-being-triggered-repeatedly",
+    "internalReference": 1179703
   },
   {
     "locale": "en",
@@ -4213,6 +4233,11 @@
     "locale": "en",
     "slug": "wrong-translation-for-different-fields-under-the-same-original-value",
     "internalReference": 982848
+  },
+  {
+    "locale": "en",
+    "slug": "wrong-translation-for-sku-names-at-the-intelligent-search",
+    "internalReference": 1180016
   },
   {
     "locale": "en",
@@ -6173,6 +6198,11 @@
     "locale": "en",
     "slug": "transactions-entered-into-wrong-conditions",
     "internalReference": 392666
+  },
+  {
+    "locale": "en",
+    "slug": "transactions-filter-by-date-in-admin-not-working",
+    "internalReference": 1180441
   },
   {
     "locale": "en",
@@ -8836,6 +8866,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-navegacion-por-las-especificaciones-del-arbol-de-categorias-puede-devolver-datos-incorrectos",
+    "internalReference": 1179682
+  },
+  {
+    "locale": "es",
     "slug": "la-ordenacion-de-las-sku-en-la-api-de-busqueda-no-sigue-la-posicion-de-las-sku-del-administrador",
     "internalReference": 515042
   },
@@ -10526,6 +10561,11 @@
   },
   {
     "locale": "es",
+    "slug": "vista-previa-de-envio-que-muestra-erroneamente-el-precio-en-la-division-de-recogida-y-entrega",
+    "internalReference": 1181570
+  },
+  {
+    "locale": "es",
     "slug": "vista-previa-del-envio-que-muestra-un-mensaje-de-no-disponibilidad-para-la-entrega",
     "internalReference": 1170877
   },
@@ -11176,6 +11216,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-breadcrumb-de-faststore-no-maneja-bien-los-caracteres-especiales",
+    "internalReference": 1182343
+  },
+  {
+    "locale": "es",
     "slug": "el-carro-faststore-fusiona-los-articulos-de-la-cadena-de-montaje",
     "internalReference": 1050068
   },
@@ -11278,6 +11323,11 @@
     "locale": "es",
     "slug": "las-tiendas-faststore-no-tienen-datos-de-conversion-en-los-informes-de-busqueda-inteligente",
     "internalReference": 1157002
+  },
+  {
+    "locale": "es",
+    "slug": "los-despliegues-de-webops-se-activan-repetidamente",
+    "internalReference": 1179703
   },
   {
     "locale": "es",
@@ -11883,6 +11933,11 @@
     "locale": "es",
     "slug": "traduccion-erronea-para-diferentes-campos-bajo-el-mismo-valor-original",
     "internalReference": 982848
+  },
+  {
+    "locale": "es",
+    "slug": "traduccion-incorrecta-de-los-nombres-de-sku-en-la-busqueda-inteligente",
+    "internalReference": 1180016
   },
   {
     "locale": "es",
@@ -13313,6 +13368,11 @@
     "locale": "es",
     "slug": "faltan-solicitudes-de-devolucion-que-ejecutan-varias-solicitudes",
     "internalReference": 1154224
+  },
+  {
+    "locale": "es",
+    "slug": "filtro-de-transacciones-por-fecha-en-admin-no-funciona",
+    "internalReference": 1180441
   },
   {
     "locale": "es",
@@ -15971,6 +16031,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-navegacao-de-especificacao-da-arvore-de-categorias-pode-retornar-dados-incorretos",
+    "internalReference": 1179682
+  },
+  {
+    "locale": "pt",
     "slug": "a-ordem-de-skus-na-search-api-nao-segue-a-posicao-do-sku-do-admin",
     "internalReference": 515042
   },
@@ -17273,6 +17338,11 @@
     "locale": "pt",
     "slug": "a-visualizacao-do-frete-esta-exibindo-erroneamente-o-preco-quando-a-entrega-esta-programada",
     "internalReference": 532487
+  },
+  {
+    "locale": "pt",
+    "slug": "a-visualizacao-do-frete-exibia-erroneamente-o-preco-na-divisao-de-coleta-e-entrega",
+    "internalReference": 1181570
   },
   {
     "locale": "pt",
@@ -18931,8 +19001,18 @@
   },
   {
     "locale": "pt",
+    "slug": "implantacoes-de-webops-sendo-acionadas-repetidamente",
+    "internalReference": 1179703
+  },
+  {
+    "locale": "pt",
     "slug": "o-aplicativo-webops-nao-esta-totalmente-integrado-ao-headless-cms",
     "internalReference": 1048810
+  },
+  {
+    "locale": "pt",
+    "slug": "o-breadcrumb-da-faststore-nao-lida-bem-com-caracteres-especiais",
+    "internalReference": 1182343
   },
   {
     "locale": "pt",
@@ -19583,6 +19663,11 @@
     "locale": "pt",
     "slug": "traducao-incorreta-para-campos-diferentes-com-o-mesmo-valor-original",
     "internalReference": 982848
+  },
+  {
+    "locale": "pt",
+    "slug": "traducao-incorreta-para-nomes-de-skus-na-pesquisa-inteligente",
+    "internalReference": 1180016
   },
   {
     "locale": "pt",
@@ -21313,6 +21398,11 @@
     "locale": "pt",
     "slug": "o-email-nao-e-preenchido-automaticamente-para-novos-usuarios-no-checkoutui",
     "internalReference": 887949
+  },
+  {
+    "locale": "pt",
+    "slug": "o-filtro-de-transacoes-por-data-no-admin-nao-esta-funcionando",
+    "internalReference": 1180441
   },
   {
     "locale": "pt",
