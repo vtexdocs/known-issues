@@ -7031,6 +7031,11 @@
   },
   {
     "locale": "en",
+    "slug": "performance-flag-affecting-product-grid-in-plp",
+    "internalReference": 1251266
+  },
+  {
+    "locale": "en",
     "slug": "platform-timeout-errors",
     "internalReference": 1051070
   },
@@ -14353,6 +14358,11 @@
     "locale": "es",
     "slug": "favicon-no-se-muestra-en-algunas-versiones-de-google-chrome-mobile",
     "internalReference": 1139339
+  },
+  {
+    "locale": "es",
+    "slug": "indicador-de-rendimiento-que-afecta-a-la-parrilla-de-productos-en-plp",
+    "internalReference": 1251266
   },
   {
     "locale": "es",
@@ -21928,6 +21938,11 @@
     "locale": "pt",
     "slug": "seletor-de-sku-com-contextos-multiplos",
     "internalReference": 341322
+  },
+  {
+    "locale": "pt",
+    "slug": "sinalizador-de-desempenho-que-afeta-a-grade-de-produtos-no-plp",
+    "internalReference": 1251266
   },
   {
     "locale": "pt",
