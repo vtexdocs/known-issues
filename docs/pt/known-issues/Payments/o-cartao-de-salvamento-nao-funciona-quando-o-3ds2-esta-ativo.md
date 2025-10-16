@@ -2,8 +2,8 @@
 title: O cartão de salvamento não funciona quando o 3DS2 está ativo
 slug: o-cartao-de-salvamento-nao-funciona-quando-o-3ds2-esta-ativo
 status: PUBLISHED
-createdAt: 2025-10-16T19:51:53.155Z
-updatedAt: 2025-10-16T19:51:53.155Z
+createdAt: 2025-10-16T20:06:49.777Z
+updatedAt: 2025-10-16T20:06:49.777Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
