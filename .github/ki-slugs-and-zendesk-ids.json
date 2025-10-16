@@ -656,6 +656,11 @@
   },
   {
     "locale": "en",
+    "slug": "categories-missing-seller-not-provisioned-correctly",
+    "internalReference": 1205261
+  },
+  {
+    "locale": "en",
     "slug": "categories-that-only-have-products-setup-by-similar-category-do-not-appear-on-sitemap",
     "internalReference": 1091727
   },
@@ -7788,6 +7793,11 @@
     "locale": "es",
     "slug": "categorias-globales-del-catalogo-obsoletas-en-comparacion-con-google",
     "internalReference": 754062
+  },
+  {
+    "locale": "es",
+    "slug": "categorias-que-faltan-vendedor-no-provisionado-correctamente",
+    "internalReference": 1205261
   },
   {
     "locale": "es",
@@ -15408,6 +15418,11 @@
     "locale": "pt",
     "slug": "catalogv2-funcoes-do-usuario-que-nao-se-aplicam",
     "internalReference": 489297
+  },
+  {
+    "locale": "pt",
+    "slug": "categorias-ausentes-do-vendedor-nao-provisionadas-corretamente",
+    "internalReference": 1205261
   },
   {
     "locale": "pt",
