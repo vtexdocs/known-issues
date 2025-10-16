@@ -3476,6 +3476,11 @@
   },
   {
     "locale": "en",
+    "slug": "validatecart-mutation-returning-500-when-customizations-affects-the-availability-of-the-product",
+    "internalReference": 1258650
+  },
+  {
+    "locale": "en",
     "slug": "validatecartmutation-failing-when-large-payload",
     "internalReference": 985867
   },
@@ -10781,6 +10786,11 @@
   },
   {
     "locale": "es",
+    "slug": "validatecart-mutacion-devolver-500-cuando-personalizaciones-afecta-a-la-disponibilidad-del-producto",
+    "internalReference": 1258650
+  },
+  {
+    "locale": "es",
     "slug": "validatecartmutation-falla-cuando-la-carga-util-es-grande",
     "internalReference": 985867
   },
@@ -17998,6 +18008,11 @@
     "locale": "pt",
     "slug": "a-api-de-pesquisa-da-faststore-considera-o-fuzzy-como-automatico-por-padrao",
     "internalReference": 889321
+  },
+  {
+    "locale": "pt",
+    "slug": "a-mutacao-validatecart-retorna-500-quando-as-personalizacoes-afetam-a-disponibilidade-do-produto",
+    "internalReference": 1258650
   },
   {
     "locale": "pt",
