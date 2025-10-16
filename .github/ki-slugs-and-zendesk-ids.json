@@ -1251,6 +1251,11 @@
   },
   {
     "locale": "en",
+    "slug": "new-collections-ui-email-export-not-working",
+    "internalReference": 1218386
+  },
+  {
+    "locale": "en",
     "slug": "nominal-discount-more-for-less-split-for-second-item-incorrect-discount",
     "internalReference": 1071119
   },
@@ -4441,6 +4446,11 @@
   },
   {
     "locale": "en",
+    "slug": "discrepancy-in-display-of-reservations-in-inventory-management",
+    "internalReference": 1220722
+  },
+  {
+    "locale": "en",
     "slug": "divergence-in-kit-weight-after-calculations-involving-decimals-in-weight",
     "internalReference": 657186
   },
@@ -4883,6 +4893,11 @@
     "locale": "en",
     "slug": "difference-in-values-between-the-total-changes-and-the-detail-of-values-by-product",
     "internalReference": 1256685
+  },
+  {
+    "locale": "en",
+    "slug": "erro-in-change-v2-flow-with-duplicated-itens",
+    "internalReference": 1219914
   },
   {
     "locale": "en",
@@ -9431,6 +9446,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-funciona-la-exportacion-de-correo-electronico-de-la-nueva-interfaz-de-colecciones",
+    "internalReference": 1218386
+  },
+  {
+    "locale": "es",
     "slug": "no-puede-desactivar-este-producto-porque-tiene-uno-o-mas-skus-activos-no-se-traduce-automaticamente-en-el-product-admin",
     "internalReference": 768603
   },
@@ -12371,6 +12391,11 @@
   },
   {
     "locale": "es",
+    "slug": "discrepancia-en-la-visualizacion-de-reservas-en-la-gestion-de-inventarios",
+    "internalReference": 1220722
+  },
+  {
+    "locale": "es",
     "slug": "divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas",
     "internalReference": 346163
   },
@@ -13003,6 +13028,11 @@
     "locale": "es",
     "slug": "error-al-visualizar-el-perfil-del-operador-del-centro-de-llamadas-vista-restringida-de-pedidos",
     "internalReference": 1129938
+  },
+  {
+    "locale": "es",
+    "slug": "error-en-el-flujo-change-v2-con-itens-duplicados",
+    "internalReference": 1219914
   },
   {
     "locale": "es",
@@ -16508,6 +16538,11 @@
     "locale": "pt",
     "slug": "a-exportacao-de-colecoes-mostra-apenas-o-primeiro-sku-do-produto-inativo",
     "internalReference": 1040753
+  },
+  {
+    "locale": "pt",
+    "slug": "a-exportacao-de-email-da-interface-do-usuario-das-novas-colecoes-nao-esta-funcionando",
+    "internalReference": 1218386
   },
   {
     "locale": "pt",
@@ -20426,6 +20461,11 @@
   },
   {
     "locale": "pt",
+    "slug": "discrepancia-na-exibicao-de-reservas-no-inventory-management",
+    "internalReference": 1220722
+  },
+  {
+    "locale": "pt",
     "slug": "divergencia-de-estoque-a-logistica-nao-tem-o-mesmo-tratamento-a-esquerda-que-outra-sku",
     "internalReference": 427610
   },
@@ -20948,6 +20988,11 @@
     "locale": "pt",
     "slug": "erro-na-visualizacao-do-envioestimativadata-na-nova-ui",
     "internalReference": 661040
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-no-fluxo-change-v2-com-itens-duplicados",
+    "internalReference": 1219914
   },
   {
     "locale": "pt",
