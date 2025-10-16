@@ -3466,6 +3466,11 @@
   },
   {
     "locale": "en",
+    "slug": "faststore-is-sending-search-events-on-collection-pages-with-the-collection-id-to-is-reports",
+    "internalReference": 1159040
+  },
+  {
+    "locale": "en",
     "slug": "faststore-pdps-are-not-regionalized",
     "internalReference": 1088656
   },
@@ -6003,6 +6008,11 @@
     "locale": "en",
     "slug": "transaction-cancellation-error-with-unreachable-code-message",
     "internalReference": 998435
+  },
+  {
+    "locale": "en",
+    "slug": "transaction-created-with-duplicated-payments",
+    "internalReference": 1158045
   },
   {
     "locale": "en",
@@ -10976,6 +10986,11 @@
   },
   {
     "locale": "es",
+    "slug": "faststore-esta-enviando-eventos-de-busqueda-en-paginas-de-colecciones-con-el-id-de-la-coleccion-a-los-informes-de-is",
+    "internalReference": 1159040
+  },
+  {
+    "locale": "es",
     "slug": "faststore-facets-considerando-no-eliminar-facets-configuradas-como-ne-hidden",
     "internalReference": 1029837
   },
@@ -13598,6 +13613,11 @@
     "locale": "es",
     "slug": "transaccion-cancelada-por-tiempo-de-espera-timeout-no-request-para-o-sistema-de-parcelamento",
     "internalReference": 533844
+  },
+  {
+    "locale": "es",
+    "slug": "transaccion-creada-con-pagos-duplicados",
+    "internalReference": 1158045
   },
   {
     "locale": "es",
@@ -18471,6 +18491,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-faststore-esta-enviando-eventos-de-pesquisa-em-paginas-de-colecoes-com-o-id-da-colecao-para-relatorios-is",
+    "internalReference": 1159040
+  },
+  {
+    "locale": "pt",
     "slug": "a-mutacao-validatecart-retorna-500-quando-as-personalizacoes-afetam-a-disponibilidade-do-produto",
     "internalReference": 1258650
   },
@@ -21128,6 +21153,11 @@
     "locale": "pt",
     "slug": "transacao-cancelada-por-tempo-limite-timeout-sem-pedido-para-o-sistema-de-parcelamento",
     "internalReference": 533844
+  },
+  {
+    "locale": "pt",
+    "slug": "transacao-criada-com-pagamentos-duplicados",
+    "internalReference": 1158045
   },
   {
     "locale": "pt",
