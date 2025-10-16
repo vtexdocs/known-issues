@@ -6201,6 +6201,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-with-antifraud-doesnt-update-to-settling-when-riskapproved-log-is-missing",
+    "internalReference": 1184723
+  },
+  {
+    "locale": "en",
     "slug": "transactions-entered-into-wrong-conditions",
     "internalReference": 392666
   },
@@ -13961,6 +13966,11 @@
   },
   {
     "locale": "es",
+    "slug": "transaccion-con-antifraude-no-se-actualiza-a-liquidando-cuando-falta-el-registro-riskapproved",
+    "internalReference": 1184723
+  },
+  {
+    "locale": "es",
     "slug": "transaccion-creada-con-pagos-duplicados",
     "internalReference": 1158045
   },
@@ -20813,6 +20823,11 @@
     "locale": "pt",
     "slug": "a-solicitacao-de-parcelas-na-porta-de-entrada-de-um-comerciante-que-nao-o-mercado-e-sempre-feita-com-canal-de-vendas-1",
     "internalReference": 391197
+  },
+  {
+    "locale": "pt",
+    "slug": "a-transacao-com-antifraude-nao-e-atualizada-para-liquidacao-quando-o-registro-riskapproved-esta-ausente",
+    "internalReference": 1184723
   },
   {
     "locale": "pt",
