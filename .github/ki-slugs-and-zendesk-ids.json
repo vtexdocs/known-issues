@@ -581,6 +581,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-error-exporting-the-report",
+    "internalReference": 1163872
+  },
+  {
+    "locale": "en",
     "slug": "catalog-export-cannot-handle-t-and-s-characters",
     "internalReference": 950933
   },
@@ -5896,6 +5901,11 @@
   },
   {
     "locale": "en",
+    "slug": "second-payment-authorization-request-being-sent-within-an-interval-shorter-than-what-is-stated-in-firstretryattemptinseconds",
+    "internalReference": 1165831
+  },
+  {
+    "locale": "en",
     "slug": "single-installment-payment-condition-does-not-appear-at-chekout",
     "internalReference": 605568
   },
@@ -8063,6 +8073,11 @@
     "locale": "es",
     "slug": "catalogo-desactivar-productid-usando-api-no-es-inactivar-sku",
     "internalReference": 1157944
+  },
+  {
+    "locale": "es",
+    "slug": "catalogo-error-al-exportar-el-informe",
+    "internalReference": 1163872
   },
   {
     "locale": "es",
@@ -13606,6 +13621,11 @@
   },
   {
     "locale": "es",
+    "slug": "segunda-solicitud-de-autorizacion-de-pago-enviada-en-un-intervalo-inferior-al-indicado-en-firstretryattemptinseconds",
+    "internalReference": 1165831
+  },
+  {
+    "locale": "es",
     "slug": "sistema-de-pago-desactivado-al-pasar-por-caja",
     "internalReference": 1049543
   },
@@ -15968,6 +15988,11 @@
     "locale": "pt",
     "slug": "catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return",
     "internalReference": 388869
+  },
+  {
+    "locale": "pt",
+    "slug": "catalog-erro-ao-exportar-o-relatorio",
+    "internalReference": 1163872
   },
   {
     "locale": "pt",
@@ -21193,6 +21218,11 @@
     "locale": "pt",
     "slug": "renderizacao-do-sistema-de-pagamento-desativado-no-checkout",
     "internalReference": 1049543
+  },
+  {
+    "locale": "pt",
+    "slug": "segunda-solicitacao-de-autorizacao-de-pagamento-sendo-enviada-em-um-intervalo-menor-do-que-o-indicado-em-firstretryattemptinseconds",
+    "internalReference": 1165831
   },
   {
     "locale": "pt",
