@@ -1721,6 +1721,11 @@
   },
   {
     "locale": "en",
+    "slug": "cart-itemvalue-is-incorrectly-sent-by-checkout-in-additionaldata",
+    "internalReference": 640386
+  },
+  {
+    "locale": "en",
     "slug": "cart-itens-are-kept-in-orders-with-total-value-zero",
     "internalReference": 1054999
   },
@@ -2496,6 +2501,11 @@
   },
   {
     "locale": "en",
+    "slug": "scheduled-delivery-option-does-not-appear-in-the-cart-if-lean-shipping-is-disabled-and-the-item-has-both-type-of-deliveries",
+    "internalReference": 394943
+  },
+  {
+    "locale": "en",
     "slug": "scheduled-delivery-window-change-for-all-items-when-selecting-a-common-one-in-the-cart-with-multiple-sellers",
     "internalReference": 1089806
   },
@@ -3241,6 +3251,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-in-some-cases-a-canceled-order-on-the-marketplace-doesnt-update-stock-in-the-catalog",
+    "internalReference": 1146768
+  },
+  {
+    "locale": "en",
     "slug": "mercado-livre-main-image-not-respected",
     "internalReference": 1287784
   },
@@ -3831,6 +3846,11 @@
   },
   {
     "locale": "en",
+    "slug": "manual-merchandising-rules-do-not-work-when-global-trigger-is-enabled",
+    "internalReference": 1147282
+  },
+  {
+    "locale": "en",
     "slug": "merchandising-rules-not-working-for-the-facet-productclusterids",
     "internalReference": 1062457
   },
@@ -3943,6 +3963,11 @@
     "locale": "en",
     "slug": "search-autocomplete-providing-outdated-url-after-navigating-through-suggestions",
     "internalReference": 968604
+  },
+  {
+    "locale": "en",
+    "slug": "search-banners-not-deleting-rules-from-trigger-rules",
+    "internalReference": 1142901
   },
   {
     "locale": "en",
@@ -7191,6 +7216,11 @@
   },
   {
     "locale": "en",
+    "slug": "service-worker-does-not-create-a-correct-scope-for-multibinding-stores",
+    "internalReference": 1146421
+  },
+  {
+    "locale": "en",
     "slug": "site-rendering-desktop-version-when-accessing-via-ipad-on-safari",
     "internalReference": 735208
   },
@@ -9436,6 +9466,11 @@
   },
   {
     "locale": "es",
+    "slug": "itemvalue-del-carrito-es-enviado-incorrectamente-por-el-checkout-en-additionaldata",
+    "internalReference": 640386
+  },
+  {
+    "locale": "es",
     "slug": "la-alerta-para-llenar-la-seleccion-de-entrega-programada-aparece-solo-una-vez",
     "internalReference": 565982
   },
@@ -9678,6 +9713,11 @@
     "locale": "es",
     "slug": "la-lista-de-puntos-de-recogida-no-se-puede-desplazar-despues-de-buscar-direcciones-en-el-modo-mapa",
     "internalReference": 624646
+  },
+  {
+    "locale": "es",
+    "slug": "la-opcion-de-entrega-programada-no-aparece-en-el-carrito-si-el-envio-magro-esta-desactivado-y-el-articulo-tiene-ambos-tipos-de-entregas",
+    "internalReference": 394943
   },
   {
     "locale": "es",
@@ -10611,6 +10651,11 @@
   },
   {
     "locale": "es",
+    "slug": "mercado-livre-en-algunos-casos-un-pedido-cancelado-en-el-mercado-no-actualiza-las-existencias-en-el-catalogo",
+    "internalReference": 1146768
+  },
+  {
+    "locale": "es",
     "slug": "mercado-livre-error-40000-40007-despues-de-hacer-clic-en-el-boton-para-publicar-en-el-catalogo-buybox",
     "internalReference": 1122911
   },
@@ -11261,6 +11306,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-reglas-de-comercializacion-manual-no-funcionan-cuando-esta-activado-el-activador-global",
+    "internalReference": 1147282
+  },
+  {
+    "locale": "es",
     "slug": "las-reglas-de-comercializacion-no-funcionan-para-la-faceta-productclusterids",
     "internalReference": 1062457
   },
@@ -11283,6 +11333,11 @@
     "locale": "es",
     "slug": "los-analisis-de-busqueda-informan-de-divergencias-entre-versiones-con-o-sin-metricas-de-embudo",
     "internalReference": 980297
+  },
+  {
+    "locale": "es",
+    "slug": "los-banners-de-busqueda-no-borran-las-reglas-de-las-reglas-de-activacion",
+    "internalReference": 1142901
   },
   {
     "locale": "es",
@@ -14436,6 +14491,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-service-worker-no-crea-un-ambito-correcto-para-los-almacenes-multibinding",
+    "internalReference": 1146421
+  },
+  {
+    "locale": "es",
     "slug": "el-sitemap-no-indexa-las-paginas-de-departamentos-marcas-yo-categorias",
     "internalReference": 1076965
   },
@@ -16616,6 +16676,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-opcao-de-entrega-programada-nao-aparecera-no-carrinho-se-o-envio-enxuto-estiver-desativado-e-o-item-tiver-ambos-os-tipos-de-entrega",
+    "internalReference": 394943
+  },
+  {
+    "locale": "pt",
     "slug": "a-pesquisa-do-seletor-de-ponto-de-coleta-nao-funciona-com-enterreturn",
     "internalReference": 829955
   },
@@ -16973,6 +17038,11 @@
     "locale": "pt",
     "slug": "itemdeliverytype-do-carrinho-nao-foi-enviado-pelo-checkout-em-additionaldata",
     "internalReference": 1002115
+  },
+  {
+    "locale": "pt",
+    "slug": "itemvalue-do-carrinho-e-enviado-incorretamente-pelo-checkout-em-additionaldata",
+    "internalReference": 640386
   },
   {
     "locale": "pt",
@@ -17961,6 +18031,11 @@
   },
   {
     "locale": "pt",
+    "slug": "mercado-livre-em-alguns-casos-um-pedido-cancelado-no-marketplace-nao-atualiza-o-estoque-no-catalogo",
+    "internalReference": 1146768
+  },
+  {
+    "locale": "pt",
     "slug": "mercado-livre-erro-40000-40007-apos-clicar-no-botao-para-publicar-no-catalogo-do-buybox",
     "internalReference": 1122911
   },
@@ -18501,6 +18576,11 @@
   },
   {
     "locale": "pt",
+    "slug": "as-regras-de-merchandising-manual-nao-funcionam-quando-o-acionador-global-esta-ativado",
+    "internalReference": 1147282
+  },
+  {
+    "locale": "pt",
     "slug": "as-regras-de-merchandising-nao-estao-funcionando-para-a-faceta-productclusterids",
     "internalReference": 1062457
   },
@@ -18698,6 +18778,11 @@
     "locale": "pt",
     "slug": "o-search-resolver-aplica-traducoes-de-mensagens-sobre-conteudo-ja-traduzido",
     "internalReference": 865918
+  },
+  {
+    "locale": "pt",
+    "slug": "os-banners-de-pesquisa-nao-estao-excluindo-regras-das-regras-de-acionamento",
+    "internalReference": 1142901
   },
   {
     "locale": "pt",
@@ -22033,6 +22118,11 @@
     "locale": "pt",
     "slug": "o-seletor-de-quantidade-no-modo-stepper-nao-se-atualiza-apos-atingir-a-qunatity-maxima-disponivel",
     "internalReference": 704458
+  },
+  {
+    "locale": "pt",
+    "slug": "o-service-worker-nao-cria-um-escopo-correto-para-armazenamentos-com-varias-vinculacoes",
+    "internalReference": 1146421
   },
   {
     "locale": "pt",
