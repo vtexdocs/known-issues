@@ -7001,6 +7001,11 @@
   },
   {
     "locale": "en",
+    "slug": "minicart-displays-free-instead-of-tbd-after-removing-available-items-quickly",
+    "internalReference": 1248177
+  },
+  {
+    "locale": "en",
     "slug": "minicart-does-not-show-sku-specs-in-b2b-scenario",
     "internalReference": 687308
   },
@@ -14521,6 +14526,11 @@
   },
   {
     "locale": "es",
+    "slug": "minicart-muestra-gratis-en-lugar-de-tbd-despues-de-retirar-rapidamente-los-articulos-disponibles",
+    "internalReference": 1248177
+  },
+  {
+    "locale": "es",
     "slug": "minicart-no-muestra-las-especificaciones-de-las-sku-en-el-escenario-b2b",
     "internalReference": 687308
   },
@@ -21798,6 +21808,11 @@
     "locale": "pt",
     "slug": "o-mapa-do-site-nao-indexa-as-paginas-de-departamentos-marcas-eou-categorias",
     "internalReference": 1076965
+  },
+  {
+    "locale": "pt",
+    "slug": "o-minicarro-exibe-free-em-vez-de-tbd-apos-a-remocao-rapida-de-itens-disponiveis",
+    "internalReference": 1248177
   },
   {
     "locale": "pt",
