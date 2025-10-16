@@ -1246,6 +1246,11 @@
   },
   {
     "locale": "en",
+    "slug": "pipe-characters-are-not-properly-recognized-in-the-new-catalog-ui",
+    "internalReference": 1177654
+  },
+  {
+    "locale": "en",
     "slug": "portal-dont-respect-the-tag-principal-of-skus-image",
     "internalReference": 712443
   },
@@ -4716,6 +4721,11 @@
   },
   {
     "locale": "en",
+    "slug": "error-with-event-system-at-the-end-of-a-transaction-causes-an-order-to-be-incomplete",
+    "internalReference": 421137
+  },
+  {
+    "locale": "en",
     "slug": "ew-ui-does-not-suggest-the-correct-item-to-be-returned-once-the-order-has-a-change",
     "internalReference": 735854
   },
@@ -6261,6 +6271,11 @@
   },
   {
     "locale": "en",
+    "slug": "ecommerce-order-with-sales-app-tags",
+    "internalReference": 1175985
+  },
+  {
+    "locale": "en",
     "slug": "instore-does-not-read-properly-the-html-registred-in-the-product-information",
     "internalReference": 718136
   },
@@ -7161,6 +7176,11 @@
   },
   {
     "locale": "en",
+    "slug": "configuration-blocks-default-routes-in-other-bindings-on-rewriter-can-lead-to-not-found-page-after-applying-filters",
+    "internalReference": 1175760
+  },
+  {
+    "locale": "en",
     "slug": "creating-and-deleting-a-large-number-of-redirects-breaks-the-redirects-page",
     "internalReference": 1010392
   },
@@ -7243,6 +7263,11 @@
     "locale": "en",
     "slug": "intl-not-considering-custom-currency-in-formatcurrency",
     "internalReference": 736695
+  },
+  {
+    "locale": "en",
+    "slug": "it-is-possible-to-remove-a-required-assembly-option-from-the-minicart",
+    "internalReference": 1175391
   },
   {
     "locale": "en",
@@ -8963,6 +8988,11 @@
     "locale": "es",
     "slug": "las-traducciones-del-catalogo-no-se-reflejan-en-el-frontend",
     "internalReference": 861892
+  },
+  {
+    "locale": "es",
+    "slug": "los-caracteres-de-tubo-no-se-reconocen-correctamente-en-la-nueva-interfaz-de-usuario-del-catalogo",
+    "internalReference": 1177654
   },
   {
     "locale": "es",
@@ -12871,6 +12901,11 @@
   },
   {
     "locale": "es",
+    "slug": "un-error-con-el-sistema-de-eventos-al-final-de-una-transaccion-provoca-que-un-pedido-quede-incompleto",
+    "internalReference": 421137
+  },
+  {
+    "locale": "es",
     "slug": "untitled",
     "internalReference": 631970
   },
@@ -13941,6 +13976,11 @@
   },
   {
     "locale": "es",
+    "slug": "pedido-de-comercio-electronico-con-etiquetas-de-aplicacion-de-ventas",
+    "internalReference": 1175985
+  },
+  {
+    "locale": "es",
     "slug": "ausencia-de-retroalimentacion-por-fallos-en-el-cambio-de-pedido-en-pick-and-pack-comunicacion-con-oms",
     "internalReference": 1275957
   },
@@ -14976,6 +15016,11 @@
   },
   {
     "locale": "es",
+    "slug": "es-posible-eliminar-una-opcion-de-montaje-obligatoria-del-minicarro",
+    "internalReference": 1175391
+  },
+  {
+    "locale": "es",
     "slug": "favicon-no-se-muestra-en-algunas-versiones-de-google-chrome-mobile",
     "internalReference": 1139339
   },
@@ -15008,6 +15053,11 @@
     "locale": "es",
     "slug": "la-busqueda-no-funciona-correctamente-en-store-framework-jamstack",
     "internalReference": 383231
+  },
+  {
+    "locale": "es",
+    "slug": "la-configuracion-bloquea-las-rutas-por-defecto-en-otros-enlaces-en-rewriter-puede-conducir-a-la-pagina-no-encontrado-despues-de-aplicar-los-filtros",
+    "internalReference": 1175760
   },
   {
     "locale": "es",
@@ -16718,6 +16768,11 @@
     "locale": "pt",
     "slug": "os-calculos-de-componentes-do-kit-nao-atualizam-automaticamente-seu-preco-final",
     "internalReference": 1217509
+  },
+  {
+    "locale": "pt",
+    "slug": "os-caracteres-de-tubulacao-nao-sao-reconhecidos-corretamente-na-nova-interface-do-usuario-do-catalogo",
+    "internalReference": 1177654
   },
   {
     "locale": "pt",
@@ -20121,6 +20176,11 @@
   },
   {
     "locale": "pt",
+    "slug": "erro-no-sistema-de-eventos-no-final-de-uma-transacao-faz-com-que-um-pedido-fique-incompleto",
+    "internalReference": 421137
+  },
+  {
+    "locale": "pt",
     "slug": "ew-ui-nao-sugere-o-item-correto-a-ser-devolvido-quando-o-pedido-tem-uma-mudanca",
     "internalReference": 735854
   },
@@ -21611,6 +21671,11 @@
   },
   {
     "locale": "pt",
+    "slug": "pedido-de-comercio-eletronico-com-tags-do-aplicativo-sales",
+    "internalReference": 1175985
+  },
+  {
+    "locale": "pt",
     "slug": "as-planilhas-de-coleta-e-embalagem-permanecem-abertas-e-nao-podem-ser-concluidas",
     "internalReference": 1160144
   },
@@ -22416,6 +22481,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-configuracao-blocks-default-routes-in-other-bindings-no-rewriter-pode-levar-a-pagina-not-found-apos-a-aplicacao-de-filtros",
+    "internalReference": 1175760
+  },
+  {
+    "locale": "pt",
     "slug": "a-criacao-e-a-exclusao-de-um-grande-numero-de-redirecionamentos-quebram-a-pagina-de-redirecionamentos",
     "internalReference": 1010392
   },
@@ -22553,6 +22623,11 @@
     "locale": "pt",
     "slug": "divergencia-nas-configuracoes-avancadas-do-store-em-novas-contas-ou-espacos-de-trabalho",
     "internalReference": 1064235
+  },
+  {
+    "locale": "pt",
+    "slug": "e-possivel-remover-uma-opcao-de-montagem-obrigatoria-do-minicarro",
+    "internalReference": 1175391
   },
   {
     "locale": "pt",
