@@ -2,8 +2,8 @@
 title: El botón Cambiar cliente identificado no funciona correctamente
 slug: el-boton-cambiar-cliente-identificado-no-funciona-correctamente
 status: PUBLISHED
-createdAt: 2025-10-16T19:41:12.146Z
-updatedAt: 2025-10-16T19:41:12.146Z
+createdAt: 2025-10-16T19:47:51.323Z
+updatedAt: 2025-10-16T19:47:51.323Z
 contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
