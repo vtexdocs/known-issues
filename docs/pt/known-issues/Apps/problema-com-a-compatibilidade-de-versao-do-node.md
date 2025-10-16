@@ -2,8 +2,8 @@
 title: Problema com a compatibilidade de versão do Node
 slug: problema-com-a-compatibilidade-de-versao-do-node
 status: PUBLISHED
-createdAt: 2025-10-16T19:23:21.608Z
-updatedAt: 2025-10-16T19:23:21.608Z
+createdAt: 2025-10-16T19:24:24.124Z
+updatedAt: 2025-10-16T19:24:24.124Z
 contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
