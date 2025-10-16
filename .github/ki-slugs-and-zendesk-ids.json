@@ -106,6 +106,11 @@
   },
   {
     "locale": "en",
+    "slug": "seller-account-created-with-incorrect-editionsponsor-during-onboarding",
+    "internalReference": 1238783
+  },
+  {
+    "locale": "en",
     "slug": "unhandled-exception-error-when-changing-edition-of-account",
     "internalReference": 907294
   },
@@ -1618,6 +1623,11 @@
     "locale": "en",
     "slug": "switching-from-html-editor-mode-in-product-description-removes-p-tags",
     "internalReference": 1208549
+  },
+  {
+    "locale": "en",
+    "slug": "switching-seller-types-do-not-trigger-an-indexing",
+    "internalReference": 1242193
   },
   {
     "locale": "en",
@@ -3577,7 +3587,7 @@
   {
     "locale": "en",
     "slug": "shopee-error-when-updating-commercial-policy-in-the-integration-card-setup",
-    "internalReference": 1236034
+    "internalReference": 1238883
   },
   {
     "locale": "en",
@@ -8076,6 +8086,11 @@
   },
   {
     "locale": "es",
+    "slug": "cuenta-de-vendedor-creada-con-edicionpatrocinador-incorrecto-durante-la-incorporacion",
+    "internalReference": 1238783
+  },
+  {
+    "locale": "es",
     "slug": "el-instalador-de-cli-para-windows-no-tiene-editor",
     "internalReference": 1170038
   },
@@ -8758,6 +8773,11 @@
     "locale": "es",
     "slug": "el-cambio-de-accesorios-no-provoca-la-indexacion",
     "internalReference": 1037800
+  },
+  {
+    "locale": "es",
+    "slug": "el-cambio-de-tipo-de-vendedor-no-provoca-una-indexacion",
+    "internalReference": 1242193
   },
   {
     "locale": "es",
@@ -11622,7 +11642,7 @@
   {
     "locale": "es",
     "slug": "shopee-error-al-actualizar-la-politica-comercial-en-la-configuracion-de-la-tarjeta-de-integracion",
-    "internalReference": 1236034
+    "internalReference": 1238883
   },
   {
     "locale": "es",
@@ -16171,6 +16191,11 @@
   },
   {
     "locale": "pt",
+    "slug": "conta-de-vendedor-criada-com-edicaopatrocinador-incorreto-durante-a-integracao",
+    "internalReference": 1238783
+  },
+  {
+    "locale": "pt",
     "slug": "erro-ao-tentar-publicar-ou-vincular-um-aplicativo",
     "internalReference": 1056882
   },
@@ -16858,6 +16883,11 @@
     "locale": "pt",
     "slug": "a-substituicao-do-arquivo-svg-com-o-mesmo-nome-nao-funciona",
     "internalReference": 1151600
+  },
+  {
+    "locale": "pt",
+    "slug": "a-troca-de-tipos-de-vendedor-nao-aciona-uma-indexacao",
+    "internalReference": 1242193
   },
   {
     "locale": "pt",
@@ -19722,7 +19752,7 @@
   {
     "locale": "pt",
     "slug": "shopee-erro-ao-atualizar-a-politica-comercial-na-configuracao-do-cartao-de-integracao",
-    "internalReference": 1236034
+    "internalReference": 1238883
   },
   {
     "locale": "pt",
