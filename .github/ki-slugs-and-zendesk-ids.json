@@ -1391,6 +1391,11 @@
   },
   {
     "locale": "en",
+    "slug": "sku-binding-doesnt-show-all-columns-in-the-spreadsheet",
+    "internalReference": 1163100
+  },
+  {
+    "locale": "en",
     "slug": "sku-file-update-does-not-update-v-version-tags",
     "internalReference": 852869
   },
@@ -3791,6 +3796,11 @@
   },
   {
     "locale": "en",
+    "slug": "filters-by-sku-specifications-not-considering-specific-trade-policy",
+    "internalReference": 1160165
+  },
+  {
+    "locale": "en",
     "slug": "filters-hidden-from-the-store-are-also-hidden-from-intelligent-search-admin-pages",
     "internalReference": 416638
   },
@@ -6168,6 +6178,11 @@
     "locale": "en",
     "slug": "error-get-items-and-fulfillments-when-attempting-to-assign-orders-in-pick-and-pack-due-to-canceled-orders-associated-with-a-picker",
     "internalReference": 1263897
+  },
+  {
+    "locale": "en",
+    "slug": "pick-and-pack-worksheets-remain-open-and-cannot-be-completed",
+    "internalReference": 1160144
   },
   {
     "locale": "en",
@@ -8981,6 +8996,11 @@
   },
   {
     "locale": "es",
+    "slug": "sku-binding-no-se-muestran-todas-las-columnas-en-la-hoja-de-calculo",
+    "internalReference": 1163100
+  },
+  {
+    "locale": "es",
     "slug": "sku-kit-weight-differs-between-shipping-simulation-and-registration-admin",
     "internalReference": 389784
   },
@@ -11308,6 +11328,11 @@
     "locale": "es",
     "slug": "fetchmore-mantiene-el-estado-de-nextpage-y-se-bloquea-la-paginacion",
     "internalReference": 560014
+  },
+  {
+    "locale": "es",
+    "slug": "filtra-por-especificaciones-sku-sin-tener-en-cuenta-la-politica-comercial-especifica",
+    "internalReference": 1160165
   },
   {
     "locale": "es",
@@ -13723,6 +13748,11 @@
     "locale": "es",
     "slug": "hoja-de-calculo-atascada-en-la-columna-por-empaquetar-con-el-estado-empaquetado-tras-la-confirmacion-de-empaquetado",
     "internalReference": 1299842
+  },
+  {
+    "locale": "es",
+    "slug": "las-hojas-de-trabajo-pick-and-pack-permanecen-abiertas-y-no-pueden-completarse",
+    "internalReference": 1160144
   },
   {
     "locale": "es",
@@ -16531,6 +16561,11 @@
   },
   {
     "locale": "pt",
+    "slug": "sku-binding-nao-mostra-todas-as-colunas-da-planilha",
+    "internalReference": 1163100
+  },
+  {
+    "locale": "pt",
     "slug": "sku-kit-weight-differs-between-shipping-simulation-and-registration-admin",
     "internalReference": 389784
   },
@@ -18916,6 +18951,11 @@
   },
   {
     "locale": "pt",
+    "slug": "filtros-por-especificacoes-de-sku-que-nao-consideram-uma-politica-comercial-especifica",
+    "internalReference": 1160165
+  },
+  {
+    "locale": "pt",
     "slug": "inconsistencia-entre-cliques-unicos-e-produtos-em-si",
     "internalReference": 501802
   },
@@ -21253,6 +21293,11 @@
     "locale": "pt",
     "slug": "o-botao-alterar-cliente-identificado-nao-funciona-corretamente",
     "internalReference": 1237322
+  },
+  {
+    "locale": "pt",
+    "slug": "as-planilhas-de-coleta-e-embalagem-permanecem-abertas-e-nao-podem-ser-concluidas",
+    "internalReference": 1160144
   },
   {
     "locale": "pt",
