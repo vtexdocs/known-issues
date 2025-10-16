@@ -1992,7 +1992,7 @@
   {
     "locale": "en",
     "slug": "email-not-autofilling-for-new-users-on-checkoutui",
-    "internalReference": 887949
+    "internalReference": 887645
   },
   {
     "locale": "en",
@@ -6556,6 +6556,11 @@
   },
   {
     "locale": "en",
+    "slug": "nominal-discount-unit-multipler-may-generate-negative-values",
+    "internalReference": 867838
+  },
+  {
+    "locale": "en",
     "slug": "number-of-itens-on-pricing-filter-does-not-correspond-to-correct-number",
     "internalReference": 371405
   },
@@ -9207,7 +9212,7 @@
   {
     "locale": "es",
     "slug": "el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-usuarios-en-el-checkoutui",
-    "internalReference": 887949
+    "internalReference": 887645
   },
   {
     "locale": "es",
@@ -13821,6 +13826,11 @@
   },
   {
     "locale": "es",
+    "slug": "descuento-nominal-multiplicador-unitario-puede-generar-valores-negativos",
+    "internalReference": 867838
+  },
+  {
+    "locale": "es",
     "slug": "discountexpression-siempre-utiliza-el-flete-mas-barato-independientemente-del-seleccionado",
     "internalReference": 1075053
   },
@@ -17117,7 +17127,7 @@
   {
     "locale": "pt",
     "slug": "o-email-nao-e-preenchido-automaticamente-para-novos-usuarios-no-checkoutui",
-    "internalReference": 887949
+    "internalReference": 887645
   },
   {
     "locale": "pt",
@@ -21293,6 +21303,11 @@
     "locale": "pt",
     "slug": "conta-no-seller-portal-nao-e-capaz-de-exportar-baseprice",
     "internalReference": 408868
+  },
+  {
+    "locale": "pt",
+    "slug": "desconto-nominal-multiplicador-de-unidades-pode-gerar-valores-negativos",
+    "internalReference": 867838
   },
   {
     "locale": "pt",
