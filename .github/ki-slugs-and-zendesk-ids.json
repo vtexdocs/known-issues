@@ -2671,6 +2671,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-preview-wrongly-displaying-items-as-unavailable",
+    "internalReference": 1194442
+  },
+  {
+    "locale": "en",
     "slug": "shipping-preview-wrongly-displaying-the-date-when-its-scheduled-delivery",
     "internalReference": 743774
   },
@@ -4203,6 +4208,11 @@
     "locale": "en",
     "slug": "sort-by-name-working-different-on-stores-integrated-before-a-date",
     "internalReference": 600468
+  },
+  {
+    "locale": "en",
+    "slug": "specific-characters-removed-from-the-filtered-search-url",
+    "internalReference": 1196131
   },
   {
     "locale": "en",
@@ -10241,6 +10251,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-vista-previa-del-envio-muestra-erroneamente-los-articulos-como-no-disponibles",
+    "internalReference": 1194442
+  },
+  {
+    "locale": "es",
     "slug": "la-vista-previa-del-envio-muestra-erroneamente-un-mensaje-de-no-disponibilidad-para-la-recogida",
     "internalReference": 764457
   },
@@ -11583,6 +11598,11 @@
     "locale": "es",
     "slug": "capa-de-cache-de-5-minutos-al-crear-o-eliminar-reglas-de-merchandising",
     "internalReference": 841197
+  },
+  {
+    "locale": "es",
+    "slug": "caracteres-especificos-eliminados-de-la-url-de-busqueda-filtrada",
+    "internalReference": 1196131
   },
   {
     "locale": "es",
@@ -17496,6 +17516,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-visualizacao-da-remessa-exibe-erroneamente-os-itens-como-indisponiveis",
+    "internalReference": 1194442
+  },
+  {
+    "locale": "pt",
     "slug": "a-visualizacao-da-remessa-mostra-o-codigo-postal-de-retirada-para-remessa-quando-ha-divisao-de-pacotes-para-retirada-e-remessa",
     "internalReference": 938124
   },
@@ -19473,6 +19498,11 @@
     "locale": "pt",
     "slug": "campos-nao-suportados-pela-intelligent-search-api-retornando-vazios",
     "internalReference": 1032531
+  },
+  {
+    "locale": "pt",
+    "slug": "caracteres-especificos-removidos-do-url-de-pesquisa-filtrado",
+    "internalReference": 1196131
   },
   {
     "locale": "pt",
