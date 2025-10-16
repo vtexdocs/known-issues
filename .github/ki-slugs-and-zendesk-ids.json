@@ -3511,6 +3511,11 @@
   },
   {
     "locale": "en",
+    "slug": "customer-domain-not-displayed-on-the-idp-screen",
+    "internalReference": 1250421
+  },
+  {
+    "locale": "en",
     "slug": "customers-cant-see-products-catalog-page-after-logging-in",
     "internalReference": 550112
   },
@@ -10838,6 +10843,11 @@
     "locale": "es",
     "slug": "customers-cant-see-products-catalog-page-after-logging-in",
     "internalReference": 550112
+  },
+  {
+    "locale": "es",
+    "slug": "el-dominio-del-cliente-no-aparece-en-la-pantalla-del-idp",
+    "internalReference": 1250421
   },
   {
     "locale": "es",
@@ -18213,6 +18223,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-fazer-login-pelo-aplicativo-do-google-no-ios",
     "internalReference": 926239
+  },
+  {
+    "locale": "pt",
+    "slug": "o-dominio-do-cliente-nao-e-exibido-na-tela-do-idp",
+    "internalReference": 1250421
   },
   {
     "locale": "pt",
