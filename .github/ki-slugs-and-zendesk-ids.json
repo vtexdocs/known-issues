@@ -6541,6 +6541,11 @@
   },
   {
     "locale": "en",
+    "slug": "price-table-rules-not-persisted-when-creating-multiple-rules-without-refreshing-the-page",
+    "internalReference": 1256473
+  },
+  {
+    "locale": "en",
     "slug": "price-updates-with-cache-on-end-applications",
     "internalReference": 896520
   },
@@ -13951,6 +13956,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-reglas-de-la-tabla-de-precios-no-persisten-al-crear-varias-reglas-sin-actualizar-la-pagina",
+    "internalReference": 1256473
+  },
+  {
+    "locale": "es",
     "slug": "los-comerciantes-no-reciben-el-informe-de-precios-fijos",
     "internalReference": 674353
   },
@@ -21113,6 +21123,11 @@
     "locale": "pt",
     "slug": "as-condicoes-do-catalogo-de-promocoes-se-aplicam-ao-skucomponent-mesmo-quando-apenas-o-skukit-e-adicionado-ao-carrinho",
     "internalReference": 1085500
+  },
+  {
+    "locale": "pt",
+    "slug": "as-regras-da-tabela-de-precos-nao-sao-mantidas-ao-criar-varias-regras-sem-atualizar-a-pagina",
+    "internalReference": 1256473
   },
   {
     "locale": "pt",
