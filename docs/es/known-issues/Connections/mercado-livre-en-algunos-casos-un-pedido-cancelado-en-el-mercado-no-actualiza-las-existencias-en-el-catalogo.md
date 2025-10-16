@@ -2,8 +2,8 @@
 title: Mercado Livre En algunos casos, un pedido cancelado en el mercado no actualiza las existencias en el catálogo
 slug: mercado-livre-en-algunos-casos-un-pedido-cancelado-en-el-mercado-no-actualiza-las-existencias-en-el-catalogo
 status: PUBLISHED
-createdAt: 2025-10-16T19:57:29.712Z
-updatedAt: 2025-10-16T19:57:29.712Z
+createdAt: 2025-10-16T19:57:48.821Z
+updatedAt: 2025-10-16T19:57:48.821Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,7 +11,7 @@ tag: Connections
 slugEN: mercado-livre-in-some-cases-a-canceled-order-on-the-marketplace-doesnt-update-stock-in-the-catalog
 locale: es
 kiStatus: Backlog
-internalReference: 1146543
+internalReference: 1146768
 ---
 
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
