@@ -3471,6 +3471,11 @@
   },
   {
     "locale": "en",
+    "slug": "faststore-stores-have-no-conversion-data-in-intelligent-search-reports",
+    "internalReference": 1157002
+  },
+  {
+    "locale": "en",
     "slug": "faststore-v1-dont-return-seo-information-on-graphql-query",
     "internalReference": 929029
   },
@@ -4088,6 +4093,11 @@
     "locale": "en",
     "slug": "unsupported-fields-by-the-intelligent-search-api-returning-empty",
     "internalReference": 1032531
+  },
+  {
+    "locale": "en",
+    "slug": "visual-merchandising-rule-not-applied-to-the-selected-category",
+    "internalReference": 1157326
   },
   {
     "locale": "en",
@@ -10996,6 +11006,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-tiendas-faststore-no-tienen-datos-de-conversion-en-los-informes-de-busqueda-inteligente",
+    "internalReference": 1157002
+  },
+  {
+    "locale": "es",
     "slug": "los-scripts-gtm-no-se-cargan-en-los-scripts-nativos-de-terceros",
     "internalReference": 1086165
   },
@@ -11563,6 +11578,11 @@
     "locale": "es",
     "slug": "refactorizar-nuestro-flujo-de-restablecimiento-de-contrasena-para-llamar-a-la-nueva-mutacion-correspondiente-en-la-aplicacion-graphql",
     "internalReference": 577825
+  },
+  {
+    "locale": "es",
+    "slug": "regla-de-merchandising-visual-no-aplicada-a-la-categoria-seleccionada",
+    "internalReference": 1157326
   },
   {
     "locale": "es",
@@ -18421,6 +18441,11 @@
   },
   {
     "locale": "pt",
+    "slug": "as-lojas-faststore-nao-tem-dados-de-conversao-nos-relatorios-da-pesquisa-inteligente",
+    "internalReference": 1157002
+  },
+  {
+    "locale": "pt",
     "slug": "as-pesquisas-com-falha-sao-tratadas-como-nao-encontradas",
     "internalReference": 1088047
   },
@@ -19048,6 +19073,11 @@
     "locale": "pt",
     "slug": "refatorar-nosso-fluxo-de-senhas-para-chamar-a-nova-mutacao-correspondente-no-aplicativo-graphql",
     "internalReference": 577825
+  },
+  {
+    "locale": "pt",
+    "slug": "regra-de-visual-merchandising-nao-aplicada-a-categoria-selecionada",
+    "internalReference": 1157326
   },
   {
     "locale": "pt",
