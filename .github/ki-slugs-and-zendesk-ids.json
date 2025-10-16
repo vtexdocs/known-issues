@@ -1856,6 +1856,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkoutgraphql-could-not-handle-items-with-subscription-when-the-orderform-has-gifts",
+    "internalReference": 1293912
+  },
+  {
+    "locale": "en",
     "slug": "city-and-state-are-not-sent-to-paypalplus-when-there-is-only-pickup-address-available",
     "internalReference": 836025
   },
@@ -8943,6 +8948,11 @@
     "locale": "es",
     "slug": "checkout-ui-loops-when-not-receiving-correct-sla-values-from-logistics-system",
     "internalReference": 485016
+  },
+  {
+    "locale": "es",
+    "slug": "checkoutgraphql-no-podia-manejar-articulos-con-suscripcion-cuando-el-orderform-tiene-regalos",
+    "internalReference": 1293912
   },
   {
     "locale": "es",
@@ -16548,6 +16558,11 @@
     "locale": "pt",
     "slug": "checkout-ui-loops-when-not-receiving-correct-sla-values-from-logistics-system",
     "internalReference": 485016
+  },
+  {
+    "locale": "pt",
+    "slug": "checkoutgraphql-nao-pode-tratar-itens-com-assinatura-quando-o-formulario-de-pedido-tem-presentes",
+    "internalReference": 1293912
   },
   {
     "locale": "pt",
