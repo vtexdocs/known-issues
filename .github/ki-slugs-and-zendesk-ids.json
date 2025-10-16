@@ -851,6 +851,11 @@
   },
   {
     "locale": "en",
+    "slug": "creating-skus-in-seller-portal-accounts-result-in-inocrrect-unit-multiplier",
+    "internalReference": 1186329
+  },
+  {
+    "locale": "en",
     "slug": "creating-subcategory-via-category-path-with-the-same-name-as-another-subcategory-fails",
     "internalReference": 1087069
   },
@@ -4128,6 +4133,11 @@
     "locale": "en",
     "slug": "search-resolver-applying-messages-translations-over-already-translated-content",
     "internalReference": 865918
+  },
+  {
+    "locale": "en",
+    "slug": "search-result-may-not-display-the-facet-sellername-on-multilanguage-stores-in-additional-locales",
+    "internalReference": 1186137
   },
   {
     "locale": "en",
@@ -8371,6 +8381,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-boton-ver-error-no-muestra-nada-en-el-modulo-de-cobros-para-errores-genericos",
+    "internalReference": 1186417
+  },
+  {
+    "locale": "es",
     "slug": "el-calculo-de-los-componentes-del-kit-no-actualiza-automaticamente-su-precio-final",
     "internalReference": 1217509
   },
@@ -8763,6 +8778,11 @@
     "locale": "es",
     "slug": "la-configuracion-del-valor-de-fidelizacion-cms-no-funciona",
     "internalReference": 726849
+  },
+  {
+    "locale": "es",
+    "slug": "la-creacion-de-sku-en-cuentas-del-portal-del-vendedor-da-como-resultado-un-multiplicador-de-unidades-incorrecto",
+    "internalReference": 1186329
   },
   {
     "locale": "es",
@@ -11563,6 +11583,11 @@
     "locale": "es",
     "slug": "entradas-duplicadas-para-categoriasvalores-de-especificacion-en-el-mismo-nivel",
     "internalReference": 562588
+  },
+  {
+    "locale": "es",
+    "slug": "es-posible-que-el-resultado-de-la-busqueda-no-muestre-la-faceta-sellername-en-tiendas-multilingues-en-otras-configuraciones-regionales",
+    "internalReference": 1186137
   },
   {
     "locale": "es",
@@ -15981,6 +16006,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-criacao-de-skus-em-contas-do-portal-do-vendedor-resulta-em-um-multiplicador-de-unidades-incorreto",
+    "internalReference": 1186329
+  },
+  {
+    "locale": "pt",
     "slug": "a-criacao-de-um-canal-de-vendas-regionalizado-com-uma-ligacao-ja-usada-nao-atualiza-o-saldo-de-estoque-do-item",
     "internalReference": 1005112
   },
@@ -16733,6 +16763,11 @@
     "locale": "pt",
     "slug": "o-botao-salvar-do-campovalorformaspx-requer-dois-cliques",
     "internalReference": 525616
+  },
+  {
+    "locale": "pt",
+    "slug": "o-botao-ver-erro-nao-mostra-nada-no-modulo-de-colecoes-para-erros-genericos",
+    "internalReference": 1186417
   },
   {
     "locale": "pt",
@@ -19488,6 +19523,11 @@
     "locale": "pt",
     "slug": "o-preenchimento-automatico-nao-responde-a-partidas-a-frio",
     "internalReference": 418573
+  },
+  {
+    "locale": "pt",
+    "slug": "o-resultado-da-pesquisa-pode-nao-exibir-a-faceta-sellername-em-lojas-multilingues-em-locais-adicionais",
+    "internalReference": 1186137
   },
   {
     "locale": "pt",
