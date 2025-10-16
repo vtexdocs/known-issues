@@ -2,8 +2,8 @@
 title: Save card doesn't work when 3DS2 is active
 slug: save-card-doesnt-work-when-3ds2-is-active
 status: PUBLISHED
-createdAt: 2025-10-16T19:51:57.296Z
-updatedAt: 2025-10-16T19:51:57.296Z
+createdAt: 2025-10-16T20:06:53.799Z
+updatedAt: 2025-10-16T20:06:53.799Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
