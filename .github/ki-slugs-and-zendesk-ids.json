@@ -3641,6 +3641,11 @@
   },
   {
     "locale": "en",
+    "slug": "error-when-updating-secrets-on-the-admin",
+    "internalReference": 1233661
+  },
+  {
+    "locale": "en",
     "slug": "failed-searches-are-treated-as-not-found",
     "internalReference": 1088047
   },
@@ -7721,6 +7726,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-with-show-when-out-of-stock-set-as-false-returns-200-instead-of-404",
+    "internalReference": 1233974
+  },
+  {
+    "locale": "en",
     "slug": "productclick-event-considers-the-incorrect-sku-id",
     "internalReference": 788145
   },
@@ -11688,6 +11698,11 @@
     "locale": "es",
     "slug": "el-sitemap-nativo-no-esta-totalmente-integrado-con-faststore",
     "internalReference": 1220872
+  },
+  {
+    "locale": "es",
+    "slug": "error-al-actualizar-secretos-en-el-admin",
+    "internalReference": 1233661
   },
   {
     "locale": "es",
@@ -15931,6 +15946,11 @@
   },
   {
     "locale": "es",
+    "slug": "producto-con-mostrar-si-no-hay-existencias-configurado-como-falso-devuelve-200-en-lugar-de-404",
+    "internalReference": 1233974
+  },
+  {
+    "locale": "es",
     "slug": "propiedad-blockclass-de-infocard-no-funciona",
     "internalReference": 743730
   },
@@ -19733,6 +19753,11 @@
     "locale": "pt",
     "slug": "as-sessoes-da-pagina-do-produto-nao-estao-funcionando",
     "internalReference": 961591
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-ao-atualizar-segredos-no-admin",
+    "internalReference": 1233661
   },
   {
     "locale": "pt",
@@ -23978,6 +24003,11 @@
     "locale": "pt",
     "slug": "productclick-event-considera-o-sku-id-incorreto",
     "internalReference": 788145
+  },
+  {
+    "locale": "pt",
+    "slug": "produto-com-show-when-out-of-stock-definido-como-falso-retorna-200-em-vez-de-404",
+    "internalReference": 1233974
   },
   {
     "locale": "pt",
