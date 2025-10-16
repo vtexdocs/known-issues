@@ -17601,6 +17601,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-edicao-de-email-na-interface-do-usuario-do-checkout-faz-a-tela-congelar",
+    "internalReference": 1211673
+  },
+  {
+    "locale": "pt",
     "slug": "a-entrega-programada-pode-apresentar-um-preco-incorreto-ao-alternar-entre-a-entrega-e-a-programada",
     "internalReference": 770250
   },
