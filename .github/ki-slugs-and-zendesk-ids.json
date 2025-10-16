@@ -5621,6 +5621,11 @@
   },
   {
     "locale": "en",
+    "slug": "gateway-sending-country-code-in-alpha2-format-for-googlepay-payments",
+    "internalReference": 1191562
+  },
+  {
+    "locale": "en",
     "slug": "gift-card-creation-error-via-admin",
     "internalReference": 986327
   },
@@ -6333,6 +6338,11 @@
     "locale": "en",
     "slug": "change-identified-customer-button-does-not-work-properly",
     "internalReference": 1237322
+  },
+  {
+    "locale": "en",
+    "slug": "config-decimal-digits-ignored",
+    "internalReference": 1191382
   },
   {
     "locale": "en",
@@ -13876,6 +13886,11 @@
   },
   {
     "locale": "es",
+    "slug": "pasarela-de-envio-de-codigo-de-pais-en-formato-alfa2-para-pagos-con-googlepay",
+    "internalReference": 1191562
+  },
+  {
+    "locale": "es",
     "slug": "payments-gateway-no-envia-correctamente-la-informacion-de-la-subcuenta-en-la-carga-util-al-conector",
     "internalReference": 801012
   },
@@ -14103,6 +14118,11 @@
     "locale": "es",
     "slug": "zonas-desfasadas-en-la-direccion-de-facturacion-de-guatemala-en-la-pagina-de-pago",
     "internalReference": 373603
+  },
+  {
+    "locale": "es",
+    "slug": "config-digitos-decimales-ignorados",
+    "internalReference": 1191382
   },
   {
     "locale": "es",
@@ -21266,6 +21286,11 @@
   },
   {
     "locale": "pt",
+    "slug": "gateway-enviando-codigo-de-pais-em-formato-alfa2-para-pagamentos-do-googlepay",
+    "internalReference": 1191562
+  },
+  {
+    "locale": "pt",
     "slug": "gift-card-page-ui-loading-indefinitely-preventing-users-with-permission-from-accessing-it-properly",
     "internalReference": 325007
   },
@@ -21878,6 +21903,11 @@
     "locale": "pt",
     "slug": "a-instore-nao-le-corretamente-o-registro-html-nas-informacoes-do-produto",
     "internalReference": 718136
+  },
+  {
+    "locale": "pt",
+    "slug": "configuracao-de-digitos-decimais-ignorados",
+    "internalReference": 1191382
   },
   {
     "locale": "pt",
