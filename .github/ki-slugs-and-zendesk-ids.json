@@ -261,6 +261,11 @@
   },
   {
     "locale": "en",
+    "slug": "search-organization-filter-not-applying-after-changing-organization-in-store-frontend",
+    "internalReference": 1168794
+  },
+  {
+    "locale": "en",
     "slug": "settings-ui-doesnt-update-expiration-period-of-quotes",
     "internalReference": 876576
   },
@@ -288,6 +293,11 @@
     "locale": "en",
     "slug": "storefront-permissions-considers-inactive-organizations",
     "internalReference": 927174
+  },
+  {
+    "locale": "en",
+    "slug": "users-created-in-accounts-with-emailrectification-feature-are-not-created-in-vtex-id",
+    "internalReference": 1165203
   },
   {
     "locale": "en",
@@ -1828,6 +1838,11 @@
     "locale": "en",
     "slug": "checkout-does-not-support-encoding-assembly-options-names",
     "internalReference": 378842
+  },
+  {
+    "locale": "en",
+    "slug": "checkout-doesnt-consider-locale-to-translate-api-errors",
+    "internalReference": 1168499
   },
   {
     "locale": "en",
@@ -4513,6 +4528,11 @@
     "locale": "en",
     "slug": "seller-inactivation-in-new-seller-register-ui-does-not-trigger-product-reindexing-marketplace-sync-gap",
     "internalReference": 915970
+  },
+  {
+    "locale": "en",
+    "slug": "seller-invite-route-not-found-after-account-creation",
+    "internalReference": 1167493
   },
   {
     "locale": "en",
@@ -7646,6 +7666,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-filtro-de-organizacion-de-busqueda-no-se-aplica-despues-de-cambiar-la-organizacion-en-el-frontend-de-la-tienda",
+    "internalReference": 1168794
+  },
+  {
+    "locale": "es",
     "slug": "el-historial-de-pedidos-b2b-no-funciona-en-el-dominio-web",
     "internalReference": 849394
   },
@@ -7773,6 +7798,11 @@
     "locale": "es",
     "slug": "los-permisos-del-escaparate-tienen-en-cuenta-a-las-organizaciones-inactivas",
     "internalReference": 927174
+  },
+  {
+    "locale": "es",
+    "slug": "los-usuarios-creados-en-cuentas-con-la-funcion-emailrectification-no-se-crean-en-vtex-id",
+    "internalReference": 1165203
   },
   {
     "locale": "es",
@@ -9273,6 +9303,11 @@
     "locale": "es",
     "slug": "checkout-no-admite-la-codificacion-de-nombres-de-opciones-de-montaje",
     "internalReference": 378842
+  },
+  {
+    "locale": "es",
+    "slug": "checkout-no-tiene-en-cuenta-la-configuracion-regional-para-traducir-los-errores-de-la-api",
+    "internalReference": 1168499
   },
   {
     "locale": "es",
@@ -12138,6 +12173,11 @@
     "locale": "es",
     "slug": "sugerencias-transformar-unitmultiplier-menor-que-1-a-0",
     "internalReference": 702056
+  },
+  {
+    "locale": "es",
+    "slug": "vendedor-invitar-ruta-no-se-encuentra-despues-de-la-creacion-de-la-cuenta",
+    "internalReference": 1167493
   },
   {
     "locale": "es",
@@ -15326,6 +15366,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-filtro-search-organization-nao-esta-sendo-aplicado-apos-a-alteracao-da-organizacao-no-frontend-da-loja",
+    "internalReference": 1168794
+  },
+  {
+    "locale": "pt",
     "slug": "o-historico-de-pedidos-b2b-nao-funciona-no-dominio-do-site",
     "internalReference": 849394
   },
@@ -15393,6 +15438,11 @@
     "locale": "pt",
     "slug": "os-enderecos-sao-exibidos-no-checkout-quando-o-comprador-tem-a-permissao-can-add-shipping-pode-adicionar-frete",
     "internalReference": 1037067
+  },
+  {
+    "locale": "pt",
+    "slug": "os-usuarios-criados-em-contas-com-o-recurso-emailrectification-nao-sao-criados-no-vtex-id",
+    "internalReference": 1165203
   },
   {
     "locale": "pt",
@@ -17478,6 +17528,11 @@
     "locale": "pt",
     "slug": "o-checkout-nao-calcula-corretamente-o-valor-do-frete-para-um-unico-item-que-tenha-frete-gratuito-e-entrega-programada",
     "internalReference": 529043
+  },
+  {
+    "locale": "pt",
+    "slug": "o-checkout-nao-considera-a-localidade-para-traduzir-erros-de-api",
+    "internalReference": 1168499
   },
   {
     "locale": "pt",
@@ -19623,6 +19678,11 @@
     "locale": "pt",
     "slug": "conversor-que-converte-altura-largura-peso-e-comprimento-para-01",
     "internalReference": 886168
+  },
+  {
+    "locale": "pt",
+    "slug": "convite-do-vendedor-rota-nao-encontrada-apos-a-criacao-da-conta",
+    "internalReference": 1167493
   },
   {
     "locale": "pt",
