@@ -4546,6 +4546,11 @@
   },
   {
     "locale": "en",
+    "slug": "inconsistency-in-order-statuses-between-oms-and-pick-and-pack",
+    "internalReference": 1259680
+  },
+  {
+    "locale": "en",
     "slug": "incorrect-price-on-order-change-due-to-unit-multiplier",
     "internalReference": 371066
   },
@@ -11951,6 +11956,11 @@
   },
   {
     "locale": "es",
+    "slug": "incoherencia-en-el-estado-de-los-pedidos-entre-oms-y-pick-and-pack",
+    "internalReference": 1259680
+  },
+  {
+    "locale": "es",
     "slug": "incoherencia-en-la-visualizacion-del-origen-de-las-anulaciones-de-pedidos-en-la-api-get-orders",
     "internalReference": 1249934
   },
@@ -19223,6 +19233,11 @@
     "locale": "pt",
     "slug": "inconsistencia-na-exibicao-da-origem-dos-cancelamentos-de-pedidos-na-api-get-orders",
     "internalReference": 1249934
+  },
+  {
+    "locale": "pt",
+    "slug": "inconsistencia-nos-status-dos-pedidos-entre-o-oms-e-o-pick-and-pack",
+    "internalReference": 1259680
   },
   {
     "locale": "pt",
