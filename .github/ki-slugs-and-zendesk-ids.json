@@ -6,6 +6,11 @@
   },
   {
     "locale": "en",
+    "slug": "admin-loading-failure-due-to-multiple-b2b-logins",
+    "internalReference": 1221787
+  },
+  {
+    "locale": "en",
     "slug": "admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url",
     "internalReference": 889045
   },
@@ -976,6 +981,11 @@
   },
   {
     "locale": "en",
+    "slug": "filamanager-search-timeout",
+    "internalReference": 1221279
+  },
+  {
+    "locale": "en",
     "slug": "filter-by-seller-does-not-work-on-redesigned-catalog-list-ui-for-accounts-with-many-sellers",
     "internalReference": 1075106
   },
@@ -1408,6 +1418,11 @@
     "locale": "en",
     "slug": "promotions-microrounding-divergence",
     "internalReference": 957369
+  },
+  {
+    "locale": "en",
+    "slug": "put-brand-api-does-not-update-linkid-property",
+    "internalReference": 1222015
   },
   {
     "locale": "en",
@@ -3788,6 +3803,11 @@
     "locale": "en",
     "slug": "customers-cant-see-products-catalog-page-after-logging-in",
     "internalReference": 550112
+  },
+  {
+    "locale": "en",
+    "slug": "divergence-in-the-number-of-used-permissions-in-the-security-monitor",
+    "internalReference": 1222306
   },
   {
     "locale": "en",
@@ -7191,6 +7211,11 @@
   },
   {
     "locale": "en",
+    "slug": "searching-for-multiple-products-in-the-pricing-module-doesnt-work",
+    "internalReference": 1222033
+  },
+  {
+    "locale": "en",
     "slug": "seller-portal-account-not-able-to-export-baseprice",
     "internalReference": 408868
   },
@@ -7923,6 +7948,11 @@
     "locale": "es",
     "slug": "admin-revisar-busqueda-global",
     "internalReference": 889993
+  },
+  {
+    "locale": "es",
+    "slug": "fallo-de-carga-del-administrador-debido-a-multiples-inicios-de-sesion-b2b",
+    "internalReference": 1221787
   },
   {
     "locale": "es",
@@ -9031,6 +9061,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-api-put-brand-no-actualiza-la-propiedad-linkid",
+    "internalReference": 1222015
+  },
+  {
+    "locale": "es",
     "slug": "la-base-de-datos-del-catalogo-registra-las-sku-con-especificaciones-duplicadas",
     "internalReference": 536133
   },
@@ -9588,6 +9623,11 @@
     "locale": "es",
     "slug": "tiempo-de-espera-al-editar-especificaciones",
     "internalReference": 1192667
+  },
+  {
+    "locale": "es",
+    "slug": "tiempo-de-espera-de-busqueda-en-filamanager",
+    "internalReference": 1221279
   },
   {
     "locale": "es",
@@ -11748,6 +11788,11 @@
     "locale": "es",
     "slug": "customers-cant-see-products-catalog-page-after-logging-in",
     "internalReference": 550112
+  },
+  {
+    "locale": "es",
+    "slug": "divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad",
+    "internalReference": 1222306
   },
   {
     "locale": "es",
@@ -15181,6 +15226,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-funciona-la-busqueda-de-varios-productos-en-el-modulo-de-precios",
+    "internalReference": 1222033
+  },
+  {
+    "locale": "es",
     "slug": "no-se-pueden-descargar-los-precios-importando-los-resultados",
     "internalReference": 579906
   },
@@ -15931,6 +15981,11 @@
   },
   {
     "locale": "pt",
+    "slug": "falha-no-carregamento-do-administrador-devido-a-varios-logins-b2b",
+    "internalReference": 1221787
+  },
+  {
+    "locale": "pt",
     "slug": "magazine-luiza-alguns-pedidos-nao-atualizam-o-status-de-entrega-no-marketplace",
     "internalReference": 827440
   },
@@ -16448,6 +16503,11 @@
     "locale": "pt",
     "slug": "a-api-de-insercaoatualizacao-de-produto-permite-n-no-campo-de-textolink",
     "internalReference": 486459
+  },
+  {
+    "locale": "pt",
+    "slug": "a-api-de-marca-put-nao-atualiza-a-propriedade-linkid",
+    "internalReference": 1222015
   },
   {
     "locale": "pt",
@@ -17603,6 +17663,11 @@
     "locale": "pt",
     "slug": "tempo-limite-de-importacao-de-skus-e-produtos",
     "internalReference": 1201280
+  },
+  {
+    "locale": "pt",
+    "slug": "tempo-limite-de-pesquisa-do-filamanager",
+    "internalReference": 1221279
   },
   {
     "locale": "pt",
@@ -19763,6 +19828,11 @@
     "locale": "pt",
     "slug": "customers-cant-see-products-catalog-page-after-logging-in",
     "internalReference": 550112
+  },
+  {
+    "locale": "pt",
+    "slug": "divergencia-no-numero-de-permissoes-usadas-no-security-monitor",
+    "internalReference": 1222306
   },
   {
     "locale": "pt",
@@ -22938,6 +23008,11 @@
     "locale": "pt",
     "slug": "a-modificacao-de-precos-atraves-da-rota-de-precos-poscompatibilidade-esta-perdendo-dados",
     "internalReference": 487698
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pesquisa-de-varios-produtos-no-modulo-de-precos-nao-funciona",
+    "internalReference": 1222033
   },
   {
     "locale": "pt",
