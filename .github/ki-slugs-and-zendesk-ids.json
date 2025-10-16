@@ -5766,6 +5766,11 @@
   },
   {
     "locale": "en",
+    "slug": "save-card-doesnt-work-when-3ds2-is-active",
+    "internalReference": 319708
+  },
+  {
+    "locale": "en",
     "slug": "scheduled-automatic-capture-does-not-appear",
     "internalReference": 1121837
   },
@@ -13008,6 +13013,11 @@
     "locale": "es",
     "slug": "la-solicitud-de-cuotas-en-la-pasarela-a-un-comerciante-distinto-del-mercado-se-realiza-siempre-con-saleschannel-1",
     "internalReference": 391197
+  },
+  {
+    "locale": "es",
+    "slug": "la-tarjeta-de-memoria-no-funciona-cuando-la-3ds2-esta-activa",
+    "internalReference": 319708
   },
   {
     "locale": "es",
@@ -20443,6 +20453,11 @@
     "locale": "pt",
     "slug": "o-campo-minicartbuyerid-ausente-faz-com-que-o-antifraude-cancele-transacoes",
     "internalReference": 514335
+  },
+  {
+    "locale": "pt",
+    "slug": "o-cartao-de-salvamento-nao-funciona-quando-o-3ds2-esta-ativo",
+    "internalReference": 319708
   },
   {
     "locale": "pt",
