@@ -611,6 +611,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-image-import-spreadsheet-does-not-replace-the-label",
+    "internalReference": 1147627
+  },
+  {
+    "locale": "en",
     "slug": "catalog-inactivating-productid-using-api-isnt-inactivating-sku",
     "internalReference": 1157944
   },
@@ -7948,6 +7953,11 @@
     "locale": "es",
     "slug": "catalogo-filtro-para-vendedor-1-trae-resultados-vacios",
     "internalReference": 801538
+  },
+  {
+    "locale": "es",
+    "slug": "catalogo-la-hoja-de-calculo-de-importacion-de-imagenes-no-sustituye-a-la-etiqueta",
+    "internalReference": 1147627
   },
   {
     "locale": "es",
@@ -15713,6 +15723,11 @@
     "locale": "pt",
     "slug": "casas-decimais-do-campo-moeda-na-politica-comercial-nao-refletem-no-pdpplp",
     "internalReference": 695044
+  },
+  {
+    "locale": "pt",
+    "slug": "catalog-a-planilha-de-importacao-de-imagens-nao-substitui-o-rotulo",
+    "internalReference": 1147627
   },
   {
     "locale": "pt",
