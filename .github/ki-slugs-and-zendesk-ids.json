@@ -71,6 +71,11 @@
   },
   {
     "locale": "en",
+    "slug": "clis-windows-installer-doesnt-have-a-publisher",
+    "internalReference": 1170038
+  },
+  {
+    "locale": "en",
     "slug": "cold-start-when-publishing-an-app",
     "internalReference": 1088942
   },
@@ -2221,6 +2226,11 @@
   },
   {
     "locale": "en",
+    "slug": "logisticsinfo-with-incorrect-order-in-the-orderform",
+    "internalReference": 1170225
+  },
+  {
+    "locale": "en",
     "slug": "loop-in-the-authentication-popup-when-the-first-payment-condition-requires-authentication",
     "internalReference": 844192
   },
@@ -2273,6 +2283,11 @@
     "locale": "en",
     "slug": "misbehaviors-for-addtocart-mutation-from-checkoutgraphql-while-sending-options-for-already-added-items",
     "internalReference": 452053
+  },
+  {
+    "locale": "en",
+    "slug": "mismatched-information-in-checkouts-ui-leads-to-incorrect-packages-visualization",
+    "internalReference": 1170509
   },
   {
     "locale": "en",
@@ -7131,6 +7146,11 @@
   },
   {
     "locale": "en",
+    "slug": "custom-headers-are-not-applied-to-all-pages",
+    "internalReference": 1170580
+  },
+  {
+    "locale": "en",
     "slug": "disclosure-layout-cant-be-used-properly-when-prop-animated-is-set-as-true",
     "internalReference": 417947
   },
@@ -7436,6 +7456,11 @@
   },
   {
     "locale": "en",
+    "slug": "styleguides-autocomplete-presents-bug-when-deleting-the-search-term",
+    "internalReference": 1170343
+  },
+  {
+    "locale": "en",
     "slug": "swiping-productimage-after-zooming-in-does-not-revert-the-zoom-causing-display-issues",
     "internalReference": 491180
   },
@@ -7603,6 +7628,11 @@
     "locale": "es",
     "slug": "arranque-en-frio-al-publicar-una-aplicacion",
     "internalReference": 1088942
+  },
+  {
+    "locale": "es",
+    "slug": "el-instalador-de-cli-para-windows-no-tiene-editor",
+    "internalReference": 1170038
   },
   {
     "locale": "es",
@@ -9801,6 +9831,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-informacion-no-coincidente-en-la-interfaz-de-usuario-del-proceso-de-pago-provoca-una-visualizacion-incorrecta-de-los-paquetes",
+    "internalReference": 1170509
+  },
+  {
+    "locale": "es",
     "slug": "la-informacion-resumida-se-traduce-al-ingles-despues-de-iniciar-sesion-a-traves-de-la-actualizacion-de-la-informacion-de-la-direccion-seleccionada",
     "internalReference": 978571
   },
@@ -10083,6 +10118,11 @@
     "locale": "es",
     "slug": "lean-shipping-sustituye-el-metodo-de-envio-preferido-por-el-usuario-por-la-opcion-mas-barata-en-diferentes-sesionesnavegadores",
     "internalReference": 607411
+  },
+  {
+    "locale": "es",
+    "slug": "logisticsinfo-con-orden-incorrecto-en-el-orderform",
+    "internalReference": 1170225
   },
   {
     "locale": "es",
@@ -14721,6 +14761,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-autocompletado-de-styleguide-presenta-un-error-al-eliminar-el-termino-de-busqueda",
+    "internalReference": 1170343
+  },
+  {
+    "locale": "es",
     "slug": "el-componente-de-video-no-funciona-correctamente-en-los-dispositivos-ios",
     "internalReference": 609462
   },
@@ -14943,6 +14988,11 @@
     "locale": "es",
     "slug": "la-variable-runtimeroutequerystring-se-almacena-en-cache-en-diferentes-sesiones-de-usuario",
     "internalReference": 1275673
+  },
+  {
+    "locale": "es",
+    "slug": "las-cabeceras-personalizadas-no-se-aplican-a-todas-las-paginas",
+    "internalReference": 1170580
   },
   {
     "locale": "es",
@@ -15248,6 +15298,11 @@
     "locale": "pt",
     "slug": "inicio-frio-ao-publicar-um-aplicativo",
     "internalReference": 1088942
+  },
+  {
+    "locale": "pt",
+    "slug": "o-instalador-do-windows-da-cli-nao-tem-um-editor",
+    "internalReference": 1170038
   },
   {
     "locale": "pt",
@@ -17401,6 +17456,11 @@
   },
   {
     "locale": "pt",
+    "slug": "informacoes-incompativeis-na-interface-de-usuario-do-checkout-levam-a-visualizacao-incorreta-de-pacotes",
+    "internalReference": 1170509
+  },
+  {
+    "locale": "pt",
     "slug": "item-disponivel-quando-a-localizacao-do-cliente-nao-esta-definida-e-nao-ha-estoque",
     "internalReference": 1073363
   },
@@ -17433,6 +17493,11 @@
     "locale": "pt",
     "slug": "listpreco-mostrado-em-um-carrinho-nao-considera-se-o-preco-regular-esta-sendo-modificado-por-uma-unidademultiplicador",
     "internalReference": 578649
+  },
+  {
+    "locale": "pt",
+    "slug": "logisticsinfo-com-ordem-incorreta-no-orderform",
+    "internalReference": 1170225
   },
   {
     "locale": "pt",
@@ -22461,6 +22526,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-autocompletar-do-styleguide-apresenta-um-erro-ao-excluir-o-termo-de-pesquisa",
+    "internalReference": 1170343
+  },
+  {
+    "locale": "pt",
     "slug": "o-componente-de-video-nao-funciona-corretamente-nos-dispositivos-ios",
     "internalReference": 609462
   },
@@ -22648,6 +22718,11 @@
     "locale": "pt",
     "slug": "os-acionadores-de-exibicao-de-pagina-no-g4a-estao-sendo-duplicados-em-paginas-de-pesquisa-personalizadas",
     "internalReference": 888042
+  },
+  {
+    "locale": "pt",
+    "slug": "os-cabecalhos-personalizados-nao-sao-aplicados-a-todas-as-paginas",
+    "internalReference": 1170580
   },
   {
     "locale": "pt",
