@@ -6751,6 +6751,11 @@
   },
   {
     "locale": "en",
+    "slug": "rest-contentrange-header-shows-incorrect-total-when-using-custom-index-on-entity",
+    "internalReference": 1249679
+  },
+  {
+    "locale": "en",
     "slug": "searching-not-return-document-when-the-value-contains-a-plus-symbol",
     "internalReference": 828170
   },
@@ -14108,6 +14113,11 @@
     "locale": "es",
     "slug": "la-busqueda-no-devuelve-el-documento-cuando-el-valor-contiene-un-simbolo-mas",
     "internalReference": 828170
+  },
+  {
+    "locale": "es",
+    "slug": "la-cabecera-rest-contentrange-muestra-un-total-incorrecto-al-utilizar-un-indice-personalizado-en-una-entidad",
+    "internalReference": 1249679
   },
   {
     "locale": "es",
@@ -21473,6 +21483,11 @@
     "locale": "pt",
     "slug": "link-de-download-do-masterdata-export-indisponivel",
     "internalReference": 613864
+  },
+  {
+    "locale": "pt",
+    "slug": "o-cabecalho-do-intervalo-de-conteudo-rest-mostra-o-total-incorreto-ao-usar-o-indice-personalizado-na-entidade",
+    "internalReference": 1249679
   },
   {
     "locale": "pt",
