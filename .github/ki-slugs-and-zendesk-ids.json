@@ -661,6 +661,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-select-brand-in-catalog-doesnt-work",
+    "internalReference": 1149983
+  },
+  {
+    "locale": "en",
     "slug": "catalog-sku-specification-export-will-not-always-export-all-the-data-if-the-selected-category-is-a-department",
     "internalReference": 465445
   },
@@ -6591,6 +6596,11 @@
   },
   {
     "locale": "en",
+    "slug": "more-for-less-promotions-incorrectly-applying-to-overlapping-quantities",
+    "internalReference": 1149846
+  },
+  {
+    "locale": "en",
     "slug": "multiple-sku-promotion-api-not-working",
     "internalReference": 729990
   },
@@ -7973,6 +7983,11 @@
     "locale": "es",
     "slug": "catalogo-myvtex-iframe-html-select-breaking-para-chrome-108",
     "internalReference": 711637
+  },
+  {
+    "locale": "es",
+    "slug": "catalogo-seleccionar-marca-en-catalogo-no-funciona",
+    "internalReference": 1149983
   },
   {
     "locale": "es",
@@ -14166,6 +14181,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-promociones-mas-por-menos-se-aplican-incorrectamente-a-cantidades-solapadas",
+    "internalReference": 1149846
+  },
+  {
+    "locale": "es",
     "slug": "las-reglas-de-la-tabla-de-precios-no-persisten-al-crear-varias-reglas-sin-actualizar-la-pagina",
     "internalReference": 1256473
   },
@@ -15773,6 +15793,11 @@
     "locale": "pt",
     "slug": "catalog-pesquisa-por-codigo-de-referencia-sku",
     "internalReference": 1082930
+  },
+  {
+    "locale": "pt",
+    "slug": "catalog-selecionar-marca-no-catalogo-nao-funciona",
+    "internalReference": 1149983
   },
   {
     "locale": "pt",
@@ -21448,6 +21473,11 @@
     "locale": "pt",
     "slug": "as-condicoes-do-catalogo-de-promocoes-se-aplicam-ao-skucomponent-mesmo-quando-apenas-o-skukit-e-adicionado-ao-carrinho",
     "internalReference": 1085500
+  },
+  {
+    "locale": "pt",
+    "slug": "as-promocoes-mais-por-menos-estao-sendo-aplicadas-incorretamente-a-quantidades-sobrepostas",
+    "internalReference": 1149846
   },
   {
     "locale": "pt",
