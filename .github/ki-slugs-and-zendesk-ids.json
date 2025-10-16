@@ -1141,6 +1141,11 @@
   },
   {
     "locale": "en",
+    "slug": "lastmodifiedby-field-always-returns-null-in-search-api",
+    "internalReference": 1211438
+  },
+  {
+    "locale": "en",
     "slug": "legacy-catalog-ui-delete-button-not-functional",
     "internalReference": 326408
   },
@@ -6481,6 +6486,11 @@
   },
   {
     "locale": "en",
+    "slug": "sales-app-barcode-scanner-accepts-only-ean13",
+    "internalReference": 1211334
+  },
+  {
+    "locale": "en",
     "slug": "absence-of-feedback-for-order-change-failures-in-pick-and-pack-communication-with-oms",
     "internalReference": 1275957
   },
@@ -8593,6 +8603,11 @@
     "locale": "es",
     "slug": "el-campo-del-nombre-del-tipo-de-servicio-se-devuelve-erroneamente-a-traves-de-la-api",
     "internalReference": 961278
+  },
+  {
+    "locale": "es",
+    "slug": "el-campo-lastmodifiedby-siempre-devuelve-null-en-la-api-de-busqueda",
+    "internalReference": 1211438
   },
   {
     "locale": "es",
@@ -14391,6 +14406,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-escaner-de-codigo-de-barras-de-sales-app-solo-acepta-ean13",
+    "internalReference": 1211334
+  },
+  {
+    "locale": "es",
     "slug": "estado-procesando-al-consultar-la-pagina-de-ultimos-pedidos",
     "internalReference": 1199998
   },
@@ -17128,6 +17148,11 @@
     "locale": "pt",
     "slug": "o-campo-de-codigo-fiscal-xml-do-catalog-integration-nao-esta-sendo-renderizado",
     "internalReference": 1031109
+  },
+  {
+    "locale": "pt",
+    "slug": "o-campo-lastmodifiedby-sempre-retorna-null-na-api-de-pesquisa",
+    "internalReference": 1211438
   },
   {
     "locale": "pt",
@@ -22313,6 +22338,11 @@
     "locale": "pt",
     "slug": "o-botao-alterar-cliente-identificado-nao-funciona-corretamente",
     "internalReference": 1237322
+  },
+  {
+    "locale": "pt",
+    "slug": "o-leitor-de-codigo-de-barras-do-aplicativo-de-vendas-aceita-apenas-ean13",
+    "internalReference": 1211334
   },
   {
     "locale": "pt",
