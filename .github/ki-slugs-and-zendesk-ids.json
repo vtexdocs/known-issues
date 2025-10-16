@@ -4741,6 +4741,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-simulation-loop-at-checkout",
+    "internalReference": 1204287
+  },
+  {
+    "locale": "en",
     "slug": "allow-in-the-new-order-admin-ui-return-values-without-relating-an-item",
     "internalReference": 519576
   },
@@ -12578,6 +12583,11 @@
     "locale": "es",
     "slug": "la-seleccion-de-vendedores-excluye-a-un-unico-vendedor-de-sku-con-baja-cobertura-lo-que-provoca-indisponibilidad-en-el-paso-de-asignacion",
     "internalReference": 1298003
+  },
+  {
+    "locale": "es",
+    "slug": "simulacion-de-envio-en-la-caja",
+    "internalReference": 1204287
   },
   {
     "locale": "es",
@@ -20448,6 +20458,11 @@
     "locale": "pt",
     "slug": "a-selecao-do-vendedor-exclui-um-unico-vendedor-de-sku-com-baixa-cobertura-causando-indisponibilidade-na-etapa-de-alocacao",
     "internalReference": 1298003
+  },
+  {
+    "locale": "pt",
+    "slug": "loop-de-simulacao-de-remessa-no-checkout",
+    "internalReference": 1204287
   },
   {
     "locale": "pt",
