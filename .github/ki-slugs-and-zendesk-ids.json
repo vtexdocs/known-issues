@@ -6026,6 +6026,11 @@
   },
   {
     "locale": "en",
+    "slug": "change-identified-customer-button-does-not-work-properly",
+    "internalReference": 1237322
+  },
+  {
+    "locale": "en",
     "slug": "instore-does-not-read-properly-the-html-registred-in-the-product-information",
     "internalReference": 718136
   },
@@ -13411,6 +13416,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-boton-cambiar-cliente-identificado-no-funciona-correctamente",
+    "internalReference": 1237322
+  },
+  {
+    "locale": "es",
     "slug": "instore-no-lee-correctamente-el-html-registrado-en-la-informacion-del-producto",
     "internalReference": 718136
   },
@@ -20793,6 +20803,11 @@
     "locale": "pt",
     "slug": "a-instore-nao-le-corretamente-o-registro-html-nas-informacoes-do-produto",
     "internalReference": 718136
+  },
+  {
+    "locale": "pt",
+    "slug": "o-botao-alterar-cliente-identificado-nao-funciona-corretamente",
+    "internalReference": 1237322
   },
   {
     "locale": "pt",
