@@ -3566,6 +3566,11 @@
   },
   {
     "locale": "en",
+    "slug": "viewcart-event-is-triggered-more-than-once-on-faststore",
+    "internalReference": 1163447
+  },
+  {
+    "locale": "en",
     "slug": "webops-app-is-not-fully-integrated-with-headless-cms",
     "internalReference": 1048810
   },
@@ -4608,6 +4613,11 @@
     "locale": "en",
     "slug": "delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice",
     "internalReference": 547053
+  },
+  {
+    "locale": "en",
+    "slug": "delivery-status-not-updated-in-my-orders",
+    "internalReference": 1163668
   },
   {
     "locale": "en",
@@ -10986,6 +10996,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-evento-viewcart-se-activa-mas-de-una-vez-en-faststore",
+    "internalReference": 1163447
+  },
+  {
+    "locale": "es",
     "slug": "el-gancho-para-abrircerrar-modales-afecta-a-todos-los-modales-de-la-pagina",
     "internalReference": 1042165
   },
@@ -12188,6 +12203,11 @@
     "locale": "es",
     "slug": "el-enlace-de-configuracion-de-sms-en-la-plantilla-de-correo-electronico-redirige-al-usuario-a-la-pagina-404",
     "internalReference": 1054007
+  },
+  {
+    "locale": "es",
+    "slug": "el-estado-de-la-entrega-no-se-actualiza-en-mis-pedidos",
+    "internalReference": 1163668
   },
   {
     "locale": "es",
@@ -18611,6 +18631,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-evento-viewcart-e-acionado-mais-de-uma-vez-na-faststore",
+    "internalReference": 1163447
+  },
+  {
+    "locale": "pt",
     "slug": "o-faststore-v1-nao-retorna-informacoes-de-seo-na-consulta-graphql",
     "internalReference": 929029
   },
@@ -20048,6 +20073,11 @@
     "locale": "pt",
     "slug": "o-split-de-entrega-nao-sera-exibido-na-iu-ou-em-meus-pedidos-quando-o-pedido-tiver-o-mesmo-metodo-de-envio",
     "internalReference": 495352
+  },
+  {
+    "locale": "pt",
+    "slug": "o-status-da-entrega-nao-e-atualizado-em-meus-pedidos",
+    "internalReference": 1163668
   },
   {
     "locale": "pt",
