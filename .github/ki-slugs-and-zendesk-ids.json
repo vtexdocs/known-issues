@@ -3476,6 +3476,11 @@
   },
   {
     "locale": "en",
+    "slug": "some-structured-data-from-offer-are-not-supported-by-the-schema",
+    "internalReference": 1244839
+  },
+  {
+    "locale": "en",
     "slug": "unavailable-products-pdp-are-still-being-returned",
     "internalReference": 1041920
   },
@@ -10723,6 +10728,11 @@
     "locale": "es",
     "slug": "via-integration-no-envia-la-descripcion-en-la-tarjeta",
     "internalReference": 826488
+  },
+  {
+    "locale": "es",
+    "slug": "algunos-datos-estructurados-de-la-oferta-no-son-compatibles-con-el-esquema",
+    "internalReference": 1244839
   },
   {
     "locale": "es",
@@ -18113,6 +18123,11 @@
     "locale": "pt",
     "slug": "a-paginacao-na-pagina-de-pesquisa-nao-e-redefinida-ao-alterar-o-contexto-da-pesquisa",
     "internalReference": 857392
+  },
+  {
+    "locale": "pt",
+    "slug": "alguns-dados-estruturados-do-offer-nao-sao-compativeis-com-o-esquema",
+    "internalReference": 1244839
   },
   {
     "locale": "pt",
