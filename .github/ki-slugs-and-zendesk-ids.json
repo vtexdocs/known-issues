@@ -901,6 +901,11 @@
   },
   {
     "locale": "en",
+    "slug": "delivery-of-kits-is-not-allowed-if-the-product-has-a-configured-modal",
+    "internalReference": 296045
+  },
+  {
+    "locale": "en",
     "slug": "diacritics-are-removed-on-catalogapi",
     "internalReference": 623345
   },
@@ -6451,6 +6456,11 @@
   },
   {
     "locale": "en",
+    "slug": "infinite-login-loop-in-pick-and-pack",
+    "internalReference": 1206772
+  },
+  {
+    "locale": "en",
     "slug": "pick-and-pack-worksheets-remain-open-and-cannot-be-completed",
     "internalReference": 1160144
   },
@@ -9298,6 +9308,11 @@
     "locale": "es",
     "slug": "no-puede-desactivar-este-producto-porque-tiene-uno-o-mas-skus-activos-no-se-traduce-automaticamente-en-el-product-admin",
     "internalReference": 768603
+  },
+  {
+    "locale": "es",
+    "slug": "no-se-permite-la-entrega-de-kits-si-el-producto-tiene-un-modal-configurado",
+    "internalReference": 296045
   },
   {
     "locale": "es",
@@ -14326,6 +14341,11 @@
   },
   {
     "locale": "es",
+    "slug": "bucle-de-inicio-de-sesion-infinito-en-pick-and-pack",
+    "internalReference": 1206772
+  },
+  {
+    "locale": "es",
     "slug": "el-flujo-reemplazar-articulos-falla-para-articulos-divididos-en-recoger-y-embalar-no-se-puede-completar-el-reemplazo",
     "internalReference": 1303803
   },
@@ -16273,6 +16293,11 @@
     "locale": "pt",
     "slug": "a-eliminacao-de-cobrancas-na-nova-administracao-nao-esta-reindexando-os-produtos",
     "internalReference": 490740
+  },
+  {
+    "locale": "pt",
+    "slug": "a-entrega-de-kits-nao-e-permitida-se-o-produto-tiver-um-modal-configurado",
+    "internalReference": 296045
   },
   {
     "locale": "pt",
@@ -22203,6 +22228,11 @@
     "locale": "pt",
     "slug": "ausencia-de-feedback-para-falhas-na-alteracao-de-pedidos-no-pick-and-pack-comunicacao-com-o-oms",
     "internalReference": 1275957
+  },
+  {
+    "locale": "pt",
+    "slug": "loop-de-login-infinito-no-pick-and-pack",
+    "internalReference": 1206772
   },
   {
     "locale": "pt",
