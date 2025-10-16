@@ -2,8 +2,8 @@
 title: Mercado Livre In some cases, a canceled order on the marketplace doesn't update stock in the catalog
 slug: mercado-livre-in-some-cases-a-canceled-order-on-the-marketplace-doesnt-update-stock-in-the-catalog
 status: PUBLISHED
-createdAt: 2025-10-16T19:57:44.231Z
-updatedAt: 2025-10-16T19:57:44.231Z
+createdAt: 2025-10-16T20:27:10.353Z
+updatedAt: 2025-10-16T20:27:10.353Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,7 +11,7 @@ tag: Connections
 slugEN: mercado-livre-in-some-cases-a-canceled-order-on-the-marketplace-doesnt-update-stock-in-the-catalog
 locale: en
 kiStatus: Backlog
-internalReference: 1146768
+internalReference: 1146543
 ---
 
 ## Summary
