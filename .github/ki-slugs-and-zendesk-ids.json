@@ -2976,6 +2976,11 @@
   },
   {
     "locale": "en",
+    "slug": ".md",
+    "internalReference": 1216327
+  },
+  {
+    "locale": "en",
     "slug": "adjust-message-in-bridge-for-integration-with-wl-seller-facebook",
     "internalReference": 600208
   },
@@ -6541,6 +6546,11 @@
   },
   {
     "locale": "en",
+    "slug": "ps-only-one-agent-receives-email-notification-in-active-call",
+    "internalReference": 1218130
+  },
+  {
+    "locale": "en",
     "slug": "replace-items-flow-fails-for-split-items-in-pick-and-pack-cannot-complete-replacement",
     "internalReference": 1303803
   },
@@ -7388,6 +7398,11 @@
     "locale": "en",
     "slug": "canonical-tags-are-not-applied-after-3rd-category-level",
     "internalReference": 932349
+  },
+  {
+    "locale": "en",
+    "slug": "carousel-layout-issue-using-responsivevalues-in-sku-selector",
+    "internalReference": 1217421
   },
   {
     "locale": "en",
@@ -10908,6 +10923,11 @@
     "locale": "es",
     "slug": "prueba-de-problemas-conocidos-para-la-presentacion",
     "internalReference": 741025
+  },
+  {
+    "locale": "es",
+    "slug": ".md",
+    "internalReference": 1216327
   },
   {
     "locale": "es",
@@ -14521,6 +14541,11 @@
   },
   {
     "locale": "es",
+    "slug": "ps-solo-un-agente-recibe-notificacion-por-correo-electronico-en-llamada-activa",
+    "internalReference": 1218130
+  },
+  {
+    "locale": "es",
     "slug": "alt-attribute-not-showing-in-vtexcmcproductimage-zoomon",
     "internalReference": 526563
   },
@@ -15753,6 +15778,11 @@
     "locale": "es",
     "slug": "precio-incoherente-cuando-la-sku-tiene-un-multiplicador-unitario-distinto-de-1",
     "internalReference": 651102
+  },
+  {
+    "locale": "es",
+    "slug": "problema-de-diseno-de-carrusel-utilizando-responsivevalues-en-sku-selector",
+    "internalReference": 1217421
   },
   {
     "locale": "es",
@@ -18888,6 +18918,11 @@
     "locale": "pt",
     "slug": "teste-de-problemas-conhecidos-para-apresentacao",
     "internalReference": 741025
+  },
+  {
+    "locale": "pt",
+    "slug": ".md",
+    "internalReference": 1216327
   },
   {
     "locale": "pt",
@@ -22491,6 +22526,11 @@
   },
   {
     "locale": "pt",
+    "slug": "ps-somente-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa",
+    "internalReference": 1218130
+  },
+  {
+    "locale": "pt",
     "slug": "a-bandeira-pesquisavel-nao-funciona-na-colecao-cms-herdada",
     "internalReference": 322552
   },
@@ -23723,6 +23763,11 @@
     "locale": "pt",
     "slug": "preco-inconsistente-quando-a-sku-tem-um-multiplicador-de-unidades-diferente-de-1",
     "internalReference": 651102
+  },
+  {
+    "locale": "pt",
+    "slug": "problema-de-layout-de-carrossel-usando-valores-responsivos-no-seletor-de-sku",
+    "internalReference": 1217421
   },
   {
     "locale": "pt",
