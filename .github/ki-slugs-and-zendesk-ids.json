@@ -7371,6 +7371,11 @@
   },
   {
     "locale": "en",
+    "slug": "minicart-incorrect-item-values-due-to-concurrent-requests-with-stepper-and-more-for-less-promotion",
+    "internalReference": 1185655
+  },
+  {
+    "locale": "en",
     "slug": "ogtitle-not-considering-the-flag-removestorenametitle-on-product-pages",
     "internalReference": 1242243
   },
@@ -15271,6 +15276,11 @@
   },
   {
     "locale": "es",
+    "slug": "minicart-valores-de-articulo-incorrectos-debido-a-solicitudes-concurrentes-con-la-promocion-stepper-y-mas-por-menos",
+    "internalReference": 1185655
+  },
+  {
+    "locale": "es",
     "slug": "modificacion-de-la-cantidad-en-un-articulo-erroneo-con-un-componente-de",
     "internalReference": 402976
   },
@@ -23118,6 +23128,11 @@
     "locale": "pt",
     "slug": "usuario-imigrante-nao-envia-cookie-de-autenticacao-imersonalizado-para-algumas-chamadas",
     "internalReference": 790185
+  },
+  {
+    "locale": "pt",
+    "slug": "valores-de-itens-incorretos-do-minicart-devido-a-solicitacoes-simultaneas-com-a-promocao-stepper-e-more-for-less",
+    "internalReference": 1185655
   },
   {
     "locale": "pt",
