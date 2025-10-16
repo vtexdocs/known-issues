@@ -2,8 +2,8 @@
 title: Checkout cancels transaction after creation
 slug: checkout-cancels-transaction-after-creation
 status: PUBLISHED
-createdAt: 2025-10-15T10:02:05.117Z
-updatedAt: 2025-10-15T10:02:05.117Z
+createdAt: 2025-10-16T17:29:09.937Z
+updatedAt: 2025-10-16T17:29:09.937Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
