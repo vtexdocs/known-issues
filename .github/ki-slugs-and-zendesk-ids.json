@@ -3216,6 +3216,11 @@
   },
   {
     "locale": "en",
+    "slug": "findmarketplaces-error-5xx-sorry-something-went-wrong-on-our-side",
+    "internalReference": 1235339
+  },
+  {
+    "locale": "en",
     "slug": "incorrectly-updated-inventory",
     "internalReference": 556514
   },
@@ -4863,6 +4868,11 @@
     "locale": "en",
     "slug": "disqualification-of-seller-at-pickup-point-due-to-divergent-quantity-between-slas-at-checkout",
     "internalReference": 1228333
+  },
+  {
+    "locale": "en",
+    "slug": "item-unavailability-in-sales-app-allocation-with-pickup-point-inadequate-heuristic-in-selecting-sellers",
+    "internalReference": 1234534
   },
   {
     "locale": "en",
@@ -7718,6 +7728,11 @@
     "locale": "en",
     "slug": "price-range-slider-defaults-to-minimum-value-after-selecting-a-filter",
     "internalReference": 843442
+  },
+  {
+    "locale": "en",
+    "slug": "price-without-taxes-being-considered-in-the-minicart",
+    "internalReference": 1234933
   },
   {
     "locale": "en",
@@ -11246,6 +11261,11 @@
   },
   {
     "locale": "es",
+    "slug": "findmarketplaces-error-5xx-lo-sentimos-algo-ha-ido-mal-por-nuestra-parte",
+    "internalReference": 1235339
+  },
+  {
+    "locale": "es",
     "slug": "flujo-de-revision-para-updatestock-netshoes",
     "internalReference": 646869
   },
@@ -12903,6 +12923,11 @@
     "locale": "es",
     "slug": "descalificacion-del-vendedor-en-el-punto-de-recogida-debido-a-una-cantidad-divergente-entre-los-ans-en-la-caja",
     "internalReference": 1228333
+  },
+  {
+    "locale": "es",
+    "slug": "indisponibilidad-de-articulos-en-la-asignacion-de-la-aplicacion-de-ventas-con-punto-de-recogida-heuristica-inadecuada-en-la-seleccion-de-vendedores",
+    "internalReference": 1234534
   },
   {
     "locale": "es",
@@ -15933,6 +15958,11 @@
     "locale": "es",
     "slug": "precio-incoherente-cuando-la-sku-tiene-un-multiplicador-unitario-distinto-de-1",
     "internalReference": 651102
+  },
+  {
+    "locale": "es",
+    "slug": "precio-sin-impuestos-en-el-minicarro",
+    "internalReference": 1234933
   },
   {
     "locale": "es",
@@ -19341,6 +19371,11 @@
   },
   {
     "locale": "pt",
+    "slug": "findmarketplaces-erro-5xx-desculpe-algo-deu-errado-do-nosso-lado",
+    "internalReference": 1235339
+  },
+  {
+    "locale": "pt",
     "slug": "fluxo-de-revisao-para-updatestock-netshoes",
     "internalReference": 646869
   },
@@ -20978,6 +21013,11 @@
     "locale": "pt",
     "slug": "desqualificacao-do-vendedor-no-ponto-de-coleta-devido-a-quantidade-divergente-entre-os-slas-no-checkout",
     "internalReference": 1228333
+  },
+  {
+    "locale": "pt",
+    "slug": "indisponibilidade-de-itens-na-alocacao-do-aplicativo-de-vendas-com-ponto-de-coleta-heuristica-inadequada-na-selecao-de-vendedores",
+    "internalReference": 1234534
   },
   {
     "locale": "pt",
@@ -24003,6 +24043,11 @@
     "locale": "pt",
     "slug": "preco-inconsistente-quando-a-sku-tem-um-multiplicador-de-unidades-diferente-de-1",
     "internalReference": 651102
+  },
+  {
+    "locale": "pt",
+    "slug": "preco-sem-impostos-sendo-considerado-no-minicarro",
+    "internalReference": 1234933
   },
   {
     "locale": "pt",
