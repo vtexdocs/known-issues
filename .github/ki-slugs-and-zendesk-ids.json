@@ -6541,6 +6541,11 @@
   },
   {
     "locale": "en",
+    "slug": "maximum-number-of-installments-condition-in-campaign-audiences-is-not-evaluated-correctly",
+    "internalReference": 1141291
+  },
+  {
+    "locale": "en",
     "slug": "merchants-are-not-receiving-the-fixed-price-report",
     "internalReference": 674353
   },
@@ -6753,6 +6758,11 @@
     "locale": "en",
     "slug": "error-occurs-when-attempting-to-perform-a-search-using-the-all-field-in-vtex-crm-ui",
     "internalReference": 925679
+  },
+  {
+    "locale": "en",
+    "slug": "error-on-render-the-view-page-invalid-xmlchar",
+    "internalReference": 1140738
   },
   {
     "locale": "en",
@@ -13996,6 +14006,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-condicion-de-numero-maximo-de-plazos-en-el-publico-de-la-campana-no-se-evalua-correctamente",
+    "internalReference": 1141291
+  },
+  {
+    "locale": "es",
     "slug": "la-exportacion-de-la-tabla-de-precios-calculados-no-trae-todos-los-skus",
     "internalReference": 722005
   },
@@ -14188,6 +14203,11 @@
     "locale": "es",
     "slug": "error-al-publicar-una-entidad-de-datos-de-almacenamiento-dinamico",
     "internalReference": 666357
+  },
+  {
+    "locale": "es",
+    "slug": "error-al-visualizar-la-pagina-xmlchar-no-valido",
+    "internalReference": 1140738
   },
   {
     "locale": "es",
@@ -21241,6 +21261,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-condicao-de-numero-maximo-de-parcelas-nos-publicos-da-campanha-nao-e-avaliada-corretamente",
+    "internalReference": 1141291
+  },
+  {
+    "locale": "pt",
     "slug": "a-discountexpression-sempre-usa-o-frete-mais-barato-independentemente-do-frete-selecionado",
     "internalReference": 1075053
   },
@@ -21613,6 +21638,11 @@
     "locale": "pt",
     "slug": "erro-ao-publicar-entidade-de-dados-de-armazenamento-dinamico",
     "internalReference": 666357
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-ao-renderizar-a-pagina-de-visualizacao-xmlchar-invalido",
+    "internalReference": 1140738
   },
   {
     "locale": "pt",
