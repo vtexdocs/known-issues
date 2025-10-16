@@ -791,6 +791,11 @@
   },
   {
     "locale": "en",
+    "slug": "collections-search-bar-search-for-products-in-catalog-issue",
+    "internalReference": 1169998
+  },
+  {
+    "locale": "en",
     "slug": "collections-timeout",
     "internalReference": 434026
   },
@@ -8158,6 +8163,11 @@
     "locale": "es",
     "slug": "cms-legacy-collections-tiempo-de-espera",
     "internalReference": 434026
+  },
+  {
+    "locale": "es",
+    "slug": "colecciones-barra-de-busqueda-problema-buscar-productos-en-el-catalogo",
+    "internalReference": 1169998
   },
   {
     "locale": "es",
@@ -16123,6 +16133,11 @@
     "locale": "pt",
     "slug": "cobrancas-nao-permitem-mais-de-1000-skus-por-upload",
     "internalReference": 793274
+  },
+  {
+    "locale": "pt",
+    "slug": "colecoes-barra-de-pesquisa-problema-pesquisar-produtos-no-catalogo",
+    "internalReference": 1169998
   },
   {
     "locale": "pt",
