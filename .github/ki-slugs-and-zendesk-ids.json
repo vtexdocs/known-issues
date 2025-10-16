@@ -2806,6 +2806,11 @@
   },
   {
     "locale": "en",
+    "slug": "shoppers-not-able-to-access-the-payment-step-directly-with-a-complete-profile-and-available-pickup-option",
+    "internalReference": 1243953
+  },
+  {
+    "locale": "en",
     "slug": "simultaneous-sending-of-information-generates-data-loss-in-the-api",
     "internalReference": 280390
   },
@@ -4836,6 +4841,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-duplicated-listings-after-vtex-integration-architecture-updates",
+    "internalReference": 1244807
+  },
+  {
+    "locale": "en",
     "slug": "sku-denied-on-received-skus-after-throttling-on-marketplace-catalog",
     "internalReference": 970208
   },
@@ -6123,6 +6133,11 @@
     "locale": "en",
     "slug": "native-gift-card-is-adding-credit-although-it-returns-500",
     "internalReference": 760896
+  },
+  {
+    "locale": "en",
+    "slug": "native-wallets-ui-always-shows-no-interest-when-using-external-interest-flag",
+    "internalReference": 1243648
   },
   {
     "locale": "en",
@@ -10736,6 +10751,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-compradores-no-pueden-acceder-directamente-al-paso-de-pago-con-un-perfil-completo-y-la-opcion-de-recogida-disponible",
+    "internalReference": 1243953
+  },
+  {
+    "locale": "es",
     "slug": "los-datos-de-geocoordinates-no-pueden-ser-informados-para-algunos-cultureinfo",
     "internalReference": 582065
   },
@@ -12916,6 +12936,11 @@
   },
   {
     "locale": "es",
+    "slug": "shopee-listados-duplicados-tras-la-actualizacion-de-la-arquitectura-de-integracion-vtex",
+    "internalReference": 1244807
+  },
+  {
+    "locale": "es",
     "slug": "sku-denegado-en-skus-recibidos-despues-de-la-aceleracion-en-el-catalogo-del-mercado",
     "internalReference": 970208
   },
@@ -14163,6 +14188,11 @@
     "locale": "es",
     "slug": "la-interfaz-de-usuario-de-la-tarjeta-genera-un-error-cuando-el-usuario-elige-pagar-con-dos-tarjetas-cambia-el-metodo-de-pago-y-vuelve-al-pago-con-d",
     "internalReference": 670424
+  },
+  {
+    "locale": "es",
+    "slug": "la-interfaz-de-usuario-de-los-monederos-nativos-siempre-muestra-sin-interes-cuando-se-utiliza-el-indicador-de-interes-externo",
+    "internalReference": 1243648
   },
   {
     "locale": "es",
@@ -18386,6 +18416,11 @@
   },
   {
     "locale": "pt",
+    "slug": "compradores-que-nao-conseguem-acessar-a-etapa-de-pagamento-diretamente-com-um-perfil-completo-e-opcao-de-retirada-disponivel",
+    "internalReference": 1243953
+  },
+  {
+    "locale": "pt",
     "slug": "dados-do-perfil-carregados-vazios-na-interface-do-usuario-para-o-perfil-completo-com-ignoreprofiledata",
     "internalReference": 1016582
   },
@@ -21021,6 +21056,11 @@
   },
   {
     "locale": "pt",
+    "slug": "shopee-anuncios-duplicados-apos-as-atualizacoes-da-arquitetura-de-integracao-da-vtex",
+    "internalReference": 1244807
+  },
+  {
+    "locale": "pt",
     "slug": "sku-negado-em-skus-recebidos-apos-limitacao-no-catalogo-do-marketplace",
     "internalReference": 970208
   },
@@ -21758,6 +21798,11 @@
     "locale": "pt",
     "slug": "a-integracao-do-mercadopagov1-e-v2-nao-funciona-com-a-funcionalidade-de-salvar-cartao",
     "internalReference": 283727
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-usuario-das-carteiras-nativas-sempre-mostra-sem-juros-ao-usar-o-sinalizador-de-juros-externo",
+    "internalReference": 1243648
   },
   {
     "locale": "pt",
