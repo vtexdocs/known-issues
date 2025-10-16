@@ -31,6 +31,11 @@
   },
   {
     "locale": "en",
+    "slug": "error-something-went-wrong-in-the-sales-performance-dashboard-caused-by-no-orders-in-the-filtered-period",
+    "internalReference": 1193085
+  },
+  {
+    "locale": "en",
     "slug": "export-the-csv-in-the-sales-performance-module",
     "internalReference": 823878
   },
@@ -1393,6 +1398,11 @@
     "locale": "en",
     "slug": "reorder-collection-failing-for-large-collections",
     "internalReference": 408140
+  },
+  {
+    "locale": "en",
+    "slug": "roundingmode-changes-do-not-work-for-percentual-discounts",
+    "internalReference": 1192809
   },
   {
     "locale": "en",
@@ -4173,6 +4183,11 @@
     "locale": "en",
     "slug": "sku-variations-doesnt-return-in-the-plp",
     "internalReference": 569563
+  },
+  {
+    "locale": "en",
+    "slug": "some-facet-values-may-not-work-with-intelligent-search",
+    "internalReference": 1193294
   },
   {
     "locale": "en",
@@ -7741,6 +7756,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-algo-ha-ido-mal-en-el-panel-de-rendimiento-de-ventas-causado-por-la-ausencia-de-pedidos-en-el-periodo-filtrado",
+    "internalReference": 1193085
+  },
+  {
+    "locale": "es",
     "slug": "exportar-el-csv-en-el-modulo-de-rendimiento-de-ventas",
     "internalReference": 823878
   },
@@ -9093,6 +9113,11 @@
     "locale": "es",
     "slug": "las-traducciones-del-catalogo-no-se-reflejan-en-el-frontend",
     "internalReference": 861892
+  },
+  {
+    "locale": "es",
+    "slug": "los-cambios-de-roundingmode-no-funcionan-para-los-descuentos-porcentuales",
+    "internalReference": 1192809
   },
   {
     "locale": "es",
@@ -11518,6 +11543,11 @@
     "locale": "es",
     "slug": "algunos-caracteres-especiales-no-se-eliminan-de-las-busquedas-de-productos-ni-de-la-indexacion",
     "internalReference": 382382
+  },
+  {
+    "locale": "es",
+    "slug": "algunos-valores-de-las-facetas-pueden-no-funcionar-con-la-busqueda-inteligente",
+    "internalReference": 1193294
   },
   {
     "locale": "es",
@@ -15521,6 +15551,11 @@
   },
   {
     "locale": "pt",
+    "slug": "erro-algo-deu-errado-no-painel-de-desempenho-de-vendas-causado-pela-ausencia-de-pedidos-no-periodo-filtrado",
+    "internalReference": 1193085
+  },
+  {
+    "locale": "pt",
     "slug": "exportar-o-csv-no-modulo-de-desempenho-de-vendas",
     "internalReference": 823878
   },
@@ -16248,6 +16283,11 @@
     "locale": "pt",
     "slug": "aplique-o-desconto-aos-itens-mais-caros-a-interface-do-usuario-nao-esta-economizando-dados",
     "internalReference": 1011071
+  },
+  {
+    "locale": "pt",
+    "slug": "as-alteracoes-no-roundingmode-nao-funcionam-para-descontos-percentuais",
+    "internalReference": 1192809
   },
   {
     "locale": "pt",
@@ -19358,6 +19398,11 @@
     "locale": "pt",
     "slug": "alguns-caracteres-especiais-nao-sao-removidos-das-pesquisas-ou-da-indexacao-de-produtos",
     "internalReference": 382382
+  },
+  {
+    "locale": "pt",
+    "slug": "alguns-valores-de-faceta-podem-nao-funcionar-com-a-pesquisa-inteligente",
+    "internalReference": 1193294
   },
   {
     "locale": "pt",
