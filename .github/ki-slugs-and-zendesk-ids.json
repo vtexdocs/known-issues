@@ -5321,6 +5321,11 @@
   },
   {
     "locale": "en",
+    "slug": "duplicated-payments-with-the-same-information",
+    "internalReference": 1154246
+  },
+  {
+    "locale": "en",
     "slug": "early-capture-wrongfully-competing-with-automatic-capture-on-authorizedotnet",
     "internalReference": 866068
   },
@@ -13431,6 +13436,11 @@
   },
   {
     "locale": "es",
+    "slug": "pagos-duplicados-con-la-misma-informacion",
+    "internalReference": 1154246
+  },
+  {
+    "locale": "es",
     "slug": "pagos-fallidos-creados-por-la-interfaz-de-pago-transaccion-sin-pagos",
     "internalReference": 339243
   },
@@ -20963,6 +20973,11 @@
     "locale": "pt",
     "slug": "os-usuarios-nao-podem-acessar-as-configuracoes-de-credito-do-cliente-ui-no-admin-devido-a-um-erro-proibido",
     "internalReference": 380931
+  },
+  {
+    "locale": "pt",
+    "slug": "pagamentos-duplicados-com-as-mesmas-informacoes",
+    "internalReference": 1154246
   },
   {
     "locale": "pt",
