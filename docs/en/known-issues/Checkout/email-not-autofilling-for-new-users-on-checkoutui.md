@@ -1,11 +1,9 @@
 ---
-title: 'Email not auto-filling for new users on checkout-ui'
-id: 2twqCnmbnrXwP04HOwaty2
+title: Email not auto-filling for new users on checkout-ui
+slug: email-not-autofilling-for-new-users-on-checkoutui
 status: PUBLISHED
-createdAt: 2023-08-25T15:27:48.210Z
-updatedAt: 2023-08-29T19:17:38.521Z
-publishedAt: 2023-08-29T19:17:38.521Z
-firstPublishedAt: 2023-08-25T15:27:49.283Z
+createdAt: 2025-10-16T19:52:36.928Z
+updatedAt: 2025-10-16T19:52:36.928Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -13,7 +11,7 @@ tag: Checkout
 slugEN: email-not-autofilling-for-new-users-on-checkoutui
 locale: en
 kiStatus: Backlog
-internalReference: 887949
+internalReference: 887645
 ---
 
 ## Summary
@@ -23,9 +21,7 @@ When a new user enters a new email at the email step and proceeds to the next pa
 This is because there's no registered user with that email. As a result, the loaded `orderForm` also contains an empty email field, causing it to remain blank and requiring the customer to re-enter their email.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -34,14 +30,11 @@ This is because there's no registered user with that email. As a result, the loa
 3. Go to the client profile component.
 4. The email box will be empty, and then you have to type it again.
 
-##
 
-## Workaround
+#### Workaround
 
 
 N/A
-
-
 
 
 
