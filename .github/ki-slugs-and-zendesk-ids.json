@@ -396,6 +396,11 @@
   },
   {
     "locale": "en",
+    "slug": "headless-cms-is-not-mocking-data-between-workspaces",
+    "internalReference": 1215583
+  },
+  {
+    "locale": "en",
     "slug": "intermitent-site-editor-content-loss",
     "internalReference": 610533
   },
@@ -761,6 +766,11 @@
   },
   {
     "locale": "en",
+    "slug": "categoryfullpath-sometimes-incorrect-on-search-api-response",
+    "internalReference": 1212625
+  },
+  {
+    "locale": "en",
     "slug": "change-order-link-on-checkoutorderplaced-is-leading-to-myaccount-instead-of-the-order-page",
     "internalReference": 844893
   },
@@ -1058,6 +1068,11 @@
     "locale": "en",
     "slug": "incorrect-message-error-when-creatingediting-skus",
     "internalReference": 774518
+  },
+  {
+    "locale": "en",
+    "slug": "incorrect-red-color-in-catalog-admin-availability-tag-for-items-out-of-sc1",
+    "internalReference": 1212652
   },
   {
     "locale": "en",
@@ -4053,6 +4068,11 @@
     "locale": "en",
     "slug": "intelligent-search-synonyms-does-not-recreate-deleted-synonyms",
     "internalReference": 1211321
+  },
+  {
+    "locale": "en",
+    "slug": "intelligent-search-synonyms-form-may-freeze-the-synonym-type-field-after-creating-a-unidirectional-synonym",
+    "internalReference": 1215521
   },
   {
     "locale": "en",
@@ -7736,6 +7756,11 @@
   },
   {
     "locale": "en",
+    "slug": "storegraphql-impersonate-mutation-does-not-load-profile-data-for-users-created-manually",
+    "internalReference": 1214877
+  },
+  {
+    "locale": "en",
     "slug": "stucked-not-found-routes-on-platform",
     "internalReference": 793457
   },
@@ -8266,6 +8291,11 @@
   },
   {
     "locale": "es",
+    "slug": "headless-cms-no-esta-monetizando-datos-entre-espacios-de-trabajo",
+    "internalReference": 1215583
+  },
+  {
+    "locale": "es",
     "slug": "la-bandera-messagessv2-requiere-que-el-contenido-se-guarde-en-el-idioma-original",
     "internalReference": 1260018
   },
@@ -8506,6 +8536,11 @@
   },
   {
     "locale": "es",
+    "slug": "categoryfullpath-a-veces-incorrecto-en-la-respuesta-de-la-api-de-busqueda",
+    "internalReference": 1212625
+  },
+  {
+    "locale": "es",
     "slug": "cms-legacy-collections-tiempo-de-espera",
     "internalReference": 434026
   },
@@ -8518,6 +8553,11 @@
     "locale": "es",
     "slug": "colecciones-creadas-por-api-y-productos-insertados-por-api-insertar-sku-por-archivo-no-funcionan-correctamente",
     "internalReference": 470966
+  },
+  {
+    "locale": "es",
+    "slug": "color-rojo-incorrecto-en-la-etiqueta-de-disponibilidad-del-administrador-del-catalogo-para-articulos-fuera-de-sc1",
+    "internalReference": 1212652
   },
   {
     "locale": "es",
@@ -11823,6 +11863,11 @@
     "locale": "es",
     "slug": "el-filtro-productclusterids-es-sobrescrito-por-productclusternames-al-aplicar-filtros-adicionales",
     "internalReference": 899508
+  },
+  {
+    "locale": "es",
+    "slug": "el-formulario-de-busqueda-inteligente-de-sinonimos-puede-congelar-el-campo-de-tipo-de-sinonimo-despues-de-crear-un-sinonimo-unidireccional",
+    "internalReference": 1215521
   },
   {
     "locale": "es",
@@ -15766,6 +15811,11 @@
   },
   {
     "locale": "es",
+    "slug": "storegraphql-impersonate-mutation-no-carga-datos-de-perfil-para-usuarios-creados-manualmente",
+    "internalReference": 1214877
+  },
+  {
+    "locale": "es",
     "slug": "url-de-pdp-malformadas-al-utilizar-la-cadena-de-consulta-del-espacio-de-trabajo",
     "internalReference": 1281017
   },
@@ -16228,6 +16278,11 @@
     "locale": "pt",
     "slug": "o-headless-cms-ignora-as-configuracoes-de-validacao-de-matriz",
     "internalReference": 1046372
+  },
+  {
+    "locale": "pt",
+    "slug": "o-headless-cms-nao-esta-simulando-dados-entre-espacos-de-trabalho",
+    "internalReference": 1215583
   },
   {
     "locale": "pt",
@@ -16811,6 +16866,11 @@
   },
   {
     "locale": "pt",
+    "slug": "categoryfullpath-as-vezes-incorreto-na-resposta-da-api-de-pesquisa",
+    "internalReference": 1212625
+  },
+  {
+    "locale": "pt",
     "slug": "cms-fidelidade-configuracoes-de-valores-nao-funcionam",
     "internalReference": 726849
   },
@@ -16843,6 +16903,11 @@
     "locale": "pt",
     "slug": "conflitos-com-filtros-de-preco-e-isavailablepersaleschannel-em-buscas-portal-e-busca-novamente",
     "internalReference": 531277
+  },
+  {
+    "locale": "pt",
+    "slug": "cor-vermelha-incorreta-na-tag-de-disponibilidade-do-administrador-do-catalogo-para-itens-fora-de-sc1",
+    "internalReference": 1212652
   },
   {
     "locale": "pt",
@@ -19943,6 +20008,11 @@
     "locale": "pt",
     "slug": "o-filtro-productclusterids-e-substituido-por-productclusternames-ao-aplicar-filtros-adicionais",
     "internalReference": 899508
+  },
+  {
+    "locale": "pt",
+    "slug": "o-formulario-intelligent-search-synonyms-pode-congelar-o-campo-de-tipo-de-sinonimo-apos-a-criacao-de-um-sinonimo-unidirecional",
+    "internalReference": 1215521
   },
   {
     "locale": "pt",
@@ -23208,6 +23278,11 @@
     "locale": "pt",
     "slug": "a-matriz-benefitsitems-dentro-do-productcontextprovider-embaralha-os-itens-quando-a-promocao-e-do-tipo-buy-together",
     "internalReference": 915213
+  },
+  {
+    "locale": "pt",
+    "slug": "a-mutacao-impersonate-do-storegraphql-nao-carrega-dados-de-perfil-para-usuarios-criados-manualmente",
+    "internalReference": 1214877
   },
   {
     "locale": "pt",
