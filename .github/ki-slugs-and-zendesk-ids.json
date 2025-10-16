@@ -4346,6 +4346,11 @@
   },
   {
     "locale": "en",
+    "slug": "timeout-in-analytics-query-can-prevent-inventory-log-from-loading",
+    "internalReference": 1159693
+  },
+  {
+    "locale": "en",
     "slug": "timeout-in-the-query-to-analytics-preventing-to-check-the-inventory-log",
     "internalReference": 984482
   },
@@ -11718,6 +11723,11 @@
     "locale": "es",
     "slug": "el-simulador-de-logistica-muestra-la-moneda-por-defecto-en-lugar-de-la-moneda-local",
     "internalReference": 514551
+  },
+  {
+    "locale": "es",
+    "slug": "el-tiempo-de-espera-en-la-consulta-de-analytics-puede-impedir-que-se-cargue-el-registro-de-inventario",
+    "internalReference": 1159693
   },
   {
     "locale": "es",
@@ -19348,6 +19358,11 @@
     "locale": "pt",
     "slug": "o-simulador-logistico-esta-mostrando-a-moeda-padrao-em-vez-da-moeda-local",
     "internalReference": 514551
+  },
+  {
+    "locale": "pt",
+    "slug": "o-tempo-limite-na-consulta-do-analytics-pode-impedir-o-carregamento-do-registro-de-inventario",
+    "internalReference": 1159693
   },
   {
     "locale": "pt",
