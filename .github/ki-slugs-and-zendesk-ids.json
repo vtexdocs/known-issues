@@ -5036,6 +5036,11 @@
   },
   {
     "locale": "en",
+    "slug": "sku-price-value-being-displayed-incorrectly-in-my-order-detail",
+    "internalReference": 1171863
+  },
+  {
+    "locale": "en",
     "slug": "sms-configuration-link-in-email-template-redirects-user-to-404-page",
     "internalReference": 1054007
   },
@@ -12418,6 +12423,11 @@
     "locale": "es",
     "slug": "el-usuario-recibe-un-mensaje-de-error-al-registrarse-por-primera-vez-en-mi-cuenta",
     "internalReference": 619909
+  },
+  {
+    "locale": "es",
+    "slug": "el-valor-del-precio-sku-se-muestra-incorrectamente-en-el-detalle-de-mi-pedido",
+    "internalReference": 1171863
   },
   {
     "locale": "es",
@@ -20478,6 +20488,11 @@
     "locale": "pt",
     "slug": "usuario-recebe-mensagem-de-erro-no-primeiro-registro-em-minha-conta",
     "internalReference": 619909
+  },
+  {
+    "locale": "pt",
+    "slug": "valor-do-preco-da-sku-sendo-exibido-incorretamente-nos-detalhes-do-meu-pedido",
+    "internalReference": 1171863
   },
   {
     "locale": "pt",
