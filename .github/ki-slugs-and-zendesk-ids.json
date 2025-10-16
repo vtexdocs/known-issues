@@ -206,6 +206,11 @@
   },
   {
     "locale": "en",
+    "slug": "incorrect-values-in-quotes-on-items-with-unity-multiplier-configuration",
+    "internalReference": 1271492
+  },
+  {
+    "locale": "en",
     "slug": "order-again-from-b2b-orders-history-doesnt-work",
     "internalReference": 819920
   },
@@ -7493,6 +7498,11 @@
     "locale": "es",
     "slug": "pedido-rapido-cambia-la-cantidad-de-articulos-cuando-se-aplica-una-promocion-mas-por-menos",
     "internalReference": 1123142
+  },
+  {
+    "locale": "es",
+    "slug": "valores-incorrectos-en-las-comillas-de-los-articulos-con-configuracion-de-multiplicador-unitario",
+    "internalReference": 1271492
   },
   {
     "locale": "es",
@@ -14813,6 +14823,11 @@
     "locale": "pt",
     "slug": "os-enderecos-sao-exibidos-no-checkout-quando-o-comprador-tem-a-permissao-can-add-shipping-pode-adicionar-frete",
     "internalReference": 1037067
+  },
+  {
+    "locale": "pt",
+    "slug": "valores-incorretos-em-cotacoes-de-itens-com-configuracao-de-multiplicador-de-unidade",
+    "internalReference": 1271492
   },
   {
     "locale": "pt",
