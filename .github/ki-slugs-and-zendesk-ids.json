@@ -3701,6 +3701,11 @@
   },
   {
     "locale": "en",
+    "slug": "products-with-selling-price-is-zero-cannot-be-added-to-the-cart-in-faststore",
+    "internalReference": 1216105
+  },
+  {
+    "locale": "en",
     "slug": "quantity-selector-wont-let-me-change-the-value-by-typing",
     "internalReference": 1057544
   },
@@ -7288,6 +7293,11 @@
     "locale": "en",
     "slug": "pickup-points-not-indexed-in-master-data",
     "internalReference": 530824
+  },
+  {
+    "locale": "en",
+    "slug": "problems-with-triggers-that-contain-attachments",
+    "internalReference": 1215924
   },
   {
     "locale": "en",
@@ -11651,6 +11661,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-productos-cuyo-precio-de-venta-es-cero-no-se-pueden-anadir-al-carrito-en-faststore",
+    "internalReference": 1216105
+  },
+  {
+    "locale": "es",
     "slug": "los-scripts-gtm-no-se-cargan-en-los-scripts-nativos-de-terceros",
     "internalReference": 1086165
   },
@@ -15283,6 +15298,11 @@
     "locale": "es",
     "slug": "mdv2-devuelve-el-error-504-gateway-timeout-cuando-intentamos-actualizar-un-documento-pasando-un-simbolo-o-caracter-especial",
     "internalReference": 852966
+  },
+  {
+    "locale": "es",
+    "slug": "problemas-con-los-disparadores-que-contienen-archivos-adjuntos",
+    "internalReference": 1215924
   },
   {
     "locale": "es",
@@ -19636,6 +19656,11 @@
   },
   {
     "locale": "pt",
+    "slug": "produtos-com-preco-de-venda-igual-a-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore",
+    "internalReference": 1216105
+  },
+  {
+    "locale": "pt",
     "slug": "redirecionamentos-para-links-de-visualizacao-ao-usar-no-final-do-url",
     "internalReference": 927041
   },
@@ -23243,6 +23268,11 @@
     "locale": "pt",
     "slug": "pontos-de-coleta-nao-indexados-nos-dados-mestre",
     "internalReference": 530824
+  },
+  {
+    "locale": "pt",
+    "slug": "problemas-com-gatilhos-que-contem-anexos",
+    "internalReference": 1215924
   },
   {
     "locale": "pt",
