@@ -1781,6 +1781,11 @@
   },
   {
     "locale": "en",
+    "slug": "chain-orders-created-with-empty-payment-in-moi-contexts",
+    "internalReference": 1167363
+  },
+  {
+    "locale": "en",
     "slug": "checkout-allows-proceeding-to-payment-form-without-shipping-address-on-the-ui-only",
     "internalReference": 699317
   },
@@ -4928,6 +4933,11 @@
     "locale": "en",
     "slug": "possible-errors-in-change-orders-notification-in-the-ui-api-and-gateway",
     "internalReference": 955489
+  },
+  {
+    "locale": "en",
+    "slug": "regionalized-navigation-to-the-list-of-selected-sellers-that-do-not-fulfill-the-sku-associated-with-a-gift",
+    "internalReference": 1167349
   },
   {
     "locale": "en",
@@ -10206,6 +10216,11 @@
   },
   {
     "locale": "es",
+    "slug": "pedidos-en-cadena-creados-con-pago-vacio-en-contextos-moi",
+    "internalReference": 1167363
+  },
+  {
+    "locale": "es",
     "slug": "pedidos-sin-algunos-detalles-en-el-objeto-sla-de-envio",
     "internalReference": 575219
   },
@@ -12548,6 +12563,11 @@
     "locale": "es",
     "slug": "my-orders-on-my-account-error-message-ocorreu-um-erro-inesperado-estamos-trabalhando-para-resolvelo-tente-novamente-mais-tarde",
     "internalReference": 356936
+  },
+  {
+    "locale": "es",
+    "slug": "navegacion-regionalizada-a-la-lista-de-vendedores-seleccionados-que-no-cumplen-con-el-sku-asociado-a-un-regalo",
+    "internalReference": 1167349
   },
   {
     "locale": "es",
@@ -17781,6 +17801,11 @@
   },
   {
     "locale": "pt",
+    "slug": "pedidos-em-cadeia-criados-com-pagamento-vazio-em-contextos-moi",
+    "internalReference": 1167363
+  },
+  {
+    "locale": "pt",
     "slug": "pedidos-sem-alguns-detalhes-no-objeto-sla-de-embarque",
     "internalReference": 575219
   },
@@ -19978,6 +20003,11 @@
     "locale": "pt",
     "slug": "nas-paginas-de-ordens-de-lista-as-ordens-de-exportacao-nao-estao-funcionando-quando-o-filtro-selecionado-tem-caracteres-especiais",
     "internalReference": 662821
+  },
+  {
+    "locale": "pt",
+    "slug": "navegacao-regionalizada-para-a-lista-de-vendedores-selecionados-que-nao-atendem-a-sku-associada-a-um-presente",
+    "internalReference": 1167349
   },
   {
     "locale": "pt",
