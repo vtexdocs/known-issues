@@ -2,8 +2,8 @@
 title: KIt Price Deletion no funciona
 slug: kit-price-deletion-no-funciona
 status: PUBLISHED
-createdAt: 2025-10-16T20:54:28.585Z
-updatedAt: 2025-10-16T20:54:28.585Z
+createdAt: 2025-10-16T20:57:59.598Z
+updatedAt: 2025-10-16T20:57:59.598Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
