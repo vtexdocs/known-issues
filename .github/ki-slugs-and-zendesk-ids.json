@@ -5676,6 +5676,11 @@
   },
   {
     "locale": "en",
+    "slug": "deactivated-payment-methods-continue-to-be-displayed",
+    "internalReference": 1235817
+  },
+  {
+    "locale": "en",
     "slug": "deactivated-payment-system-rendering-at-checkout",
     "internalReference": 1049543
   },
@@ -14261,6 +14266,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-metodos-de-pago-desactivados-siguen-mostrandose",
+    "internalReference": 1235817
+  },
+  {
+    "locale": "es",
     "slug": "los-metodos-de-pago-mostrados-en-la-caja-difieren-de-las-condiciones-de-pago-activas",
     "internalReference": 666469
   },
@@ -22458,6 +22468,11 @@
     "locale": "pt",
     "slug": "opcao-de-parcelamento-de-1x-ausente-no-checkout-com-varias-condicoes-de-pagamento-e-configuracao-padrao-definida-para-uma-opcao-diferente",
     "internalReference": 709971
+  },
+  {
+    "locale": "pt",
+    "slug": "os-metodos-de-pagamento-desativados-continuam-a-ser-exibidos",
+    "internalReference": 1235817
   },
   {
     "locale": "pt",
