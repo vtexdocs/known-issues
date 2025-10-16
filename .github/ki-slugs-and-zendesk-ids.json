@@ -2131,6 +2131,11 @@
   },
   {
     "locale": "en",
+    "slug": "editing-email-in-checkout-ui-makes-the-screen-freeze",
+    "internalReference": 1211673
+  },
+  {
+    "locale": "en",
     "slug": "email-not-autofilling-for-new-buyers-after-logging-in",
     "internalReference": 920634
   },
@@ -10153,6 +10158,11 @@
     "locale": "es",
     "slug": "la-disponibilidad-del-producto-se-muestra-incorrectamente-en-el-modo-de-visualizacion-de-las-recogidas-en-el-carro",
     "internalReference": 552875
+  },
+  {
+    "locale": "es",
+    "slug": "la-edicion-del-correo-electronico-en-la-interfaz-de-pago-hace-que-la-pantalla-se-congele",
+    "internalReference": 1211673
   },
   {
     "locale": "es",
