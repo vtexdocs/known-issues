@@ -2832,7 +2832,7 @@
   {
     "locale": "en",
     "slug": "amazon-error-code-13013-while-sending-product-to-amazon-marketplace",
-    "internalReference": 1004225
+    "internalReference": 926656
   },
   {
     "locale": "en",
@@ -3467,7 +3467,7 @@
   {
     "locale": "en",
     "slug": "faststore-search-api-considering-fuzzy-as-auto-as-default",
-    "internalReference": 1133355
+    "internalReference": 889321
   },
   {
     "locale": "en",
@@ -4047,7 +4047,7 @@
   {
     "locale": "en",
     "slug": "some-special-characters-are-not-stripped-from-product-searches-or-indexing",
-    "internalReference": 944659
+    "internalReference": 382382
   },
   {
     "locale": "en",
@@ -10322,7 +10322,7 @@
   {
     "locale": "es",
     "slug": "amazon-codigo-de-error-13013-al-enviar-un-producto-al-mercado-de-amazon",
-    "internalReference": 1004225
+    "internalReference": 926656
   },
   {
     "locale": "es",
@@ -10962,7 +10962,7 @@
   {
     "locale": "es",
     "slug": "faststore-search-api-considerando-fuzzy-como-auto-por-defecto",
-    "internalReference": 1133355
+    "internalReference": 889321
   },
   {
     "locale": "es",
@@ -11122,7 +11122,7 @@
   {
     "locale": "es",
     "slug": "algunos-caracteres-especiales-no-se-eliminan-de-las-busquedas-de-productos-ni-de-la-indexacion",
-    "internalReference": 944659
+    "internalReference": 382382
   },
   {
     "locale": "es",
@@ -17867,7 +17867,7 @@
   {
     "locale": "pt",
     "slug": "amazon-codigo-de-erro-13013-ao-enviar-um-produto-para-o-amazon-marketplace",
-    "internalReference": 1004225
+    "internalReference": 926656
   },
   {
     "locale": "pt",
@@ -18422,7 +18422,7 @@
   {
     "locale": "pt",
     "slug": "a-api-de-pesquisa-da-faststore-considera-o-fuzzy-como-automatico-por-padrao",
-    "internalReference": 1133355
+    "internalReference": 889321
   },
   {
     "locale": "pt",
@@ -18692,7 +18692,7 @@
   {
     "locale": "pt",
     "slug": "alguns-caracteres-especiais-nao-sao-removidos-das-pesquisas-ou-da-indexacao-de-produtos",
-    "internalReference": 944659
+    "internalReference": 382382
   },
   {
     "locale": "pt",
