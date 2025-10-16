@@ -4076,6 +4076,11 @@
   },
   {
     "locale": "en",
+    "slug": "intelligent-search-cleanup-intermitently-failing",
+    "internalReference": 1225644
+  },
+  {
+    "locale": "en",
     "slug": "intelligent-search-language-settings-not-in-sync-with-store-configurations",
     "internalReference": 990343
   },
@@ -7368,6 +7373,11 @@
     "locale": "en",
     "slug": "special-characters-cannot-be-used-for-cnpj-search-on-masterdata",
     "internalReference": 602054
+  },
+  {
+    "locale": "en",
+    "slug": "subaccounts-are-not-automatically-allocated-to-a-cluster",
+    "internalReference": 1227332
   },
   {
     "locale": "en",
@@ -12116,6 +12126,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-limpieza-de-la-busqueda-inteligente-falla-intermitentemente",
+    "internalReference": 1225644
+  },
+  {
+    "locale": "es",
     "slug": "la-ordenacion-de-las-imagenes-de-los-productos-no-respeta-el-orden-del-catalogo",
     "internalReference": 682177
   },
@@ -15378,6 +15393,11 @@
     "locale": "es",
     "slug": "la-interfaz-de-usuario-de-crmmasterdata-no-elimina-los-documentos-incluso-con-el-mensaje-de-exito",
     "internalReference": 699374
+  },
+  {
+    "locale": "es",
+    "slug": "las-subcuentas-no-se-asignan-automaticamente-a-un-cluster",
+    "internalReference": 1227332
   },
   {
     "locale": "es",
@@ -20101,6 +20121,11 @@
   },
   {
     "locale": "pt",
+    "slug": "falha-intermitente-na-limpeza-da-pesquisa-inteligente",
+    "internalReference": 1225644
+  },
+  {
+    "locale": "pt",
     "slug": "falta-de-traducao-para-a-facetafiltro-de-preco-na-intelligent-search",
     "internalReference": 974840
   },
@@ -22306,6 +22331,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-valor-a-ser-usado-do-cartaopresente-nao-permite-que-o-usuario-altere-o-valor-quando-a-moeda-nao-tem-decimais",
+    "internalReference": 339664
+  },
+  {
+    "locale": "pt",
     "slug": "opcao-de-parcelamento-de-1x-ausente-no-checkout-com-varias-condicoes-de-pagamento-e-configuracao-padrao-definida-para-uma-opcao-diferente",
     "internalReference": 709971
   },
@@ -23328,6 +23358,11 @@
     "locale": "pt",
     "slug": "alguns-comportamentos-inesperados-no-masterdata",
     "internalReference": 669048
+  },
+  {
+    "locale": "pt",
+    "slug": "as-subcontas-nao-sao-alocadas-automaticamente-em-um-cluster",
+    "internalReference": 1227332
   },
   {
     "locale": "pt",
