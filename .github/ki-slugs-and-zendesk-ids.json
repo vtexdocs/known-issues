@@ -2616,6 +2616,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-preview-showing-unavailability-message-for-delivery",
+    "internalReference": 1170877
+  },
+  {
+    "locale": "en",
     "slug": "shipping-preview-shows-pickup-postal-code-for-shipping-when-there-is-package-split-for-pickup-and-shipping",
     "internalReference": 938124
   },
@@ -10456,6 +10461,11 @@
   },
   {
     "locale": "es",
+    "slug": "vista-previa-del-envio-que-muestra-un-mensaje-de-no-disponibilidad-para-la-entrega",
+    "internalReference": 1170877
+  },
+  {
+    "locale": "es",
     "slug": "visualizacion-incorrecta-de-la-cantidad-de-paquetes-en-la-caja",
     "internalReference": 520369
   },
@@ -17983,6 +17993,11 @@
     "locale": "pt",
     "slug": "previsao-de-embarque-mostrando-erroneamente-a-mensagem-de-indisponibilidade-para-retirada",
     "internalReference": 764457
+  },
+  {
+    "locale": "pt",
+    "slug": "previsao-de-envio-mostrando-mensagem-de-indisponibilidade-para-entrega",
+    "internalReference": 1170877
   },
   {
     "locale": "pt",
