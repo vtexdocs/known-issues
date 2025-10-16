@@ -81,6 +81,11 @@
   },
   {
     "locale": "en",
+    "slug": "issue-with-node-version-compatibility",
+    "internalReference": 1256617
+  },
+  {
+    "locale": "en",
     "slug": "unhandled-exception-error-when-changing-edition-of-account",
     "internalReference": 907294
   },
@@ -7348,6 +7353,11 @@
     "locale": "es",
     "slug": "la-configuracion-de-la-aplicacion-no-se-borra-al-eliminarla",
     "internalReference": 1065954
+  },
+  {
+    "locale": "es",
+    "slug": "problema-de-compatibilidad-con-la-version-de-node",
+    "internalReference": 1256617
   },
   {
     "locale": "es",
@@ -14703,6 +14713,11 @@
     "locale": "pt",
     "slug": "o-vbase-responde-404-para-vtexpagesgraphql",
     "internalReference": 822031
+  },
+  {
+    "locale": "pt",
+    "slug": "problema-com-a-compatibilidade-de-versao-do-node",
+    "internalReference": 1256617
   },
   {
     "locale": "pt",
