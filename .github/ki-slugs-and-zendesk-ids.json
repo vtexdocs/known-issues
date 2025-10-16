@@ -1471,6 +1471,11 @@
   },
   {
     "locale": "en",
+    "slug": "svg-file-replacement-with-the-same-name-doesnt-work",
+    "internalReference": 1151600
+  },
+  {
+    "locale": "en",
     "slug": "term-makes-search-api-have-no-return",
     "internalReference": 570542
   },
@@ -4668,6 +4673,11 @@
     "locale": "en",
     "slug": "issues-with-my-account-links",
     "internalReference": 522514
+  },
+  {
+    "locale": "en",
+    "slug": "it-is-not-possible-to-make-a-change-change-v2-to-increase-to-the-order-if-the-account-has-defense-mode-active-in-payments-or-any-other-payment",
+    "internalReference": 1155646
   },
   {
     "locale": "en",
@@ -8636,6 +8646,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-sustitucion-de-archivos-svg-con-el-mismo-nombre-no-funciona",
+    "internalReference": 1151600
+  },
+  {
+    "locale": "es",
     "slug": "la-sustitucion-de-productos-en-un-pedido-oms-no-funciona-en-las-cuentas-del-portal-del-vendedor",
     "internalReference": 753484
   },
@@ -12416,6 +12431,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-es-posible-hacer-un-cambio-cambio-v2-para-aumentar-a-la-orden-si-la-cuenta-tiene-modo-defensa-activo-en-pagos-o-cualquier-otro-pago",
+    "internalReference": 1155646
+  },
+  {
+    "locale": "es",
     "slug": "orden-de-compracolocada-boleto-factura-bancaria-moip",
     "internalReference": 376951
   },
@@ -15588,6 +15608,11 @@
     "locale": "pt",
     "slug": "a-selecao-de-sellers-disponiveis-na-politica-comercial-nao-esta-funcionando-corretamente",
     "internalReference": 515480
+  },
+  {
+    "locale": "pt",
+    "slug": "a-substituicao-do-arquivo-svg-com-o-mesmo-nome-nao-funciona",
+    "internalReference": 1151600
   },
   {
     "locale": "pt",
@@ -19728,6 +19753,11 @@
     "locale": "pt",
     "slug": "na-pagina-order-placed-o-datalayer-captura-apenas-as-informacoes-do-primeiro",
     "internalReference": 727339
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-fazer-uma-alteracao-alteracao-v2-para-aumentar-o-pedido-se-a-conta-tiver-o-modo-de-defesa-ativo-em-pagamentos-ou-qualquer-outro-pagamento",
+    "internalReference": 1155646
   },
   {
     "locale": "pt",
