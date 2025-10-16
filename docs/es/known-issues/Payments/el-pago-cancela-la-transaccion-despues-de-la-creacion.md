@@ -2,8 +2,8 @@
 title: El pago cancela la transacción después de la creación
 slug: el-pago-cancela-la-transaccion-despues-de-la-creacion
 status: PUBLISHED
-createdAt: 2025-10-15T10:02:08.715Z
-updatedAt: 2025-10-15T10:02:08.715Z
+createdAt: 2025-10-16T17:29:13.925Z
+updatedAt: 2025-10-16T17:29:13.925Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
