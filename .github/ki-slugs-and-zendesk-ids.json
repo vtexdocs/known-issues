@@ -4096,6 +4096,11 @@
   },
   {
     "locale": "en",
+    "slug": "excluded-warehouses-continue-to-return-stock-availability-in-the-simulation-and-availability-api",
+    "internalReference": 1246900
+  },
+  {
+    "locale": "en",
     "slug": "fob-external-marketplace-integrate-an-order-erro-code-fmt010",
     "internalReference": 532377
   },
@@ -11541,6 +11546,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-existencias-en-la-simulacion-y-la-api-de-disponibilidad",
+    "internalReference": 1246900
+  },
+  {
+    "locale": "es",
     "slug": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-entrega-en-los-paises-que-no-utilizan-nuestra-api-de-codigo-postal",
     "internalReference": 1262007
   },
@@ -18918,6 +18928,11 @@
     "locale": "pt",
     "slug": "oferta-de-sla-flutuante-entre-diferentes-politicas-de-envio-devido-ao-cache-na-data-estimada-de-30-segundos",
     "internalReference": 1036916
+  },
+  {
+    "locale": "pt",
+    "slug": "os-depositos-excluidos-continuam-a-retornar-a-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade",
+    "internalReference": 1246900
   },
   {
     "locale": "pt",
