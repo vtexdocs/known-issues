@@ -121,6 +121,11 @@
   },
   {
     "locale": "en",
+    "slug": "b2b-checkout-settings-is-considering-pickup-address-for-deliveries",
+    "internalReference": 1186568
+  },
+  {
+    "locale": "en",
     "slug": "b2b-impersonated-data-is-not-removed-after-logging-out",
     "internalReference": 1067969
   },
@@ -2921,6 +2926,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-carrier-selection",
+    "internalReference": 1186908
+  },
+  {
+    "locale": "en",
     "slug": "amazon-category-implementation",
     "internalReference": 549924
   },
@@ -4773,6 +4783,11 @@
     "locale": "en",
     "slug": "export-from-order-list-in-column-creation-date-is-at-utc-0",
     "internalReference": 619890
+  },
+  {
+    "locale": "en",
+    "slug": "exporting-orders-with-an-average-of-more-than-200-products-can-give-a-timeout-in-the-file-generation-process",
+    "internalReference": 702933
   },
   {
     "locale": "en",
@@ -7786,6 +7801,11 @@
   },
   {
     "locale": "es",
+    "slug": "b2b-checkout-settings-esta-considerando-la-direccion-de-recogida-para-las-entregas",
+    "internalReference": 1186568
+  },
+  {
+    "locale": "es",
     "slug": "b2b-quotes-no-aplica-el-descuento-al-pagar-en-el-dominio-web",
     "internalReference": 849080
   },
@@ -10681,6 +10701,11 @@
   },
   {
     "locale": "es",
+    "slug": "amazon-seleccion-de-transportistas",
+    "internalReference": 1186908
+  },
+  {
+    "locale": "es",
     "slug": "amazoncasacaso-erros-de-rastreamento",
     "internalReference": 360564
   },
@@ -12698,6 +12723,11 @@
     "locale": "es",
     "slug": "la-eliminacion-del-usuario-de-la-regla-de-autorizacion-de-pedidos-bloquea-el-pedido-y-no-permite-el-reprocesamiento-de-la-interfaz-de-usuario",
     "internalReference": 623376
+  },
+  {
+    "locale": "es",
+    "slug": "la-exportacion-de-pedidos-con-una-media-de-mas-de-200-productos-puede-dar-un-timeout-en-el-proceso-de-generacion-del-fichero",
+    "internalReference": 702933
   },
   {
     "locale": "es",
@@ -15608,6 +15638,11 @@
     "locale": "pt",
     "slug": "as-permissoes-do-storefront-consideram-as-organizacoes-inativas",
     "internalReference": 927174
+  },
+  {
+    "locale": "pt",
+    "slug": "b2b-checkout-settings-esta-considerando-o-endereco-de-coleta-para-entregas",
+    "internalReference": 1186568
   },
   {
     "locale": "pt",
@@ -18951,6 +18986,11 @@
   },
   {
     "locale": "pt",
+    "slug": "selecao-de-transportadora-amazon",
+    "internalReference": 1186908
+  },
+  {
+    "locale": "pt",
     "slug": "shopee-erro-ao-atualizar-a-politica-comercial-na-configuracao-do-cartao-de-integracao",
     "internalReference": 1236034
   },
@@ -20188,6 +20228,11 @@
     "locale": "pt",
     "slug": "a-exclusao-do-usuario-da-regra-de-autorizacao-de-pedido-bloqueia-o-pedido-e-nao-permite-o-reprocessamento-da-iu",
     "internalReference": 623376
+  },
+  {
+    "locale": "pt",
+    "slug": "a-exportacao-de-pedidos-com-uma-media-de-mais-de-200-produtos-pode-gerar-um-tempo-limite-no-processo-de-geracao-de-arquivos",
+    "internalReference": 702933
   },
   {
     "locale": "pt",
