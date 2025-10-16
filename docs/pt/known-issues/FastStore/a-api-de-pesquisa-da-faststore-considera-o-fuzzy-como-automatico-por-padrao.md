@@ -2,8 +2,8 @@
 title: A API de pesquisa da Faststore considera o fuzzy como automático por padrão
 slug: a-api-de-pesquisa-da-faststore-considera-o-fuzzy-como-automatico-por-padrao
 status: PUBLISHED
-createdAt: 2025-10-16T19:55:03.400Z
-updatedAt: 2025-10-16T19:55:03.400Z
+createdAt: 2025-10-16T20:25:48.118Z
+updatedAt: 2025-10-16T20:25:48.118Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,7 +11,7 @@ tag: FastStore
 slugEN: faststore-search-api-considering-fuzzy-as-auto-as-default
 locale: pt
 kiStatus: Fixed
-internalReference: 1133355
+internalReference: 889321
 ---
 
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
