@@ -2306,6 +2306,11 @@
   },
   {
     "locale": "en",
+    "slug": "phone-number-duplication-in-checkout-ui-for-international-addresses",
+    "internalReference": 1259047
+  },
+  {
+    "locale": "en",
     "slug": "pickup-option-does-not-return-selected-option-if-switching-between-delivery-and-pickup",
     "internalReference": 588394
   },
@@ -9043,6 +9048,11 @@
     "locale": "es",
     "slug": "divergencia-entre-el-valor-total-de-cada-producto-y-el-subtotal-de-los-articulos-o-totalizadores",
     "internalReference": 331188
+  },
+  {
+    "locale": "es",
+    "slug": "duplicacion-del-numero-de-telefono-en-la-interfaz-de-pago-para-direcciones-internacionales",
+    "internalReference": 1259047
   },
   {
     "locale": "es",
@@ -16658,6 +16668,11 @@
     "locale": "pt",
     "slug": "divisao-da-entrega-com-o-lean-shipping-oferecendo-sla-invalido",
     "internalReference": 990155
+  },
+  {
+    "locale": "pt",
+    "slug": "duplicacao-do-numero-de-telefone-na-interface-de-usuario-do-checkout-para-enderecos-internacionais",
+    "internalReference": 1259047
   },
   {
     "locale": "pt",
