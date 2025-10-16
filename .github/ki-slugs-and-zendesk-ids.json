@@ -1296,6 +1296,11 @@
   },
   {
     "locale": "en",
+    "slug": "remove-supplier-info-from-product-not-working-via-admin",
+    "internalReference": 796608
+  },
+  {
+    "locale": "en",
     "slug": "removing-ean-via-api-is-not-inactivating-skus-without-refids",
     "internalReference": 626031
   },
@@ -8706,6 +8711,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-funciona-la-eliminacion-de-la-informacion-del-proveedor-del-producto-a-traves-de-admin",
+    "internalReference": 796608
+  },
+  {
+    "locale": "es",
     "slug": "no-puede-desactivar-este-producto-porque-tiene-uno-o-mas-skus-activos-no-se-traduce-automaticamente-en-el-product-admin",
     "internalReference": 768603
   },
@@ -15368,6 +15378,11 @@
     "locale": "pt",
     "slug": "a-propriedade-defaultvalue-nao-e-atualizada-na-api-de-especificacao",
     "internalReference": 1226096
+  },
+  {
+    "locale": "pt",
+    "slug": "a-remocao-das-informacoes-do-fornecedor-do-produto-nao-esta-funcionando-via-admin",
+    "internalReference": 796608
   },
   {
     "locale": "pt",
