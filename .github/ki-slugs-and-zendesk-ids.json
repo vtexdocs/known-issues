@@ -3851,6 +3851,11 @@
   },
   {
     "locale": "en",
+    "slug": "campaign-promotions-not-working-at-the-search-when-multiple-campaigns-are-applicable",
+    "internalReference": 1207746
+  },
+  {
+    "locale": "en",
     "slug": "cannot-select-the-locale-for-synonym-in-multilanguage-intelligent-search",
     "internalReference": 1276576
   },
@@ -11956,6 +11961,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-promociones-de-campana-no-funcionan-en-la-busqueda-cuando-se-aplican-varias-campanas",
+    "internalReference": 1207746
+  },
+  {
+    "locale": "es",
     "slug": "las-reglas-de-comercializacion-manual-no-funcionan-cuando-esta-activado-el-activador-global",
     "internalReference": 1147282
   },
@@ -19648,6 +19658,11 @@
     "locale": "pt",
     "slug": "as-especificacoes-do-produtosku-tem-prioridade-no-titulo-da-pagina",
     "internalReference": 1089440
+  },
+  {
+    "locale": "pt",
+    "slug": "as-promocoes-de-campanha-nao-estao-funcionando-na-pesquisa-quando-varias-campanhas-sao-aplicaveis",
+    "internalReference": 1207746
   },
   {
     "locale": "pt",
