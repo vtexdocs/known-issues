@@ -131,6 +131,11 @@
   },
   {
     "locale": "en",
+    "slug": "b2b-organizations-without-an-address-number-as-a-valid-address",
+    "internalReference": 1173874
+  },
+  {
+    "locale": "en",
     "slug": "b2b-quotes-doesnt-apply-discount-at-checkout-in-the-website-domain",
     "internalReference": 849080
   },
@@ -7466,6 +7471,11 @@
   },
   {
     "locale": "es",
+    "slug": "organizaciones-b2b-sin-numero-de-direccion-como-direccion-valida",
+    "internalReference": 1173874
+  },
+  {
+    "locale": "es",
     "slug": "organizaciones-duplicadas-en-el-modal-para-cambiar-entre-organizaciones",
     "internalReference": 986868
   },
@@ -14748,6 +14758,11 @@
     "locale": "pt",
     "slug": "o-registro-estadual-nao-e-preenchido-apos-a-aprovacao-da-solicitacao-da-organizacao",
     "internalReference": 825127
+  },
+  {
+    "locale": "pt",
+    "slug": "organizacoes-b2b-sem-um-numero-de-endereco-como-um-endereco-valido",
+    "internalReference": 1173874
   },
   {
     "locale": "pt",
