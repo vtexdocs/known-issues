@@ -1,11 +1,9 @@
 ---
-title: 'Some special characters are not stripped from product searches or indexing'
-id: 3qbzEcCkXpaPA0U23trlwT
-status: DRAFT
-createdAt: 2022-04-26T22:41:20.214Z
-updatedAt: 2023-11-29T20:24:51.268Z
-publishedAt: 
-firstPublishedAt: 2022-04-26T22:42:16.929Z
+title: Some special characters are not stripped from product searches or indexing
+slug: some-special-characters-are-not-stripped-from-product-searches-or-indexing
+status: PUBLISHED
+createdAt: 2025-10-16T19:53:50.247Z
+updatedAt: 2025-10-16T19:53:50.247Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -13,7 +11,7 @@ tag: Intelligent Search
 slugEN: some-special-characters-are-not-stripped-from-product-searches-or-indexing
 locale: en
 kiStatus: Backlog
-internalReference: 382382
+internalReference: 944659
 ---
 
 ## Summary
@@ -28,9 +26,7 @@ While registering a product, commas and dots at the end of words are removed whi
 While searching, colons are a reserved value and will invalidate the whole text query.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 For commas and dots, a product field that has a value like comma-separated keywords like `"car,specialbrand,blue"` will be read as a single word. Searching for `specialbrand` won't find this product.
@@ -38,15 +34,11 @@ For commas and dots, a product field that has a value like comma-separated keywo
 For colons, a product with the name `"red wine: special version"` can be found by searching by `wine`, but searching by `wine: special version` won't work. The whole search will be invalid, and no text filters will be applied.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 For commas and dots, a space after the character is required to split the keywords.
 
 For a search using colons, there's no workaround.
-
-
 
 
