@@ -2,8 +2,8 @@
 title: O checkout cancela a transação após a criação
 slug: o-checkout-cancela-a-transacao-apos-a-criacao
 status: PUBLISHED
-createdAt: 2025-10-15T10:02:01.387Z
-updatedAt: 2025-10-15T10:02:01.387Z
+createdAt: 2025-10-16T17:29:05.164Z
+updatedAt: 2025-10-16T17:29:05.164Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -33,12 +33,12 @@ Isso acontece quando o método `newGatewayCallback` é acionado em dois pontos d
 1. **Durante o estágio de processamento do pedido** - quando o ponto final `gatewayCallback/{orderGroup}` é chamado.
 2. **Após a autorização do pagamento** - quando o ponto final `gatewayCallback/{orderGroup}/{messageCode}` é chamado.
 
-Em ambos os casos, o `newGatewayCallback` executa uma solicitação ao gateway de pagamento. Se o gateway demorar muito para responder, o mesmo tipo de erro de tempo limite pode ocorrer em qualquer cenário.
+Em ambos os casos, o `newGatewayCallback` executa uma solicitação para o gateway de pagamento. Se o gateway demorar muito para responder, o mesmo tipo de erro de tempo limite pode ocorrer em qualquer cenário.
 
 Para esclarecer melhor:
 
 
-- A primeira chamada é uma **POST request** para `gatewayCallback`, que ocorre logo após o usuário concluir o processo de checkout.
+- A primeira chamada é uma solicitação **POST** para `gatewayCallback`, que ocorre logo após o usuário concluir o processo de checkout.
 - A segunda chamada é uma solicitação **GET** para `gatewayCallback`, que é acionada durante a confirmação do pagamento - é quando o comprador é redirecionado para a tela "Order Placed".
 
 ## Simulação
