@@ -126,6 +126,11 @@
   },
   {
     "locale": "en",
+    "slug": "b2b-orders-history-considers-sales-representative-roles-when-impersonating-an-user",
+    "internalReference": 1183376
+  },
+  {
+    "locale": "en",
     "slug": "b2b-orders-history-doesnt-work-in-the-website-domain",
     "internalReference": 849394
   },
@@ -7793,6 +7798,11 @@
     "locale": "es",
     "slug": "el-historial-de-pedidos-b2b-no-funciona-en-el-dominio-web",
     "internalReference": 849394
+  },
+  {
+    "locale": "es",
+    "slug": "el-historial-de-pedidos-b2b-tiene-en-cuenta-los-roles-de-representante-de-ventas-al-suplantar-a-un-usuario",
+    "internalReference": 1183376
   },
   {
     "locale": "es",
@@ -15603,6 +15613,11 @@
     "locale": "pt",
     "slug": "o-filtro-search-organization-nao-esta-sendo-aplicado-apos-a-alteracao-da-organizacao-no-frontend-da-loja",
     "internalReference": 1168794
+  },
+  {
+    "locale": "pt",
+    "slug": "o-historico-de-pedidos-b2b-considera-as-funcoes-de-representante-de-vendas-ao-se-passar-por-um-usuario",
+    "internalReference": 1183376
   },
   {
     "locale": "pt",
