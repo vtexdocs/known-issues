@@ -3671,6 +3671,11 @@
   },
   {
     "locale": "en",
+    "slug": "changing-synonyms-from-unidirectional-to-bidirectional-does-not-work",
+    "internalReference": 1149205
+  },
+  {
+    "locale": "en",
     "slug": "clear-filter-button-doesnt-handle-multiple-filters-correctly",
     "internalReference": 960905
   },
@@ -4193,6 +4198,11 @@
     "locale": "en",
     "slug": "logistics-simulator-is-showing-default-currency-instead-of-local-currency",
     "internalReference": 514551
+  },
+  {
+    "locale": "en",
+    "slug": "minimum-of-items-can-be-sent-as-0-through-the-field-numberofitemspershipment-in-api",
+    "internalReference": 1149818
   },
   {
     "locale": "en",
@@ -11116,6 +11126,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-cambio-de-sinonimos-de-unidireccional-a-bidireccional-no-funciona",
+    "internalReference": 1149205
+  },
+  {
+    "locale": "es",
     "slug": "el-evento-productclick-no-se-activa-en-la-barra-de-busqueda",
     "internalReference": 742754
   },
@@ -11583,6 +11598,11 @@
     "locale": "es",
     "slug": "el-mercado-externo-fob-integra-un-pedido-codigo-erro-fmt010",
     "internalReference": 532377
+  },
+  {
+    "locale": "es",
+    "slug": "el-minimo-de-articulos-se-puede-enviar-como-0-a-traves-del-campo-numberofitemspershipment-en-api",
+    "internalReference": 1149818
   },
   {
     "locale": "es",
@@ -18506,6 +18526,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-alteracao-de-sinonimos-de-unidirecional-para-bidirecional-nao-funciona",
+    "internalReference": 1149205
+  },
+  {
+    "locale": "pt",
     "slug": "a-api-de-sugestao-de-preenchimento-automatico-remove-o-ponto-do-nome-do-produto",
     "internalReference": 1014701
   },
@@ -19133,6 +19158,11 @@
     "locale": "pt",
     "slug": "o-feriado-nao-e-mostrado-na-lista-depois-de-usar-o-api-para-criar-put",
     "internalReference": 571040
+  },
+  {
+    "locale": "pt",
+    "slug": "o-minimo-de-itens-pode-ser-enviado-como-0-por-meio-do-campo-numberofitemspershipment-na-api",
+    "internalReference": 1149818
   },
   {
     "locale": "pt",
