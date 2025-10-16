@@ -81,6 +81,11 @@
   },
   {
     "locale": "en",
+    "slug": "external-clients-are-receiving-301-erros-when-trying-to-access-vteximg",
+    "internalReference": 1150100
+  },
+  {
+    "locale": "en",
     "slug": "issue-with-node-version-compatibility",
     "internalReference": 1256617
   },
@@ -6801,6 +6806,11 @@
   },
   {
     "locale": "en",
+    "slug": "error-504-in-audit-ui-when-adding-filter-that-returns-special-characters",
+    "internalReference": 1151566
+  },
+  {
+    "locale": "en",
     "slug": "error-exporting-entity-with-too-many-documents",
     "internalReference": 857894
   },
@@ -7488,6 +7498,11 @@
     "locale": "es",
     "slug": "la-configuracion-de-la-aplicacion-no-se-borra-al-eliminarla",
     "internalReference": 1065954
+  },
+  {
+    "locale": "es",
+    "slug": "los-clientes-externos-reciben-301-errores-al-intentar-acceder-a-vteximg",
+    "internalReference": 1150100
   },
   {
     "locale": "es",
@@ -14286,6 +14301,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-504-en-audit-ui-al-anadir-un-filtro-que-devuelve-caracteres-especiales",
+    "internalReference": 1151566
+  },
+  {
+    "locale": "es",
     "slug": "error-al-alcanzar-paginas-superiores-a-333-en-una-lista-de-entidades-mas-de-10000-documentos",
     "internalReference": 334407
   },
@@ -14983,6 +15003,11 @@
     "locale": "pt",
     "slug": "o-vbase-responde-404-para-vtexpagesgraphql",
     "internalReference": 822031
+  },
+  {
+    "locale": "pt",
+    "slug": "os-clientes-externos-estao-recebendo-301-erros-ao-tentar-acessar-o-vteximg",
+    "internalReference": 1150100
   },
   {
     "locale": "pt",
@@ -21773,6 +21798,11 @@
     "locale": "pt",
     "slug": "comentario-o-campo-vtexcrm-nao-esta-mostrando-seu-conteudo",
     "internalReference": 565919
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-504-na-interface-de-auditoria-ao-adicionar-um-filtro-que-retorna-caracteres-especiais",
+    "internalReference": 1151566
   },
   {
     "locale": "pt",
