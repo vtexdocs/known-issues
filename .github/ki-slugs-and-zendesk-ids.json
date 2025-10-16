@@ -1151,6 +1151,11 @@
   },
   {
     "locale": "en",
+    "slug": "kit-price-deletion-not-working",
+    "internalReference": 1234002
+  },
+  {
+    "locale": "en",
     "slug": "kit-weight-can-be-overritten-by-apiwebservice",
     "internalReference": 429993
   },
@@ -9016,6 +9021,11 @@
   },
   {
     "locale": "es",
+    "slug": "kit-price-deletion-no-funciona",
+    "internalReference": 1234002
+  },
+  {
+    "locale": "es",
     "slug": "la-actualizacion-de-archivos-sku-no-actualiza-las-etiquetas-de-version-v",
     "internalReference": 852869
   },
@@ -16663,6 +16673,11 @@
     "locale": "pt",
     "slug": "a-entrega-de-kits-nao-e-permitida-se-o-produto-tiver-um-modal-configurado",
     "internalReference": 296045
+  },
+  {
+    "locale": "pt",
+    "slug": "a-exclusao-de-preco-do-kit-nao-esta-funcionando",
+    "internalReference": 1234002
   },
   {
     "locale": "pt",
