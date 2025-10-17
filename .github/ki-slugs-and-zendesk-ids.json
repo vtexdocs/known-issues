@@ -561,6 +561,11 @@
   },
   {
     "locale": "en",
+    "slug": "attachents-api-doesnt-allow-null-domainvalues-and-it-should",
+    "internalReference": 897480
+  },
+  {
+    "locale": "en",
     "slug": "attachment-list-on-sku-ui-can-lead-to-timeouts",
     "internalReference": 1133468
   },
@@ -1376,6 +1381,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-name-contains-search-with-more-than-one-term-doesnt-work-on-catalogs-redesigned-ui",
+    "internalReference": 1044571
+  },
+  {
+    "locale": "en",
     "slug": "product-name-field-on-xml-returns-product-name-sku-name-when-the-product-has-only-1-sku",
     "internalReference": 661089
   },
@@ -1638,6 +1648,11 @@
     "locale": "en",
     "slug": "switching-seller-types-do-not-trigger-an-indexing",
     "internalReference": 1242193
+  },
+  {
+    "locale": "en",
+    "slug": "telesales-search-doesnt-accept-special-characters-aside-from",
+    "internalReference": 1072418
   },
   {
     "locale": "en",
@@ -2233,6 +2248,11 @@
     "locale": "en",
     "slug": "gift-items-throws-a-generic-exception-if-it-has-no-price",
     "internalReference": 510490
+  },
+  {
+    "locale": "en",
+    "slug": "go-to-payment-button-doesnt-work-in-delivery-split-when-switching-between-delivery-and-pick-up-options",
+    "internalReference": 756587
   },
   {
     "locale": "en",
@@ -4166,6 +4186,11 @@
   },
   {
     "locale": "en",
+    "slug": "prioritization-by-products-keyword-not-considering-stopwords",
+    "internalReference": 1041743
+  },
+  {
+    "locale": "en",
     "slug": "product-highlights-doesnt-work-into-a-product-list",
     "internalReference": 546844
   },
@@ -4718,6 +4743,11 @@
     "locale": "en",
     "slug": "fullcleanup-on-sellers-does-not-work-if-the-account-has-seller-groups-on-seller-management",
     "internalReference": 922541
+  },
+  {
+    "locale": "en",
+    "slug": "get-all-sku-suggestions-api-doesnt-keep-same-sku-order-when-changing-limits",
+    "internalReference": 367187
   },
   {
     "locale": "en",
