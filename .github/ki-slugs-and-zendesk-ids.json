@@ -6106,6 +6106,11 @@
   },
   {
     "locale": "en",
+    "slug": "payment-stuck-after-early-cancellation-request-during-settling",
+    "internalReference": 1309799
+  },
+  {
+    "locale": "en",
     "slug": "payments-gateway-does-not-correctly-send-subaccount-information-in-the-payload-to-the-connector",
     "internalReference": 801012
   },
@@ -14171,6 +14176,11 @@
   },
   {
     "locale": "es",
+    "slug": "pago-bloqueado-tras-solicitud-de-cancelacion-anticipada-durante-la-liquidacion",
+    "internalReference": 1309799
+  },
+  {
+    "locale": "es",
     "slug": "pago-recibido-con-transaccion-aprobada",
     "internalReference": 1174379
   },
@@ -22128,6 +22138,11 @@
     "locale": "pt",
     "slug": "os-usuarios-nao-podem-acessar-as-configuracoes-de-credito-do-cliente-ui-no-admin-devido-a-um-erro-proibido",
     "internalReference": 380931
+  },
+  {
+    "locale": "pt",
+    "slug": "pagamento-bloqueado-apos-solicitacao-de-cancelamento-antecipado-durante-a-liquidacao",
+    "internalReference": 1309799
   },
   {
     "locale": "pt",
