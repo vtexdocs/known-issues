@@ -3026,6 +3026,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-listing-returns-code-13013-preventing-sku-creation",
+    "internalReference": 1309398
+  },
+  {
+    "locale": "en",
     "slug": "amazon-object-reference-not-set-to-an-instance-of-an-object",
     "internalReference": 482173
   },
@@ -10903,6 +10908,11 @@
     "locale": "es",
     "slug": "amazon-la-referencia-a-un-objeto-no-es-una-instancia-de-un-objeto",
     "internalReference": 482173
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-listado-codigo-de-devolucion-13013-que-impide-la-creacion-de-sku",
+    "internalReference": 1309398
   },
   {
     "locale": "es",
@@ -18863,6 +18873,11 @@
     "locale": "pt",
     "slug": "amazon-listagem-atributo-obrigatorio-nao-renderizado-na-interface-do-usuario-da-listagem-da-amazon-impede-o-envio-de-produtos",
     "internalReference": 1307340
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-listagem-codigo-de-devolucao-13013-impedindo-a-criacao-de-sku",
+    "internalReference": 1309398
   },
   {
     "locale": "pt",
