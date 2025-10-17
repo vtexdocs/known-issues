@@ -2,8 +2,8 @@
 title: Pagamento bloqueado após solicitação de cancelamento antecipado durante a liquidação
 slug: pagamento-bloqueado-apos-solicitacao-de-cancelamento-antecipado-durante-a-liquidacao
 status: PUBLISHED
-createdAt: 2025-10-17T19:12:05.454Z
-updatedAt: 2025-10-17T19:12:05.454Z
+createdAt: 2025-10-17T19:12:27.212Z
+updatedAt: 2025-10-17T19:12:27.212Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
