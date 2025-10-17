@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry
 locale: en
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1300974
 ---
 

@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: my-credits-displays-agents-balance-not-customers-during-telesales-impersonation
 locale: pt
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1301293
 ---
 

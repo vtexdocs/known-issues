@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: import-file-for-customer-credit-invoices-stuck-in-loading
 locale: es
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1289897
 ---
 

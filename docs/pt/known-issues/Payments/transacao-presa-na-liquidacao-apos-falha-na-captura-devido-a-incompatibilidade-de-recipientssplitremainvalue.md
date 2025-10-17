@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transaction-stuck-in-settling-after-capture-fails-due-to-recipientssplitremainvalue-mismatch
 locale: pt
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1295769
 ---
 

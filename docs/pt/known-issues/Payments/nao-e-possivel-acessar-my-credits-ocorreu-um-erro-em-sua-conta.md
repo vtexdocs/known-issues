@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: unable-to-access-my-credits-an-error-occurred-in-your-account
 locale: pt
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1287291
 ---
 

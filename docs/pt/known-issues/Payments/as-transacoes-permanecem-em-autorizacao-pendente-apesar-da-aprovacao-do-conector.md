@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transactions-remain-in-pending-authorization-despite-connector-approval
 locale: pt
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1302349
 ---
 

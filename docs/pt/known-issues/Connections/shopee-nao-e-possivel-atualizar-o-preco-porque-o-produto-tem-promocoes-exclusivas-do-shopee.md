@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: shopee-cannot-update-price-because-the-product-has-shopeeexclusive-promotions
 locale: pt
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1294478
 ---
 

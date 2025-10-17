@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Physical Stores
 slugEN: lost-reasons-not-ordered-on-indeva-page
 locale: es
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1293176
 ---
 
