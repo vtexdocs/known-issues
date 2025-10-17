@@ -1,5 +1,5 @@
 ---
-title: "Product Specification" filter on Collection Module assuming incorrect values
+title: '"Product Specification" filter on Collection Module assuming incorrect values'
 slug: product-specification-filter-on-collection-module-assuming-incorrect-values
 status: PUBLISHED
 createdAt: 2025-09-03T14:10:27.935Z

@@ -1,5 +1,5 @@
 ---
-title: A exportação de estoque não funciona para uma base de sku muito grande (StatusCode: 429)
+title: 'A exportação de estoque não funciona para uma base de sku muito grande (StatusCode: 429)'
 slug: a-exportacao-de-estoque-nao-funciona-para-uma-base-de-sku-muito-grande-statuscode-429
 status: PUBLISHED
 createdAt: 2025-10-16T20:36:10.184Z

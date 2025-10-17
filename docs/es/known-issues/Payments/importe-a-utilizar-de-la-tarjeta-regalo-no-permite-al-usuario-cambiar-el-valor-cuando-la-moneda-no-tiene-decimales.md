@@ -1,5 +1,5 @@
 ---
-title: "Importe a utilizar" de la tarjeta regalo no permite al usuario cambiar el valor cuando la moneda no tiene decimales
+title: '"Importe a utilizar" de la tarjeta regalo no permite al usuario cambiar el valor cuando la moneda no tiene decimales'
 slug: importe-a-utilizar-de-la-tarjeta-regalo-no-permite-al-usuario-cambiar-el-valor-cuando-la-moneda-no-tiene-decimales
 status: PUBLISHED
 createdAt: 2025-10-16T20:52:47.362Z

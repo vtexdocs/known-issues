@@ -1,5 +1,5 @@
 ---
-title: "Amount to use" from Gift card does not allow user to change the value when the currency doesn't have decimals
+title: "'Amount to use' from Gift card does not allow user to change the value when the currency doesn't have decimals"
 slug: amount-to-use-from-gift-card-does-not-allow-user-to-change-the-value-when-the-currency-doesnt-have-decimals
 status: PUBLISHED
 createdAt: 2025-10-16T20:52:44.557Z

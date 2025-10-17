@@ -1,5 +1,5 @@
 ---
-title: "Erro ao listar as dependências do espaço de trabalho" ao tentar acessar uma conta
+title: '"Erro ao listar as dependências do espaço de trabalho" ao tentar acessar uma conta'
 slug: erro-ao-listar-as-dependencias-do-espaco-de-trabalho-ao-tentar-acessar-uma-conta
 status: PUBLISHED
 createdAt: 2025-07-24T17:35:48.130Z

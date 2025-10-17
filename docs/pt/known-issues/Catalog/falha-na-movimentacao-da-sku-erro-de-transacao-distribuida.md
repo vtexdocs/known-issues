@@ -1,5 +1,5 @@
 ---
-title: Falha na movimentação da SKU: Erro de transação distribuída
+title: 'Falha na movimentação da SKU: Erro de transação distribuída'
 slug: falha-na-movimentacao-da-sku-erro-de-transacao-distribuida
 status: PUBLISHED
 createdAt: 2025-09-29T13:14:48.897Z

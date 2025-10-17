@@ -1,5 +1,5 @@
 ---
-title: "See error" button doesn't show anything on collections module for generic errors
+title: '"See error" button doesn''t show anything on collections module for generic errors'
 slug: see-error-button-doesnt-show-anything-on-collections-module-for-generic-errors
 status: PUBLISHED
 createdAt: 2025-10-16T20:39:15.146Z

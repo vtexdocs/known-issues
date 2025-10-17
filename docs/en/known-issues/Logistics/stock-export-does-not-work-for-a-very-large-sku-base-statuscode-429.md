@@ -1,5 +1,5 @@
 ---
-title: Stock export does not work for a very large sku base (StatusCode: 429)
+title: 'Stock export does not work for a very large sku base (StatusCode: 429)'
 slug: stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429
 status: PUBLISHED
 createdAt: 2025-10-16T20:36:13.059Z

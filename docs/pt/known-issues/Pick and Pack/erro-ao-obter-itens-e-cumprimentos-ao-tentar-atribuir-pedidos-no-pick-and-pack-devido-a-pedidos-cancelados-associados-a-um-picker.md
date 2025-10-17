@@ -1,5 +1,5 @@
 ---
-title: "Erro ao obter itens e cumprimentos" ao tentar atribuir pedidos no Pick and Pack devido a pedidos cancelados associados a um Picker
+title: '"Erro ao obter itens e cumprimentos ao tentar atribuir pedidos no Pick and Pack devido a pedidos cancelados associados a um Picker'
 slug: erro-ao-obter-itens-e-cumprimentos-ao-tentar-atribuir-pedidos-no-pick-and-pack-devido-a-pedidos-cancelados-associados-a-um-picker
 status: PUBLISHED
 createdAt: 2025-07-24T17:48:52.958Z

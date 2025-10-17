@@ -1,5 +1,5 @@
 ---
-title: Mercado Livre "Es necesario crear los siguientes atributos para configurar me2: ''nombre del atributo".
+title: 'Mercado Livre "Es necesario crear los siguientes atributos para configurar me2: nombre del atributo".'
 slug: mercado-livre-es-necesario-crear-los-siguientes-atributos-para-configurar-me2-nombre-del-atributo
 status: PUBLISHED
 createdAt: 2025-10-16T19:26:38.164Z

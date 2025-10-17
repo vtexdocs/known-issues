@@ -1,5 +1,5 @@
 ---
-title: "isBillingAddressDifferent": false when it should be true in a first buy as pick-up point
+title: '"isBillingAddressDifferent": false when it should be true in a first buy as pick-up point'
 slug: isbillingaddressdifferent-false-when-it-should-be-true-in-a-first-buy-as-pickup-point
 status: PUBLISHED
 createdAt: 2025-10-16T20:38:06.319Z

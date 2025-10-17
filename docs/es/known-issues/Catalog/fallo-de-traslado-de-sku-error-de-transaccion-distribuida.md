@@ -1,5 +1,5 @@
 ---
-title: Fallo de traslado de SKU: Error de transacción distribuida
+title: 'Fallo de traslado de SKU: Error de transacción distribuida'
 slug: fallo-de-traslado-de-sku-error-de-transaccion-distribuida
 status: PUBLISHED
 createdAt: 2025-09-29T13:14:54.648Z

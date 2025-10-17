@@ -1,5 +1,5 @@
 ---
-title: SKU Move Failure: Distributed Transaction Error
+title: 'SKU Move Failure: Distributed Transaction Error'
 slug: sku-move-failure-distributed-transaction-error
 status: PUBLISHED
 createdAt: 2025-09-29T13:14:51.696Z
