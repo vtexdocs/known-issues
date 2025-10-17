@@ -91,6 +91,11 @@
   },
   {
     "locale": "en",
+    "slug": "error-listing-workspace-dependencies-when-trying-to-access-an-account",
+    "internalReference": 1260934
+  },
+  {
+    "locale": "en",
     "slug": "error-when-trying-to-publish-or-link-an-app",
     "internalReference": 1056882
   },
@@ -1386,6 +1391,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-specification-filter-on-collection-module-assuming-incorrect-values",
+    "internalReference": 926593
+  },
+  {
+    "locale": "en",
     "slug": "product-specification-filter-on-the-collection-module-does-not-list-root-category",
     "internalReference": 918687
   },
@@ -1481,6 +1491,11 @@
   },
   {
     "locale": "en",
+    "slug": "see-error-button-doesnt-show-anything-on-collections-module-for-generic-errors",
+    "internalReference": 1186417
+  },
+  {
+    "locale": "en",
     "slug": "selection-of-sellers-available-in-the-commercial-policy-is-not-working-properly",
     "internalReference": 515480
   },
@@ -1533,6 +1548,11 @@
     "locale": "en",
     "slug": "sku-insert-file-api-is-not-responding-with-the-text-property",
     "internalReference": 1014787
+  },
+  {
+    "locale": "en",
+    "slug": "sku-move-failure-distributed-transaction-error",
+    "internalReference": 1297799
   },
   {
     "locale": "en",
@@ -3466,6 +3486,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-the-following-attributes-need-to-be-created-to-configure-me2-attribute-name",
+    "internalReference": 1253361
+  },
+  {
+    "locale": "en",
     "slug": "mercado-livre-variation-attribute-is-duplicated-allowed-unique-attributes-combinations",
     "internalReference": 758331
   },
@@ -4586,6 +4611,11 @@
   },
   {
     "locale": "en",
+    "slug": "stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429",
+    "internalReference": 1178575
+  },
+  {
+    "locale": "en",
     "slug": "the-holiday-is-not-shown-in-the-list-after-using-the-api-to-create-put",
     "internalReference": 571040
   },
@@ -5486,6 +5516,11 @@
   },
   {
     "locale": "en",
+    "slug": "amount-to-use-from-gift-card-does-not-allow-user-to-change-the-value-when-the-currency-doesnt-have-decimals",
+    "internalReference": 339664
+  },
+  {
+    "locale": "en",
     "slug": "authorization-status-is-stuck-for-asynchronous-transactions-with-2-or-more-payments-when-the-first-one-is-canceled",
     "internalReference": 929517
   },
@@ -5736,6 +5771,11 @@
   },
   {
     "locale": "en",
+    "slug": "escalation-incomplete-billingaddress-despite-isbillingaddressdifferent-false",
+    "internalReference": 1252301
+  },
+  {
+    "locale": "en",
     "slug": "event-inconsistency",
     "internalReference": 267299
   },
@@ -5923,6 +5963,11 @@
     "locale": "en",
     "slug": "invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true",
     "internalReference": 442772
+  },
+  {
+    "locale": "en",
+    "slug": "isbillingaddressdifferent-false-when-it-should-be-true-in-a-first-buy-as-pickup-point",
+    "internalReference": 1183699
   },
   {
     "locale": "en",
@@ -6543,6 +6588,11 @@
     "locale": "en",
     "slug": "lost-reasons-not-ordered-on-indeva-page",
     "internalReference": 1293176
+  },
+  {
+    "locale": "en",
+    "slug": "processing-status-when-checking-last-orders-page",
+    "internalReference": 1199998
   },
   {
     "locale": "en",
@@ -8001,6 +8051,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-al-listar-las-dependencias-del-espacio-de-trabajo-al-intentar-acceder-a-una-cuenta",
+    "internalReference": 1260934
+  },
+  {
+    "locale": "es",
     "slug": "error-de-builderhub-al-intentar-publicar-una-aplicacion",
     "internalReference": 1262332
   },
@@ -8898,6 +8953,11 @@
     "locale": "es",
     "slug": "exportar-muchos-productossku-lleva-mucho-tiempo-y-a-veces-no-se-puede-completar-la-solicitud",
     "internalReference": 284386
+  },
+  {
+    "locale": "es",
+    "slug": "fallo-de-traslado-de-sku-error-de-transaccion-distribuida",
+    "internalReference": 1297799
   },
   {
     "locale": "es",
@@ -11381,6 +11441,11 @@
   },
   {
     "locale": "es",
+    "slug": "mercado-livre-es-necesario-crear-los-siguientes-atributos-para-configurar-me2-nombre-del-atributo",
+    "internalReference": 1253361
+  },
+  {
+    "locale": "es",
     "slug": "mercado-livre-falta-el-atributo-size",
     "internalReference": 658473
   },
@@ -12468,6 +12533,11 @@
     "locale": "es",
     "slug": "la-capacidad-de-entrega-no-se-respeta-si-hay-espacio-en-el-id-de-la-politica-de-envio",
     "internalReference": 862830
+  },
+  {
+    "locale": "es",
+    "slug": "la-exportacion-de-existencias-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
+    "internalReference": 1178575
   },
   {
     "locale": "es",
@@ -13851,6 +13921,11 @@
   },
   {
     "locale": "es",
+    "slug": "importe-a-utilizar-de-la-tarjeta-regalo-no-permite-al-usuario-cambiar-el-valor-cuando-la-moneda-no-tiene-decimales",
+    "internalReference": 339664
+  },
+  {
+    "locale": "es",
     "slug": "importes-negativos-en-los-beneficiarios-de-la-division",
     "internalReference": 388580
   },
@@ -13891,6 +13966,11 @@
   },
   {
     "locale": "es",
+    "slug": "incomplete-billingaddress-despite-isbillingaddressdifferent-false",
+    "internalReference": 1252301
+  },
+  {
+    "locale": "es",
     "slug": "incongruencia-en-las-fechas-de-vencimiento-del-boleto-bancario",
     "internalReference": 489460
   },
@@ -13903,6 +13983,11 @@
     "locale": "es",
     "slug": "inconsistencias-en-el-campo-billingaddress-enviado-a-gateway",
     "internalReference": 291688
+  },
+  {
+    "locale": "es",
+    "slug": "isbillingaddressdifferent-false-cuando-deberia-ser-true-en-una-primera-compra-como-punto-de-recogida",
+    "internalReference": 1183699
   },
   {
     "locale": "es",
@@ -14563,6 +14648,11 @@
     "locale": "es",
     "slug": "el-flujo-reemplazar-articulos-falla-para-articulos-divididos-en-recoger-y-embalar-no-se-puede-completar-el-reemplazo",
     "internalReference": 1303803
+  },
+  {
+    "locale": "es",
+    "slug": "error-get-items-and-fulfillments-al-intentar-asignar-pedidos-en-pick-and-pack-debido-a-pedidos-cancelados-asociados-a-un-picker",
+    "internalReference": 1263897
   },
   {
     "locale": "es",
@@ -15991,6 +16081,11 @@
   },
   {
     "locale": "pt",
+    "slug": "erro-ao-listar-as-dependencias-do-espaco-de-trabalho-ao-tentar-acessar-uma-conta",
+    "internalReference": 1260934
+  },
+  {
+    "locale": "pt",
     "slug": "erro-ao-tentar-publicar-ou-vincular-um-aplicativo",
     "internalReference": 1056882
   },
@@ -17108,6 +17203,11 @@
     "locale": "pt",
     "slug": "falha-ao-criar-uma-subcategoria-por-meio-do-caminho-da-categoria-com-o-mesmo-nome-de-outra-subcategoria",
     "internalReference": 1087069
+  },
+  {
+    "locale": "pt",
+    "slug": "falha-na-movimentacao-da-sku-erro-de-transacao-distribuida",
+    "internalReference": 1297799
   },
   {
     "locale": "pt",
@@ -19316,6 +19416,11 @@
   },
   {
     "locale": "pt",
+    "slug": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-nome-do-atributo",
+    "internalReference": 1253361
+  },
+  {
+    "locale": "pt",
     "slug": "mercado-livre-remover-a-validacao-underreview-em-atualizar-sku",
     "internalReference": 890658
   },
@@ -19498,6 +19603,11 @@
     "locale": "pt",
     "slug": "shopee-erro-o-modelid-esta-errado-ou-nao-esta-relacionado-a-este-item",
     "internalReference": 1292317
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-erro-o-nivel-de-variacao-do-item-nao-e-o-mesmo-ao-atualizar-produtos-migrados",
+    "internalReference": 1284853
   },
   {
     "locale": "pt",
@@ -20353,6 +20463,11 @@
     "locale": "pt",
     "slug": "a-capacidade-de-entrega-nao-e-respeitada-se-houver-espaco-no-id-da-politica-de-remessa",
     "internalReference": 862830
+  },
+  {
+    "locale": "pt",
+    "slug": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-sku-muito-grande-statuscode-429",
+    "internalReference": 1178575
   },
   {
     "locale": "pt",
@@ -21861,6 +21976,11 @@
   },
   {
     "locale": "pt",
+    "slug": "escalonamento-incomplete-billingaddress-apesar-de-isbillingaddressdifferent-false",
+    "internalReference": 1252301
+  },
+  {
+    "locale": "pt",
     "slug": "falha-no-cancelamento-ppp-quando-o-cancelamentoidnulo",
     "internalReference": 333897
   },
@@ -21963,6 +22083,11 @@
     "locale": "pt",
     "slug": "inconsistencias-no-campo-billingaddress-enviado-ao-gateway",
     "internalReference": 291688
+  },
+  {
+    "locale": "pt",
+    "slug": "isbillingaddressdifferent-falso-quando-deveria-ser-verdadeiro-em-uma-primeira-compra-como-ponto-de-coleta",
+    "internalReference": 1183699
   },
   {
     "locale": "pt",
@@ -22553,6 +22678,11 @@
     "locale": "pt",
     "slug": "ausencia-de-feedback-para-falhas-na-alteracao-de-pedidos-no-pick-and-pack-comunicacao-com-o-oms",
     "internalReference": 1275957
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-ao-obter-itens-e-cumprimentos-ao-tentar-atribuir-pedidos-no-pick-and-pack-devido-a-pedidos-cancelados-associados-a-um-picker",
+    "internalReference": 1263897
   },
   {
     "locale": "pt",
