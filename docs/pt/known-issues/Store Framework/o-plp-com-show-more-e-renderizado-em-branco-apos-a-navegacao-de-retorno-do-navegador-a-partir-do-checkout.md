@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: plp-with-show-more-renders-blank-after-browser-back-navigation-from-checkout
 locale: pt
-kiStatus: -
+kiStatus: Unknown
 internalReference: 1301762
 ---
 
