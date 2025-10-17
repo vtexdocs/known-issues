@@ -6396,6 +6396,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
+    "internalReference": 1309418
+  },
+  {
+    "locale": "en",
     "slug": "transactions-with-konduto-are-taking-longer-than-expected-to-update-status",
     "internalReference": 541149
   },
@@ -14016,6 +14021,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-se-atascan-en-cancelando-y-los-pagos-permanecen-en-autorizado",
+    "internalReference": 1309418
+  },
+  {
+    "locale": "es",
     "slug": "limitaciones-del-campo-isvaluechangeable-para-transacciones-con-valor-minimo-de-001",
     "internalReference": 825122
   },
@@ -21503,6 +21513,11 @@
     "locale": "pt",
     "slug": "as-transacoes-feitas-com-payu-nao-mudam-do-status-de-cancelamento",
     "internalReference": 338124
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizados",
+    "internalReference": 1309418
   },
   {
     "locale": "pt",
