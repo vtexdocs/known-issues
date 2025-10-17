@@ -3511,6 +3511,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-cannot-update-price-because-the-product-has-shopeeexclusive-promotions",
+    "internalReference": 1294478
+  },
+  {
+    "locale": "en",
     "slug": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
     "internalReference": 1227978
   },
@@ -5476,6 +5481,11 @@
   },
   {
     "locale": "en",
+    "slug": "affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry",
+    "internalReference": 1300974
+  },
+  {
+    "locale": "en",
     "slug": "authorization-status-is-stuck-for-asynchronous-transactions-with-2-or-more-payments-when-the-first-one-is-canceled",
     "internalReference": 929517
   },
@@ -5821,6 +5831,11 @@
   },
   {
     "locale": "en",
+    "slug": "import-file-for-customer-credit-invoices-stuck-in-loading",
+    "internalReference": 1289897
+  },
+  {
+    "locale": "en",
     "slug": "impossibility-to-cancel-transactions-with-adyen-due-to-lack-of-pspreference",
     "internalReference": 506914
   },
@@ -6001,6 +6016,11 @@
   },
   {
     "locale": "en",
+    "slug": "my-credits-displays-agents-balance-not-customers-during-telesales-impersonation",
+    "internalReference": 1301293
+  },
+  {
+    "locale": "en",
     "slug": "my-credits-doesnt-show-the-paymentlink-invoice-even-if-the-field-is-set",
     "internalReference": 546267
   },
@@ -6098,6 +6118,11 @@
     "locale": "en",
     "slug": "payment-received-while-transaction-approved",
     "internalReference": 1174379
+  },
+  {
+    "locale": "en",
+    "slug": "payment-rule-requiresauthentication-attribute-is-ignored-by-gateway-cannot-be-enforcedoverridden-via-api",
+    "internalReference": 1301482
   },
   {
     "locale": "en",
@@ -6366,6 +6391,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-stuck-in-settling-after-capture-fails-due-to-recipientssplitremainvalue-mismatch",
+    "internalReference": 1295769
+  },
+  {
+    "locale": "en",
     "slug": "transaction-stuck-in-status-approved-with-payment-canceled",
     "internalReference": 1046365
   },
@@ -6396,6 +6426,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-remain-in-pending-authorization-despite-connector-approval",
+    "internalReference": 1302349
+  },
+  {
+    "locale": "en",
     "slug": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
     "internalReference": 1304667
   },
@@ -6413,6 +6448,11 @@
     "locale": "en",
     "slug": "transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds",
     "internalReference": 541687
+  },
+  {
+    "locale": "en",
+    "slug": "unable-to-access-my-credits-an-error-occurred-in-your-account",
+    "internalReference": 1287291
   },
   {
     "locale": "en",
@@ -6498,6 +6538,11 @@
     "locale": "en",
     "slug": "instore-does-not-read-properly-the-html-registred-in-the-product-information",
     "internalReference": 718136
+  },
+  {
+    "locale": "en",
+    "slug": "lost-reasons-not-ordered-on-indeva-page",
+    "internalReference": 1293176
   },
   {
     "locale": "en",
@@ -7583,6 +7628,11 @@
     "locale": "en",
     "slug": "platform-timeout-errors",
     "internalReference": 1051070
+  },
+  {
+    "locale": "en",
+    "slug": "plp-with-show-more-renders-blank-after-browser-back-navigation-from-checkout",
+    "internalReference": 1301762
   },
   {
     "locale": "en",
@@ -11461,6 +11511,11 @@
   },
   {
     "locale": "es",
+    "slug": "shopee-no-se-puede-actualizar-el-precio-porque-el-producto-tiene-promociones-exclusivas-de-shopee",
+    "internalReference": 1294478
+  },
+  {
+    "locale": "es",
     "slug": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
     "internalReference": 1227978
   },
@@ -13411,8 +13466,18 @@
   },
   {
     "locale": "es",
+    "slug": "afiliacion-creada-en-subcuenta-no-listada-en-admin",
+    "internalReference": 1300974
+  },
+  {
+    "locale": "es",
     "slug": "al-intentar-configurar-el-antifraude-de-braspag-el-usuario-es-dirigido-a-la-pantalla-de-afiliacion-de-braspag",
     "internalReference": 334239
+  },
+  {
+    "locale": "es",
+    "slug": "archivo-de-importacion-de-facturas-de-credito-de-clientes-atascado-en-la-carga",
+    "internalReference": 1289897
   },
   {
     "locale": "es",
@@ -13483,6 +13548,11 @@
     "locale": "es",
     "slug": "el-analisis-de-riesgos-se-cancela-antes-de-lo-previsto-debido-al-limite-fijo-de-reintentos",
     "internalReference": 1282965
+  },
+  {
+    "locale": "es",
+    "slug": "el-atributo-requiresauthentication-de-la-regla-de-pago-es-ignorado-por-la-pasarela-no-puede-aplicarseanularse-a-traves-de-la-api",
+    "internalReference": 1301482
   },
   {
     "locale": "es",
@@ -14021,6 +14091,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-permanecen-pendientes-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
+    "internalReference": 1302349
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-realizadas-con-payu-no-cambian-de-estado-de-cancelacion",
     "internalReference": 338124
   },
@@ -14126,6 +14201,11 @@
   },
   {
     "locale": "es",
+    "slug": "my-credits-muestra-el-saldo-del-agente-no-el-del-cliente-durante-la-suplantacion-de-televenta",
+    "internalReference": 1301293
+  },
+  {
+    "locale": "es",
     "slug": "mycredits-tiene-un-error-al-acceder-desde-una-cuenta-dependiente",
     "internalReference": 367276
   },
@@ -14148,6 +14228,11 @@
     "locale": "es",
     "slug": "no-se-puede-acceder-a-la-cuenta-de-pago-vtex",
     "internalReference": 550244
+  },
+  {
+    "locale": "es",
+    "slug": "no-se-puede-acceder-a-mis-creditos-se-ha-producido-un-error-en-su-cuenta",
+    "internalReference": 1287291
   },
   {
     "locale": "es",
@@ -14351,6 +14436,11 @@
   },
   {
     "locale": "es",
+    "slug": "transaccion-bloqueada-en-liquidacion-tras-fallo-de-captura-debido-a-una-falta-de-coincidencia-de-recipientssplitremainvalue",
+    "internalReference": 1295769
+  },
+  {
+    "locale": "es",
     "slug": "transaccion-cancelada-por-tiempo-de-espera-timeout-no-request-para-o-sistema-de-parcelamento",
     "internalReference": 533844
   },
@@ -14453,6 +14543,11 @@
     "locale": "es",
     "slug": "pedido-de-comercio-electronico-con-etiquetas-de-aplicacion-de-ventas",
     "internalReference": 1175985
+  },
+  {
+    "locale": "es",
+    "slug": "razones-perdidas-no-ordenadas-en-la-pagina-indeva",
+    "internalReference": 1293176
   },
   {
     "locale": "es",
@@ -15683,6 +15778,11 @@
     "locale": "es",
     "slug": "pdp-no-carga-cuando-se-pasan-caracteres-especiales-en-el-enlace",
     "internalReference": 770893
+  },
+  {
+    "locale": "es",
+    "slug": "plp-con-mostrar-mas-se-muestra-en-blanco-despues-de-la-navegacion-de-vuelta-de-checkout",
+    "internalReference": 1301762
   },
   {
     "locale": "es",
@@ -19401,6 +19501,11 @@
   },
   {
     "locale": "pt",
+    "slug": "shopee-nao-e-possivel-atualizar-o-preco-porque-o-produto-tem-promocoes-exclusivas-do-shopee",
+    "internalReference": 1294478
+  },
+  {
+    "locale": "pt",
     "slug": "shopee-o-nivel-de-variacao-de-nivel-nao-muda",
     "internalReference": 1262367
   },
@@ -21451,6 +21556,11 @@
   },
   {
     "locale": "pt",
+    "slug": "afiliacao-criada-na-subconta-nao-listada-no-admin",
+    "internalReference": 1300974
+  },
+  {
+    "locale": "pt",
     "slug": "alterar-o-numero-de-caracteres-no-boletim-da-braspag",
     "internalReference": 771045
   },
@@ -21463,6 +21573,11 @@
     "locale": "pt",
     "slug": "ao-tentar-configurar-a-braspag-antifraude-o-usuario-e-direcionado-para-a-tela-de-afiliacao-da-braspag",
     "internalReference": 334239
+  },
+  {
+    "locale": "pt",
+    "slug": "arquivo-de-importacao-de-faturas-de-credito-de-clientes-travado-no-carregamento",
+    "internalReference": 1289897
   },
   {
     "locale": "pt",
@@ -21528,6 +21643,11 @@
     "locale": "pt",
     "slug": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizados",
     "internalReference": 1309418
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-permanecem-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
+    "internalReference": 1302349
   },
   {
     "locale": "pt",
@@ -21891,8 +22011,18 @@
   },
   {
     "locale": "pt",
+    "slug": "my-credits-exibe-o-saldo-do-agente-nao-o-do-cliente-durante-a-personificacao-de-televendas",
+    "internalReference": 1301293
+  },
+  {
+    "locale": "pt",
     "slug": "mycredits-tem-um-erro-ao-acessar-de-uma-conta-dependente",
     "internalReference": 367276
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-acessar-my-credits-ocorreu-um-erro-em-sua-conta",
+    "internalReference": 1287291
   },
   {
     "locale": "pt",
@@ -21933,6 +22063,11 @@
     "locale": "pt",
     "slug": "o-aplicativo-clustered-payment-conditions-app-esta-causando-problemas-de-sincronizacao-das-regras-de-pagamento",
     "internalReference": 391569
+  },
+  {
+    "locale": "pt",
+    "slug": "o-atributo-requiresauthentication-da-regra-de-pagamento-e-ignorado-pelo-gateway-nao-pode-ser-impostosubstituido-via-api",
+    "internalReference": 1301482
   },
   {
     "locale": "pt",
@@ -22321,6 +22456,11 @@
   },
   {
     "locale": "pt",
+    "slug": "transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-de-recipientssplitremainvalue",
+    "internalReference": 1295769
+  },
+  {
+    "locale": "pt",
     "slug": "transacao-presa-no-status-aprovado-com-pagamento-cancelado",
     "internalReference": 1046365
   },
@@ -22378,6 +22518,11 @@
     "locale": "pt",
     "slug": "configuracao-de-digitos-decimais-ignorados",
     "internalReference": 1191382
+  },
+  {
+    "locale": "pt",
+    "slug": "motivos-de-perda-nao-solicitados-na-pagina-do-indeva",
+    "internalReference": 1293176
   },
   {
     "locale": "pt",
@@ -23523,6 +23668,11 @@
     "locale": "pt",
     "slug": "o-pdp-nao-carrega-quando-caracteres-especiais-sao-passados-no-link",
     "internalReference": 770893
+  },
+  {
+    "locale": "pt",
+    "slug": "o-plp-com-show-more-e-renderizado-em-branco-apos-a-navegacao-de-retorno-do-navegador-a-partir-do-checkout",
+    "internalReference": 1301762
   },
   {
     "locale": "pt",
