@@ -1,5 +1,5 @@
 ---
-title: "Processing" status when checking last orders page
+title: '"Processing" status when checking last orders page'
 slug: processing-status-when-checking-last-orders-page
 status: PUBLISHED
 createdAt: 2025-10-16T20:43:28.019Z

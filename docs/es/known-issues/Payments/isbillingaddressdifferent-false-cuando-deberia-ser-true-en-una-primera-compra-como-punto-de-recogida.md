@@ -1,5 +1,5 @@
 ---
-title: "isBillingAddressDifferent": false cuando debería ser true en una primera compra como punto de recogida.
+title: '"isBillingAddressDifferent": false cuando debería ser true en una primera compra como punto de recogida.'
 slug: isbillingaddressdifferent-false-cuando-deberia-ser-true-en-una-primera-compra-como-punto-de-recogida
 status: PUBLISHED
 createdAt: 2025-10-16T20:38:08.861Z

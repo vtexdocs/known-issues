@@ -1,5 +1,5 @@
 ---
-title: "Error get items and fulfillments" al intentar asignar pedidos en Pick and Pack debido a pedidos cancelados asociados a un Picker.
+title: '"Error get items and fulfillments" al intentar asignar pedidos en Pick and Pack debido a pedidos cancelados asociados a un Picker.'
 slug: error-get-items-and-fulfillments-al-intentar-asignar-pedidos-en-pick-and-pack-debido-a-pedidos-cancelados-asociados-a-un-picker
 status: PUBLISHED
 createdAt: 2025-07-24T17:49:06.111Z

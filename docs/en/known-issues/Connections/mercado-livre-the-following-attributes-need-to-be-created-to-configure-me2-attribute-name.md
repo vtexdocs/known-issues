@@ -1,5 +1,5 @@
 ---
-title: Mercado Livre "The following attributes need to be created to configure me2: ''attribute name."
+title: 'Mercado Livre "The following attributes need to be created to configure me2: attribute name."'
 slug: mercado-livre-the-following-attributes-need-to-be-created-to-configure-me2-attribute-name
 status: PUBLISHED
 createdAt: 2025-10-16T19:26:28.013Z
