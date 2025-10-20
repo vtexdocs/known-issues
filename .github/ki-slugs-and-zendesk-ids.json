@@ -10786,6 +10786,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-se-puede-crear-el-pedido-debido-a-que-la-tarjeta-de-credito-no-es-valida",
+    "internalReference": 607742
+  },
+  {
+    "locale": "es",
     "slug": "no-se-puede-crear-un-pedido-cuando-el-vendedor-tiene-un-codigo-de-pais-diferente",
     "internalReference": 763955
   },
@@ -18692,6 +18697,11 @@
   {
     "locale": "pt",
     "slug": "o-pedido-nao-pode-ser-criado-devido-a-cartao-de-credito-invalido",
+    "internalReference": 607742
+  },
+  {
+    "locale": "pt",
+    "slug": "o-pedido-nao-pode-ser-criado-devido-a-um-cartao-de-credito-invalido",
     "internalReference": 607742
   },
   {
