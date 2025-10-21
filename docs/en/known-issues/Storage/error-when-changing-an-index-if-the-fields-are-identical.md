@@ -1,18 +1,16 @@
 ---
-title: 'Error when changing an index if the fields are identical.'
-id: Ckic7QH3kKyW3IA92A3Cm
+title: Error when changing an index if the fields are identical.
+slug: error-when-changing-an-index-if-the-fields-are-identical
 status: PUBLISHED
-createdAt: 2023-07-03T18:48:49.070Z
-updatedAt: 2023-07-03T18:48:49.971Z
-publishedAt: 2023-07-03T18:48:49.971Z
-firstPublishedAt: 2023-07-03T18:48:49.971Z
+createdAt: 2025-10-21T19:14:35.911Z
+updatedAt: 2025-10-21T19:14:35.911Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
 slugEN: error-when-changing-an-index-if-the-fields-are-identical
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 854634
 ---
 
@@ -23,9 +21,7 @@ An update of a schema index can result in a 500 Internal Server error when there
 Performing a GET request on the API to check the indices reveals that no update is required, as the index is identical to the body provided in the PUT request.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -34,10 +30,7 @@ Performing a GET request on the API to check the indices reveals that no update 
 3. Perform a subsequent GET request on the API to retrieve the schema indices and compare them to the body provided in the PUT request.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 N/A
-
