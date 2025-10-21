@@ -15381,13 +15381,13 @@
   },
   {
     "locale": "es",
-    "slug": "error-al-exportar-una-entidad-con-demasiados-documentos",
-    "internalReference": 857894
+    "slug": "error-al-cambiar-un-indice-si-los-campos-son-identicos",
+    "internalReference": 854634
   },
   {
     "locale": "es",
-    "slug": "error-al-modificar-un-indice-si-los-campos-son-identicos",
-    "internalReference": 854634
+    "slug": "error-al-exportar-una-entidad-con-demasiados-documentos",
+    "internalReference": 857894
   },
   {
     "locale": "es",
