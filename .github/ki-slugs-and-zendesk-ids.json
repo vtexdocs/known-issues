@@ -4711,6 +4711,11 @@
   },
   {
     "locale": "en",
+    "slug": "categories-missing-seller-not-provisioned-correctly",
+    "internalReference": 1205261
+  },
+  {
+    "locale": "en",
     "slug": "create-seller-with-additional-information-is-returning-an-error",
     "internalReference": 741110
   },
@@ -12718,6 +12723,11 @@
     "locale": "es",
     "slug": "al-cargar-la-pagina-catalog-maping-en-admin-no-se-traduce-el-mensaje-inicial",
     "internalReference": 717066
+  },
+  {
+    "locale": "es",
+    "slug": "categorias-que-faltan-vendedor-no-provisionado-correctamente",
+    "internalReference": 1205261
   },
   {
     "locale": "es",
@@ -20813,6 +20823,11 @@
     "locale": "pt",
     "slug": "campo-ean-como-string-sendo-ignorado-quando-aprovado-em-skus-recebidos",
     "internalReference": 897301
+  },
+  {
+    "locale": "pt",
+    "slug": "categorias-ausentes-do-vendedor-nao-provisionadas-corretamente",
+    "internalReference": 1205261
   },
   {
     "locale": "pt",
