@@ -6506,6 +6506,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-remain-stuck-despite-connector-approval",
+    "internalReference": 1302349
+  },
+  {
+    "locale": "en",
     "slug": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
     "internalReference": 1304667
   },
@@ -14226,6 +14231,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-siguen-bloqueadas-a-pesar-de-la-aprobacion-del-conector",
+    "internalReference": 1302349
+  },
+  {
+    "locale": "es",
     "slug": "limitaciones-del-campo-isvaluechangeable-para-transacciones-con-valor-minimo-de-001",
     "internalReference": 825122
   },
@@ -21778,6 +21788,11 @@
     "locale": "pt",
     "slug": "as-transacoes-com-cartao-de-credito-mastercard-estao-sendo-processadas-como-visa",
     "internalReference": 1026263
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-continuam-travadas-apesar-da-aprovacao-do-conector",
+    "internalReference": 1302349
   },
   {
     "locale": "pt",
