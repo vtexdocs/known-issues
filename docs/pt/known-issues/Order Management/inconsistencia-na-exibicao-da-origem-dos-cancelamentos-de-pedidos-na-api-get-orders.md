@@ -2,8 +2,8 @@
 title: Inconsistência na exibição da origem dos cancelamentos de pedidos na API Get Orders
 slug: inconsistencia-na-exibicao-da-origem-dos-cancelamentos-de-pedidos-na-api-get-orders
 status: PUBLISHED
-createdAt: 2025-08-25T12:04:01.244Z
-updatedAt: 2025-08-25T12:04:01.244Z
+createdAt: 2025-10-22T12:34:09.094Z
+updatedAt: 2025-10-22T12:34:09.094Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,14 +19,14 @@ internalReference: 1249934
 ## Sumário
 
 
-Em alguns casos de pedidos originados do fluxo nativo entre o marketplace e o vendedor, quando o cancelamento é iniciado pelo sistema, por exemplo, em caso de falha de pagamento ou regras internas, as informações sobre a origem do cancelamento podem não ser exibidas corretamente nas respostas das APIs Get Order e Orders do OMS.
+Em alguns casos de pedidos originados do fluxo nativo entre o marketplace e o vendedor, quando o cancelamento é iniciado pelo sistema ou via vendedor, por exemplo, em caso de falha de pagamento ou regras internas, as informações sobre a origem do cancelamento podem não ser exibidas corretamente nas respostas das APIs Get Order e Orders do OMS.
 
-O campo cancellationData, que identifica historicamente a origem do cancelamento (como `requestedByPaymentNotification`), pode conter informações genéricas - como atendimento - ou pode não exibir nenhum detalhe. Isso se deve ao processo de mesclagem de informações de cancelamento entre o marketplace e o vendedor, que pode substituir dados relevantes, dependendo da ordem dos eventos.
+O campo cancellationData, que identifica historicamente a origem do cancelamento (como `requestedByPaymentNotification`), pode conter informações genéricas - como atendimento - ou pode não exibir nenhum detalhe. Isso se deve ao processo de mesclar informações de cancelamento entre o marketplace e o vendedor, que pode substituir dados relevantes dependendo da ordem dos eventos.
 ## Simulação
 
 
 
-- Gerar um pedido em uma conta com integração entre o vendedor e o marketplace.
+- Gere um pedido em uma conta com integração entre o vendedor e o marketplace.
 - Simule um cancelamento automático, por exemplo, devido a uma falha na autorização de pagamento.
 - Acesse a API Get Order do OMS ou Orders.
 - Observe que o campo `cancellationData` pode não indicar claramente que o cancelamento foi feito pelo módulo de pagamento.
