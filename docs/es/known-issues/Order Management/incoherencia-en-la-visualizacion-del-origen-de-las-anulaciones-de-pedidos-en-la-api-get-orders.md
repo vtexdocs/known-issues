@@ -2,8 +2,8 @@
 title: Incoherencia en la visualización del origen de las anulaciones de pedidos en la API Get Orders.
 slug: incoherencia-en-la-visualizacion-del-origen-de-las-anulaciones-de-pedidos-en-la-api-get-orders
 status: PUBLISHED
-createdAt: 2025-08-25T12:04:10.321Z
-updatedAt: 2025-08-25T12:04:10.321Z
+createdAt: 2025-10-22T12:34:17.300Z
+updatedAt: 2025-10-22T12:34:17.300Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,7 +19,7 @@ internalReference: 1249934
 ## Sumario
 
 
-En algunos casos de pedidos originados en el flujo nativo entre el marketplace y el vendedor, cuando la cancelación es iniciada por el sistema, por ejemplo en caso de fallo de pago o reglas internas, la información sobre el origen de la cancelación puede no mostrarse correctamente en las respuestas de las APIs Obtener Pedido y Pedidos de OMS.
+En algunos casos de pedidos originados en el flujo nativo entre el marketplace y el vendedor, cuando la cancelación es iniciada por el sistema o a través del vendedor, por ejemplo en caso de fallo de pago o reglas internas, la información sobre el origen de la cancelación puede no mostrarse correctamente en las respuestas de las APIs OMS Get Order y Orders.
 
 El campo cancellationData, que identifica históricamente el origen de la cancelación (como `requestedByPaymentNotification`), puede contener información genérica -como fulfillment- o no mostrar ningún detalle. Esto se debe al proceso de fusión de la información de cancelación entre el mercado y el vendedor, que puede sobrescribir datos relevantes dependiendo del orden de los eventos.
 
