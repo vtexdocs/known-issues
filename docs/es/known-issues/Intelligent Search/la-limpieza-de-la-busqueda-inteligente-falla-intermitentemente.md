@@ -2,15 +2,15 @@
 title: La limpieza de la Búsqueda Inteligente falla intermitentemente
 slug: la-limpieza-de-la-busqueda-inteligente-falla-intermitentemente
 status: PUBLISHED
-createdAt: 2025-10-16T20:52:34.143Z
-updatedAt: 2025-10-16T20:52:34.143Z
+createdAt: 2025-10-23T22:31:21.088Z
+updatedAt: 2025-10-23T22:31:21.088Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: intelligent-search-cleanup-intermitently-failing
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1225644
 ---
 
@@ -22,10 +22,12 @@ internalReference: 1225644
 La limpieza completa del Indexador de Catálogos también desencadena la limpieza de la Búsqueda Inteligente. Esta acción está fallando de forma intermitente, especialmente en tiendas con un mayor número de productos.
 
 
+
 #### Simulación
 
 
 Al ser un problema intermitente, no siempre se puede reproducir.
+
 
 
 - Provocar una limpieza completa del Indexador de Catálogos.
@@ -38,5 +40,6 @@ Observe el recuento de productos en la página de administración Historial de i
 
 
 Abra un ticket de soporte solicitando una acción manual.
+
 
 
