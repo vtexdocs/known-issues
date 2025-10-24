@@ -921,6 +921,11 @@
   },
   {
     "locale": "en",
+    "slug": "defaultvalue-on-specification-is-accepted-for-checkbox-combo-or-radio-field-types-via-api",
+    "internalReference": 1313013
+  },
+  {
+    "locale": "en",
     "slug": "defaultvalue-property-doesnt-update-on-specification-api",
     "internalReference": 1226096
   },
@@ -9651,6 +9656,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-acepta-defaultvalue-en-la-especificacion-para-los-tipos-de-campo-checkbox-combo-o-radio-a-traves-de-api",
+    "internalReference": 1313013
+  },
+  {
+    "locale": "es",
     "slug": "servicio-obligatorio-que-funciona-como-opcional",
     "internalReference": 872411
   },
@@ -17493,6 +17503,11 @@
     "locale": "pt",
     "slug": "o-comportamento-do-refid-nao-e-consistente-entre-a-api-e-a-interface-do-usuario",
     "internalReference": 910050
+  },
+  {
+    "locale": "pt",
+    "slug": "o-defaultvalue-na-especificacao-e-aceito-para-os-tipos-de-campo-checkbox-combo-ou-radio-via-api",
+    "internalReference": 1313013
   },
   {
     "locale": "pt",
