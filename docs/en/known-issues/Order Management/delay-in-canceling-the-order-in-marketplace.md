@@ -1,5 +1,5 @@
 ---
-title: Delay in canceling the order in Marketplace
+title: 'Delay in canceling the order in Marketplace'
 slug: delay-in-canceling-the-order-in-marketplace
 status: PUBLISHED
 createdAt: 2025-08-12T18:46:34.439Z

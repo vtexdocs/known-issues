@@ -1,5 +1,5 @@
 ---
-title: Checkout simulation with a great quantity of the same sku receives a Logistics timeout
+title: 'Checkout simulation with a great quantity of the same sku receives a Logistics timeout'
 slug: checkout-simulation-with-a-great-quantity-of-the-same-sku-receives-a-logistics-timeout
 status: PUBLISHED
 createdAt: 2025-09-25T15:16:45.972Z

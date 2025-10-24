@@ -1,5 +1,5 @@
 ---
-title: La validación de la promoción utiliza el precio unitario en lugar del precio total del artículo
+title: 'La validación de la promoción utiliza el precio unitario en lugar del precio total del artículo'
 slug: la-validacion-de-la-promocion-utiliza-el-precio-unitario-en-lugar-del-precio-total-del-articulo
 status: PUBLISHED
 createdAt: 2025-09-18T20:20:43.426Z

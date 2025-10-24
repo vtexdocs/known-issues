@@ -1,5 +1,5 @@
 ---
-title: Problems with triggers that contain attachments
+title: 'Problems with triggers that contain attachments'
 slug: problems-with-triggers-that-contain-attachments
 status: PUBLISHED
 createdAt: 2025-10-16T20:49:39.215Z

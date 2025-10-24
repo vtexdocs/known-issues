@@ -1,5 +1,5 @@
 ---
-title: El reescritor no recibe las rutas actualizadas desde el catálogo
+title: 'El reescritor no recibe las rutas actualizadas desde el catálogo'
 slug: el-reescritor-no-recibe-las-rutas-actualizadas-desde-el-catalogo
 status: PUBLISHED
 createdAt: 2025-10-16T20:34:13.633Z

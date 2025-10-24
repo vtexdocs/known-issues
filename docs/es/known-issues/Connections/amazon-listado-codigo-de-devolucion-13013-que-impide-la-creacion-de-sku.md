@@ -1,5 +1,5 @@
 ---
-title: Amazon Listado Código de devolución #13013 que impide la creación de SKU
+title: 'Amazon Listado Código de devolución'
 slug: amazon-listado-codigo-de-devolucion-13013-que-impide-la-creacion-de-sku
 status: PUBLISHED
 createdAt: 2025-10-17T12:08:33.374Z

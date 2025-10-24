@@ -1,5 +1,5 @@
 ---
-title: DefaultValue property doesn't update on specification API
+title: 'DefaultValue property doesn''t update on specification API'
 slug: defaultvalue-property-doesnt-update-on-specification-api
 status: PUBLISHED
 createdAt: 2025-09-08T21:44:27.058Z

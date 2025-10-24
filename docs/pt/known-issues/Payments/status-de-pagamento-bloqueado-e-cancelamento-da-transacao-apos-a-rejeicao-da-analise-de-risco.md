@@ -1,5 +1,5 @@
 ---
-title: Status de pagamento bloqueado e cancelamento da transação após a rejeição da análise de risco
+title: 'Status de pagamento bloqueado e cancelamento da transação após a rejeição da análise de risco'
 slug: status-de-pagamento-bloqueado-e-cancelamento-da-transacao-apos-a-rejeicao-da-analise-de-risco
 status: PUBLISHED
 createdAt: 2025-10-14T19:17:13.611Z

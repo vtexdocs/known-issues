@@ -1,5 +1,5 @@
 ---
-title: Delivery of kits is not allowed if the product has a configured modal
+title: 'Delivery of kits is not allowed if the product has a configured modal'
 slug: delivery-of-kits-is-not-allowed-if-the-product-has-a-configured-modal
 status: PUBLISHED
 createdAt: 2025-10-16T20:45:25.529Z

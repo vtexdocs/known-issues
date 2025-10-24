@@ -1,5 +1,5 @@
 ---
-title: Os métodos de pagamento desativados continuam a ser exibidos.
+title: 'Os métodos de pagamento desativados continuam a ser exibidos.'
 slug: os-metodos-de-pagamento-desativados-continuam-a-ser-exibidos
 status: PUBLISHED
 createdAt: 2025-10-16T20:58:49.270Z

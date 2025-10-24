@@ -1,5 +1,5 @@
 ---
-title: "GET Coupon Usage API doesn't list multiple orders for the same coupon"
+title: 'GET Coupon Usage API doesn''t list multiple orders for the same coupon'
 id: 7B9Qlcx2XMGxWj9OB5Xl8n
 status: PUBLISHED
 createdAt: 2023-09-08T17:54:13.642Z

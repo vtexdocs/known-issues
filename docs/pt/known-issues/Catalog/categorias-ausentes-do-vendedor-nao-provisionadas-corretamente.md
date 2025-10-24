@@ -1,5 +1,5 @@
 ---
-title: Categorias ausentes do vendedor não provisionadas corretamente
+title: 'Categorias ausentes do vendedor não provisionadas corretamente'
 slug: categorias-ausentes-do-vendedor-nao-provisionadas-corretamente
 status: PUBLISHED
 createdAt: 2025-10-16T18:49:50.782Z

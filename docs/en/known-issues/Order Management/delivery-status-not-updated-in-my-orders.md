@@ -1,5 +1,5 @@
 ---
-title: Delivery status not updated in My orders
+title: 'Delivery status not updated in My orders'
 slug: delivery-status-not-updated-in-my-orders
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:58.507Z

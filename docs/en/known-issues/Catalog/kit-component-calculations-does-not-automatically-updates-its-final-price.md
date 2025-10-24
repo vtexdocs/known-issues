@@ -1,5 +1,5 @@
 ---
-title: Kit component calculations does not automatically updates its final price
+title: 'Kit component calculations does not automatically updates its final price'
 slug: kit-component-calculations-does-not-automatically-updates-its-final-price
 status: PUBLISHED
 createdAt: 2025-10-01T23:43:08.591Z

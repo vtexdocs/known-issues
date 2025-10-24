@@ -1,5 +1,5 @@
 ---
-title: 'When a schedule price expires, the fixed price is not reenabled '
+title: 'When a schedule price expires, the fixed price is not reenabled'
 id: 75RY8MaDPaiOGOoY2mwycg
 status: PUBLISHED
 createdAt: 2017-06-23T16:23:03.818Z
@@ -13,7 +13,7 @@ tag: Pricing & Promotions
 slugEN: when-a-schedule-price-expires-the-fixed-price-is-not-reenabled
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

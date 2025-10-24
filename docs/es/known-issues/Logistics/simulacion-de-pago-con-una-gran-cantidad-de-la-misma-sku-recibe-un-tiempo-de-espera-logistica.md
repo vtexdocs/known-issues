@@ -1,5 +1,5 @@
 ---
-title: Simulación de pago con una gran cantidad de la misma sku recibe un tiempo de espera Logística
+title: 'Simulación de pago con una gran cantidad de la misma sku recibe un tiempo de espera Logística'
 slug: simulacion-de-pago-con-una-gran-cantidad-de-la-misma-sku-recibe-un-tiempo-de-espera-logistica
 status: PUBLISHED
 createdAt: 2025-09-25T15:16:49.589Z

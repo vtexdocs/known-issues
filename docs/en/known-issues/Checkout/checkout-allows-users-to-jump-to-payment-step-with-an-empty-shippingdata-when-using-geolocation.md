@@ -1,5 +1,5 @@
 ---
-title: "Checkout allows users to jump to payment step with an empty 'shippingData' when using geolocation"
+title: 'Checkout allows users to jump to payment step with an empty ''shippingData'' when using geolocation'
 id: 7uv85LIrjoPaHxVgCAoy7I
 status: PUBLISHED
 createdAt: 2023-10-23T17:48:05.377Z

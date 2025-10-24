@@ -1,5 +1,5 @@
 ---
-title: Ausência de feedback para falhas na alteração de pedidos no Pick and Pack (comunicação com o OMS)
+title: 'Ausência de feedback para falhas na alteração de pedidos no Pick and Pack (comunicação com o OMS)'
 slug: ausencia-de-feedback-para-falhas-na-alteracao-de-pedidos-no-pick-and-pack-comunicacao-com-o-oms
 status: PUBLISHED
 createdAt: 2025-08-13T19:01:05.060Z

@@ -1,5 +1,5 @@
 ---
-title: As transações continuam travadas apesar da aprovação do conector
+title: 'As transações continuam travadas apesar da aprovação do conector'
 slug: as-transacoes-continuam-travadas-apesar-da-aprovacao-do-conector
 status: PUBLISHED
 createdAt: 2025-10-21T19:09:25.677Z

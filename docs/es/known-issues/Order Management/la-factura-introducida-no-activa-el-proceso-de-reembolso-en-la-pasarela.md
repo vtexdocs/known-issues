@@ -1,5 +1,5 @@
 ---
-title: La factura introducida no activa el proceso de reembolso en la pasarela
+title: 'La factura introducida no activa el proceso de reembolso en la pasarela'
 slug: la-factura-introducida-no-activa-el-proceso-de-reembolso-en-la-pasarela
 status: PUBLISHED
 createdAt: 2025-10-16T20:43:01.213Z

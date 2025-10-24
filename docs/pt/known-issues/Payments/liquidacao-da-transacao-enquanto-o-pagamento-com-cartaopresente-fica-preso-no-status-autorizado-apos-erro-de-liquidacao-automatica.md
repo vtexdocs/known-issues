@@ -1,5 +1,5 @@
 ---
-title: Liquidação da transação enquanto o pagamento com cartão-presente fica preso no status autorizado após erro de liquidação automática
+title: 'Liquidação da transação enquanto o pagamento com cartão-presente fica preso no status autorizado após erro de liquidação automática'
 slug: liquidacao-da-transacao-enquanto-o-pagamento-com-cartaopresente-fica-preso-no-status-autorizado-apos-erro-de-liquidacao-automatica
 status: PUBLISHED
 createdAt: 2025-07-24T17:49:59.193Z

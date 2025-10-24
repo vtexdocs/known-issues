@@ -1,5 +1,5 @@
 ---
-title: "Relatório de 'Avise-me' não abre"
+title: 'Relatório de ''Avise-me'' não abre'
 id: 5jRrYk5Nm0uGSmoyeogIs2
 status: PUBLISHED
 createdAt: 2017-06-13T15:07:33.222Z
@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: aviseme-report-does-not-open
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

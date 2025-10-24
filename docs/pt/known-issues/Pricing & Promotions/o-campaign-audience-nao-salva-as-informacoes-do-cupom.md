@@ -1,5 +1,5 @@
 ---
-title: O Campaign Audience não salva as informações do cupom
+title: 'O Campaign Audience não salva as informações do cupom'
 slug: o-campaign-audience-nao-salva-as-informacoes-do-cupom
 status: PUBLISHED
 createdAt: 2025-09-04T15:02:58.831Z

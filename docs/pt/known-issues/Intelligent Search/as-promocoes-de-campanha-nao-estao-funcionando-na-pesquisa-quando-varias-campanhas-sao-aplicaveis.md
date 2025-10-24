@@ -1,5 +1,5 @@
 ---
-title: As promoções de campanha não estão funcionando na Pesquisa quando várias campanhas são aplicáveis
+title: 'As promoções de campanha não estão funcionando na Pesquisa quando várias campanhas são aplicáveis'
 slug: as-promocoes-de-campanha-nao-estao-funcionando-na-pesquisa-quando-varias-campanhas-sao-aplicaveis
 status: PUBLISHED
 createdAt: 2025-10-16T20:46:08.386Z

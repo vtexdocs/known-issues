@@ -1,5 +1,5 @@
 ---
-title: "'I don't know my ZIP code' link in the wedding list creation page is redirecting to the wedding list creation page"
+title: '''I don''t know my ZIP code'' link in the wedding list creation page is redirecting to the wedding list creation page'
 id: 59Go6zy62I2iwACQqW8qmA
 status: PUBLISHED
 createdAt: 2018-02-20T22:07:31.331Z
@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: i-dont-know-my-zip-code-link-in-the-wedding-list-creation-page-is-redirecting-to-the-wedding-list-creation-page
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

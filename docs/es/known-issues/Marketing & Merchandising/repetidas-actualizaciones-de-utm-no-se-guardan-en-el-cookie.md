@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: repeated-utm-updates-are-not-saved-in-the-cookie
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

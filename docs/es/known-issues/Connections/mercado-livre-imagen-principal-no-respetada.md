@@ -1,5 +1,5 @@
 ---
-title: Mercado Livre Imagen principal no respetada
+title: 'Mercado Livre Imagen principal no respetada'
 slug: mercado-livre-imagen-principal-no-respetada
 status: PUBLISHED
 createdAt: 2025-10-06T20:35:48.555Z

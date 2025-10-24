@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: problem-in-putting-discounts-in-size-order
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

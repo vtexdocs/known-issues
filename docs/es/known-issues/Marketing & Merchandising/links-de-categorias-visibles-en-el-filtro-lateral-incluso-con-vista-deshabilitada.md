@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: category-links-are-visible-on-side-filter-even-when-view-is-disabled
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

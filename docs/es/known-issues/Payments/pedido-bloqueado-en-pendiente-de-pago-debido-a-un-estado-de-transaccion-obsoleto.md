@@ -1,5 +1,5 @@
 ---
-title: Pedido bloqueado en pendiente de pago debido a un estado de transacción obsoleto
+title: 'Pedido bloqueado en pendiente de pago debido a un estado de transacción obsoleto'
 slug: pedido-bloqueado-en-pendiente-de-pago-debido-a-un-estado-de-transaccion-obsoleto
 status: PUBLISHED
 createdAt: 2025-10-01T12:55:46.366Z

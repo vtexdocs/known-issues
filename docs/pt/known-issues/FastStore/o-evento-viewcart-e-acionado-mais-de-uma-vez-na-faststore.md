@@ -1,5 +1,5 @@
 ---
-title: O evento view_cart é acionado mais de uma vez na Faststore
+title: 'O evento view_cart é acionado mais de uma vez na Faststore'
 slug: o-evento-viewcart-e-acionado-mais-de-uma-vez-na-faststore
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:40.684Z

@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: error-on-applying-filter-in-the-catalog-module
 locale: en
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

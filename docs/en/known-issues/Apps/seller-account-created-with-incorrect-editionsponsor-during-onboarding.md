@@ -1,5 +1,5 @@
 ---
-title: Seller account created with incorrect edition/sponsor during onboarding
+title: 'Seller account created with incorrect edition/sponsor during onboarding'
 slug: seller-account-created-with-incorrect-editionsponsor-during-onboarding
 status: PUBLISHED
 createdAt: 2025-10-16T20:59:08.553Z

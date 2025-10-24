@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: price-range-disregards-sales-policy
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

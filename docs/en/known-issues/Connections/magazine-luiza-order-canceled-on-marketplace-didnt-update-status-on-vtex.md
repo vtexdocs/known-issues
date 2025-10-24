@@ -1,5 +1,5 @@
 ---
-title: "[Magazine Luiza] Order canceled on marketplace didn't update status on VTEX"
+title: '[Magazine Luiza] Order canceled on marketplace didn''t update status on VTEX'
 id: 4C1G20Iwj6x1mvqzsSDU0P
 status: PUBLISHED
 createdAt: 2023-07-20T15:33:25.631Z

@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: productbrand-control-replaces-special-characters
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

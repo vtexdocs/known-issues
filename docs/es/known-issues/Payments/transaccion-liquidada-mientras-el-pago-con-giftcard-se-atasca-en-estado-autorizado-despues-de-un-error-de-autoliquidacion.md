@@ -1,5 +1,5 @@
 ---
-title: Transacción liquidada mientras el pago con Giftcard se atasca en estado autorizado después de un error de autoliquidación
+title: 'Transacción liquidada mientras el pago con Giftcard se atasca en estado autorizado después de un error de autoliquidación'
 slug: transaccion-liquidada-mientras-el-pago-con-giftcard-se-atasca-en-estado-autorizado-despues-de-un-error-de-autoliquidacion
 status: PUBLISHED
 createdAt: 2025-07-24T17:50:09.993Z

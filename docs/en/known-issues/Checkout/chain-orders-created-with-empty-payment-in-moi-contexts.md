@@ -1,5 +1,5 @@
 ---
-title: Chain orders created with empty payment in MOI contexts
+title: 'Chain orders created with empty payment in MOI contexts'
 slug: chain-orders-created-with-empty-payment-in-moi-contexts
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:01.659Z

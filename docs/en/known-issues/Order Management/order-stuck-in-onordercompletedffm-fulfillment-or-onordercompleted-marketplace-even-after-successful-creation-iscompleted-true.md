@@ -1,5 +1,5 @@
 ---
-title: "Order stuck in on-order-completed-ffm (Fulfillment) or on-order-completed (Marketplace) even after successful creation (isCompleted: true)"
+title: 'Order stuck in on-order-completed-ffm (Fulfillment) or on-order-completed (Marketplace) even after successful creation (isCompleted: true)'
 slug: order-stuck-in-onordercompletedffm-fulfillment-or-onordercompleted-marketplace-even-after-successful-creation-iscompleted-true
 status: PUBLISHED
 createdAt: 2025-10-13T13:13:37.908Z

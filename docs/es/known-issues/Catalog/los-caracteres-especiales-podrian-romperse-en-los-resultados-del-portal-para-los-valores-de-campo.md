@@ -1,5 +1,5 @@
 ---
-title: Los caracteres especiales podrían romperse en los resultados del portal para los valores de campo
+title: 'Los caracteres especiales podrían romperse en los resultados del portal para los valores de campo'
 slug: los-caracteres-especiales-podrian-romperse-en-los-resultados-del-portal-para-los-valores-de-campo
 status: PUBLISHED
 createdAt: 2025-09-09T14:50:03.377Z

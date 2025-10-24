@@ -1,5 +1,5 @@
 ---
-title: La limpieza de la Búsqueda Inteligente falla intermitentemente
+title: 'La limpieza de la Búsqueda Inteligente falla intermitentemente'
 slug: la-limpieza-de-la-busqueda-inteligente-falla-intermitentemente
 status: PUBLISHED
 createdAt: 2025-10-23T22:31:21.088Z

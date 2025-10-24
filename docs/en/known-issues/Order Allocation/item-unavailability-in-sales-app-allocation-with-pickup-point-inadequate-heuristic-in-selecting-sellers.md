@@ -1,5 +1,5 @@
 ---
-title: Item unavailability in Sales App allocation with pickup point (inadequate heuristic in selecting sellers)
+title: 'Item unavailability in Sales App allocation with pickup point (inadequate heuristic in selecting sellers)'
 slug: item-unavailability-in-sales-app-allocation-with-pickup-point-inadequate-heuristic-in-selecting-sellers
 status: PUBLISHED
 createdAt: 2025-10-16T20:58:12.463Z

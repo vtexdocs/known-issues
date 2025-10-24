@@ -1,5 +1,5 @@
 ---
-title: Punto de recogida no seleccionado por Checkout UI al cambiar SLA
+title: 'Punto de recogida no seleccionado por Checkout UI al cambiar SLA'
 slug: punto-de-recogida-no-seleccionado-por-checkout-ui-al-cambiar-sla
 status: PUBLISHED
 createdAt: 2025-10-16T20:43:17.967Z

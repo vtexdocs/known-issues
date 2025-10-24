@@ -1,5 +1,5 @@
 ---
-title: Shopee O nível de variação de nível não muda
+title: 'Shopee O nível de variação de nível não muda'
 slug: shopee-o-nivel-de-variacao-de-nivel-nao-muda
 status: PUBLISHED
 createdAt: 2025-09-08T20:33:24.639Z

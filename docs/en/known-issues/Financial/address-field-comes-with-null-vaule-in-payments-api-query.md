@@ -1,5 +1,5 @@
 ---
-title: "'Address' field comes with 'null' vaule in Payment's API query"
+title: '''Address'' field comes with ''null'' vaule in Payment''s API query'
 id: 7oEEc24umACsOoy4Ceso2W
 status: PUBLISHED
 createdAt: 2018-01-11T16:33:01.231Z
@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: address-field-comes-with-null-vaule-in-payments-api-query
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

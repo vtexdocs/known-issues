@@ -1,5 +1,5 @@
 ---
-title: B2B Organizations without an address number as a valid address
+title: 'B2B Organizations without an address number as a valid address'
 slug: b2b-organizations-without-an-address-number-as-a-valid-address
 status: PUBLISHED
 createdAt: 2025-10-16T15:50:49.601Z

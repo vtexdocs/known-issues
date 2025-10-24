@@ -1,5 +1,5 @@
 ---
-title: O banner excluído ainda pode aparecer no PLP
+title: 'O banner excluído ainda pode aparecer no PLP'
 slug: o-banner-excluido-ainda-pode-aparecer-no-plp
 status: PUBLISHED
 createdAt: 2025-09-22T17:21:59.764Z

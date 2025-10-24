@@ -1,5 +1,5 @@
 ---
-title: Inconsistência nos prazos das faturas de crédito do cliente
+title: 'Inconsistência nos prazos das faturas de crédito do cliente'
 slug: inconsistencia-nos-prazos-das-faturas-de-credito-do-cliente
 status: PUBLISHED
 createdAt: 2025-09-05T15:41:33.855Z

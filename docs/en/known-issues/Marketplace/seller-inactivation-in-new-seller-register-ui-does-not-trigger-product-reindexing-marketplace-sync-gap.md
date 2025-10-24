@@ -1,5 +1,5 @@
 ---
-title: Seller inactivation in new Seller Register UI does not trigger product reindexing (Marketplace sync gap)
+title: 'Seller inactivation in new Seller Register UI does not trigger product reindexing (Marketplace sync gap)'
 slug: seller-inactivation-in-new-seller-register-ui-does-not-trigger-product-reindexing-marketplace-sync-gap
 status: PUBLISHED
 createdAt: 2025-10-08T16:22:24.389Z

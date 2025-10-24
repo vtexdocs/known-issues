@@ -1,5 +1,5 @@
 ---
-title: B2B Checkout Settings not saving address street
+title: 'B2B Checkout Settings not saving address street'
 slug: b2b-checkout-settings-not-saving-address-street
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:17.754Z

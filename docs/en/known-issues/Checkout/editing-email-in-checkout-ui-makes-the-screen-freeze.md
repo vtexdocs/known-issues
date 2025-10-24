@@ -1,5 +1,5 @@
 ---
-title: Editing email in Checkout UI makes the screen freeze
+title: 'Editing email in Checkout UI makes the screen freeze'
 slug: editing-email-in-checkout-ui-makes-the-screen-freeze
 status: PUBLISHED
 createdAt: 2025-10-16T20:48:13.102Z

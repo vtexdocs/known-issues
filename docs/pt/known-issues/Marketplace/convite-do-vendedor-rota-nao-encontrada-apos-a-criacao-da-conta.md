@@ -1,5 +1,5 @@
 ---
-title: Convite do vendedor Rota não encontrada após a criação da conta
+title: 'Convite do vendedor Rota não encontrada após a criação da conta'
 slug: convite-do-vendedor-rota-nao-encontrada-apos-a-criacao-da-conta
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:16.115Z

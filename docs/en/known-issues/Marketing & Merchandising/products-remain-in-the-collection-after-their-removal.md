@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: products-remain-in-the-collection-after-their-removal
 locale: en
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

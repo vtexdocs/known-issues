@@ -1,5 +1,5 @@
 ---
-title: Catalog Product Inactivation UI
+title: 'Catalog Product Inactivation UI'
 slug: catalog-product-inactivation-ui
 status: PUBLISHED
 createdAt: 2025-10-16T19:20:29.845Z

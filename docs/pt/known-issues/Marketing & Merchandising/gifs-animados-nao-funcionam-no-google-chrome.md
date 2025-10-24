@@ -13,7 +13,7 @@ tag: Portal
 slugEN: animated-gifs-dont-work-in-google-chrome
 locale: pt
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

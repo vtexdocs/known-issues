@@ -1,5 +1,5 @@
 ---
-title: Navigation issues from the MyAccount Menu
+title: 'Navigation issues from the MyAccount Menu'
 slug: navigation-issues-from-the-myaccount-menu
 status: PUBLISHED
 createdAt: 2025-10-16T20:46:59.377Z

@@ -1,5 +1,5 @@
 ---
-title: Las promociones de campaña no funcionan en la Búsqueda cuando se aplican varias campañas
+title: 'Las promociones de campaña no funcionan en la Búsqueda cuando se aplican varias campañas'
 slug: las-promociones-de-campana-no-funcionan-en-la-busqueda-cuando-se-aplican-varias-campanas
 status: PUBLISHED
 createdAt: 2025-10-16T20:46:14.982Z

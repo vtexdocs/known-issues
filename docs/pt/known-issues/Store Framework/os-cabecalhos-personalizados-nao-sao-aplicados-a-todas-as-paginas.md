@@ -1,5 +1,5 @@
 ---
-title: Os cabeçalhos personalizados não são aplicados a todas as páginas
+title: 'Os cabeçalhos personalizados não são aplicados a todas as páginas'
 slug: os-cabecalhos-personalizados-nao-sao-aplicados-a-todas-as-paginas
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:25.372Z

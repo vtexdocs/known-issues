@@ -1,5 +1,5 @@
 ---
-title: PUT Brand API does not update "LinkID" property
+title: 'PUT Brand API does not update "LinkID" property'
 slug: put-brand-api-does-not-update-linkid-property
 status: PUBLISHED
 createdAt: 2025-10-16T20:51:52.428Z

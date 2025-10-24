@@ -1,5 +1,5 @@
 ---
-title: Search result may not display the facet sellerName on multilanguage stores in additional locales
+title: 'Search result may not display the facet sellerName on multilanguage stores in additional locales'
 slug: search-result-may-not-display-the-facet-sellername-on-multilanguage-stores-in-additional-locales
 status: PUBLISHED
 createdAt: 2025-10-16T20:38:49.050Z

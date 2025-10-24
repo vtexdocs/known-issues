@@ -1,5 +1,5 @@
 ---
-title: Order Stuck in Payment Pending Due to Outdated Transaction Status
+title: 'Order Stuck in Payment Pending Due to Outdated Transaction Status'
 slug: order-stuck-in-payment-pending-due-to-outdated-transaction-status
 status: PUBLISHED
 createdAt: 2025-10-01T12:55:43.235Z

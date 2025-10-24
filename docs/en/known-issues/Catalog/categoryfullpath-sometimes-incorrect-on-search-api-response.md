@@ -1,5 +1,5 @@
 ---
-title: CategoryFullPath sometimes incorrect on search API response
+title: 'CategoryFullPath sometimes incorrect on search API response'
 slug: categoryfullpath-sometimes-incorrect-on-search-api-response
 status: PUBLISHED
 createdAt: 2025-10-16T20:48:31.231Z

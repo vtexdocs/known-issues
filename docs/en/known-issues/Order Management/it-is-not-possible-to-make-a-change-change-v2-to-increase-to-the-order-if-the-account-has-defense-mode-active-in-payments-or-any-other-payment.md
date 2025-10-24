@@ -1,5 +1,5 @@
 ---
-title: It is not possible to make a change (change v2) to increase to the order if the account has Defense Mode active in payments or any other payment!
+title: 'It is not possible to make a change (change v2) to increase to the order if the account has Defense Mode active in payments or any other payment!'
 slug: it-is-not-possible-to-make-a-change-change-v2-to-increase-to-the-order-if-the-account-has-defense-mode-active-in-payments-or-any-other-payment
 status: PUBLISHED
 createdAt: 2025-10-16T20:01:02.864Z

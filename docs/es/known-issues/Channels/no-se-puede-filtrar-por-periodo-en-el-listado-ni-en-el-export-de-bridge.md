@@ -13,7 +13,7 @@ tag: Connections
 slugEN: cannot-filter-by-period-in-the-bridge-list-or-export
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

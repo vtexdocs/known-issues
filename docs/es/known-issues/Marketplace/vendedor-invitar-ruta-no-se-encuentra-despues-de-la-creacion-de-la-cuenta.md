@@ -1,5 +1,5 @@
 ---
-title: Vendedor invitar Ruta no se encuentra después de la creación de la cuenta
+title: 'Vendedor invitar Ruta no se encuentra después de la creación de la cuenta'
 slug: vendedor-invitar-ruta-no-se-encuentra-despues-de-la-creacion-de-la-cuenta
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:21.957Z

@@ -1,5 +1,5 @@
 ---
-title: "Page's internal collection links have a nonexistent canonical URL"
+title: 'Page''s internal collection links have a nonexistent canonical URL'
 id: 1sJzMe74vio2Wkm60q6m6i
 status: PUBLISHED
 createdAt: 2017-12-21T17:38:14.109Z
@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: pages-internal-collection-links-have-a-nonexistent-canonical-url
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

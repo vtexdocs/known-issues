@@ -1,5 +1,5 @@
 ---
-title: Caracteres especiais na consulta de pesquisa quebram o comportamento de pesquisa do Store Framework
+title: 'Caracteres especiais na consulta de pesquisa quebram o comportamento de pesquisa do Store Framework'
 slug: caracteres-especiais-na-consulta-de-pesquisa-quebram-o-comportamento-de-pesquisa-do-store-framework
 status: PUBLISHED
 createdAt: 2025-10-16T20:53:37.390Z

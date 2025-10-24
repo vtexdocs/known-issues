@@ -1,5 +1,5 @@
 ---
-title: "A mesma SKU em várias listas nas promoções 'Buy Together' na nova interface do usuário está fazendo com que a promoção não seja aplicada no checkout"
+title: 'A mesma SKU em várias listas nas promoções ''Buy Together'' na nova interface do usuário está fazendo com que a promoção não seja aplicada no checkout'
 id: 4M9UZhQqkU4Tl07lyLPtMt
 status: PUBLISHED
 createdAt: 2024-09-03T10:55:07.063Z

@@ -1,5 +1,5 @@
 ---
-title: Descalificación del vendedor en el punto de recogida debido a una cantidad divergente entre los ANS en la caja
+title: 'Descalificación del vendedor en el punto de recogida debido a una cantidad divergente entre los ANS en la caja'
 slug: descalificacion-del-vendedor-en-el-punto-de-recogida-debido-a-una-cantidad-divergente-entre-los-ans-en-la-caja
 status: PUBLISHED
 createdAt: 2025-10-16T20:53:29.899Z

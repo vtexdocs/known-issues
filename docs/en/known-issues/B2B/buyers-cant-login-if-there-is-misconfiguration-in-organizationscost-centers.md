@@ -1,5 +1,5 @@
 ---
-title: "Buyers can't login if there is misconfiguration in organizations/cost centers"
+title: 'Buyers can''t login if there is misconfiguration in organizations/cost centers'
 id: r5p7K15FkbZUDSOUQ6hGz
 status: PUBLISHED
 createdAt: 2023-11-30T22:21:39.852Z

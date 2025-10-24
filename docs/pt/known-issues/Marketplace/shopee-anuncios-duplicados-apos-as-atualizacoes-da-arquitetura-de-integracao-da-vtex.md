@@ -1,5 +1,5 @@
 ---
-title: Shopee Anúncios duplicados após as atualizações da arquitetura de integração da VTEX
+title: 'Shopee Anúncios duplicados após as atualizações da arquitetura de integração da VTEX'
 slug: shopee-anuncios-duplicados-apos-as-atualizacoes-da-arquitetura-de-integracao-da-vtex
 status: PUBLISHED
 createdAt: 2025-10-16T21:00:19.117Z

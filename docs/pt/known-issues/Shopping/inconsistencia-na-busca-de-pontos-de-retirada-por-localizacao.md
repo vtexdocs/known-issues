@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: inconsistency-when-searching-for-pickup-points-by-location
 locale: pt
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

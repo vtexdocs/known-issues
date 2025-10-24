@@ -1,5 +1,5 @@
 ---
-title: Content-types listing has no way of scrolling down
+title: 'Content-types listing has no way of scrolling down'
 slug: contenttypes-listing-has-no-way-of-scrolling-down
 status: PUBLISHED
 createdAt: 2025-08-12T18:47:58.401Z

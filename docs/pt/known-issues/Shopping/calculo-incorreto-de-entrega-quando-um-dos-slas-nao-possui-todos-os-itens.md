@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: incorrect-delivery-calculation-when-one-of-the-slas-doesnt-have-all-items
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

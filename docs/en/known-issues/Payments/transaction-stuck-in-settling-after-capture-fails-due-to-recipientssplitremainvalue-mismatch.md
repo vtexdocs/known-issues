@@ -1,5 +1,5 @@
 ---
-title: Transaction stuck in Settling after Capture fails due to recipientsSplitRemainValue mismatch
+title: 'Transaction stuck in Settling after Capture fails due to recipientsSplitRemainValue mismatch'
 slug: transaction-stuck-in-settling-after-capture-fails-due-to-recipientssplitremainvalue-mismatch
 status: PUBLISHED
 createdAt: 2025-09-22T18:20:38.411Z

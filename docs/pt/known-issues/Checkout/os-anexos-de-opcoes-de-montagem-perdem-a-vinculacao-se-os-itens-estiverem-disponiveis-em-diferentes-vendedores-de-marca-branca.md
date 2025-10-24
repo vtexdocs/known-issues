@@ -1,5 +1,5 @@
 ---
-title: Os anexos de opções de montagem perdem a vinculação se os itens estiverem disponíveis em diferentes vendedores de marca branca
+title: 'Os anexos de opções de montagem perdem a vinculação se os itens estiverem disponíveis em diferentes vendedores de marca branca'
 slug: os-anexos-de-opcoes-de-montagem-perdem-a-vinculacao-se-os-itens-estiverem-disponiveis-em-diferentes-vendedores-de-marca-branca
 status: PUBLISHED
 createdAt: 2025-10-15T21:11:08.895Z

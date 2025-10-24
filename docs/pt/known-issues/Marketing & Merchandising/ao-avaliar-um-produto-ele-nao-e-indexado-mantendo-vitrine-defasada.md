@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: when-evaluating-a-product-it-is-not-indexed-making-shelf-out-of-date
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

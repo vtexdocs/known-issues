@@ -1,5 +1,5 @@
 ---
-title: "[Mercado Livre] [Sku] Bridge isn't logging some error messages"
+title: '[Mercado Livre] [Sku] Bridge isn''t logging some error messages'
 id: 2GcnFE9TKcivoPekYuCNF9
 status: PUBLISHED
 createdAt: 2024-07-23T16:00:26.447Z

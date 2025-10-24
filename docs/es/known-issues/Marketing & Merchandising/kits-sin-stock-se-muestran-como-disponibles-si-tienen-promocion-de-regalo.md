@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: kits-without-stock-are-displayed-as-available-if-they-have-a-gift-promotion
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

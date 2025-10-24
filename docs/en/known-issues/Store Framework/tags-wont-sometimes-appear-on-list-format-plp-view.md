@@ -1,5 +1,5 @@
 ---
-title: "Tags won't sometimes appear on List Format PLP View"
+title: 'Tags won''t sometimes appear on List Format PLP View'
 id: 4CPSP7GjBfUgxFvmnAhK8z
 status: PUBLISHED
 createdAt: 2024-02-15T13:58:42.405Z

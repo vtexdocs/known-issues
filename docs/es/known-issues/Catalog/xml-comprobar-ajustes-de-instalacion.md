@@ -1,5 +1,5 @@
 ---
-title: XML "Comprobar ajustes de instalación"
+title: 'XML "Comprobar ajustes de instalación"'
 slug: xml-comprobar-ajustes-de-instalacion
 status: PUBLISHED
 createdAt: 2025-08-12T18:36:54.827Z

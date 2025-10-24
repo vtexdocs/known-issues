@@ -13,7 +13,7 @@ tag: Pricing & Promotions
 slugEN: orders-with-changes-may-not-send-transactional-email-for-invoiced-order
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

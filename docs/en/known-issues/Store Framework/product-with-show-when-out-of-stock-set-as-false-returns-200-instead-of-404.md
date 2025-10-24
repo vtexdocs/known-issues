@@ -1,5 +1,5 @@
 ---
-title: Product with 'Show When Out of Stock' set as false returns 200 instead of 404
+title: 'Product with ''Show When Out of Stock'' set as false returns 200 instead of 404'
 slug: product-with-show-when-out-of-stock-set-as-false-returns-200-instead-of-404
 status: PUBLISHED
 createdAt: 2025-10-16T20:54:12.085Z

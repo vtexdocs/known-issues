@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: the-product-information-button-does-not-display-the-data
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

@@ -1,5 +1,5 @@
 ---
-title: Catalog Inativar o producttid usando a API não está inativando o SKU
+title: 'Catalog Inativar o producttid usando a API não está inativando o SKU'
 slug: catalog-inativar-o-producttid-usando-a-api-nao-esta-inativando-o-sku
 status: PUBLISHED
 createdAt: 2025-07-24T17:43:09.996Z

@@ -1,5 +1,5 @@
 ---
-title: "Attachment's permitted values are not updated when it's added to items"
+title: 'Attachment''s permitted values are not updated when it''s added to items'
 id: 1JjFJJGsUaLWvthJ7kxSBw
 status: PUBLISHED
 createdAt: 2023-10-17T20:16:40.973Z

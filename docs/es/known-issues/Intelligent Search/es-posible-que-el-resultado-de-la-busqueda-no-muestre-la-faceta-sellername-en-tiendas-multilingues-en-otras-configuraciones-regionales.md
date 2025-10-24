@@ -1,5 +1,5 @@
 ---
-title: Es posible que el resultado de la búsqueda no muestre la faceta sellerName en tiendas multilingües en otras configuraciones regionales.
+title: 'Es posible que el resultado de la búsqueda no muestre la faceta sellerName en tiendas multilingües en otras configuraciones regionales.'
 slug: es-posible-que-el-resultado-de-la-busqueda-no-muestre-la-faceta-sellername-en-tiendas-multilingues-en-otras-configuraciones-regionales
 status: PUBLISHED
 createdAt: 2025-10-16T20:38:51.548Z

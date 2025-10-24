@@ -1,5 +1,5 @@
 ---
-title: XML "Verificar configurações de parcelamento"
+title: 'XML "Verificar configurações de parcelamento"'
 slug: xml-verificar-configuracoes-de-parcelamento
 status: PUBLISHED
 createdAt: 2025-08-12T18:36:43.895Z

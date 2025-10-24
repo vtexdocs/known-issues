@@ -1,5 +1,5 @@
 ---
-title: Os pontos de coleta não funcionam no simulador de entrega em países que não usam nossa API de código postal
+title: 'Os pontos de coleta não funcionam no simulador de entrega em países que não usam nossa API de código postal'
 slug: os-pontos-de-coleta-nao-funcionam-no-simulador-de-entrega-em-paises-que-nao-usam-nossa-api-de-codigo-postal
 status: PUBLISHED
 createdAt: 2025-07-24T17:41:48.494Z

@@ -13,7 +13,7 @@ tag: Logistics
 slugEN: the-order-management-filter-does-not-find-results-for-criteria-that-have
 locale: pt
 kiStatus: Backlog
-internalReference: Zendesk Ticket #353656
+internalReference: Zendesk Ticket
 ---
 
 ## Sumário

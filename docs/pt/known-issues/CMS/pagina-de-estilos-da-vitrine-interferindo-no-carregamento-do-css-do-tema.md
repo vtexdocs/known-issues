@@ -1,5 +1,5 @@
 ---
-title: Página de estilos da vitrine interferindo no carregamento do CSS do tema
+title: 'Página de estilos da vitrine interferindo no carregamento do CSS do tema'
 slug: pagina-de-estilos-da-vitrine-interferindo-no-carregamento-do-css-do-tema
 status: PUBLISHED
 createdAt: 2025-08-25T15:07:04.159Z

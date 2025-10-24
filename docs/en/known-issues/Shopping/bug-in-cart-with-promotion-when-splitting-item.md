@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: bug-in-cart-with-promotion-when-splitting-item
 locale: en
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

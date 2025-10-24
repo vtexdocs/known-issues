@@ -1,5 +1,5 @@
 ---
-title: lastModifiedBy field always returns "null" in search API.
+title: 'lastModifiedBy field always returns "null" in search API.'
 slug: lastmodifiedby-field-always-returns-null-in-search-api
 status: PUBLISHED
 createdAt: 2025-10-16T20:47:53.280Z

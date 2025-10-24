@@ -1,5 +1,5 @@
 ---
-title: PS - Sólo un agente recibe notificación por correo electrónico en llamada activa
+title: 'PS - Sólo un agente recibe notificación por correo electrónico en llamada activa'
 slug: ps-solo-un-agente-recibe-notificacion-por-correo-electronico-en-llamada-activa
 status: PUBLISHED
 createdAt: 2025-10-16T20:50:36.933Z

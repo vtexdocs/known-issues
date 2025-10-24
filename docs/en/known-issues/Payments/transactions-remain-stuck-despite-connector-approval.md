@@ -1,5 +1,5 @@
 ---
-title: Transactions remain stuck despite connector approval
+title: 'Transactions remain stuck despite connector approval'
 slug: transactions-remain-stuck-despite-connector-approval
 status: PUBLISHED
 createdAt: 2025-10-21T19:09:28.716Z

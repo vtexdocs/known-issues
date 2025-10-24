@@ -1,5 +1,5 @@
 ---
-title: Pick and Pack Worksheets remain open and cannot be completed
+title: 'Pick and Pack Worksheets remain open and cannot be completed'
 slug: pick-and-pack-worksheets-remain-open-and-cannot-be-completed
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:02.455Z

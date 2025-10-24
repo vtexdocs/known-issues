@@ -1,5 +1,5 @@
 ---
-title: Manual sorting of collections doesn't work as expected
+title: 'Manual sorting of collections doesn''t work as expected'
 slug: manual-sorting-of-collections-doesnt-work-as-expected
 status: PUBLISHED
 createdAt: 2025-08-12T18:34:41.253Z

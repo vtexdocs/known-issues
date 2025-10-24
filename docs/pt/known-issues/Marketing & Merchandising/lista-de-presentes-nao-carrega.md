@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: gift-list-does-not-load
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

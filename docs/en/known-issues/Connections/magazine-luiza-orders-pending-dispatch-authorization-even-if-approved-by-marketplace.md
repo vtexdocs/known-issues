@@ -1,5 +1,5 @@
 ---
-title: Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace
+title: 'Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace'
 slug: magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace
 status: PUBLISHED
 createdAt: 2025-10-16T20:43:43.120Z

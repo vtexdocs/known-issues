@@ -1,5 +1,5 @@
 ---
-title: "Seller's logo doesn't appear on the product page"
+title: 'Seller''s logo doesn''t appear on the product page'
 id: 1WIIPZibFegYSsKIIscIse
 status: PUBLISHED
 createdAt: 2018-05-08T19:35:42.171Z
@@ -13,7 +13,7 @@ tag: Portal
 slugEN: sellers-logo-doesnt-appear-on-the-product-page
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

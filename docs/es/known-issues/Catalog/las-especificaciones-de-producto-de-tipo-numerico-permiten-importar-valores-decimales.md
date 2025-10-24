@@ -1,5 +1,5 @@
 ---
-title: Las especificaciones de producto de tipo numérico permiten importar valores decimales
+title: 'Las especificaciones de producto de tipo numérico permiten importar valores decimales'
 slug: las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-valores-decimales
 status: PUBLISHED
 createdAt: 2025-09-18T14:45:05.145Z

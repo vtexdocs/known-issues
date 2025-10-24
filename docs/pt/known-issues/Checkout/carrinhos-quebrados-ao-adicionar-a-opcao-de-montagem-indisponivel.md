@@ -1,5 +1,5 @@
 ---
-title: Carrinhos quebrados ao adicionar a opção de montagem indisponível
+title: 'Carrinhos quebrados ao adicionar a opção de montagem indisponível'
 slug: carrinhos-quebrados-ao-adicionar-a-opcao-de-montagem-indisponivel
 status: PUBLISHED
 createdAt: 2025-10-15T20:35:32.646Z

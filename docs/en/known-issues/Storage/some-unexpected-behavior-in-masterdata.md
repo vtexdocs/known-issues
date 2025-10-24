@@ -1,5 +1,5 @@
 ---
-title: Some unexpected behavior in MasterData
+title: 'Some unexpected behavior in MasterData'
 slug: some-unexpected-behavior-in-masterdata
 status: PUBLISHED
 createdAt: 2025-10-10T16:12:05.352Z

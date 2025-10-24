@@ -1,5 +1,5 @@
 ---
-title: Products with selling price is zero cannot be added to the cart in FastStore
+title: 'Products with selling price is zero cannot be added to the cart in FastStore'
 slug: products-with-selling-price-is-zero-cannot-be-added-to-the-cart-in-faststore
 status: PUBLISHED
 createdAt: 2025-10-16T20:49:53.556Z

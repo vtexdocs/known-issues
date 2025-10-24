@@ -1,5 +1,5 @@
 ---
-title: Tiempo de espera de búsqueda en Filamanager
+title: 'Tiempo de espera de búsqueda en Filamanager'
 slug: tiempo-de-espera-de-busqueda-en-filamanager
 status: PUBLISHED
 createdAt: 2025-10-16T20:51:29.381Z

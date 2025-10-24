@@ -1,5 +1,5 @@
 ---
-title: Bucle de inicio de sesión infinito en Pick and Pack
+title: 'Bucle de inicio de sesión infinito en Pick and Pack'
 slug: bucle-de-inicio-de-sesion-infinito-en-pick-and-pack
 status: PUBLISHED
 createdAt: 2025-10-16T20:45:43.194Z

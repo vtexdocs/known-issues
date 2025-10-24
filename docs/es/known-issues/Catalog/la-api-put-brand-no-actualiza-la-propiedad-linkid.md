@@ -1,5 +1,5 @@
 ---
-title: La API PUT Brand no actualiza la propiedad "LinkID
+title: 'La API PUT Brand no actualiza la propiedad "LinkID'
 slug: la-api-put-brand-no-actualiza-la-propiedad-linkid
 status: PUBLISHED
 createdAt: 2025-10-16T20:51:55.448Z

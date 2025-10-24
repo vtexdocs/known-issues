@@ -1,5 +1,5 @@
 ---
-title: O histórico de pedidos B2B considera as funções de representante de vendas ao se passar por um usuário
+title: 'O histórico de pedidos B2B considera as funções de representante de vendas ao se passar por um usuário'
 slug: o-historico-de-pedidos-b2b-considera-as-funcoes-de-representante-de-vendas-ao-se-passar-por-um-usuario
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:50.012Z

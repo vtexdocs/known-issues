@@ -1,5 +1,5 @@
 ---
-title: A inserção de vários valores de especificação não está funcionando no catálogo legado
+title: 'A inserção de vários valores de especificação não está funcionando no catálogo legado'
 slug: a-insercao-de-varios-valores-de-especificacao-nao-esta-funcionando-no-catalogo-legado
 status: PUBLISHED
 createdAt: 2025-09-15T23:29:24.978Z

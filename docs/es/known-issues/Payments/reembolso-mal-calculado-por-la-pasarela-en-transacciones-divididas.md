@@ -1,5 +1,5 @@
 ---
-title: Reembolso mal calculado por la pasarela en transacciones divididas
+title: 'Reembolso mal calculado por la pasarela en transacciones divididas'
 slug: reembolso-mal-calculado-por-la-pasarela-en-transacciones-divididas
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:34.532Z

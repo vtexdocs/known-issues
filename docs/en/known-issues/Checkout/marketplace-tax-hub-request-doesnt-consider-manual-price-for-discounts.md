@@ -1,5 +1,5 @@
 ---
-title: "Marketplace tax hub request doesn't consider manual price for discounts"
+title: 'Marketplace tax hub request doesn''t consider manual price for discounts'
 id: 2pGgbPB7Qm4dXtQauohvx7
 status: PUBLISHED
 createdAt: 2023-11-08T17:59:41.102Z

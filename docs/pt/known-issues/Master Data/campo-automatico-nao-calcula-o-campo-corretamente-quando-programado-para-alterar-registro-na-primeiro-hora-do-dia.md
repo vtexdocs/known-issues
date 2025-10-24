@@ -1,5 +1,5 @@
 ---
-title: 'Campo automático não calcula o campo corretamente quando programado para alterar registro na primeiro hora do dia '
+title: 'Campo automático não calcula o campo corretamente quando programado para alterar registro na primeiro hora do dia'
 id: 6DieNCI6paEUeg06cKsCYI
 status: PUBLISHED
 createdAt: 2018-12-17T18:37:45.246Z
@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: automatic-field-doesnt-calculate-the-field-correctly-when-set-to-calculate-during-the-first-hour-of-the-day
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

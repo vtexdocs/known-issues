@@ -1,5 +1,5 @@
 ---
-title: The vtexcommerce-order-changed-v2 template cannot send the reason field, as in version 1 of changeOrders.
+title: 'The vtexcommerce-order-changed-v2 template cannot send the reason field, as in version 1 of changeOrders.'
 slug: the-vtexcommerceorderchangedv2-template-cannot-send-the-reason-field-as-in-version-1-of-changeorders
 status: PUBLISHED
 createdAt: 2025-09-11T19:29:03.210Z

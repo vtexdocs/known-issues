@@ -1,5 +1,5 @@
 ---
-title: Los usuarios creados en cuentas con la función emailRectification no se crean en VTEX ID
+title: 'Los usuarios creados en cuentas con la función emailRectification no se crean en VTEX ID'
 slug: los-usuarios-creados-en-cuentas-con-la-funcion-emailrectification-no-se-crean-en-vtex-id
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:35.979Z

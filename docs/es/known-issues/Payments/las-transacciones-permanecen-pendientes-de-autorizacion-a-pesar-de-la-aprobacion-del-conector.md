@@ -1,5 +1,5 @@
 ---
-title: Las transacciones permanecen pendientes de autorización a pesar de la aprobación del conector
+title: 'Las transacciones permanecen pendientes de autorización a pesar de la aprobación del conector'
 slug: las-transacciones-permanecen-pendientes-de-autorizacion-a-pesar-de-la-aprobacion-del-conector
 status: PUBLISHED
 createdAt: 2025-10-03T19:09:31.039Z

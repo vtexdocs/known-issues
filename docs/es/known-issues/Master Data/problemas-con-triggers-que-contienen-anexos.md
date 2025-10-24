@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: problems-with-triggers-that-contain-attachments
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

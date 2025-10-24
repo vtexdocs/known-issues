@@ -1,5 +1,5 @@
 ---
-title: A pesquisa de produtos por campos de ID não funciona com caracteres maiúsculos
+title: 'A pesquisa de produtos por campos de ID não funciona com caracteres maiúsculos'
 slug: a-pesquisa-de-produtos-por-campos-de-id-nao-funciona-com-caracteres-maiusculos
 status: PUBLISHED
 createdAt: 2025-10-16T20:45:08.515Z

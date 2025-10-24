@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: tx-id-link-in-orders-management-doesnt-redirect-to-payment-module-in
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

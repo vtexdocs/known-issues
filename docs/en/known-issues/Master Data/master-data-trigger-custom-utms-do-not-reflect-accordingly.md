@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: master-data-trigger-custom-utms-do-not-reflect-accordingly
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

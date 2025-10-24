@@ -1,5 +1,5 @@
 ---
-title: Minimum of items can be sent as 0 through the field "numberOfItemsPerShipment" in API
+title: 'Minimum of items can be sent as 0 through the field "numberOfItemsPerShipment" in API'
 slug: minimum-of-items-can-be-sent-as-0-through-the-field-numberofitemspershipment-in-api
 status: PUBLISHED
 createdAt: 2025-10-16T19:59:02.999Z

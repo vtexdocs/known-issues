@@ -1,5 +1,5 @@
 ---
-title: Shopee Listados duplicados tras la actualización de la arquitectura de integración VTEX
+title: 'Shopee Listados duplicados tras la actualización de la arquitectura de integración VTEX'
 slug: shopee-listados-duplicados-tras-la-actualizacion-de-la-arquitectura-de-integracion-vtex
 status: PUBLISHED
 createdAt: 2025-10-16T21:00:24.687Z

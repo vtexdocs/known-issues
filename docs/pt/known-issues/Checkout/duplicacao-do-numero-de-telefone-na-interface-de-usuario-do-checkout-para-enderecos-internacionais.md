@@ -1,5 +1,5 @@
 ---
-title: Duplicação do número de telefone na interface de usuário do checkout para endereços internacionais
+title: 'Duplicação do número de telefone na interface de usuário do checkout para endereços internacionais'
 slug: duplicacao-do-numero-de-telefone-na-interface-de-usuario-do-checkout-para-enderecos-internacionais
 status: PUBLISHED
 createdAt: 2025-10-16T19:21:41.605Z

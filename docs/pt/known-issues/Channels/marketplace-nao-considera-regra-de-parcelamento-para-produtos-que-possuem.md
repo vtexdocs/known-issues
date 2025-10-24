@@ -13,7 +13,7 @@ tag: Checkout,Payments
 slugEN: marketplace-doesnt-consider-installment-rule-for-products-that-have-a-commercial-condition-in-the-seller
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

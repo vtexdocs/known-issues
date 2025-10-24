@@ -1,5 +1,5 @@
 ---
-title: Error when changing an index if the fields are identical.
+title: 'Error when changing an index if the fields are identical.'
 slug: error-when-changing-an-index-if-the-fields-are-identical
 status: PUBLISHED
 createdAt: 2025-10-21T19:14:35.911Z

@@ -1,5 +1,5 @@
 ---
-title: O checkout mostra métodos de pagamento sem opções de parcelamento qualificadas
+title: 'O checkout mostra métodos de pagamento sem opções de parcelamento qualificadas'
 slug: o-checkout-mostra-metodos-de-pagamento-sem-opcoes-de-parcelamento-qualificadas
 status: PUBLISHED
 createdAt: 2025-10-08T23:17:34.427Z

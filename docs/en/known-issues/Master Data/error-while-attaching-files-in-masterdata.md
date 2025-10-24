@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: error-while-attaching-files-in-masterdata
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

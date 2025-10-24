@@ -1,5 +1,5 @@
 ---
-title: DefaultValue on specification is accepted for CheckBox, Combo or Radio field types via API
+title: 'DefaultValue on specification is accepted for CheckBox, Combo or Radio field types via API'
 slug: defaultvalue-on-specification-is-accepted-for-checkbox-combo-or-radio-field-types-via-api
 status: PUBLISHED
 createdAt: 2025-10-24T12:33:26.070Z

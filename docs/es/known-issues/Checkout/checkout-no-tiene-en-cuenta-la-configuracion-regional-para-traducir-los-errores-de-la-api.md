@@ -1,5 +1,5 @@
 ---
-title: Checkout no tiene en cuenta la configuración regional para traducir los errores de la API
+title: 'Checkout no tiene en cuenta la configuración regional para traducir los errores de la API'
 slug: checkout-no-tiene-en-cuenta-la-configuracion-regional-para-traducir-los-errores-de-la-api
 status: PUBLISHED
 createdAt: 2025-10-16T20:32:01.372Z

@@ -1,5 +1,5 @@
 ---
-title: Transacción no cargada - Pantalla en blanco
+title: 'Transacción no cargada - Pantalla en blanco'
 slug: transaccion-no-cargada-pantalla-en-blanco
 status: PUBLISHED
 createdAt: 2025-10-16T20:27:40.771Z

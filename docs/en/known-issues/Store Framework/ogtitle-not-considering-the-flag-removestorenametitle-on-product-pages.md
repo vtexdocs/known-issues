@@ -1,5 +1,5 @@
 ---
-title: og:title not considering the flag removeStoreNameTitle on product pages
+title: 'og:title not considering the flag removeStoreNameTitle on product pages'
 slug: ogtitle-not-considering-the-flag-removestorenametitle-on-product-pages
 status: PUBLISHED
 createdAt: 2025-08-15T12:45:28.543Z

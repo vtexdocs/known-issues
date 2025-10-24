@@ -1,5 +1,5 @@
 ---
-title: Giftcard not getting refund after transaction cancellation
+title: 'Giftcard not getting refund after transaction cancellation'
 slug: giftcard-not-getting-refund-after-transaction-cancellation
 status: PUBLISHED
 createdAt: 2025-08-12T18:51:09.447Z

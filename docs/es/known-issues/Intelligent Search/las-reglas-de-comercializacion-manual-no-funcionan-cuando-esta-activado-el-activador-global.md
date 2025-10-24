@@ -1,5 +1,5 @@
 ---
-title: Las reglas de comercialización manual no funcionan cuando está activado el Activador global.
+title: 'Las reglas de comercialización manual no funcionan cuando está activado el Activador global.'
 slug: las-reglas-de-comercializacion-manual-no-funcionan-cuando-esta-activado-el-activador-global
 status: PUBLISHED
 createdAt: 2025-10-16T19:58:06.404Z

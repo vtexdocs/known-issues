@@ -1,5 +1,5 @@
 ---
-title: La edición del correo electrónico en la interfaz de pago hace que la pantalla se congele.
+title: 'La edición del correo electrónico en la interfaz de pago hace que la pantalla se congele.'
 slug: la-edicion-del-correo-electronico-en-la-interfaz-de-pago-hace-que-la-pantalla-se-congele
 status: PUBLISHED
 createdAt: 2025-10-16T20:48:17.543Z

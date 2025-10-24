@@ -1,5 +1,5 @@
 ---
-title: "Alguns métodos de pagamento não são exibidos nas promoções 'Buy Together' na nova interface do usuário"
+title: 'Alguns métodos de pagamento não são exibidos nas promoções ''Buy Together'' na nova interface do usuário'
 id: MDXIGrCng2fJOUibsc2RK
 status: PUBLISHED
 createdAt: 2024-09-03T01:49:54.371Z

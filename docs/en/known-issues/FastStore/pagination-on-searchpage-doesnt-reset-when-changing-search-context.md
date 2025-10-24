@@ -1,5 +1,5 @@
 ---
-title: "Pagination on searchpage doesn't reset when changing search context"
+title: 'Pagination on searchpage doesn''t reset when changing search context'
 id: 2lNL95NDZvO8NqxhJDrA6G
 status: PUBLISHED
 createdAt: 2023-07-06T19:54:29.289Z

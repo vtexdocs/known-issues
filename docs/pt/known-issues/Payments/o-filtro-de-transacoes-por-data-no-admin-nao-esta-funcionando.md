@@ -1,5 +1,5 @@
 ---
-title: O filtro de transações por data no Admin não está funcionando
+title: 'O filtro de transações por data no Admin não está funcionando'
 slug: o-filtro-de-transacoes-por-data-no-admin-nao-esta-funcionando
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:09.608Z

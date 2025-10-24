@@ -1,5 +1,5 @@
 ---
-title: Sinalizador de desempenho que afeta a grade de produtos no PLP
+title: 'Sinalizador de desempenho que afeta a grade de produtos no PLP'
 slug: sinalizador-de-desempenho-que-afeta-a-grade-de-produtos-no-plp
 status: PUBLISHED
 createdAt: 2025-10-16T19:27:17.279Z

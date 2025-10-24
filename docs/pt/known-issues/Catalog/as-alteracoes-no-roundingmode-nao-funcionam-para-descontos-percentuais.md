@@ -1,5 +1,5 @@
 ---
-title: As alterações no RoundingMode não funcionam para descontos percentuais
+title: 'As alterações no RoundingMode não funcionam para descontos percentuais'
 slug: as-alteracoes-no-roundingmode-nao-funcionam-para-descontos-percentuais
 status: PUBLISHED
 createdAt: 2025-10-16T20:40:50.896Z

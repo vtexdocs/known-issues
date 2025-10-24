@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: search-for-gift-list-comes-back-empty-when-using-3-characters-or-less
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

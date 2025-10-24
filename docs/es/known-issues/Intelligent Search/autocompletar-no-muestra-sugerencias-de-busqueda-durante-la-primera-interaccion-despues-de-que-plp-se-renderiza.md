@@ -1,5 +1,5 @@
 ---
-title: Autocompletar no muestra Sugerencias de Búsqueda durante la primera interacción después de que PLP se renderiza.
+title: 'Autocompletar no muestra Sugerencias de Búsqueda durante la primera interacción después de que PLP se renderiza.'
 slug: autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-plp-se-renderiza
 status: PUBLISHED
 createdAt: 2025-10-16T20:46:30.875Z

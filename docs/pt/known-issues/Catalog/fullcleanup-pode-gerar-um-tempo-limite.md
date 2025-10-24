@@ -1,5 +1,5 @@
 ---
-title: Fullcleanup pode gerar um tempo limite
+title: 'Fullcleanup pode gerar um tempo limite'
 slug: fullcleanup-pode-gerar-um-tempo-limite
 status: PUBLISHED
 createdAt: 2025-10-02T19:29:27.443Z

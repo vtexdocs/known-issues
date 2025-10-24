@@ -13,7 +13,7 @@ tag: Suggestions
 slugEN: error-sending-skus-from-sellers-to-marketplaces-and-vice-versa
 locale: en
 kiStatus: Fixed
-internalReference: 000
+internalReference: 0
 ---
 
 ## Summary

@@ -1,5 +1,5 @@
 ---
-title: Campaign Audience no guarda la información de los cupones
+title: 'Campaign Audience no guarda la información de los cupones'
 slug: campaign-audience-no-guarda-la-informacion-de-los-cupones
 status: PUBLISHED
 createdAt: 2025-09-04T15:03:12.584Z

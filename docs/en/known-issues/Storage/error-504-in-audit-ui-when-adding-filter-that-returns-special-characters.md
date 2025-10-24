@@ -1,5 +1,5 @@
 ---
-title: Error 504 in Audit UI when adding filter that returns special characters.
+title: 'Error 504 in Audit UI when adding filter that returns special characters.'
 slug: error-504-in-audit-ui-when-adding-filter-that-returns-special-characters
 status: PUBLISHED
 createdAt: 2025-10-16T20:00:23.203Z

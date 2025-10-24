@@ -1,5 +1,5 @@
 ---
-title: CategoryFullPath a veces incorrecto en la respuesta de la API de búsqueda
+title: 'CategoryFullPath a veces incorrecto en la respuesta de la API de búsqueda'
 slug: categoryfullpath-a-veces-incorrecto-en-la-respuesta-de-la-api-de-busqueda
 status: PUBLISHED
 createdAt: 2025-10-16T20:48:33.864Z

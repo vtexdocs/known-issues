@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: search-with-on-portal-returns-404filenotfound
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

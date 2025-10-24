@@ -1,5 +1,5 @@
 ---
-title: Shopee Error “The model_id is wrong or not related to this item”
+title: 'Shopee Error “The model_id is wrong or not related to this item”'
 slug: shopee-error-the-modelid-is-wrong-or-not-related-to-this-item
 status: PUBLISHED
 createdAt: 2025-09-15T17:42:17.844Z

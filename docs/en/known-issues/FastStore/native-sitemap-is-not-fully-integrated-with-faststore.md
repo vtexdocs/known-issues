@@ -1,5 +1,5 @@
 ---
-title: Native Sitemap is not fully integrated with Faststore
+title: 'Native Sitemap is not fully integrated with Faststore'
 slug: native-sitemap-is-not-fully-integrated-with-faststore
 status: PUBLISHED
 createdAt: 2025-10-13T14:41:34.265Z

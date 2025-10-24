@@ -1,5 +1,5 @@
 ---
-title: "New subscription orders aren't created with saved credit card and savePersonalDataAsOptIn"
+title: 'New subscription orders aren''t created with saved credit card and savePersonalDataAsOptIn'
 id: 5mMUYOzdXM9p69oythduOx
 status: PUBLISHED
 createdAt: 2024-08-27T17:54:38.067Z

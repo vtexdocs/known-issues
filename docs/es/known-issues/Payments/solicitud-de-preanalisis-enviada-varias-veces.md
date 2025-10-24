@@ -1,5 +1,5 @@
 ---
-title: Solicitud de preanálisis enviada varias veces
+title: 'Solicitud de preanálisis enviada varias veces'
 slug: solicitud-de-preanalisis-enviada-varias-veces
 status: PUBLISHED
 createdAt: 2025-10-16T19:22:40.713Z

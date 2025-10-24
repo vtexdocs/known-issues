@@ -1,5 +1,5 @@
 ---
-title: Transaction created with duplicated payments
+title: 'Transaction created with duplicated payments'
 slug: transaction-created-with-duplicated-payments
 status: PUBLISHED
 createdAt: 2025-10-16T20:28:20.017Z

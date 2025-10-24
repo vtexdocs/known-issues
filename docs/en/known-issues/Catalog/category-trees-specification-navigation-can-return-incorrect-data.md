@@ -1,5 +1,5 @@
 ---
-title: Category tree's specification navigation can return incorrect data
+title: 'Category tree''s specification navigation can return incorrect data'
 slug: category-trees-specification-navigation-can-return-incorrect-data
 status: PUBLISHED
 createdAt: 2025-10-16T20:36:27.358Z

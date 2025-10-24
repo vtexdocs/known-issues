@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: quick-view-does-not-work-on-HTTPS-pages
 locale: en
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

@@ -1,5 +1,5 @@
 ---
-title: "Scroll issues when swiping in mobile in quick view when there's a slider layout on background"
+title: 'Scroll issues when swiping in mobile in quick view when there''s a slider layout on background'
 id: 5B7g5Wt1iyh0BLwIUprO2C
 status: PUBLISHED
 createdAt: 2024-02-20T17:58:53.942Z

@@ -1,5 +1,5 @@
 ---
-title: "Faststore V1 don't return SEO information on Graphql query"
+title: 'Faststore V1 don''t return SEO information on Graphql query'
 id: 4nZnX8sj9J90xtkNpYIgZ4
 status: PUBLISHED
 createdAt: 2023-11-01T17:08:35.090Z

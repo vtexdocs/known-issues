@@ -1,5 +1,5 @@
 ---
-title: Faststore stores have no conversion data in Intelligent Search reports
+title: 'Faststore stores have no conversion data in Intelligent Search reports'
 slug: faststore-stores-have-no-conversion-data-in-intelligent-search-reports
 status: PUBLISHED
 createdAt: 2025-10-16T20:01:22.810Z

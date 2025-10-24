@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: trigger-doesnt-work
 locale: pt
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: delay-when-editing-checkout-files
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

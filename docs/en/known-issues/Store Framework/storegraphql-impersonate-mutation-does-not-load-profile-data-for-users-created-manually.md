@@ -1,5 +1,5 @@
 ---
-title: Store-graphql impersonate mutation does not load profile data for users created manually
+title: 'Store-graphql impersonate mutation does not load profile data for users created manually'
 slug: storegraphql-impersonate-mutation-does-not-load-profile-data-for-users-created-manually
 status: PUBLISHED
 createdAt: 2025-10-16T20:48:59.077Z

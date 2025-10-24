@@ -1,5 +1,5 @@
 ---
-title: "Problems with 'price from' in the 'ButtonBuyModal' control"
+title: 'Problems with ''price from'' in the ''ButtonBuyModal'' control'
 id: 2DdTK2AQNysEqM8AyMwSMQ
 status: PUBLISHED
 createdAt: 2018-10-05T17:06:27.321Z
@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: problems-with-price-from-in-the-buttonbuymodal-control
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

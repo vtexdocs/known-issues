@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: searches-for-brands-that-have-an-apostrophe-do-not-return-data-in-the-admin
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

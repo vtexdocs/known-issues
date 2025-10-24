@@ -1,5 +1,5 @@
 ---
-title: Discrepancia en la visualización de reservas en la Gestión de Inventarios
+title: 'Discrepancia en la visualización de reservas en la Gestión de Inventarios'
 slug: discrepancia-en-la-visualizacion-de-reservas-en-la-gestion-de-inventarios
 status: PUBLISHED
 createdAt: 2025-10-16T20:51:15.601Z

@@ -1,5 +1,5 @@
 ---
-title: Shipping Preview wrongly displaying the price in pickup and delivery split
+title: 'Shipping Preview wrongly displaying the price in pickup and delivery split'
 slug: shipping-preview-wrongly-displaying-the-price-in-pickup-and-delivery-split
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:24.820Z

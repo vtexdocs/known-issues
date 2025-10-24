@@ -1,5 +1,5 @@
 ---
-title: Email not auto-filling for new users on checkout-ui
+title: 'Email not auto-filling for new users on checkout-ui'
 slug: email-not-autofilling-for-new-users-on-checkoutui
 status: PUBLISHED
 createdAt: 2025-10-16T19:52:36.928Z

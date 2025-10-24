@@ -1,5 +1,5 @@
 ---
-title: "ViewPart 'shippingValue' no muestra los plazos en horas correctamente"
+title: 'ViewPart ''shippingValue'' no muestra los plazos en horas correctamente'
 id: 5hvl9eGxPLZAuNcFAFc9Vb
 status: PUBLISHED
 createdAt: 2019-09-09T20:07:14.796Z
@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: shippingvalue-viewpart-incorrectly-displays-delivery-times-in-hours
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

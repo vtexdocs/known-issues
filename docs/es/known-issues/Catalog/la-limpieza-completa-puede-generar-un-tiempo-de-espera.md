@@ -1,5 +1,5 @@
 ---
-title: La limpieza completa puede generar un tiempo de espera
+title: 'La limpieza completa puede generar un tiempo de espera'
 slug: la-limpieza-completa-puede-generar-un-tiempo-de-espera
 status: PUBLISHED
 createdAt: 2025-10-02T19:29:32.812Z

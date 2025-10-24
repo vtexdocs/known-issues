@@ -1,5 +1,5 @@
 ---
-title: Search Banners not deleting rules from Trigger Rules
+title: 'Search Banners not deleting rules from Trigger Rules'
 slug: search-banners-not-deleting-rules-from-trigger-rules
 status: PUBLISHED
 createdAt: 2025-10-16T19:56:12.841Z

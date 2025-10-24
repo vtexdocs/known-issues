@@ -1,5 +1,5 @@
 ---
-title: Malformed PDP URLs when using workspace querystring
+title: 'Malformed PDP URLs when using workspace querystring'
 slug: malformed-pdp-urls-when-using-workspace-querystring
 status: PUBLISHED
 createdAt: 2025-08-25T14:58:36.205Z

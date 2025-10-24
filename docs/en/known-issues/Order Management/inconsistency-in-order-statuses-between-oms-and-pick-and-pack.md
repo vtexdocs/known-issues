@@ -1,5 +1,5 @@
 ---
-title: Inconsistency in order statuses between OMS and Pick and Pack
+title: 'Inconsistency in order statuses between OMS and Pick and Pack'
 slug: inconsistency-in-order-statuses-between-oms-and-pick-and-pack
 status: PUBLISHED
 createdAt: 2025-10-16T19:21:11.799Z

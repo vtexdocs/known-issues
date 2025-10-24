@@ -1,5 +1,5 @@
 ---
-title: "Error 'Grupo de campos no encontrado en la categoría' al crear una especificación a través de la API utilizando un grupo que pertenece a la categoría principal."
+title: 'Error ''Grupo de campos no encontrado en la categoría'' al crear una especificación a través de la API utilizando un grupo que pertenece a la categoría principal.'
 id: 2xkVJw4JcfdhgV1Ag2HdGu
 status: PUBLISHED
 createdAt: 2024-10-01T19:01:14.594Z

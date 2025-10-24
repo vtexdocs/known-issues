@@ -1,5 +1,5 @@
 ---
-title: Ponto de coleta não selecionado pela interface do usuário do checkout ao alterar o SLA
+title: 'Ponto de coleta não selecionado pela interface do usuário do checkout ao alterar o SLA'
 slug: ponto-de-coleta-nao-selecionado-pela-interface-do-usuario-do-checkout-ao-alterar-o-sla
 status: PUBLISHED
 createdAt: 2025-10-16T20:43:12.394Z

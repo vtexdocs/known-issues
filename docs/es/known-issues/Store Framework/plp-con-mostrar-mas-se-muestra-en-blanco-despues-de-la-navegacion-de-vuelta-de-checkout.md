@@ -1,5 +1,5 @@
 ---
-title: PLP con "Mostrar más" se muestra en blanco después de la navegación de vuelta de Checkout
+title: 'PLP con "Mostrar más" se muestra en blanco después de la navegación de vuelta de Checkout'
 slug: plp-con-mostrar-mas-se-muestra-en-blanco-despues-de-la-navegacion-de-vuelta-de-checkout
 status: PUBLISHED
 createdAt: 2025-10-02T19:50:56.361Z

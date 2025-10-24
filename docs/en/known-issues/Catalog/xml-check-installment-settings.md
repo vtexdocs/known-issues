@@ -1,5 +1,5 @@
 ---
-title: XML "Check installment settings"
+title: 'XML "Check installment settings"'
 slug: xml-check-installment-settings
 status: PUBLISHED
 createdAt: 2025-08-12T18:36:49.432Z

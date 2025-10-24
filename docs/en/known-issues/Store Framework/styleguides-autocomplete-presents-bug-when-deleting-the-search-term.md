@@ -1,5 +1,5 @@
 ---
-title: Styleguide's autocomplete presents bug when deleting the search term
+title: 'Styleguide''s autocomplete presents bug when deleting the search term'
 slug: styleguides-autocomplete-presents-bug-when-deleting-the-search-term
 status: PUBLISHED
 createdAt: 2025-10-16T20:32:59.208Z

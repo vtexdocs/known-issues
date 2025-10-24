@@ -1,5 +1,5 @@
 ---
-title: Previsão de envio mostrando mensagem de indisponibilidade para entrega
+title: 'Previsão de envio mostrando mensagem de indisponibilidade para entrega'
 slug: previsao-de-envio-mostrando-mensagem-de-indisponibilidade-para-entrega
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:38.727Z

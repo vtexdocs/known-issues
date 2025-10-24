@@ -1,5 +1,5 @@
 ---
-title: “Error get items and fulfillments” when attempting to assign orders in Pick and Pack due to canceled orders associated with a Picker
+title: '“Error get items and fulfillments” when attempting to assign orders in Pick and Pack due to canceled orders associated with a Picker'
 slug: error-get-items-and-fulfillments-when-attempting-to-assign-orders-in-pick-and-pack-due-to-canceled-orders-associated-with-a-picker
 status: PUBLISHED
 createdAt: 2025-07-24T17:49:00.592Z

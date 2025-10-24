@@ -1,5 +1,5 @@
 ---
-title: Filtro "Product Specification" no Collection Module assumindo valores incorretos
+title: 'Filtro "Product Specification" no Collection Module assumindo valores incorretos'
 slug: filtro-product-specification-no-collection-module-assumindo-valores-incorretos
 status: PUBLISHED
 createdAt: 2025-09-03T14:10:19.977Z

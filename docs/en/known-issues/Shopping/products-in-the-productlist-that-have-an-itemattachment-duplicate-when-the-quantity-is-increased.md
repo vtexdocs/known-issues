@@ -13,7 +13,7 @@ tag: Checkout,VTEX IO
 slugEN: products-in-the-productlist-that-have-an-itemattachment-duplicate-when-the-quantity-is-increased
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

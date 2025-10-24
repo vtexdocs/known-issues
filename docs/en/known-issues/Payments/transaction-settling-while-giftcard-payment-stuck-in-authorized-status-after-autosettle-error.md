@@ -1,5 +1,5 @@
 ---
-title: Transaction settling while Giftcard payment stuck in authorized status after autosettle error
+title: 'Transaction settling while Giftcard payment stuck in authorized status after autosettle error'
 slug: transaction-settling-while-giftcard-payment-stuck-in-authorized-status-after-autosettle-error
 status: PUBLISHED
 createdAt: 2025-07-24T17:50:07.041Z

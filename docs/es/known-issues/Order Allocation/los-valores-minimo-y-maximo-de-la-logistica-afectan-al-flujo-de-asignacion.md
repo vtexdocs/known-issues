@@ -1,5 +1,5 @@
 ---
-title: Los valores mínimo y máximo de la logística afectan al flujo de asignación
+title: 'Los valores mínimo y máximo de la logística afectan al flujo de asignación'
 slug: los-valores-minimo-y-maximo-de-la-logistica-afectan-al-flujo-de-asignacion
 status: PUBLISHED
 createdAt: 2025-10-16T20:53:16.503Z

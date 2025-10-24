@@ -1,5 +1,5 @@
 ---
-title: Pagamento recebido durante a aprovação da transação
+title: 'Pagamento recebido durante a aprovação da transação'
 slug: pagamento-recebido-durante-a-aprovacao-da-transacao
 status: PUBLISHED
 createdAt: 2025-10-16T20:34:46.367Z

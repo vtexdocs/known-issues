@@ -1,5 +1,5 @@
 ---
-title: Some structured data from Offer are not supported by the schema
+title: 'Some structured data from Offer are not supported by the schema'
 slug: some-structured-data-from-offer-are-not-supported-by-the-schema
 status: PUBLISHED
 createdAt: 2025-10-16T19:30:19.455Z

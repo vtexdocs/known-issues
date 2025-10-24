@@ -13,7 +13,7 @@ tag: Logistics
 slugEN: shipping-is-displayed-with-wrong-value-for-negative-inventory
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

@@ -1,5 +1,5 @@
 ---
-title: O pedido não pode ser criado devido a um cartão de crédito inválido
+title: 'O pedido não pode ser criado devido a um cartão de crédito inválido'
 slug: o-pedido-nao-pode-ser-criado-devido-a-um-cartao-de-credito-invalido
 status: PUBLISHED
 createdAt: 2025-10-20T13:44:24.932Z

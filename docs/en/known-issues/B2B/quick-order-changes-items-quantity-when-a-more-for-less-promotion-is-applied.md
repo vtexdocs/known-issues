@@ -1,5 +1,5 @@
 ---
-title: "Quick Order changes item's quantity when a More for Less promotion is applied"
+title: 'Quick Order changes item''s quantity when a More for Less promotion is applied'
 id: 2nixdZvlUVIXnY8h3pF60j
 status: PUBLISHED
 createdAt: 2024-10-24T14:40:29.973Z

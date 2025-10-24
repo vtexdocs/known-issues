@@ -1,5 +1,5 @@
 ---
-title: Difference in values ​​between the total changes and the detail of values ​​by product
+title: 'Difference in values ​​between the total changes and the detail of values ​​by product'
 slug: difference-in-values-between-the-total-changes-and-the-detail-of-values-by-product
 status: PUBLISHED
 createdAt: 2025-10-16T19:23:00.473Z

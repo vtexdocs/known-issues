@@ -1,5 +1,5 @@
 ---
-title: Informações incompatíveis na interface de usuário do checkout levam à visualização incorreta de pacotes
+title: 'Informações incompatíveis na interface de usuário do checkout levam à visualização incorreta de pacotes'
 slug: informacoes-incompativeis-na-interface-de-usuario-do-checkout-levam-a-visualizacao-incorreta-de-pacotes
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:10.677Z

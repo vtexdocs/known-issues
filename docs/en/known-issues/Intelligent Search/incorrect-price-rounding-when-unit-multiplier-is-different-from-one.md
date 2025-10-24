@@ -1,5 +1,5 @@
 ---
-title: Incorrect price rounding when unit multiplier is different from one
+title: 'Incorrect price rounding when unit multiplier is different from one'
 slug: incorrect-price-rounding-when-unit-multiplier-is-different-from-one
 status: PUBLISHED
 createdAt: 2025-07-24T17:38:20.813Z

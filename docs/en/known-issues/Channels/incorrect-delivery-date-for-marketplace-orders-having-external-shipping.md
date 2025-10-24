@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: incorrect-delivery-date-for-marketplace-orders-having-external-shipping
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

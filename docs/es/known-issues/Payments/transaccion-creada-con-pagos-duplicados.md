@@ -1,5 +1,5 @@
 ---
-title: Transacción creada con pagos duplicados
+title: 'Transacción creada con pagos duplicados'
 slug: transaccion-creada-con-pagos-duplicados
 status: PUBLISHED
 createdAt: 2025-10-16T20:28:23.298Z

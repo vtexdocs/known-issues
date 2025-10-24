@@ -1,5 +1,5 @@
 ---
-title: Error something went wrong in the sales performance dashboard caused by no orders in the filtered period
+title: 'Error something went wrong in the sales performance dashboard caused by no orders in the filtered period'
 slug: error-something-went-wrong-in-the-sales-performance-dashboard-caused-by-no-orders-in-the-filtered-period
 status: PUBLISHED
 createdAt: 2025-10-16T20:41:08.179Z

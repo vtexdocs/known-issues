@@ -1,5 +1,5 @@
 ---
-title: URL de PDP malformadas al utilizar la cadena de consulta del espacio de trabajo
+title: 'URL de PDP malformadas al utilizar la cadena de consulta del espacio de trabajo'
 slug: url-de-pdp-malformadas-al-utilizar-la-cadena-de-consulta-del-espacio-de-trabajo
 status: PUBLISHED
 createdAt: 2025-08-25T14:58:39.406Z

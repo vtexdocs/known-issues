@@ -1,5 +1,5 @@
 ---
-title: view_cart event is triggered more than once on Faststore
+title: 'view_cart event is triggered more than once on Faststore'
 slug: viewcart-event-is-triggered-more-than-once-on-faststore
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:44.083Z

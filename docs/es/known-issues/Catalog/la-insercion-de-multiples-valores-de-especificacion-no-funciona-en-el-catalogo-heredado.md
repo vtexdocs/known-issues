@@ -1,5 +1,5 @@
 ---
-title: La inserción de múltiples valores de especificación no funciona en el catálogo heredado
+title: 'La inserción de múltiples valores de especificación no funciona en el catálogo heredado'
 slug: la-insercion-de-multiples-valores-de-especificacion-no-funciona-en-el-catalogo-heredado
 status: PUBLISHED
 createdAt: 2025-09-15T23:29:31.406Z

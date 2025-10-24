@@ -1,5 +1,5 @@
 ---
-title: Visual merchandising rules wrongly extendeded to broader contexts
+title: 'Visual merchandising rules wrongly extendeded to broader contexts'
 slug: visual-merchandising-rules-wrongly-extendeded-to-broader-contexts
 status: PUBLISHED
 createdAt: 2025-08-07T20:22:52.058Z

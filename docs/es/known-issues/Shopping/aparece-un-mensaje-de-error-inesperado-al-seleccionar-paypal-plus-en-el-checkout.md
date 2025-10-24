@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: unexpected-error-message-is-displayed-when-selecting-paypal-plus-at-checkout
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

@@ -1,5 +1,5 @@
 ---
-title: Transacción bloqueada en Liquidación tras fallo de Captura debido a una falta de coincidencia de recipientsSplitRemainValue.
+title: 'Transacción bloqueada en Liquidación tras fallo de Captura debido a una falta de coincidencia de recipientsSplitRemainValue.'
 slug: transaccion-bloqueada-en-liquidacion-tras-fallo-de-captura-debido-a-una-falta-de-coincidencia-de-recipientssplitremainvalue
 status: PUBLISHED
 createdAt: 2025-09-22T18:20:42.115Z

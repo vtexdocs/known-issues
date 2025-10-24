@@ -1,5 +1,5 @@
 ---
-title: Falha intermitente na limpeza da Pesquisa Inteligente
+title: 'Falha intermitente na limpeza da Pesquisa Inteligente'
 slug: falha-intermitente-na-limpeza-da-pesquisa-inteligente
 status: PUBLISHED
 createdAt: 2025-10-23T22:31:13.534Z

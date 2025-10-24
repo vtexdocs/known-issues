@@ -1,5 +1,5 @@
 ---
-title: Implantações de Webops sendo acionadas repetidamente
+title: 'Implantações de Webops sendo acionadas repetidamente'
 slug: implantacoes-de-webops-sendo-acionadas-repetidamente
 status: PUBLISHED
 createdAt: 2025-10-16T20:36:36.805Z

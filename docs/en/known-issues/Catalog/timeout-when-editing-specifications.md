@@ -1,5 +1,5 @@
 ---
-title: Timeout when editing specifications
+title: 'Timeout when editing specifications'
 slug: timeout-when-editing-specifications
 status: PUBLISHED
 createdAt: 2025-10-02T19:54:41.975Z

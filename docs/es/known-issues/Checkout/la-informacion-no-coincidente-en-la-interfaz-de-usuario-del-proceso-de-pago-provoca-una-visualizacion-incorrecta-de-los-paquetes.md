@@ -1,5 +1,5 @@
 ---
-title: La información no coincidente en la interfaz de usuario del proceso de pago provoca una visualización incorrecta de los paquetes.
+title: 'La información no coincidente en la interfaz de usuario del proceso de pago provoca una visualización incorrecta de los paquetes.'
 slug: la-informacion-no-coincidente-en-la-interfaz-de-usuario-del-proceso-de-pago-provoca-una-visualizacion-incorrecta-de-los-paquetes
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:16.655Z

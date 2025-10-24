@@ -1,5 +1,5 @@
 ---
-title: Os banners de pesquisa não estão excluindo regras das regras de acionamento
+title: 'Os banners de pesquisa não estão excluindo regras das regras de acionamento'
 slug: os-banners-de-pesquisa-nao-estao-excluindo-regras-das-regras-de-acionamento
 status: PUBLISHED
 createdAt: 2025-10-16T19:56:07.500Z

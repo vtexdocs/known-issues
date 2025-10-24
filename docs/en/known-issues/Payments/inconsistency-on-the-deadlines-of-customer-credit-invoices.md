@@ -1,5 +1,5 @@
 ---
-title: Inconsistency on the deadlines of Customer Credit invoices
+title: 'Inconsistency on the deadlines of Customer Credit invoices'
 slug: inconsistency-on-the-deadlines-of-customer-credit-invoices
 status: PUBLISHED
 createdAt: 2025-09-05T15:41:39.869Z

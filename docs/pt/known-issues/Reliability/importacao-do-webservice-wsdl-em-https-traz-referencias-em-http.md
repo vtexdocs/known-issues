@@ -13,7 +13,7 @@ tag: Web Service
 slugEN: importacao-do-webservice-wsdl-em-https-traz-referencias-em-http
 locale: pt
 kiStatus: Closed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

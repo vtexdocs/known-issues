@@ -1,5 +1,5 @@
 ---
-title: Seleção de transportadora Amazon
+title: 'Seleção de transportadora Amazon'
 slug: selecao-de-transportadora-amazon
 status: PUBLISHED
 createdAt: 2025-10-16T20:39:40.150Z

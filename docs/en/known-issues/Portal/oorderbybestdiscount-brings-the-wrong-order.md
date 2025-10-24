@@ -1,5 +1,5 @@
 ---
-title: O=OrderByBestDiscount brings the wrong order
+title: 'O=OrderByBestDiscount brings the wrong order'
 slug: oorderbybestdiscount-brings-the-wrong-order
 status: PUBLISHED
 createdAt: 2025-10-07T19:51:14.186Z

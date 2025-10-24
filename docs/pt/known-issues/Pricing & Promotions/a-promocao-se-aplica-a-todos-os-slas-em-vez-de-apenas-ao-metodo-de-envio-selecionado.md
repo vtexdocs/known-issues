@@ -1,5 +1,5 @@
 ---
-title: A promoção se aplica a todos os SLAs em vez de apenas ao método de envio selecionado
+title: 'A promoção se aplica a todos os SLAs em vez de apenas ao método de envio selecionado'
 slug: a-promocao-se-aplica-a-todos-os-slas-em-vez-de-apenas-ao-metodo-de-envio-selecionado
 status: PUBLISHED
 createdAt: 2025-08-07T20:01:14.714Z

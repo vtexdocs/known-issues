@@ -1,5 +1,5 @@
 ---
-title: Caracteres especiais podem ser quebrados nos resultados do portal para valores de campo
+title: 'Caracteres especiais podem ser quebrados nos resultados do portal para valores de campo'
 slug: caracteres-especiais-podem-ser-quebrados-nos-resultados-do-portal-para-valores-de-campo
 status: PUBLISHED
 createdAt: 2025-09-09T14:49:49.617Z

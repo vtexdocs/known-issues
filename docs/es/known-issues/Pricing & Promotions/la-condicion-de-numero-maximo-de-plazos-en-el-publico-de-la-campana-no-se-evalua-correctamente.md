@@ -1,5 +1,5 @@
 ---
-title: La condición de número máximo de plazos en el público de la campaña no se evalúa correctamente
+title: 'La condición de número máximo de plazos en el público de la campaña no se evalúa correctamente'
 slug: la-condicion-de-numero-maximo-de-plazos-en-el-publico-de-la-campana-no-se-evalua-correctamente
 status: PUBLISHED
 createdAt: 2025-10-16T19:55:54.691Z

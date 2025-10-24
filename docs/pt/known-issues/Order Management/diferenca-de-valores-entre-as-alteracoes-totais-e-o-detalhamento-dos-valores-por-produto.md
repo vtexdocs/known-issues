@@ -1,5 +1,5 @@
 ---
-title: Diferença de valores entre as alterações totais e o detalhamento dos valores por produto
+title: 'Diferença de valores entre as alterações totais e o detalhamento dos valores por produto'
 slug: diferenca-de-valores-entre-as-alteracoes-totais-e-o-detalhamento-dos-valores-por-produto
 status: PUBLISHED
 createdAt: 2025-10-16T19:22:57.061Z

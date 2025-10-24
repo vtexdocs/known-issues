@@ -1,5 +1,5 @@
 ---
-title: "Department's name not loading on seller management commissions UI"
+title: 'Department''s name not loading on seller management commissions UI'
 id: 5TkKtfYi5oFxNOk0mTTeiQ
 status: PUBLISHED
 createdAt: 2024-03-25T17:20:22.888Z

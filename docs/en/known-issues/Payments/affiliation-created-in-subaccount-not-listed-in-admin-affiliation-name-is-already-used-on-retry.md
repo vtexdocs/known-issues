@@ -1,5 +1,5 @@
 ---
-title: Affiliation created in subaccount not listed in Admin; ‘Affiliation name is already used’ on retry
+title: 'Affiliation created in subaccount not listed in Admin; ‘Affiliation name is already used’ on retry'
 slug: affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry
 status: PUBLISHED
 createdAt: 2025-10-01T19:45:25.000Z

@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: divergence-in-quantity-of-exported-orders-x-displayed-orders-in-the-oms
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

@@ -1,5 +1,5 @@
 ---
-title: "Erro 'Field Group not found in the category' ao criar uma especificação via API usando um grupo que pertence à categoria principal"
+title: 'Erro ''Field Group not found in the category'' ao criar uma especificação via API usando um grupo que pertence à categoria principal'
 id: 2xkVJw4JcfdhgV1Ag2HdGu
 status: PUBLISHED
 createdAt: 2024-10-01T19:01:14.594Z

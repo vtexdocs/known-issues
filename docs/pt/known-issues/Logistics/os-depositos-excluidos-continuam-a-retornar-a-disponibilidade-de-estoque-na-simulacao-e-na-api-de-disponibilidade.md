@@ -1,5 +1,5 @@
 ---
-title: Os depósitos excluídos continuam a retornar a disponibilidade de estoque na simulação e na API de disponibilidade
+title: 'Os depósitos excluídos continuam a retornar a disponibilidade de estoque na simulação e na API de disponibilidade'
 slug: os-depositos-excluidos-continuam-a-retornar-a-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade
 status: PUBLISHED
 createdAt: 2025-10-16T19:29:45.510Z

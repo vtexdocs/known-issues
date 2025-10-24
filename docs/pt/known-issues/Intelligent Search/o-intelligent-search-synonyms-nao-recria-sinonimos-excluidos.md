@@ -1,5 +1,5 @@
 ---
-title: O Intelligent Search Synonyms não recria sinônimos excluídos
+title: 'O Intelligent Search Synonyms não recria sinônimos excluídos'
 slug: o-intelligent-search-synonyms-nao-recria-sinonimos-excluidos
 status: PUBLISHED
 createdAt: 2025-10-16T20:47:23.762Z

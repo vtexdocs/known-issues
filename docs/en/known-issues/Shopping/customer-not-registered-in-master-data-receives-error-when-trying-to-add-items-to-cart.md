@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: customer-not-registered-in-master-data-receives-error-when-trying-to-add-items-to-cart
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

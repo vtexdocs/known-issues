@@ -1,5 +1,5 @@
 ---
-title: O modelo vtexcommerce-order-changed-v2 não pode enviar o campo reason, como na versão 1 de changeOrders.
+title: 'O modelo vtexcommerce-order-changed-v2 não pode enviar o campo reason, como na versão 1 de changeOrders.'
 slug: o-modelo-vtexcommerceorderchangedv2-nao-pode-enviar-o-campo-reason-como-na-versao-1-de-changeorders
 status: PUBLISHED
 createdAt: 2025-09-11T19:28:58.880Z

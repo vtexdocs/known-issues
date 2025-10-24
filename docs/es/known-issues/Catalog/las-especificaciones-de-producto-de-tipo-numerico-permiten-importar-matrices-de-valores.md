@@ -1,5 +1,5 @@
 ---
-title: Las especificaciones de producto de tipo numérico permiten importar matrices de valores
+title: 'Las especificaciones de producto de tipo numérico permiten importar matrices de valores'
 slug: las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-matrices-de-valores
 status: PUBLISHED
 createdAt: 2025-09-18T14:32:47.094Z

@@ -13,7 +13,7 @@ tag: Message Center,Order Management
 slugEN: transactional-emails-dont-consider-items-removed-from-the-order
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

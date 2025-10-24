@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: sku-active-even-without-registered-specifications
 locale: pt
 kiStatus: Closed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

@@ -1,5 +1,5 @@
 ---
-title: Catalog translations not reflecting on the frontend
+title: 'Catalog translations not reflecting on the frontend'
 slug: catalog-translations-not-reflecting-on-the-frontend
 status: PUBLISHED
 createdAt: 2025-09-15T14:16:20.914Z

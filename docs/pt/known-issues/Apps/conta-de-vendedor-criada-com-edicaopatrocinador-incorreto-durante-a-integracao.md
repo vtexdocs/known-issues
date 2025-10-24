@@ -1,5 +1,5 @@
 ---
-title: Conta de vendedor criada com edição/patrocinador incorreto durante a integração
+title: 'Conta de vendedor criada com edição/patrocinador incorreto durante a integração'
 slug: conta-de-vendedor-criada-com-edicaopatrocinador-incorreto-durante-a-integracao
 status: PUBLISHED
 createdAt: 2025-10-16T20:59:05.664Z

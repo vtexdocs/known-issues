@@ -1,5 +1,5 @@
 ---
-title: hCMS generate a blank page in some releases
+title: 'hCMS generate a blank page in some releases'
 slug: hcms-generate-a-blank-page-in-some-releases
 status: PUBLISHED
 createdAt: 2025-08-12T18:58:02.888Z

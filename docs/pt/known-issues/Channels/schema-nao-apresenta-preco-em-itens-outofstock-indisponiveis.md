@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: schema-doesnt-present-price-in-outofstock-items-unavailable
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

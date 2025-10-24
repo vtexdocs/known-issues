@@ -1,5 +1,5 @@
 ---
-title: La clasificación manual de colecciones no funciona como se esperaba
+title: 'La clasificación manual de colecciones no funciona como se esperaba'
 slug: la-clasificacion-manual-de-colecciones-no-funciona-como-se-esperaba
 status: PUBLISHED
 createdAt: 2025-08-12T18:34:46.357Z

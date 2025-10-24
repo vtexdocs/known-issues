@@ -1,5 +1,5 @@
 ---
-title: La configuración del pago B2B no guarda la dirección de la calle
+title: 'La configuración del pago B2B no guarda la dirección de la calle'
 slug: la-configuracion-del-pago-b2b-no-guarda-la-direccion-de-la-calle
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:20.051Z

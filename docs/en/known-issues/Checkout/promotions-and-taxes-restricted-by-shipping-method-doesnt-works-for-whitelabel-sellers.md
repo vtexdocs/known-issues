@@ -1,5 +1,5 @@
 ---
-title: "Promotions and taxes restricted by shipping method doesn't works for Whitelabel Sellers"
+title: 'Promotions and taxes restricted by shipping method doesn''t works for Whitelabel Sellers'
 id: 3ue1kZdbX1mMFqPCkl0tC4
 status: PUBLISHED
 createdAt: 2023-08-09T13:25:02.168Z

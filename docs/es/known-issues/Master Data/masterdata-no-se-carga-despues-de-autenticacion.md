@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: masterdata-doesnt-load-after-successfully-authenticating
 locale: es
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

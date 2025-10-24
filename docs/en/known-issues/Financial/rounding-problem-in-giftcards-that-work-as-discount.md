@@ -13,7 +13,7 @@ tag: Checkout,Order Management
 slugEN: rounding-problem-in-giftcards-that-work-as-discount
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

@@ -1,5 +1,5 @@
 ---
-title: Falha na atualização do status das solicitações das organizações
+title: 'Falha na atualização do status das solicitações das organizações'
 slug: falha-na-atualizacao-do-status-das-solicitacoes-das-organizacoes
 status: PUBLISHED
 createdAt: 2025-10-14T13:31:28.443Z

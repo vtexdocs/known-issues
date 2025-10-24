@@ -1,5 +1,5 @@
 ---
-title: O e-mail não é preenchido automaticamente para novos usuários no checkout-ui
+title: 'O e-mail não é preenchido automaticamente para novos usuários no checkout-ui'
 slug: o-email-nao-e-preenchido-automaticamente-para-novos-usuarios-no-checkoutui
 status: PUBLISHED
 createdAt: 2025-10-16T19:52:33.638Z

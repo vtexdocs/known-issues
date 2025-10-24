@@ -1,5 +1,5 @@
 ---
-title: Regionalized navigation to the list of selected sellers that do not fulfill the SKU associated with a gift.
+title: 'Regionalized navigation to the list of selected sellers that do not fulfill the SKU associated with a gift.'
 slug: regionalized-navigation-to-the-list-of-selected-sellers-that-do-not-fulfill-the-sku-associated-with-a-gift
 status: PUBLISHED
 createdAt: 2025-10-16T20:30:47.379Z

@@ -1,5 +1,5 @@
 ---
-title: Mercado Livre O atributo Variation está duplicado. Combinações de atributos exclusivos permitidas.
+title: 'Mercado Livre O atributo Variation está duplicado. Combinações de atributos exclusivos permitidas.'
 slug: mercado-livre-o-atributo-variation-esta-duplicado-combinacoes-de-atributos-exclusivos-permitidas
 status: PUBLISHED
 createdAt: 2025-10-03T16:52:43.772Z

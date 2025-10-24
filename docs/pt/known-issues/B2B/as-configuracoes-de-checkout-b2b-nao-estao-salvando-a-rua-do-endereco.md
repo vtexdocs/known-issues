@@ -1,5 +1,5 @@
 ---
-title: As configurações de checkout B2B não estão salvando a rua do endereço
+title: 'As configurações de checkout B2B não estão salvando a rua do endereço'
 slug: as-configuracoes-de-checkout-b2b-nao-estao-salvando-a-rua-do-endereco
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:14.948Z

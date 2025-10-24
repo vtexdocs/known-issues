@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: inconsistent-shipping-calculator
 locale: es
 kiStatus: Closed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

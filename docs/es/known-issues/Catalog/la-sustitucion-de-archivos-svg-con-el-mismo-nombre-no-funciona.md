@@ -1,5 +1,5 @@
 ---
-title: La sustitución de archivos SVG con el mismo nombre no funciona
+title: 'La sustitución de archivos SVG con el mismo nombre no funciona'
 slug: la-sustitucion-de-archivos-svg-con-el-mismo-nombre-no-funciona
 status: PUBLISHED
 createdAt: 2025-10-16T20:00:47.544Z

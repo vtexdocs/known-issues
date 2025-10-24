@@ -1,5 +1,5 @@
 ---
-title: Catalog Selecionar marca no catálogo não funciona
+title: 'Catalog Selecionar marca no catálogo não funciona'
 slug: catalog-selecionar-marca-no-catalogo-nao-funciona
 status: PUBLISHED
 createdAt: 2025-10-16T19:59:38.645Z

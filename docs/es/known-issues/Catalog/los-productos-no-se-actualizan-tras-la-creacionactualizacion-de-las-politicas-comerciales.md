@@ -1,5 +1,5 @@
 ---
-title: Los productos no se actualizan tras la creación/actualización de las políticas comerciales
+title: 'Los productos no se actualizan tras la creación/actualización de las políticas comerciales'
 slug: los-productos-no-se-actualizan-tras-la-creacionactualizacion-de-las-politicas-comerciales
 status: PUBLISHED
 createdAt: 2025-09-03T20:12:30.996Z

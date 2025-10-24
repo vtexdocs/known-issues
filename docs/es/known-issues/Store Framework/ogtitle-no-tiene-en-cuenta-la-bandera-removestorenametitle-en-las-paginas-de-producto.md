@@ -1,5 +1,5 @@
 ---
-title: og:title no tiene en cuenta la bandera removeStoreNameTitle en las páginas de producto
+title: 'og:title no tiene en cuenta la bandera removeStoreNameTitle en las páginas de producto'
 slug: ogtitle-no-tiene-en-cuenta-la-bandera-removestorenametitle-en-las-paginas-de-producto
 status: PUBLISHED
 createdAt: 2025-08-15T12:45:34.201Z

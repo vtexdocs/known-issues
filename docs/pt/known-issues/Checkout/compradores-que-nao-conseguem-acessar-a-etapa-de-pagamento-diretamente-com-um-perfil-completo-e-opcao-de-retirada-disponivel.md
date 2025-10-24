@@ -1,5 +1,5 @@
 ---
-title: Compradores que não conseguem acessar a etapa de pagamento diretamente com um perfil completo e opção de retirada disponível
+title: 'Compradores que não conseguem acessar a etapa de pagamento diretamente com um perfil completo e opção de retirada disponível'
 slug: compradores-que-nao-conseguem-acessar-a-etapa-de-pagamento-diretamente-com-um-perfil-completo-e-opcao-de-retirada-disponivel
 status: PUBLISHED
 createdAt: 2025-10-16T21:00:03.588Z

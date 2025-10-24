@@ -1,5 +1,5 @@
 ---
-title: A opção de entrega programada não aparecerá no carrinho se o envio enxuto estiver desativado e o item tiver ambos os tipos de entrega
+title: 'A opção de entrega programada não aparecerá no carrinho se o envio enxuto estiver desativado e o item tiver ambos os tipos de entrega'
 slug: a-opcao-de-entrega-programada-nao-aparecera-no-carrinho-se-o-envio-enxuto-estiver-desativado-e-o-item-tiver-ambos-os-tipos-de-entrega
 status: PUBLISHED
 createdAt: 2025-10-16T19:57:03.838Z

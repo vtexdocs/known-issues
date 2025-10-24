@@ -1,5 +1,5 @@
 ---
-title: Pedidos presos em concluídos com status de pedido concluído no atendimento e status de pagamento aprovado no Marketplace
+title: 'Pedidos presos em concluídos com status de pedido concluído no atendimento e status de pagamento aprovado no Marketplace'
 slug: pedidos-presos-em-concluidos-com-status-de-pedido-concluido-no-atendimento-e-status-de-pagamento-aprovado-no-marketplace
 status: PUBLISHED
 createdAt: 2025-08-07T21:10:34.602Z

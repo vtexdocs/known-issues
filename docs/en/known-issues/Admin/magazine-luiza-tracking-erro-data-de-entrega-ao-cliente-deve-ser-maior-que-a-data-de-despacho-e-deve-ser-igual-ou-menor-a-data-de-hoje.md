@@ -1,5 +1,5 @@
 ---
-title: "[Magazine Luiza] [tracking] Erro: Data de Entrega ao Cliente' deve ser maior que a 'Data de Despacho' e deve ser igual ou menor a data de hoje"
+title: '[Magazine Luiza] [tracking] Erro: Data de Entrega ao Cliente'' deve ser maior que a ''Data de Despacho'' e deve ser igual ou menor a data de hoje'
 id: 7ublDwKHM4JJxsCtcbLqq8
 status: PUBLISHED
 createdAt: 2023-07-06T14:06:45.020Z

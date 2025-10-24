@@ -1,5 +1,5 @@
 ---
-title: Mismatched information in checkout's UI leads to incorrect packages visualization
+title: 'Mismatched information in checkout''s UI leads to incorrect packages visualization'
 slug: mismatched-information-in-checkouts-ui-leads-to-incorrect-packages-visualization
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:13.389Z

@@ -1,5 +1,5 @@
 ---
-title: ValidateCart mutation returning 500 when customizations affects the availability of the product
+title: 'ValidateCart mutation returning 500 when customizations affects the availability of the product'
 slug: validatecart-mutation-returning-500-when-customizations-affects-the-availability-of-the-product
 status: PUBLISHED
 createdAt: 2025-10-16T19:22:09.771Z

@@ -13,7 +13,7 @@ tag: Pricing & Promotions
 slugEN: you-cannot-archive-a-promotion-via-the-create-or-update-promotion-endpoint
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

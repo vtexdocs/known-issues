@@ -1,5 +1,5 @@
 ---
-title: Incorrect values in quotes on items with unity multiplier configuration
+title: 'Incorrect values in quotes on items with unity multiplier configuration'
 slug: incorrect-values-in-quotes-on-items-with-unity-multiplier-configuration
 status: PUBLISHED
 createdAt: 2025-10-16T19:16:46.294Z

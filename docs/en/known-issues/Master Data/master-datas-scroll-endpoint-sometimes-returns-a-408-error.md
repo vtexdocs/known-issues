@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: master-datas-scroll-endpoint-sometimes-returns-a-408-error
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

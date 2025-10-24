@@ -1,5 +1,5 @@
 ---
-title: Catalog Erro ao exportar o relatório
+title: 'Catalog Erro ao exportar o relatório'
 slug: catalog-erro-ao-exportar-o-relatorio
 status: PUBLISHED
 createdAt: 2025-10-16T20:30:09.649Z

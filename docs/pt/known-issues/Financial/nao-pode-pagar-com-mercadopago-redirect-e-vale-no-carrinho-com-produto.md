@@ -13,7 +13,7 @@ tag: Payments
 slugEN: you-cannot-pay-with-mercadopago-redirect-and-vale-in-shopping-cart
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

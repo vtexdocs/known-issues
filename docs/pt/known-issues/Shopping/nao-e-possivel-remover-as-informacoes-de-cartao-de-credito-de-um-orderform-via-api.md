@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: cannot-remove-credit-card-information-from-an-orderform-via-api
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

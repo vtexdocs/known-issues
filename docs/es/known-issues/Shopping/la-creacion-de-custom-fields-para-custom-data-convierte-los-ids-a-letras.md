@@ -1,5 +1,5 @@
 ---
-title: "La creación de 'custom fields' para 'custom data' convierte los IDs a letras minúsculas"
+title: 'La creación de ''custom fields'' para ''custom data'' convierte los IDs a letras minúsculas'
 id: 6oCXPldEYkC9HG1fw3G3RL
 status: PUBLISHED
 createdAt: 2019-02-19T18:52:45.049Z
@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: creating-custom-fields-for-custom-data-converts-the-ids-to-lowercase
 locale: es
 kiStatus: Closed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

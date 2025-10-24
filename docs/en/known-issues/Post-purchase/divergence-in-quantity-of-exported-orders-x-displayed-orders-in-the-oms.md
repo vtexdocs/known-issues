@@ -1,5 +1,5 @@
 ---
-title: 'Divergence in quantity of exported orders x displayed orders in the Orders Management '
+title: 'Divergence in quantity of exported orders x displayed orders in the Orders Management'
 id: 6sJzAuMwfY4moi6Eg6MwkW
 status: PUBLISHED
 createdAt: 2018-04-04T15:55:44.748Z
@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: divergence-in-quantity-of-exported-orders-x-displayed-orders-in-the-oms
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

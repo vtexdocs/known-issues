@@ -1,5 +1,5 @@
 ---
-title: Indisponibilidade de itens na alocação do aplicativo de vendas com ponto de coleta (heurística inadequada na seleção de vendedores)
+title: 'Indisponibilidade de itens na alocação do aplicativo de vendas com ponto de coleta (heurística inadequada na seleção de vendedores)'
 slug: indisponibilidade-de-itens-na-alocacao-do-aplicativo-de-vendas-com-ponto-de-coleta-heuristica-inadequada-na-selecao-de-vendedores
 status: PUBLISHED
 createdAt: 2025-10-16T20:58:08.323Z

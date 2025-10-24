@@ -1,5 +1,5 @@
 ---
-title: El historial de pedidos B2B tiene en cuenta los roles de representante de ventas al suplantar a un usuario
+title: 'El historial de pedidos B2B tiene en cuenta los roles de representante de ventas al suplantar a un usuario'
 slug: el-historial-de-pedidos-b2b-tiene-en-cuenta-los-roles-de-representante-de-ventas-al-suplantar-a-un-usuario
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:55.971Z

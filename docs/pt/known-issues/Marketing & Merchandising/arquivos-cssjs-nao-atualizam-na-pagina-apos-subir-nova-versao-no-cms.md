@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: files-cssjs-are-not-updated-on-page-after-uploading-new-version-in-cms
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

@@ -1,5 +1,5 @@
 ---
-title: Archivo de importación de facturas de crédito de clientes atascado en la carga
+title: 'Archivo de importación de facturas de crédito de clientes atascado en la carga'
 slug: archivo-de-importacion-de-facturas-de-credito-de-clientes-atascado-en-la-carga
 status: PUBLISHED
 createdAt: 2025-09-10T15:00:48.756Z

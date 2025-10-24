@@ -1,5 +1,5 @@
 ---
-title: Users created in accounts with emailRectification feature are not created in VTEX ID
+title: 'Users created in accounts with emailRectification feature are not created in VTEX ID'
 slug: users-created-in-accounts-with-emailrectification-feature-are-not-created-in-vtex-id
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:33.313Z

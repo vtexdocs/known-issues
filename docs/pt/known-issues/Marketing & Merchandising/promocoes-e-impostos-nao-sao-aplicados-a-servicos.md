@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: benefits-and-taxes-are-not-applied-to-services
 locale: pt
 kiStatus: Closed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

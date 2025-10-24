@@ -1,5 +1,5 @@
 ---
-title: O campo lastModifiedBy sempre retorna "null" na API de pesquisa.
+title: 'O campo lastModifiedBy sempre retorna "null" na API de pesquisa.'
 slug: o-campo-lastmodifiedby-sempre-retorna-null-na-api-de-pesquisa
 status: PUBLISHED
 createdAt: 2025-10-16T20:47:50.299Z

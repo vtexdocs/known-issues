@@ -1,5 +1,5 @@
 ---
-title: Categorías que faltan vendedor no provisionado correctamente
+title: 'Categorías que faltan vendedor no provisionado correctamente'
 slug: categorias-que-faltan-vendedor-no-provisionado-correctamente
 status: PUBLISHED
 createdAt: 2025-10-16T18:49:58.198Z

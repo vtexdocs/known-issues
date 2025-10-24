@@ -1,5 +1,5 @@
 ---
-title: Switching from html editor mode in product description removes <p> tags
+title: 'Switching from html editor mode in product description removes <p> tags'
 slug: switching-from-html-editor-mode-in-product-description-removes-p-tags
 status: PUBLISHED
 createdAt: 2025-10-16T20:46:46.030Z

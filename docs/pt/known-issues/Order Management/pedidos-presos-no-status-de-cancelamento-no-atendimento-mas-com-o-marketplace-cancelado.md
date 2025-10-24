@@ -1,5 +1,5 @@
 ---
-title: Pedidos presos no status de cancelamento no atendimento, mas com o Marketplace cancelado.
+title: 'Pedidos presos no status de cancelamento no atendimento, mas com o Marketplace cancelado.'
 slug: pedidos-presos-no-status-de-cancelamento-no-atendimento-mas-com-o-marketplace-cancelado
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:42.054Z

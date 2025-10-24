@@ -1,5 +1,5 @@
 ---
-title: Al cambiar de modo de editor html en la descripción del producto se eliminan las etiquetas <p>.
+title: 'Al cambiar de modo de editor html en la descripción del producto se eliminan las etiquetas <p>.'
 slug: al-cambiar-de-modo-de-editor-html-en-la-descripcion-del-producto-se-eliminan-las-etiquetas-p
 status: PUBLISHED
 createdAt: 2025-10-16T20:46:48.637Z

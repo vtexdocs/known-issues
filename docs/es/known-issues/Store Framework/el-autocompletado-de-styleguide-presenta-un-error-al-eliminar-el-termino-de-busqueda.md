@@ -1,5 +1,5 @@
 ---
-title: El autocompletado de Styleguide presenta un error al eliminar el término de búsqueda
+title: 'El autocompletado de Styleguide presenta un error al eliminar el término de búsqueda'
 slug: el-autocompletado-de-styleguide-presenta-un-error-al-eliminar-el-termino-de-busqueda
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:02.837Z

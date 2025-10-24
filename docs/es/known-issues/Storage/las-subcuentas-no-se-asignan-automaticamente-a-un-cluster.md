@@ -1,5 +1,5 @@
 ---
-title: Las subcuentas no se asignan automáticamente a un clúster
+title: 'Las subcuentas no se asignan automáticamente a un clúster'
 slug: las-subcuentas-no-se-asignan-automaticamente-a-un-cluster
 status: PUBLISHED
 createdAt: 2025-10-16T20:53:01.466Z

@@ -1,5 +1,5 @@
 ---
-title: Checkout doesn't consider locale to translate API errors
+title: 'Checkout doesn''t consider locale to translate API errors'
 slug: checkout-doesnt-consider-locale-to-translate-api-errors
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:58.829Z

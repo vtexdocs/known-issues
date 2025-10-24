@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: creating-or-editing-list-type-does-not-work
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

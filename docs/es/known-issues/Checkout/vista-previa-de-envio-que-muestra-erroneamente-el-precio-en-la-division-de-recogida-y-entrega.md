@@ -1,5 +1,5 @@
 ---
-title: Vista previa de envío que muestra erróneamente el precio en la división de recogida y entrega
+title: 'Vista previa de envío que muestra erróneamente el precio en la división de recogida y entrega'
 slug: vista-previa-de-envio-que-muestra-erroneamente-el-precio-en-la-division-de-recogida-y-entrega
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:27.569Z

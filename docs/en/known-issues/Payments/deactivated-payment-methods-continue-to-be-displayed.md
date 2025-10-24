@@ -1,5 +1,5 @@
 ---
-title: Deactivated payment methods continue to be displayed.
+title: 'Deactivated payment methods continue to be displayed.'
 slug: deactivated-payment-methods-continue-to-be-displayed
 status: PUBLISHED
 createdAt: 2025-10-16T20:58:53.200Z

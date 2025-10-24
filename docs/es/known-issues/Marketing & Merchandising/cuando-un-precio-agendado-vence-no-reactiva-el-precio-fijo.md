@@ -13,7 +13,7 @@ tag: Pricing & Promotions
 slugEN: when-a-schedule-price-expires-the-fixed-price-is-not-reenabled
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

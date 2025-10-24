@@ -1,5 +1,5 @@
 ---
-title: El instalador de CLI para Windows no tiene editor
+title: 'El instalador de CLI para Windows no tiene editor'
 slug: el-instalador-de-cli-para-windows-no-tiene-editor
 status: PUBLISHED
 createdAt: 2025-10-16T20:32:32.320Z

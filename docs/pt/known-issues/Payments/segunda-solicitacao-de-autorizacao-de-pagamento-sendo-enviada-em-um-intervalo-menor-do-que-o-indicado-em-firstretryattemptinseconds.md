@@ -1,5 +1,5 @@
 ---
-title: Segunda solicitação de autorização de pagamento sendo enviada em um intervalo menor do que o indicado em FirstRetryAttemptInSeconds.
+title: 'Segunda solicitação de autorização de pagamento sendo enviada em um intervalo menor do que o indicado em FirstRetryAttemptInSeconds.'
 slug: segunda-solicitacao-de-autorizacao-de-pagamento-sendo-enviada-em-um-intervalo-menor-do-que-o-indicado-em-firstretryattemptinseconds
 status: PUBLISHED
 createdAt: 2025-10-16T20:30:27.568Z

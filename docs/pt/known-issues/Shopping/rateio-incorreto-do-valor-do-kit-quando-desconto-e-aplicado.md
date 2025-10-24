@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: incorrect-apportionment-of-kit-value-when-discount-is-applied
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

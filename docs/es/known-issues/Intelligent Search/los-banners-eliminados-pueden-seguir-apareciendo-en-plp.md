@@ -1,5 +1,5 @@
 ---
-title: Los banners eliminados pueden seguir apareciendo en PLP
+title: 'Los banners eliminados pueden seguir apareciendo en PLP'
 slug: los-banners-eliminados-pueden-seguir-apareciendo-en-plp
 status: PUBLISHED
 createdAt: 2025-09-22T14:37:18.909Z

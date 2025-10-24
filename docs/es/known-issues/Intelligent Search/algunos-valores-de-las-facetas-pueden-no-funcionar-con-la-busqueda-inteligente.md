@@ -1,5 +1,5 @@
 ---
-title: Algunos valores de las facetas pueden no funcionar con la Búsqueda Inteligente
+title: 'Algunos valores de las facetas pueden no funcionar con la Búsqueda Inteligente'
 slug: algunos-valores-de-las-facetas-pueden-no-funcionar-con-la-busqueda-inteligente
 status: PUBLISHED
 createdAt: 2025-10-16T20:41:23.212Z

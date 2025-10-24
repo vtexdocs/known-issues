@@ -1,5 +1,5 @@
 ---
-title: Tempo limite ao editar especificações
+title: 'Tempo limite ao editar especificações'
 slug: tempo-limite-ao-editar-especificacoes
 status: PUBLISHED
 createdAt: 2025-10-02T19:54:37.704Z

@@ -1,5 +1,5 @@
 ---
-title: Changing synonyms from unidirectional to bidirectional does not work
+title: 'Changing synonyms from unidirectional to bidirectional does not work'
 slug: changing-synonyms-from-unidirectional-to-bidirectional-does-not-work
 status: PUBLISHED
 createdAt: 2025-10-16T19:58:43.496Z

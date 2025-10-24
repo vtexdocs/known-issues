@@ -1,5 +1,5 @@
 ---
-title: My Credits muestra el saldo del agente, no el del cliente, durante la suplantación de televenta
+title: 'My Credits muestra el saldo del agente, no el del cliente, durante la suplantación de televenta'
 slug: my-credits-muestra-el-saldo-del-agente-no-el-del-cliente-durante-la-suplantacion-de-televenta
 status: PUBLISHED
 createdAt: 2025-10-02T12:44:59.958Z

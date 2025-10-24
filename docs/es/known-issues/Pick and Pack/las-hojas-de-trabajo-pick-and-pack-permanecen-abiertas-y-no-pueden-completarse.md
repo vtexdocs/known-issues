@@ -1,5 +1,5 @@
 ---
-title: Las hojas de trabajo Pick and Pack permanecen abiertas y no pueden completarse
+title: 'Las hojas de trabajo Pick and Pack permanecen abiertas y no pueden completarse'
 slug: las-hojas-de-trabajo-pick-and-pack-permanecen-abiertas-y-no-pueden-completarse
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:05.412Z

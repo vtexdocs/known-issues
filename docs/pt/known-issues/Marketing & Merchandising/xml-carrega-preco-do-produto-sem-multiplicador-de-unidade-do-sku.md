@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: xml-loads-product-price-without-sku-unit-multiplier
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: product-is-not-reindexed-when-registering-services-in-skus
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

@@ -1,5 +1,5 @@
 ---
-title: Amazon Listing Required attribute not rendered in Amazon Listing UI prevents product submission
+title: 'Amazon Listing Required attribute not rendered in Amazon Listing UI prevents product submission'
 slug: amazon-listing-required-attribute-not-rendered-in-amazon-listing-ui-prevents-product-submission
 status: PUBLISHED
 createdAt: 2025-10-14T14:51:49.523Z

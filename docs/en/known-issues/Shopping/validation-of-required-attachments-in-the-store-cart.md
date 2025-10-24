@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: validation-of-required-attachments-in-the-store-cart
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

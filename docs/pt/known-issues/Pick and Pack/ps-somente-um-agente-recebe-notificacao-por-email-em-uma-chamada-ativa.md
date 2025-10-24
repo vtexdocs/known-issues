@@ -1,5 +1,5 @@
 ---
-title: PS - Somente um agente recebe notificação por e-mail em uma chamada ativa
+title: 'PS - Somente um agente recebe notificação por e-mail em uma chamada ativa'
 slug: ps-somente-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa
 status: PUBLISHED
 createdAt: 2025-10-16T20:50:31.462Z

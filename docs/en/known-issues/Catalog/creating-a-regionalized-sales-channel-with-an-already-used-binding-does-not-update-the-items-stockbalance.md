@@ -1,5 +1,5 @@
 ---
-title: "Creating a regionalized sales channel with an already used binding does not update the item's stockbalance"
+title: 'Creating a regionalized sales channel with an already used binding does not update the item''s stockbalance'
 id: 7CqZPslfGY8mTmBLuWe5SQ
 status: PUBLISHED
 createdAt: 2024-03-22T19:39:26.469Z

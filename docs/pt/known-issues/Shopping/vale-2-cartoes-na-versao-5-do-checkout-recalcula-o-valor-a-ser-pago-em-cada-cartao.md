@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: gift-card-2-cards-in-version-5-of-the-checkout-recalculates-the-amount-to-be-paid-on-each-card
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

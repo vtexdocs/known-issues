@@ -1,5 +1,5 @@
 ---
-title: "Can't edit the name of the Styles template"
+title: 'Can''t edit the name of the Styles template'
 id: 5czxRVaMCZFgvOadfYKl1h
 status: PUBLISHED
 createdAt: 2023-08-16T17:41:40.059Z

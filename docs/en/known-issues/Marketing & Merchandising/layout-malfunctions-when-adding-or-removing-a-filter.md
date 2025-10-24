@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: layout-malfunctions-when-adding-or-removing-a-filter
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

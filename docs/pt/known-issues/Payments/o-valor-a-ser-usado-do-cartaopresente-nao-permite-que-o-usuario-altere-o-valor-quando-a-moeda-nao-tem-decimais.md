@@ -1,5 +1,5 @@
 ---
-title: O "Valor a ser usado" do cartão-presente não permite que o usuário altere o valor quando a moeda não tem decimais
+title: 'O "Valor a ser usado" do cartão-presente não permite que o usuário altere o valor quando a moeda não tem decimais'
 slug: o-valor-a-ser-usado-do-cartaopresente-nao-permite-que-o-usuario-altere-o-valor-quando-a-moeda-nao-tem-decimais
 status: PUBLISHED
 createdAt: 2025-10-16T20:52:41.300Z

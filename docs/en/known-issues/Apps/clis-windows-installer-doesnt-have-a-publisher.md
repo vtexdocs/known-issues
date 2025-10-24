@@ -1,5 +1,5 @@
 ---
-title: CLI's Windows installer doesn’t have a publisher
+title: 'CLI''s Windows installer doesn’t have a publisher'
 slug: clis-windows-installer-doesnt-have-a-publisher
 status: PUBLISHED
 createdAt: 2025-10-16T20:32:29.451Z

@@ -1,5 +1,5 @@
 ---
-title: Lançamentos/publicações bloqueados no hCMS
+title: 'Lançamentos/publicações bloqueados no hCMS'
 slug: lancamentospublicacoes-bloqueados-no-hcms
 status: PUBLISHED
 createdAt: 2025-07-24T17:47:44.850Z

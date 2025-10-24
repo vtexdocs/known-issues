@@ -1,5 +1,5 @@
 ---
-title: Tiempos de espera del administrador del catálogo relacionados con el número de valores de una única especificación
+title: 'Tiempos de espera del administrador del catálogo relacionados con el número de valores de una única especificación'
 slug: tiempos-de-espera-del-administrador-del-catalogo-relacionados-con-el-numero-de-valores-de-una-unica-especificacion
 status: PUBLISHED
 createdAt: 2025-10-02T20:01:14.724Z

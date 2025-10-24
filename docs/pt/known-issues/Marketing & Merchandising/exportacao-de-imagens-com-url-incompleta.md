@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: exporting-images-with-incomplete-url
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

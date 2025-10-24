@@ -1,5 +1,5 @@
 ---
-title: Remove supplier info from product not working via Admin
+title: 'Remove supplier info from product not working via Admin'
 slug: remove-supplier-info-from-product-not-working-via-admin
 status: PUBLISHED
 createdAt: 2025-10-16T19:51:16.456Z

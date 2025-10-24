@@ -1,5 +1,5 @@
 ---
-title: Hoja de cálculo atascada en la columna "Por empaquetar" con el estado "Empaquetado" tras la confirmación de empaquetado.
+title: 'Hoja de cálculo atascada en la columna "Por empaquetar" con el estado "Empaquetado" tras la confirmación de empaquetado.'
 slug: hoja-de-calculo-atascada-en-la-columna-por-empaquetar-con-el-estado-empaquetado-tras-la-confirmacion-de-empaquetado
 status: PUBLISHED
 createdAt: 2025-09-30T14:51:41.840Z

@@ -1,5 +1,5 @@
 ---
-title: O sinalizador MessagessV2 exige que o conteúdo seja salvo no idioma original
+title: 'O sinalizador MessagessV2 exige que o conteúdo seja salvo no idioma original'
 slug: o-sinalizador-messagessv2-exige-que-o-conteudo-seja-salvo-no-idioma-original
 status: PUBLISHED
 createdAt: 2025-07-24T18:19:29.407Z

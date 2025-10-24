@@ -1,5 +1,5 @@
 ---
-title: "Tax hub request doesn't sum discounts when manual price is applied"
+title: 'Tax hub request doesn''t sum discounts when manual price is applied'
 id: 3p8mpZALGS95pB9j4CclHi
 status: PUBLISHED
 createdAt: 2023-11-08T18:07:23.968Z

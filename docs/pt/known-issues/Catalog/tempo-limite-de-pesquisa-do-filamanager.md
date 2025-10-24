@@ -1,5 +1,5 @@
 ---
-title: Tempo limite de pesquisa do Filamanager
+title: 'Tempo limite de pesquisa do Filamanager'
 slug: tempo-limite-de-pesquisa-do-filamanager
 status: PUBLISHED
 createdAt: 2025-10-16T20:51:23.996Z

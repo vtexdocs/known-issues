@@ -1,5 +1,5 @@
 ---
-title: "Dados do perfil carregados vazios na interface do usuário para o perfil completo com 'ignoreProfileData'"
+title: 'Dados do perfil carregados vazios na interface do usuário para o perfil completo com ''ignoreProfileData'''
 id: 10B1QKgN42sjapDEALmKOp
 status: PUBLISHED
 createdAt: 2024-04-15T11:41:06.841Z

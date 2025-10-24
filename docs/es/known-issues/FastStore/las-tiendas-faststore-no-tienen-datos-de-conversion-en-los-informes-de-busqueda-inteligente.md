@@ -1,5 +1,5 @@
 ---
-title: Las tiendas Faststore no tienen datos de conversión en los informes de Búsqueda Inteligente
+title: 'Las tiendas Faststore no tienen datos de conversión en los informes de Búsqueda Inteligente'
 slug: las-tiendas-faststore-no-tienen-datos-de-conversion-en-los-informes-de-busqueda-inteligente
 status: PUBLISHED
 createdAt: 2025-10-16T20:01:26.251Z

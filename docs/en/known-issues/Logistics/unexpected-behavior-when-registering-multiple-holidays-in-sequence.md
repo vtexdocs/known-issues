@@ -1,5 +1,5 @@
 ---
-title: Unexpected behavior when registering multiple holidays in sequence
+title: 'Unexpected behavior when registering multiple holidays in sequence'
 slug: unexpected-behavior-when-registering-multiple-holidays-in-sequence
 status: PUBLISHED
 createdAt: 2025-10-16T20:44:13.652Z

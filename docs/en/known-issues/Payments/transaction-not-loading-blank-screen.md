@@ -1,5 +1,5 @@
 ---
-title: Transaction Not Loading - Blank Screen
+title: 'Transaction Not Loading - Blank Screen'
 slug: transaction-not-loading-blank-screen
 status: PUBLISHED
 createdAt: 2025-10-16T20:27:37.994Z

@@ -1,5 +1,5 @@
 ---
-title: Shopee Duplicated Listings After VTEX Integration Architecture Updates
+title: 'Shopee Duplicated Listings After VTEX Integration Architecture Updates'
 slug: shopee-duplicated-listings-after-vtex-integration-architecture-updates
 status: PUBLISHED
 createdAt: 2025-10-16T21:00:22.194Z

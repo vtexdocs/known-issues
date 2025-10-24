@@ -1,5 +1,5 @@
 ---
-title: O checkout cancela a transação após a criação
+title: 'O checkout cancela a transação após a criação'
 slug: o-checkout-cancela-a-transacao-apos-a-criacao
 status: PUBLISHED
 createdAt: 2025-10-16T17:29:05.164Z

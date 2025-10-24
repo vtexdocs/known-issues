@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: control-accountuserprofile-renders-phone-mask-only-in-brazilian-standard
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

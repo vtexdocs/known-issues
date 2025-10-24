@@ -1,5 +1,5 @@
 ---
-title: As especificações de produto do tipo número permitem a importação de uma matriz de valores
+title: 'As especificações de produto do tipo número permitem a importação de uma matriz de valores'
 slug: as-especificacoes-de-produto-do-tipo-numero-permitem-a-importacao-de-uma-matriz-de-valores
 status: PUBLISHED
 createdAt: 2025-09-18T14:32:39.827Z

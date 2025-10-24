@@ -1,5 +1,5 @@
 ---
-title: "Cart with multiple country addresses lose the pickup address if store can't ship to all the countries"
+title: 'Cart with multiple country addresses lose the pickup address if store can''t ship to all the countries'
 id: 5yDJ05btQxQq8BuZzfopqv
 status: PUBLISHED
 createdAt: 2024-07-19T15:02:39.647Z

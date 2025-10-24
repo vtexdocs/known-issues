@@ -1,5 +1,5 @@
 ---
-title: Incoherencia en el estado de los pedidos entre OMS y Pick and Pack
+title: 'Incoherencia en el estado de los pedidos entre OMS y Pick and Pack'
 slug: incoherencia-en-el-estado-de-los-pedidos-entre-oms-y-pick-and-pack
 status: PUBLISHED
 createdAt: 2025-10-16T19:21:15.548Z

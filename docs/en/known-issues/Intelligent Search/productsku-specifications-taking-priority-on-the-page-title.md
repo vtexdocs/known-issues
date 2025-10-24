@@ -1,5 +1,5 @@
 ---
-title: Product/SKU specifications taking priority on the page title
+title: 'Product/SKU specifications taking priority on the page title'
 slug: productsku-specifications-taking-priority-on-the-page-title
 status: PUBLISHED
 createdAt: 2025-08-12T18:37:43.501Z

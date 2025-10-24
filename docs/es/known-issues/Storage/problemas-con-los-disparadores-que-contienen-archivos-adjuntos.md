@@ -1,5 +1,5 @@
 ---
-title: Problemas con los disparadores que contienen archivos adjuntos
+title: 'Problemas con los disparadores que contienen archivos adjuntos'
 slug: problemas-con-los-disparadores-que-contienen-archivos-adjuntos
 status: PUBLISHED
 createdAt: 2025-10-16T20:49:43.140Z

@@ -1,5 +1,5 @@
 ---
-title: Problemas de navegación desde el menú MiCuenta
+title: 'Problemas de navegación desde el menú MiCuenta'
 slug: problemas-de-navegacion-desde-el-menu-micuenta
 status: PUBLISHED
 createdAt: 2025-10-16T20:47:03.319Z

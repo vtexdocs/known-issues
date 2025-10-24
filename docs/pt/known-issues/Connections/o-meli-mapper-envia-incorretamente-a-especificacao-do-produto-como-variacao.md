@@ -1,5 +1,5 @@
 ---
-title: O MELI Mapper envia incorretamente a especificação do produto como variação
+title: 'O MELI Mapper envia incorretamente a especificação do produto como variação'
 slug: o-meli-mapper-envia-incorretamente-a-especificacao-do-produto-como-variacao
 status: PUBLISHED
 createdAt: 2025-09-29T12:06:21.110Z

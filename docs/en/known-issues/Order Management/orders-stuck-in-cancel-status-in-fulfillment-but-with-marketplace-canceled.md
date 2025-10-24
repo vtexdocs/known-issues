@@ -1,5 +1,5 @@
 ---
-title: Orders stuck in cancel status in fulfillment, but with Marketplace canceled.
+title: 'Orders stuck in cancel status in fulfillment, but with Marketplace canceled.'
 slug: orders-stuck-in-cancel-status-in-fulfillment-but-with-marketplace-canceled
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:44.769Z

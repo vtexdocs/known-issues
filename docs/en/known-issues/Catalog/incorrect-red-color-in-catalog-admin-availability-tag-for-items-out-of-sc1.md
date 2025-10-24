@@ -1,5 +1,5 @@
 ---
-title: Incorrect red color in catalog admin availability tag for items out of sc=1
+title: 'Incorrect red color in catalog admin availability tag for items out of sc=1'
 slug: incorrect-red-color-in-catalog-admin-availability-tag-for-items-out-of-sc1
 status: PUBLISHED
 createdAt: 2025-10-16T20:48:45.535Z

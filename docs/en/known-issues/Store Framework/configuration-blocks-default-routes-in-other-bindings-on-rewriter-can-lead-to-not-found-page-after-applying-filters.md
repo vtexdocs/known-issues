@@ -1,5 +1,5 @@
 ---
-title: Configuration "Blocks default routes in other bindings" on Rewriter can lead to 'Not Found' Page after applying filters
+title: 'Configuration "Blocks default routes in other bindings" on Rewriter can lead to ''Not Found'' Page after applying filters'
 slug: configuration-blocks-default-routes-in-other-bindings-on-rewriter-can-lead-to-not-found-page-after-applying-filters
 status: PUBLISHED
 createdAt: 2025-10-16T20:35:19.149Z

@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: pages-internal-collection-links-have-a-nonexistent-canonical-url
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

@@ -1,5 +1,5 @@
 ---
-title: Mercado Livre Variation attribute is duplicated. Allowed unique attributes combinations.
+title: 'Mercado Livre Variation attribute is duplicated. Allowed unique attributes combinations.'
 slug: mercado-livre-variation-attribute-is-duplicated-allowed-unique-attributes-combinations
 status: PUBLISHED
 createdAt: 2025-10-03T16:52:47.996Z

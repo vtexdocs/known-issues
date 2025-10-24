@@ -1,5 +1,5 @@
 ---
-title: Pedido preso no status Pendente de pagamento devido à falta de notificação de pagamento aprovado
+title: 'Pedido preso no status Pendente de pagamento devido à falta de notificação de pagamento aprovado'
 slug: pedido-preso-no-status-pendente-de-pagamento-devido-a-falta-de-notificacao-de-pagamento-aprovado
 status: PUBLISHED
 createdAt: 2025-09-04T18:22:17.762Z

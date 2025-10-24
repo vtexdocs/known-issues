@@ -1,5 +1,5 @@
 ---
-title: External clients are receiving 301 erros when trying to access vteximg
+title: 'External clients are receiving 301 erros when trying to access vteximg'
 slug: external-clients-are-receiving-301-erros-when-trying-to-access-vteximg
 status: PUBLISHED
 createdAt: 2025-10-16T20:00:03.881Z

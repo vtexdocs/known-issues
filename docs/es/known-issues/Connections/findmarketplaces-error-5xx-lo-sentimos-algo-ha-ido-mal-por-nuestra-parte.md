@@ -1,5 +1,5 @@
 ---
-title: find-marketplaces ERROR 5XX Lo sentimos, algo ha ido mal por nuestra parte.
+title: 'find-marketplaces ERROR 5XX Lo sentimos, algo ha ido mal por nuestra parte.'
 slug: findmarketplaces-error-5xx-lo-sentimos-algo-ha-ido-mal-por-nuestra-parte
 status: PUBLISHED
 createdAt: 2025-10-16T20:58:41.590Z

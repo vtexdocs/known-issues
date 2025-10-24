@@ -1,5 +1,5 @@
 ---
-title: "Invisible Characters in Category Names Cause 'Page Not Found' Errors"
+title: 'Invisible Characters in Category Names Cause ''Page Not Found'' Errors'
 id: 4np2BZUF1EmlLmV0KTpnrf
 status: PUBLISHED
 createdAt: 2024-07-05T13:11:13.031Z

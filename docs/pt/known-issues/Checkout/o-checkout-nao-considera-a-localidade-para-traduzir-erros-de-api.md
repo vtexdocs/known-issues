@@ -1,5 +1,5 @@
 ---
-title: O checkout não considera a localidade para traduzir erros de API
+title: 'O checkout não considera a localidade para traduzir erros de API'
 slug: o-checkout-nao-considera-a-localidade-para-traduzir-erros-de-api
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:56.220Z

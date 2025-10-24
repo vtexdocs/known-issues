@@ -1,5 +1,5 @@
 ---
-title: As lojas Faststore não têm dados de conversão nos relatórios da Pesquisa Inteligente
+title: 'As lojas Faststore não têm dados de conversão nos relatórios da Pesquisa Inteligente'
 slug: as-lojas-faststore-nao-tem-dados-de-conversao-nos-relatorios-da-pesquisa-inteligente
 status: PUBLISHED
 createdAt: 2025-10-16T20:01:18.545Z

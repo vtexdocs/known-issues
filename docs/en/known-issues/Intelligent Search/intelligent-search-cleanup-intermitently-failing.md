@@ -1,5 +1,5 @@
 ---
-title: Intelligent Search cleanup intermitently failing
+title: 'Intelligent Search cleanup intermitently failing'
 slug: intelligent-search-cleanup-intermitently-failing
 status: PUBLISHED
 createdAt: 2025-10-23T22:31:17.512Z

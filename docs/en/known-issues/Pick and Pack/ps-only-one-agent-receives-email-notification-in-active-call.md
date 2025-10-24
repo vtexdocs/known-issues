@@ -1,5 +1,5 @@
 ---
-title: PS – Only one agent receives email notification in active call
+title: 'PS – Only one agent receives email notification in active call'
 slug: ps-only-one-agent-receives-email-notification-in-active-call
 status: PUBLISHED
 createdAt: 2025-10-16T20:50:34.243Z

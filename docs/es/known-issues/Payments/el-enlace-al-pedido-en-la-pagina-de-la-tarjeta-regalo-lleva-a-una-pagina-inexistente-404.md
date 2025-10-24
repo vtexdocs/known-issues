@@ -1,5 +1,5 @@
 ---
-title: El enlace al pedido en la página de la tarjeta regalo lleva a una página inexistente (404)
+title: 'El enlace al pedido en la página de la tarjeta regalo lleva a una página inexistente (404)'
 slug: el-enlace-al-pedido-en-la-pagina-de-la-tarjeta-regalo-lleva-a-una-pagina-inexistente-404
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:08.019Z

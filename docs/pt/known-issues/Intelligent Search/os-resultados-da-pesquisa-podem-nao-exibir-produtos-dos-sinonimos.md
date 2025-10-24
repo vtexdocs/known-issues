@@ -1,5 +1,5 @@
 ---
-title: Os resultados da pesquisa podem não exibir produtos dos sinônimos
+title: 'Os resultados da pesquisa podem não exibir produtos dos sinônimos'
 slug: os-resultados-da-pesquisa-podem-nao-exibir-produtos-dos-sinonimos
 status: PUBLISHED
 createdAt: 2025-10-09T12:51:32.196Z

@@ -1,5 +1,5 @@
 ---
-title: Desqualificação do vendedor no Ponto de Coleta devido à quantidade divergente entre os SLAs no Checkout
+title: 'Desqualificação do vendedor no Ponto de Coleta devido à quantidade divergente entre os SLAs no Checkout'
 slug: desqualificacao-do-vendedor-no-ponto-de-coleta-devido-a-quantidade-divergente-entre-os-slas-no-checkout
 status: PUBLISHED
 createdAt: 2025-10-16T20:53:24.435Z

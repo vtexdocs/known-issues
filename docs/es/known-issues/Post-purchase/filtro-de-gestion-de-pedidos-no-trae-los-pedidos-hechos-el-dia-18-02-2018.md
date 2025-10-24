@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: orders-management-filter-doesnt-bring-the-orders-made-on-02-18-2018
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

@@ -1,5 +1,5 @@
 ---
-title: "[Magazine Luiza] [tracking] Error: 'Customer Delivery Date' debe ser mayor que 'Delivery Date' y debe ser igual o menor que la fecha de hoy"
+title: '[Magazine Luiza] [tracking] Error: ''Customer Delivery Date'' debe ser mayor que ''Delivery Date'' y debe ser igual o menor que la fecha de hoy'
 id: 7ublDwKHM4JJxsCtcbLqq8
 status: PUBLISHED
 createdAt: 2023-07-06T14:06:45.020Z

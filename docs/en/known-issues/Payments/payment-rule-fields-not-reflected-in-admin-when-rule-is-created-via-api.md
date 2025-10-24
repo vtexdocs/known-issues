@@ -1,5 +1,5 @@
 ---
-title: Payment rule fields not reflected in Admin when rule is created via API
+title: 'Payment rule fields not reflected in Admin when rule is created via API'
 slug: payment-rule-fields-not-reflected-in-admin-when-rule-is-created-via-api
 status: PUBLISHED
 createdAt: 2025-10-24T17:05:31.340Z

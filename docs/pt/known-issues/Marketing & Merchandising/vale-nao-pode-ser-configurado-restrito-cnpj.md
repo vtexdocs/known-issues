@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: voucher-cannot-be-configured-for-restricted-use-in-the-case-of-a-cnpj
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

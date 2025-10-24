@@ -1,5 +1,5 @@
 ---
-title: No funciona la exportación de correo electrónico de la nueva interfaz de colecciones
+title: 'No funciona la exportación de correo electrónico de la nueva interfaz de colecciones'
 slug: no-funciona-la-exportacion-de-correo-electronico-de-la-nueva-interfaz-de-colecciones
 status: PUBLISHED
 createdAt: 2025-10-16T20:50:50.218Z

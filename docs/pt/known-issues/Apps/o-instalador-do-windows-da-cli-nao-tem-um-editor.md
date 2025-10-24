@@ -1,5 +1,5 @@
 ---
-title: O instalador do Windows da CLI não tem um editor
+title: 'O instalador do Windows da CLI não tem um editor'
 slug: o-instalador-do-windows-da-cli-nao-tem-um-editor
 status: PUBLISHED
 createdAt: 2025-10-16T20:32:24.866Z

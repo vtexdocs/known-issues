@@ -1,5 +1,5 @@
 ---
-title: Catalog API Get Product by RefId returns "not found" for some products/RefId
+title: 'Catalog API Get Product by RefId returns "not found" for some products/RefId'
 slug: catalog-api-get-product-by-refid-returns-not-found-for-some-productsrefid
 status: PUBLISHED
 createdAt: 2025-10-16T20:27:24.472Z

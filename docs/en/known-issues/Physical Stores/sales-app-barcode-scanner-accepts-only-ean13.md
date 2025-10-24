@@ -1,5 +1,5 @@
 ---
-title: Sales App barcode scanner accepts only EAN-13
+title: 'Sales App barcode scanner accepts only EAN-13'
 slug: sales-app-barcode-scanner-accepts-only-ean13
 status: PUBLISHED
 createdAt: 2025-10-16T20:47:40.320Z

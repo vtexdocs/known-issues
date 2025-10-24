@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: bundle-weight-is-not-updated-according-to-the-modifications-of-the-sku-that-comprise-it
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

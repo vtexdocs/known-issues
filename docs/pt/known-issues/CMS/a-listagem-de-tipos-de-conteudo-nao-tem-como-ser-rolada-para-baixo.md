@@ -1,5 +1,5 @@
 ---
-title: A listagem de tipos de conteúdo não tem como ser rolada para baixo
+title: 'A listagem de tipos de conteúdo não tem como ser rolada para baixo'
 slug: a-listagem-de-tipos-de-conteudo-nao-tem-como-ser-rolada-para-baixo
 status: PUBLISHED
 createdAt: 2025-08-12T18:47:50.037Z

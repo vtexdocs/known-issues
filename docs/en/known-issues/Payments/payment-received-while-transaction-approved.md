@@ -1,5 +1,5 @@
 ---
-title: Payment received while transaction approved
+title: 'Payment received while transaction approved'
 slug: payment-received-while-transaction-approved
 status: PUBLISHED
 createdAt: 2025-10-16T20:34:49.208Z

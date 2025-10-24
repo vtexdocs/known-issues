@@ -1,5 +1,5 @@
 ---
-title: La plantilla vtexcommerce-order-changed-v2 no puede enviar el campo reason, como en la versión 1 de changeOrders.
+title: 'La plantilla vtexcommerce-order-changed-v2 no puede enviar el campo reason, como en la versión 1 de changeOrders.'
 slug: la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-reason-como-en-la-version-1-de-changeorders
 status: PUBLISHED
 createdAt: 2025-09-11T19:29:07.446Z

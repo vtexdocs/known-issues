@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: fields-not-marked-as-mandatory-in-master-data-lead-to-checkout-error
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

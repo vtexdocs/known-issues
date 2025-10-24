@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: error-accessing-transaction-in-the-order-detail
 locale: pt
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

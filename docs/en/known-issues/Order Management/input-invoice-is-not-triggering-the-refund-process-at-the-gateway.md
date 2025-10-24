@@ -1,5 +1,5 @@
 ---
-title: Input invoice is not triggering the refund process at the gateway
+title: 'Input invoice is not triggering the refund process at the gateway'
 slug: input-invoice-is-not-triggering-the-refund-process-at-the-gateway
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:58.641Z

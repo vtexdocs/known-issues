@@ -1,5 +1,5 @@
 ---
-title: Amazon Os SKUs do mesmo produto não foram agrupados na Amazon.
+title: 'Amazon Os SKUs do mesmo produto não foram agrupados na Amazon.'
 slug: amazon-os-skus-do-mesmo-produto-nao-foram-agrupados-na-amazon
 status: PUBLISHED
 createdAt: 2025-09-02T14:01:26.895Z

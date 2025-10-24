@@ -1,5 +1,5 @@
 ---
-title: A fatura de entrada não está acionando o processo de reembolso no gateway
+title: 'A fatura de entrada não está acionando o processo de reembolso no gateway'
 slug: a-fatura-de-entrada-nao-esta-acionando-o-processo-de-reembolso-no-gateway
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:56.065Z

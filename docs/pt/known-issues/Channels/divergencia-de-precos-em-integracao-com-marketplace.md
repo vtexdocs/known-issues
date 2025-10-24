@@ -13,7 +13,7 @@ tag: Pricing & Promotions
 slugEN: price-mismatch-error-when-integrating-with-select-marketplaces
 locale: pt
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

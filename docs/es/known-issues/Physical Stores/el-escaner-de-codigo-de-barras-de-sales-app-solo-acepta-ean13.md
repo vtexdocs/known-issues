@@ -1,5 +1,5 @@
 ---
-title: El escáner de código de barras de Sales App sólo acepta EAN-13
+title: 'El escáner de código de barras de Sales App sólo acepta EAN-13'
 slug: el-escaner-de-codigo-de-barras-de-sales-app-solo-acepta-ean13
 status: PUBLISHED
 createdAt: 2025-10-16T20:47:43.056Z

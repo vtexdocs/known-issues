@@ -1,5 +1,5 @@
 ---
-title: Ordens presas no status de tratamento inicial
+title: 'Ordens presas no status de tratamento inicial'
 slug: ordens-presas-no-status-de-tratamento-inicial
 status: PUBLISHED
 createdAt: 2025-08-12T18:54:01.719Z

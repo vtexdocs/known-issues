@@ -1,5 +1,5 @@
 ---
-title: Products may not appear in search when using synonyms in secondary languages
+title: 'Products may not appear in search when using synonyms in secondary languages'
 slug: products-may-not-appear-in-search-when-using-synonyms-in-secondary-languages
 status: PUBLISHED
 createdAt: 2025-08-12T17:19:23.086Z

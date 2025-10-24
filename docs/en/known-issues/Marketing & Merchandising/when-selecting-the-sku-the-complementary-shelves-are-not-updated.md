@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: when-selecting-the-sku-the-complementary-shelves-are-not-updated
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

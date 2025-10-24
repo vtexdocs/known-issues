@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: obtertotaldepontos-function-does-not-work-inside-the-automatic-field
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

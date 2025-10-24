@@ -1,5 +1,5 @@
 ---
-title: MELI Promotions UI error
+title: 'MELI Promotions UI error'
 slug: meli-promotions-ui-error
 status: PUBLISHED
 createdAt: 2025-09-29T12:05:56.083Z

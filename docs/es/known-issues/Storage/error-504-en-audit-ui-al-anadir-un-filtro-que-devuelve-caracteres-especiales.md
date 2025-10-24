@@ -1,5 +1,5 @@
 ---
-title: Error 504 en Audit UI al añadir un filtro que devuelve caracteres especiales.
+title: 'Error 504 en Audit UI al añadir un filtro que devuelve caracteres especiales.'
 slug: error-504-en-audit-ui-al-anadir-un-filtro-que-devuelve-caracteres-especiales
 status: PUBLISHED
 createdAt: 2025-10-16T20:00:28.613Z

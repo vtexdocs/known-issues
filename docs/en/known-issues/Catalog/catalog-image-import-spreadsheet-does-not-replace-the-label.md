@@ -1,5 +1,5 @@
 ---
-title: catalog Image import spreadsheet does not replace the Label
+title: 'catalog Image import spreadsheet does not replace the Label'
 slug: catalog-image-import-spreadsheet-does-not-replace-the-label
 status: PUBLISHED
 createdAt: 2025-10-16T19:58:22.711Z

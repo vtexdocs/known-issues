@@ -13,7 +13,7 @@ tag: Suggestions
 slugEN: timeout-when-approving-products-manually
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

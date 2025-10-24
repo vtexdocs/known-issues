@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: orders-managment-filter-with-slash-has-undue-behavior
 locale: es
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

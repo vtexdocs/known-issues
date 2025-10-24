@@ -1,5 +1,5 @@
 ---
-title: Config decimal digits ignored
+title: 'Config decimal digits ignored'
 slug: config-decimal-digits-ignored
 status: PUBLISHED
 createdAt: 2025-10-16T20:40:16.296Z

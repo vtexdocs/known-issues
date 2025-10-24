@@ -1,5 +1,5 @@
 ---
-title: Sku binding Não mostra todas as colunas da planilha
+title: 'Sku binding Não mostra todas as colunas da planilha'
 slug: sku-binding-nao-mostra-todas-as-colunas-da-planilha
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:27.300Z

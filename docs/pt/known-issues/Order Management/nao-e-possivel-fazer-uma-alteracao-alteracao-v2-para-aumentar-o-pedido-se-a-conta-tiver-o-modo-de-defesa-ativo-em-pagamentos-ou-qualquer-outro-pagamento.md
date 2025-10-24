@@ -1,5 +1,5 @@
 ---
-title: Não é possível fazer uma alteração (alteração v2) para aumentar o pedido se a conta tiver o Modo de Defesa ativo em pagamentos ou qualquer outro pagamento!
+title: 'Não é possível fazer uma alteração (alteração v2) para aumentar o pedido se a conta tiver o Modo de Defesa ativo em pagamentos ou qualquer outro pagamento!'
 slug: nao-e-possivel-fazer-uma-alteracao-alteracao-v2-para-aumentar-o-pedido-se-a-conta-tiver-o-modo-de-defesa-ativo-em-pagamentos-ou-qualquer-outro-pagamento
 status: PUBLISHED
 createdAt: 2025-10-16T20:00:59.265Z

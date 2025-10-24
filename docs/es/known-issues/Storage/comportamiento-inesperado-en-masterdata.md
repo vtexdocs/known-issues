@@ -1,5 +1,5 @@
 ---
-title: Comportamiento inesperado en MasterData
+title: 'Comportamiento inesperado en MasterData'
 slug: comportamiento-inesperado-en-masterdata
 status: PUBLISHED
 createdAt: 2025-10-10T16:12:09.814Z

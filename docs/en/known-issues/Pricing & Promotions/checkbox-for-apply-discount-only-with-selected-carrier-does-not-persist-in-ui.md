@@ -1,5 +1,5 @@
 ---
-title: "Checkbox for 'Apply discount only with selected carrier' does not persist in UI"
+title: 'Checkbox for ''Apply discount only with selected carrier'' does not persist in UI'
 id: 2gcsCgGhE4V1Hbp4ZkNO78
 status: PUBLISHED
 createdAt: 2024-08-21T20:17:29.685Z

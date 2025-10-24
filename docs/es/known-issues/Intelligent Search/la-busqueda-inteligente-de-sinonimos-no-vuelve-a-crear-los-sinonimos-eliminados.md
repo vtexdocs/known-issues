@@ -1,5 +1,5 @@
 ---
-title: La búsqueda inteligente de sinónimos no vuelve a crear los sinónimos eliminados.
+title: 'La búsqueda inteligente de sinónimos no vuelve a crear los sinónimos eliminados.'
 slug: la-busqueda-inteligente-de-sinonimos-no-vuelve-a-crear-los-sinonimos-eliminados
 status: PUBLISHED
 createdAt: 2025-10-16T20:47:29.968Z

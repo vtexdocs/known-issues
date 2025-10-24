@@ -1,5 +1,5 @@
 ---
-title: Producto no disponible incluso con stock franquiciado
+title: 'Producto no disponible incluso con stock franquiciado'
 slug: producto-no-disponible-incluso-con-stock-franquiciado
 status: PUBLISHED
 createdAt: 2025-09-10T13:35:47.174Z

@@ -1,5 +1,5 @@
 ---
-title: "GA4 purchase event doesn't have the category tree on item_category in dataLayer"
+title: 'GA4 purchase event doesn''t have the category tree on item_category in dataLayer'
 id: 6GCrgcG8PJHaZp80hi4Gb1
 status: PUBLISHED
 createdAt: 2023-07-12T16:42:17.087Z

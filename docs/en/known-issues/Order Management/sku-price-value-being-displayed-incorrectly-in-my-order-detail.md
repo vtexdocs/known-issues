@@ -1,5 +1,5 @@
 ---
-title: SKU price value being displayed incorrectly in My order detail
+title: 'SKU price value being displayed incorrectly in My order detail'
 slug: sku-price-value-being-displayed-incorrectly-in-my-order-detail
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:55.814Z

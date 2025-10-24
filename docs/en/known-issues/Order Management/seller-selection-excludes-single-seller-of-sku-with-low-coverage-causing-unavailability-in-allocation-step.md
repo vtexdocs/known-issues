@@ -1,5 +1,5 @@
 ---
-title: Seller selection excludes single seller of SKU with low coverage, causing unavailability in allocation step
+title: 'Seller selection excludes single seller of SKU with low coverage, causing unavailability in allocation step'
 slug: seller-selection-excludes-single-seller-of-sku-with-low-coverage-causing-unavailability-in-allocation-step
 status: PUBLISHED
 createdAt: 2025-09-25T20:48:47.025Z

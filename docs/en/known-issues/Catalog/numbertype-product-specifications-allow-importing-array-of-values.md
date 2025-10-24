@@ -1,5 +1,5 @@
 ---
-title: Number-type product specifications allow importing array of values
+title: 'Number-type product specifications allow importing array of values'
 slug: numbertype-product-specifications-allow-importing-array-of-values
 status: PUBLISHED
 createdAt: 2025-09-18T14:32:43.713Z

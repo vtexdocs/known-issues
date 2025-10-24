@@ -1,5 +1,5 @@
 ---
-title: Loop de login infinito no Pick and Pack
+title: 'Loop de login infinito no Pick and Pack'
 slug: loop-de-login-infinito-no-pick-and-pack
 status: PUBLISHED
 createdAt: 2025-10-16T20:45:38.209Z

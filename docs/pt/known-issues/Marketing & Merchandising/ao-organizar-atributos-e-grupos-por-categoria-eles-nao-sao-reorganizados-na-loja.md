@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: attributes-and-groups-organized-by-category-are-not-reorganized-in-the-store
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

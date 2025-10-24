@@ -1,5 +1,5 @@
 ---
-title: As subcontas não são alocadas automaticamente em um cluster
+title: 'As subcontas não são alocadas automaticamente em um cluster'
 slug: as-subcontas-nao-sao-alocadas-automaticamente-em-um-cluster
 status: PUBLISHED
 createdAt: 2025-10-16T20:52:55.557Z

@@ -13,7 +13,7 @@ tag: Payments
 slugEN: cancelacion-de-las-transacciones-de-banner-de-credz-a-traves-de-braspag
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

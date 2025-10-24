@@ -1,5 +1,5 @@
 ---
-title: Error al visualizar la página xmlChar no válido
+title: 'Error al visualizar la página xmlChar no válido'
 slug: error-al-visualizar-la-pagina-xmlchar-no-valido
 status: PUBLISHED
 createdAt: 2025-10-16T19:55:35.926Z

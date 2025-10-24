@@ -1,5 +1,5 @@
 ---
-title: Valores de itens incorretos do Minicart devido a solicitações simultâneas com a promoção Stepper e More for Less
+title: 'Valores de itens incorretos do Minicart devido a solicitações simultâneas com a promoção Stepper e More for Less'
 slug: valores-de-itens-incorretos-do-minicart-devido-a-solicitacoes-simultaneas-com-a-promocao-stepper-e-more-for-less
 status: PUBLISHED
 createdAt: 2025-10-16T20:38:32.759Z

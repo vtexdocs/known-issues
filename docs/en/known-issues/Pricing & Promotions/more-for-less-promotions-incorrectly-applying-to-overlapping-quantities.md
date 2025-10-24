@@ -1,5 +1,5 @@
 ---
-title: More for Less promotions incorrectly applying to overlapping quantities
+title: 'More for Less promotions incorrectly applying to overlapping quantities'
 slug: more-for-less-promotions-incorrectly-applying-to-overlapping-quantities
 status: PUBLISHED
 createdAt: 2025-10-16T19:59:22.959Z

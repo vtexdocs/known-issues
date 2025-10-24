@@ -1,5 +1,5 @@
 ---
-title: O tempo limite na consulta do Analytics pode impedir o carregamento do registro de inventário
+title: 'O tempo limite na consulta do Analytics pode impedir o carregamento do registro de inventário'
 slug: o-tempo-limite-na-consulta-do-analytics-pode-impedir-o-carregamento-do-registro-de-inventario
 status: PUBLISHED
 createdAt: 2025-10-16T20:28:45.031Z

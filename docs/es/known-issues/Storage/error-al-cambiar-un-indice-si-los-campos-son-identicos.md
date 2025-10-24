@@ -1,5 +1,5 @@
 ---
-title: Error al cambiar un índice si los campos son idénticos.
+title: 'Error al cambiar un índice si los campos son idénticos.'
 slug: error-al-cambiar-un-indice-si-los-campos-son-identicos
 status: PUBLISHED
 createdAt: 2025-10-21T19:14:38.908Z

@@ -1,5 +1,5 @@
 ---
-title: Builder-hub error when trying to publish an app
+title: 'Builder-hub error when trying to publish an app'
 slug: builderhub-error-when-trying-to-publish-an-app
 status: PUBLISHED
 createdAt: 2025-07-24T17:44:24.511Z

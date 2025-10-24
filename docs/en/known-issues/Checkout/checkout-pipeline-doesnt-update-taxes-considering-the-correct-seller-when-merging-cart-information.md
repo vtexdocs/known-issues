@@ -1,5 +1,5 @@
 ---
-title: "Checkout pipeline doesn't update taxes considering the correct seller when merging cart information"
+title: 'Checkout pipeline doesn''t update taxes considering the correct seller when merging cart information'
 id: 4HDGps2Ez5kWKuW1UNX1JQ
 status: PUBLISHED
 createdAt: 2024-07-03T20:21:23.533Z

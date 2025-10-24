@@ -1,5 +1,5 @@
 ---
-title: "B2B Suite don't use geocoordinates to calculate region Id"
+title: 'B2B Suite don''t use geocoordinates to calculate region Id'
 id: 7ITcf4hiOD1k6XBIhaCclj
 status: PUBLISHED
 createdAt: 2024-06-24T21:48:19.921Z

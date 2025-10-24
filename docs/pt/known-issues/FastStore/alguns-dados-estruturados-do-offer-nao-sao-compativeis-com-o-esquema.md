@@ -1,5 +1,5 @@
 ---
-title: Alguns dados estruturados do Offer não são compatíveis com o esquema
+title: 'Alguns dados estruturados do Offer não são compatíveis com o esquema'
 slug: alguns-dados-estruturados-do-offer-nao-sao-compativeis-com-o-esquema
 status: PUBLISHED
 createdAt: 2025-10-16T19:30:15.481Z

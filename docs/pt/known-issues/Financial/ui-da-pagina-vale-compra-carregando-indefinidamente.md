@@ -13,7 +13,7 @@ tag: Gift Card
 slugEN: gift-card-page-ui-loading-indefinitely
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

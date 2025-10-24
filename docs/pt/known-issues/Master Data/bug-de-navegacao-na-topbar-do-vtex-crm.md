@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: navigation-bug-in-vtex-crm-topbar
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

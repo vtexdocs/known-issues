@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: seller-skus-cannot-be-associated-in-the-exportimport-skuproduct-spreadsheet
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

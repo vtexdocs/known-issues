@@ -1,5 +1,5 @@
 ---
-title: Tempo limite do administrador do catálogo relacionado ao número de valores em uma única especificação
+title: 'Tempo limite do administrador do catálogo relacionado ao número de valores em uma única especificação'
 slug: tempo-limite-do-administrador-do-catalogo-relacionado-ao-numero-de-valores-em-uma-unica-especificacao
 status: PUBLISHED
 createdAt: 2025-10-02T20:01:06.953Z

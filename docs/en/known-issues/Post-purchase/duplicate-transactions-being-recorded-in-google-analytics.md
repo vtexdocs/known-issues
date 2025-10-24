@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: duplicate-transactions-being-recorded-in-google-analytics
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

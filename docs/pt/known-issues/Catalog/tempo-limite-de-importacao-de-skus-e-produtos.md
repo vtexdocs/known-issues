@@ -1,5 +1,5 @@
 ---
-title: Tempo limite de importação de SKUs e produtos
+title: 'Tempo limite de importação de SKUs e produtos'
 slug: tempo-limite-de-importacao-de-skus-e-produtos
 status: PUBLISHED
 createdAt: 2025-10-16T20:43:56.657Z

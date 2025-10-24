@@ -1,5 +1,5 @@
 ---
-title: Amazon SKUs for the same product weren't grouped on Amazon.
+title: 'Amazon SKUs for the same product weren''t grouped on Amazon.'
 slug: amazon-skus-for-the-same-product-werent-grouped-on-amazon
 status: PUBLISHED
 createdAt: 2025-09-02T14:01:35.444Z

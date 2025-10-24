@@ -1,5 +1,5 @@
 ---
-title: catálogo La hoja de cálculo de importación de imágenes no sustituye a la etiqueta
+title: 'catálogo La hoja de cálculo de importación de imágenes no sustituye a la etiqueta'
 slug: catalogo-la-hoja-de-calculo-de-importacion-de-imagenes-no-sustituye-a-la-etiqueta
 status: PUBLISHED
 createdAt: 2025-10-16T19:58:26.331Z

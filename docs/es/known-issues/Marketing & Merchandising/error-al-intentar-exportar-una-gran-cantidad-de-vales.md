@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: error-when-trying-to-export-a-large-number-of-vouchers
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

@@ -1,5 +1,5 @@
 ---
-title: La vista previa del envío muestra erróneamente los artículos como no disponibles
+title: 'La vista previa del envío muestra erróneamente los artículos como no disponibles'
 slug: la-vista-previa-del-envio-muestra-erroneamente-los-articulos-como-no-disponibles
 status: PUBLISHED
 createdAt: 2025-10-16T20:41:41.096Z

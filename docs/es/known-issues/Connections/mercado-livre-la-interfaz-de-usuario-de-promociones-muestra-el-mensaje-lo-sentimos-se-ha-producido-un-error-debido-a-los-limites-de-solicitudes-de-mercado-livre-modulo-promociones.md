@@ -1,5 +1,5 @@
 ---
-title: Mercado Livre La interfaz de usuario de promociones muestra el mensaje "Lo sentimos, se ha producido un error" debido a los límites de solicitudes de Mercado Livre (módulo Promociones).
+title: 'Mercado Livre La interfaz de usuario de promociones muestra el mensaje "Lo sentimos, se ha producido un error" debido a los límites de solicitudes de Mercado Livre (módulo Promociones).'
 slug: mercado-livre-la-interfaz-de-usuario-de-promociones-muestra-el-mensaje-lo-sentimos-se-ha-producido-un-error-debido-a-los-limites-de-solicitudes-de-mercado-livre-modulo-promociones
 status: PUBLISHED
 createdAt: 2025-10-03T14:50:46.615Z

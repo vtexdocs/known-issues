@@ -1,5 +1,5 @@
 ---
-title: Seller invite Route not found after account creation
+title: 'Seller invite Route not found after account creation'
 slug: seller-invite-route-not-found-after-account-creation
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:19.315Z

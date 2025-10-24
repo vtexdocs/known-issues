@@ -1,5 +1,5 @@
 ---
-title: Las transacciones siguen bloqueadas a pesar de la aprobación del conector
+title: 'Las transacciones siguen bloqueadas a pesar de la aprobación del conector'
 slug: las-transacciones-siguen-bloqueadas-a-pesar-de-la-aprobacion-del-conector
 status: PUBLISHED
 createdAt: 2025-10-21T19:09:31.906Z

@@ -1,5 +1,5 @@
 ---
-title: As planilhas de coleta e embalagem permanecem abertas e não podem ser concluídas
+title: 'As planilhas de coleta e embalagem permanecem abertas e não podem ser concluídas'
 slug: as-planilhas-de-coleta-e-embalagem-permanecem-abertas-e-nao-podem-ser-concluidas
 status: PUBLISHED
 createdAt: 2025-10-16T20:28:59.683Z

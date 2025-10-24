@@ -1,5 +1,5 @@
 ---
-title: "Cálculo incorrecto del descuento para 'Más por menos' con precio máximo después de la división del artículo por la aplicación de promoción anterior."
+title: 'Cálculo incorrecto del descuento para ''Más por menos'' con precio máximo después de la división del artículo por la aplicación de promoción anterior.'
 id: 6ZiiHgNADTxZDpE9wu6EkJ
 status: PUBLISHED
 createdAt: 2024-09-06T14:21:14.890Z

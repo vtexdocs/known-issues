@@ -1,5 +1,5 @@
 ---
-title: Tiempo de espera para importar SKU y productos
+title: 'Tiempo de espera para importar SKU y productos'
 slug: tiempo-de-espera-para-importar-sku-y-productos
 status: PUBLISHED
 createdAt: 2025-10-16T20:44:02.726Z

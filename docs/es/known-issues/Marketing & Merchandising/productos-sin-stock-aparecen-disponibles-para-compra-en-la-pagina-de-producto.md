@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: out-of-stock-products-are-displayed-as-available-for-purchase-on-the-product-page
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

@@ -1,5 +1,5 @@
 ---
-title: "El campo 'MetaTagDescription' no se puede eliminar a través de Admin"
+title: 'El campo ''MetaTagDescription'' no se puede eliminar a través de Admin'
 id: 7h0HlpuQnE8nWylgSWJ1lR
 status: PUBLISHED
 createdAt: 2024-02-08T20:21:00.735Z

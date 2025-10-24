@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: button-to-download-xml-is-hidden
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

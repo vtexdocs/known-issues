@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: form-ordering-does-not-insert-field-in-indexer
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

@@ -1,5 +1,5 @@
 ---
-title: Erro no sistema de eventos no final de uma transação faz com que um pedido fique incompleto
+title: 'Erro no sistema de eventos no final de uma transação faz com que um pedido fique incompleto'
 slug: erro-no-sistema-de-eventos-no-final-de-uma-transacao-faz-com-que-um-pedido-fique-incompleto
 status: PUBLISHED
 createdAt: 2025-10-16T20:35:57.585Z

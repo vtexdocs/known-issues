@@ -1,5 +1,5 @@
 ---
-title: Tiempo límite de cobro
+title: 'Tiempo límite de cobro'
 slug: tiempo-limite-de-cobro
 status: PUBLISHED
 createdAt: 2025-10-02T19:53:56.690Z

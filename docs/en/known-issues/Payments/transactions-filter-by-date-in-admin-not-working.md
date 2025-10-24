@@ -1,5 +1,5 @@
 ---
-title: Transactions filter by date in Admin not working
+title: 'Transactions filter by date in Admin not working'
 slug: transactions-filter-by-date-in-admin-not-working
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:12.189Z

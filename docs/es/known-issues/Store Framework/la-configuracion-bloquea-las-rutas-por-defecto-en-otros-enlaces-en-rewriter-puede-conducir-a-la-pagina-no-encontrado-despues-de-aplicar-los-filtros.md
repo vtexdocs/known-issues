@@ -1,5 +1,5 @@
 ---
-title: La configuración "Bloquea las rutas por defecto en otros enlaces" en Rewriter puede conducir a la página 'No encontrado' después de aplicar los filtros.
+title: 'La configuración "Bloquea las rutas por defecto en otros enlaces" en Rewriter puede conducir a la página ''No encontrado'' después de aplicar los filtros.'
 slug: la-configuracion-bloquea-las-rutas-por-defecto-en-otros-enlaces-en-rewriter-puede-conducir-a-la-pagina-no-encontrado-despues-de-aplicar-los-filtros
 status: PUBLISHED
 createdAt: 2025-10-16T20:35:22.849Z

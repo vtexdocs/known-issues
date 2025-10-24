@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: inconsistency-in-the-quantity-of-items-with-assembly-options-in-the-cart
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

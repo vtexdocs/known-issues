@@ -1,5 +1,5 @@
 ---
-title: La cabecera REST Content-Range muestra un total incorrecto al utilizar un índice personalizado en una entidad
+title: 'La cabecera REST Content-Range muestra un total incorrecto al utilizar un índice personalizado en una entidad'
 slug: la-cabecera-rest-contentrange-muestra-un-total-incorrecto-al-utilizar-un-indice-personalizado-en-una-entidad
 status: PUBLISHED
 createdAt: 2025-10-16T19:28:24.062Z

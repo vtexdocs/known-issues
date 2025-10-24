@@ -1,5 +1,5 @@
 ---
-title: Discrepância na exibição de reservas no Inventory Management
+title: 'Discrepância na exibição de reservas no Inventory Management'
 slug: discrepancia-na-exibicao-de-reservas-no-inventory-management
 status: PUBLISHED
 createdAt: 2025-10-16T20:51:10.139Z

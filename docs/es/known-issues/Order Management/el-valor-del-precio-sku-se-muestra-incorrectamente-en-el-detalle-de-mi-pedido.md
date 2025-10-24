@@ -1,5 +1,5 @@
 ---
-title: El valor del precio SKU se muestra incorrectamente en el detalle de Mi pedido
+title: 'El valor del precio SKU se muestra incorrectamente en el detalle de Mi pedido'
 slug: el-valor-del-precio-sku-se-muestra-incorrectamente-en-el-detalle-de-mi-pedido
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:58.781Z

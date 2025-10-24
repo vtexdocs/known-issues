@@ -1,5 +1,5 @@
 ---
-title: As regras da tabela de preços não são mantidas ao criar várias regras sem atualizar a página
+title: 'As regras da tabela de preços não são mantidas ao criar várias regras sem atualizar a página'
 slug: as-regras-da-tabela-de-precos-nao-sao-mantidas-ao-criar-varias-regras-sem-atualizar-a-pagina
 status: PUBLISHED
 createdAt: 2025-10-16T19:25:16.346Z

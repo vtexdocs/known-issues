@@ -1,5 +1,5 @@
 ---
-title: Performance flag affecting product grid in PLP
+title: 'Performance flag affecting product grid in PLP'
 slug: performance-flag-affecting-product-grid-in-plp
 status: PUBLISHED
 createdAt: 2025-10-16T19:27:22.568Z

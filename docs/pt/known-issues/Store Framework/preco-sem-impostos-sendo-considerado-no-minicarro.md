@@ -1,5 +1,5 @@
 ---
-title: Preço sem impostos sendo considerado no minicarro
+title: 'Preço sem impostos sendo considerado no minicarro'
 slug: preco-sem-impostos-sendo-considerado-no-minicarro
 status: PUBLISHED
 createdAt: 2025-10-16T20:58:23.175Z

@@ -13,7 +13,7 @@ tag: Connections
 slugEN: products-expired-on-google-shopping-cannot-be-resent
 locale: en
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

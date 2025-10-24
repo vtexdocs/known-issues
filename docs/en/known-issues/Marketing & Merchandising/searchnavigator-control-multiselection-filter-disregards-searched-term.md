@@ -13,7 +13,7 @@ tag: Catalog,Portal (CMS)
 slugEN: searchnavigator-control-multiselection-filter-disregards-searched-term
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

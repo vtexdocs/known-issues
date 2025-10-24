@@ -13,7 +13,7 @@ tag: Catalog,Portal (CMS)
 slugEN: productinsertsku-control-is-not-following-the-set-order-of-the-product-registry
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

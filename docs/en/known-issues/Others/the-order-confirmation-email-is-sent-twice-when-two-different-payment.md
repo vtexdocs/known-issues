@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: the-order-confirmation-email-is-sent-twice-when-two-different-payment
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

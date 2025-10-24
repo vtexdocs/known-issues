@@ -1,5 +1,5 @@
 ---
-title: Import file for customer credit invoices stuck in loading
+title: 'Import file for customer credit invoices stuck in loading'
 slug: import-file-for-customer-credit-invoices-stuck-in-loading
 status: PUBLISHED
 createdAt: 2025-09-10T15:00:45.092Z

@@ -1,5 +1,5 @@
 ---
-title: Es posible que los productos no aparezcan en la búsqueda cuando se utilizan sinónimos en lenguas secundarias.
+title: 'Es posible que los productos no aparezcan en la búsqueda cuando se utilizan sinónimos en lenguas secundarias.'
 slug: es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilizan-sinonimos-en-lenguas-secundarias
 status: PUBLISHED
 createdAt: 2025-08-12T17:19:25.705Z

@@ -1,5 +1,5 @@
 ---
-title: O contador de uso da promoção não está funcionando como esperado
+title: 'O contador de uso da promoção não está funcionando como esperado'
 slug: o-contador-de-uso-da-promocao-nao-esta-funcionando-como-esperado
 status: PUBLISHED
 createdAt: 2025-09-18T20:35:57.658Z

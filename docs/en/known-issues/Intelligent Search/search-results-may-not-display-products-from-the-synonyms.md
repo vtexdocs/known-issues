@@ -1,5 +1,5 @@
 ---
-title: Search results may not display products from the synonyms
+title: 'Search results may not display products from the synonyms'
 slug: search-results-may-not-display-products-from-the-synonyms
 status: PUBLISHED
 createdAt: 2025-10-09T12:51:37.308Z

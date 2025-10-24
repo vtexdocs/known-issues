@@ -1,5 +1,5 @@
 ---
-title: Catálogo Error al exportar el informe
+title: 'Catálogo Error al exportar el informe'
 slug: catalogo-error-al-exportar-el-informe
 status: PUBLISHED
 createdAt: 2025-10-16T20:30:17.455Z

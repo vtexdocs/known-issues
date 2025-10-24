@@ -1,5 +1,5 @@
 ---
-title: El nombre del grupo no se actualiza automáticamente en la Búsqueda Inteligente
+title: 'El nombre del grupo no se actualiza automáticamente en la Búsqueda Inteligente'
 slug: el-nombre-del-grupo-no-se-actualiza-automaticamente-en-la-busqueda-inteligente
 status: PUBLISHED
 createdAt: 2025-09-24T18:20:27.348Z

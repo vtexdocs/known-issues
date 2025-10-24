@@ -1,5 +1,5 @@
 ---
-title: O indexador cria uma resposta de disponibilidade inconsistente para mercados regionalizados
+title: 'O indexador cria uma resposta de disponibilidade inconsistente para mercados regionalizados'
 slug: o-indexador-cria-uma-resposta-de-disponibilidade-inconsistente-para-mercados-regionalizados
 status: PUBLISHED
 createdAt: 2025-10-16T20:34:21.778Z

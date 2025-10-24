@@ -1,5 +1,5 @@
 ---
-title: Indicador de rendimiento que afecta a la parrilla de productos en PLP
+title: 'Indicador de rendimiento que afecta a la parrilla de productos en PLP'
 slug: indicador-de-rendimiento-que-afecta-a-la-parrilla-de-productos-en-plp
 status: PUBLISHED
 createdAt: 2025-10-16T19:27:25.605Z

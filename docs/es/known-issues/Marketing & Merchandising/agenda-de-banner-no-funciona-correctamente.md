@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: banner-scheduling-is-deactivated-after-expiry-date
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

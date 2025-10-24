@@ -1,5 +1,5 @@
 ---
-title: Las promociones Más por Menos se aplican incorrectamente a cantidades solapadas
+title: 'Las promociones Más por Menos se aplican incorrectamente a cantidades solapadas'
 slug: las-promociones-mas-por-menos-se-aplican-incorrectamente-a-cantidades-solapadas
 status: PUBLISHED
 createdAt: 2025-10-16T19:59:26.325Z

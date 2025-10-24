@@ -1,5 +1,5 @@
 ---
-title: "Seller's skus are not being Matched to the marketplace's skus"
+title: 'Seller''s skus are not being Matched to the marketplace''s skus'
 id: 3nMHzPCop8uKOD98GkT3k
 status: PUBLISHED
 createdAt: 2024-10-03T16:23:17.416Z

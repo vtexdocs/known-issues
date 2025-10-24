@@ -1,5 +1,5 @@
 ---
-title: Giftcard Hub call receives 500 error
+title: 'Giftcard Hub call receives 500 error'
 slug: giftcard-hub-call-receives-500-error
 status: PUBLISHED
 createdAt: 2025-09-03T15:21:42.321Z

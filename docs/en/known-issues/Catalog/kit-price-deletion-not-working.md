@@ -1,5 +1,5 @@
 ---
-title: KIt Price Deletion not Working
+title: 'KIt Price Deletion not Working'
 slug: kit-price-deletion-not-working
 status: PUBLISHED
 createdAt: 2025-10-16T20:57:57.043Z

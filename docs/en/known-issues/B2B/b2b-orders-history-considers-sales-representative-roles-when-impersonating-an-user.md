@@ -1,5 +1,5 @@
 ---
-title: B2B Orders History considers Sales' Representative roles when impersonating an user
+title: 'B2B Orders History considers Sales'' Representative roles when impersonating an user'
 slug: b2b-orders-history-considers-sales-representative-roles-when-impersonating-an-user
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:53.077Z

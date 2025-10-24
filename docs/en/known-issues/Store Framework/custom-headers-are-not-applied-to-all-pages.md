@@ -1,5 +1,5 @@
 ---
-title: Custom headers are not applied to all pages
+title: 'Custom headers are not applied to all pages'
 slug: custom-headers-are-not-applied-to-all-pages
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:28.323Z

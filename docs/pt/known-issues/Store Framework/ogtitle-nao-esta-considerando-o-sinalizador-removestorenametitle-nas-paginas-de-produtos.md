@@ -1,5 +1,5 @@
 ---
-title: og:title não está considerando o sinalizador removeStoreNameTitle nas páginas de produtos
+title: 'og:title não está considerando o sinalizador removeStoreNameTitle nas páginas de produtos'
 slug: ogtitle-nao-esta-considerando-o-sinalizador-removestorenametitle-nas-paginas-de-produtos
 status: PUBLISHED
 createdAt: 2025-08-15T12:45:22.846Z

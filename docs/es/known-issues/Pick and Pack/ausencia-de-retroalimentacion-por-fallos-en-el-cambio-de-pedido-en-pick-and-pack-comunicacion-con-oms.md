@@ -1,5 +1,5 @@
 ---
-title: Ausencia de retroalimentación por fallos en el cambio de pedido en Pick and Pack (comunicación con OMS)
+title: 'Ausencia de retroalimentación por fallos en el cambio de pedido en Pick and Pack (comunicación con OMS)'
 slug: ausencia-de-retroalimentacion-por-fallos-en-el-cambio-de-pedido-en-pick-and-pack-comunicacion-con-oms
 status: PUBLISHED
 createdAt: 2025-08-13T19:01:16.953Z

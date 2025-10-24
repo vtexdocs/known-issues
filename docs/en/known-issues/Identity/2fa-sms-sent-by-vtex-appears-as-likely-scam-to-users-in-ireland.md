@@ -1,5 +1,5 @@
 ---
-title: 2FA SMS sent by VTEX appears as "likely scam" to users in Ireland
+title: '2FA SMS sent by VTEX appears as "likely scam" to users in Ireland'
 slug: 2fa-sms-sent-by-vtex-appears-as-likely-scam-to-users-in-ireland
 status: PUBLISHED
 createdAt: 2025-08-08T21:09:43.120Z

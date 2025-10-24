@@ -1,5 +1,5 @@
 ---
-title: A interface do usuário das carteiras nativas sempre mostra "sem juros" ao usar o sinalizador de juros externo
+title: 'A interface do usuário das carteiras nativas sempre mostra "sem juros" ao usar o sinalizador de juros externo'
 slug: a-interface-do-usuario-das-carteiras-nativas-sempre-mostra-sem-juros-ao-usar-o-sinalizador-de-juros-externo
 status: PUBLISHED
 createdAt: 2025-10-16T20:59:48.679Z

@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: sku-kit-weight-differs-between-shipping-simulation-and-registration-admin
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

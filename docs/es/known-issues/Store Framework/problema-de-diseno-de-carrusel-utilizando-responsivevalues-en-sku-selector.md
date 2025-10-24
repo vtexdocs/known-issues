@@ -1,5 +1,5 @@
 ---
-title: Problema de diseño de carrusel utilizando responsive-values en SKU Selector
+title: 'Problema de diseño de carrusel utilizando responsive-values en SKU Selector'
 slug: problema-de-diseno-de-carrusel-utilizando-responsivevalues-en-sku-selector
 status: PUBLISHED
 createdAt: 2025-10-16T20:50:24.996Z

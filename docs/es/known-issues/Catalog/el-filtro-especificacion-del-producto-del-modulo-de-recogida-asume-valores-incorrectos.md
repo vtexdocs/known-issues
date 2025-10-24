@@ -1,5 +1,5 @@
 ---
-title: El filtro "Especificación del producto" del módulo de recogida asume valores incorrectos.
+title: 'El filtro "Especificación del producto" del módulo de recogida asume valores incorrectos.'
 slug: el-filtro-especificacion-del-producto-del-modulo-de-recogida-asume-valores-incorrectos
 status: PUBLISHED
 createdAt: 2025-09-03T14:10:31.223Z

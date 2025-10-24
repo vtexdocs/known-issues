@@ -1,5 +1,5 @@
 ---
-title: UI de desactivación de productos de catálogo
+title: 'UI de desactivación de productos de catálogo'
 slug: ui-de-desactivacion-de-productos-de-catalogo
 status: PUBLISHED
 createdAt: 2025-10-16T19:20:33.462Z

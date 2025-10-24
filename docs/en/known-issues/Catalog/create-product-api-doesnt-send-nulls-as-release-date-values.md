@@ -1,5 +1,5 @@
 ---
-title: "Create product API doesn't send nulls as Release Date values."
+title: 'Create product API doesn''t send nulls as Release Date values.'
 id: 6IjwYVm9SdNEtW9aNYkSrj
 status: PUBLISHED
 createdAt: 2024-04-29T15:10:44.454Z

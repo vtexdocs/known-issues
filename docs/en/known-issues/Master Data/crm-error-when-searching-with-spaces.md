@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: crm-error-when-searching-with-spaces
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

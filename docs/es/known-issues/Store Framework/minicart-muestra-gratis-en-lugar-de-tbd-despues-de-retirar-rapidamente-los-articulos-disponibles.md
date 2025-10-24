@@ -1,5 +1,5 @@
 ---
-title: Minicart muestra "GRATIS" en lugar de "TBD" después de retirar rápidamente los artículos disponibles
+title: 'Minicart muestra "GRATIS" en lugar de "TBD" después de retirar rápidamente los artículos disponibles'
 slug: minicart-muestra-gratis-en-lugar-de-tbd-despues-de-retirar-rapidamente-los-articulos-disponibles
 status: PUBLISHED
 createdAt: 2025-10-16T19:29:28.775Z

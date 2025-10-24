@@ -1,5 +1,5 @@
 ---
-title: Wrong translation for SKU names at the Intelligent Search
+title: 'Wrong translation for SKU names at the Intelligent Search'
 slug: wrong-translation-for-sku-names-at-the-intelligent-search
 status: PUBLISHED
 createdAt: 2025-10-16T20:36:58.760Z

@@ -1,5 +1,5 @@
 ---
-title: Minicart Incorrect Item Values Due to Concurrent Requests with Stepper and More for Less Promotion
+title: 'Minicart Incorrect Item Values Due to Concurrent Requests with Stepper and More for Less Promotion'
 slug: minicart-incorrect-item-values-due-to-concurrent-requests-with-stepper-and-more-for-less-promotion
 status: PUBLISHED
 createdAt: 2025-10-16T20:38:36.176Z

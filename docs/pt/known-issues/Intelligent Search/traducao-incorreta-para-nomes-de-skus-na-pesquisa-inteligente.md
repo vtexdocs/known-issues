@@ -1,5 +1,5 @@
 ---
-title: Tradução incorreta para nomes de SKUs na Pesquisa Inteligente
+title: 'Tradução incorreta para nomes de SKUs na Pesquisa Inteligente'
 slug: traducao-incorreta-para-nomes-de-skus-na-pesquisa-inteligente
 status: PUBLISHED
 createdAt: 2025-10-16T20:36:55.064Z

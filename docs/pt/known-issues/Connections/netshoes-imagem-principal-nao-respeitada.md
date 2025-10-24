@@ -1,5 +1,5 @@
 ---
-title: Netshoes - Imagem principal não respeitada
+title: 'Netshoes - Imagem principal não respeitada'
 slug: netshoes-imagem-principal-nao-respeitada
 status: PUBLISHED
 createdAt: 2025-08-12T20:23:15.517Z

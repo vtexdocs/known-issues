@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: weight-registered-in-the-kit-via-api-is-not-visible-in-the-interface
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

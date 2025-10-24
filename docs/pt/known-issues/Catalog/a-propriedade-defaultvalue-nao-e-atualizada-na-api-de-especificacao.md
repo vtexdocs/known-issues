@@ -1,5 +1,5 @@
 ---
-title: A propriedade DefaultValue não é atualizada na API de especificação
+title: 'A propriedade DefaultValue não é atualizada na API de especificação'
 slug: a-propriedade-defaultvalue-nao-e-atualizada-na-api-de-especificacao
 status: PUBLISHED
 createdAt: 2025-09-08T21:44:23.898Z

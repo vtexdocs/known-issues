@@ -1,5 +1,5 @@
 ---
-title: Filters by SKU specifications not considering regionalized availability
+title: 'Filters by SKU specifications not considering regionalized availability'
 slug: filters-by-sku-specifications-not-considering-regionalized-availability
 status: PUBLISHED
 createdAt: 2025-08-28T18:26:29.845Z

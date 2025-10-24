@@ -1,5 +1,5 @@
 ---
-title: Filtros por especificações de SKU que não consideram uma política comercial específica
+title: 'Filtros por especificações de SKU que não consideram uma política comercial específica'
 slug: filtros-por-especificacoes-de-sku-que-nao-consideram-uma-politica-comercial-especifica
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:14.835Z

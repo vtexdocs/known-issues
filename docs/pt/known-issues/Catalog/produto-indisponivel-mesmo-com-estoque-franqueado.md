@@ -1,5 +1,5 @@
 ---
-title: Produto indisponível mesmo com estoque franqueado
+title: 'Produto indisponível mesmo com estoque franqueado'
 slug: produto-indisponivel-mesmo-com-estoque-franqueado
 status: PUBLISHED
 createdAt: 2025-09-10T13:35:26.618Z

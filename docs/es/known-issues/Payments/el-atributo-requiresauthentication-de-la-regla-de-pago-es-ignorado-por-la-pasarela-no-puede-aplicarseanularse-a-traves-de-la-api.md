@@ -1,5 +1,5 @@
 ---
-title: El atributo requiresAuthentication de la regla de pago es ignorado por la pasarela (no puede aplicarse/anularse a través de la API).
+title: 'El atributo requiresAuthentication de la regla de pago es ignorado por la pasarela (no puede aplicarse/anularse a través de la API).'
 slug: el-atributo-requiresauthentication-de-la-regla-de-pago-es-ignorado-por-la-pasarela-no-puede-aplicarseanularse-a-traves-de-la-api
 status: PUBLISHED
 createdAt: 2025-10-02T16:23:44.162Z

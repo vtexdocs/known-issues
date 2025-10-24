@@ -1,5 +1,5 @@
 ---
-title: A entrega de kits não é permitida se o produto tiver um modal configurado
+title: 'A entrega de kits não é permitida se o produto tiver um modal configurado'
 slug: a-entrega-de-kits-nao-e-permitida-se-o-produto-tiver-um-modal-configurado
 status: PUBLISHED
 createdAt: 2025-10-16T20:45:22.942Z

@@ -1,5 +1,5 @@
 ---
-title: O resultado da pesquisa pode não exibir a faceta sellerName em lojas multilíngues em locais adicionais
+title: 'O resultado da pesquisa pode não exibir a faceta sellerName em lojas multilíngues em locais adicionais'
 slug: o-resultado-da-pesquisa-pode-nao-exibir-a-faceta-sellername-em-lojas-multilingues-em-locais-adicionais
 status: PUBLISHED
 createdAt: 2025-10-16T20:38:46.198Z

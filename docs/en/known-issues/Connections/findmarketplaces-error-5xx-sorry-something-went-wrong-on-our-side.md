@@ -1,5 +1,5 @@
 ---
-title: find-marketplaces ERROR 5XX Sorry, something went wrong on our side
+title: 'find-marketplaces ERROR 5XX Sorry, something went wrong on our side'
 slug: findmarketplaces-error-5xx-sorry-something-went-wrong-on-our-side
 status: PUBLISHED
 createdAt: 2025-10-16T20:58:39.053Z

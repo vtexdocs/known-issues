@@ -1,5 +1,5 @@
 ---
-title: "Product specification import with type 'text' does not trigger the product's indexation"
+title: 'Product specification import with type ''text'' does not trigger the product''s indexation'
 id: 5eQB7LCCyDbVNQBQvWti33
 status: PUBLISHED
 createdAt: 2024-03-12T19:36:58.647Z

@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: kit-created-by-integration-doesnt-receive-a-table-of-values
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario
