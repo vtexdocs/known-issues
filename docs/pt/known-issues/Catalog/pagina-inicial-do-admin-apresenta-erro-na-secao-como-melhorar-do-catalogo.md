@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: admin-homepage-has-an-error-in-how-to-improve-section-of-the-catalog
 locale: pt
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

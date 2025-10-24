@@ -1,5 +1,5 @@
 ---
-title: Shoppers not able to access the payment step directly with a complete profile and available pickup option
+title: 'Shoppers not able to access the payment step directly with a complete profile and available pickup option'
 slug: shoppers-not-able-to-access-the-payment-step-directly-with-a-complete-profile-and-available-pickup-option
 status: PUBLISHED
 createdAt: 2025-10-16T21:00:06.842Z

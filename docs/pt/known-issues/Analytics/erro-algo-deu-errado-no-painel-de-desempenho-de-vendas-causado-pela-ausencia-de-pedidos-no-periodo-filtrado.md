@@ -1,5 +1,5 @@
 ---
-title: Erro algo deu errado no painel de desempenho de vendas causado pela ausência de pedidos no período filtrado
+title: 'Erro algo deu errado no painel de desempenho de vendas causado pela ausência de pedidos no período filtrado'
 slug: erro-algo-deu-errado-no-painel-de-desempenho-de-vendas-causado-pela-ausencia-de-pedidos-no-periodo-filtrado
 status: PUBLISHED
 createdAt: 2025-10-16T20:41:05.277Z

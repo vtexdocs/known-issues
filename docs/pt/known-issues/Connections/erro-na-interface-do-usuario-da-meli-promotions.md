@@ -1,5 +1,5 @@
 ---
-title: Erro na interface do usuário da MELI Promotions
+title: 'Erro na interface do usuário da MELI Promotions'
 slug: erro-na-interface-do-usuario-da-meli-promotions
 status: PUBLISHED
 createdAt: 2025-09-29T12:05:50.781Z

@@ -13,7 +13,7 @@ tag: Connections
 slugEN: products-are-not-being-sent-by-integration
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

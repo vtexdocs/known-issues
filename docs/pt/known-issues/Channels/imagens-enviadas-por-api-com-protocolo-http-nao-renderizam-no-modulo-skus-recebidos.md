@@ -13,7 +13,7 @@ tag: Suggestions
 slugEN: images-uploaded-via-api-using-an-http-protocol-do-not-render-on-the-received-skus-page
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

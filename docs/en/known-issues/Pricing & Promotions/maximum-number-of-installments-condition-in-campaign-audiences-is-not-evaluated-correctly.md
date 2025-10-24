@@ -1,5 +1,5 @@
 ---
-title: Maximum number of installments condition in campaign audiences is not evaluated correctly
+title: 'Maximum number of installments condition in campaign audiences is not evaluated correctly'
 slug: maximum-number-of-installments-condition-in-campaign-audiences-is-not-evaluated-correctly
 status: PUBLISHED
 createdAt: 2025-10-16T19:55:50.578Z

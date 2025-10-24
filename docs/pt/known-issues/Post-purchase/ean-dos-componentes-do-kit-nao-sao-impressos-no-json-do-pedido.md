@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: kit-components-ean-is-not-displayed-in-order-json
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

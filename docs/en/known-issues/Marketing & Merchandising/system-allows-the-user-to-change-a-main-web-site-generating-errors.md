@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: system-allows-the-user-to-change-a-main-web-site-generating-errors
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

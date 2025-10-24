@@ -1,5 +1,5 @@
 ---
-title: Sinônimos acentuados podem não retornar produtos em idiomas secundários
+title: 'Sinônimos acentuados podem não retornar produtos em idiomas secundários'
 slug: sinonimos-acentuados-podem-nao-retornar-produtos-em-idiomas-secundarios
 status: PUBLISHED
 createdAt: 2025-08-12T17:16:17.633Z

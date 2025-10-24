@@ -1,5 +1,5 @@
 ---
-title: Catalog Select brand in catalog doesn't work
+title: 'Catalog Select brand in catalog doesn''t work'
 slug: catalog-select-brand-in-catalog-doesnt-work
 status: PUBLISHED
 createdAt: 2025-10-16T19:59:42.187Z

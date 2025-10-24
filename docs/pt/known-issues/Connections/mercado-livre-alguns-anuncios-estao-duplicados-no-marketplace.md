@@ -1,5 +1,5 @@
 ---
-title: Mercado Livre Alguns anúncios estão duplicados no Marketplace
+title: 'Mercado Livre Alguns anúncios estão duplicados no Marketplace'
 slug: mercado-livre-alguns-anuncios-estao-duplicados-no-marketplace
 status: PUBLISHED
 createdAt: 2025-09-23T17:39:08.776Z

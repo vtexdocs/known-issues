@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: category-score-field-is-not-being-saved
 locale: pt
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

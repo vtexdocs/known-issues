@@ -1,5 +1,5 @@
 ---
-title: "Incorrect discount calculation for 'More for Less' with Max price after item split by previous promotion application"
+title: 'Incorrect discount calculation for ''More for Less'' with Max price after item split by previous promotion application'
 id: 6ZiiHgNADTxZDpE9wu6EkJ
 status: PUBLISHED
 createdAt: 2024-09-06T14:21:14.890Z

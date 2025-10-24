@@ -1,5 +1,5 @@
 ---
-title: Análise de risco cancelada antes do esperado devido ao limite fixo de tentativas
+title: 'Análise de risco cancelada antes do esperado devido ao limite fixo de tentativas'
 slug: analise-de-risco-cancelada-antes-do-esperado-devido-ao-limite-fixo-de-tentativas
 status: PUBLISHED
 createdAt: 2025-08-28T13:19:44.719Z

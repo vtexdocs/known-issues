@@ -1,5 +1,5 @@
 ---
-title: Los sinónimos acentuados pueden no devolver productos en lenguas secundarias
+title: 'Los sinónimos acentuados pueden no devolver productos en lenguas secundarias'
 slug: los-sinonimos-acentuados-pueden-no-devolver-productos-en-lenguas-secundarias
 status: PUBLISHED
 createdAt: 2025-08-12T17:16:33.624Z

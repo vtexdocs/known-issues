@@ -1,5 +1,5 @@
 ---
-title: Indisponibilidad de artículos en la asignación de la aplicación de ventas con punto de recogida (heurística inadecuada en la selección de vendedores)
+title: 'Indisponibilidad de artículos en la asignación de la aplicación de ventas con punto de recogida (heurística inadecuada en la selección de vendedores)'
 slug: indisponibilidad-de-articulos-en-la-asignacion-de-la-aplicacion-de-ventas-con-punto-de-recogida-heuristica-inadecuada-en-la-seleccion-de-vendedores
 status: PUBLISHED
 createdAt: 2025-10-16T20:58:15.147Z

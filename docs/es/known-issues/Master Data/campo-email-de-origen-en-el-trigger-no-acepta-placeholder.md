@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: triggers-source-email-field-doesnt-accept-placeholder
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

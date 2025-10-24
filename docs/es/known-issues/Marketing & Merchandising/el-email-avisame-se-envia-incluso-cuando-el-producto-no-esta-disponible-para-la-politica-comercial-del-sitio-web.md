@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: let-me-know-email-is-sent-even-when-the-product-is-not-available-for-the-websites-trade-policy
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

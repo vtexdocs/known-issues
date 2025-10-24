@@ -1,5 +1,5 @@
 ---
-title: Descuento nominal + Multiplicador unitario puede generar valores negativos
+title: 'Descuento nominal + Multiplicador unitario puede generar valores negativos'
 slug: descuento-nominal-multiplicador-unitario-puede-generar-valores-negativos
 status: PUBLISHED
 createdAt: 2025-10-16T19:52:23.286Z

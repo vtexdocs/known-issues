@@ -13,7 +13,7 @@ tag: Catalog,Gift Card,Portal (CMS),Suggestions
 slugEN: confirm-action-unavailable-in-catalog-sellers-cms-and-gift-card-modules-for
 locale: en
 kiStatus: Fixed
-internalReference:  
+internalReference: null
 ---
 
 ## Summary

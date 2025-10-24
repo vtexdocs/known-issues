@@ -1,5 +1,5 @@
 ---
-title: "Clear filter button doesn't handle multiple filters correctly"
+title: 'Clear filter button doesn''t handle multiple filters correctly'
 id: TVLYkkJXq5bxmFvHZyRS6
 status: PUBLISHED
 createdAt: 2024-01-03T22:35:40.705Z

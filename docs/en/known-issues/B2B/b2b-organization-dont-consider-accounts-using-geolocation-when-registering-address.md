@@ -1,5 +1,5 @@
 ---
-title: "B2B Organization don't consider accounts using geolocation when registering address"
+title: 'B2B Organization don''t consider accounts using geolocation when registering address'
 id: 2o6k71zZQWGVNDVSTwMZSx
 status: PUBLISHED
 createdAt: 2023-09-21T16:10:29.092Z

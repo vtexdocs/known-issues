@@ -1,5 +1,5 @@
 ---
-title: Precio sin impuestos en el minicarro
+title: 'Precio sin impuestos en el minicarro'
 slug: precio-sin-impuestos-en-el-minicarro
 status: PUBLISHED
 createdAt: 2025-10-16T20:58:28.390Z

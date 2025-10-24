@@ -1,5 +1,5 @@
 ---
-title: Valor do preço da SKU sendo exibido incorretamente nos detalhes do meu pedido
+title: 'Valor do preço da SKU sendo exibido incorretamente nos detalhes do meu pedido'
 slug: valor-do-preco-da-sku-sendo-exibido-incorretamente-nos-detalhes-do-meu-pedido
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:52.940Z

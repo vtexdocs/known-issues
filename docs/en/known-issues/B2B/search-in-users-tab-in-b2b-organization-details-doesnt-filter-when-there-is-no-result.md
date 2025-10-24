@@ -1,5 +1,5 @@
 ---
-title: "Search in Users tab in B2B Organization Details doesn't filter when there is no result"
+title: 'Search in Users tab in B2B Organization Details doesn''t filter when there is no result'
 id: 39z2nGzYZztEhqJ1qCvFql
 status: PUBLISHED
 createdAt: 2024-08-09T18:28:00.640Z

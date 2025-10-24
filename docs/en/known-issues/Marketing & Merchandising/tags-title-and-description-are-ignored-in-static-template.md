@@ -13,7 +13,7 @@ tag: Catalog,Portal (CMS)
 slugEN: tags-title-and-description-are-ignored-in-static-template
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

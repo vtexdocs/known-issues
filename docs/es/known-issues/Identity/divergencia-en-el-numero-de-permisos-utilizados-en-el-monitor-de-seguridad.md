@@ -1,5 +1,5 @@
 ---
-title: Divergencia en el número de permisos utilizados en el Monitor de Seguridad
+title: 'Divergencia en el número de permisos utilizados en el Monitor de Seguridad'
 slug: divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad
 status: PUBLISHED
 createdAt: 2025-10-16T20:52:21.242Z

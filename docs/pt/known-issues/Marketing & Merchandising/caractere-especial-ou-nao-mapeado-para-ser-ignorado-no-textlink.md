@@ -1,5 +1,5 @@
 ---
-title: "Caractere especial '|' não mapeado para ser ignorado no TextLink"
+title: 'Caractere especial ''|'' não mapeado para ser ignorado no TextLink'
 id: 5ALFG0CX168qaYUYWecW2q
 status: PUBLISHED
 createdAt: 2017-09-06T20:33:05.265Z
@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: special-character-not-mapped-to-be-ignored-in-textlink
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

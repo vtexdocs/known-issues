@@ -1,5 +1,5 @@
 ---
-title: O nome do grupo não é atualizado automaticamente na Pesquisa Inteligente
+title: 'O nome do grupo não é atualizado automaticamente na Pesquisa Inteligente'
 slug: o-nome-do-grupo-nao-e-atualizado-automaticamente-na-pesquisa-inteligente
 status: PUBLISHED
 createdAt: 2025-09-24T18:20:19.840Z

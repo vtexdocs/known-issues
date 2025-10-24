@@ -1,5 +1,5 @@
 ---
-title: Lost reasons not ordered on indeva page
+title: 'Lost reasons not ordered on indeva page'
 slug: lost-reasons-not-ordered-on-indeva-page
 status: PUBLISHED
 createdAt: 2025-09-16T19:56:33.084Z

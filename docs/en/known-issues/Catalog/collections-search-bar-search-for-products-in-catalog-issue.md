@@ -1,5 +1,5 @@
 ---
-title: Collections - Search bar - "Search for products in catalog" issue
+title: 'Collections - Search bar - "Search for products in catalog" issue'
 slug: collections-search-bar-search-for-products-in-catalog-issue
 status: PUBLISHED
 createdAt: 2025-10-16T20:32:13.355Z

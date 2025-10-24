@@ -1,5 +1,5 @@
 ---
-title: Search Organization Filter Not Applying After Changing Organization in Store Frontend
+title: 'Search Organization Filter Not Applying After Changing Organization in Store Frontend'
 slug: search-organization-filter-not-applying-after-changing-organization-in-store-frontend
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:45.857Z

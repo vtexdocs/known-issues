@@ -1,5 +1,5 @@
 ---
-title: Variações de casos no ID do documento causam duplicações no indexador
+title: 'Variações de casos no ID do documento causam duplicações no indexador'
 slug: variacoes-de-casos-no-id-do-documento-causam-duplicacoes-no-indexador
 status: PUBLISHED
 createdAt: 2025-10-16T20:44:39.150Z

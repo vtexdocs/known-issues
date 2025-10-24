@@ -1,5 +1,5 @@
 ---
-title: Erro ao alterar um índice se os campos forem idênticos.
+title: 'Erro ao alterar um índice se os campos forem idênticos.'
 slug: erro-ao-alterar-um-indice-se-os-campos-forem-identicos
 status: PUBLISHED
 createdAt: 2025-10-21T19:14:33.210Z

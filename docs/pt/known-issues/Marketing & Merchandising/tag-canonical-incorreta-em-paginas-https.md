@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: incorrect-canonical-tag-on-https-pages
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

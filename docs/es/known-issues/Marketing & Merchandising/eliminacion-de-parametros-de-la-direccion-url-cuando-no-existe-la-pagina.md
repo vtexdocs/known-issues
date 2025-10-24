@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: removal-of-url-parameters-when-a-page-does-not-exist
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

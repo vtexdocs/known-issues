@@ -1,5 +1,5 @@
 ---
-title: Comportamiento inesperado al registrar varias vacaciones seguidas
+title: 'Comportamiento inesperado al registrar varias vacaciones seguidas'
 slug: comportamiento-inesperado-al-registrar-varias-vacaciones-seguidas
 status: PUBLISHED
 createdAt: 2025-10-16T20:44:16.739Z

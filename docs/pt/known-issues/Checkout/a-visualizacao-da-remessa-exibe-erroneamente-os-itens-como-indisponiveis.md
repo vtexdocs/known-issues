@@ -1,5 +1,5 @@
 ---
-title: A visualização da remessa exibe erroneamente os itens como indisponíveis
+title: 'A visualização da remessa exibe erroneamente os itens como indisponíveis'
 slug: a-visualizacao-da-remessa-exibe-erroneamente-os-itens-como-indisponiveis
 status: PUBLISHED
 createdAt: 2025-10-16T20:41:30.873Z

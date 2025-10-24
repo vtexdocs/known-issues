@@ -1,5 +1,5 @@
 ---
-title: Currency symbol on shelves differs from website
+title: 'Currency symbol on shelves differs from website'
 slug: currency-symbol-on-shelves-differs-from-website
 status: PUBLISHED
 createdAt: 2025-09-19T19:03:42.228Z

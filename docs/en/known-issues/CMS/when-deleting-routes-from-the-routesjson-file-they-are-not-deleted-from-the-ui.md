@@ -1,5 +1,5 @@
 ---
-title: When deleting routes from the routes.json file they are not deleted from the UI
+title: 'When deleting routes from the routes.json file they are not deleted from the UI'
 slug: when-deleting-routes-from-the-routesjson-file-they-are-not-deleted-from-the-ui
 status: PUBLISHED
 createdAt: 2025-10-16T20:34:36.471Z

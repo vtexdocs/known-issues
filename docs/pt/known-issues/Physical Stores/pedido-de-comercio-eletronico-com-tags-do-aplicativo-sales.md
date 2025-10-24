@@ -1,5 +1,5 @@
 ---
-title: Pedido de comércio eletrônico com tags do aplicativo Sales
+title: 'Pedido de comércio eletrônico com tags do aplicativo Sales'
 slug: pedido-de-comercio-eletronico-com-tags-do-aplicativo-sales
 status: PUBLISHED
 createdAt: 2025-10-16T20:35:29.776Z

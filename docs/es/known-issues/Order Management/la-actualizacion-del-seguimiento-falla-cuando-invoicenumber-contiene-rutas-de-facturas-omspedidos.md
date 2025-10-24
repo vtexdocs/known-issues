@@ -1,5 +1,5 @@
 ---
-title: La actualización del seguimiento falla cuando invoiceNumber contiene "/" (rutas de facturas OMS/Pedidos)
+title: 'La actualización del seguimiento falla cuando invoiceNumber contiene "/" (rutas de facturas OMS/Pedidos)'
 slug: la-actualizacion-del-seguimiento-falla-cuando-invoicenumber-contiene-rutas-de-facturas-omspedidos
 status: PUBLISHED
 createdAt: 2025-10-03T14:04:58.931Z

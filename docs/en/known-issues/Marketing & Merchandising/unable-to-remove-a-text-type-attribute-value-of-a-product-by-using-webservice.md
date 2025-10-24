@@ -13,7 +13,7 @@ tag: Web Service
 slugEN: unable-to-remove-a-text-type-attribute-value-of-a-product-by-using-webservice
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

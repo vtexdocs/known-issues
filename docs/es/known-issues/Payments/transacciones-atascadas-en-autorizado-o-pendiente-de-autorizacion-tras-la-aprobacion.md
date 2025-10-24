@@ -1,5 +1,5 @@
 ---
-title: Transacciones atascadas en Autorizado o Pendiente de autorización tras la aprobación
+title: 'Transacciones atascadas en Autorizado o Pendiente de autorización tras la aprobación'
 slug: transacciones-atascadas-en-autorizado-o-pendiente-de-autorizacion-tras-la-aprobacion
 status: PUBLISHED
 createdAt: 2025-10-08T16:24:46.897Z

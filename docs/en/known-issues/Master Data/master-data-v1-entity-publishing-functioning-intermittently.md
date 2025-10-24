@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: master-data-v1-entity-publishing-functioning-intermittently
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

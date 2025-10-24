@@ -1,5 +1,5 @@
 ---
-title: Insert SKU File API doesnt accept URLs from servers that require "User-Agent" header
+title: 'Insert SKU File API doesnt accept URLs from servers that require "User-Agent" header'
 slug: insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-useragent-header
 status: PUBLISHED
 createdAt: 2025-08-12T18:56:32.319Z

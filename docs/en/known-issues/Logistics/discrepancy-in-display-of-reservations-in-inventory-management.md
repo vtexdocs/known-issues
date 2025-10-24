@@ -1,5 +1,5 @@
 ---
-title: Discrepancy in display of reservations in Inventory Management
+title: 'Discrepancy in display of reservations in Inventory Management'
 slug: discrepancy-in-display-of-reservations-in-inventory-management
 status: PUBLISHED
 createdAt: 2025-10-16T20:51:12.897Z

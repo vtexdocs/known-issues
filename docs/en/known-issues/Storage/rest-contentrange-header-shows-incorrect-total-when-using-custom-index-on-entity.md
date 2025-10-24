@@ -1,5 +1,5 @@
 ---
-title: REST Content-Range Header Shows Incorrect Total When Using Custom Index on Entity
+title: 'REST Content-Range Header Shows Incorrect Total When Using Custom Index on Entity'
 slug: rest-contentrange-header-shows-incorrect-total-when-using-custom-index-on-entity
 status: PUBLISHED
 createdAt: 2025-10-16T19:28:19.740Z

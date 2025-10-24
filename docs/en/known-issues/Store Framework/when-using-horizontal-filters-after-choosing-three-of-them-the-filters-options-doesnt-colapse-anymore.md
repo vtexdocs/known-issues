@@ -1,5 +1,5 @@
 ---
-title: "When using horizontal filters, after choosing three of them, the filter's options doesn't colapse anymore"
+title: 'When using horizontal filters, after choosing three of them, the filter''s options doesn''t colapse anymore'
 id: 7xPLXjZMqwxQmWwJsd63eC
 status: PUBLISHED
 createdAt: 2023-07-11T12:30:50.198Z

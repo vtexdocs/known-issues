@@ -1,5 +1,5 @@
 ---
-title: A edição de e-mail na interface do usuário do checkout faz a tela congelar
+title: 'A edição de e-mail na interface do usuário do checkout faz a tela congelar'
 slug: a-edicao-de-email-na-interface-do-usuario-do-checkout-faz-a-tela-congelar
 status: PUBLISHED
 createdAt: 2025-10-16T20:48:02.958Z

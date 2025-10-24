@@ -1,5 +1,5 @@
 ---
-title: Shipping preview wrongly displaying items as unavailable
+title: 'Shipping preview wrongly displaying items as unavailable'
 slug: shipping-preview-wrongly-displaying-items-as-unavailable
 status: PUBLISHED
 createdAt: 2025-10-16T20:41:37.843Z

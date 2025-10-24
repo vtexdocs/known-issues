@@ -1,5 +1,5 @@
 ---
-title: Error on render the view page invalid xmlChar
+title: 'Error on render the view page invalid xmlChar'
 slug: error-on-render-the-view-page-invalid-xmlchar
 status: PUBLISHED
 createdAt: 2025-10-16T19:55:32.231Z

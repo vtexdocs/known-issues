@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: different-accessories-by-sku-dont-work
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

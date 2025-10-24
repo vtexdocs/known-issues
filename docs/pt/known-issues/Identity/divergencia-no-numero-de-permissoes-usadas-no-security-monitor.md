@@ -1,5 +1,5 @@
 ---
-title: Divergência no número de permissões usadas no Security Monitor
+title: 'Divergência no número de permissões usadas no Security Monitor'
 slug: divergencia-no-numero-de-permissoes-usadas-no-security-monitor
 status: PUBLISHED
 createdAt: 2025-10-16T20:52:15.773Z

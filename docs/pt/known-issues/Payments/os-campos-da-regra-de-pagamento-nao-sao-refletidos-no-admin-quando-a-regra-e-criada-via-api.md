@@ -1,5 +1,5 @@
 ---
-title: Os campos da regra de pagamento não são refletidos no Admin quando a regra é criada via API
+title: 'Os campos da regra de pagamento não são refletidos no Admin quando a regra é criada via API'
 slug: os-campos-da-regra-de-pagamento-nao-sao-refletidos-no-admin-quando-a-regra-e-criada-via-api
 status: PUBLISHED
 createdAt: 2025-10-24T17:05:28.244Z

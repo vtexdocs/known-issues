@@ -1,5 +1,5 @@
 ---
-title: Valores incorretos em cotações de itens com configuração de multiplicador de unidade
+title: 'Valores incorretos em cotações de itens com configuração de multiplicador de unidade'
 slug: valores-incorretos-em-cotacoes-de-itens-com-configuracao-de-multiplicador-de-unidade
 status: PUBLISHED
 createdAt: 2025-10-16T19:16:40.887Z

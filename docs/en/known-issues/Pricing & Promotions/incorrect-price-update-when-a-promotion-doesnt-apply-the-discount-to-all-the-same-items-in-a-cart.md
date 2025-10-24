@@ -1,5 +1,5 @@
 ---
-title: "Incorrect price update when a promotion doesn't apply the discount to all the same items in a cart"
+title: 'Incorrect price update when a promotion doesn''t apply the discount to all the same items in a cart'
 id: 1nXGR7pKjyc0Rmo0UzMOns
 status: PUBLISHED
 createdAt: 2024-05-01T20:07:04.369Z

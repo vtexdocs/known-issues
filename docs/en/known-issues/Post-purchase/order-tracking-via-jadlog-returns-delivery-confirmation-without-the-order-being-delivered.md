@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: order-tracking-via-jadlog-returns-delivery-confirmation-without-the-order-being-delivered
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

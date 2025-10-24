@@ -1,5 +1,5 @@
 ---
-title: Error when updating secrets on the Admin
+title: 'Error when updating secrets on the Admin'
 slug: error-when-updating-secrets-on-the-admin
 status: PUBLISHED
 createdAt: 2025-10-16T20:53:57.746Z

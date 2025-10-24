@@ -1,5 +1,5 @@
 ---
-title: Order can't be created due to invalid credit card
+title: 'Order can''t be created due to invalid credit card'
 slug: order-cant-be-created-due-to-invalid-credit-card
 status: PUBLISHED
 createdAt: 2025-10-20T13:44:29.352Z

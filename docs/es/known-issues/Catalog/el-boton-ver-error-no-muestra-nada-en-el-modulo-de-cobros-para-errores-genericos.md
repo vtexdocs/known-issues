@@ -1,5 +1,5 @@
 ---
-title: El botón "Ver error" no muestra nada en el módulo de cobros para errores genéricos
+title: 'El botón "Ver error" no muestra nada en el módulo de cobros para errores genéricos'
 slug: el-boton-ver-error-no-muestra-nada-en-el-modulo-de-cobros-para-errores-genericos
 status: PUBLISHED
 createdAt: 2025-10-16T20:39:17.937Z

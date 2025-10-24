@@ -1,5 +1,5 @@
 ---
-title: catalog A planilha de importação de imagens não substitui o rótulo
+title: 'catalog A planilha de importação de imagens não substitui o rótulo'
 slug: catalog-a-planilha-de-importacao-de-imagens-nao-substitui-o-rotulo
 status: PUBLISHED
 createdAt: 2025-10-16T19:58:18.870Z

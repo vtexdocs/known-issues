@@ -1,5 +1,5 @@
 ---
-title: A exclusão de preço do KIt não está funcionando
+title: 'A exclusão de preço do KIt não está funcionando'
 slug: a-exclusao-de-preco-do-kit-nao-esta-funcionando
 status: PUBLISHED
 createdAt: 2025-10-16T20:57:53.518Z

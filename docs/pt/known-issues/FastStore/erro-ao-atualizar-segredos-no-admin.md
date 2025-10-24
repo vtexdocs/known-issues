@@ -1,5 +1,5 @@
 ---
-title: Erro ao atualizar segredos no Admin
+title: 'Erro ao atualizar segredos no Admin'
 slug: erro-ao-atualizar-segredos-no-admin
 status: PUBLISHED
 createdAt: 2025-10-16T20:53:50.955Z

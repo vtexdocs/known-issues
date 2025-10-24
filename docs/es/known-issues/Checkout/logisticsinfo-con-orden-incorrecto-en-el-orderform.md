@@ -1,5 +1,5 @@
 ---
-title: logisticsInfo con orden incorrecto en el orderForm
+title: 'logisticsInfo con orden incorrecto en el orderForm'
 slug: logisticsinfo-con-orden-incorrecto-en-el-orderform
 status: PUBLISHED
 createdAt: 2025-10-16T20:32:46.421Z

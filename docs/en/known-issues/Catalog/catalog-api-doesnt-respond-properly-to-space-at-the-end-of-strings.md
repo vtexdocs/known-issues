@@ -1,5 +1,5 @@
 ---
-title: "Catalog API doesn't respond properly to space at the end of strings"
+title: 'Catalog API doesn''t respond properly to space at the end of strings'
 id: 37TmHtc19126iarlQ4IL2p
 status: PUBLISHED
 createdAt: 2024-02-05T16:49:35.136Z

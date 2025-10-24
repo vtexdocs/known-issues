@@ -1,5 +1,5 @@
 ---
-title: Config dígitos decimales ignorados
+title: 'Config dígitos decimales ignorados'
 slug: config-digitos-decimales-ignorados
 status: PUBLISHED
 createdAt: 2025-10-16T20:40:20.263Z

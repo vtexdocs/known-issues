@@ -13,7 +13,7 @@ tag: Portal
 slugEN: sellers-logo-doesnt-appear-on-the-product-page
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

@@ -1,5 +1,5 @@
 ---
-title: ¡No es posible hacer un cambio (cambio v2) para aumentar a la orden si la cuenta tiene Modo Defensa activo en pagos o cualquier otro pago!
+title: '¡No es posible hacer un cambio (cambio v2) para aumentar a la orden si la cuenta tiene Modo Defensa activo en pagos o cualquier otro pago!'
 slug: no-es-posible-hacer-un-cambio-cambio-v2-para-aumentar-a-la-orden-si-la-cuenta-tiene-modo-defensa-activo-en-pagos-o-cualquier-otro-pago
 status: PUBLISHED
 createdAt: 2025-10-16T20:01:06.727Z

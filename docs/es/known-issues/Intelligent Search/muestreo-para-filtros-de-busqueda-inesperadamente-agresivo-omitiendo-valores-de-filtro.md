@@ -1,5 +1,5 @@
 ---
-title: Muestreo para filtros de búsqueda inesperadamente agresivo omitiendo valores de filtro
+title: 'Muestreo para filtros de búsqueda inesperadamente agresivo omitiendo valores de filtro'
 slug: muestreo-para-filtros-de-busqueda-inesperadamente-agresivo-omitiendo-valores-de-filtro
 status: PUBLISHED
 createdAt: 2025-10-16T20:44:30.506Z

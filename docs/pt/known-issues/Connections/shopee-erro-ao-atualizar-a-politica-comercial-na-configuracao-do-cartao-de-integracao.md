@@ -1,5 +1,5 @@
 ---
-title: Shopee Erro ao atualizar a política comercial na configuração do cartão de integração
+title: 'Shopee Erro ao atualizar a política comercial na configuração do cartão de integração'
 slug: shopee-erro-ao-atualizar-a-politica-comercial-na-configuracao-do-cartao-de-integracao
 status: PUBLISHED
 createdAt: 2025-10-16T20:59:20.415Z

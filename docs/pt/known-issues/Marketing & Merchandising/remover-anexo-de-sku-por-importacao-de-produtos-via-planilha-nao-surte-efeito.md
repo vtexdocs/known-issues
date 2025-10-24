@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: removing-an-sku-attachment-by-importing-products-via-spreadsheet-has-no-effect
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

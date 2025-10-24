@@ -13,7 +13,7 @@ tag: Catalog,Pricing & Promotions
 slugEN: price-by-utm-doesnt-work-when-using-special-characters
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

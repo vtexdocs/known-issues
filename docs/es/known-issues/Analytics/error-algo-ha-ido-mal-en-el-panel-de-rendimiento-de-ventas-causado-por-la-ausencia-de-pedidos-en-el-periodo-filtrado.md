@@ -1,5 +1,5 @@
 ---
-title: Error algo ha ido mal en el panel de rendimiento de ventas causado por la ausencia de pedidos en el periodo filtrado
+title: 'Error algo ha ido mal en el panel de rendimiento de ventas causado por la ausencia de pedidos en el periodo filtrado'
 slug: error-algo-ha-ido-mal-en-el-panel-de-rendimiento-de-ventas-causado-por-la-ausencia-de-pedidos-en-el-periodo-filtrado
 status: PUBLISHED
 createdAt: 2025-10-16T20:41:11.460Z

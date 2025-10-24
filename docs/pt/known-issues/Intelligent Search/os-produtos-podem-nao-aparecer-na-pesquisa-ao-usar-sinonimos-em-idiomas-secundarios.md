@@ -1,5 +1,5 @@
 ---
-title: Os produtos podem não aparecer na pesquisa ao usar sinônimos em idiomas secundários
+title: 'Os produtos podem não aparecer na pesquisa ao usar sinônimos em idiomas secundários'
 slug: os-produtos-podem-nao-aparecer-na-pesquisa-ao-usar-sinonimos-em-idiomas-secundarios
 status: PUBLISHED
 createdAt: 2025-08-12T17:19:15.060Z

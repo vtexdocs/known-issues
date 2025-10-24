@@ -1,5 +1,5 @@
 ---
-title: SMS 2FA enviado pela VTEX aparece como "provável golpe" para usuários na Irlanda
+title: 'SMS 2FA enviado pela VTEX aparece como "provável golpe" para usuários na Irlanda'
 slug: sms-2fa-enviado-pela-vtex-aparece-como-provavel-golpe-para-usuarios-na-irlanda
 status: PUBLISHED
 createdAt: 2025-08-08T21:09:35.308Z

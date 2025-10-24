@@ -1,5 +1,5 @@
 ---
-title: Catálogo Desactivar productid usando API no es inactivar SKU
+title: 'Catálogo Desactivar productid usando API no es inactivar SKU'
 slug: catalogo-desactivar-productid-usando-api-no-es-inactivar-sku
 status: PUBLISHED
 createdAt: 2025-07-24T17:43:25.128Z

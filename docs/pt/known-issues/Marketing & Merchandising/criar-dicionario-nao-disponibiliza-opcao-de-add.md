@@ -1,5 +1,5 @@
 ---
-title: "Criar dicionário não disponibiliza opção de 'Add'"
+title: 'Criar dicionário não disponibiliza opção de ''Add'''
 id: 6kSvXDetqLw954q5hYIRQN
 status: PUBLISHED
 createdAt: 2019-12-26T14:48:14.548Z
@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: add-option-not-available-when-creating-dictionary
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

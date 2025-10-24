@@ -1,5 +1,5 @@
 ---
-title: El filtro de organización de búsqueda no se aplica después de cambiar la organización en el frontend de la tienda
+title: 'El filtro de organización de búsqueda no se aplica después de cambiar la organización en el frontend de la tienda'
 slug: el-filtro-de-organizacion-de-busqueda-no-se-aplica-despues-de-cambiar-la-organizacion-en-el-frontend-de-la-tienda
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:49.146Z

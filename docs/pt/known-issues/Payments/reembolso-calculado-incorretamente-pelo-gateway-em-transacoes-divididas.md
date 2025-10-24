@@ -1,5 +1,5 @@
 ---
-title: Reembolso calculado incorretamente pelo gateway em transações divididas
+title: 'Reembolso calculado incorretamente pelo gateway em transações divididas'
 slug: reembolso-calculado-incorretamente-pelo-gateway-em-transacoes-divididas
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:28.117Z

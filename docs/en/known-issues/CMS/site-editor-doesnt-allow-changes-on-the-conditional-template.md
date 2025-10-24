@@ -1,5 +1,5 @@
 ---
-title: "Site editor doesn't allow changes on the conditional template"
+title: 'Site editor doesn''t allow changes on the conditional template'
 id: dGuXWBUUZdMB0nfndLPZ9
 status: PUBLISHED
 createdAt: 2023-07-13T20:05:31.326Z

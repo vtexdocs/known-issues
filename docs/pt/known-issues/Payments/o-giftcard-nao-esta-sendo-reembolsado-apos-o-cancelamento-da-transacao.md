@@ -1,5 +1,5 @@
 ---
-title: O Giftcard não está sendo reembolsado após o cancelamento da transação
+title: 'O Giftcard não está sendo reembolsado após o cancelamento da transação'
 slug: o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao
 status: PUBLISHED
 createdAt: 2025-08-12T18:51:03.769Z

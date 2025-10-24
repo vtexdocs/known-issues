@@ -1,5 +1,5 @@
 ---
-title: Inserting multiple specification values not working on legacy catalog
+title: 'Inserting multiple specification values not working on legacy catalog'
 slug: inserting-multiple-specification-values-not-working-on-legacy-catalog
 status: PUBLISHED
 createdAt: 2025-09-15T23:29:28.360Z

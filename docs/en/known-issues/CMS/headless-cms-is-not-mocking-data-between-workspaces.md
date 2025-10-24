@@ -1,5 +1,5 @@
 ---
-title: Headless CMS is not mocking data between workspaces
+title: 'Headless CMS is not mocking data between workspaces'
 slug: headless-cms-is-not-mocking-data-between-workspaces
 status: PUBLISHED
 createdAt: 2025-10-16T20:49:25.696Z

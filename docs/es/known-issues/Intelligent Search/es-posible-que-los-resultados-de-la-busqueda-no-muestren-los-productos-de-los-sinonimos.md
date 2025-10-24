@@ -1,5 +1,5 @@
 ---
-title: Es posible que los resultados de la búsqueda no muestren los productos de los sinónimos
+title: 'Es posible que los resultados de la búsqueda no muestren los productos de los sinónimos'
 slug: es-posible-que-los-resultados-de-la-busqueda-no-muestren-los-productos-de-los-sinonimos
 status: PUBLISHED
 createdAt: 2025-10-09T12:51:41.316Z

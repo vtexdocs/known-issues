@@ -1,5 +1,5 @@
 ---
-title: Products are not updated after trade policies are created/updated
+title: 'Products are not updated after trade policies are created/updated'
 slug: products-are-not-updated-after-trade-policies-are-createdupdated
 status: PUBLISHED
 createdAt: 2025-09-03T20:12:21.495Z

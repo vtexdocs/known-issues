@@ -1,5 +1,5 @@
 ---
-title: The promotion usage counter is not working as expected involving order splits and incomplete orders.
+title: 'The promotion usage counter is not working as expected involving order splits and incomplete orders.'
 slug: the-promotion-usage-counter-is-not-working-as-expected-involving-order-splits-and-incomplete-orders
 status: PUBLISHED
 createdAt: 2025-09-10T14:17:00.115Z

@@ -1,5 +1,5 @@
 ---
-title: Colecciones - Barra de búsqueda - Problema "Buscar productos en el catálogo
+title: 'Colecciones - Barra de búsqueda - Problema "Buscar productos en el catálogo'
 slug: colecciones-barra-de-busqueda-problema-buscar-productos-en-el-catalogo
 status: PUBLISHED
 createdAt: 2025-10-16T20:32:16.840Z

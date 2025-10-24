@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: error-in-apportioning-the-discount-when-there-is-a-multiplier-unit
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

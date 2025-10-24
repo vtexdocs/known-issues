@@ -1,5 +1,5 @@
 ---
-title: Problemas com gatilhos que contêm anexos
+title: 'Problemas com gatilhos que contêm anexos'
 slug: problemas-com-gatilhos-que-contem-anexos
 status: PUBLISHED
 createdAt: 2025-10-16T20:49:36.195Z

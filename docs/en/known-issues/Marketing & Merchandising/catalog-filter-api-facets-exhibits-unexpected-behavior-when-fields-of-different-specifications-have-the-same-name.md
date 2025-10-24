@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: catalog-filter-api-facets-exhibits-unexpected-behavior-when-fields-of-different-specifications-have-the-same-name
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

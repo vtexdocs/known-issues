@@ -1,5 +1,5 @@
 ---
-title: B2B Checkout Settings está considerando la dirección de recogida para las entregas
+title: 'B2B Checkout Settings está considerando la dirección de recogida para las entregas'
 slug: b2b-checkout-settings-esta-considerando-la-direccion-de-recogida-para-las-entregas
 status: PUBLISHED
 createdAt: 2025-10-16T20:39:33.216Z

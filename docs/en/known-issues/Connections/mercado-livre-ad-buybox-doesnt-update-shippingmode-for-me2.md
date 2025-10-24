@@ -1,5 +1,5 @@
 ---
-title: "[Mercado Livre] AD BuyBox doesn't update shipping_mode for ME2"
+title: '[Mercado Livre] AD BuyBox doesn''t update shipping_mode for ME2'
 id: 5XmZsbZz1171a04dWPs2MY
 status: PUBLISHED
 createdAt: 2024-06-03T11:38:34.337Z

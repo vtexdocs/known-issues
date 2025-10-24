@@ -1,5 +1,5 @@
 ---
-title: El cambio de tipo de vendedor no provoca una indexación
+title: 'El cambio de tipo de vendedor no provoca una indexación'
 slug: el-cambio-de-tipo-de-vendedor-no-provoca-una-indexacion
 status: PUBLISHED
 createdAt: 2025-10-16T20:59:40.670Z

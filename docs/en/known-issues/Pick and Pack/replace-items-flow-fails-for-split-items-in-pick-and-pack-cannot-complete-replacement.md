@@ -1,5 +1,5 @@
 ---
-title: Replace Items flow fails for split items in Pick and Pack (cannot complete replacement)
+title: 'Replace Items flow fails for split items in Pick and Pack (cannot complete replacement)'
 slug: replace-items-flow-fails-for-split-items-in-pick-and-pack-cannot-complete-replacement
 status: PUBLISHED
 createdAt: 2025-10-07T21:39:02.202Z

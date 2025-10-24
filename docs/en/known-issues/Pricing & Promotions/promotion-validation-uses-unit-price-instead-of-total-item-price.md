@@ -1,5 +1,5 @@
 ---
-title: Promotion validation uses unit price instead of total item price
+title: 'Promotion validation uses unit price instead of total item price'
 slug: promotion-validation-uses-unit-price-instead-of-total-item-price
 status: PUBLISHED
 createdAt: 2025-09-18T20:20:39.719Z

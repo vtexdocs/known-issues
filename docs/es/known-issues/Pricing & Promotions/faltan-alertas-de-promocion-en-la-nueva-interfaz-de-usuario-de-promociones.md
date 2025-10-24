@@ -1,5 +1,5 @@
 ---
-title: Faltan alertas de promoción en la nueva interfaz de usuario de Promociones
+title: 'Faltan alertas de promoción en la nueva interfaz de usuario de Promociones'
 slug: faltan-alertas-de-promocion-en-la-nueva-interfaz-de-usuario-de-promociones
 status: PUBLISHED
 createdAt: 2025-10-13T15:26:48.247Z

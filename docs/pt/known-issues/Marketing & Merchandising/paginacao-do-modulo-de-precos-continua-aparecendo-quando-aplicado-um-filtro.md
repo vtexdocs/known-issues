@@ -13,7 +13,7 @@ tag: Pricing & Promotions
 slugEN: pricing-module-pagination-continues-to-appear-even-when-filters-are-applied
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

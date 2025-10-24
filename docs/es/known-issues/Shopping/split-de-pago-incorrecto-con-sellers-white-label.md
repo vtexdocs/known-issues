@@ -13,7 +13,7 @@ tag: Checkout,Order Management,Payments
 slugEN: incorrect-payment-split-with-white-label-sellers
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

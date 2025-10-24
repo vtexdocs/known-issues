@@ -1,5 +1,5 @@
 ---
-title: Broken carts when adding unavailable Assembly Option
+title: 'Broken carts when adding unavailable Assembly Option'
 slug: broken-carts-when-adding-unavailable-assembly-option
 status: PUBLISHED
 createdAt: 2025-10-15T20:35:37.698Z

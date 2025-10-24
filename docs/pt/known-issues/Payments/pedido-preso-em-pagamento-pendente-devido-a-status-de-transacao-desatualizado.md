@@ -1,5 +1,5 @@
 ---
-title: Pedido preso em pagamento pendente devido a status de transação desatualizado
+title: 'Pedido preso em pagamento pendente devido a status de transação desatualizado'
 slug: pedido-preso-em-pagamento-pendente-devido-a-status-de-transacao-desatualizado
 status: PUBLISHED
 createdAt: 2025-10-01T12:55:40.209Z

@@ -1,5 +1,5 @@
 ---
-title: "Marketplace tax hub request doesn't consider some discount types"
+title: 'Marketplace tax hub request doesn''t consider some discount types'
 id: 630nSPu8y5G6CSFtiH3MOL
 status: PUBLISHED
 createdAt: 2023-11-30T21:14:13.709Z

@@ -13,7 +13,7 @@ tag: Web Service
 slugEN: the-field-administrator-who-approved-the-product-id-does-not-change-when-the-updating-is-done-by-webservice
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

@@ -1,5 +1,5 @@
 ---
-title: "O checkout permite que os usuários pulem para a etapa de pagamento com um 'shippingData' vazio ao usar a geolocalização"
+title: 'O checkout permite que os usuários pulem para a etapa de pagamento com um ''shippingData'' vazio ao usar a geolocalização'
 id: 7uv85LIrjoPaHxVgCAoy7I
 status: PUBLISHED
 createdAt: 2023-10-23T17:48:05.377Z

@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: search-doesnt-work-for-a-second-folderlevel
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

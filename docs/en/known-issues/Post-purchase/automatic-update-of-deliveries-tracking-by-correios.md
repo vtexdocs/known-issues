@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: automatic-update-of-deliveries-tracking-by-correios
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

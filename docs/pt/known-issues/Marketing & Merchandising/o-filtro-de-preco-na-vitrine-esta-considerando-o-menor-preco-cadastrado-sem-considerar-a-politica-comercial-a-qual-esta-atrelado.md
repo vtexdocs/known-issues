@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: the-price-filter-in-the-store-window-shows-the-lowest-price-registered-ignoring-the-sales-policy-to-which-it-is-linked
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

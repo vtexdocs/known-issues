@@ -1,5 +1,5 @@
 ---
-title: "UseSessionRegionAtCheckout doesn't work properly when adding the first item to the cart"
+title: 'UseSessionRegionAtCheckout doesn''t work properly when adding the first item to the cart'
 id: 2NzgWTbaHF47f5dl49A2D5
 status: PUBLISHED
 createdAt: 2023-10-24T22:51:27.435Z

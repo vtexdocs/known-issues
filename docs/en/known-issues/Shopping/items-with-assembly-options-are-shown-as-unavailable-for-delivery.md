@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: items-with-assembly-options-are-shown-as-unavailable-for-delivery
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

@@ -1,5 +1,5 @@
 ---
-title: "Creating 'custom fields' for 'custom data' converts the IDs to lowercase letters"
+title: 'Creating ''custom fields'' for ''custom data'' converts the IDs to lowercase letters'
 id: 6oCXPldEYkC9HG1fw3G3RL
 status: PUBLISHED
 createdAt: 2019-02-19T18:52:45.049Z
@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: creating-custom-fields-for-custom-data-converts-the-ids-to-lowercase
 locale: en
 kiStatus: Closed
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

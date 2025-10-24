@@ -1,5 +1,5 @@
 ---
-title: La interfaz de usuario de los monederos nativos siempre muestra "sin interés" cuando se utiliza el indicador de interés externo.
+title: 'La interfaz de usuario de los monederos nativos siempre muestra "sin interés" cuando se utiliza el indicador de interés externo.'
 slug: la-interfaz-de-usuario-de-los-monederos-nativos-siempre-muestra-sin-interes-cuando-se-utiliza-el-indicador-de-interes-externo
 status: PUBLISHED
 createdAt: 2025-10-16T20:59:55.908Z

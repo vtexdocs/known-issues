@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: google-merchant-center-is-denying-ads-due-to-price-divergence
 locale: en
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

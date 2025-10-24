@@ -1,5 +1,5 @@
 ---
-title: Los compradores no pueden acceder directamente al paso de pago con un perfil completo y la opción de recogida disponible
+title: 'Los compradores no pueden acceder directamente al paso de pago con un perfil completo y la opción de recogida disponible'
 slug: los-compradores-no-pueden-acceder-directamente-al-paso-de-pago-con-un-perfil-completo-y-la-opcion-de-recogida-disponible
 status: PUBLISHED
 createdAt: 2025-10-16T21:00:09.342Z

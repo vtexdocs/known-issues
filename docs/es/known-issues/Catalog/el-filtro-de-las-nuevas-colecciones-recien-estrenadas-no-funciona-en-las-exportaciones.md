@@ -1,5 +1,5 @@
 ---
-title: "El filtro de las nuevas colecciones 'Recién estrenadas' no funciona en las exportaciones"
+title: 'El filtro de las nuevas colecciones ''Recién estrenadas'' no funciona en las exportaciones'
 id: 7n6JZhsHxN8k27DUHOhgYg
 status: PUBLISHED
 createdAt: 2022-05-11T13:58:31.689Z

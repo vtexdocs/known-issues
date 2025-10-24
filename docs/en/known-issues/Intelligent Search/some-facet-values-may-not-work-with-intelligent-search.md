@@ -1,5 +1,5 @@
 ---
-title: Some facet values may not work with Intelligent Search
+title: 'Some facet values may not work with Intelligent Search'
 slug: some-facet-values-may-not-work-with-intelligent-search
 status: PUBLISHED
 createdAt: 2025-10-16T20:41:20.762Z

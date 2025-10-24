@@ -1,5 +1,5 @@
 ---
-title: The link to the order on the gift card page leads to a nonexistent page (404)
+title: 'The link to the order on the gift card page leads to a nonexistent page (404)'
 slug: the-link-to-the-order-on-the-gift-card-page-leads-to-a-nonexistent-page-404
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:05.333Z

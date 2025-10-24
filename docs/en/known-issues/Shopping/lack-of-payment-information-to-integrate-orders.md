@@ -13,7 +13,7 @@ tag: Checkout,Payments
 slugEN: lack-of-payment-information-to-integrate-orders
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

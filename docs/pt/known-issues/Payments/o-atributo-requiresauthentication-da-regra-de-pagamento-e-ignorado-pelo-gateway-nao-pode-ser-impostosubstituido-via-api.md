@@ -1,5 +1,5 @@
 ---
-title: O atributo requiresAuthentication da regra de pagamento é ignorado pelo gateway (não pode ser imposto/substituído via API)
+title: 'O atributo requiresAuthentication da regra de pagamento é ignorado pelo gateway (não pode ser imposto/substituído via API)'
 slug: o-atributo-requiresauthentication-da-regra-de-pagamento-e-ignorado-pelo-gateway-nao-pode-ser-impostosubstituido-via-api
 status: PUBLISHED
 createdAt: 2025-10-02T16:23:37.263Z

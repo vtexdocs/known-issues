@@ -1,5 +1,5 @@
 ---
-title: Filters by SKU specifications not considering specific trade policy
+title: 'Filters by SKU specifications not considering specific trade policy'
 slug: filters-by-sku-specifications-not-considering-specific-trade-policy
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:17.242Z

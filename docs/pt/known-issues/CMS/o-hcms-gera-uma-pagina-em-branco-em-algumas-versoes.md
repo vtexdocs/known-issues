@@ -1,5 +1,5 @@
 ---
-title: O hCMS gera uma página em branco em algumas versões
+title: 'O hCMS gera uma página em branco em algumas versões'
 slug: o-hcms-gera-uma-pagina-em-branco-em-algumas-versoes
 status: PUBLISHED
 createdAt: 2025-08-12T18:57:57.392Z

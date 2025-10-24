@@ -1,5 +1,5 @@
 ---
-title: Timeout in Analytics Query Can Prevent Inventory Log from Loading
+title: 'Timeout in Analytics Query Can Prevent Inventory Log from Loading'
 slug: timeout-in-analytics-query-can-prevent-inventory-log-from-loading
 status: PUBLISHED
 createdAt: 2025-10-16T20:28:47.650Z

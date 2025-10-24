@@ -1,5 +1,5 @@
 ---
-title: O service worker não cria um escopo correto para armazenamentos com várias vinculações
+title: 'O service worker não cria um escopo correto para armazenamentos com várias vinculações'
 slug: o-service-worker-nao-cria-um-escopo-correto-para-armazenamentos-com-varias-vinculacoes
 status: PUBLISHED
 createdAt: 2025-10-16T19:56:27.349Z

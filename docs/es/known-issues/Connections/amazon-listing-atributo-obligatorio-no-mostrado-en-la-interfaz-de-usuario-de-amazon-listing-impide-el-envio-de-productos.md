@@ -1,5 +1,5 @@
 ---
-title: Amazon Listing Atributo obligatorio no mostrado en la interfaz de usuario de Amazon Listing impide el envío de productos
+title: 'Amazon Listing Atributo obligatorio no mostrado en la interfaz de usuario de Amazon Listing impide el envío de productos'
 slug: amazon-listing-atributo-obligatorio-no-mostrado-en-la-interfaz-de-usuario-de-amazon-listing-impide-el-envio-de-productos
 status: PUBLISHED
 createdAt: 2025-10-14T14:51:53.426Z

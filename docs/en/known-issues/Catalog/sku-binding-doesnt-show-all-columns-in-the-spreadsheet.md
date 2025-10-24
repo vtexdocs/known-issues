@@ -1,5 +1,5 @@
 ---
-title: Sku binding Doesn't show all columns in the spreadsheet
+title: 'Sku binding Doesn''t show all columns in the spreadsheet'
 slug: sku-binding-doesnt-show-all-columns-in-the-spreadsheet
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:29.761Z

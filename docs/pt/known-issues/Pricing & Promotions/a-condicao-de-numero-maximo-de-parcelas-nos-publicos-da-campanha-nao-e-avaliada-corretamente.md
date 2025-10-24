@@ -1,5 +1,5 @@
 ---
-title: A condição de número máximo de parcelas nos públicos da campanha não é avaliada corretamente
+title: 'A condição de número máximo de parcelas nos públicos da campanha não é avaliada corretamente'
 slug: a-condicao-de-numero-maximo-de-parcelas-nos-publicos-da-campanha-nao-e-avaliada-corretamente
 status: PUBLISHED
 createdAt: 2025-10-16T19:55:47.087Z

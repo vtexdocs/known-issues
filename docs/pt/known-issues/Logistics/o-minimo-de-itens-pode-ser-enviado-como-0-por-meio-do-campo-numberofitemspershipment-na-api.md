@@ -1,5 +1,5 @@
 ---
-title: O mínimo de itens pode ser enviado como 0 por meio do campo "numberOfItemsPerShipment" na API
+title: 'O mínimo de itens pode ser enviado como 0 por meio do campo "numberOfItemsPerShipment" na API'
 slug: o-minimo-de-itens-pode-ser-enviado-como-0-por-meio-do-campo-numberofitemspershipment-na-api
 status: PUBLISHED
 createdAt: 2025-10-16T19:58:59.132Z

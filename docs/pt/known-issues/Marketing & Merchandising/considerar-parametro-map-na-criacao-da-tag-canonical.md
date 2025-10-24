@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: consider-map-parameter-in-the-creation-of-canonical-tag
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

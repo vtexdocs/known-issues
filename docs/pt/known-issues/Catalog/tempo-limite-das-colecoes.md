@@ -1,5 +1,5 @@
 ---
-title: Tempo limite das coleções
+title: 'Tempo limite das coleções'
 slug: tempo-limite-das-colecoes
 status: PUBLISHED
 createdAt: 2025-10-02T19:53:48.379Z

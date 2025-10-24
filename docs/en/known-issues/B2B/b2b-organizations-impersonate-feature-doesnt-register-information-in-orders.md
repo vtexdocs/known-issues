@@ -1,5 +1,5 @@
 ---
-title: "B2B Organizations' impersonate feature doesn't register information in orders"
+title: 'B2B Organizations'' impersonate feature doesn''t register information in orders'
 id: 48IPJWvzeN0uPjGVyOd3Ff
 status: PUBLISHED
 createdAt: 2024-06-27T13:04:27.839Z

@@ -1,5 +1,5 @@
 ---
-title: Inconsistência na exibição da origem dos cancelamentos de pedidos na API Get Orders
+title: 'Inconsistência na exibição da origem dos cancelamentos de pedidos na API Get Orders'
 slug: inconsistencia-na-exibicao-da-origem-dos-cancelamentos-de-pedidos-na-api-get-orders
 status: PUBLISHED
 createdAt: 2025-10-22T12:34:09.094Z

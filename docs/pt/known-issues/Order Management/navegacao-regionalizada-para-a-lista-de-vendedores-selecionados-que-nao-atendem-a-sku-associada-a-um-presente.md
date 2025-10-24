@@ -1,5 +1,5 @@
 ---
-title: Navegação regionalizada para a lista de vendedores selecionados que não atendem à SKU associada a um presente.
+title: 'Navegação regionalizada para a lista de vendedores selecionados que não atendem à SKU associada a um presente.'
 slug: navegacao-regionalizada-para-a-lista-de-vendedores-selecionados-que-nao-atendem-a-sku-associada-a-um-presente
 status: PUBLISHED
 createdAt: 2025-10-16T20:30:43.535Z

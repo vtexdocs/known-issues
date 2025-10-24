@@ -1,5 +1,5 @@
 ---
-title: Issue with Node Version Compatibility
+title: 'Issue with Node Version Compatibility'
 slug: issue-with-node-version-compatibility
 status: PUBLISHED
 createdAt: 2025-10-16T19:24:27.170Z

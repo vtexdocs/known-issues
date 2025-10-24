@@ -1,5 +1,5 @@
 ---
-title: O autocompletar do Styleguide apresenta um erro ao excluir o termo de pesquisa
+title: 'O autocompletar do Styleguide apresenta um erro ao excluir o termo de pesquisa'
 slug: o-autocompletar-do-styleguide-apresenta-um-erro-ao-excluir-o-termo-de-pesquisa
 status: PUBLISHED
 createdAt: 2025-10-16T20:32:54.201Z

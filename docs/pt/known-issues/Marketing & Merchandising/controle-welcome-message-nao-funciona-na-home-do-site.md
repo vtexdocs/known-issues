@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: welcome-message-control-doesnt-work-in-the-homepage
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

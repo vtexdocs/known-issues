@@ -1,5 +1,5 @@
 ---
-title: B2B Checkout Settings está considerando o endereço de coleta para entregas
+title: 'B2B Checkout Settings está considerando o endereço de coleta para entregas'
 slug: b2b-checkout-settings-esta-considerando-o-endereco-de-coleta-para-entregas
 status: PUBLISHED
 createdAt: 2025-10-16T20:39:27.513Z

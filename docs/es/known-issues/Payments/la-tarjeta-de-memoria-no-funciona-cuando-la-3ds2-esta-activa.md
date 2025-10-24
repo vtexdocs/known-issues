@@ -1,5 +1,5 @@
 ---
-title: La tarjeta de memoria no funciona cuando la 3DS2 está activa
+title: 'La tarjeta de memoria no funciona cuando la 3DS2 está activa'
 slug: la-tarjeta-de-memoria-no-funciona-cuando-la-3ds2-esta-activa
 status: PUBLISHED
 createdAt: 2025-10-16T20:06:59.209Z

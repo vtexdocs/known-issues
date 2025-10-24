@@ -1,5 +1,5 @@
 ---
-title: No funciona la eliminación de la información del proveedor del producto a través de Admin
+title: 'No funciona la eliminación de la información del proveedor del producto a través de Admin'
 slug: no-funciona-la-eliminacion-de-la-informacion-del-proveedor-del-producto-a-traves-de-admin
 status: PUBLISHED
 createdAt: 2025-10-16T19:51:19.608Z

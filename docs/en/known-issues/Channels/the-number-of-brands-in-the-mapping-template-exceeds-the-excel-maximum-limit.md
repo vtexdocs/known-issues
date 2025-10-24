@@ -13,7 +13,7 @@ tag: Suggestions
 slugEN: the-number-of-brands-in-the-mapping-template-exceeds-the-excel-maximum-limit
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

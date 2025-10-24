@@ -1,5 +1,5 @@
 ---
-title: find-marketplaces ERRO 5XX Desculpe, algo deu errado do nosso lado
+title: 'find-marketplaces ERRO 5XX Desculpe, algo deu errado do nosso lado'
 slug: findmarketplaces-erro-5xx-desculpe-algo-deu-errado-do-nosso-lado
 status: PUBLISHED
 createdAt: 2025-10-16T20:58:35.422Z

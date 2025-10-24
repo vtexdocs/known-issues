@@ -1,5 +1,5 @@
 ---
-title: Shopee Cannot update price because the product has Shopee-exclusive promotions
+title: 'Shopee Cannot update price because the product has Shopee-exclusive promotions'
 slug: shopee-cannot-update-price-because-the-product-has-shopeeexclusive-promotions
 status: PUBLISHED
 createdAt: 2025-09-18T19:43:10.269Z

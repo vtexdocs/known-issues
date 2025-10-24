@@ -13,7 +13,7 @@ tag: Pricing & Promotions
 slugEN: tax-rate-calculation-does-not-consider-discount-when-applied-to-formula
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

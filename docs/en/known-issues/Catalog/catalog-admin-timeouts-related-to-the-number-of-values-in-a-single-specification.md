@@ -1,5 +1,5 @@
 ---
-title: Catalog admin timeouts related to the number of values in a single specification
+title: 'Catalog admin timeouts related to the number of values in a single specification'
 slug: catalog-admin-timeouts-related-to-the-number-of-values-in-a-single-specification
 status: PUBLISHED
 createdAt: 2025-10-02T20:01:11.452Z

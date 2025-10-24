@@ -1,5 +1,5 @@
 ---
-title: MELI Map envía incorrectamente la especificación del producto como variación
+title: 'MELI Map envía incorrectamente la especificación del producto como variación'
 slug: meli-map-envia-incorrectamente-la-especificacion-del-producto-como-variacion
 status: PUBLISHED
 createdAt: 2025-09-29T12:06:44.511Z

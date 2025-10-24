@@ -1,5 +1,5 @@
 ---
-title: Erro ao renderizar a página de visualização xmlChar inválido
+title: 'Erro ao renderizar a página de visualização xmlChar inválido'
 slug: erro-ao-renderizar-a-pagina-de-visualizacao-xmlchar-invalido
 status: PUBLISHED
 createdAt: 2025-10-16T19:55:28.791Z

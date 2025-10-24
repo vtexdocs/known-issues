@@ -1,5 +1,5 @@
 ---
-title: MELI Mapper incorrectly sending product specification as variation
+title: 'MELI Mapper incorrectly sending product specification as variation'
 slug: meli-mapper-incorrectly-sending-product-specification-as-variation
 status: PUBLISHED
 createdAt: 2025-09-29T12:06:30.602Z

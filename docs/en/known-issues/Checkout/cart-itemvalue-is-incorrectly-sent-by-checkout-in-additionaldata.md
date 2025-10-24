@@ -1,5 +1,5 @@
 ---
-title: cart item.value is incorrectly sent by checkout in AdditionalData
+title: 'cart item.value is incorrectly sent by checkout in AdditionalData'
 slug: cart-itemvalue-is-incorrectly-sent-by-checkout-in-additionaldata
 status: PUBLISHED
 createdAt: 2025-10-16T19:56:48.979Z

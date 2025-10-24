@@ -1,5 +1,5 @@
 ---
-title: URLs de PDP malformados ao usar a string de consulta do espaço de trabalho
+title: 'URLs de PDP malformados ao usar a string de consulta do espaço de trabalho'
 slug: urls-de-pdp-malformados-ao-usar-a-string-de-consulta-do-espaco-de-trabalho
 status: PUBLISHED
 createdAt: 2025-08-25T14:58:27.375Z

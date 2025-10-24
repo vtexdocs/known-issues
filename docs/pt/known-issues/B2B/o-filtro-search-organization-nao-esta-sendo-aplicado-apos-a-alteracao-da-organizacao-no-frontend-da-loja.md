@@ -1,5 +1,5 @@
 ---
-title: O filtro Search Organization não está sendo aplicado após a alteração da organização no front-end da loja
+title: 'O filtro Search Organization não está sendo aplicado após a alteração da organização no front-end da loja'
 slug: o-filtro-search-organization-nao-esta-sendo-aplicado-apos-a-alteracao-da-organizacao-no-frontend-da-loja
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:43.091Z

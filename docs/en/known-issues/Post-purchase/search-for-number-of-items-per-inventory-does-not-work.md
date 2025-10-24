@@ -13,7 +13,7 @@ tag: Logistics
 slugEN: search-for-number-of-items-per-inventory-does-not-work
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

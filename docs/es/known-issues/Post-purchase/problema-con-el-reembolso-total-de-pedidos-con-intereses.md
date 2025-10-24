@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: issue-with-full-chargeback-of-orders-with-interest
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

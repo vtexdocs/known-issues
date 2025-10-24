@@ -1,5 +1,5 @@
 ---
-title: O contador de uso da promoção não está funcionando como esperado, envolvendo divisões de pedidos e pedidos incompletos.
+title: 'O contador de uso da promoção não está funcionando como esperado, envolvendo divisões de pedidos e pedidos incompletos.'
 slug: o-contador-de-uso-da-promocao-nao-esta-funcionando-como-esperado-envolvendo-divisoes-de-pedidos-e-pedidos-incompletos
 status: PUBLISHED
 createdAt: 2025-09-10T14:16:53.723Z

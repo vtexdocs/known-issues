@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: ordering-of-delivery-times-scheduled-at-checkout
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

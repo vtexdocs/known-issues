@@ -1,5 +1,5 @@
 ---
-title: "Pickup point modal doesn't utilize geoCoordinates without a Google Maps key"
+title: 'Pickup point modal doesn''t utilize geoCoordinates without a Google Maps key'
 id: 5aPNjLlsVVeyGe0Vywt0H9
 status: PUBLISHED
 createdAt: 2024-05-29T20:31:46.863Z

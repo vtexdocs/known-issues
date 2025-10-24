@@ -1,5 +1,5 @@
 ---
-title: Erro no fluxo Change v2 com itens duplicados
+title: 'Erro no fluxo Change v2 com itens duplicados'
 slug: erro-no-fluxo-change-v2-com-itens-duplicados
 status: PUBLISHED
 createdAt: 2025-10-16T20:50:57.473Z

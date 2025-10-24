@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

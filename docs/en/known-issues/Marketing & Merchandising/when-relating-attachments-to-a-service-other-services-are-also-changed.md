@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: when-relating-attachments-to-a-service-other-services-are-also-changed
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

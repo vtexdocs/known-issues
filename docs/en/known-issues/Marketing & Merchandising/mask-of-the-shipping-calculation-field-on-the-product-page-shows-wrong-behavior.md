@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: mask-of-the-shipping-calculation-field-on-the-product-page-shows-wrong-behavior
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

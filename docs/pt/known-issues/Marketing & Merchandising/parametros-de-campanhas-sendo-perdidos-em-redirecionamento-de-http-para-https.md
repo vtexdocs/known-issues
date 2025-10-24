@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: campaign-parameters-are-lost-when-http-is-redirected-to-https
 locale: pt
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

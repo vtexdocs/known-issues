@@ -1,5 +1,5 @@
 ---
-title: As APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought nem sempre funcionam como esperado
+title: 'As APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought nem sempre funcionam como esperado'
 slug: as-apis-who-saw-also-saw-who-saw-also-bought-who-bought-also-bought-nem-sempre-funcionam-como-esperado
 status: PUBLISHED
 createdAt: 2025-09-10T17:24:29.346Z

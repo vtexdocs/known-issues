@@ -1,5 +1,5 @@
 ---
-title: Pago bloqueado tras solicitud de cancelación anticipada durante la liquidación
+title: 'Pago bloqueado tras solicitud de cancelación anticipada durante la liquidación'
 slug: pago-bloqueado-tras-solicitud-de-cancelacion-anticipada-durante-la-liquidacion
 status: PUBLISHED
 createdAt: 2025-10-17T19:12:33.688Z

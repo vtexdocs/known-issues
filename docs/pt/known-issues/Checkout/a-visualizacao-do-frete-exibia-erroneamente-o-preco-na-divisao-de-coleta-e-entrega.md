@@ -1,5 +1,5 @@
 ---
-title: A visualização do frete exibia erroneamente o preço na divisão de coleta e entrega
+title: 'A visualização do frete exibia erroneamente o preço na divisão de coleta e entrega'
 slug: a-visualizacao-do-frete-exibia-erroneamente-o-preco-na-divisao-de-coleta-e-entrega
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:22.218Z

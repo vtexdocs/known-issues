@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: the-pay-with-two-cards-option-does-not-work-when-using-3d-secure-20-3ds2
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

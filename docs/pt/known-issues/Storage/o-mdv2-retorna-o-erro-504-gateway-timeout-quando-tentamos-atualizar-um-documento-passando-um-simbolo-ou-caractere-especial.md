@@ -1,5 +1,5 @@
 ---
-title: O MDv2 retorna o erro "504 Gateway Timeout" quando tentamos atualizar um documento passando um símbolo ou caractere especial.
+title: 'O MDv2 retorna o erro "504 Gateway Timeout" quando tentamos atualizar um documento passando um símbolo ou caractere especial.'
 slug: o-mdv2-retorna-o-erro-504-gateway-timeout-quando-tentamos-atualizar-um-documento-passando-um-simbolo-ou-caractere-especial
 status: PUBLISHED
 createdAt: 2025-10-21T19:14:08.521Z

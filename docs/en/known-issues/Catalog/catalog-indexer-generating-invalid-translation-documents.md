@@ -1,5 +1,5 @@
 ---
-title: Catalog indexer generating invalid translation documents
+title: 'Catalog indexer generating invalid translation documents'
 slug: catalog-indexer-generating-invalid-translation-documents
 status: PUBLISHED
 createdAt: 2025-07-24T17:50:50.631Z

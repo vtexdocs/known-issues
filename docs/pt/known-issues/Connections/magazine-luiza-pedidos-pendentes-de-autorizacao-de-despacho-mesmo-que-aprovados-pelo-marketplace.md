@@ -1,5 +1,5 @@
 ---
-title: Magazine Luiza Pedidos pendentes de autorização de despacho mesmo que aprovados pelo Marketplace
+title: 'Magazine Luiza Pedidos pendentes de autorização de despacho mesmo que aprovados pelo Marketplace'
 slug: magazine-luiza-pedidos-pendentes-de-autorizacao-de-despacho-mesmo-que-aprovados-pelo-marketplace
 status: PUBLISHED
 createdAt: 2025-10-16T20:43:39.647Z

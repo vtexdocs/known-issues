@@ -1,5 +1,5 @@
 ---
-title: Price without taxes being considered in the minicart
+title: 'Price without taxes being considered in the minicart'
 slug: price-without-taxes-being-considered-in-the-minicart
 status: PUBLISHED
 createdAt: 2025-10-16T20:58:26.037Z

@@ -1,5 +1,5 @@
 ---
-title: Faststore is sending search events on collection pages with the collection ID to IS reports
+title: 'Faststore is sending search events on collection pages with the collection ID to IS reports'
 slug: faststore-is-sending-search-events-on-collection-pages-with-the-collection-id-to-is-reports
 status: PUBLISHED
 createdAt: 2025-10-16T20:28:33.905Z

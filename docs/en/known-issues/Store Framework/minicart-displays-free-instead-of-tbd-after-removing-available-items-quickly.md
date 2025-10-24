@@ -1,5 +1,5 @@
 ---
-title: Minicart Displays "FREE" Instead of "TBD" After Removing Available Items Quickly
+title: 'Minicart Displays "FREE" Instead of "TBD" After Removing Available Items Quickly'
 slug: minicart-displays-free-instead-of-tbd-after-removing-available-items-quickly
 status: PUBLISHED
 createdAt: 2025-10-16T19:29:26.095Z

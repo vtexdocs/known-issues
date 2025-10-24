@@ -1,5 +1,5 @@
 ---
-title: El listado de tipos de contenido no permite desplazarse hacia abajo
+title: 'El listado de tipos de contenido no permite desplazarse hacia abajo'
 slug: el-listado-de-tipos-de-contenido-no-permite-desplazarse-hacia-abajo
 status: PUBLISHED
 createdAt: 2025-08-12T18:48:06.700Z

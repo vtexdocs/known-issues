@@ -1,5 +1,5 @@
 ---
-title: El correo electrónico no se rellena automáticamente para los nuevos usuarios en el checkout-ui
+title: 'El correo electrónico no se rellena automáticamente para los nuevos usuarios en el checkout-ui'
 slug: el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-usuarios-en-el-checkoutui
 status: PUBLISHED
 createdAt: 2025-10-16T19:52:39.751Z

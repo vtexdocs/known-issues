@@ -1,5 +1,5 @@
 ---
-title: Las normas de merchandising visual se extienden erróneamente a contextos más amplios
+title: 'Las normas de merchandising visual se extienden erróneamente a contextos más amplios'
 slug: las-normas-de-merchandising-visual-se-extienden-erroneamente-a-contextos-mas-amplios
 status: PUBLISHED
 createdAt: 2025-08-07T20:23:00.625Z

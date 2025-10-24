@@ -1,5 +1,5 @@
 ---
-title: Os caracteres de tubulação não são reconhecidos corretamente na nova interface do usuário do catálogo.
+title: 'Os caracteres de tubulação não são reconhecidos corretamente na nova interface do usuário do catálogo.'
 slug: os-caracteres-de-tubulacao-nao-sao-reconhecidos-corretamente-na-nova-interface-do-usuario-do-catalogo
 status: PUBLISHED
 createdAt: 2025-10-16T20:35:42.153Z

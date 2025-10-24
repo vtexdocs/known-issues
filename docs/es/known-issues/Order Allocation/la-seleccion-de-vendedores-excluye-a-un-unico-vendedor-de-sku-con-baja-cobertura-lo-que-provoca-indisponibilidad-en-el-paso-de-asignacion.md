@@ -1,5 +1,5 @@
 ---
-title: La selección de vendedores excluye a un único vendedor de SKU con baja cobertura, lo que provoca indisponibilidad en el paso de asignación
+title: 'La selección de vendedores excluye a un único vendedor de SKU con baja cobertura, lo que provoca indisponibilidad en el paso de asignación'
 slug: la-seleccion-de-vendedores-excluye-a-un-unico-vendedor-de-sku-con-baja-cobertura-lo-que-provoca-indisponibilidad-en-el-paso-de-asignacion
 status: PUBLISHED
 createdAt: 2025-09-25T20:49:10.499Z

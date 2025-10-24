@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: secondary-images-title-and-alt-repeat-main-images-content
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

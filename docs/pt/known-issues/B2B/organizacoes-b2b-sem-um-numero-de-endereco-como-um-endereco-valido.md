@@ -1,5 +1,5 @@
 ---
-title: Organizações B2B sem um número de endereço como um endereço válido
+title: 'Organizações B2B sem um número de endereço como um endereço válido'
 slug: organizacoes-b2b-sem-um-numero-de-endereco-como-um-endereco-valido
 status: PUBLISHED
 createdAt: 2025-10-16T15:50:45.100Z

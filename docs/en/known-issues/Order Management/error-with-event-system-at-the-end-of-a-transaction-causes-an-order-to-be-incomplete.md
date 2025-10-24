@@ -1,5 +1,5 @@
 ---
-title: Error with event system at the end of a transaction causes an order to be incomplete
+title: 'Error with event system at the end of a transaction causes an order to be incomplete'
 slug: error-with-event-system-at-the-end-of-a-transaction-causes-an-order-to-be-incomplete
 status: PUBLISHED
 createdAt: 2025-10-16T20:36:00.593Z

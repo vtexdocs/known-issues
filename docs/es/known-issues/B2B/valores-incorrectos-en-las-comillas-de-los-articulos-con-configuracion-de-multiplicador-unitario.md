@@ -1,5 +1,5 @@
 ---
-title: Valores incorrectos en las comillas de los artículos con configuración de multiplicador unitario
+title: 'Valores incorrectos en las comillas de los artículos con configuración de multiplicador unitario'
 slug: valores-incorrectos-en-las-comillas-de-los-articulos-con-configuracion-de-multiplicador-unitario
 status: PUBLISHED
 createdAt: 2025-10-16T19:16:49.507Z

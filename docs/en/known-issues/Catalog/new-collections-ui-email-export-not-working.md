@@ -1,5 +1,5 @@
 ---
-title: New Collections UI Email Export not working
+title: 'New Collections UI Email Export not working'
 slug: new-collections-ui-email-export-not-working
 status: PUBLISHED
 createdAt: 2025-10-16T20:50:47.314Z

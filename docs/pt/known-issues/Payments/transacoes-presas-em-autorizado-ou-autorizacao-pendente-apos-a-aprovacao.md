@@ -1,5 +1,5 @@
 ---
-title: Transações presas em Autorizado ou Autorização pendente após a aprovação
+title: 'Transações presas em Autorizado ou Autorização pendente após a aprovação'
 slug: transacoes-presas-em-autorizado-ou-autorizacao-pendente-apos-a-aprovacao
 status: PUBLISHED
 createdAt: 2025-10-08T16:24:41.816Z

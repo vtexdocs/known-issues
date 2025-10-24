@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: shippingvalue-viewpart-incorrectly-displays-delivery-times-in-hours
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

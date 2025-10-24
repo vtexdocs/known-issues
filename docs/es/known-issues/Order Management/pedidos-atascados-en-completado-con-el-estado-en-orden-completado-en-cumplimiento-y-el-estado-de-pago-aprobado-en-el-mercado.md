@@ -1,5 +1,5 @@
 ---
-title: Pedidos atascados en completado con el estado en orden completado en cumplimiento y el estado de Pago Aprobado en el Mercado.
+title: 'Pedidos atascados en completado con el estado en orden completado en cumplimiento y el estado de Pago Aprobado en el Mercado.'
 slug: pedidos-atascados-en-completado-con-el-estado-en-orden-completado-en-cumplimiento-y-el-estado-de-pago-aprobado-en-el-mercado
 status: PUBLISHED
 createdAt: 2025-08-07T21:10:45.616Z

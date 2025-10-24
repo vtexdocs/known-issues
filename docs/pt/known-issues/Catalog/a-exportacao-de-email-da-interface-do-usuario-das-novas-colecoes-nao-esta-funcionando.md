@@ -1,5 +1,5 @@
 ---
-title: A exportação de e-mail da interface do usuário das novas coleções não está funcionando
+title: 'A exportação de e-mail da interface do usuário das novas coleções não está funcionando'
 slug: a-exportacao-de-email-da-interface-do-usuario-das-novas-colecoes-nao-esta-funcionando
 status: PUBLISHED
 createdAt: 2025-10-16T20:50:44.716Z

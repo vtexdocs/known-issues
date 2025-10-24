@@ -1,5 +1,5 @@
 ---
-title: "Checkout permite a los usuarios saltar al paso de pago con un 'shippingData' vacío cuando se utiliza geolocalización"
+title: 'Checkout permite a los usuarios saltar al paso de pago con un ''shippingData'' vacío cuando se utiliza geolocalización'
 id: 7uv85LIrjoPaHxVgCAoy7I
 status: PUBLISHED
 createdAt: 2023-10-23T17:48:05.377Z

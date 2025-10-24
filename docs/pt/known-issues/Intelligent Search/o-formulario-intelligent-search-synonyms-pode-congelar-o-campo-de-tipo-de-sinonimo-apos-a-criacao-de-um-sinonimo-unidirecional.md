@@ -1,5 +1,5 @@
 ---
-title: O formulário Intelligent Search Synonyms pode congelar o campo de tipo de sinônimo após a criação de um sinônimo unidirecional
+title: 'O formulário Intelligent Search Synonyms pode congelar o campo de tipo de sinônimo após a criação de um sinônimo unidirecional'
 slug: o-formulario-intelligent-search-synonyms-pode-congelar-o-campo-de-tipo-de-sinonimo-apos-a-criacao-de-um-sinonimo-unidirecional
 status: PUBLISHED
 createdAt: 2025-10-16T20:49:10.016Z

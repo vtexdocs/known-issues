@@ -1,5 +1,5 @@
 ---
-title: Campaign promotions not working at the Search when multiple campaigns are applicable
+title: 'Campaign promotions not working at the Search when multiple campaigns are applicable'
 slug: campaign-promotions-not-working-at-the-search-when-multiple-campaigns-are-applicable
 status: PUBLISHED
 createdAt: 2025-10-16T20:46:12.130Z

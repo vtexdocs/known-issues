@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: unable-to-delete-templates-on-legacy-cms
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

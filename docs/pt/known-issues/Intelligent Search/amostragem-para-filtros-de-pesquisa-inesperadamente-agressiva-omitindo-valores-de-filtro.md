@@ -1,5 +1,5 @@
 ---
-title: Amostragem para filtros de pesquisa inesperadamente agressiva, omitindo valores de filtro
+title: 'Amostragem para filtros de pesquisa inesperadamente agressiva, omitindo valores de filtro'
 slug: amostragem-para-filtros-de-pesquisa-inesperadamente-agressiva-omitindo-valores-de-filtro
 status: PUBLISHED
 createdAt: 2025-10-16T20:44:24.982Z

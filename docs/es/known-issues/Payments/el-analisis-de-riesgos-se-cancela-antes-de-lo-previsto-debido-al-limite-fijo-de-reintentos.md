@@ -1,5 +1,5 @@
 ---
-title: El análisis de riesgos se cancela antes de lo previsto debido al límite fijo de reintentos
+title: 'El análisis de riesgos se cancela antes de lo previsto debido al límite fijo de reintentos'
 slug: el-analisis-de-riesgos-se-cancela-antes-de-lo-previsto-debido-al-limite-fijo-de-reintentos
 status: PUBLISHED
 createdAt: 2025-08-28T13:19:56.808Z

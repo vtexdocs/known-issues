@@ -1,5 +1,5 @@
 ---
-title: "Collections don't open on subaccounts"
+title: 'Collections don''t open on subaccounts'
 id: Ly7eHGXdzg0aJLYF2c4eZ
 status: PUBLISHED
 createdAt: 2024-07-31T18:50:48.046Z

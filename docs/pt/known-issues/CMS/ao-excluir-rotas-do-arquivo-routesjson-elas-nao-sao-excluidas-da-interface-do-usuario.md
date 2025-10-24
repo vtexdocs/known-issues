@@ -1,5 +1,5 @@
 ---
-title: Ao excluir rotas do arquivo routes.json, elas não são excluídas da interface do usuário
+title: 'Ao excluir rotas do arquivo routes.json, elas não são excluídas da interface do usuário'
 slug: ao-excluir-rotas-do-arquivo-routesjson-elas-nao-sao-excluidas-da-interface-do-usuario
 status: PUBLISHED
 createdAt: 2025-10-16T20:34:34.000Z

@@ -1,5 +1,5 @@
 ---
-title: Sku binding No se muestran todas las columnas en la hoja de cálculo
+title: 'Sku binding No se muestran todas las columnas en la hoja de cálculo'
 slug: sku-binding-no-se-muestran-todas-las-columnas-en-la-hoja-de-calculo
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:32.155Z

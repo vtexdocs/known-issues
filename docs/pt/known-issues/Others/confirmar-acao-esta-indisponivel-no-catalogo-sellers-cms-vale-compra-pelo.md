@@ -1,5 +1,5 @@
 ---
-title: "'Confirmar Ação' está indisponível no Catálogo, Sellers, CMS, Vale-compra pelo Google Chrome"
+title: '''Confirmar Ação'' está indisponível no Catálogo, Sellers, CMS, Vale-compra pelo Google Chrome'
 id: 5UzVaWa63dPwPlbK3n2AH5
 status: PUBLISHED
 createdAt: 2021-07-27T22:29:39.402Z
@@ -13,7 +13,7 @@ tag: Catalog,Gift Card,Portal (CMS),Suggestions
 slugEN: confirm-action-unavailable-in-catalog-sellers-cms-and-gift-card-modules-for
 locale: pt
 kiStatus: Fixed
-internalReference:  
+internalReference: null
 ---
 
 ## Sumário

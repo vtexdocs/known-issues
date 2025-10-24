@@ -1,5 +1,5 @@
 ---
-title: O símbolo da moeda nas prateleiras difere do site
+title: 'O símbolo da moeda nas prateleiras difere do site'
 slug: o-simbolo-da-moeda-nas-prateleiras-difere-do-site
 status: PUBLISHED
 createdAt: 2025-09-19T19:03:38.162Z

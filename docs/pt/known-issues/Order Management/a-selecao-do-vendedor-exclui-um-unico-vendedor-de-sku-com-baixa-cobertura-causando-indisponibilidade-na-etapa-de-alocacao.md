@@ -1,5 +1,5 @@
 ---
-title: A seleção do vendedor exclui um único vendedor de SKU com baixa cobertura, causando indisponibilidade na etapa de alocação
+title: 'A seleção do vendedor exclui um único vendedor de SKU com baixa cobertura, causando indisponibilidade na etapa de alocação'
 slug: a-selecao-do-vendedor-exclui-um-unico-vendedor-de-sku-com-baixa-cobertura-causando-indisponibilidade-na-etapa-de-alocacao
 status: PUBLISHED
 createdAt: 2025-09-25T20:48:43.038Z

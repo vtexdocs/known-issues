@@ -13,7 +13,7 @@ tag: Connections
 slugEN: cannot-filter-by-error-type-in-the-excel-bridge-export-spreadsheet
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

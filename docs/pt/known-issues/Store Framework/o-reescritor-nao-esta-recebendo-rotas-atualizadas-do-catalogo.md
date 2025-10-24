@@ -1,5 +1,5 @@
 ---
-title: O reescritor não está recebendo rotas atualizadas do catálogo
+title: 'O reescritor não está recebendo rotas atualizadas do catálogo'
 slug: o-reescritor-nao-esta-recebendo-rotas-atualizadas-do-catalogo
 status: PUBLISHED
 createdAt: 2025-10-16T20:34:07.096Z

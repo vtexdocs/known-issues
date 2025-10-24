@@ -1,5 +1,5 @@
 ---
-title: El dominio del cliente no aparece en la pantalla del IdP
+title: 'El dominio del cliente no aparece en la pantalla del IdP'
 slug: el-dominio-del-cliente-no-aparece-en-la-pantalla-del-idp
 status: PUBLISHED
 createdAt: 2025-10-16T19:27:49.135Z

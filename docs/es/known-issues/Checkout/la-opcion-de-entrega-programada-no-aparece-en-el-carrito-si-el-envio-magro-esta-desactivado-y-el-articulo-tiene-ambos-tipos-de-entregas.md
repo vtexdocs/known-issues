@@ -1,5 +1,5 @@
 ---
-title: La opción de entrega programada no aparece en el carrito si el envío magro está desactivado y el artículo tiene ambos tipos de entregas
+title: 'La opción de entrega programada no aparece en el carrito si el envío magro está desactivado y el artículo tiene ambos tipos de entregas'
 slug: la-opcion-de-entrega-programada-no-aparece-en-el-carrito-si-el-envio-magro-esta-desactivado-y-el-articulo-tiene-ambos-tipos-de-entregas
 status: PUBLISHED
 createdAt: 2025-10-16T19:57:11.172Z

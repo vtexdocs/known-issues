@@ -1,5 +1,5 @@
 ---
-title: Faststore's breadcrumb doesn't handle special characters well
+title: 'Faststore''s breadcrumb doesn''t handle special characters well'
 slug: faststores-breadcrumb-doesnt-handle-special-characters-well
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:38.604Z

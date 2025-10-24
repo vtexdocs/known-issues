@@ -1,5 +1,5 @@
 ---
-title: "Seller's order invoiced with problem in the payment capture"
+title: 'Seller''s order invoiced with problem in the payment capture'
 id: 59M66kN7D6qy8ErLnbdT9r
 status: PUBLISHED
 createdAt: 2024-01-29T16:51:46.993Z

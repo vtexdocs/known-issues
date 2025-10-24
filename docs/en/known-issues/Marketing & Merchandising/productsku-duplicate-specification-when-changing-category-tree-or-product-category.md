@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: productsku-duplicate-specification-when-changing-category-tree-or-product-category
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

@@ -1,5 +1,5 @@
 ---
-title: "Users can't access Gift Card admin (looping page)"
+title: 'Users can''t access Gift Card admin (looping page)'
 id: 5FowAAf8VulbVXcQIeSmHd
 status: PUBLISHED
 createdAt: 2024-05-02T15:26:57.386Z

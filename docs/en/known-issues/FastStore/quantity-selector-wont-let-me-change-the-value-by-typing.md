@@ -1,5 +1,5 @@
 ---
-title: "Quantity Selector won't let me change the value by typing"
+title: 'Quantity Selector won''t let me change the value by typing'
 id: 4whARKlTiLQhTluJrIRfO5
 status: PUBLISHED
 createdAt: 2024-06-28T15:01:34.187Z

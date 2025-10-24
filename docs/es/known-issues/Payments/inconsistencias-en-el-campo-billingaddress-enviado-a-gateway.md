@@ -1,5 +1,5 @@
 ---
-title: Inconsistencias en el campo billingAddress enviado a Gateway
+title: 'Inconsistencias en el campo billingAddress enviado a Gateway'
 slug: inconsistencias-en-el-campo-billingaddress-enviado-a-gateway
 status: PUBLISHED
 createdAt: 2025-08-07T20:20:10.568Z

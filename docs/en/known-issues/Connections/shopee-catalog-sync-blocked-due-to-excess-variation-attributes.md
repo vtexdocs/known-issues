@@ -1,5 +1,5 @@
 ---
-title: Shopee Catalog Sync Blocked Due to Excess Variation Attributes
+title: 'Shopee Catalog Sync Blocked Due to Excess Variation Attributes'
 slug: shopee-catalog-sync-blocked-due-to-excess-variation-attributes
 status: PUBLISHED
 createdAt: 2025-08-12T18:21:09.814Z

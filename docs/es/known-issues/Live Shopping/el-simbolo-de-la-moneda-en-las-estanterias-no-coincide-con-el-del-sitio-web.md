@@ -1,5 +1,5 @@
 ---
-title: El símbolo de la moneda en las estanterías no coincide con el del sitio web
+title: 'El símbolo de la moneda en las estanterías no coincide con el del sitio web'
 slug: el-simbolo-de-la-moneda-en-las-estanterias-no-coincide-con-el-del-sitio-web
 status: PUBLISHED
 createdAt: 2025-09-19T19:03:46.790Z

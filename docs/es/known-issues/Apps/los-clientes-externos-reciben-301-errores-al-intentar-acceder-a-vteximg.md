@@ -1,5 +1,5 @@
 ---
-title: Los clientes externos reciben 301 errores al intentar acceder a vteximg
+title: 'Los clientes externos reciben 301 errores al intentar acceder a vteximg'
 slug: los-clientes-externos-reciben-301-errores-al-intentar-acceder-a-vteximg
 status: PUBLISHED
 createdAt: 2025-10-16T20:00:07.689Z

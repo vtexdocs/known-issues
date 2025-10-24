@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: product-export-headings-not-in-english
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

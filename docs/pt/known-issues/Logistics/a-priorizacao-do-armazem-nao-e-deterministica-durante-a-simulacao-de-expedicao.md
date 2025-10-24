@@ -1,5 +1,5 @@
 ---
-title: A priorização do armazém não é determinística durante a simulação de expedição
+title: 'A priorização do armazém não é determinística durante a simulação de expedição'
 slug: a-priorizacao-do-armazem-nao-e-deterministica-durante-a-simulacao-de-expedicao
 status: PUBLISHED
 createdAt: 2025-08-07T20:35:38.197Z

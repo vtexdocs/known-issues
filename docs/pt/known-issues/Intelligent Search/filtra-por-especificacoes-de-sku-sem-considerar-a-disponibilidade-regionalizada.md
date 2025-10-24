@@ -1,5 +1,5 @@
 ---
-title: Filtra por especificações de SKU sem considerar a disponibilidade regionalizada
+title: 'Filtra por especificações de SKU sem considerar a disponibilidade regionalizada'
 slug: filtra-por-especificacoes-de-sku-sem-considerar-a-disponibilidade-regionalizada
 status: PUBLISHED
 createdAt: 2025-08-28T18:26:21.557Z

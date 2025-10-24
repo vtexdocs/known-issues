@@ -1,5 +1,5 @@
 ---
-title: hCMS presents issues when trying to publish huge amount of content
+title: 'hCMS presents issues when trying to publish huge amount of content'
 slug: hcms-presents-issues-when-trying-to-publish-huge-amount-of-content
 status: PUBLISHED
 createdAt: 2025-07-24T17:46:53.584Z

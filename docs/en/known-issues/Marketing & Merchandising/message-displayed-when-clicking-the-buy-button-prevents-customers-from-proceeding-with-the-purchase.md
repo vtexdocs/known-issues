@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: message-displayed-when-clicking-the-buy-button-prevents-customers-from-proceeding-with-the-purchase
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

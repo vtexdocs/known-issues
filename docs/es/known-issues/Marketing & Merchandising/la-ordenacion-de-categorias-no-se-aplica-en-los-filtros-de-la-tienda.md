@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: category-ordering-is-not-being-applied-to-store-filters
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

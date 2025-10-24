@@ -1,5 +1,5 @@
 ---
-title: "MasterData doesn't load after successfully authenticating"
+title: 'MasterData doesn''t load after successfully authenticating'
 id: 1E22WpBMvzVHzGfWUsvjc0
 status: PUBLISHED
 createdAt: 2019-02-17T20:15:14.214Z
@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: masterdata-doesnt-load-after-successfully-authenticating
 locale: en
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

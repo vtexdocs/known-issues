@@ -1,5 +1,5 @@
 ---
-title: A navegação de especificação da árvore de categorias pode retornar dados incorretos
+title: 'A navegação de especificação da árvore de categorias pode retornar dados incorretos'
 slug: a-navegacao-de-especificacao-da-arvore-de-categorias-pode-retornar-dados-incorretos
 status: PUBLISHED
 createdAt: 2025-10-16T20:36:24.778Z

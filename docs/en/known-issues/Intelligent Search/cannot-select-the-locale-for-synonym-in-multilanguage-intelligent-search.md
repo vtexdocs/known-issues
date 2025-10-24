@@ -1,5 +1,5 @@
 ---
-title: Cannot select the locale for Synonym in multilanguage Intelligent Search
+title: 'Cannot select the locale for Synonym in multilanguage Intelligent Search'
 slug: cannot-select-the-locale-for-synonym-in-multilanguage-intelligent-search
 status: PUBLISHED
 createdAt: 2025-08-14T18:13:34.795Z

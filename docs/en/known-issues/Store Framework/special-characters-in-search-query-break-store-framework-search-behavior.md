@@ -1,5 +1,5 @@
 ---
-title: Special Characters in Search Query Break Store Framework Search Behavior
+title: 'Special Characters in Search Query Break Store Framework Search Behavior'
 slug: special-characters-in-search-query-break-store-framework-search-behavior
 status: PUBLISHED
 createdAt: 2025-10-16T20:53:40.186Z

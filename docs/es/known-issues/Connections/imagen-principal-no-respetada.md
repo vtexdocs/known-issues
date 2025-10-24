@@ -1,5 +1,5 @@
 ---
-title: Imagen principal no respetada
+title: 'Imagen principal no respetada'
 slug: imagen-principal-no-respetada
 status: PUBLISHED
 createdAt: 2025-08-12T20:23:23.445Z

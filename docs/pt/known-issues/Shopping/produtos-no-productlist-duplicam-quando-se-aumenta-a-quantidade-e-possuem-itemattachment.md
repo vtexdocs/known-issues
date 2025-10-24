@@ -1,5 +1,5 @@
 ---
-title: 'Produtos no `product-list` duplicam quando se aumenta a quantidade e possuem `itemAttachment` '
+title: 'Produtos no `product-list` duplicam quando se aumenta a quantidade e possuem `itemAttachment`'
 id: 2rKPKD21uXZ8iSIq8wNiVf
 status: PUBLISHED
 createdAt: 2021-09-17T14:25:17.638Z
@@ -13,7 +13,7 @@ tag: Checkout,VTEX IO
 slugEN: products-in-the-productlist-that-have-an-itemattachment-duplicate-when-the-quantity-is-increased
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

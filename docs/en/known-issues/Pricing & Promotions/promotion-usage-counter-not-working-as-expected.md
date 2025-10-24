@@ -1,5 +1,5 @@
 ---
-title: Promotion usage counter not working as expected
+title: 'Promotion usage counter not working as expected'
 slug: promotion-usage-counter-not-working-as-expected
 status: PUBLISHED
 createdAt: 2025-09-18T20:36:00.987Z

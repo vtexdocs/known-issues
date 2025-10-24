@@ -13,7 +13,7 @@ tag: Catalog,Portal (CMS)
 slugEN: search-result-totalizer-and-filters-showing-wrong-value
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

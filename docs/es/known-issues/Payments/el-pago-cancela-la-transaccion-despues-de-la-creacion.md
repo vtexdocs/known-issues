@@ -1,5 +1,5 @@
 ---
-title: El pago cancela la transacción después de la creación
+title: 'El pago cancela la transacción después de la creación'
 slug: el-pago-cancela-la-transaccion-despues-de-la-creacion
 status: PUBLISHED
 createdAt: 2025-10-16T17:29:13.925Z

@@ -1,5 +1,5 @@
 ---
-title: A inativação do vendedor na nova UI de registro do vendedor não aciona a reindexação do produto (lacuna de sincronização do Marketplace)
+title: 'A inativação do vendedor na nova UI de registro do vendedor não aciona a reindexação do produto (lacuna de sincronização do Marketplace)'
 slug: a-inativacao-do-vendedor-na-nova-ui-de-registro-do-vendedor-nao-aciona-a-reindexacao-do-produto-lacuna-de-sincronizacao-do-marketplace
 status: PUBLISHED
 createdAt: 2025-10-08T16:22:19.695Z

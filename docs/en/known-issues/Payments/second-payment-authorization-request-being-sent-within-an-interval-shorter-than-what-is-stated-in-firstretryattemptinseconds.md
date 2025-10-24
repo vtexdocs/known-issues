@@ -1,5 +1,5 @@
 ---
-title: Second payment authorization request being sent within an interval shorter than what is stated in FirstRetryAttemptInSeconds.
+title: 'Second payment authorization request being sent within an interval shorter than what is stated in FirstRetryAttemptInSeconds.'
 slug: second-payment-authorization-request-being-sent-within-an-interval-shorter-than-what-is-stated-in-firstretryattemptinseconds
 status: PUBLISHED
 createdAt: 2025-10-16T20:30:31.769Z

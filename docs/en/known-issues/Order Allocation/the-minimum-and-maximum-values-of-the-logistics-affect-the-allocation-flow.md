@@ -1,5 +1,5 @@
 ---
-title: The minimum and maximum values of the logistics affect the allocation flow
+title: 'The minimum and maximum values of the logistics affect the allocation flow'
 slug: the-minimum-and-maximum-values-of-the-logistics-affect-the-allocation-flow
 status: PUBLISHED
 createdAt: 2025-10-16T20:53:12.972Z

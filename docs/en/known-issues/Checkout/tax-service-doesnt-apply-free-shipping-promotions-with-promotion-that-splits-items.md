@@ -1,5 +1,5 @@
 ---
-title: "Tax Service doesn't apply free shipping promotions with promotion that splits items"
+title: 'Tax Service doesn''t apply free shipping promotions with promotion that splits items'
 id: 5w7mcNyJhTA77sRULPgrTx
 status: PUBLISHED
 createdAt: 2024-03-06T20:07:56.556Z

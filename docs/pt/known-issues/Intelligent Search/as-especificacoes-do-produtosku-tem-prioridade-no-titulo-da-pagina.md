@@ -1,5 +1,5 @@
 ---
-title: As especificações do produto/SKU têm prioridade no título da página
+title: 'As especificações do produto/SKU têm prioridade no título da página'
 slug: as-especificacoes-do-produtosku-tem-prioridade-no-titulo-da-pagina
 status: PUBLISHED
 createdAt: 2025-08-12T18:37:37.408Z

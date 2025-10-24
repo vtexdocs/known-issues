@@ -1,5 +1,5 @@
 ---
-title: Duplicated payments with the same information
+title: 'Duplicated payments with the same information'
 slug: duplicated-payments-with-the-same-information
 status: PUBLISHED
 createdAt: 2025-10-16T20:28:04.541Z

@@ -1,5 +1,5 @@
 ---
-title: Price Table rules not persisted when creating multiple rules without refreshing the page
+title: 'Price Table rules not persisted when creating multiple rules without refreshing the page'
 slug: price-table-rules-not-persisted-when-creating-multiple-rules-without-refreshing-the-page
 status: PUBLISHED
 createdAt: 2025-10-16T19:25:19.532Z

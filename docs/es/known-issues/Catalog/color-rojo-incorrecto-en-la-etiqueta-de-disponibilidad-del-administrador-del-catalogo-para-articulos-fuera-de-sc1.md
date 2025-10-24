@@ -1,5 +1,5 @@
 ---
-title: Color rojo incorrecto en la etiqueta de disponibilidad del administrador del catálogo para artículos fuera de sc=1
+title: 'Color rojo incorrecto en la etiqueta de disponibilidad del administrador del catálogo para artículos fuera de sc=1'
 slug: color-rojo-incorrecto-en-la-etiqueta-de-disponibilidad-del-administrador-del-catalogo-para-articulos-fuera-de-sc1
 status: PUBLISHED
 createdAt: 2025-10-16T20:48:48.666Z

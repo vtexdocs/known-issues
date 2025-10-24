@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: nif-field-at-checkout-in-portugal-allows-special-characters-and-causes-problem-in-order-flow
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

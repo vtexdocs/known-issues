@@ -1,5 +1,5 @@
 ---
-title: Shopee Error El nivel de variación del artículo no es el mismo al actualizar productos migrados
+title: 'Shopee Error El nivel de variación del artículo no es el mismo al actualizar productos migrados'
 slug: shopee-error-el-nivel-de-variacion-del-articulo-no-es-el-mismo-al-actualizar-productos-migrados
 status: PUBLISHED
 createdAt: 2025-09-01T20:17:12.451Z

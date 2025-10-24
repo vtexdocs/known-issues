@@ -1,5 +1,5 @@
 ---
-title: Switching seller types do not trigger an indexing
+title: 'Switching seller types do not trigger an indexing'
 slug: switching-seller-types-do-not-trigger-an-indexing
 status: PUBLISHED
 createdAt: 2025-10-16T20:59:37.740Z

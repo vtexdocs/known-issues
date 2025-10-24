@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: specification-filters-with-character-restriction
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

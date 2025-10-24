@@ -1,5 +1,5 @@
 ---
-title: Promotion alerts missing in new Promotions UI
+title: 'Promotion alerts missing in new Promotions UI'
 slug: promotion-alerts-missing-in-new-promotions-ui
 status: PUBLISHED
 createdAt: 2025-10-13T15:26:45.274Z

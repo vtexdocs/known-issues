@@ -1,5 +1,5 @@
 ---
-title: Checkout cancels transaction after creation
+title: 'Checkout cancels transaction after creation'
 slug: checkout-cancels-transaction-after-creation
 status: PUBLISHED
 createdAt: 2025-10-16T17:29:09.937Z

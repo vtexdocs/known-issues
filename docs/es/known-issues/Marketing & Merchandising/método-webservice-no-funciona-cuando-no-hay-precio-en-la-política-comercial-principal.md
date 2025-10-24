@@ -13,7 +13,7 @@ tag: Web Service
 slugEN: webservice-method-for-activating-SKU-does-not-work-when-no-price-is-set-in-the-main-sales-policy
 locale: es
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

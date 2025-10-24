@@ -1,5 +1,5 @@
 ---
-title: Os banners excluídos podem permanecer recuperáveis na rota Banners da API IS
+title: 'Os banners excluídos podem permanecer recuperáveis na rota Banners da API IS'
 slug: os-banners-excluidos-podem-permanecer-recuperaveis-na-rota-banners-da-api-is
 status: PUBLISHED
 createdAt: 2025-09-22T14:07:29.090Z

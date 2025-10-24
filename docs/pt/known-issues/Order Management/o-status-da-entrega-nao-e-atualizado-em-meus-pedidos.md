@@ -1,5 +1,5 @@
 ---
-title: O status da entrega não é atualizado em Meus pedidos
+title: 'O status da entrega não é atualizado em Meus pedidos'
 slug: o-status-da-entrega-nao-e-atualizado-em-meus-pedidos
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:55.790Z

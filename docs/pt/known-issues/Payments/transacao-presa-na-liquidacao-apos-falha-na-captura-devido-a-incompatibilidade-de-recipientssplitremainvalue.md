@@ -1,5 +1,5 @@
 ---
-title: Transação presa na liquidação após falha na captura devido à incompatibilidade de recipientsSplitRemainValue
+title: 'Transação presa na liquidação após falha na captura devido à incompatibilidade de recipientsSplitRemainValue'
 slug: transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-de-recipientssplitremainvalue
 status: PUBLISHED
 createdAt: 2025-09-22T18:20:34.239Z

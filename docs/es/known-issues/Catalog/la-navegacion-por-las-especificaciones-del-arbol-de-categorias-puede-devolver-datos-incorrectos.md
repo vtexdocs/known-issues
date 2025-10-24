@@ -1,5 +1,5 @@
 ---
-title: La navegación por las especificaciones del árbol de categorías puede devolver datos incorrectos
+title: 'La navegación por las especificaciones del árbol de categorías puede devolver datos incorrectos'
 slug: la-navegacion-por-las-especificaciones-del-arbol-de-categorias-puede-devolver-datos-incorrectos
 status: PUBLISHED
 createdAt: 2025-10-16T20:36:30.149Z

@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: error-fetching-texts-cms-module
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

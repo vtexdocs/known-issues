@@ -1,5 +1,5 @@
 ---
-title: Disqualification of seller at Pickup Point due to divergent quantity between SLAs at Checkout
+title: 'Disqualification of seller at Pickup Point due to divergent quantity between SLAs at Checkout'
 slug: disqualification-of-seller-at-pickup-point-due-to-divergent-quantity-between-slas-at-checkout
 status: PUBLISHED
 createdAt: 2025-10-16T20:53:27.281Z

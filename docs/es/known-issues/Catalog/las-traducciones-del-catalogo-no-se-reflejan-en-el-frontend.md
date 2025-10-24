@@ -1,5 +1,5 @@
 ---
-title: Las traducciones del catálogo no se reflejan en el frontend
+title: 'Las traducciones del catálogo no se reflejan en el frontend'
 slug: las-traducciones-del-catalogo-no-se-reflejan-en-el-frontend
 status: PUBLISHED
 createdAt: 2025-09-15T14:16:26.172Z

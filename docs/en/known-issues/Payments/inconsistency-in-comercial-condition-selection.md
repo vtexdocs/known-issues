@@ -1,5 +1,5 @@
 ---
-title: Inconsistency in comercial condition selection
+title: 'Inconsistency in comercial condition selection'
 slug: inconsistency-in-comercial-condition-selection
 status: PUBLISHED
 createdAt: 2025-10-16T20:47:13.634Z

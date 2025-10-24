@@ -1,5 +1,5 @@
 ---
-title: Navegación regionalizada a la lista de vendedores seleccionados que no cumplen con el SKU asociado a un regalo.
+title: 'Navegación regionalizada a la lista de vendedores seleccionados que no cumplen con el SKU asociado a un regalo.'
 slug: navegacion-regionalizada-a-la-lista-de-vendedores-seleccionados-que-no-cumplen-con-el-sku-asociado-a-un-regalo
 status: PUBLISHED
 createdAt: 2025-10-16T20:30:50.963Z

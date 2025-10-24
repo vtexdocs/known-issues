@@ -1,5 +1,5 @@
 ---
-title: Creating SKUs in seller portal accounts result in inocrrect unit multiplier
+title: 'Creating SKUs in seller portal accounts result in inocrrect unit multiplier'
 slug: creating-skus-in-seller-portal-accounts-result-in-inocrrect-unit-multiplier
 status: PUBLISHED
 createdAt: 2025-10-16T20:39:01.238Z

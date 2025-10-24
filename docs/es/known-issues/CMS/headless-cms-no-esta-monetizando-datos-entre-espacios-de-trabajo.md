@@ -1,5 +1,5 @@
 ---
-title: Headless CMS no está monetizando datos entre espacios de trabajo
+title: 'Headless CMS no está monetizando datos entre espacios de trabajo'
 slug: headless-cms-no-esta-monetizando-datos-entre-espacios-de-trabajo
 status: PUBLISHED
 createdAt: 2025-10-16T20:49:28.365Z

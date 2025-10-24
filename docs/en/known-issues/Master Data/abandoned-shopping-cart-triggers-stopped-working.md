@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: abandoned-shopping-cart-triggers-stopped-working
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

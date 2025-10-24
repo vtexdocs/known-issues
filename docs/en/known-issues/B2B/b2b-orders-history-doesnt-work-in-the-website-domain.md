@@ -1,5 +1,5 @@
 ---
-title: "B2B Orders History doesn't work in the website domain"
+title: 'B2B Orders History doesn''t work in the website domain'
 id: 4Y7lpxWvMBZFaAA4wuvbGP
 status: PUBLISHED
 createdAt: 2023-06-22T21:53:45.542Z

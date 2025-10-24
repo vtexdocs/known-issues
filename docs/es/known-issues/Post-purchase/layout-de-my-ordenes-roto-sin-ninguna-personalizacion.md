@@ -13,7 +13,7 @@ tag: My Orders
 slugEN: my-orders-layout-breaking-without-customization
 locale: es
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

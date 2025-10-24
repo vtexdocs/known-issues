@@ -1,5 +1,5 @@
 ---
-title: A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho "User-Agent"
+title: 'A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho "User-Agent"'
 slug: a-api-insert-sku-file-nao-aceita-urls-de-servidores-que-exigem-o-cabecalho-useragent
 status: PUBLISHED
 createdAt: 2025-08-12T18:56:25.129Z

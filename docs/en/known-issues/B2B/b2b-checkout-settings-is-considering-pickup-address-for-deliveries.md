@@ -1,5 +1,5 @@
 ---
-title: B2B Checkout Settings is considering pickup address for deliveries
+title: 'B2B Checkout Settings is considering pickup address for deliveries'
 slug: b2b-checkout-settings-is-considering-pickup-address-for-deliveries
 status: PUBLISHED
 createdAt: 2025-10-16T20:39:30.204Z
