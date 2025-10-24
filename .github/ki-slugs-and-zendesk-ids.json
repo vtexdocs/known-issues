@@ -6206,6 +6206,11 @@
   },
   {
     "locale": "en",
+    "slug": "payment-rule-fields-not-reflected-in-admin-when-rule-is-created-via-api",
+    "internalReference": 1313230
+  },
+  {
+    "locale": "en",
     "slug": "payment-rule-requiresauthentication-attribute-is-ignored-by-gateway-cannot-be-enforcedoverridden-via-api",
     "internalReference": 1301482
   },
@@ -14268,6 +14273,11 @@
     "locale": "es",
     "slug": "los-cambios-realizados-en-los-pagos-personalizados-no-se-reflejan-en-el-pago",
     "internalReference": 276250
+  },
+  {
+    "locale": "es",
+    "slug": "los-campos-de-la-regla-de-pago-no-se-reflejan-en-admin-cuando-la-regla-se-crea-a-traves-de-api",
+    "internalReference": 1313230
   },
   {
     "locale": "es",
@@ -22448,6 +22458,11 @@
     "locale": "pt",
     "slug": "opcao-de-parcelamento-de-1x-ausente-no-checkout-com-varias-condicoes-de-pagamento-e-configuracao-padrao-definida-para-uma-opcao-diferente",
     "internalReference": 709971
+  },
+  {
+    "locale": "pt",
+    "slug": "os-campos-da-regra-de-pagamento-nao-sao-refletidos-no-admin-quando-a-regra-e-criada-via-api",
+    "internalReference": 1313230
   },
   {
     "locale": "pt",
