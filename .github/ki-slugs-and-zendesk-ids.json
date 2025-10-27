@@ -6681,6 +6681,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-method-from-logistics-in-order-automation-pnp-is-incorrectly-linked-to-a-product-category-when-both-share-the-same-id",
+    "internalReference": 1313989
+  },
+  {
+    "locale": "en",
     "slug": "worksheet-stuck-in-to-pack-column-with-status-packed-after-packing-confirmation",
     "internalReference": 1299842
   },
@@ -14746,6 +14751,11 @@
   },
   {
     "locale": "es",
+    "slug": "metodo-de-envio-de-logistica-en-automatizacion-de-pedidos-pnp-se-vincula-incorrectamente-a-una-categoria-de-producto-cuando-ambas-comparten-el-mismo-id",
+    "internalReference": 1313989
+  },
+  {
+    "locale": "es",
     "slug": "ps-solo-un-agente-recibe-notificacion-por-correo-electronico-en-llamada-activa",
     "internalReference": 1218130
   },
@@ -22803,6 +22813,11 @@
     "locale": "pt",
     "slug": "o-fluxo-de-substituicao-de-itens-falha-para-itens-divididos-no-picking-e-embalagem-nao-e-possivel-concluir-a-substituicao",
     "internalReference": 1303803
+  },
+  {
+    "locale": "pt",
+    "slug": "o-metodo-de-envio-da-logistica-na-automacao-de-pedidos-pnp-esta-incorretamente-vinculado-a-uma-categoria-de-produto-quando-ambos-compartilham-o-mesmo-id",
+    "internalReference": 1313989
   },
   {
     "locale": "pt",
