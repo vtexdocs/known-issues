@@ -2,8 +2,8 @@
 title: 'Error something went wrong in the sales performance dashboard caused by no orders in the filtered period'
 slug: error-something-went-wrong-in-the-sales-performance-dashboard-caused-by-no-orders-in-the-filtered-period
 status: PUBLISHED
-createdAt: 2025-10-16T20:41:08.179Z
-updatedAt: 2025-10-16T20:41:08.179Z
+createdAt: 2025-10-27T18:16:00.901Z
+updatedAt: 2025-10-27T18:16:00.901Z
 contentType: knownIssue
 productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
