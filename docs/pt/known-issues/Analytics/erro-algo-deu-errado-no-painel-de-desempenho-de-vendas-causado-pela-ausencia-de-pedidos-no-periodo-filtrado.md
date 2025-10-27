@@ -2,8 +2,8 @@
 title: 'Erro algo deu errado no painel de desempenho de vendas causado pela ausência de pedidos no período filtrado'
 slug: erro-algo-deu-errado-no-painel-de-desempenho-de-vendas-causado-pela-ausencia-de-pedidos-no-periodo-filtrado
 status: PUBLISHED
-createdAt: 2025-10-16T20:41:05.277Z
-updatedAt: 2025-10-16T20:41:05.277Z
+createdAt: 2025-10-27T18:15:58.140Z
+updatedAt: 2025-10-27T18:15:58.140Z
 contentType: knownIssue
 productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,7 +19,7 @@ internalReference: 1193085
 ## Sumário
 
 
-Em alguns casos, o erro "algo deu errado" pode aparecer no painel de desempenho de vendas. Um dos cenários que podem levar a esse erro é quando não há pedidos dentro do período selecionado, o que impede a comparação de dados e aciona a mensagem de erro.
+Em alguns casos, o erro "algo deu errado" pode aparecer no painel de desempenho de vendas. Um dos cenários que podem levar a esse erro é a ausência de pedidos dentro do período selecionado, o que impede a comparação de dados e aciona a mensagem de erro.
 ## Simulação
 
 
