@@ -13,7 +13,7 @@ tag: Connections
 slugEN: seller-name-is-not-provided-in-native-mkp-integrations
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

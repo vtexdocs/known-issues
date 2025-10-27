@@ -1,5 +1,5 @@
 ---
-title: KIt Price Deletion no funciona
+title: 'KIt Price Deletion no funciona'
 slug: kit-price-deletion-no-funciona
 status: PUBLISHED
 createdAt: 2025-10-16T20:57:59.598Z

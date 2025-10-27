@@ -1,5 +1,5 @@
 ---
-title: "Infocard mobile images won't apply"
+title: 'Infocard mobile images won''t apply'
 id: 1vx5fwa5nL3SO27HpihLFd
 status: PUBLISHED
 createdAt: 2024-02-19T19:12:18.516Z

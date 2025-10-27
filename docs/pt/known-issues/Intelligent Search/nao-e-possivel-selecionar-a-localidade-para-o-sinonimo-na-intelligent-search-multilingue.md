@@ -1,5 +1,5 @@
 ---
-title: Não é possível selecionar a localidade para o sinônimo na Intelligent Search multilíngue
+title: 'Não é possível selecionar a localidade para o sinônimo na Intelligent Search multilíngue'
 slug: nao-e-possivel-selecionar-a-localidade-para-o-sinonimo-na-intelligent-search-multilingue
 status: PUBLISHED
 createdAt: 2025-08-14T18:13:27.975Z

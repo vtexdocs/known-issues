@@ -1,5 +1,5 @@
 ---
-title: Promotion applies to all SLAs instead of only selected shipping method
+title: 'Promotion applies to all SLAs instead of only selected shipping method'
 slug: promotion-applies-to-all-slas-instead-of-only-selected-shipping-method
 status: PUBLISHED
 createdAt: 2025-08-07T20:01:21.279Z

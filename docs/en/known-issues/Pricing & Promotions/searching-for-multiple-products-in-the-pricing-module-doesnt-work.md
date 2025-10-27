@@ -1,5 +1,5 @@
 ---
-title: Searching for multiple products in the pricing module doesn't work
+title: 'Searching for multiple products in the pricing module doesn''t work'
 slug: searching-for-multiple-products-in-the-pricing-module-doesnt-work
 status: PUBLISHED
 createdAt: 2025-10-16T20:52:05.312Z

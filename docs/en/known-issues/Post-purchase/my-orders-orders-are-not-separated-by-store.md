@@ -13,7 +13,7 @@ tag: Order Management,My Orders
 slugEN: my-orders-orders-are-not-separated-by-store
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

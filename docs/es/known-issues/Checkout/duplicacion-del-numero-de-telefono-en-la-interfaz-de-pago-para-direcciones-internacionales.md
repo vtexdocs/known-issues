@@ -1,5 +1,5 @@
 ---
-title: Duplicación del número de teléfono en la interfaz de pago para direcciones internacionales
+title: 'Duplicación del número de teléfono en la interfaz de pago para direcciones internacionales'
 slug: duplicacion-del-numero-de-telefono-en-la-interfaz-de-pago-para-direcciones-internacionales
 status: PUBLISHED
 createdAt: 2025-10-16T19:21:49.924Z

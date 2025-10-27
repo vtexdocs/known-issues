@@ -1,5 +1,5 @@
 ---
-title: Catalog Inactivating productid using API isn't inactivating SKU
+title: 'Catalog Inactivating productid using API isn''t inactivating SKU'
 slug: catalog-inactivating-productid-using-api-isnt-inactivating-sku
 status: PUBLISHED
 createdAt: 2025-07-24T17:43:17.789Z

@@ -1,5 +1,5 @@
 ---
-title: El indexador de catálogos genera documentos de traducción no válidos
+title: 'El indexador de catálogos genera documentos de traducción no válidos'
 slug: el-indexador-de-catalogos-genera-documentos-de-traduccion-no-validos
 status: PUBLISHED
 createdAt: 2025-07-24T17:50:59.045Z

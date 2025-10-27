@@ -1,5 +1,5 @@
 ---
-title: item.value do carrinho é enviado incorretamente pelo checkout em AdditionalData
+title: 'item.value do carrinho é enviado incorretamente pelo checkout em AdditionalData'
 slug: itemvalue-do-carrinho-e-enviado-incorretamente-pelo-checkout-em-additionaldata
 status: PUBLISHED
 createdAt: 2025-10-16T19:56:45.521Z

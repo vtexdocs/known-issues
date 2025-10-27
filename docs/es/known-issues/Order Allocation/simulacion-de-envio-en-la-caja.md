@@ -1,5 +1,5 @@
 ---
-title: Simulación de envío en la caja
+title: 'Simulación de envío en la caja'
 slug: simulacion-de-envio-en-la-caja
 status: PUBLISHED
 createdAt: 2025-10-16T20:44:58.724Z

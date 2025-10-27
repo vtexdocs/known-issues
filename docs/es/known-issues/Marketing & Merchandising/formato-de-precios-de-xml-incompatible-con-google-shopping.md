@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: xml-price-formatting-unsupported-by-google-shopping
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

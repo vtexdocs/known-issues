@@ -1,5 +1,5 @@
 ---
-title: Shopee Sincronização de catálogo bloqueada devido ao excesso de atributos de variação
+title: 'Shopee Sincronização de catálogo bloqueada devido ao excesso de atributos de variação'
 slug: shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao
 status: PUBLISHED
 createdAt: 2025-08-12T18:21:04.343Z

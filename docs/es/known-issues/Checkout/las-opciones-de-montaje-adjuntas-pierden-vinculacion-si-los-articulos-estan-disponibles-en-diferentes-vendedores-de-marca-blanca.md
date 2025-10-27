@@ -1,5 +1,5 @@
 ---
-title: Las opciones de montaje adjuntas pierden vinculación si los artículos están disponibles en diferentes vendedores de marca blanca
+title: 'Las opciones de montaje adjuntas pierden vinculación si los artículos están disponibles en diferentes vendedores de marca blanca'
 slug: las-opciones-de-montaje-adjuntas-pierden-vinculacion-si-los-articulos-estan-disponibles-en-diferentes-vendedores-de-marca-blanca
 status: PUBLISHED
 createdAt: 2025-10-15T21:11:15.093Z

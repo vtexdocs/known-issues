@@ -1,5 +1,5 @@
 ---
-title: O PLP com "Show More" é renderizado em branco após a navegação de retorno do navegador a partir do Checkout
+title: 'O PLP com "Show More" é renderizado em branco após a navegação de retorno do navegador a partir do Checkout'
 slug: o-plp-com-show-more-e-renderizado-em-branco-apos-a-navegacao-de-retorno-do-navegador-a-partir-do-checkout
 status: PUBLISHED
 createdAt: 2025-10-02T19:50:48.636Z

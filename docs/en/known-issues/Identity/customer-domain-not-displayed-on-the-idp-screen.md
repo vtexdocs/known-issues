@@ -1,5 +1,5 @@
 ---
-title: Customer domain not displayed on the IdP screen
+title: 'Customer domain not displayed on the IdP screen'
 slug: customer-domain-not-displayed-on-the-idp-screen
 status: PUBLISHED
 createdAt: 2025-10-16T19:27:46.094Z

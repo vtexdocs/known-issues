@@ -1,5 +1,5 @@
 ---
-title: La página de estilos de la tienda interfiere con la carga de CSS del tema
+title: 'La página de estilos de la tienda interfiere con la carga de CSS del tema'
 slug: la-pagina-de-estilos-de-la-tienda-interfiere-con-la-carga-de-css-del-tema
 status: PUBLISHED
 createdAt: 2025-08-25T15:07:16.161Z

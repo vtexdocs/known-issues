@@ -1,5 +1,5 @@
 ---
-title: Tracking update fails when invoiceNumber contains “/” (OMS/Orders invoice routes)
+title: 'Tracking update fails when invoiceNumber contains “/” (OMS/Orders invoice routes)'
 slug: tracking-update-fails-when-invoicenumber-contains-omsorders-invoice-routes
 status: PUBLISHED
 createdAt: 2025-10-03T14:04:55.504Z

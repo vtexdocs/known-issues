@@ -1,5 +1,5 @@
 ---
-title: No se puede acceder a Mis créditos "Se ha producido un error en su cuenta"
+title: 'No se puede acceder a Mis créditos "Se ha producido un error en su cuenta"'
 slug: no-se-puede-acceder-a-mis-creditos-se-ha-producido-un-error-en-su-cuenta
 status: PUBLISHED
 createdAt: 2025-09-04T18:52:34.930Z

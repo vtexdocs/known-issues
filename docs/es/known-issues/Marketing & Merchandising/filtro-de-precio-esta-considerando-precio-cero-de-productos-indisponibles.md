@@ -13,7 +13,7 @@ tag: Catalog,Portal (CMS)
 slugEN: price-filter-considers-prize-zero-from-unavailable-products
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

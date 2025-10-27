@@ -1,5 +1,5 @@
 ---
-title: A mudança do modo de editor de html na descrição do produto remove as tags <p>
+title: 'A mudança do modo de editor de html na descrição do produto remove as tags <p>'
 slug: a-mudanca-do-modo-de-editor-de-html-na-descricao-do-produto-remove-as-tags-p
 status: PUBLISHED
 createdAt: 2025-10-16T20:46:43.322Z

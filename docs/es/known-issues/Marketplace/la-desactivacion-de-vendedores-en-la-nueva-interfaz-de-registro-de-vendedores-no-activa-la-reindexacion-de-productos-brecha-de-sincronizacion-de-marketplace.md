@@ -1,5 +1,5 @@
 ---
-title: La desactivación de vendedores en la nueva interfaz de registro de vendedores no activa la reindexación de productos (brecha de sincronización de Marketplace).
+title: 'La desactivación de vendedores en la nueva interfaz de registro de vendedores no activa la reindexación de productos (brecha de sincronización de Marketplace).'
 slug: la-desactivacion-de-vendedores-en-la-nueva-interfaz-de-registro-de-vendedores-no-activa-la-reindexacion-de-productos-brecha-de-sincronizacion-de-marketplace
 status: PUBLISHED
 createdAt: 2025-10-08T16:22:29.073Z

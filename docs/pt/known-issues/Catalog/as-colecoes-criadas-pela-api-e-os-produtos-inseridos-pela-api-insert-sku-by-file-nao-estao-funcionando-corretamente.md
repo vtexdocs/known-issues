@@ -1,5 +1,5 @@
 ---
-title: As coleções criadas pela API e os produtos inseridos pela API Insert SKU by File não estão funcionando corretamente
+title: 'As coleções criadas pela API e os produtos inseridos pela API Insert SKU by File não estão funcionando corretamente'
 slug: as-colecoes-criadas-pela-api-e-os-produtos-inseridos-pela-api-insert-sku-by-file-nao-estao-funcionando-corretamente
 status: PUBLISHED
 createdAt: 2025-10-16T19:52:57.896Z

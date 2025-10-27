@@ -1,5 +1,5 @@
 ---
-title: La priorización de almacenes no es determinista durante la simulación de envío
+title: 'La priorización de almacenes no es determinista durante la simulación de envío'
 slug: la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio
 status: PUBLISHED
 createdAt: 2025-08-07T20:35:53.521Z

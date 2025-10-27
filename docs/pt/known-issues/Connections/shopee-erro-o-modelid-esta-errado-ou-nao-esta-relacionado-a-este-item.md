@@ -1,5 +1,5 @@
 ---
-title: Shopee Erro "O model_id está errado ou não está relacionado a este item"
+title: 'Shopee Erro "O model_id está errado ou não está relacionado a este item"'
 slug: shopee-erro-o-modelid-esta-errado-ou-nao-esta-relacionado-a-este-item
 status: PUBLISHED
 createdAt: 2025-09-15T17:42:12.139Z

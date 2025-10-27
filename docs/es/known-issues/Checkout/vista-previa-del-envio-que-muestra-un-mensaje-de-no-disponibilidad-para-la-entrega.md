@@ -1,5 +1,5 @@
 ---
-title: Vista previa del envío que muestra un mensaje de no disponibilidad para la entrega
+title: 'Vista previa del envío que muestra un mensaje de no disponibilidad para la entrega'
 slug: vista-previa-del-envio-que-muestra-un-mensaje-de-no-disponibilidad-para-la-entrega
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:44.077Z

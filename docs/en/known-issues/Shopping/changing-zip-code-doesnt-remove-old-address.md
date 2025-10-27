@@ -1,5 +1,5 @@
 ---
-title: "Changing zip code doesn't remove old address"
+title: 'Changing zip code doesn''t remove old address'
 id: 3kS6NurZhmokISg82eaMw2
 status: PUBLISHED
 createdAt: 2018-09-11T19:53:42.872Z
@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: changing-zip-code-doesnt-remove-old-address
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

@@ -1,5 +1,5 @@
 ---
-title: As transações ficam presas em "Cancelando" e os pagamentos permanecem em "Autorizados"
+title: 'As transações ficam presas em "Cancelando" e os pagamentos permanecem em "Autorizados"'
 slug: as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizados
 status: PUBLISHED
 createdAt: 2025-10-17T12:43:13.214Z

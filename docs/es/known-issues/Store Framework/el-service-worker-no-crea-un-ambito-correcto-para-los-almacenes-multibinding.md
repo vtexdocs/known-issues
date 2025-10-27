@@ -1,5 +1,5 @@
 ---
-title: El service worker no crea un ámbito correcto para los almacenes multibinding
+title: 'El service worker no crea un ámbito correcto para los almacenes multibinding'
 slug: el-service-worker-no-crea-un-ambito-correcto-para-los-almacenes-multibinding
 status: PUBLISHED
 createdAt: 2025-10-16T19:56:34.650Z

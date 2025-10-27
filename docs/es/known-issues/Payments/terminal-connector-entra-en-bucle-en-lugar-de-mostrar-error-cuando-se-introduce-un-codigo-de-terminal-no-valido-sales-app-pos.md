@@ -1,5 +1,5 @@
 ---
-title: Terminal Connector entra en bucle en lugar de mostrar error cuando se introduce un código de terminal no válido (Sales App POS)
+title: 'Terminal Connector entra en bucle en lugar de mostrar error cuando se introduce un código de terminal no válido (Sales App POS)'
 slug: terminal-connector-entra-en-bucle-en-lugar-de-mostrar-error-cuando-se-introduce-un-codigo-de-terminal-no-valido-sales-app-pos
 status: PUBLISHED
 createdAt: 2025-10-07T12:21:26.608Z

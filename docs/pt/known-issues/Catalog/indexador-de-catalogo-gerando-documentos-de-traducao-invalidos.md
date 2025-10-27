@@ -1,5 +1,5 @@
 ---
-title: Indexador de catálogo gerando documentos de tradução inválidos
+title: 'Indexador de catálogo gerando documentos de tradução inválidos'
 slug: indexador-de-catalogo-gerando-documentos-de-traducao-invalidos
 status: PUBLISHED
 createdAt: 2025-07-24T17:50:45.102Z

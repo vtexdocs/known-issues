@@ -1,5 +1,5 @@
 ---
-title: PLP with “Show More” renders blank after browser back navigation from Checkout
+title: 'PLP with “Show More” renders blank after browser back navigation from Checkout'
 slug: plp-with-show-more-renders-blank-after-browser-back-navigation-from-checkout
 status: PUBLISHED
 createdAt: 2025-10-02T19:50:52.659Z

@@ -1,5 +1,5 @@
 ---
-title: Amazon Selección de transportistas
+title: 'Amazon Selección de transportistas'
 slug: amazon-seleccion-de-transportistas
 status: PUBLISHED
 createdAt: 2025-10-16T20:39:45.275Z

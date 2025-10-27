@@ -13,7 +13,7 @@ tag: Checkout,Message Center,Order Management
 slugEN: inconsistency-in-transactional-email-date-of-orders-closed-after-midnight
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

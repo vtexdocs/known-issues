@@ -1,5 +1,5 @@
 ---
-title: "El mismo SKU en varias listas de promociones 'Comprar juntos' en la nueva interfaz de usuario hace que la promoción no se aplique en la caja."
+title: 'El mismo SKU en varias listas de promociones ''Comprar juntos'' en la nueva interfaz de usuario hace que la promoción no se aplique en la caja.'
 id: 4M9UZhQqkU4Tl07lyLPtMt
 status: PUBLISHED
 createdAt: 2024-09-03T10:55:07.063Z

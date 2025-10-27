@@ -1,5 +1,5 @@
 ---
-title: No se puede seleccionar la configuración regional del sinónimo en la búsqueda inteligente multilingüe.
+title: 'No se puede seleccionar la configuración regional del sinónimo en la búsqueda inteligente multilingüe.'
 slug: no-se-puede-seleccionar-la-configuracion-regional-del-sinonimo-en-la-busqueda-inteligente-multilingue
 status: PUBLISHED
 createdAt: 2025-08-14T18:13:42.121Z

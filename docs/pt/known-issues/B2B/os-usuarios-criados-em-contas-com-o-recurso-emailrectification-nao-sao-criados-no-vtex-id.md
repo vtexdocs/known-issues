@@ -1,5 +1,5 @@
 ---
-title: Os usuários criados em contas com o recurso emailRectification não são criados no VTEX ID
+title: 'Os usuários criados em contas com o recurso emailRectification não são criados no VTEX ID'
 slug: os-usuarios-criados-em-contas-com-o-recurso-emailrectification-nao-sao-criados-no-vtex-id
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:30.498Z

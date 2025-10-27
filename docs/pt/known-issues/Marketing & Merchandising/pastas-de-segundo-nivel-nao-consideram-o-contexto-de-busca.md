@@ -1,5 +1,5 @@
 ---
-title: "Pastas de segundo nível não consideram o 'contexto de busca'"
+title: 'Pastas de segundo nível não consideram o ''contexto de busca'''
 id: 6WvlorgpBEeIuKk2mprMXm
 status: PUBLISHED
 createdAt: 2019-02-17T19:55:07.529Z
@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: secondlevel-folders-dont-consider-the-search-context
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

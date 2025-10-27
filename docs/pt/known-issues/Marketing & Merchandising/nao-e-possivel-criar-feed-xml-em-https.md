@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: its-not-possible-to-create-xml-feed-in-https
 locale: pt
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

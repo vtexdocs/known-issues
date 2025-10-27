@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: misconfigured-vtable-app-breaks-other-apps-of-the-same-type
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

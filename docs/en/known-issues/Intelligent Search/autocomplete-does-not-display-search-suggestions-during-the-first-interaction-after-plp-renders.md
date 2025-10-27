@@ -1,5 +1,5 @@
 ---
-title: Autocomplete does not display Search Suggestions during the first interaction after PLP renders
+title: 'Autocomplete does not display Search Suggestions during the first interaction after PLP renders'
 slug: autocomplete-does-not-display-search-suggestions-during-the-first-interaction-after-plp-renders
 status: PUBLISHED
 createdAt: 2025-10-16T20:46:28.061Z

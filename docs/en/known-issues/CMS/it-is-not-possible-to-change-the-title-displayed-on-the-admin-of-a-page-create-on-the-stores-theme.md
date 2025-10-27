@@ -1,5 +1,5 @@
 ---
-title: "It is not possible to change the title displayed on the admin of a page create on the store's theme"
+title: 'It is not possible to change the title displayed on the admin of a page create on the store''s theme'
 id: 5UlRlFZYX4afQitO7rtcm
 status: PUBLISHED
 createdAt: 2024-08-06T20:40:17.364Z

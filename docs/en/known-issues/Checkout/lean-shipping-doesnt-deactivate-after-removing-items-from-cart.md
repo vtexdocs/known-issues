@@ -1,5 +1,5 @@
 ---
-title: "Lean Shipping doesn't deactivate after removing items from cart"
+title: 'Lean Shipping doesn''t deactivate after removing items from cart'
 id: 4dZZz28csz9BLhJNvQGHQV
 status: PUBLISHED
 createdAt: 2023-10-09T14:20:03.767Z

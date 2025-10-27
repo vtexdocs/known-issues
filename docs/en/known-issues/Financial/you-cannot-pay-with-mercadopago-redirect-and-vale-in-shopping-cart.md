@@ -1,5 +1,5 @@
 ---
-title: "You cannot pay with MercadoPago Redirect and Vale in shopping cart having Seller's product "
+title: 'You cannot pay with MercadoPago Redirect and Vale in shopping cart having Seller''s product'
 id: 2WwCIW6chacwYakYUemOyQ
 status: PUBLISHED
 createdAt: 2017-11-15T14:46:42.109Z
@@ -13,7 +13,7 @@ tag: Payments
 slugEN: you-cannot-pay-with-mercadopago-redirect-and-vale-in-shopping-cart
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

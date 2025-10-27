@@ -1,5 +1,5 @@
 ---
-title: "UI doesn't show window selection for pick-up points when an item from a seller is between items for pick-up from another seller"
+title: 'UI doesn''t show window selection for pick-up points when an item from a seller is between items for pick-up from another seller'
 id: 7uDtst6o01FV405luUQ3Ok
 status: PUBLISHED
 createdAt: 2024-08-07T18:26:30.702Z

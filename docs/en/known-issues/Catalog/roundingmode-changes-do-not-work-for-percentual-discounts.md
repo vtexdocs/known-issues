@@ -1,5 +1,5 @@
 ---
-title: RoundingMode changes do not work for percentual discounts
+title: 'RoundingMode changes do not work for percentual discounts'
 slug: roundingmode-changes-do-not-work-for-percentual-discounts
 status: PUBLISHED
 createdAt: 2025-10-16T20:40:53.430Z

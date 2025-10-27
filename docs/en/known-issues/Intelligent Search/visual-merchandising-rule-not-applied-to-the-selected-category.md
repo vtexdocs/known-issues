@@ -1,5 +1,5 @@
 ---
-title: Visual merchandising rule not applied to the selected category
+title: 'Visual merchandising rule not applied to the selected category'
 slug: visual-merchandising-rule-not-applied-to-the-selected-category
 status: PUBLISHED
 createdAt: 2025-10-16T20:01:41.466Z

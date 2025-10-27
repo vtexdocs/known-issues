@@ -1,5 +1,5 @@
 ---
-title: MessagessV2 flag requires content to be saved on the original language
+title: 'MessagessV2 flag requires content to be saved on the original language'
 slug: messagessv2-flag-requires-content-to-be-saved-on-the-original-language
 status: PUBLISHED
 createdAt: 2025-07-24T18:19:38.091Z

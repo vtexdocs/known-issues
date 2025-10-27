@@ -1,5 +1,5 @@
 ---
-title: Payment stuck after early cancellation request during settling
+title: 'Payment stuck after early cancellation request during settling'
 slug: payment-stuck-after-early-cancellation-request-during-settling
 status: PUBLISHED
 createdAt: 2025-10-17T19:12:30.167Z

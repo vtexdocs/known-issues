@@ -1,5 +1,5 @@
 ---
-title: As transações permanecem em autorização pendente apesar da aprovação do conector
+title: 'As transações permanecem em autorização pendente apesar da aprovação do conector'
 slug: as-transacoes-permanecem-em-autorizacao-pendente-apesar-da-aprovacao-do-conector
 status: PUBLISHED
 createdAt: 2025-10-03T19:09:24.964Z

@@ -1,5 +1,5 @@
 ---
-title: Las reglas de la tabla de precios no persisten al crear varias reglas sin actualizar la página.
+title: 'Las reglas de la tabla de precios no persisten al crear varias reglas sin actualizar la página.'
 slug: las-reglas-de-la-tabla-de-precios-no-persisten-al-crear-varias-reglas-sin-actualizar-la-pagina
 status: PUBLISHED
 createdAt: 2025-10-16T19:25:22.270Z

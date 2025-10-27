@@ -1,5 +1,5 @@
 ---
-title: Pedidos atascados en estado cancelado en cumplimiento, pero con Mercado cancelado.
+title: 'Pedidos atascados en estado cancelado en cumplimiento, pero con Mercado cancelado.'
 slug: pedidos-atascados-en-estado-cancelado-en-cumplimiento-pero-con-mercado-cancelado
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:47.392Z

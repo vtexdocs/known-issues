@@ -1,5 +1,5 @@
 ---
-title: El mínimo de artículos se puede enviar como 0 a través del campo "numberOfItemsPerShipment" en API
+title: 'El mínimo de artículos se puede enviar como 0 a través del campo "numberOfItemsPerShipment" en API'
 slug: el-minimo-de-articulos-se-puede-enviar-como-0-a-traves-del-campo-numberofitemspershipment-en-api
 status: PUBLISHED
 createdAt: 2025-10-16T19:59:06.321Z

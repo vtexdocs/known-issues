@@ -1,5 +1,5 @@
 ---
-title: A regionalização ou as políticas comerciais não são consideradas ao filtrar ou classificar itens por preço ou desconto
+title: 'A regionalização ou as políticas comerciais não são consideradas ao filtrar ou classificar itens por preço ou desconto'
 slug: a-regionalizacao-ou-as-politicas-comerciais-nao-sao-consideradas-ao-filtrar-ou-classificar-itens-por-preco-ou-desconto
 status: PUBLISHED
 createdAt: 2025-09-18T17:34:02.397Z

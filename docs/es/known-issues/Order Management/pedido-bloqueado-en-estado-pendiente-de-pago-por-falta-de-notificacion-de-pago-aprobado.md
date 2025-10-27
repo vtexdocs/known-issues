@@ -1,5 +1,5 @@
 ---
-title: Pedido bloqueado en estado Pendiente de pago por falta de notificación de pago aprobado
+title: 'Pedido bloqueado en estado Pendiente de pago por falta de notificación de pago aprobado'
 slug: pedido-bloqueado-en-estado-pendiente-de-pago-por-falta-de-notificacion-de-pago-aprobado
 status: PUBLISHED
 createdAt: 2025-09-05T12:09:47.658Z

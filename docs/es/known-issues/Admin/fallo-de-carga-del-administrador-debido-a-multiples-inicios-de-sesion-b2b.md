@@ -1,5 +1,5 @@
 ---
-title: Fallo de carga del administrador debido a múltiples inicios de sesión B2B
+title: 'Fallo de carga del administrador debido a múltiples inicios de sesión B2B'
 slug: fallo-de-carga-del-administrador-debido-a-multiples-inicios-de-sesion-b2b
 status: PUBLISHED
 createdAt: 2025-10-16T20:51:41.555Z

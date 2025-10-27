@@ -13,7 +13,7 @@ tag: Checkout,Payments,Store Framework
 slugEN: vtex-admin-and-the-storefront-might-experience-some-trouble-on-firefox-89-0
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

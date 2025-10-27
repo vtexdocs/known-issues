@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: cms-is-not-accessible-through-the-new-admin
 locale: en
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

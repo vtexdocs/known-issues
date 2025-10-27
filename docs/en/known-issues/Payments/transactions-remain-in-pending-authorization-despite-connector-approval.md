@@ -1,5 +1,5 @@
 ---
-title: Transactions remain in pending authorization despite connector approval
+title: 'Transactions remain in pending authorization despite connector approval'
 slug: transactions-remain-in-pending-authorization-despite-connector-approval
 status: PUBLISHED
 createdAt: 2025-10-03T19:09:28.031Z

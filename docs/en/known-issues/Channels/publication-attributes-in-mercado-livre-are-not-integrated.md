@@ -13,7 +13,7 @@ tag: Connections
 slugEN: publication-attributes-in-mercado-livre-are-not-integrated
 locale: en
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

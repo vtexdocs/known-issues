@@ -1,5 +1,5 @@
 ---
-title: SVG file replacement with the same name doesn't work
+title: 'SVG file replacement with the same name doesn''t work'
 slug: svg-file-replacement-with-the-same-name-doesnt-work
 status: PUBLISHED
 createdAt: 2025-10-16T20:00:44.288Z

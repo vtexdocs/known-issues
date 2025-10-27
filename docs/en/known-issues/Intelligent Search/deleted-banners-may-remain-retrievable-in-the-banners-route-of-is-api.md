@@ -1,5 +1,5 @@
 ---
-title: Deleted banners may remain retrievable in the Banners route of IS API
+title: 'Deleted banners may remain retrievable in the Banners route of IS API'
 slug: deleted-banners-may-remain-retrievable-in-the-banners-route-of-is-api
 status: PUBLISHED
 createdAt: 2025-09-22T14:07:32.408Z

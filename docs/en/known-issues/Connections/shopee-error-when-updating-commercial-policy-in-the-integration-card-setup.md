@@ -1,5 +1,5 @@
 ---
-title: Shopee Error when updating commercial policy in the integration card setup
+title: 'Shopee Error when updating commercial policy in the integration card setup'
 slug: shopee-error-when-updating-commercial-policy-in-the-integration-card-setup
 status: PUBLISHED
 createdAt: 2025-10-16T20:59:23.336Z

@@ -1,5 +1,5 @@
 ---
-title: Organizaciones B2B sin número de dirección como dirección válida
+title: 'Organizaciones B2B sin número de dirección como dirección válida'
 slug: organizaciones-b2b-sin-numero-de-direccion-como-direccion-valida
 status: PUBLISHED
 createdAt: 2025-10-16T15:50:54.668Z

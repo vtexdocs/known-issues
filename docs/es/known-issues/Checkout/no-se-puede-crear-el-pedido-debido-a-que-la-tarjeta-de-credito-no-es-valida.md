@@ -1,5 +1,5 @@
 ---
-title: No se puede crear el pedido debido a que la tarjeta de crédito no es válida
+title: 'No se puede crear el pedido debido a que la tarjeta de crédito no es válida'
 slug: no-se-puede-crear-el-pedido-debido-a-que-la-tarjeta-de-credito-no-es-valida
 status: PUBLISHED
 createdAt: 2025-10-20T13:44:31.880Z

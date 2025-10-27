@@ -1,5 +1,5 @@
 ---
-title: A mutação impersonate do Store-graphql não carrega dados de perfil para usuários criados manualmente
+title: 'A mutação impersonate do Store-graphql não carrega dados de perfil para usuários criados manualmente'
 slug: a-mutacao-impersonate-do-storegraphql-nao-carrega-dados-de-perfil-para-usuarios-criados-manualmente
 status: PUBLISHED
 createdAt: 2025-10-16T20:48:56.756Z

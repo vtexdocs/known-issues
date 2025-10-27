@@ -1,5 +1,5 @@
 ---
-title: Filtro de transacciones por fecha en Admin no funciona
+title: 'Filtro de transacciones por fecha en Admin no funciona'
 slug: filtro-de-transacciones-por-fecha-en-admin-no-funciona
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:14.734Z

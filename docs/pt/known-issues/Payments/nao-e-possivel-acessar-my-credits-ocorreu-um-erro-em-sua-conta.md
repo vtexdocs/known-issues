@@ -1,5 +1,5 @@
 ---
-title: Não é possível acessar My Credits "Ocorreu um erro em sua conta"
+title: 'Não é possível acessar My Credits "Ocorreu um erro em sua conta"'
 slug: nao-e-possivel-acessar-my-credits-ocorreu-um-erro-em-sua-conta
 status: PUBLISHED
 createdAt: 2025-09-04T18:52:24.030Z

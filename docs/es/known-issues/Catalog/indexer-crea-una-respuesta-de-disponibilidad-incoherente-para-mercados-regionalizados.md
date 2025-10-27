@@ -1,5 +1,5 @@
 ---
-title: Indexer crea una respuesta de disponibilidad incoherente para mercados regionalizados
+title: 'Indexer crea una respuesta de disponibilidad incoherente para mercados regionalizados'
 slug: indexer-crea-una-respuesta-de-disponibilidad-incoherente-para-mercados-regionalizados
 status: PUBLISHED
 createdAt: 2025-10-16T20:34:27.025Z

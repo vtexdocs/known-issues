@@ -1,5 +1,5 @@
 ---
-title: Erro do Builder-hub ao tentar publicar um aplicativo
+title: 'Erro do Builder-hub ao tentar publicar um aplicativo'
 slug: erro-do-builderhub-ao-tentar-publicar-um-aplicativo
 status: PUBLISHED
 createdAt: 2025-07-24T17:44:16.610Z

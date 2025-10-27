@@ -1,5 +1,5 @@
 ---
-title: A mutação ValidateCart retorna 500 quando as personalizações afetam a disponibilidade do produto
+title: 'A mutação ValidateCart retorna 500 quando as personalizações afetam a disponibilidade do produto'
 slug: a-mutacao-validatecart-retorna-500-quando-as-personalizacoes-afetam-a-disponibilidade-do-produto
 status: PUBLISHED
 createdAt: 2025-10-16T19:22:06.447Z

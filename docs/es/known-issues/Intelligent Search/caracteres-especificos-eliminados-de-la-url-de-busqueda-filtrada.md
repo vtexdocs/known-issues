@@ -1,5 +1,5 @@
 ---
-title: Caracteres específicos eliminados de la URL de búsqueda filtrada
+title: 'Caracteres específicos eliminados de la URL de búsqueda filtrada'
 slug: caracteres-especificos-eliminados-de-la-url-de-busqueda-filtrada
 status: PUBLISHED
 createdAt: 2025-10-16T20:41:55.129Z

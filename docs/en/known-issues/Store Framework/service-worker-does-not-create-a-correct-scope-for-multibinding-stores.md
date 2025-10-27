@@ -1,5 +1,5 @@
 ---
-title: Service worker does not create a correct scope for multibinding stores
+title: 'Service worker does not create a correct scope for multibinding stores'
 slug: service-worker-does-not-create-a-correct-scope-for-multibinding-stores
 status: PUBLISHED
 createdAt: 2025-10-16T19:56:31.182Z

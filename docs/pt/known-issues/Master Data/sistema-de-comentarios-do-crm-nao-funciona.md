@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: crm-comment-system-does-not-work
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

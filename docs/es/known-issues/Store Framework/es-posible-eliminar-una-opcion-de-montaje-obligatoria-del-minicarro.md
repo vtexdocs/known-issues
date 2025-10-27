@@ -1,5 +1,5 @@
 ---
-title: Es posible eliminar una opción de montaje obligatoria del minicarro
+title: 'Es posible eliminar una opción de montaje obligatoria del minicarro'
 slug: es-posible-eliminar-una-opcion-de-montaje-obligatoria-del-minicarro
 status: PUBLISHED
 createdAt: 2025-10-16T20:35:08.350Z

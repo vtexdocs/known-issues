@@ -1,5 +1,5 @@
 ---
-title: Shopee El nivel de tier-variación no cambia
+title: 'Shopee El nivel de tier-variación no cambia'
 slug: shopee-el-nivel-de-tiervariacion-no-cambia
 status: PUBLISHED
 createdAt: 2025-09-08T20:33:33.561Z

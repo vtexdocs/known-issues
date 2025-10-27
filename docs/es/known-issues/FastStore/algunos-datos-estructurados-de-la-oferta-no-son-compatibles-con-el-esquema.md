@@ -1,5 +1,5 @@
 ---
-title: Algunos datos estructurados de la Oferta no son compatibles con el esquema
+title: 'Algunos datos estructurados de la Oferta no son compatibles con el esquema'
 slug: algunos-datos-estructurados-de-la-oferta-no-son-compatibles-con-el-esquema
 status: PUBLISHED
 createdAt: 2025-10-16T19:30:23.073Z

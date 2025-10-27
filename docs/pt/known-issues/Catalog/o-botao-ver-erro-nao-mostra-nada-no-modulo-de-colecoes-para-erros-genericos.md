@@ -1,5 +1,5 @@
 ---
-title: O botão "Ver erro" não mostra nada no módulo de coleções para erros genéricos
+title: 'O botão "Ver erro" não mostra nada no módulo de coleções para erros genéricos'
 slug: o-botao-ver-erro-nao-mostra-nada-no-modulo-de-colecoes-para-erros-genericos
 status: PUBLISHED
 createdAt: 2025-10-16T20:39:12.406Z

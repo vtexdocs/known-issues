@@ -1,5 +1,5 @@
 ---
-title: Shipping Simulation Loop at Checkout
+title: 'Shipping Simulation Loop at Checkout'
 slug: shipping-simulation-loop-at-checkout
 status: PUBLISHED
 createdAt: 2025-10-16T20:44:56.291Z

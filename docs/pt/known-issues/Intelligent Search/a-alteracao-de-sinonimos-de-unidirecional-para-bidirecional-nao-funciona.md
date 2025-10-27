@@ -1,5 +1,5 @@
 ---
-title: A alteração de sinônimos de unidirecional para bidirecional não funciona
+title: 'A alteração de sinônimos de unidirecional para bidirecional não funciona'
 slug: a-alteracao-de-sinonimos-de-unidirecional-para-bidirecional-nao-funciona
 status: PUBLISHED
 createdAt: 2025-10-16T19:58:40.380Z

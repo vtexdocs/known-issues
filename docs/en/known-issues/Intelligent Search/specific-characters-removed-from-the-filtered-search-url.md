@@ -1,5 +1,5 @@
 ---
-title: Specific characters removed from the filtered search URL
+title: 'Specific characters removed from the filtered search URL'
 slug: specific-characters-removed-from-the-filtered-search-url
 status: PUBLISHED
 createdAt: 2025-10-16T20:41:50.623Z

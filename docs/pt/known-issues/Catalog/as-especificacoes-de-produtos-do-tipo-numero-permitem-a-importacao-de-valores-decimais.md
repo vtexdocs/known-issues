@@ -1,5 +1,5 @@
 ---
-title: As especificações de produtos do tipo número permitem a importação de valores decimais
+title: 'As especificações de produtos do tipo número permitem a importação de valores decimais'
 slug: as-especificacoes-de-produtos-do-tipo-numero-permitem-a-importacao-de-valores-decimais
 status: PUBLISHED
 createdAt: 2025-09-18T14:44:55.005Z

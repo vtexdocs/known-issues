@@ -1,5 +1,5 @@
 ---
-title: Los caracteres de tubo no se reconocen correctamente en la nueva interfaz de usuario del catálogo.
+title: 'Los caracteres de tubo no se reconocen correctamente en la nueva interfaz de usuario del catálogo.'
 slug: los-caracteres-de-tubo-no-se-reconocen-correctamente-en-la-nueva-interfaz-de-usuario-del-catalogo
 status: PUBLISHED
 createdAt: 2025-10-16T20:35:49.107Z

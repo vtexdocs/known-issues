@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: category-substitute-words-are-not-being-indexed
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

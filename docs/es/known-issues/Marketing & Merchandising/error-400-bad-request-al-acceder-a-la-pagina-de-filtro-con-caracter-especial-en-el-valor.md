@@ -13,7 +13,7 @@ tag: Catalog,Portal (CMS)
 slugEN: error-400-bad-request-when-accessing-filter-page-with-special-character-in-value
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

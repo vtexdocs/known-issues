@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: button-to-add-brand-in-the-product-registration-search-doesnt-work
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

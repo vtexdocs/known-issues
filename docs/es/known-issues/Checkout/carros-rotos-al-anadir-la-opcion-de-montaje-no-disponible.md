@@ -1,5 +1,5 @@
 ---
-title: Carros rotos al añadir la opción de montaje no disponible
+title: 'Carros rotos al añadir la opción de montaje no disponible'
 slug: carros-rotos-al-anadir-la-opcion-de-montaje-no-disponible
 status: PUBLISHED
 createdAt: 2025-10-15T20:35:40.979Z

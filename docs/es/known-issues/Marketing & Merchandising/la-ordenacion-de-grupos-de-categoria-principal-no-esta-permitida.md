@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: ordering-main-category-groups-is-not-allowed
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

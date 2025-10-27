@@ -1,5 +1,5 @@
 ---
-title: Afiliação criada na subconta não listada no Admin
+title: 'Afiliação criada na subconta não listada no Admin'
 slug: afiliacao-criada-na-subconta-nao-listada-no-admin
 status: PUBLISHED
 createdAt: 2025-10-01T19:45:20.583Z

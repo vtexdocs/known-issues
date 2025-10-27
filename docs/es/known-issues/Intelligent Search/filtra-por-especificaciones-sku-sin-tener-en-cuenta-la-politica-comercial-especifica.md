@@ -1,5 +1,5 @@
 ---
-title: Filtra por especificaciones SKU sin tener en cuenta la política comercial específica
+title: 'Filtra por especificaciones SKU sin tener en cuenta la política comercial específica'
 slug: filtra-por-especificaciones-sku-sin-tener-en-cuenta-la-politica-comercial-especifica
 status: PUBLISHED
 createdAt: 2025-10-16T20:29:20.085Z

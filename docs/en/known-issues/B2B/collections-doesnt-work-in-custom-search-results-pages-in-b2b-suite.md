@@ -1,5 +1,5 @@
 ---
-title: "Collections doesn't work in custom search results pages in B2B Suite"
+title: 'Collections doesn''t work in custom search results pages in B2B Suite'
 id: 2O2UmKrMJHimDunDRbLBe
 status: PUBLISHED
 createdAt: 2024-06-03T22:13:10.775Z

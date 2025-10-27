@@ -1,5 +1,5 @@
 ---
-title: Pago recibido con transacción aprobada
+title: 'Pago recibido con transacción aprobada'
 slug: pago-recibido-con-transaccion-aprobada
 status: PUBLISHED
 createdAt: 2025-10-16T20:34:53.518Z

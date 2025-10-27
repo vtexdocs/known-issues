@@ -1,5 +1,5 @@
 ---
-title: O Conector de Terminal faz um loop em vez de mostrar um erro quando um código de terminal inválido é inserido (Sales App POS)
+title: 'O Conector de Terminal faz um loop em vez de mostrar um erro quando um código de terminal inválido é inserido (Sales App POS)'
 slug: o-conector-de-terminal-faz-um-loop-em-vez-de-mostrar-um-erro-quando-um-codigo-de-terminal-invalido-e-inserido-sales-app-pos
 status: PUBLISHED
 createdAt: 2025-10-07T12:21:19.009Z

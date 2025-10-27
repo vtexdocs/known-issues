@@ -1,5 +1,5 @@
 ---
-title: Netshoes - Main Image not respected
+title: 'Netshoes - Main Image not respected'
 slug: netshoes-main-image-not-respected
 status: PUBLISHED
 createdAt: 2025-08-12T20:23:20.770Z

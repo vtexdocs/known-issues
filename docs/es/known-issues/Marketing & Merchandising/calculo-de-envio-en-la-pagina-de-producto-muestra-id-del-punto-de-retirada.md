@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: shipping-calculation-on-product-page-displays-pickup-point-id
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

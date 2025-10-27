@@ -1,5 +1,5 @@
 ---
-title: Nominal Discount + Unit Multipler may generate negative values
+title: 'Nominal Discount + Unit Multipler may generate negative values'
 slug: nominal-discount-unit-multipler-may-generate-negative-values
 status: PUBLISHED
 createdAt: 2025-10-16T19:52:19.924Z

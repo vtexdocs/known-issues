@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: after-clicking-to-review-a-product-the-user-cant-exit-the-login-screen
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

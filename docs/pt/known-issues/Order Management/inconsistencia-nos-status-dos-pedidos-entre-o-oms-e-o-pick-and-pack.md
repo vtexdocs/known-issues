@@ -1,5 +1,5 @@
 ---
-title: Inconsistência nos status dos pedidos entre o OMS e o Pick and Pack
+title: 'Inconsistência nos status dos pedidos entre o OMS e o Pick and Pack'
 slug: inconsistencia-nos-status-dos-pedidos-entre-o-oms-e-o-pick-and-pack
 status: PUBLISHED
 createdAt: 2025-10-16T19:21:08.122Z

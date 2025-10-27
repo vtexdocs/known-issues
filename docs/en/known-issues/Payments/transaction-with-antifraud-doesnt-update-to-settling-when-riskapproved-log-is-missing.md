@@ -1,5 +1,5 @@
 ---
-title: Transaction with antifraud doesn't update to "settling" when "riskApproved" log is missing
+title: 'Transaction with antifraud doesn''t update to "settling" when "riskApproved" log is missing'
 slug: transaction-with-antifraud-doesnt-update-to-settling-when-riskapproved-log-is-missing
 status: PUBLISHED
 createdAt: 2025-10-16T20:38:20.813Z

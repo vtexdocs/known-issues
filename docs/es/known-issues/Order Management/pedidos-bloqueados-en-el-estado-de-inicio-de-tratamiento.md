@@ -1,5 +1,5 @@
 ---
-title: Pedidos bloqueados en el estado de inicio de tratamiento
+title: 'Pedidos bloqueados en el estado de inicio de tratamiento'
 slug: pedidos-bloqueados-en-el-estado-de-inicio-de-tratamiento
 status: PUBLISHED
 createdAt: 2025-08-12T18:54:14.750Z

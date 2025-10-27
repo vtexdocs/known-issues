@@ -1,5 +1,5 @@
 ---
-title: Comportamento inesperado ao registrar vários feriados em sequência
+title: 'Comportamento inesperado ao registrar vários feriados em sequência'
 slug: comportamento-inesperado-ao-registrar-varios-feriados-em-sequencia
 status: PUBLISHED
 createdAt: 2025-10-16T20:44:10.403Z

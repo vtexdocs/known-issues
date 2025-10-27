@@ -1,5 +1,5 @@
 ---
-title: Gateway sending country code in alpha-2 format for GooglePay payments
+title: 'Gateway sending country code in alpha-2 format for GooglePay payments'
 slug: gateway-sending-country-code-in-alpha2-format-for-googlepay-payments
 status: PUBLISHED
 createdAt: 2025-10-16T20:40:33.661Z

@@ -1,5 +1,5 @@
 ---
-title: Minicart Valores de artículo incorrectos debido a solicitudes concurrentes con la promoción Stepper y Más por menos.
+title: 'Minicart Valores de artículo incorrectos debido a solicitudes concurrentes con la promoción Stepper y Más por menos.'
 slug: minicart-valores-de-articulo-incorrectos-debido-a-solicitudes-concurrentes-con-la-promocion-stepper-y-mas-por-menos
 status: PUBLISHED
 createdAt: 2025-10-16T20:38:38.681Z

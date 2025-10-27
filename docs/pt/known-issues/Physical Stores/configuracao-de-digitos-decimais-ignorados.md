@@ -1,5 +1,5 @@
 ---
-title: Configuração de dígitos decimais ignorados
+title: 'Configuração de dígitos decimais ignorados'
 slug: configuracao-de-digitos-decimais-ignorados
 status: PUBLISHED
 createdAt: 2025-10-16T20:40:12.796Z

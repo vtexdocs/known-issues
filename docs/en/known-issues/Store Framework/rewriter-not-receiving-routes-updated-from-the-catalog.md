@@ -1,5 +1,5 @@
 ---
-title: Rewriter not receiving routes updated from the catalog
+title: 'Rewriter not receiving routes updated from the catalog'
 slug: rewriter-not-receiving-routes-updated-from-the-catalog
 status: PUBLISHED
 createdAt: 2025-10-16T20:34:11.121Z

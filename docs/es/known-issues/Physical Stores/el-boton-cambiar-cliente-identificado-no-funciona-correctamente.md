@@ -1,5 +1,5 @@
 ---
-title: El botón Cambiar cliente identificado no funciona correctamente
+title: 'El botón Cambiar cliente identificado no funciona correctamente'
 slug: el-boton-cambiar-cliente-identificado-no-funciona-correctamente
 status: PUBLISHED
 createdAt: 2025-10-16T19:47:51.323Z

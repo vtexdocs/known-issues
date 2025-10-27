@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: moving-categories-leads-to-unexpected-behavior-in-the-categories-tree
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

@@ -1,5 +1,5 @@
 ---
-title: "The 'Save new card' option does not work when using 3-D Secure (3DS)"
+title: 'The ''Save new card'' option does not work when using 3-D Secure (3DS)'
 id: 20INELA5LVhY1XqFWG7047
 status: PUBLISHED
 createdAt: 2021-06-15T17:10:05.803Z
@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: checkout-does-not-accept-zip-code-with-3-digits-or-less
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

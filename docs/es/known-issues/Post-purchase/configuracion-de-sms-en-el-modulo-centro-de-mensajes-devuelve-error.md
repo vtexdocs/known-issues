@@ -13,7 +13,7 @@ tag: Message Center
 slugEN: sms-configuration-in-message-centre-module-returns-an-error
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

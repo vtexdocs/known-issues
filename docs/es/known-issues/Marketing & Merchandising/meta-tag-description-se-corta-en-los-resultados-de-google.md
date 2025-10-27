@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: meta-tag-description-is-cut-in-google-search-results
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

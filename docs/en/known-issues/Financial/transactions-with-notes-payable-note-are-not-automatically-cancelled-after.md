@@ -13,7 +13,7 @@ tag: Payments
 slugEN: transactions-with-notes-payable-note-are-not-automatically-cancelled-after
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

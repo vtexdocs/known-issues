@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: geolocation-search-for-pickup-points-loading-indefinitely
 locale: es
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

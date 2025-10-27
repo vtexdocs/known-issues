@@ -13,7 +13,7 @@ tag: License Manager
 slugEN: website-binding-with-old-license-manager-details
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

@@ -1,5 +1,5 @@
 ---
-title: "Price range at the facets API doesn't correspond to the search results"
+title: 'Price range at the facets API doesn''t correspond to the search results'
 id: 2X9Z21u9kJh55uWu6o6sP3
 status: PUBLISHED
 createdAt: 2024-03-08T22:36:43.149Z

@@ -1,5 +1,5 @@
 ---
-title: Arredondamento incorreto de preços quando o multiplicador de unidades é diferente de um
+title: 'Arredondamento incorreto de preços quando o multiplicador de unidades é diferente de um'
 slug: arredondamento-incorreto-de-precos-quando-o-multiplicador-de-unidades-e-diferente-de-um
 status: PUBLISHED
 createdAt: 2025-07-24T17:38:14.226Z

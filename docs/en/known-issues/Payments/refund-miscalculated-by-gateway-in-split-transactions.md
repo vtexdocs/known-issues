@@ -1,5 +1,5 @@
 ---
-title: Refund miscalculated by gateway in split transactions
+title: 'Refund miscalculated by gateway in split transactions'
 slug: refund-miscalculated-by-gateway-in-split-transactions
 status: PUBLISHED
 createdAt: 2025-10-16T20:42:32.069Z

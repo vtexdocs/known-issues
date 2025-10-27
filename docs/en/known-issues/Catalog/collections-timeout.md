@@ -1,5 +1,5 @@
 ---
-title: Collections Timeout
+title: 'Collections Timeout'
 slug: collections-timeout
 status: PUBLISHED
 createdAt: 2025-10-02T19:53:52.135Z

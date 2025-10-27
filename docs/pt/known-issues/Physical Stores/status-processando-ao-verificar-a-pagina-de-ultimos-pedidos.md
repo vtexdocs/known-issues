@@ -1,5 +1,5 @@
 ---
-title: Status "Processando" ao verificar a página de últimos pedidos
+title: 'Status "Processando" ao verificar a página de últimos pedidos'
 slug: status-processando-ao-verificar-a-pagina-de-ultimos-pedidos
 status: PUBLISHED
 createdAt: 2025-10-16T20:43:25.294Z

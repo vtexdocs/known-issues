@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: instability-in-the-toggle-button-for-shipping-and-instore-pickup
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

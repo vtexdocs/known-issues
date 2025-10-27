@@ -1,5 +1,5 @@
 ---
-title: "Legacy CMS's banner custom element not working"
+title: 'Legacy CMS''s banner custom element not working'
 id: 3ezW1BTc2nSvHpp0mAYhwh
 status: PUBLISHED
 createdAt: 2024-02-07T13:44:20.722Z

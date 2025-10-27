@@ -1,5 +1,5 @@
 ---
-title: Os valores mínimo e máximo da logística afetam o fluxo de alocação
+title: 'Os valores mínimo e máximo da logística afetam o fluxo de alocação'
 slug: os-valores-minimo-e-maximo-da-logistica-afetam-o-fluxo-de-alocacao
 status: PUBLISHED
 createdAt: 2025-10-16T20:53:09.788Z

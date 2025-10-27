@@ -1,5 +1,5 @@
 ---
-title: "Tax Service doesn't consider nominal promotions when placing orders"
+title: 'Tax Service doesn''t consider nominal promotions when placing orders'
 id: 1vCs62opRc2iDw0NmYqlT7
 status: PUBLISHED
 createdAt: 2023-09-14T17:48:37.761Z

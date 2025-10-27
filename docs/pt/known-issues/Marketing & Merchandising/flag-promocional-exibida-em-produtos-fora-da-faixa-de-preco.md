@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: promotional-flag-displayed-on-products-outside-of-the-price-range
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

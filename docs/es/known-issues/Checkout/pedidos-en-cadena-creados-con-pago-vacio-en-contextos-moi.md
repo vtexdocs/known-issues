@@ -1,5 +1,5 @@
 ---
-title: Pedidos en cadena creados con pago vacío en contextos MOI
+title: 'Pedidos en cadena creados con pago vacío en contextos MOI'
 slug: pedidos-en-cadena-creados-con-pago-vacio-en-contextos-moi
 status: PUBLISHED
 createdAt: 2025-10-16T20:31:05.201Z

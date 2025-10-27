@@ -1,5 +1,5 @@
 ---
-title: Tempo limite de retorno da importação/exportação da planilha MasterData
+title: 'Tempo limite de retorno da importação/exportação da planilha MasterData'
 slug: tempo-limite-de-retorno-da-importacaoexportacao-da-planilha-masterdata
 status: PUBLISHED
 createdAt: 2025-10-16T19:53:16.362Z

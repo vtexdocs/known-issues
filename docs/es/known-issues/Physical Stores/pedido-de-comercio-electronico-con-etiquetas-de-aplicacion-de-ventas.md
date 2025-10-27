@@ -1,5 +1,5 @@
 ---
-title: Pedido de comercio electrónico con etiquetas de aplicación de ventas
+title: 'Pedido de comercio electrónico con etiquetas de aplicación de ventas'
 slug: pedido-de-comercio-electronico-con-etiquetas-de-aplicacion-de-ventas
 status: PUBLISHED
 createdAt: 2025-10-16T20:35:35.037Z

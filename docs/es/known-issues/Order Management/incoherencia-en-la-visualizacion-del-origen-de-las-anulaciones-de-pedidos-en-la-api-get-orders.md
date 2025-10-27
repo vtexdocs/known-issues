@@ -1,5 +1,5 @@
 ---
-title: Incoherencia en la visualización del origen de las anulaciones de pedidos en la API Get Orders.
+title: 'Incoherencia en la visualización del origen de las anulaciones de pedidos en la API Get Orders.'
 slug: incoherencia-en-la-visualizacion-del-origen-de-las-anulaciones-de-pedidos-en-la-api-get-orders
 status: PUBLISHED
 createdAt: 2025-10-22T12:34:17.300Z

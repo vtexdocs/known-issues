@@ -1,5 +1,5 @@
 ---
-title: Order stuck in Payment Pending status due to missing payment approved notification
+title: 'Order stuck in Payment Pending status due to missing payment approved notification'
 slug: order-stuck-in-payment-pending-status-due-to-missing-payment-approved-notification
 status: PUBLISHED
 createdAt: 2025-09-05T12:09:40.816Z

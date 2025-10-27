@@ -1,5 +1,5 @@
 ---
-title: La API de inserción de archivos SKU no acepta URL de servidores que requieran el encabezado "User-Agent".
+title: 'La API de inserción de archivos SKU no acepta URL de servidores que requieran el encabezado "User-Agent".'
 slug: la-api-de-insercion-de-archivos-sku-no-acepta-url-de-servidores-que-requieran-el-encabezado-useragent
 status: PUBLISHED
 createdAt: 2025-08-12T18:56:39.312Z

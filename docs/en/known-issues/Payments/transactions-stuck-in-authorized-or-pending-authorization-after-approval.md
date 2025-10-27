@@ -1,5 +1,5 @@
 ---
-title: Transactions stuck in Authorized or Pending Authorization after approval
+title: 'Transactions stuck in Authorized or Pending Authorization after approval'
 slug: transactions-stuck-in-authorized-or-pending-authorization-after-approval
 status: PUBLISHED
 createdAt: 2025-10-08T16:24:44.345Z

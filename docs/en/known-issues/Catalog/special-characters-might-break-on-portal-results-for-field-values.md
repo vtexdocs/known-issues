@@ -1,5 +1,5 @@
 ---
-title: Special characters might break on portal results for field values
+title: 'Special characters might break on portal results for field values'
 slug: special-characters-might-break-on-portal-results-for-field-values
 status: PUBLISHED
 createdAt: 2025-09-09T14:49:56.916Z

@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: cms-portal-does-not-allow-deletion-of-templates
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

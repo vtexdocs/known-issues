@@ -1,5 +1,5 @@
 ---
-title: Planilha presa na coluna "A embalar" com o status "Embalado" após a confirmação da embalagem
+title: 'Planilha presa na coluna "A embalar" com o status "Embalado" após a confirmação da embalagem'
 slug: planilha-presa-na-coluna-a-embalar-com-o-status-embalado-apos-a-confirmacao-da-embalagem
 status: PUBLISHED
 createdAt: 2025-09-30T14:51:33.333Z

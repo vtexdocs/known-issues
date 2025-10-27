@@ -1,5 +1,5 @@
 ---
-title: Los transportistas con método de envío llamado "Agendada" no funcionan
+title: 'Los transportistas con método de envío llamado "Agendada" no funcionan'
 slug: los-transportistas-con-metodo-de-envio-llamado-agendada-no-funcionan
 status: PUBLISHED
 createdAt: 2025-10-16T20:46:00.417Z

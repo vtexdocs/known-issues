@@ -1,5 +1,5 @@
 ---
-title: As promoções "Mais por menos" estão sendo aplicadas incorretamente a quantidades sobrepostas
+title: 'As promoções "Mais por menos" estão sendo aplicadas incorretamente a quantidades sobrepostas'
 slug: as-promocoes-mais-por-menos-estao-sendo-aplicadas-incorretamente-a-quantidades-sobrepostas
 status: PUBLISHED
 createdAt: 2025-10-16T19:59:19.172Z

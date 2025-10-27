@@ -1,5 +1,5 @@
 ---
-title: Checkout shows payment methods without eligible installment options
+title: 'Checkout shows payment methods without eligible installment options'
 slug: checkout-shows-payment-methods-without-eligible-installment-options
 status: PUBLISHED
 createdAt: 2025-10-08T23:17:37.850Z

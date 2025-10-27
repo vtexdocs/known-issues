@@ -1,5 +1,5 @@
 ---
-title: Payment rule requiresAuthentication attribute is ignored by gateway (cannot be enforced/overridden via API)
+title: 'Payment rule requiresAuthentication attribute is ignored by gateway (cannot be enforced/overridden via API)'
 slug: payment-rule-requiresauthentication-attribute-is-ignored-by-gateway-cannot-be-enforcedoverridden-via-api
 status: PUBLISHED
 createdAt: 2025-10-02T16:23:40.739Z

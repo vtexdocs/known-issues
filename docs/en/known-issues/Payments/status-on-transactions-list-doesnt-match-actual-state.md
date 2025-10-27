@@ -1,5 +1,5 @@
 ---
-title: "Status on Transactions list doesn't match actual state"
+title: 'Status on Transactions list doesn''t match actual state'
 id: 3L0eXIO6aHmv9GSlPwCq3t
 status: PUBLISHED
 createdAt: 2024-03-22T16:23:32.369Z

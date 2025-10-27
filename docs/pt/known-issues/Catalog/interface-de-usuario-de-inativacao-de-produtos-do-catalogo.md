@@ -1,5 +1,5 @@
 ---
-title: Interface de usuário de inativação de produtos do catálogo
+title: 'Interface de usuário de inativação de produtos do catálogo'
 slug: interface-de-usuario-de-inativacao-de-produtos-do-catalogo
 status: PUBLISHED
 createdAt: 2025-10-16T19:20:25.762Z

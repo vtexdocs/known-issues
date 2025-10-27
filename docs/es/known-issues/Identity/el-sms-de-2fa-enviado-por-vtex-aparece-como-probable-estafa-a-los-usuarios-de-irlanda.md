@@ -1,5 +1,5 @@
 ---
-title: El SMS de 2FA enviado por VTEX aparece como "probable estafa" a los usuarios de Irlanda
+title: 'El SMS de 2FA enviado por VTEX aparece como "probable estafa" a los usuarios de Irlanda'
 slug: el-sms-de-2fa-enviado-por-vtex-aparece-como-probable-estafa-a-los-usuarios-de-irlanda
 status: PUBLISHED
 createdAt: 2025-08-08T21:09:46.316Z

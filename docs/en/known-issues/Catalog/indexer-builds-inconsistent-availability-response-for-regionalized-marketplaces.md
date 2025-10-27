@@ -1,5 +1,5 @@
 ---
-title: Indexer builds inconsistent availability response for regionalized marketplaces
+title: 'Indexer builds inconsistent availability response for regionalized marketplaces'
 slug: indexer-builds-inconsistent-availability-response-for-regionalized-marketplaces
 status: PUBLISHED
 createdAt: 2025-10-16T20:34:24.257Z

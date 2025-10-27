@@ -1,5 +1,5 @@
 ---
-title: No funciona la búsqueda de varios productos en el módulo de precios
+title: 'No funciona la búsqueda de varios productos en el módulo de precios'
 slug: no-funciona-la-busqueda-de-varios-productos-en-el-modulo-de-precios
 status: PUBLISHED
 createdAt: 2025-10-16T20:52:08.203Z

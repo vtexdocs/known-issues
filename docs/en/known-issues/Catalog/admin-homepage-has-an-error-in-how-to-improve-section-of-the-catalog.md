@@ -1,5 +1,5 @@
 ---
-title: "Admin homepage has an error in 'How to improve' section of the Catalog"
+title: 'Admin homepage has an error in ''How to improve'' section of the Catalog'
 id: 4f8oPMiiCvBMtjFUoOVIGv
 status: CHANGED
 createdAt: 2021-09-29T14:02:37.809Z
@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: admin-homepage-has-an-error-in-how-to-improve-section-of-the-catalog
 locale: en
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

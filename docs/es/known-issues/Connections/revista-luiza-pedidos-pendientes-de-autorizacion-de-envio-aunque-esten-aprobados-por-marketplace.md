@@ -1,5 +1,5 @@
 ---
-title: Revista Luiza Pedidos pendientes de autorización de envío aunque estén aprobados por Marketplace
+title: 'Revista Luiza Pedidos pendientes de autorización de envío aunque estén aprobados por Marketplace'
 slug: revista-luiza-pedidos-pendientes-de-autorizacion-de-envio-aunque-esten-aprobados-por-marketplace
 status: PUBLISHED
 createdAt: 2025-10-16T20:43:48.420Z

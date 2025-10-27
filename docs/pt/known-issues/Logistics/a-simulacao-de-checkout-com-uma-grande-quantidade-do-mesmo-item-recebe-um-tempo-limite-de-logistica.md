@@ -1,5 +1,5 @@
 ---
-title: A simulação de checkout com uma grande quantidade do mesmo item recebe um tempo limite de logística
+title: 'A simulação de checkout com uma grande quantidade do mesmo item recebe um tempo limite de logística'
 slug: a-simulacao-de-checkout-com-uma-grande-quantidade-do-mesmo-item-recebe-um-tempo-limite-de-logistica
 status: PUBLISHED
 createdAt: 2025-09-25T15:16:42.383Z

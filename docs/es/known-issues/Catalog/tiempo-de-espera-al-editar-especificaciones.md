@@ -1,5 +1,5 @@
 ---
-title: Tiempo de espera al editar especificaciones
+title: 'Tiempo de espera al editar especificaciones'
 slug: tiempo-de-espera-al-editar-especificaciones
 status: PUBLISHED
 createdAt: 2025-10-02T19:54:46.307Z

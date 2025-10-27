@@ -1,5 +1,5 @@
 ---
-title: It is possible to remove a required assembly option from the minicart
+title: 'It is possible to remove a required assembly option from the minicart'
 slug: it-is-possible-to-remove-a-required-assembly-option-from-the-minicart
 status: PUBLISHED
 createdAt: 2025-10-16T20:35:05.422Z

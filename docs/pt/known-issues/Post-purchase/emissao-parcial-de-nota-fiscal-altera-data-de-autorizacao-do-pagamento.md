@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: partial-issue-of-invoice-changes-date-of-payment-authorization
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

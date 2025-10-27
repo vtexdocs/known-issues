@@ -9,7 +9,7 @@ firstPublishedAt: 2024-02-16T20:28:51.794Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
-tag: 
+tag: null
 slugEN: untitled
 locale: es
 kiStatus: No Fix

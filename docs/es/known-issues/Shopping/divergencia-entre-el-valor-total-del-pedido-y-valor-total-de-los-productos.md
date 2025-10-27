@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: divergence-between-total-order-value-and-total-products-value
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

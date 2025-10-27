@@ -1,5 +1,5 @@
 ---
-title: "Call center operator's email is sent to orderForm when adding items to cart from Store Framework front-end"
+title: 'Call center operator''s email is sent to orderForm when adding items to cart from Store Framework front-end'
 id: 3KwP4q7VZsu6e3c1DwWY5t
 status: PUBLISHED
 createdAt: 2024-07-16T20:06:11.748Z

@@ -1,5 +1,5 @@
 ---
-title: Warehouse prioritization is not deterministic during shipping simulation
+title: 'Warehouse prioritization is not deterministic during shipping simulation'
 slug: warehouse-prioritization-is-not-deterministic-during-shipping-simulation
 status: PUBLISHED
 createdAt: 2025-08-07T20:35:45.558Z

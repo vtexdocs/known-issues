@@ -1,5 +1,5 @@
 ---
-title: O minicarro exibe "FREE" em vez de "TBD" após a remoção rápida de itens disponíveis
+title: 'O minicarro exibe "FREE" em vez de "TBD" após a remoção rápida de itens disponíveis'
 slug: o-minicarro-exibe-free-em-vez-de-tbd-apos-a-remocao-rapida-de-itens-disponiveis
 status: PUBLISHED
 createdAt: 2025-10-16T19:29:21.944Z

@@ -1,5 +1,5 @@
 ---
-title: checkout-graphql no podía manejar artículos con suscripción cuando el orderForm tiene regalos
+title: 'checkout-graphql no podía manejar artículos con suscripción cuando el orderForm tiene regalos'
 slug: checkoutgraphql-no-podia-manejar-articulos-con-suscripcion-cuando-el-orderform-tiene-regalos
 status: PUBLISHED
 createdAt: 2025-10-16T19:16:02.257Z

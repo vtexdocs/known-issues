@@ -13,7 +13,7 @@ tag: Message Center,Order Management
 slugEN: the-first-shipping-update-email-is-not-sent-when-the-shipping-status-is
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

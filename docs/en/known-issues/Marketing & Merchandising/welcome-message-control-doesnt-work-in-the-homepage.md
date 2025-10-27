@@ -1,5 +1,5 @@
 ---
-title: "Welcome Message control doesn't work in the homepage"
+title: 'Welcome Message control doesn''t work in the homepage'
 id: 38WkIwnvReicEOu6eOccuY
 status: PUBLISHED
 createdAt: 2017-04-26T23:34:28.335Z
@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: welcome-message-control-doesnt-work-in-the-homepage
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: orderbybestdiscount-returns-the-wrong-sorting-order
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

@@ -13,7 +13,7 @@ tag: Pricing & Promotions
 slugEN: its-not-possible-to-schedule-prices-for-a-range-of-hours
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

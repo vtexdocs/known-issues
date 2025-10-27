@@ -1,5 +1,5 @@
 ---
-title: Phone Number Duplication in Checkout UI for International Addresses
+title: 'Phone Number Duplication in Checkout UI for International Addresses'
 slug: phone-number-duplication-in-checkout-ui-for-international-addresses
 status: PUBLISHED
 createdAt: 2025-10-16T19:21:46.053Z

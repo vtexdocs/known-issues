@@ -1,5 +1,5 @@
 ---
-title: "Update seller's available trade policies does not trigger automatic indexation"
+title: 'Update seller''s available trade policies does not trigger automatic indexation'
 id: 45FOjSN4a5ZhCqilQfUX99
 status: PUBLISHED
 createdAt: 2024-05-31T13:49:57.732Z

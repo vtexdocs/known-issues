@@ -1,5 +1,5 @@
 ---
-title: Regras de visual merchandising erroneamente estendidas a contextos mais amplos
+title: 'Regras de visual merchandising erroneamente estendidas a contextos mais amplos'
 slug: regras-de-visual-merchandising-erroneamente-estendidas-a-contextos-mais-amplos
 status: PUBLISHED
 createdAt: 2025-08-07T20:22:45.235Z

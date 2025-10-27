@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: denied-payment-email-is-not-sent
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

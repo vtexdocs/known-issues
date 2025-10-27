@@ -1,5 +1,5 @@
 ---
-title: Regionalization or trade policies aren't considered while filtering or sorting items by price or discount
+title: 'Regionalization or trade policies aren''t considered while filtering or sorting items by price or discount'
 slug: regionalization-or-trade-policies-arent-considered-while-filtering-or-sorting-items-by-price-or-discount
 status: PUBLISHED
 createdAt: 2025-09-18T17:34:05.392Z

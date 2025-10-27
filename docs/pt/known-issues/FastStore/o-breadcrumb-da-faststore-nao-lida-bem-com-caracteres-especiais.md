@@ -1,5 +1,5 @@
 ---
-title: O breadcrumb da Faststore não lida bem com caracteres especiais
+title: 'O breadcrumb da Faststore não lida bem com caracteres especiais'
 slug: o-breadcrumb-da-faststore-nao-lida-bem-com-caracteres-especiais
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:35.178Z

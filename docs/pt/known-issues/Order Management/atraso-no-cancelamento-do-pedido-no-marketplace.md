@@ -1,5 +1,5 @@
 ---
-title: Atraso no cancelamento do pedido no Marketplace
+title: 'Atraso no cancelamento do pedido no Marketplace'
 slug: atraso-no-cancelamento-do-pedido-no-marketplace
 status: PUBLISHED
 createdAt: 2025-08-12T18:46:25.808Z

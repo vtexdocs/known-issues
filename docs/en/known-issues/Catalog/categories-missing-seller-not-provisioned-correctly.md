@@ -1,5 +1,5 @@
 ---
-title: Categories missing seller not provisioned correctly
+title: 'Categories missing seller not provisioned correctly'
 slug: categories-missing-seller-not-provisioned-correctly
 status: PUBLISHED
 createdAt: 2025-10-16T18:49:54.182Z

@@ -1,5 +1,5 @@
 ---
-title: "Some functions of the sticky layout component won't work as expected when viewed through Safari browser"
+title: 'Some functions of the sticky layout component won''t work as expected when viewed through Safari browser'
 id: 6qXYzloLLowKzEqIUX1IB0
 status: PUBLISHED
 createdAt: 2023-11-08T13:34:35.513Z

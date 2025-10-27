@@ -13,7 +13,7 @@ tag: Order Management
 slugEN: pci-logs-are-no-longer-displayed-on-the-orders-managment-timeline
 locale: es
 kiStatus: Fixed
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

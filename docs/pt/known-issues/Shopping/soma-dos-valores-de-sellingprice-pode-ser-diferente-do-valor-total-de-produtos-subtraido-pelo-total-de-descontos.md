@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: sum-of-sellingprice-values-may-differ-from-total-product-value-minus-the-total-discounts
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

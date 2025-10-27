@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: simulating-shipping-to-different-address-in-repurchase-carts-in-not-possible
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

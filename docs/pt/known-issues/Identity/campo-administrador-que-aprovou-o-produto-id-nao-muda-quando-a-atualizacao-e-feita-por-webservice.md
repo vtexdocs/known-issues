@@ -1,5 +1,5 @@
 ---
-title: "Campo 'Administrador que aprovou o produto (id)' não muda quando a atualização é feita por webservice"
+title: 'Campo ''Administrador que aprovou o produto (id)'' não muda quando a atualização é feita por webservice'
 id: 5R6Jj0aglq0gUu2OakqgUw
 status: PUBLISHED
 createdAt: 2017-04-11T22:17:03.345Z
@@ -13,7 +13,7 @@ tag: Web Service
 slugEN: the-field-administrator-who-approved-the-product-id-does-not-change-when-the-updating-is-done-by-webservice
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

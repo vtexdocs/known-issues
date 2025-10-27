@@ -1,5 +1,5 @@
 ---
-title: Group name is not automatically updated on Intelligent Search
+title: 'Group name is not automatically updated on Intelligent Search'
 slug: group-name-is-not-automatically-updated-on-intelligent-search
 status: PUBLISHED
 createdAt: 2025-09-24T18:20:23.232Z

@@ -1,5 +1,5 @@
 ---
-title: "'Store texts' search doesn't work"
+title: '''Store texts'' search doesn''t work'
 id: 6C6JUkssKcOoQqsaikucwy
 status: PUBLISHED
 createdAt: 2017-08-24T15:16:31.392Z
@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: store-texts-search-doesnt-work
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

@@ -1,5 +1,5 @@
 ---
-title: Los productos cuyo precio de venta es cero no se pueden añadir al carrito en FastStore
+title: 'Los productos cuyo precio de venta es cero no se pueden añadir al carrito en FastStore'
 slug: los-productos-cuyo-precio-de-venta-es-cero-no-se-pueden-anadir-al-carrito-en-faststore
 status: PUBLISHED
 createdAt: 2025-10-16T20:49:56.463Z

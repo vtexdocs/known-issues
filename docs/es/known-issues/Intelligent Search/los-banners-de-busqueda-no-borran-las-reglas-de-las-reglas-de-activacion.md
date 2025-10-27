@@ -1,5 +1,5 @@
 ---
-title: Los banners de búsqueda no borran las reglas de las reglas de activación
+title: 'Los banners de búsqueda no borran las reglas de las reglas de activación'
 slug: los-banners-de-busqueda-no-borran-las-reglas-de-las-reglas-de-activacion
 status: PUBLISHED
 createdAt: 2025-10-16T19:56:16.407Z

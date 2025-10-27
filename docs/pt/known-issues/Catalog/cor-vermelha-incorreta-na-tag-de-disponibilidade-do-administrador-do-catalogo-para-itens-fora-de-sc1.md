@@ -1,5 +1,5 @@
 ---
-title: Cor vermelha incorreta na tag de disponibilidade do administrador do catálogo para itens fora de sc=1
+title: 'Cor vermelha incorreta na tag de disponibilidade do administrador do catálogo para itens fora de sc=1'
 slug: cor-vermelha-incorreta-na-tag-de-disponibilidade-do-administrador-do-catalogo-para-itens-fora-de-sc1
 status: PUBLISHED
 createdAt: 2025-10-16T20:48:41.304Z

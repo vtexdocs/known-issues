@@ -1,5 +1,5 @@
 ---
-title: Produtos com preço de venda igual a zero não podem ser adicionados ao carrinho no FastStore
+title: 'Produtos com preço de venda igual a zero não podem ser adicionados ao carrinho no FastStore'
 slug: produtos-com-preco-de-venda-igual-a-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore
 status: PUBLISHED
 createdAt: 2025-10-16T20:49:50.736Z

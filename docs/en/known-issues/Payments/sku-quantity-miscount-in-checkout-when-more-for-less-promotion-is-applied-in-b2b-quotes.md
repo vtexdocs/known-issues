@@ -1,5 +1,5 @@
 ---
-title: SKU quantity miscount in checkout when More for Less promotion is applied in B2B Quotes
+title: 'SKU quantity miscount in checkout when More for Less promotion is applied in B2B Quotes'
 slug: sku-quantity-miscount-in-checkout-when-more-for-less-promotion-is-applied-in-b2b-quotes
 status: PUBLISHED
 createdAt: 2025-08-26T19:08:27.437Z

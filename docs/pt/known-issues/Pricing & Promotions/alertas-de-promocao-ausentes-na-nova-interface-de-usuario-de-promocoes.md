@@ -1,5 +1,5 @@
 ---
-title: Alertas de promoção ausentes na nova interface de usuário de promoções
+title: 'Alertas de promoção ausentes na nova interface de usuário de promoções'
 slug: alertas-de-promocao-ausentes-na-nova-interface-de-usuario-de-promocoes
 status: PUBLISHED
 createdAt: 2025-10-13T15:26:42.159Z

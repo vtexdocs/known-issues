@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: changing-zip-code-doesnt-remove-old-address
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

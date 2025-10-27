@@ -1,5 +1,5 @@
 ---
-title: Se acepta DefaultValue en la especificación para los tipos de campo CheckBox, Combo o Radio a través de API
+title: 'Se acepta DefaultValue en la especificación para los tipos de campo CheckBox, Combo o Radio a través de API'
 slug: se-acepta-defaultvalue-en-la-especificacion-para-los-tipos-de-campo-checkbox-combo-o-radio-a-traves-de-api
 status: PUBLISHED
 createdAt: 2025-10-24T12:33:28.752Z

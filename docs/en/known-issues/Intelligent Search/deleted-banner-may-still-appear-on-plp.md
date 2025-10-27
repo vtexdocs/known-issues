@@ -1,5 +1,5 @@
 ---
-title: Deleted banner may still appear on PLP
+title: 'Deleted banner may still appear on PLP'
 slug: deleted-banner-may-still-appear-on-plp
 status: PUBLISHED
 createdAt: 2025-09-22T17:22:04.664Z

@@ -13,7 +13,7 @@ tag: Logistics
 slugEN: postal-codes-with-district-name-without-city
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

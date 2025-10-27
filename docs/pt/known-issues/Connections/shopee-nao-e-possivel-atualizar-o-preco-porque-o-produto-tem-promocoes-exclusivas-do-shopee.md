@@ -1,5 +1,5 @@
 ---
-title: Shopee Não é possível atualizar o preço porque o produto tem promoções exclusivas do Shopee
+title: 'Shopee Não é possível atualizar o preço porque o produto tem promoções exclusivas do Shopee'
 slug: shopee-nao-e-possivel-atualizar-o-preco-porque-o-produto-tem-promocoes-exclusivas-do-shopee
 status: PUBLISHED
 createdAt: 2025-09-18T19:43:07.004Z

@@ -1,5 +1,5 @@
 ---
-title: Erro in Change v2 flow with duplicated itens
+title: 'Erro in Change v2 flow with duplicated itens'
 slug: erro-in-change-v2-flow-with-duplicated-itens
 status: PUBLISHED
 createdAt: 2025-10-16T20:51:00.542Z

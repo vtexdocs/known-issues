@@ -1,5 +1,5 @@
 ---
-title: Regra de visual merchandising não aplicada à categoria selecionada
+title: 'Regra de visual merchandising não aplicada à categoria selecionada'
 slug: regra-de-visual-merchandising-nao-aplicada-a-categoria-selecionada
 status: PUBLISHED
 createdAt: 2025-10-16T20:01:37.654Z

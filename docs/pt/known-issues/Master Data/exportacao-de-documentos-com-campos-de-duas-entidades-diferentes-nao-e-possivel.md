@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: unable-to-export-documents-across-entities
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

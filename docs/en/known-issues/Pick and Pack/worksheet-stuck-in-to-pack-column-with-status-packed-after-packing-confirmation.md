@@ -1,5 +1,5 @@
 ---
-title: Worksheet stuck in “To pack” column with status “Packed” after packing confirmation
+title: 'Worksheet stuck in “To pack” column with status “Packed” after packing confirmation'
 slug: worksheet-stuck-in-to-pack-column-with-status-packed-after-packing-confirmation
 status: PUBLISHED
 createdAt: 2025-09-30T14:51:37.702Z

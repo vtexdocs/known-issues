@@ -13,7 +13,7 @@ tag: Logistics
 slugEN: the-tracking-integration-is-not-updating-automatically
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

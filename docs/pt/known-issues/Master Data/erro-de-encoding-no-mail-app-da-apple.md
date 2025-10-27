@@ -13,7 +13,7 @@ tag: Master Data,Message Center
 slugEN: encoding-error-in-apple-mail-app
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

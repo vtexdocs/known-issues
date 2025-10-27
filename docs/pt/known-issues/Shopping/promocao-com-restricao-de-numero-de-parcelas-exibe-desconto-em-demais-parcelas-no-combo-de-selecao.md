@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: benefit-with-restricted-number-of-installments-displays-discount-in-other-installments-in-the-combo-box
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

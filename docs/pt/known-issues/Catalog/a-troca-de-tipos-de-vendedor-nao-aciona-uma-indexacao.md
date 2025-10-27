@@ -1,5 +1,5 @@
 ---
-title: A troca de tipos de vendedor não aciona uma indexação
+title: 'A troca de tipos de vendedor não aciona uma indexação'
 slug: a-troca-de-tipos-de-vendedor-nao-aciona-uma-indexacao
 status: PUBLISHED
 createdAt: 2025-10-16T20:59:34.190Z

@@ -1,5 +1,5 @@
 ---
-title: "B2B Quotes doesn't apply discount at checkout in the website domain"
+title: 'B2B Quotes doesn''t apply discount at checkout in the website domain'
 id: 2VWm5NVqW1LRSZINAAjM7B
 status: PUBLISHED
 createdAt: 2023-06-22T17:17:04.039Z

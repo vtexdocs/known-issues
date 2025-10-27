@@ -1,5 +1,5 @@
 ---
-title: Incoherencia en los plazos de las facturas de crédito de los clientes
+title: 'Incoherencia en los plazos de las facturas de crédito de los clientes'
 slug: incoherencia-en-los-plazos-de-las-facturas-de-credito-de-los-clientes
 status: PUBLISHED
 createdAt: 2025-09-05T15:41:45.708Z

@@ -1,5 +1,5 @@
 ---
-title: Catalog A API Get Product by RefId retorna "não encontrado" para alguns produtos/RefId
+title: 'Catalog A API Get Product by RefId retorna "não encontrado" para alguns produtos/RefId'
 slug: catalog-a-api-get-product-by-refid-retorna-nao-encontrado-para-alguns-produtosrefid
 status: PUBLISHED
 createdAt: 2025-10-16T20:27:20.712Z

@@ -1,5 +1,5 @@
 ---
-title: A transação não está carregando - tela em branco
+title: 'A transação não está carregando - tela em branco'
 slug: a-transacao-nao-esta-carregando-tela-em-branco
 status: PUBLISHED
 createdAt: 2025-10-16T20:27:34.485Z

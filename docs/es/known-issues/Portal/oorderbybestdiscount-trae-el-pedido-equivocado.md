@@ -1,5 +1,5 @@
 ---
-title: O=OrderByBestDiscount trae el pedido equivocado
+title: 'O=OrderByBestDiscount trae el pedido equivocado'
 slug: oorderbybestdiscount-trae-el-pedido-equivocado
 status: PUBLISHED
 createdAt: 2025-10-07T19:51:17.256Z

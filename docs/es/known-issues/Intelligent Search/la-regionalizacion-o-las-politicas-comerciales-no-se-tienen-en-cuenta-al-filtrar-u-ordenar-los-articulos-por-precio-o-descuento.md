@@ -1,5 +1,5 @@
 ---
-title: La regionalización o las políticas comerciales no se tienen en cuenta al filtrar u ordenar los artículos por precio o descuento.
+title: 'La regionalización o las políticas comerciales no se tienen en cuenta al filtrar u ordenar los artículos por precio o descuento.'
 slug: la-regionalizacion-o-las-politicas-comerciales-no-se-tienen-en-cuenta-al-filtrar-u-ordenar-los-articulos-por-precio-o-descuento
 status: PUBLISHED
 createdAt: 2025-09-18T17:34:09.662Z

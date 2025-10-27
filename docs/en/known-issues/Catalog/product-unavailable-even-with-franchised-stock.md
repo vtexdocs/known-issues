@@ -1,5 +1,5 @@
 ---
-title: Product unavailable even with franchised stock
+title: 'Product unavailable even with franchised stock'
 slug: product-unavailable-even-with-franchised-stock
 status: PUBLISHED
 createdAt: 2025-09-10T13:35:39.286Z

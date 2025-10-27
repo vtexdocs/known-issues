@@ -1,5 +1,5 @@
 ---
-title: Pipe characters are not properly recognized in the new catalog UI.
+title: 'Pipe characters are not properly recognized in the new catalog UI.'
 slug: pipe-characters-are-not-properly-recognized-in-the-new-catalog-ui
 status: PUBLISHED
 createdAt: 2025-10-16T20:35:44.757Z

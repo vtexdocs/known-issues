@@ -1,5 +1,5 @@
 ---
-title: El cálculo de los componentes del kit no actualiza automáticamente su precio final
+title: 'El cálculo de los componentes del kit no actualiza automáticamente su precio final'
 slug: el-calculo-de-los-componentes-del-kit-no-actualiza-automaticamente-su-precio-final
 status: PUBLISHED
 createdAt: 2025-10-01T23:43:12.811Z

@@ -13,7 +13,7 @@ tag: Master Data
 slugEN: master-datas-dynamic-storage-entity-groups-not-working-as-expected
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

@@ -1,5 +1,5 @@
 ---
-title: Redondeo incorrecto del precio cuando el multiplicador unitario es distinto de uno
+title: 'Redondeo incorrecto del precio cuando el multiplicador unitario es distinto de uno'
 slug: redondeo-incorrecto-del-precio-cuando-el-multiplicador-unitario-es-distinto-de-uno
 status: PUBLISHED
 createdAt: 2025-07-24T17:38:26.493Z

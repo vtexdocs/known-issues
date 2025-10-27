@@ -1,5 +1,5 @@
 ---
-title: Excluded warehouses continue to return stock availability in the simulation and availability API
+title: 'Excluded warehouses continue to return stock availability in the simulation and availability API'
 slug: excluded-warehouses-continue-to-return-stock-availability-in-the-simulation-and-availability-api
 status: PUBLISHED
 createdAt: 2025-10-16T19:29:48.703Z

@@ -1,5 +1,5 @@
 ---
-title: "Checkout payment split may generate incorrect information in the 'paymentData' of orders (NO-PAYMENT)"
+title: 'Checkout payment split may generate incorrect information in the ''paymentData'' of orders (NO-PAYMENT)'
 id: 1bZ5H0T0isc0DUtkIb38sQ
 status: PUBLISHED
 createdAt: 2022-01-24T20:37:23.861Z
@@ -9,7 +9,7 @@ firstPublishedAt: 2022-01-31T15:07:32.985Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
-tag: 
+tag: null
 slugEN: checkout-payment-split-may-generate-incorrect-information-in-the-paymentdata
 locale: es
 kiStatus: Backlog

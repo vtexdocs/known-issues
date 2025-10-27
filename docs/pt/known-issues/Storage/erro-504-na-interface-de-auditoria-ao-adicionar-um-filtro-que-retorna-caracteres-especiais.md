@@ -1,5 +1,5 @@
 ---
-title: Erro 504 na interface de auditoria ao adicionar um filtro que retorna caracteres especiais.
+title: 'Erro 504 na interface de auditoria ao adicionar um filtro que retorna caracteres especiais.'
 slug: erro-504-na-interface-de-auditoria-ao-adicionar-um-filtro-que-retorna-caracteres-especiais
 status: PUBLISHED
 createdAt: 2025-10-16T20:00:19.194Z

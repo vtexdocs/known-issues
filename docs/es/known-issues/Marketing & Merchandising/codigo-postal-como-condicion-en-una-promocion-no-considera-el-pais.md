@@ -13,7 +13,7 @@ tag: Pricing & Promotions
 slugEN: postal-code-as-condition-in-a-promotion-doesnt-consider-the-country
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

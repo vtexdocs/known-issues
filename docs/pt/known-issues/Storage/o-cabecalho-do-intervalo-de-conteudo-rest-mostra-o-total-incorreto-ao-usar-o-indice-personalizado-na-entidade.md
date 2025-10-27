@@ -1,5 +1,5 @@
 ---
-title: O cabeçalho do intervalo de conteúdo REST mostra o total incorreto ao usar o índice personalizado na entidade
+title: 'O cabeçalho do intervalo de conteúdo REST mostra o total incorreto ao usar o índice personalizado na entidade'
 slug: o-cabecalho-do-intervalo-de-conteudo-rest-mostra-o-total-incorreto-ao-usar-o-indice-personalizado-na-entidade
 status: PUBLISHED
 createdAt: 2025-10-16T19:28:15.324Z

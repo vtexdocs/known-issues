@@ -13,7 +13,7 @@ tag: Checkout
 slugEN: error-when-validating-mexican-corporate-document-at-checkout
 locale: es
 kiStatus: Backlog
-internalReference: 425486 
+internalReference: 425486
 ---
 
 ## Sumario

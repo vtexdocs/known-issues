@@ -1,5 +1,5 @@
 ---
-title: Product search by ID fields not working for uppercase characters
+title: 'Product search by ID fields not working for uppercase characters'
 slug: product-search-by-id-fields-not-working-for-uppercase-characters
 status: PUBLISHED
 createdAt: 2025-10-16T20:45:12.372Z

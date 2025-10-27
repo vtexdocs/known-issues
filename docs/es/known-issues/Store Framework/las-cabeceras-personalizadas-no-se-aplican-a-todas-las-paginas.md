@@ -1,5 +1,5 @@
 ---
-title: Las cabeceras personalizadas no se aplican a todas las páginas
+title: 'Las cabeceras personalizadas no se aplican a todas las páginas'
 slug: las-cabeceras-personalizadas-no-se-aplican-a-todas-las-paginas
 status: PUBLISHED
 createdAt: 2025-10-16T20:33:30.721Z

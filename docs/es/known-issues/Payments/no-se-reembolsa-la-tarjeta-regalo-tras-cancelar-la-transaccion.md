@@ -1,5 +1,5 @@
 ---
-title: No se reembolsa la tarjeta regalo tras cancelar la transacción
+title: 'No se reembolsa la tarjeta regalo tras cancelar la transacción'
 slug: no-se-reembolsa-la-tarjeta-regalo-tras-cancelar-la-transaccion
 status: PUBLISHED
 createdAt: 2025-08-12T18:51:12.534Z

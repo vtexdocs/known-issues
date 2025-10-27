@@ -1,5 +1,5 @@
 ---
-title: Los almacenes excluidos siguen devolviendo la disponibilidad de existencias en la simulación y la API de disponibilidad
+title: 'Los almacenes excluidos siguen devolviendo la disponibilidad de existencias en la simulación y la API de disponibilidad'
 slug: los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-existencias-en-la-simulacion-y-la-api-de-disponibilidad
 status: PUBLISHED
 createdAt: 2025-10-16T19:29:52.175Z

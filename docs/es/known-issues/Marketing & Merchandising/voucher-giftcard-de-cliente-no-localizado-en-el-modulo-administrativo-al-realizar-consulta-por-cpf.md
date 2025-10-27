@@ -13,7 +13,7 @@ tag: Portal (CMS),Payments
 slugEN: customer-giftcard-not-located-in-the-administrative-module-when-performing--cpf-query
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

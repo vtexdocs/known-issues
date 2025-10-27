@@ -1,5 +1,5 @@
 ---
-title: Los banners eliminados pueden seguir recuperándose en la ruta Banners de la API IS
+title: 'Los banners eliminados pueden seguir recuperándose en la ruta Banners de la API IS'
 slug: los-banners-eliminados-pueden-seguir-recuperandose-en-la-ruta-banners-de-la-api-is
 status: PUBLISHED
 createdAt: 2025-09-22T14:07:35.814Z

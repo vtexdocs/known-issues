@@ -1,5 +1,5 @@
 ---
-title: Faststore está enviando eventos de búsqueda en páginas de colecciones con el ID de la colección a los informes de IS
+title: 'Faststore está enviando eventos de búsqueda en páginas de colecciones con el ID de la colección a los informes de IS'
 slug: faststore-esta-enviando-eventos-de-busqueda-en-paginas-de-colecciones-con-el-id-de-la-coleccion-a-los-informes-de-is
 status: PUBLISHED
 createdAt: 2025-10-16T20:28:37.221Z

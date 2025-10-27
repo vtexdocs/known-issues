@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: error-on-accessing-system-settings-page
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

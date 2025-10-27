@@ -1,5 +1,5 @@
 ---
-title: "Cluster's indexes that exceed the limit of fields cause documents to fail to be indexed."
+title: 'Cluster''s indexes that exceed the limit of fields cause documents to fail to be indexed.'
 id: 6NPe2vm2ay5BMqvAr1P4zd
 status: PUBLISHED
 createdAt: 2024-08-08T14:12:00.560Z

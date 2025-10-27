@@ -1,5 +1,5 @@
 ---
-title: La caja muestra métodos de pago sin opciones de pago a plazos elegibles
+title: 'La caja muestra métodos de pago sin opciones de pago a plazos elegibles'
 slug: la-caja-muestra-metodos-de-pago-sin-opciones-de-pago-a-plazos-elegibles
 status: PUBLISHED
 createdAt: 2025-10-08T23:17:41.509Z

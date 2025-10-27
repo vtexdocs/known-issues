@@ -1,5 +1,5 @@
 ---
-title: Incoherencia en la selección de las condiciones comerciales
+title: 'Incoherencia en la selección de las condiciones comerciales'
 slug: incoherencia-en-la-seleccion-de-las-condiciones-comerciales
 status: PUBLISHED
 createdAt: 2025-10-16T20:47:16.150Z

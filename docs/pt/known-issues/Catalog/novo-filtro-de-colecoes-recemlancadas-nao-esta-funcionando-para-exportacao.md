@@ -1,5 +1,5 @@
 ---
-title: "Novo filtro de coleções 'Recém-lançadas' não está funcionando para Exportação"
+title: 'Novo filtro de coleções ''Recém-lançadas'' não está funcionando para Exportação'
 id: 7n6JZhsHxN8k27DUHOhgYg
 status: PUBLISHED
 createdAt: 2022-05-11T13:58:31.689Z

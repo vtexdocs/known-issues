@@ -1,5 +1,5 @@
 ---
-title: Fallo en la actualización del estado de las solicitudes de organizaciones
+title: 'Fallo en la actualización del estado de las solicitudes de organizaciones'
 slug: fallo-en-la-actualizacion-del-estado-de-las-solicitudes-de-organizaciones
 status: PUBLISHED
 createdAt: 2025-10-14T13:31:35.212Z

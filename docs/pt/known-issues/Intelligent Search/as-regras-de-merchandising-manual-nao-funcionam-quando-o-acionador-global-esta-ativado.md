@@ -1,5 +1,5 @@
 ---
-title: As regras de merchandising manual não funcionam quando o acionador global está ativado
+title: 'As regras de merchandising manual não funcionam quando o acionador global está ativado'
 slug: as-regras-de-merchandising-manual-nao-funcionam-quando-o-acionador-global-esta-ativado
 status: PUBLISHED
 createdAt: 2025-10-16T19:57:58.667Z

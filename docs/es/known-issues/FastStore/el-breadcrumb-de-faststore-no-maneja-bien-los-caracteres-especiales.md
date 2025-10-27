@@ -1,5 +1,5 @@
 ---
-title: El breadcrumb de Faststore no maneja bien los caracteres especiales
+title: 'El breadcrumb de Faststore no maneja bien los caracteres especiales'
 slug: el-breadcrumb-de-faststore-no-maneja-bien-los-caracteres-especiales
 status: PUBLISHED
 createdAt: 2025-10-16T20:37:41.703Z

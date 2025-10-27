@@ -1,5 +1,5 @@
 ---
-title: Comunicados/publicaciones atascados en hCMS
+title: 'Comunicados/publicaciones atascados en hCMS'
 slug: comunicadospublicaciones-atascados-en-hcms
 status: PUBLISHED
 createdAt: 2025-07-24T17:48:01.845Z

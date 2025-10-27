@@ -1,5 +1,5 @@
 ---
-title: "UI shows a pick-up was selected in cart with subscriptions but it wasn't in API"
+title: 'UI shows a pick-up was selected in cart with subscriptions but it wasn''t in API'
 id: 6WUGylIHWZtfeAm7hplYHD
 status: PUBLISHED
 createdAt: 2024-03-08T19:08:16.010Z

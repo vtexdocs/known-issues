@@ -1,5 +1,5 @@
 ---
-title: Pick-up point unselected by Checkout UI when changing SLA
+title: 'Pick-up point unselected by Checkout UI when changing SLA'
 slug: pickup-point-unselected-by-checkout-ui-when-changing-sla
 status: PUBLISHED
 createdAt: 2025-10-16T20:43:15.384Z

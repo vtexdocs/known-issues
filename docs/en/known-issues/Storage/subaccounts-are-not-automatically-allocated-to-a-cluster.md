@@ -1,5 +1,5 @@
 ---
-title: Subaccounts are not automatically allocated to a cluster
+title: 'Subaccounts are not automatically allocated to a cluster'
 slug: subaccounts-are-not-automatically-allocated-to-a-cluster
 status: PUBLISHED
 createdAt: 2025-10-16T20:52:58.547Z

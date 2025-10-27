@@ -1,5 +1,5 @@
 ---
-title: Assembly options attachments lose binding if items are available in different white-label sellers
+title: 'Assembly options attachments lose binding if items are available in different white-label sellers'
 slug: assembly-options-attachments-lose-binding-if-items-are-available-in-different-whitelabel-sellers
 status: PUBLISHED
 createdAt: 2025-10-15T21:11:12.144Z

@@ -13,7 +13,7 @@ tag: Payments
 slugEN: previous-day-transactions-appearing-when-filtering-with-todays-date
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

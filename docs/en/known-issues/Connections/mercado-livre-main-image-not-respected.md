@@ -1,5 +1,5 @@
 ---
-title: Mercado Livre Main Image not respected
+title: 'Mercado Livre Main Image not respected'
 slug: mercado-livre-main-image-not-respected
 status: PUBLISHED
 createdAt: 2025-10-06T20:35:45.107Z

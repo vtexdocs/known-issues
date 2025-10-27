@@ -1,5 +1,5 @@
 ---
-title: "Creating wrong redirects containing characters/queries that shouldn't be uploaded the upload/download of the csv through the CLI doesn't work"
+title: 'Creating wrong redirects containing characters/queries that shouldn''t be uploaded the upload/download of the csv through the CLI doesn''t work'
 id: 6ShJSvo6g8ZJFaejSo0gx3
 status: PUBLISHED
 createdAt: 2024-01-25T19:00:17.586Z

@@ -1,5 +1,5 @@
 ---
-title: Produto com "Show When Out of Stock" definido como falso retorna 200 em vez de 404
+title: 'Produto com "Show When Out of Stock" definido como falso retorna 200 em vez de 404'
 slug: produto-com-show-when-out-of-stock-definido-como-falso-retorna-200-em-vez-de-404
 status: PUBLISHED
 createdAt: 2025-10-16T20:54:08.877Z

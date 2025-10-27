@@ -1,5 +1,5 @@
 ---
-title: "Los datos del perfil se cargan vacíos en la interfaz de usuario para un perfil completo con 'ignoreProfileData'."
+title: 'Los datos del perfil se cargan vacíos en la interfaz de usuario para un perfil completo con ''ignoreProfileData''.'
 id: 10B1QKgN42sjapDEALmKOp
 status: PUBLISHED
 createdAt: 2024-04-15T11:41:06.841Z

@@ -1,5 +1,5 @@
 ---
-title: Number-type product specifications allow importing decimal values
+title: 'Number-type product specifications allow importing decimal values'
 slug: numbertype-product-specifications-allow-importing-decimal-values
 status: PUBLISHED
 createdAt: 2025-09-18T14:44:59.645Z

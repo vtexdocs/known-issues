@@ -13,7 +13,7 @@ tag: Catalog
 slugEN: after-importing-the-product-specification-worksheet-the-product-is-not-indexed
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumario

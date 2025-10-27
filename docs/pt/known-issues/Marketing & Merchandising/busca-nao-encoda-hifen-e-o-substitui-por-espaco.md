@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: search-doesnt-encode-hyphen-and-replaces-it-with-a-space
 locale: pt
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Sumário

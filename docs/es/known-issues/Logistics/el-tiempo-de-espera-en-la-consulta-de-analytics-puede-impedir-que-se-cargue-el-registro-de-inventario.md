@@ -1,5 +1,5 @@
 ---
-title: El tiempo de espera en la consulta de Analytics puede impedir que se cargue el registro de inventario
+title: 'El tiempo de espera en la consulta de Analytics puede impedir que se cargue el registro de inventario'
 slug: el-tiempo-de-espera-en-la-consulta-de-analytics-puede-impedir-que-se-cargue-el-registro-de-inventario
 status: PUBLISHED
 createdAt: 2025-10-16T20:28:50.065Z

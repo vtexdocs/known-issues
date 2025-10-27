@@ -1,5 +1,5 @@
 ---
-title: Amazon Listing Returns Code #13013 preventing SKU creation
+title: 'Amazon Listing Returns Code'
 slug: amazon-listing-returns-code-13013-preventing-sku-creation
 status: PUBLISHED
 createdAt: 2025-10-17T12:08:29.332Z

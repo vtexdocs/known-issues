@@ -1,5 +1,5 @@
 ---
-title: Problema de compatibilidad con la versión de Node
+title: 'Problema de compatibilidad con la versión de Node'
 slug: problema-de-compatibilidad-con-la-version-de-node
 status: PUBLISHED
 createdAt: 2025-10-16T19:24:30.227Z

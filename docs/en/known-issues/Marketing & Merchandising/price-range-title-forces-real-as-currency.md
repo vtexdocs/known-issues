@@ -13,7 +13,7 @@ tag: Portal (CMS)
 slugEN: price-range-title-forces-real-as-currency
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: null
 ---
 
 ## Summary

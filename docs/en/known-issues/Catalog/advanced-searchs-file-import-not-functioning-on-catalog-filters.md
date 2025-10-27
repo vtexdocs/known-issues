@@ -1,5 +1,5 @@
 ---
-title: "Advanced search's file import not functioning on catalog filters"
+title: 'Advanced search''s file import not functioning on catalog filters'
 id: KB8nLgJorL1aKtUuf8Dga
 status: PUBLISHED
 createdAt: 2024-08-23T17:56:17.370Z
