@@ -7761,6 +7761,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-summary-quantity-does-not-work-in-regionalized-stores",
+    "internalReference": 1313686
+  },
+  {
+    "locale": "en",
     "slug": "product-with-show-when-out-of-stock-set-as-false-returns-200-instead-of-404",
     "internalReference": 1233974
   },
@@ -15776,6 +15781,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-cantidad-del-resumen-del-producto-no-funciona-en-las-tiendas-regionalizadas",
+    "internalReference": 1313686
+  },
+  {
+    "locale": "es",
     "slug": "la-configuracion-bloquea-las-rutas-por-defecto-en-otros-enlaces-en-rewriter-puede-conducir-a-la-pagina-no-encontrado-despues-de-aplicar-los-filtros",
     "internalReference": 1175760
   },
@@ -23598,6 +23608,11 @@
     "locale": "pt",
     "slug": "a-posicao-na-imagem-selecionada-no-pdp-nao-e-reinicializada-ao-mudar-de-produto",
     "internalReference": 595434
+  },
+  {
+    "locale": "pt",
+    "slug": "a-quantidade-do-resumo-do-produto-nao-funciona-em-lojas-regionalizadas",
+    "internalReference": 1313686
   },
   {
     "locale": "pt",
