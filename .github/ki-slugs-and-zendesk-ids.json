@@ -6501,6 +6501,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-created-without-any-payment-get-stuck-in-canceling",
+    "internalReference": 1314444
+  },
+  {
+    "locale": "en",
     "slug": "transactions-entered-into-wrong-conditions",
     "internalReference": 392666
   },
@@ -14241,6 +14246,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-creadas-sin-ningun-pago-se-quedan-atascadas-en-cancelando",
+    "internalReference": 1314444
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-de-la-marca-de-tarjetas-de-elo-con-erederest-no-respetan-la-captura-anticipada",
     "internalReference": 350814
   },
@@ -21853,6 +21863,11 @@
     "locale": "pt",
     "slug": "as-transacoes-continuam-travadas-apesar-da-aprovacao-do-conector",
     "internalReference": 1302349
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-criadas-sem-nenhum-pagamento-ficam-presas-em-cancelamento",
+    "internalReference": 1314444
   },
   {
     "locale": "pt",
