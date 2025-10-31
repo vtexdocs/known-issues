@@ -3911,7 +3911,7 @@
   },
   {
     "locale": "en",
-    "slug": "autocomplete-suggestion-api-removes-the-dot-from-the-product-name",
+    "slug": "autocomplete-suggestion-api-removes-special-characters-from-the-product-name",
     "internalReference": 1014701
   },
   {
@@ -12141,7 +12141,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-api-de-sugerencia-de-autocompletar-elimina-el-punto-del-nombre-del-producto",
+    "slug": "la-api-de-sugerencia-de-autocompletar-elimina-los-caracteres-especiales-del-nombre-del-producto",
     "internalReference": 1014701
   },
   {
@@ -20026,7 +20026,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-de-sugestao-de-preenchimento-automatico-remove-o-ponto-do-nome-do-produto",
+    "slug": "a-api-de-sugestao-de-preenchimento-automatico-remove-caracteres-especiais-do-nome-do-produto",
     "internalReference": 1014701
   },
   {
