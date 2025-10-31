@@ -3916,6 +3916,11 @@
   },
   {
     "locale": "en",
+    "slug": "autocomplete-suggestion-api-removes-special-characters-from-the-suggested-results",
+    "internalReference": 1014701
+  },
+  {
+    "locale": "en",
     "slug": "badly-formatted-text-for-search-titles-and-breadcrumbs-in-specific-scenarios-with-merchandising-rules",
     "internalReference": 999476
   },
@@ -12141,6 +12146,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-api-de-sugerencia-de-autocompletar-elimina-los-caracteres-especiales-de-los-resultados-sugeridos",
+    "internalReference": 1014701
+  },
+  {
+    "locale": "es",
     "slug": "la-api-de-sugerencia-de-autocompletar-elimina-los-caracteres-especiales-del-nombre-del-producto",
     "internalReference": 1014701
   },
@@ -20027,6 +20037,11 @@
   {
     "locale": "pt",
     "slug": "a-api-de-sugestao-de-preenchimento-automatico-remove-caracteres-especiais-do-nome-do-produto",
+    "internalReference": 1014701
+  },
+  {
+    "locale": "pt",
+    "slug": "a-api-de-sugestao-de-preenchimento-automatico-remove-caracteres-especiais-dos-resultados-sugeridos",
     "internalReference": 1014701
   },
   {
