@@ -2,8 +2,8 @@
 title: 'As traduções do catálogo não são refletidas no front-end'
 slug: as-traducoes-do-catalogo-nao-sao-refletidas-no-frontend
 status: PUBLISHED
-createdAt: 2025-09-15T14:16:13.100Z
-updatedAt: 2025-09-15T14:16:13.100Z
+createdAt: 2025-10-31T18:49:37.054Z
+updatedAt: 2025-10-31T18:49:37.054Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -20,6 +20,7 @@ internalReference: 861892
 
 
 Quando o comerciante executa uma ação no aplicativo Messages para que alguns dados do produto sejam traduzidos no front-end, essa ação não é realmente refletida na vitrine.
+
 ## Simulação
 
 
@@ -27,13 +28,13 @@ Quando o comerciante executa uma ação no aplicativo Messages para que alguns d
 1. Faça uma alteração no aplicativo Messages;
 2. Observe no `IndexedInfo` que o campo `GenerateAndSaveTranslationsDocument` está definido como `false`;
 3. Não reindexe o produto;
-4. Verifique se a alteração não foi refletida no site traduzido
+4. Verifique se a alteração não foi refletida no site traduzido.
 ## Workaround
 
 
 Para forçar a reindexação das traduções de um produto, use a seguinte solicitação de API:
 
-    curl --request POST 'https://{accountName}.vtexcommercestable.com.br/api/notificator/changenotification/{productId}/translation' \--header 'VtexIdclientAutCookie: {VtexIdclientAutCookie}'
 
+    curl --request POST 'https://{accountName}.vtexcommercestable.com.br/api/notificator/changenotification/{productId}/translation' \--header 'VtexIdclientAutCookie: {VtexIdclientAutCookie}'
 
 
