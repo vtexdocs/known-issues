@@ -4611,6 +4611,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-strategy-stuck-in-processing-due-to-extremely-large-weightrange-combinations-logistics-shipping-spreadsheets",
+    "internalReference": 1304893
+  },
+  {
+    "locale": "en",
     "slug": "simulation-is-not-possible-find-products-from-catalog-v2-on-shipping-simulation-page",
     "internalReference": 488362
   },
@@ -12583,6 +12588,11 @@
     "locale": "es",
     "slug": "estado-erro-de-processamento-politica-de-envios",
     "internalReference": 445793
+  },
+  {
+    "locale": "es",
+    "slug": "estrategia-de-envio-atascada-en-procesamiento-debido-a-combinaciones-de-rangos-de-peso-extremadamente-grandes-hojas-de-calculo-de-envio-de-logistica",
+    "internalReference": 1304893
   },
   {
     "locale": "es",
@@ -20683,6 +20693,11 @@
     "locale": "pt",
     "slug": "erro-de-itens-reservados-de-estoque",
     "internalReference": 347924
+  },
+  {
+    "locale": "pt",
+    "slug": "estrategia-de-remessa-travada-no-processamento-devido-a-combinacoes-de-faixas-de-peso-extremamente-grandes-planilhas-de-remessa-logistica",
+    "internalReference": 1304893
   },
   {
     "locale": "pt",
