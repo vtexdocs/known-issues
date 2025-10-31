@@ -1946,6 +1946,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-allows-adding-sku-quantities-above-available-stock-when-external-seller-simulation-returns-0-as-quantity",
+    "internalReference": 1316990
+  },
+  {
+    "locale": "en",
     "slug": "checkout-allows-proceeding-to-payment-form-without-shipping-address-on-the-ui-only",
     "internalReference": 699317
   },
@@ -9958,6 +9963,11 @@
     "locale": "es",
     "slug": "checkout-permite-a-los-usuarios-saltar-al-paso-de-pago-con-un-shippingdata-vacio-cuando-se-utiliza-geolocalizacion",
     "internalReference": 343056
+  },
+  {
+    "locale": "es",
+    "slug": "checkout-permite-anadir-cantidades-de-sku-por-encima-del-stock-disponible-cuando-la-simulacion-de-vendedor-externo-devuelve-0-como-cantidad",
+    "internalReference": 1316990
   },
   {
     "locale": "es",
@@ -18683,6 +18693,11 @@
     "locale": "pt",
     "slug": "o-checkout-permite-adicionar-dois-enderecos-diferentes-para-entrega",
     "internalReference": 931225
+  },
+  {
+    "locale": "pt",
+    "slug": "o-checkout-permite-adicionar-quantidades-de-sku-acima-do-estoque-disponivel-quando-a-simulacao-do-vendedor-externo-retorna-0-como-quantidade",
+    "internalReference": 1316990
   },
   {
     "locale": "pt",
