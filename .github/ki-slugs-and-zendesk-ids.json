@@ -6561,6 +6561,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-stuck-in-canceling-and-payments-remain-in-settling",
+    "internalReference": 1317866
+  },
+  {
+    "locale": "en",
     "slug": "transactions-with-konduto-are-taking-longer-than-expected-to-update-status",
     "internalReference": 541149
   },
@@ -14316,6 +14321,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-se-atascan-en-cancelacion-y-los-pagos-permanecen-en-liquidacion",
+    "internalReference": 1317866
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-se-atascan-en-cancelando-y-los-pagos-permanecen-en-autorizado",
     "internalReference": 1309418
   },
@@ -21953,6 +21963,11 @@
     "locale": "pt",
     "slug": "as-transacoes-feitas-com-payu-nao-mudam-do-status-de-cancelamento",
     "internalReference": 338124
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-ficam-presas-em-cancelamento-e-os-pagamentos-permanecem-em-liquidacao",
+    "internalReference": 1317866
   },
   {
     "locale": "pt",
