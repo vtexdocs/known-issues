@@ -2,8 +2,8 @@
 title: 'Pérdida de referencia de desplazamiento en faststore'
 slug: perdida-de-referencia-de-desplazamiento-en-faststore
 status: PUBLISHED
-createdAt: 2025-11-03T15:11:28.233Z
-updatedAt: 2025-11-03T15:11:28.233Z
+createdAt: 2025-11-03T15:29:53.641Z
+updatedAt: 2025-11-03T15:29:53.641Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
@@ -33,6 +33,7 @@ Al acceder a un PLP en la primera página o buscar más productos, se hace clic 
 Actualice a la versión `3.91.3-dev.1` o superior.
 
 Este es un WA personalizado para el problema, por lo que puede haber inestabilidad o comportamiento inesperado dependiendo del dispositivo o navegador.
+
 
 
 
