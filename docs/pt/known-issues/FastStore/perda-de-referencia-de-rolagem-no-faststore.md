@@ -2,8 +2,8 @@
 title: 'Perda de referência de rolagem no faststore'
 slug: perda-de-referencia-de-rolagem-no-faststore
 status: PUBLISHED
-createdAt: 2025-11-03T15:11:21.655Z
-updatedAt: 2025-11-03T15:11:21.655Z
+createdAt: 2025-11-03T15:29:47.771Z
+updatedAt: 2025-11-03T15:29:47.771Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
@@ -30,6 +30,7 @@ Ao acessar um PLP na primeira página ou pesquisar mais produtos, clique em um p
 Atualize para a versão `3.91.3-dev.1` ou superior.
 
 Esse é um WA personalizado para o problema, portanto, pode haver instabilidade ou comportamento inesperado, dependendo do dispositivo ou do navegador.
+
 
 
 
