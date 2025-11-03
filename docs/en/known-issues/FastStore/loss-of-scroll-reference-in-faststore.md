@@ -2,8 +2,8 @@
 title: 'Loss of scroll reference in faststore'
 slug: loss-of-scroll-reference-in-faststore
 status: PUBLISHED
-createdAt: 2025-11-03T15:11:24.934Z
-updatedAt: 2025-11-03T15:11:24.934Z
+createdAt: 2025-11-03T15:29:50.587Z
+updatedAt: 2025-11-03T15:29:50.587Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
@@ -32,6 +32,7 @@ When accessing a PLP on the first page or searching for more products, click on 
 Update to version `3.91.3-dev.1 `or higher.
 
 This is a customized WA for the issue, so there may be instability or unexpected behavior depending on the device or browser.
+
 
 
 
