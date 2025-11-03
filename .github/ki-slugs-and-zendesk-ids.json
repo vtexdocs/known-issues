@@ -7031,6 +7031,11 @@
   },
   {
     "locale": "en",
+    "slug": "category-hierarchy-not-displayed-in-new-regular-promotion-form",
+    "internalReference": 1317779
+  },
+  {
+    "locale": "en",
     "slug": "checkbox-for-apply-discount-only-with-selected-carrier-does-not-persist-in-ui",
     "internalReference": 1085241
   },
@@ -15311,6 +15316,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-jerarquia-de-categorias-no-se-muestra-en-el-nuevo-formulario-de-promocion-regular",
+    "internalReference": 1317779
+  },
+  {
+    "locale": "es",
     "slug": "la-modificacion-de-los-precios-a-traves-de-la-ruta-de-los-precios-de-los-puestos-de-compatibilidad-esta-perdiendo-datos",
     "internalReference": 487698
   },
@@ -23228,6 +23238,11 @@
     "locale": "pt",
     "slug": "a-exportacao-de-tabelas-de-precos-falha-devido-ao-estrangulamento-da-api-do-catalogo",
     "internalReference": 1081437
+  },
+  {
+    "locale": "pt",
+    "slug": "a-hierarquia-de-categorias-nao-e-exibida-no-novo-formulario-de-promocao-regular",
+    "internalReference": 1317779
   },
   {
     "locale": "pt",
