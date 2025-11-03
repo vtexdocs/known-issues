@@ -3726,6 +3726,11 @@
   },
   {
     "locale": "en",
+    "slug": "loss-of-scroll-reference-in-faststore",
+    "internalReference": 1317630
+  },
+  {
+    "locale": "en",
     "slug": "native-sitemap-is-not-fully-integrated-with-faststore",
     "internalReference": 1220872
   },
@@ -11856,6 +11861,11 @@
   },
   {
     "locale": "es",
+    "slug": "perdida-de-referencia-de-desplazamiento-en-faststore",
+    "internalReference": 1317630
+  },
+  {
+    "locale": "es",
     "slug": "redirecciones-para-los-enlaces-de-previsualizacion-cuando-se-utiliza-en-la-parte-final-de-la-url",
     "internalReference": 927041
   },
@@ -19953,6 +19963,11 @@
     "locale": "pt",
     "slug": "os-scripts-gtm-nao-estao-sendo-carregados-nos-scripts-nativos-de-terceiros",
     "internalReference": 1086165
+  },
+  {
+    "locale": "pt",
+    "slug": "perda-de-referencia-de-rolagem-no-faststore",
+    "internalReference": 1317630
   },
   {
     "locale": "pt",
