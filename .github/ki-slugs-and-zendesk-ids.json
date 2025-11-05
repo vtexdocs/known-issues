@@ -21476,6 +21476,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-pedido-com-itens-de-modificacao-nao-pode-ser-faturado-com-referencia-aos-itens",
+    "internalReference": 784171
+  },
+  {
+    "locale": "pt",
     "slug": "o-pedido-com-juros-tem-problemas-ao-tentar-devolver-todos-os-itens-e-reembolsar-o-pagamento-total",
     "internalReference": 376077
   },
@@ -21623,11 +21628,6 @@
     "locale": "pt",
     "slug": "pedido-sem-assinatura-criado-e-sem-email-de-novos-pedidos-em-casos-relacionados-ao-metodo-de-pagamento-usando-conectadores-como-payment-app-ou-redi",
     "internalReference": 529143
-  },
-  {
-    "locale": "pt",
-    "slug": "pedidos-com-itens-de-modificacao-nao-podem-ser-faturados-com-referencia-aos-itens",
-    "internalReference": 784171
   },
   {
     "locale": "pt",
