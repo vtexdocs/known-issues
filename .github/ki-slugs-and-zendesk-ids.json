@@ -6491,6 +6491,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-stuck-in-approved-while-payment-remains-settling-when-using-partial-settlements",
+    "internalReference": 1319395
+  },
+  {
+    "locale": "en",
     "slug": "transaction-stuck-in-authorized-or-pending-authorization-status-after-being-approved",
     "internalReference": 1037765
   },
@@ -14651,6 +14656,11 @@
   },
   {
     "locale": "es",
+    "slug": "transaccion-atascada-en-aprobado-mientras-el-pago-permanece-liquidando-cuando-se-utilizan-liquidaciones-parciales",
+    "internalReference": 1319395
+  },
+  {
+    "locale": "es",
     "slug": "transaccion-atascada-en-un-estado-anterior-al-que-deberia-estar",
     "internalReference": 1037765
   },
@@ -22793,6 +22803,11 @@
     "locale": "pt",
     "slug": "transacao-nao-relacionada-retornada-quando-se-usa-o-numero-sequencial-para-buscar-uma-transacao-na-interface-administrativa",
     "internalReference": 503446
+  },
+  {
+    "locale": "pt",
+    "slug": "transacao-presa-em-aprovado-enquanto-o-pagamento-permanece-liquidado-ao-usar-liquidacoes-parciais",
+    "internalReference": 1319395
   },
   {
     "locale": "pt",
