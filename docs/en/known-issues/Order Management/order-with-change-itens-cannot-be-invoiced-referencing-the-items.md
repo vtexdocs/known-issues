@@ -1,11 +1,9 @@
 ---
 title: 'Order with change itens cannot be invoiced referencing the items'
-id: 1g1t65544sXbvfY62dAS1n
+slug: order-with-change-itens-cannot-be-invoiced-referencing-the-items
 status: PUBLISHED
-createdAt: 2023-04-04T15:06:49.163Z
-updatedAt: 2023-04-04T15:07:03.429Z
-publishedAt: 2023-04-04T15:07:03.429Z
-firstPublishedAt: 2023-04-04T15:06:49.853Z
+createdAt: 2025-11-05T12:13:02.108Z
+updatedAt: 2025-11-05T12:13:02.108Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -26,9 +24,7 @@ however, due to the way the change flow acts on the order json, even though the 
 And for this reason the UI returns a message preventing the user from continuing with this invoice flow;
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 1 - Have an order in "Handling shipment" status and select "Change item";
@@ -39,14 +35,10 @@ And for this reason the UI returns a message preventing the user from continuing
 
 
 
-##
-
-## Workaround
+#### Workaround
 
 
-
-Send the invoice via API or send the invoice without referencing the items.
-
-
+** **
+No workaround.
 
 
