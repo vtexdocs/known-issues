@@ -7921,6 +7921,11 @@
   },
   {
     "locale": "en",
+    "slug": "some-custom-pages-are-not-returning-in-custom-routes-api-causing-missing-entries-in-the-sitemap",
+    "internalReference": 1319581
+  },
+  {
+    "locale": "en",
     "slug": "some-functions-of-the-sticky-layout-component-wont-work-as-expected-when-viewed-through-safari-browser",
     "internalReference": 868535
   },
@@ -15608,6 +15613,11 @@
     "locale": "es",
     "slug": "algunas-funciones-del-componente-de-diseno-adhesivo-no-funcionaran-como-se-espera-cuando-se-visualicen-a-traves-del-navegador-safari",
     "internalReference": 868535
+  },
+  {
+    "locale": "es",
+    "slug": "algunas-paginas-personalizadas-no-aparecen-en-la-api-de-rutas-personalizadas-por-lo-que-faltan-entradas-en-el-mapa-del-sitio",
+    "internalReference": 1319581
   },
   {
     "locale": "es",
@@ -23768,6 +23778,11 @@
     "locale": "pt",
     "slug": "algumas-funcoes-do-componente-sticky-layout-nao-funcionarao-como-esperado-quando-visualizadas-no-navegador-safari",
     "internalReference": 868535
+  },
+  {
+    "locale": "pt",
+    "slug": "algumas-paginas-personalizadas-nao-estao-retornando-na-api-de-rotas-personalizadas-causando-a-falta-de-entradas-no-mapa-do-site",
+    "internalReference": 1319581
   },
   {
     "locale": "pt",
