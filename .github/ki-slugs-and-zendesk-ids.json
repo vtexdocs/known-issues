@@ -7456,6 +7456,11 @@
   },
   {
     "locale": "en",
+    "slug": "sitemap-returns-error-fetching-sitemap-data",
+    "internalReference": 1319643
+  },
+  {
+    "locale": "en",
     "slug": "some-unexpected-behavior-in-masterdata",
     "internalReference": 669048
   },
@@ -15493,6 +15498,11 @@
     "locale": "es",
     "slug": "el-filtro-booleano-en-la-aplicacion-de-formularios-no-funciona-correctamente",
     "internalReference": 918537
+  },
+  {
+    "locale": "es",
+    "slug": "el-mapa-del-sitio-devuelve-error-al-obtener-los-datos-del-mapa-del-sitio",
+    "internalReference": 1319643
   },
   {
     "locale": "es",
@@ -23683,6 +23693,11 @@
     "locale": "pt",
     "slug": "o-mdv2-retorna-o-erro-504-gateway-timeout-quando-tentamos-atualizar-um-documento-passando-um-simbolo-ou-caractere-especial",
     "internalReference": 852966
+  },
+  {
+    "locale": "pt",
+    "slug": "o-sitemap-retorna-error-fetching-sitemap-data-erro-ao-buscar-dados-do-mapa-do-site",
+    "internalReference": 1319643
   },
   {
     "locale": "pt",
