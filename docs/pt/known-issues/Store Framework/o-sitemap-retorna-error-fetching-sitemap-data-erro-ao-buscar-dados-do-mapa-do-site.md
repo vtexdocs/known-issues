@@ -2,8 +2,8 @@
 title: 'O Sitemap retorna "Error fetching sitemap data" (Erro ao buscar dados do mapa do site)'
 slug: o-sitemap-retorna-error-fetching-sitemap-data-erro-ao-buscar-dados-do-mapa-do-site
 status: PUBLISHED
-createdAt: 2025-11-06T20:14:21.453Z
-updatedAt: 2025-11-06T20:14:21.453Z
+createdAt: 2025-11-06T20:20:17.708Z
+updatedAt: 2025-11-06T20:20:17.708Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
