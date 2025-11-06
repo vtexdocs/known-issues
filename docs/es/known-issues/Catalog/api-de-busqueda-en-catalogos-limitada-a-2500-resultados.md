@@ -2,8 +2,8 @@
 title: 'API de búsqueda en catálogos limitada a 2.500 resultados'
 slug: api-de-busqueda-en-catalogos-limitada-a-2500-resultados
 status: PUBLISHED
-createdAt: 2025-11-06T13:44:18.377Z
-updatedAt: 2025-11-06T13:44:18.377Z
+createdAt: 2025-11-06T13:45:59.829Z
+updatedAt: 2025-11-06T13:45:59.829Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
