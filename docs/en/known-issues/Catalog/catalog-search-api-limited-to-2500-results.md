@@ -2,8 +2,8 @@
 title: 'Catalog Search API limited to 2500 results'
 slug: catalog-search-api-limited-to-2500-results
 status: PUBLISHED
-createdAt: 2025-11-06T13:44:15.191Z
-updatedAt: 2025-11-06T13:44:15.191Z
+createdAt: 2025-11-06T13:45:56.133Z
+updatedAt: 2025-11-06T13:45:56.133Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
