@@ -2526,6 +2526,11 @@
   },
   {
     "locale": "en",
+    "slug": "payment-amount-mismatch-error-after-switching-installments-with-recaptcha-v2-in-checkout",
+    "internalReference": 1320840
+  },
+  {
+    "locale": "en",
     "slug": "paymentsystems-are-not-returned-in-orderform-when-a-cart-price-comes-exclusively-from-manualprice",
     "internalReference": 1025321
   },
@@ -10303,6 +10308,11 @@
     "locale": "es",
     "slug": "error-al-cambiar-el-tipo-de-entrega-cuando-el-vendedor-tiene-recursividad",
     "internalReference": 597915
+  },
+  {
+    "locale": "es",
+    "slug": "error-de-discordancia-en-el-importe-del-pago-tras-cambiar-los-plazos-con-recaptcha-v2-en-checkout",
+    "internalReference": 1320840
   },
   {
     "locale": "es",
@@ -18538,6 +18548,11 @@
     "locale": "pt",
     "slug": "erro-ao-mudar-o-tipo-de-entrega-quando-o-vendedor-tem-recorrencia",
     "internalReference": 597915
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-de-incompatibilidade-do-valor-do-pagamento-apos-a-troca-de-parcelas-com-o-recaptcha-v2-no-checkout",
+    "internalReference": 1320840
   },
   {
     "locale": "pt",
