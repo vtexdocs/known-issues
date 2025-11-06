@@ -2,8 +2,8 @@
 title: 'Sitemap returns "Error fetching sitemap data"'
 slug: sitemap-returns-error-fetching-sitemap-data
 status: PUBLISHED
-createdAt: 2025-11-06T20:14:25.874Z
-updatedAt: 2025-11-06T20:14:25.874Z
+createdAt: 2025-11-06T20:20:20.933Z
+updatedAt: 2025-11-06T20:20:20.933Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
