@@ -2,8 +2,8 @@
 title: 'El mapa del sitio devuelve "Error al obtener los datos del mapa del sitio".'
 slug: el-mapa-del-sitio-devuelve-error-al-obtener-los-datos-del-mapa-del-sitio
 status: PUBLISHED
-createdAt: 2025-11-06T20:14:29.392Z
-updatedAt: 2025-11-06T20:14:29.392Z
+createdAt: 2025-11-06T20:20:23.547Z
+updatedAt: 2025-11-06T20:20:23.547Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
