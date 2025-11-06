@@ -7911,6 +7911,11 @@
   },
   {
     "locale": "en",
+    "slug": "sitemap-returns-error-fetching-sitemap-data",
+    "internalReference": 1319643
+  },
+  {
+    "locale": "en",
     "slug": "sku-selector-display-mode-select-not-working-in-shelfs",
     "internalReference": 682152
   },
@@ -15753,6 +15758,11 @@
     "locale": "es",
     "slug": "el-evento-viewcart-solo-se-recibe-en-el-datalayer-cada-dos-por-tres",
     "internalReference": 1048306
+  },
+  {
+    "locale": "es",
+    "slug": "el-mapa-del-sitio-devuelve-error-al-obtener-los-datos-del-mapa-del-sitio",
+    "internalReference": 1319643
   },
   {
     "locale": "es",
@@ -24128,6 +24138,11 @@
     "locale": "pt",
     "slug": "o-sitemap-nao-esta-sendo-geradoatualizado",
     "internalReference": 827104
+  },
+  {
+    "locale": "pt",
+    "slug": "o-sitemap-retorna-error-fetching-sitemap-data-erro-ao-buscar-dados-do-mapa-do-site",
+    "internalReference": 1319643
   },
   {
     "locale": "pt",
