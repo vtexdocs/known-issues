@@ -19516,6 +19516,11 @@
   },
   {
     "locale": "pt",
+    "slug": "impressao-de-etiquetas-meli-oms",
+    "internalReference": 546542
+  },
+  {
+    "locale": "pt",
     "slug": "impressao-do-rotulo-meli-oms",
     "internalReference": 546542
   },
