@@ -2,8 +2,8 @@
 title: 'Punto de recogida no seleccionado por Checkout UI al cambiar SLA'
 slug: punto-de-recogida-no-seleccionado-por-checkout-ui-al-cambiar-sla
 status: PUBLISHED
-createdAt: 2025-10-16T20:43:17.967Z
-updatedAt: 2025-10-16T20:43:17.967Z
+createdAt: 2025-11-07T22:01:08.228Z
+updatedAt: 2025-11-07T22:01:08.228Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,14 +19,15 @@ internalReference: 1199158
 ## Sumario
 
 
-En un carro de recogida con dos artículos de vendedores habituales diferentes, la interfaz de usuario de la caja deselecciona uno de los puntos de recogida al cambiar el ANS seleccionado para un artículo.
+Considere un carro con dos o más artículos de diferentes vendedores habituales, digamos, el vendedor A y el vendedor B. Si las opciones de recogida ya estaban seleccionadas como los ANS para satisfacer estos artículos, al cambiar la opción de recogida seleccionada para los artículos de uno de los vendedores (digamos, el vendedor A) utilizando el módulo Punto de recogida, la interfaz de usuario de pago deselecciona la opción de recogida seleccionada para los artículos del otro vendedor (digamos, el vendedor B).
+
+Cuando esto ocurre, la interfaz de usuario envía `logisticsInfo[].selectedSla` como `null` para los artículos del vendedor B en la solicitud `/shippingData` y el valor de `logisticsInfo[].selectedSla` de estos artículos en el formulario de pedido cambia por defecto a uno de entrega.
+
+## Simulación
 
 
-#### Simulación
 
-
-
-- Añadir dos artículos de 2 vendedores diferentes al carro;
+- Añadir dos artículos de 2 vendedores diferentes al carrito;
 - Cambiar al punto de recogida;
 - Cambiar el ANS seleccionado para uno de los artículos.
 
