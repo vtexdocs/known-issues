@@ -2,8 +2,8 @@
 title: 'Ponto de coleta não selecionado pela interface do usuário do checkout ao alterar o SLA'
 slug: ponto-de-coleta-nao-selecionado-pela-interface-do-usuario-do-checkout-ao-alterar-o-sla
 status: PUBLISHED
-createdAt: 2025-10-16T20:43:12.394Z
-updatedAt: 2025-10-16T20:43:12.394Z
+createdAt: 2025-11-07T22:01:00.862Z
+updatedAt: 2025-11-07T22:01:00.862Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,12 +19,14 @@ internalReference: 1199158
 ## Sumário
 
 
-Em um carrinho de retirada com dois itens de vendedores regulares diferentes, a interface do usuário do checkout desmarca um dos pontos de retirada ao alterar o SLA selecionado para um item.
+Considere um carrinho com dois ou mais itens de diferentes vendedores regulares, digamos, vendedor A e vendedor B. Se as opções de retirada já tiverem sido selecionadas como SLAs para atender a esses itens, ao alterar a opção de retirada selecionada para os itens de um dos vendedores (digamos, vendedor A) usando o Modal Pickup Point, a UI de checkout desmarca a opção de retirada selecionada para os itens do outro vendedor (digamos, vendedor B).
+
+Quando isso acontece, a interface do usuário envia `logisticsInfo[].selectedSla` como `null` para os itens do vendedor B na solicitação `/shippingData` e o `logisticsInfo[].selectedSla` desses itens no formulário de pedido tem como padrão a entrega.
 ## Simulação
 
 
 
-- Adicione dois itens de 2 vendedores diferentes ao carrinho;
+- Adicione dois itens de dois vendedores diferentes ao carrinho;
 - Alterar o ponto de coleta;
 - Alterar o SLA selecionado para um dos itens
 ## Workaround
