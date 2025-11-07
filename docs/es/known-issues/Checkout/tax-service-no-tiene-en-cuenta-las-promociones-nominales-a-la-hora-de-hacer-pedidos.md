@@ -2,8 +2,8 @@
 title: 'Tax Service no tiene en cuenta las promociones nominales a la hora de hacer pedidos'
 slug: tax-service-no-tiene-en-cuenta-las-promociones-nominales-a-la-hora-de-hacer-pedidos
 status: PUBLISHED
-createdAt: 2025-11-07T21:29:03.520Z
-updatedAt: 2025-11-07T21:29:03.520Z
+createdAt: 2025-11-07T21:43:34.630Z
+updatedAt: 2025-11-07T21:43:34.630Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
