@@ -2,8 +2,8 @@
 title: "Tax Service doesn't consider nominal promotions when placing orders"
 slug: tax-service-doesnt-consider-nominal-promotions-when-placing-orders
 status: PUBLISHED
-createdAt: 2025-11-07T21:28:59.758Z
-updatedAt: 2025-11-07T21:28:59.758Z
+createdAt: 2025-11-07T21:43:30.796Z
+updatedAt: 2025-11-07T21:43:30.796Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
