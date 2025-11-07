@@ -2,8 +2,8 @@
 title: "Tax Service doesn't apply free shipping promotions with promotion that splits items"
 slug: tax-service-doesnt-apply-free-shipping-promotions-with-promotion-that-splits-items
 status: PUBLISHED
-createdAt: 2025-11-07T21:32:13.799Z
-updatedAt: 2025-11-07T21:32:13.799Z
+createdAt: 2025-11-07T21:44:04.694Z
+updatedAt: 2025-11-07T21:44:04.694Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
