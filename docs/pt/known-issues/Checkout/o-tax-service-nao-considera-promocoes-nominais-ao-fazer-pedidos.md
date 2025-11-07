@@ -2,8 +2,8 @@
 title: 'O Tax Service não considera promoções nominais ao fazer pedidos'
 slug: o-tax-service-nao-considera-promocoes-nominais-ao-fazer-pedidos
 status: PUBLISHED
-createdAt: 2025-11-07T21:28:56.320Z
-updatedAt: 2025-11-07T21:28:56.320Z
+createdAt: 2025-11-07T21:43:27.894Z
+updatedAt: 2025-11-07T21:43:27.894Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
