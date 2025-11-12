@@ -3181,6 +3181,11 @@
   },
   {
     "locale": "en",
+    "slug": "dafiti-tracking-update-fails-crossdocking-orders-due-to-delivery-type-conflict",
+    "internalReference": 1323882
+  },
+  {
+    "locale": "en",
     "slug": "deliverycontracttype-problem-b2w",
     "internalReference": 605908
   },
@@ -11248,6 +11253,11 @@
     "locale": "es",
     "slug": "dafiti-imagenes-de-calidad-de-dafiti",
     "internalReference": 675317
+  },
+  {
+    "locale": "es",
+    "slug": "dafiti-la-actualizacion-del-seguimiento-falla-en-los-pedidos-crossdocking-debido-a-un-conflicto-de-tipo-de-entrega",
+    "internalReference": 1323882
   },
   {
     "locale": "es",
@@ -19433,6 +19443,11 @@
     "locale": "pt",
     "slug": "cotacao-de-frete-meli-para-multiplos-officialstoreids",
     "internalReference": 978358
+  },
+  {
+    "locale": "pt",
+    "slug": "dafiti-a-atualizacao-do-rastreamento-falha-nos-pedidos-de-crossdocking-devido-a-um-conflito-de-tipo-de-entrega",
+    "internalReference": 1323882
   },
   {
     "locale": "pt",
