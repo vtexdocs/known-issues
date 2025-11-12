@@ -2,8 +2,8 @@
 title: 'Dafiti Tracking update fails Crossdocking orders due to delivery type conflict'
 slug: dafiti-tracking-update-fails-crossdocking-orders-due-to-delivery-type-conflict
 status: PUBLISHED
-createdAt: 2025-11-12T17:34:45.621Z
-updatedAt: 2025-11-12T17:34:45.621Z
+createdAt: 2025-11-12T17:38:36.687Z
+updatedAt: 2025-11-12T17:38:36.687Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -35,7 +35,6 @@ When attempting to update the tracking information for these orders, Dafiti retu
 
 
 N/A
-
 
 
 
