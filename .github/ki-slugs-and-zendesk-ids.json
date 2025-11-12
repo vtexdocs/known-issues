@@ -6216,6 +6216,11 @@
   },
   {
     "locale": "en",
+    "slug": "payment-created-without-connector-leads-to-canceled-transaction",
+    "internalReference": 1323547
+  },
+  {
+    "locale": "en",
     "slug": "payment-methods-displayed-at-checkout-differ-from-active-payment-conditions",
     "internalReference": 666469
   },
@@ -13873,6 +13878,11 @@
     "locale": "es",
     "slug": "el-pago-cancela-la-transaccion-despues-de-la-creacion",
     "internalReference": 1157809
+  },
+  {
+    "locale": "es",
+    "slug": "el-pago-creado-sin-conector-provoca-la-cancelacion-de-la-transaccion",
+    "internalReference": 1323547
   },
   {
     "locale": "es",
@@ -22583,6 +22593,11 @@
     "locale": "pt",
     "slug": "o-link-para-o-pedido-na-pagina-do-cartaopresente-leva-a-uma-pagina-inexistente-404",
     "internalReference": 1196298
+  },
+  {
+    "locale": "pt",
+    "slug": "o-pagamento-criado-sem-conector-leva-ao-cancelamento-da-transacao",
+    "internalReference": 1323547
   },
   {
     "locale": "pt",
