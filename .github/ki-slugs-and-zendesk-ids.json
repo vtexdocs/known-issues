@@ -3571,6 +3571,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
+    "internalReference": 1323634
+  },
+  {
+    "locale": "en",
     "slug": "shopee-cannot-update-price-because-the-product-has-shopeeexclusive-promotions",
     "internalReference": 1294478
   },
@@ -11688,6 +11693,11 @@
     "locale": "es",
     "slug": "revista-luiza-pedidos-pendientes-de-autorizacion-de-envio-aunque-esten-aprobados-por-marketplace",
     "internalReference": 1200833
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-atributo-de-marca-no-enviado-o-sobrescrito-durante-la-sincronizacion-del-producto",
+    "internalReference": 1323634
   },
   {
     "locale": "es",
@@ -19843,6 +19853,11 @@
     "locale": "pt",
     "slug": "selecao-de-transportadora-amazon",
     "internalReference": 1186908
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-atributo-de-marca-nao-enviado-ou-sobrescrito-durante-a-sincronizacao-do-produto",
+    "internalReference": 1323634
   },
   {
     "locale": "pt",
