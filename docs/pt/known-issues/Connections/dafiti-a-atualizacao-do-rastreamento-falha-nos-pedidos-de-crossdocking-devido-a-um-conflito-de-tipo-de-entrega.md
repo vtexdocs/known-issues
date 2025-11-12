@@ -2,8 +2,8 @@
 title: 'Dafiti A atualização do rastreamento falha nos pedidos de Crossdocking devido a um conflito de tipo de entrega'
 slug: dafiti-a-atualizacao-do-rastreamento-falha-nos-pedidos-de-crossdocking-devido-a-um-conflito-de-tipo-de-entrega
 status: PUBLISHED
-createdAt: 2025-11-12T17:34:42.395Z
-updatedAt: 2025-11-12T17:34:42.395Z
+createdAt: 2025-11-12T17:38:32.272Z
+updatedAt: 2025-11-12T17:38:32.272Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -33,7 +33,6 @@ Ao tentar atualizar as informações de rastreamento desses pedidos, a Dafiti re
 
 
 N/A
-
 
 
 
