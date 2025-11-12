@@ -2,8 +2,8 @@
 title: 'Dafiti La actualización del seguimiento falla en los pedidos Crossdocking debido a un conflicto de tipo de entrega'
 slug: dafiti-la-actualizacion-del-seguimiento-falla-en-los-pedidos-crossdocking-debido-a-un-conflicto-de-tipo-de-entrega
 status: PUBLISHED
-createdAt: 2025-11-12T17:34:49.754Z
-updatedAt: 2025-11-12T17:34:49.754Z
+createdAt: 2025-11-12T17:38:40.730Z
+updatedAt: 2025-11-12T17:38:40.730Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -36,7 +36,6 @@ Al intentar actualizar la información de seguimiento de estos pedidos, Dafiti d
 
 
 N/A
-
 
 
 
