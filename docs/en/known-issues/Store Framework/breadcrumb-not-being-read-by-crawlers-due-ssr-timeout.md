@@ -1,11 +1,9 @@
 ---
 title: 'Breadcrumb not being read by crawlers due SSR timeout'
-id: 3Xyp2JVHVvlouNrRkDEL1O
+slug: breadcrumb-not-being-read-by-crawlers-due-ssr-timeout
 status: PUBLISHED
-createdAt: 2023-01-31T15:52:59.855Z
-updatedAt: 2023-01-31T15:54:26.534Z
-publishedAt: 2023-01-31T15:54:26.534Z
-firstPublishedAt: 2023-01-31T15:53:00.864Z
+createdAt: 2025-11-14T19:39:59.175Z
+updatedAt: 2025-11-14T19:39:59.175Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -22,9 +20,7 @@ internalReference: 460999
 When first loading the breadcrumbs, the data from categories list is getting faster than the one in category tree send by the facets query, this is causing an unexpected behavior on the load time of the breadcrumb, because the categories list bring also similar categories of similar products and doesn't have all necessary information for json+ld.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -40,10 +36,7 @@ Another way to reproduce is going to https://validator.schema.org/
 and try to validate the product page, if the breadcrumb is there, there's no problem with your product, if it's not there, this is the KI
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 No
-
