@@ -2,8 +2,8 @@
 title: 'Transactions stuck in "Canceling" and payments remain in "Settling"'
 slug: transactions-stuck-in-canceling-and-payments-remain-in-settling
 status: PUBLISHED
-createdAt: 2025-11-03T17:59:19.575Z
-updatedAt: 2025-11-03T17:59:19.575Z
+createdAt: 2025-11-14T19:34:24.350Z
+updatedAt: 2025-11-14T19:34:24.350Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
