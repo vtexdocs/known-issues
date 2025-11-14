@@ -18591,11 +18591,6 @@
   },
   {
     "locale": "pt",
-    "slug": "envio-incorretodata-de-envioestimativa-para-pedido-fob",
-    "internalReference": 269104
-  },
-  {
-    "locale": "pt",
     "slug": "erro-ao-mudar-o-tipo-de-entrega-quando-o-vendedor-tem-recorrencia",
     "internalReference": 597915
   },
@@ -18886,11 +18881,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-envio-enxuto-substitui-o-metodo-de-envio-preferido-pelo-usuario-pela-opcao-mais-barata-em-diferentes-sessoesbrowsers",
-    "internalReference": 607411
-  },
-  {
-    "locale": "pt",
     "slug": "o-fluxo-de-login-do-checkout-permite-alterar-o-email-mas-nao-ha-suporte-para-o-fluxo",
     "internalReference": 258447
   },
@@ -18918,6 +18908,11 @@
     "locale": "pt",
     "slug": "o-lean-shipping-nao-e-desativado-apos-a-remocao-de-itens-do-carrinho",
     "internalReference": 916461
+  },
+  {
+    "locale": "pt",
+    "slug": "o-lean-shipping-substitui-o-metodo-de-envio-preferido-do-usuario-pela-opcao-mais-barata-em-diferentes-sessoesnavegadores",
+    "internalReference": 607411
   },
   {
     "locale": "pt",
@@ -19228,6 +19223,11 @@
     "locale": "pt",
     "slug": "seletor-de-entrega-de-previsualizacao-de-embarque-mostrando-tempo-errado-em-caso-de-multiplos-pacoteslinhas-mortas",
     "internalReference": 264441
+  },
+  {
+    "locale": "pt",
+    "slug": "shippingestimatedate-incorreto-para-o-pedido-fob",
+    "internalReference": 269104
   },
   {
     "locale": "pt",
