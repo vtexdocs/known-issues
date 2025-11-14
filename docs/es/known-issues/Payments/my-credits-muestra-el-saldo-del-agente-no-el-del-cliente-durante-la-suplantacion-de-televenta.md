@@ -2,15 +2,15 @@
 title: 'My Credits muestra el saldo del agente, no el del cliente, durante la suplantación de televenta'
 slug: my-credits-muestra-el-saldo-del-agente-no-el-del-cliente-durante-la-suplantacion-de-televenta
 status: PUBLISHED
-createdAt: 2025-10-02T12:44:59.958Z
-updatedAt: 2025-10-02T12:44:59.958Z
+createdAt: 2025-11-14T19:29:45.957Z
+updatedAt: 2025-11-14T19:29:45.957Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: my-credits-displays-agents-balance-not-customers-during-telesales-impersonation
 locale: es
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1301293
 ---
 
