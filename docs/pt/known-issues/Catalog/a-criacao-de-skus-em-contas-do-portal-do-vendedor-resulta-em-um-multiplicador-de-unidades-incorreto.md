@@ -2,8 +2,8 @@
 title: 'A criação de SKUs em contas do portal do vendedor resulta em um multiplicador de unidades incorreto'
 slug: a-criacao-de-skus-em-contas-do-portal-do-vendedor-resulta-em-um-multiplicador-de-unidades-incorreto
 status: PUBLISHED
-createdAt: 2025-10-16T20:38:58.479Z
-updatedAt: 2025-10-16T20:38:58.479Z
+createdAt: 2025-11-14T18:10:34.402Z
+updatedAt: 2025-11-14T18:10:34.402Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
