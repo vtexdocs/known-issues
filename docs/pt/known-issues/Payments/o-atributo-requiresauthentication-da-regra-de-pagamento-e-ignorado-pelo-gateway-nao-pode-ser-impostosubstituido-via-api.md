@@ -2,15 +2,15 @@
 title: 'O atributo requiresAuthentication da regra de pagamento é ignorado pelo gateway (não pode ser imposto/substituído via API)'
 slug: o-atributo-requiresauthentication-da-regra-de-pagamento-e-ignorado-pelo-gateway-nao-pode-ser-impostosubstituido-via-api
 status: PUBLISHED
-createdAt: 2025-10-02T16:23:37.263Z
-updatedAt: 2025-10-02T16:23:37.263Z
+createdAt: 2025-11-14T19:30:33.000Z
+updatedAt: 2025-11-14T19:30:33.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: payment-rule-requiresauthentication-attribute-is-ignored-by-gateway-cannot-be-enforcedoverridden-via-api
 locale: pt
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1301482
 ---
 
