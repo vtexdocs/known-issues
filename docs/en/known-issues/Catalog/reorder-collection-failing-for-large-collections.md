@@ -1,11 +1,9 @@
 ---
 title: 'Reorder Collection Failing for Large Collections'
-id: 2wZN2wFAzWNIHgBVR7yp9R
+slug: reorder-collection-failing-for-large-collections
 status: PUBLISHED
-createdAt: 2023-05-25T19:29:25.420Z
-updatedAt: 2023-05-25T19:29:25.876Z
-publishedAt: 2023-05-25T19:29:25.876Z
-firstPublishedAt: 2023-05-25T19:29:25.876Z
+createdAt: 2025-11-14T19:13:54.527Z
+updatedAt: 2025-11-14T19:13:54.527Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -22,9 +20,7 @@ internalReference: 408140
 In the new collections admin UI, when a user tries to reorder the product order display, the catalog GraphQL mutation that performs this action often fails
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 1) Check a collection in the Collection Module with 1000+ SKUs
@@ -33,14 +29,10 @@ In the new collections admin UI, when a user tries to reorder the product order 
 
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 There are no workarounds (would be creating a new collection in the correct order, but it is not a workaround by itself, just an alternative).
-
-
 
 
 
