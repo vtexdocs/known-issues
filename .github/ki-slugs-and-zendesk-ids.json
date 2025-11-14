@@ -17036,6 +17036,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-validacao-da-api-attachment-update-e-create-no-campo-domainvalues-nao-esta-funcionando",
+    "internalReference": 751091
+  },
+  {
+    "locale": "pt",
     "slug": "admin-esta-mostrando-a-extensao-da-imagem-como-jpg-mesmo-quando-a-imagem-e-png",
     "internalReference": 516269
   },
@@ -17173,11 +17178,6 @@
     "locale": "pt",
     "slug": "atualizacao-das-especificacoes-do-produto-impossivel-devido-a-falta-de-propriedade-no-get-resp-json",
     "internalReference": 301725
-  },
-  {
-    "locale": "pt",
-    "slug": "atualizacao-de-anexos-e-criacao-de-validacao-api-em-campos-de-valores-de-dominio-que-nao-funcionam",
-    "internalReference": 751091
   },
   {
     "locale": "pt",
