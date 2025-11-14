@@ -2,15 +2,15 @@
 title: 'No se reembolsa la tarjeta regalo tras cancelar la transacción'
 slug: no-se-reembolsa-la-tarjeta-regalo-tras-cancelar-la-transaccion
 status: PUBLISHED
-createdAt: 2025-08-12T18:51:12.534Z
-updatedAt: 2025-08-12T18:51:12.534Z
+createdAt: 2025-11-14T19:28:24.813Z
+updatedAt: 2025-11-14T19:28:24.813Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: giftcard-not-getting-refund-after-transaction-cancellation
 locale: es
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 491195
 ---
 
