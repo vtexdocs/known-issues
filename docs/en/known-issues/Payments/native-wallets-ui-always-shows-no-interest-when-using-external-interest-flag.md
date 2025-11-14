@@ -1,9 +1,9 @@
 ---
-title: 'Native wallets UI always shows ''no interest'' when using external interest flag'
+title: "Native wallets UI always shows 'no interest' when using external interest flag"
 slug: native-wallets-ui-always-shows-no-interest-when-using-external-interest-flag
 status: PUBLISHED
-createdAt: 2025-10-16T20:59:52.284Z
-updatedAt: 2025-10-16T20:59:52.284Z
+createdAt: 2025-11-14T19:29:57.362Z
+updatedAt: 2025-11-14T19:29:57.362Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
