@@ -2,8 +2,8 @@
 title: '"Processing" status when checking last orders page'
 slug: processing-status-when-checking-last-orders-page
 status: PUBLISHED
-createdAt: 2025-10-16T20:43:28.019Z
-updatedAt: 2025-10-16T20:43:28.019Z
+createdAt: 2025-11-14T19:35:33.340Z
+updatedAt: 2025-11-14T19:35:33.340Z
 contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
