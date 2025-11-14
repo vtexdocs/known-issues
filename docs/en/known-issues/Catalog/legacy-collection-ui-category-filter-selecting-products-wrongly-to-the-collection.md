@@ -1,18 +1,16 @@
 ---
 title: 'Legacy collection UI category filter selecting products wrongly to the collection'
-id: 1IlioZpOSQf5t4TWqZreiS
+slug: legacy-collection-ui-category-filter-selecting-products-wrongly-to-the-collection
 status: PUBLISHED
-createdAt: 2022-10-31T20:42:26.100Z
-updatedAt: 2024-02-16T20:28:22.357Z
-publishedAt: 2024-02-16T20:28:22.357Z
-firstPublishedAt: 2022-10-31T20:42:26.591Z
+createdAt: 2025-11-14T19:12:14.500Z
+updatedAt: 2025-11-14T19:12:14.500Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: legacy-collection-ui-category-filter-selecting-products-wrongly-to-the-collection
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 590934
 ---
 
@@ -22,9 +20,7 @@ internalReference: 590934
 Eventually, depending on the number of products that we have inside a category, if we select the categories filters on the legacy collection UI, it may return products that do not belong to these categories.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -33,11 +29,8 @@ Eventually, depending on the number of products that we have inside a category, 
 - The collection sometimes may have products that do not belong to this category.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 
 - On the legacy Collection UI, create a filter to remove the category from this product.
-
