@@ -7516,6 +7516,11 @@
   },
   {
     "locale": "en",
+    "slug": "ab-tester-app-shows-miscalculated-information-for-sessions-and-conversion",
+    "internalReference": 865727
+  },
+  {
+    "locale": "en",
     "slug": "addtocart-function-doesnt-work-correctly-with-attachments-and-assembly-options-components-attachment",
     "internalReference": 830495
   },
@@ -15941,6 +15946,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-aplicacion-ab-tester-muestra-informacion-erronea-sobre-sesiones-y-conversion",
+    "internalReference": 865727
+  },
+  {
+    "locale": "es",
     "slug": "la-aplicacion-de-televenta-no-funciona-correctamente-con-requiresauthenticationtoloadprofile",
     "internalReference": 797651
   },
@@ -18321,6 +18331,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-visualizacao-da-remessa-esta-exibindo-incorretamente-a-data-quando-a-entrega-esta-programada",
+    "internalReference": 743774
+  },
+  {
+    "locale": "pt",
     "slug": "a-visualizacao-da-remessa-exibe-erroneamente-os-itens-como-indisponiveis",
     "internalReference": 1194442
   },
@@ -19178,11 +19193,6 @@
     "locale": "pt",
     "slug": "previsao-de-envio-mostrando-mensagem-de-indisponibilidade-para-entrega",
     "internalReference": 1170877
-  },
-  {
-    "locale": "pt",
-    "slug": "previsualizacao-de-embarque-exibindo-erroneamente-a-data-em-que-esta-programada-a-entrega",
-    "internalReference": 743774
   },
   {
     "locale": "pt",
@@ -24048,6 +24058,11 @@
     "locale": "pt",
     "slug": "nao-considerando-a-moeda-personalizada-no-formato",
     "internalReference": 736695
+  },
+  {
+    "locale": "pt",
+    "slug": "o-aplicativo-ab-tester-mostra-informacoes-mal-calculadas-para-sessoes-e-conversao",
+    "internalReference": 865727
   },
   {
     "locale": "pt",
