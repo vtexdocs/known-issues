@@ -2,15 +2,15 @@
 title: 'O Giftcard não está sendo reembolsado após o cancelamento da transação'
 slug: o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao
 status: PUBLISHED
-createdAt: 2025-08-12T18:51:03.769Z
-updatedAt: 2025-08-12T18:51:03.769Z
+createdAt: 2025-11-14T19:28:19.364Z
+updatedAt: 2025-11-14T19:28:19.364Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: giftcard-not-getting-refund-after-transaction-cancellation
 locale: pt
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 491195
 ---
 
