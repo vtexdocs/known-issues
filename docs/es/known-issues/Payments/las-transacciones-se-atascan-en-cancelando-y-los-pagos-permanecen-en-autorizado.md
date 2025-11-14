@@ -2,8 +2,8 @@
 title: 'Las transacciones se atascan en "Cancelando" y los pagos permanecen en "Autorizado".'
 slug: las-transacciones-se-atascan-en-cancelando-y-los-pagos-permanecen-en-autorizado
 status: PUBLISHED
-createdAt: 2025-10-17T12:43:23.155Z
-updatedAt: 2025-10-17T12:43:23.155Z
+createdAt: 2025-11-14T19:34:13.556Z
+updatedAt: 2025-11-14T19:34:13.556Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
