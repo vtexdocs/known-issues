@@ -2,8 +2,8 @@
 title: 'As coleções criadas pela API e os produtos inseridos pela API Insert SKU by File não estão funcionando corretamente'
 slug: as-colecoes-criadas-pela-api-e-os-produtos-inseridos-pela-api-insert-sku-by-file-nao-estao-funcionando-corretamente
 status: PUBLISHED
-createdAt: 2025-10-16T19:52:57.896Z
-updatedAt: 2025-10-16T19:52:57.896Z
+createdAt: 2025-11-14T18:09:54.785Z
+updatedAt: 2025-11-14T18:09:54.785Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -27,7 +27,7 @@ O problema acontece toda vez que criamos uma coleção por API e tentamos usar e
 
 - Crie uma coleção usando a API:
 
-    curl --location -g --request POST 'https://.vtexcommercestable.com.br/api/catalog/pvt/collection?an=' \--header 'Content-Type: application/json' \--header 'Accept: application/json' \--header 'x-vtex-api-appKey: vtexappkey-appvtex' \--header 'x-vtex-api-appToken: ' \--data-raw '{ "Name": "testando", "Pesquisável": false, "Destaque": false, "DateFrom": "2017-09-27T10:47:00", "DateTo": "2027-09-27T10:47:00"}'
+    curl --location -g --request POST 'https://.vtexcommercestable.com.br/api/catalog/pvt/collection?an=' \--header 'Content-Type: application/json' \--header 'Accept: application/json' \--header 'x-vtex-api-appKey: vtexappkey-appvtex' \--header 'x-vtex-api-appToken: ' \--data-raw '{ "Name": "testando", "Pesquisável": falso, "Destaque": falso, "DateFrom": "2017-09-27T10:47:00", "DateTo": "2027-09-27T10:47:00"}'
 
 
 - Adicione produtos a essa coleção com a API Import Insert:
