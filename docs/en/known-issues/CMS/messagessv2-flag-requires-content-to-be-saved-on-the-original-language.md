@@ -2,15 +2,15 @@
 title: 'MessagessV2 flag requires content to be saved on the original language'
 slug: messagessv2-flag-requires-content-to-be-saved-on-the-original-language
 status: PUBLISHED
-createdAt: 2025-07-24T18:19:38.091Z
-updatedAt: 2025-07-24T18:19:38.091Z
+createdAt: 2025-11-14T17:13:26.352Z
+updatedAt: 2025-11-14T17:13:26.352Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slugEN: messagessv2-flag-requires-content-to-be-saved-on-the-original-language
 locale: en
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1260018
 ---
 
