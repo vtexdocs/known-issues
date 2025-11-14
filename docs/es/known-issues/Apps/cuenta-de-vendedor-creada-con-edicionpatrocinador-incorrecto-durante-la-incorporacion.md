@@ -2,8 +2,8 @@
 title: 'Cuenta de vendedor creada con edición/patrocinador incorrecto durante la incorporación'
 slug: cuenta-de-vendedor-creada-con-edicionpatrocinador-incorrecto-durante-la-incorporacion
 status: PUBLISHED
-createdAt: 2025-10-16T20:59:11.874Z
-updatedAt: 2025-10-16T20:59:11.874Z
+createdAt: 2025-11-14T17:11:58.660Z
+updatedAt: 2025-11-14T17:11:58.660Z
 contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
