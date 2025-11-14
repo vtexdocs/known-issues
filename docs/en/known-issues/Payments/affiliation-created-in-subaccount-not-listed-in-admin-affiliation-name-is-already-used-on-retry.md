@@ -2,15 +2,15 @@
 title: 'Affiliation created in subaccount not listed in Admin; ‘Affiliation name is already used’ on retry'
 slug: affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry
 status: PUBLISHED
-createdAt: 2025-10-01T19:45:25.000Z
-updatedAt: 2025-10-01T19:45:25.000Z
+createdAt: 2025-11-14T19:26:31.324Z
+updatedAt: 2025-11-14T19:26:31.324Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry
 locale: en
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1300974
 ---
 
