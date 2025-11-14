@@ -24141,6 +24141,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-breadcrumb-nao-esta-sendo-lido-pelos-rastreadores-devido-ao-tempo-limite-do-ssr",
+    "internalReference": 460999
+  },
+  {
+    "locale": "pt",
     "slug": "o-componente-de-video-nao-funciona-corretamente-nos-dispositivos-ios",
     "internalReference": 609462
   },
@@ -24243,11 +24248,6 @@
     "locale": "pt",
     "slug": "o-pageview-e-acionado-duas-vezes-ao-acessar-o-my-account",
     "internalReference": 854480
-  },
-  {
-    "locale": "pt",
-    "slug": "o-pao-rastejado-nao-e-lido-pelos-rastejadores-devido-ao-tempo-limite-da-ssr",
-    "internalReference": 460999
   },
   {
     "locale": "pt",
