@@ -2,8 +2,8 @@
 title: 'Los campos de la regla de pago no se reflejan en Admin cuando la regla se crea a través de API'
 slug: los-campos-de-la-regla-de-pago-no-se-reflejan-en-admin-cuando-la-regla-se-crea-a-traves-de-api
 status: PUBLISHED
-createdAt: 2025-10-24T17:05:34.858Z
-updatedAt: 2025-10-24T17:05:34.858Z
+createdAt: 2025-11-14T19:30:25.491Z
+updatedAt: 2025-11-14T19:30:25.491Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
