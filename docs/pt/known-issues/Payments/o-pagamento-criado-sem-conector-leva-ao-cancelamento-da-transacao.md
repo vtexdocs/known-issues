@@ -2,8 +2,8 @@
 title: 'O pagamento criado sem conector leva ao cancelamento da transação'
 slug: o-pagamento-criado-sem-conector-leva-ao-cancelamento-da-transacao
 status: PUBLISHED
-createdAt: 2025-11-12T13:23:02.341Z
-updatedAt: 2025-11-12T13:23:02.341Z
+createdAt: 2025-11-14T19:30:07.464Z
+updatedAt: 2025-11-14T19:30:07.464Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
