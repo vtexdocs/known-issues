@@ -1,11 +1,9 @@
 ---
 title: 'Unable to log in through the Google App on iOS'
-id: 1YxuqHJbbKnzdv1d6LrfR2
+slug: unable-to-log-in-through-the-google-app-on-ios
 status: PUBLISHED
-createdAt: 2023-10-26T16:50:11.505Z
-updatedAt: 2024-03-20T20:34:16.469Z
-publishedAt: 2024-03-20T20:34:16.469Z
-firstPublishedAt: 2023-10-26T16:50:12.188Z
+createdAt: 2025-11-14T19:22:07.668Z
+updatedAt: 2025-11-14T19:22:07.668Z
 contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
@@ -22,9 +20,7 @@ internalReference: 926239
 When logging into the store from the Google app (only the Google app and not in the Google Chrome browser on iOS devices), the option loops and never opens Google to choose the account.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 -Use the Google App on IOS;
@@ -32,14 +28,10 @@ When logging into the store from the Google app (only the Google app and not in 
 -Click on sign in and choose "Sign in with Google";
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Use another more conventional browser to access the store, for example Google Chrome.
-
-
 
 
 
