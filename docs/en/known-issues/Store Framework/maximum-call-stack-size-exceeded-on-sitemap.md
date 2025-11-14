@@ -1,18 +1,16 @@
 ---
 title: 'Maximum call stack size exceeded on Sitemap'
-id: 7ItwuSgaSilfBo0zrGania
+slug: maximum-call-stack-size-exceeded-on-sitemap
 status: PUBLISHED
-createdAt: 2024-11-08T21:01:17.861Z
-updatedAt: 2024-11-08T21:01:19.193Z
-publishedAt: 2024-11-08T21:01:19.193Z
-firstPublishedAt: 2024-11-08T21:01:19.193Z
+createdAt: 2025-11-14T19:40:41.750Z
+updatedAt: 2025-11-14T19:40:41.750Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: maximum-call-stack-size-exceeded-on-sitemap
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1132723
 ---
 
@@ -22,9 +20,7 @@ internalReference: 1132723
 The current store-sitemap generation process cannot efficiently handle stores with very large catalogs in Store Framework stores. When dealing with a high volume of products the generation breaks because of the size of the main file on the sitemap.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -33,14 +29,10 @@ The current store-sitemap generation process cannot efficiently handle stores wi
 - Observe that the sitemap returns "Maximum call stack size exceeded"
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 N/A
-
-
 
 
 
