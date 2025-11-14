@@ -1,18 +1,16 @@
 ---
-title: 'Link ''Why fill VTEX Global Category?'' on category setup only works opening in a new tab'
-id: 3u7aq2otUovQbO98lzjbus
+title: 'Link "Why fill VTEX Global Category?" on category setup only works opening in a new tab'
+slug: link-why-fill-vtex-global-category-on-category-setup-only-works-opening-in-a-new-tab
 status: PUBLISHED
-createdAt: 2022-03-16T17:59:14.355Z
-updatedAt: 2024-02-16T20:23:34.672Z
-publishedAt: 2024-02-16T20:23:34.672Z
-firstPublishedAt: 2022-03-16T17:59:14.784Z
+createdAt: 2025-11-14T19:12:29.482Z
+updatedAt: 2025-11-14T19:12:29.482Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: link-why-fill-vtex-global-category-on-category-setup-only-works-opening-in-a-new-tab
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 544034
 ---
 
@@ -21,12 +19,10 @@ internalReference: 544034
 
 Link "Why fill VTEX Global Category?" on category setup only works opening in a new tab. trying to open by just clicking on the link will redirect to an Error Page.
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/link-why-fill-vtex-global-category-on-category-setup-only-works-opening-in-a-new-tab_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Hhun8gyXHxWgk1qnUHWreWIBo/?name=image.png)
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -37,10 +33,7 @@ Link "Why fill VTEX Global Category?" on category setup only works opening in a 
 5. The correct link will appear
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Open in a new tab.
-
