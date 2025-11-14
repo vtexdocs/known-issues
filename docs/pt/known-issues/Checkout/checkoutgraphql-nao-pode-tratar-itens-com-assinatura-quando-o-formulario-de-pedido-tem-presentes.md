@@ -2,8 +2,8 @@
 title: 'checkout-graphql não pôde tratar itens com assinatura quando o formulário de pedido tem presentes'
 slug: checkoutgraphql-nao-pode-tratar-itens-com-assinatura-quando-o-formulario-de-pedido-tem-presentes
 status: PUBLISHED
-createdAt: 2025-10-16T19:15:55.779Z
-updatedAt: 2025-10-16T19:15:55.779Z
+createdAt: 2025-11-14T19:16:14.783Z
+updatedAt: 2025-11-14T19:16:14.783Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
