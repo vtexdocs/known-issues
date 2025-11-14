@@ -17121,6 +17121,11 @@
   },
   {
     "locale": "pt",
+    "slug": "as-configuracoes-do-cms-loyalty-value-nao-estao-funcionando",
+    "internalReference": 726849
+  },
+  {
+    "locale": "pt",
     "slug": "as-especificacoes-da-categoria-nao-se-abrem-no-admin-na-primeira-tentativa",
     "internalReference": 664419
   },
@@ -17313,11 +17318,6 @@
     "locale": "pt",
     "slug": "categoryfullpath-as-vezes-incorreto-na-resposta-da-api-de-pesquisa",
     "internalReference": 1212625
-  },
-  {
-    "locale": "pt",
-    "slug": "cms-fidelidade-configuracoes-de-valores-nao-funcionam",
-    "internalReference": 726849
   },
   {
     "locale": "pt",
