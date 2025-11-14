@@ -2,15 +2,15 @@
 title: 'Motivos de perda não solicitados na página do indeva'
 slug: motivos-de-perda-nao-solicitados-na-pagina-do-indeva
 status: PUBLISHED
-createdAt: 2025-09-16T19:56:29.180Z
-updatedAt: 2025-09-16T19:56:29.180Z
+createdAt: 2025-11-14T19:35:16.032Z
+updatedAt: 2025-11-14T19:35:16.032Z
 contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
 tag: Physical Stores
 slugEN: lost-reasons-not-ordered-on-indeva-page
 locale: pt
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1293176
 ---
 
