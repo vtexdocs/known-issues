@@ -1,11 +1,9 @@
 ---
 title: 'Masterdata Export Download Link Unavailable'
-id: 2oi0ABhQQxfPsKETeNUyvE
+slug: masterdata-export-download-link-unavailable
 status: PUBLISHED
-createdAt: 2022-07-08T13:50:43.220Z
-updatedAt: 2023-07-28T17:14:13.207Z
-publishedAt: 2023-07-28T17:14:13.207Z
-firstPublishedAt: 2022-07-08T13:50:43.638Z
+createdAt: 2025-11-14T19:39:28.534Z
+updatedAt: 2025-11-14T19:39:28.534Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -23,22 +21,17 @@ Currently, for data entities with several fields, when there's an attempt to exp
 
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 1 - for a data entity in which you have several fields, try to export all of its fields at the same time or several registers
 
 2 - the download link will not generate a file onto your browser
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Storage/masterdata-export-download-link-unavailable_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/nQdUqbk7BiOK5RcigZhNZR9Rr/?name=image.png)
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 **Right-click on the Download link and copy the link, then paste the link in another tab and the download will start or** fetch data via API https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search and/or download data into several, smaller spreadsheets
-
