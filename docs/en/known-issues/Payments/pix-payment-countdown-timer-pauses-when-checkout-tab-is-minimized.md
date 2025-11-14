@@ -2,8 +2,8 @@
 title: 'PIX payment countdown timer pauses when checkout tab is minimized'
 slug: pix-payment-countdown-timer-pauses-when-checkout-tab-is-minimized
 status: PUBLISHED
-createdAt: 2025-10-15T17:18:25.736Z
-updatedAt: 2025-10-15T17:18:25.736Z
+createdAt: 2025-11-14T19:30:49.072Z
+updatedAt: 2025-11-14T19:30:49.072Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
