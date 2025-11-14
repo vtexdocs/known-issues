@@ -2,8 +2,8 @@
 title: 'Transacción atascada en Aprobado mientras el pago permanece Liquidando cuando se utilizan liquidaciones parciales.'
 slug: transaccion-atascada-en-aprobado-mientras-el-pago-permanece-liquidando-cuando-se-utilizan-liquidaciones-parciales
 status: PUBLISHED
-createdAt: 2025-11-05T14:31:44.429Z
-updatedAt: 2025-11-05T14:31:44.429Z
+createdAt: 2025-11-14T19:32:33.894Z
+updatedAt: 2025-11-14T19:32:33.894Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
