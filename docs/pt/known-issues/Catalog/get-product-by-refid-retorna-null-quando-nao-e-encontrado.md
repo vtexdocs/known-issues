@@ -1,28 +1,25 @@
 ---
-title: 'GET Product by Refid retorna ''Null'' quando não é encontrado'
-id: 6yiM9gJT5DB77pZSBNfGZ3
+title: 'GET Product by Refid retorna "Null" quando não é encontrado'
+slug: get-product-by-refid-retorna-null-quando-nao-e-encontrado
 status: PUBLISHED
-createdAt: 2023-05-16T19:35:46.743Z
-updatedAt: 2024-07-01T18:49:03.498Z
-publishedAt: 2024-07-01T18:49:03.498Z
-firstPublishedAt: 2023-05-16T19:35:47.468Z
+createdAt: 2025-11-14T18:11:10.975Z
+updatedAt: 2025-11-14T18:11:10.975Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: get-product-by-refid-returning-null-when-not-found
 locale: pt
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 826702
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+
+## Sumário
 
 
 A rota get product by refid (/catalog_system/pvt/products/productgetbyrefid) está retornando um valor nulo em vez de uma simples resposta 404 quando não encontra um ID válido em um determinado catálogo da loja
-
 
 
 ## Simulação
@@ -36,17 +33,14 @@ curl --location --request GET 'https://mystore.vtexcommercestable.com.br/api/cat
 
 Você deverá obter a seguinte resposta se o ID fornecido não existir
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Catalog/get-product-by-refid-retorna-null-quando-nao-e-encontrado_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zLUjULwrXOEEd8hX9P0pTq8op/?name=inline-1138166273.png)
 
 Isso está incorreto, pois o esperado é um `404 - Not Found`
-
 
 ## Workaround
 
 
 Use outras APIs para GET product, como Get Product by ID, se essa resposta 404 for imperativa para qualquer coisa com a qual você esteja trabalhando.
-
-
 
 
 
