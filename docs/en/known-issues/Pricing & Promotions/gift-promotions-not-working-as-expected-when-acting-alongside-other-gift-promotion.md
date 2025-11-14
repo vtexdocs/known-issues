@@ -1,18 +1,16 @@
 ---
 title: 'Gift promotions not working as expected when acting alongside other gift promotion'
-id: 7p037qcaXYMYKC3kJPztc3
+slug: gift-promotions-not-working-as-expected-when-acting-alongside-other-gift-promotion
 status: PUBLISHED
-createdAt: 2023-01-09T21:08:49.800Z
-updatedAt: 2024-02-16T20:23:54.228Z
-publishedAt: 2024-02-16T20:23:54.228Z
-firstPublishedAt: 2023-01-09T21:08:50.899Z
+createdAt: 2025-11-14T19:38:22.198Z
+updatedAt: 2025-11-14T19:38:22.198Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slugEN: gift-promotions-not-working-as-expected-when-acting-alongside-other-gift-promotion
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 729980
 ---
 
@@ -23,9 +21,7 @@ internalReference: 729980
 When the account setups two gift promotions to accumulate on the cart the result is not the one expected by the client. Instead of giving the two gifts as a benefit, only one is being applied to the cartlink and is not the most expensive.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -34,13 +30,9 @@ When the account setups two gift promotions to accumulate on the cart the result
 3. Check that only one gift is appearing on the cart (and it can be not the most expensive one)
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 No workaround.
-
-
 
 
