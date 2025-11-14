@@ -1,11 +1,9 @@
 ---
 title: 'Expired temporary redirects not pointing back to old route'
-id: 1kI87EueEtHIyfZ4KmUJSF
+slug: expired-temporary-redirects-not-pointing-back-to-old-route
 status: PUBLISHED
-createdAt: 2023-09-12T14:41:09.843Z
-updatedAt: 2023-09-12T14:41:11.758Z
-publishedAt: 2023-09-12T14:41:11.758Z
-firstPublishedAt: 2023-09-12T14:41:11.758Z
+createdAt: 2025-11-14T19:40:27.497Z
+updatedAt: 2025-11-14T19:40:27.497Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -23,9 +21,7 @@ internalReference: 898062
 When a redirect route is created, the internal route is removed, but, when the redirect expires the route doesn't come back
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -36,12 +32,8 @@ When a redirect route is created, the internal route is removed, but, when the r
 - The original path/route will not load properly
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 The route will only work again if you create it once again in the rewriter
-
-
 
