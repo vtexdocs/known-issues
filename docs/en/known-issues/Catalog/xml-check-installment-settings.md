@@ -2,15 +2,15 @@
 title: 'XML "Check installment settings"'
 slug: xml-check-installment-settings
 status: PUBLISHED
-createdAt: 2025-08-12T18:36:49.432Z
-updatedAt: 2025-08-12T18:36:49.432Z
+createdAt: 2025-11-14T19:15:21.040Z
+updatedAt: 2025-11-14T19:15:21.040Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: xml-check-installment-settings
 locale: en
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1268809
 ---
 
