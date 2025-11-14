@@ -2,8 +2,8 @@
 title: 'Pedido preso em on-order-completed-ffm (Fulfillment) ou on-order-completed (Marketplace) mesmo após a criação bem-sucedida (isCompleted: true)'
 slug: pedido-preso-em-onordercompletedffm-fulfillment-ou-onordercompleted-marketplace-mesmo-apos-a-criacao-bemsucedida-iscompleted-true
 status: PUBLISHED
-createdAt: 2025-10-13T13:13:20.694Z
-updatedAt: 2025-10-13T13:13:20.694Z
+createdAt: 2025-11-14T19:25:43.874Z
+updatedAt: 2025-11-14T19:25:43.874Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -26,7 +26,6 @@ Em alguns casos, um pedido pode ficar preso em seus status iniciais (`on-order-c
 
 
 No momento, esse cenário não pode ser simulado de forma confiável, pois depende de falhas intermitentes ou específicas em partes isoladas do processo de criação de pedidos.
-
 
 ## Workaround
 
