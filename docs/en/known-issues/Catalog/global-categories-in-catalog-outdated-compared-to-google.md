@@ -1,18 +1,16 @@
 ---
 title: 'Global categories in catalog outdated compared to Google'
-id: 4vH5NRdMsuZmOohdHFn16H
+slug: global-categories-in-catalog-outdated-compared-to-google
 status: PUBLISHED
-createdAt: 2023-02-14T19:42:08.121Z
-updatedAt: 2024-07-01T18:48:52.824Z
-publishedAt: 2024-07-01T18:48:52.824Z
-firstPublishedAt: 2023-02-14T19:42:08.712Z
+createdAt: 2025-11-14T19:11:00.766Z
+updatedAt: 2025-11-14T19:11:00.766Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: global-categories-in-catalog-outdated-compared-to-google
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 754062
 ---
 
@@ -22,9 +20,7 @@ internalReference: 754062
 Google recently updated its taxonomy categories, called the global category in VTEX. However, comparing the categories described in the Google file and within the VTEX catalog, you can see that our reference is outdated.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -34,14 +30,10 @@ Google recently updated its taxonomy categories, called the global category in V
 4. See that when accessing the google file by URL there are categories below, such as "Deodorant", but in our reference, the last category is "Deodorant & Anti-Perspirant"
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 We suggest that clients use the higher-level categories for the moment
-
-
 
 
 
