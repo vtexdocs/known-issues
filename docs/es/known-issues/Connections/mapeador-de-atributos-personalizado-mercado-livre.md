@@ -1,45 +1,37 @@
 ---
 title: 'Mapeador de atributos personalizado Mercado Livre'
-id: 4A7inX7nFte4jRhZRLkPRO
+slug: mapeador-de-atributos-personalizado-mercado-livre
 status: PUBLISHED
-createdAt: 2023-12-12T09:59:40.945Z
-updatedAt: 2024-02-16T20:26:22.091Z
-publishedAt: 2024-02-16T20:26:22.091Z
-firstPublishedAt: 2023-12-12T09:59:41.722Z
+createdAt: 2025-11-14T19:19:29.878Z
+updatedAt: 2025-11-14T19:19:29.878Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: custom-attribute-mapper-mercado-livre
 locale: es
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 521197
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
 
 
 
 En la nueva pantalla del mapeador, no tenemos la opción de crear un atributo personalizado en MELI.
 
 
-##
-
-## Simulación
+#### Simulación
 
 
 
 Dentro de la pantalla del mapeador, falta el atributo personalizado que teníamos en la hoja de cálculo.
 
-
-
 ## Workaround
 
 
 Actualmente no hay solución disponible, sólo se permite crear un valor personalizado dentro del atributo, pero no un atributo personalizado.
-
-
 
 
