@@ -2,8 +2,8 @@
 title: 'Las transacciones siguen bloqueadas a pesar de la aprobación del conector'
 slug: las-transacciones-siguen-bloqueadas-a-pesar-de-la-aprobacion-del-conector
 status: PUBLISHED
-createdAt: 2025-11-14T19:33:47.259Z
-updatedAt: 2025-11-14T19:33:47.259Z
+createdAt: 2025-11-14T19:34:00.424Z
+updatedAt: 2025-11-14T19:34:00.424Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
