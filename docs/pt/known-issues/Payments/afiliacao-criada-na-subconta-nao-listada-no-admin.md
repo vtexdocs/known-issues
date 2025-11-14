@@ -2,15 +2,15 @@
 title: 'Afiliação criada na subconta não listada no Admin'
 slug: afiliacao-criada-na-subconta-nao-listada-no-admin
 status: PUBLISHED
-createdAt: 2025-10-01T19:45:20.583Z
-updatedAt: 2025-10-01T19:45:20.583Z
+createdAt: 2025-11-14T19:26:28.792Z
+updatedAt: 2025-11-14T19:26:28.792Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry
 locale: pt
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1300974
 ---
 
