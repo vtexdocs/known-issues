@@ -9771,6 +9771,11 @@
   },
   {
     "locale": "es",
+    "slug": "skus-recibidos-las-aprobaciones-de-asociacion-no-anaden-el-canal-de-ventas-disponible-del-vendedor-en-el-producto-cuando-el-sku-es-vendido-por-mas-de-1-vendedor",
+    "internalReference": 562472
+  },
+  {
+    "locale": "es",
     "slug": "skus-recibidos-las-aprobaciones-de-asociacion-no-anaden-el-canal-de-ventas-disponible-del-vendedor-en-el-producto-cuando-el-sku-es-vendido-por-mas",
     "internalReference": 562472
   },
@@ -17928,6 +17933,11 @@
     "locale": "pt",
     "slug": "skus-enviados-por-vendedores-sao-criados-com-imagens-fora-de-ordem",
     "internalReference": 648349
+  },
+  {
+    "locale": "pt",
+    "slug": "skus-recebidos-as-aprovacoes-de-associacao-nao-adicionam-o-canal-de-vendas-disponivel-do-vendedor-no-produto-quando-o-sku-e-vendido-por-mais-de-um-vendedor",
+    "internalReference": 562472
   },
   {
     "locale": "pt",
