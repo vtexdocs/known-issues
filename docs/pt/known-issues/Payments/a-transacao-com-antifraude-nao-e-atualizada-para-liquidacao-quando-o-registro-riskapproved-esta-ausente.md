@@ -2,8 +2,8 @@
 title: 'A transação com antifraude não é atualizada para "liquidação" quando o registro "riskApproved" está ausente'
 slug: a-transacao-com-antifraude-nao-e-atualizada-para-liquidacao-quando-o-registro-riskapproved-esta-ausente
 status: PUBLISHED
-createdAt: 2025-10-16T20:38:18.067Z
-updatedAt: 2025-10-16T20:38:18.067Z
+createdAt: 2025-11-14T19:32:56.354Z
+updatedAt: 2025-11-14T19:32:56.354Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
