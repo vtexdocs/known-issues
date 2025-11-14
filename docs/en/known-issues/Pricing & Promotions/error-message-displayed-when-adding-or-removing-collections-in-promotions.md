@@ -1,11 +1,9 @@
 ---
 title: 'Error message displayed when adding or removing collections in Promotions'
-id: 5AsFQ2TTsThgMDDIQumcGO
+slug: error-message-displayed-when-adding-or-removing-collections-in-promotions
 status: PUBLISHED
-createdAt: 2024-09-10T12:49:19.503Z
-updatedAt: 2024-09-10T12:49:21.587Z
-publishedAt: 2024-09-10T12:49:21.587Z
-firstPublishedAt: 2024-09-10T12:49:21.587Z
+createdAt: 2025-11-14T19:38:02.857Z
+updatedAt: 2025-11-14T19:38:02.857Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -22,9 +20,7 @@ internalReference: 1095440
 When adding or removing collections in promotions, an error message is displayed in the UI: "Erro - Can’t create search criteria!" Despite the error message, the changes are saved successfully, and a "Promoção salva com sucesso!" message appears beneath the error. The problem is observed specifically when using the "_Different from:"_ selector with more than one collection listed. Notably, the error does not occur when saving a promotion with the _"Different from:"_ selector and only one collection listed.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -38,14 +34,10 @@ When adding or removing collections in promotions, an error message is displayed
 **Observed Behavior**: The error does not occur, and the promotion saves without issues.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 The promotion is actually saved correctly despite the error message. Users can ignore the error message and validate that the changes were applied by reopening the promotion settings.
-
-
 
 
 
