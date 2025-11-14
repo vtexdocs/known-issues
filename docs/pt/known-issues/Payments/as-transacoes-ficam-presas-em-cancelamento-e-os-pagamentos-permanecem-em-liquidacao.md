@@ -2,8 +2,8 @@
 title: 'As transações ficam presas em "Cancelamento" e os pagamentos permanecem em "Liquidação"'
 slug: as-transacoes-ficam-presas-em-cancelamento-e-os-pagamentos-permanecem-em-liquidacao
 status: PUBLISHED
-createdAt: 2025-11-03T17:59:15.444Z
-updatedAt: 2025-11-03T17:59:15.444Z
+createdAt: 2025-11-14T19:34:20.769Z
+updatedAt: 2025-11-14T19:34:20.769Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
