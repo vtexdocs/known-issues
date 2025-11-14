@@ -2,8 +2,8 @@
 title: 'Las transacciones creadas sin ningún pago se quedan atascadas en "Cancelando".'
 slug: las-transacciones-creadas-sin-ningun-pago-se-quedan-atascadas-en-cancelando
 status: PUBLISHED
-createdAt: 2025-10-28T14:06:15.616Z
-updatedAt: 2025-10-28T14:06:15.616Z
+createdAt: 2025-11-14T19:33:16.908Z
+updatedAt: 2025-11-14T19:33:16.908Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
