@@ -1,18 +1,16 @@
 ---
-title: 'Prices restricted to ''Int32'' max value on Change Price API'
-id: 5mzOjCUYs7vXUkttbsK0za
+title: 'Prices restricted to "Int32" max value on Change Price API'
+slug: prices-restricted-to-int32-max-value-on-change-price-api
 status: PUBLISHED
-createdAt: 2022-04-25T17:28:05.159Z
-updatedAt: 2024-02-16T20:26:04.281Z
-publishedAt: 2024-02-16T20:26:04.281Z
-firstPublishedAt: 2022-04-25T17:28:05.773Z
+createdAt: 2025-11-14T19:17:27.741Z
+updatedAt: 2025-11-14T19:17:27.741Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slugEN: prices-restricted-to-int32-max-value-on-change-price-api
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 566142
 ---
 
@@ -22,21 +20,15 @@ internalReference: 566142
 Checkout REST API Change price doesn't support prices higher than an "Int32" value. So, applying a "manual price" will be restricted up to the number "2,147,483,647" (number in decimals).
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 While using the "Change price" API (https://developers.vtex.com/vtex-rest-api/reference/pricechange), sending a payload like "{"price":2500000000}" (which represents $25.000.000,00) will return a 500 error with the message "Value was either too large or too small for an Int32.".
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Use the Handle cart items API to update the price.
-
-
 
 
