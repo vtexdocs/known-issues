@@ -2,8 +2,8 @@
 title: 'Incoherencia en la selección de las condiciones comerciales'
 slug: incoherencia-en-la-seleccion-de-las-condiciones-comerciales
 status: PUBLISHED
-createdAt: 2025-10-16T20:47:16.150Z
-updatedAt: 2025-10-16T20:47:16.150Z
+createdAt: 2025-11-14T19:29:04.390Z
+updatedAt: 2025-11-14T19:29:04.390Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -23,7 +23,7 @@ Cuando la diferencia porcentual **del valor SKU en la condición es inferior al 
 
 Ej:
 
-Los valores SKU pertenecientes a la Condición B deben ser iguales o superiores al 99% en el carrito:
+Los valores SKU pertenecientes a la condición B deben ser iguales o superiores al 99% en el carrito:
 
 Considerando los siguientes SKUs Valor:
 
