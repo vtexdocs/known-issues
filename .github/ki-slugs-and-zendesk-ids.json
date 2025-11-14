@@ -16831,6 +16831,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-api-do-catalogo-stockkeepingunit-permite-valores-de-condicao-comercial-invalidos",
+    "internalReference": 769053
+  },
+  {
+    "locale": "pt",
     "slug": "a-api-insert-sku-file-nao-aceita-urls-de-servidores-que-exigem-o-cabecalho-useragent",
     "internalReference": 1069222
   },
@@ -17088,11 +17093,6 @@
     "locale": "pt",
     "slug": "api-do-catalogo-criar-arquivo-sku-so-funciona-com-uma-url",
     "internalReference": 503153
-  },
-  {
-    "locale": "pt",
-    "slug": "api-do-catalogo-da-unidade-de-estocagem-permite-valores-de-condicao-comercial-invalidos",
-    "internalReference": 769053
   },
   {
     "locale": "pt",
