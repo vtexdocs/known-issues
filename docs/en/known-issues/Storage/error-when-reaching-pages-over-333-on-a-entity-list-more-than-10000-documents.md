@@ -1,11 +1,9 @@
 ---
 title: 'Error when reaching pages over 333 on a entity list (more than 10.000 documents)'
-id: 1COJ1WZILFeFqA4XWIseYY
+slug: error-when-reaching-pages-over-333-on-a-entity-list-more-than-10000-documents
 status: PUBLISHED
-createdAt: 2023-02-27T19:29:52.721Z
-updatedAt: 2023-02-27T19:29:53.278Z
-publishedAt: 2023-02-27T19:29:53.278Z
-firstPublishedAt: 2023-02-27T19:29:53.278Z
+createdAt: 2025-11-14T19:39:13.983Z
+updatedAt: 2025-11-14T19:39:13.983Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -23,12 +21,10 @@ When the store has more than 10.000 documents, so more than 333 pages, when tryi
 
     VTEX - Master Data: Ocorreu um erro inesperado no sistema. Por favor tente novamente, caso o erro persista entre em contato com a VTEX.
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Storage/error-when-reaching-pages-over-333-on-a-entity-list-more-than-10000-documents_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/5wXQPX2etczf6IiyzGFLAtIvp/?name=inline1653316518.png)
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -36,13 +32,10 @@ When the store has more than 10.000 documents, so more than 333 pages, when tryi
 2. The error will happen when trying to reach a page that would retrieve the 10.000th document or over. Usually by page 334 (10000 / 30 = 333.33 ~~ 334)
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 If the store wishes to retrieve the latest data, they can use the Scroll documents API:
 
 - MasterData v1: https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/scroll
 - MasterData v2: https://developers.vtex.com/docs/api-reference/master-data-api-v2#get-/api/dataentities/-dataEntityName-/scroll
-
