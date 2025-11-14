@@ -2,8 +2,8 @@
 title: 'Inconsistência na seleção de condições comerciais'
 slug: inconsistencia-na-selecao-de-condicoes-comerciais
 status: PUBLISHED
-createdAt: 2025-10-16T20:47:11.034Z
-updatedAt: 2025-10-16T20:47:11.034Z
+createdAt: 2025-11-14T19:28:59.068Z
+updatedAt: 2025-11-14T19:28:59.068Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
