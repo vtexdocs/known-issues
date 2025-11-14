@@ -1,18 +1,16 @@
 ---
 title: 'Intermitent Site Editor content loss'
-id: 3a5MlAoD2Z7Gu6HDS8wihD
+slug: intermitent-site-editor-content-loss
 status: PUBLISHED
-createdAt: 2022-07-05T17:07:24.733Z
-updatedAt: 2024-11-18T14:05:46.071Z
-publishedAt: 2024-11-18T14:05:46.071Z
-firstPublishedAt: 2022-07-05T17:07:25.091Z
+createdAt: 2025-11-14T17:12:53.102Z
+updatedAt: 2025-11-14T17:12:53.102Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slugEN: intermitent-site-editor-content-loss
 locale: en
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 610533
 ---
 
@@ -24,9 +22,7 @@ Every content change in Site Editor inserts changes to the content.json file, st
 The content from the workspace is not taken into the master environment after the promotion process. Since the default promotion policy for handling conflicts is `masterWins` the workspace content is not taken to production on conflict cases.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 The scenario is intermittent. However, it has been reported in two different scenarios:
@@ -52,14 +48,10 @@ Customers reported that when installing a new theme version in a test workspace,
 This normally happens due to changes in the project structure, such as treepaths. It is important to remember that if a change in the treepath is required, the content should be added again.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 N/A
-
-
 
 
 
