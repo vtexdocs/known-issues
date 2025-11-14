@@ -15646,7 +15646,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-api-de-desplazamiento-devuelve-errores-429-yo-408-cuando-se-consultan-entidades-con-un-gran-numero-de-documentos-que-suelen-superar-los-millones",
+    "slug": "la-api-de-desplazamiento-devuelve-429-yo-408-errores-cuando-se-consultan-entidades-con-un-gran-numero-de-documentos-normalmente-superior-a-millones",
     "internalReference": 1035873
   },
   {
