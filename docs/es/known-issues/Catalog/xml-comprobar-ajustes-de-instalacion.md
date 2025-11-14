@@ -2,15 +2,15 @@
 title: 'XML "Comprobar ajustes de instalación"'
 slug: xml-comprobar-ajustes-de-instalacion
 status: PUBLISHED
-createdAt: 2025-08-12T18:36:54.827Z
-updatedAt: 2025-08-12T18:36:54.827Z
+createdAt: 2025-11-14T19:15:23.416Z
+updatedAt: 2025-11-14T19:15:23.416Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: xml-check-installment-settings
 locale: es
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1268809
 ---
 
