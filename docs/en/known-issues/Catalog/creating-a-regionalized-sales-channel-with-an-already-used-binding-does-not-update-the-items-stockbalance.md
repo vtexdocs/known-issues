@@ -1,18 +1,16 @@
 ---
-title: 'Creating a regionalized sales channel with an already used binding does not update the item''s stockbalance'
-id: 7CqZPslfGY8mTmBLuWe5SQ
+title: "Creating a regionalized sales channel with an already used binding does not update the item's stockbalance"
+slug: creating-a-regionalized-sales-channel-with-an-already-used-binding-does-not-update-the-items-stockbalance
 status: PUBLISHED
-createdAt: 2024-03-22T19:39:26.469Z
-updatedAt: 2024-07-01T18:49:34.061Z
-publishedAt: 2024-07-01T18:49:34.061Z
-firstPublishedAt: 2024-03-22T19:39:27.432Z
+createdAt: 2025-11-14T18:10:20.245Z
+updatedAt: 2025-11-14T18:10:20.245Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: creating-a-regionalized-sales-channel-with-an-already-used-binding-does-not-update-the-items-stockbalance
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 1005112
 ---
 
@@ -24,9 +22,7 @@ For regionalized accounts the index system filters by the regionalized sales cha
 If a new channel needs to be regionalized on a binding that is already in production, the indexation won't be triggered. Causing some inconsistence on the availability of the products.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -34,14 +30,10 @@ If a new channel needs to be regionalized on a binding that is already in produc
 2. Check if the stocks and availability are consistent with all products.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Force a reindex with stockSimulation. Update stock for example.
-
-
 
 
 
