@@ -1,18 +1,16 @@
 ---
-title: 'GET Product by Refid Returning ''Null'' when not Found'
-id: 6yiM9gJT5DB77pZSBNfGZ3
+title: 'GET Product by Refid Returning "Null" when not Found'
+slug: get-product-by-refid-returning-null-when-not-found
 status: PUBLISHED
-createdAt: 2023-05-16T19:35:46.743Z
-updatedAt: 2024-07-01T18:49:03.498Z
-publishedAt: 2024-07-01T18:49:03.498Z
-firstPublishedAt: 2023-05-16T19:35:47.468Z
+createdAt: 2025-11-14T18:11:16.602Z
+updatedAt: 2025-11-14T18:11:16.602Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: get-product-by-refid-returning-null-when-not-found
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 826702
 ---
 
@@ -24,9 +22,7 @@ The get product by refid route (/catalog_system/pvt/products/productgetbyrefid) 
 
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 1) Run the following cURL
@@ -37,21 +33,17 @@ curl --location --request GET 'https://mystore.vtexcommercestable.com.br/api/cat
 
 You should get the following response if the given id doesn't exist
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/get-product-by-refid-returning-null-when-not-found_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zLUjULwrXOEEd8hX9P0pTq8op/?name=inline-1138166273.png)
 
 This is incorrect since the expected is a `404 - Not Found`
 
 
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Using other APIs for GET product such as Get Product by ID if this 404 response is imperative for anything you're working with.
-
-
 
 
 
