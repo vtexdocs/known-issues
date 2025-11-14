@@ -2,8 +2,8 @@
 title: 'Gateway enviando código de país em formato alfa-2 para pagamentos do GooglePay'
 slug: gateway-enviando-codigo-de-pais-em-formato-alfa2-para-pagamentos-do-googlepay
 status: PUBLISHED
-createdAt: 2025-10-16T20:40:30.862Z
-updatedAt: 2025-10-16T20:40:30.862Z
+createdAt: 2025-11-14T19:27:51.668Z
+updatedAt: 2025-11-14T19:27:51.668Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
