@@ -2,15 +2,15 @@
 title: 'Pick-up points do not work in the delivery simulator in countries that do not use our postal code API'
 slug: pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api
 status: PUBLISHED
-createdAt: 2025-07-24T17:41:57.139Z
-updatedAt: 2025-07-24T17:41:57.139Z
+createdAt: 2025-11-14T19:23:28.179Z
+updatedAt: 2025-11-14T19:23:28.179Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slugEN: pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api
 locale: en
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1262007
 ---
 
