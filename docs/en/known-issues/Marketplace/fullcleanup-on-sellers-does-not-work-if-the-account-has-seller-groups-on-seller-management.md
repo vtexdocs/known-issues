@@ -1,18 +1,16 @@
 ---
 title: 'Fullcleanup on sellers does not work if the account has seller groups on Seller Management'
-id: 3U9tS11FQU0JLUxEDSt5rL
+slug: fullcleanup-on-sellers-does-not-work-if-the-account-has-seller-groups-on-seller-management
 status: PUBLISHED
-createdAt: 2023-10-19T19:54:36.389Z
-updatedAt: 2024-07-01T18:49:14.530Z
-publishedAt: 2024-07-01T18:49:14.530Z
-firstPublishedAt: 2023-10-19T19:54:37.266Z
+createdAt: 2025-11-14T19:24:31.578Z
+updatedAt: 2025-11-14T19:24:31.578Z
 contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slugEN: fullcleanup-on-sellers-does-not-work-if-the-account-has-seller-groups-on-seller-management
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 922541
 ---
 
@@ -24,9 +22,7 @@ On the Seller Management area the marketplace can group their sellers as they wi
 However, if they wish to delete all seller data on the fullcleanup area, the process will fail if there are groups created.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -35,14 +31,10 @@ However, if they wish to delete all seller data on the fullcleanup area, the pro
 3. Check that an error appears.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 First, delete the seller groups manually on the seller management and then try to perform the seller fullcleanup again.
-
-
 
 
 
