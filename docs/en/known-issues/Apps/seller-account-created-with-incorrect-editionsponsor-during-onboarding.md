@@ -2,8 +2,8 @@
 title: 'Seller account created with incorrect edition/sponsor during onboarding'
 slug: seller-account-created-with-incorrect-editionsponsor-during-onboarding
 status: PUBLISHED
-createdAt: 2025-10-16T20:59:08.553Z
-updatedAt: 2025-10-16T20:59:08.553Z
+createdAt: 2025-11-14T17:11:55.006Z
+updatedAt: 2025-11-14T17:11:55.006Z
 contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
