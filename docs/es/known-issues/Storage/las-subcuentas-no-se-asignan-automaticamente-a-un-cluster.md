@@ -2,8 +2,8 @@
 title: 'Las subcuentas no se asignan automáticamente a un clúster'
 slug: las-subcuentas-no-se-asignan-automaticamente-a-un-cluster
 status: PUBLISHED
-createdAt: 2025-10-16T20:53:01.466Z
-updatedAt: 2025-10-16T20:53:01.466Z
+createdAt: 2025-11-14T15:27:16.330Z
+updatedAt: 2025-11-14T15:27:16.330Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -31,7 +31,6 @@ Las subcuentas no se asignan automáticamente a un cluster en el momento de su c
 Intentar llamar a la API de búsqueda de Masterdata, como:
 
     GET https://..com/api/dataentities/CL/search?_fields=id
-
 3. Observe que la respuesta devuelve un error 500 que indica que la búsqueda de datos maestros no funciona.
 
 ## Workaround
