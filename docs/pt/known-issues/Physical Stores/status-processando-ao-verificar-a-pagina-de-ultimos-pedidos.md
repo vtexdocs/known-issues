@@ -2,8 +2,8 @@
 title: 'Status "Processando" ao verificar a página de últimos pedidos'
 slug: status-processando-ao-verificar-a-pagina-de-ultimos-pedidos
 status: PUBLISHED
-createdAt: 2025-10-16T20:43:25.294Z
-updatedAt: 2025-10-16T20:43:25.294Z
+createdAt: 2025-11-14T19:35:30.624Z
+updatedAt: 2025-11-14T19:35:30.624Z
 contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
@@ -27,7 +27,7 @@ Esse é apenas um problema de sincronização na página "últimos pedidos". O p
 
 1- Fazer um pedido
 2- Feche a página do pedido feito e vá rapidamente para a página dos últimos pedidos.
-3- Verifique os diferentes status na página de pedidos feitos.
+3- Verifique os diferentes status da página de pedidos feitos.
 
 
 ## Workaround
