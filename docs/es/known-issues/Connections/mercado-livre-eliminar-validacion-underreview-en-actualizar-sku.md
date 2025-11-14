@@ -1,40 +1,29 @@
 ---
-title: '[Mercado Livre] Eliminar validación under_review en Actualizar SKU'
-id: 1yeZeigiok3zaltkI7RTMW
+title: 'Mercado Livre Eliminar validación under_review en Actualizar SKU'
+slug: mercado-livre-eliminar-validacion-underreview-en-actualizar-sku
 status: PUBLISHED
-createdAt: 2023-08-30T18:15:25.269Z
-updatedAt: 2023-08-30T18:15:25.924Z
-publishedAt: 2023-08-30T18:15:25.924Z
-firstPublishedAt: 2023-08-30T18:15:25.924Z
+createdAt: 2025-11-14T19:20:36.608Z
+updatedAt: 2025-11-14T19:20:36.608Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: mercado-livre-remove-underreview-validation-in-update-sku
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 890658
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
 
-## Simulación
+Mapa de moderación actualizado
+En este caso, cuando la moderación es etiquetado como DOMINIO, vamos a redirigir al catálogo en lugar Mapper, esto porque el anuncio no se puede actualizar. El vendedor debe crear un nuevo anuncio
 
 
-SKU fue moderado por estar en una categoría incorrecta, ya se hizo la corrección y ahora tiene el mapeo correcto en mapepr, pero sigue sin exportarse de acuerdo a la categoría del mapeador.
-
-
+#### Simulación
 
 ## Workaround
-
-
-N/A
-
-
-
-
 
