@@ -2,8 +2,8 @@
 title: 'Transaction stuck in Approved while payment remains Settling when using partial settlements'
 slug: transaction-stuck-in-approved-while-payment-remains-settling-when-using-partial-settlements
 status: PUBLISHED
-createdAt: 2025-11-05T14:31:41.076Z
-updatedAt: 2025-11-05T14:31:41.076Z
+createdAt: 2025-11-14T19:32:31.271Z
+updatedAt: 2025-11-14T19:32:31.271Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
