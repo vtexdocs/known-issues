@@ -1,18 +1,16 @@
 ---
 title: 'SKU File Update does not update ?v version tags'
-id: 5Uw2VIBtTNDY3Ha5WDzGXJ
+slug: sku-file-update-does-not-update-v-version-tags
 status: PUBLISHED
-createdAt: 2023-06-29T14:37:56.437Z
-updatedAt: 2024-07-01T18:49:06.220Z
-publishedAt: 2024-07-01T18:49:06.220Z
-firstPublishedAt: 2023-06-29T14:37:57.352Z
+createdAt: 2025-11-14T19:14:21.991Z
+updatedAt: 2025-11-14T19:14:21.991Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: sku-file-update-does-not-update-v-version-tags
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 852869
 ---
 
@@ -22,9 +20,7 @@ internalReference: 852869
 Currently, when a SKU image file is updated via API to be on the same position as a previous one, it's version tag (?v=) on the product page is not correctly updated.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -36,9 +32,7 @@ Currently, when a SKU image file is updated via API to be on the same position a
 
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Deleting all SKU files and re-inserting them from scratch forces it to be updated.
@@ -46,4 +40,3 @@ Deleting all SKU files and re-inserting them from scratch forces it to be update
 OR
 
 An indexer deletion forces the update.
-
