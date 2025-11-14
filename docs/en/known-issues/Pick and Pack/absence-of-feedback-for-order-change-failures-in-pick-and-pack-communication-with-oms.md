@@ -2,15 +2,15 @@
 title: 'Absence of Feedback for Order Change Failures in Pick and Pack (Communication with OMS)'
 slug: absence-of-feedback-for-order-change-failures-in-pick-and-pack-communication-with-oms
 status: PUBLISHED
-createdAt: 2025-08-13T19:01:10.885Z
-updatedAt: 2025-08-13T19:01:10.885Z
+createdAt: 2025-11-14T19:35:48.455Z
+updatedAt: 2025-11-14T19:35:48.455Z
 contentType: knownIssue
 productTeam: Pick and Pack
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pick and Pack
 slugEN: absence-of-feedback-for-order-change-failures-in-pick-and-pack-communication-with-oms
 locale: en
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1275957
 ---
 
