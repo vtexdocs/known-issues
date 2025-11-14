@@ -2,8 +2,8 @@
 title: 'Transactions created without any payment get stuck in “Canceling”'
 slug: transactions-created-without-any-payment-get-stuck-in-canceling
 status: PUBLISHED
-createdAt: 2025-10-28T14:06:12.549Z
-updatedAt: 2025-10-28T14:06:12.549Z
+createdAt: 2025-11-14T19:33:14.004Z
+updatedAt: 2025-11-14T19:33:14.004Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
