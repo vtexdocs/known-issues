@@ -2,15 +2,15 @@
 title: 'XML "Verificar configurações de parcelamento"'
 slug: xml-verificar-configuracoes-de-parcelamento
 status: PUBLISHED
-createdAt: 2025-08-12T18:36:43.895Z
-updatedAt: 2025-08-12T18:36:43.895Z
+createdAt: 2025-11-14T19:15:18.381Z
+updatedAt: 2025-11-14T19:15:18.381Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: xml-check-installment-settings
 locale: pt
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1268809
 ---
 
@@ -27,7 +27,7 @@ Uma mensagem de erro é mostrada no arquivo XML:
 ## Simulação
 
 
-Simplesmente configurando uma configuração XML com essas moedas, a mensagem de erro é mostrada.
+Simplesmente configurando uma configuração XML com essas moedas, a mensagem de erro é exibida.
 
 
 ## Workaround
