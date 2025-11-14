@@ -2,15 +2,15 @@
 title: 'Ausência de feedback para falhas na alteração de pedidos no Pick and Pack (comunicação com o OMS)'
 slug: ausencia-de-feedback-para-falhas-na-alteracao-de-pedidos-no-pick-and-pack-comunicacao-com-o-oms
 status: PUBLISHED
-createdAt: 2025-08-13T19:01:05.060Z
-updatedAt: 2025-08-13T19:01:05.060Z
+createdAt: 2025-11-14T19:35:45.857Z
+updatedAt: 2025-11-14T19:35:45.857Z
 contentType: knownIssue
 productTeam: Pick and Pack
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pick and Pack
 slugEN: absence-of-feedback-for-order-change-failures-in-pick-and-pack-communication-with-oms
 locale: pt
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1275957
 ---
 
@@ -31,7 +31,7 @@ Consequentemente, o selecionador pode operar com base em informações desatuali
 
 
 1. O selecionador solicita uma modificação no pedido (adicionar, remover ou substituir um item) usando o aplicativo Pick and Pack.
-2. A solicitação é enviada para o OMS, que valida se a alteração é possível e, quando necessário, aciona sistemas externos (por exemplo, gateway de pagamento, mecanismo de regras, limites ou disponibilidade de estoque).
+2. A solicitação é enviada ao OMS, que valida se a alteração é possível e, quando necessário, aciona sistemas externos (por exemplo, gateway de pagamento, mecanismo de regras, limites ou disponibilidade de estoque).
 3. Se houver algum impedimento (saldo insuficiente, regra comercial, limite de produto/quantidade, erro de sistema), o OMS rejeita a alteração.
 4. O aplicativo Pick and Pack continua a exibir a versão do pedido após o processo de Picking and Packing, sem indicar ao selecionador que a alteração foi rejeitada ou não foi aplicada de forma alguma
 ## Workaround
