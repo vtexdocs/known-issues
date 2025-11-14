@@ -3511,6 +3511,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
+    "internalReference": 1325344
+  },
+  {
+    "locale": "en",
     "slug": "mercado-livre-remove-underreview-validation-in-update-sku",
     "internalReference": 890658
   },
@@ -11558,6 +11563,11 @@
     "locale": "es",
     "slug": "mensajes-automaticos-meli-mercado-livre-mensajes",
     "internalReference": 615164
+  },
+  {
+    "locale": "es",
+    "slug": "mercado-libre-los-atributos-alturapaquetevendedor-anchurapaquetevendedor-longitudpaquetevendedor-y-pesopaquetevendedor-son-obligatorios",
+    "internalReference": 1325344
   },
   {
     "locale": "es",
@@ -19688,6 +19698,11 @@
     "locale": "pt",
     "slug": "mercado-livre-o-atributo-variation-esta-duplicado-combinacoes-de-atributos-exclusivos-permitidas",
     "internalReference": 758331
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
+    "internalReference": 1325344
   },
   {
     "locale": "pt",
