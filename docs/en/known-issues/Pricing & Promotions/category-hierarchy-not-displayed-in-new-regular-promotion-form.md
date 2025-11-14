@@ -2,8 +2,8 @@
 title: 'Category hierarchy not displayed in new Regular Promotion form'
 slug: category-hierarchy-not-displayed-in-new-regular-promotion-form
 status: PUBLISHED
-createdAt: 2025-11-03T17:15:01.265Z
-updatedAt: 2025-11-03T17:15:01.265Z
+createdAt: 2025-11-14T19:37:33.959Z
+updatedAt: 2025-11-14T19:37:33.959Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
