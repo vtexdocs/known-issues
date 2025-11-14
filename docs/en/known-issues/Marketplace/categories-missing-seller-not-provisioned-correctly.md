@@ -2,8 +2,8 @@
 title: 'Categories missing seller not provisioned correctly'
 slug: categories-missing-seller-not-provisioned-correctly
 status: PUBLISHED
-createdAt: 2025-10-21T20:36:13.556Z
-updatedAt: 2025-10-21T20:36:13.556Z
+createdAt: 2025-11-14T18:08:59.180Z
+updatedAt: 2025-11-14T18:08:59.180Z
 contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
