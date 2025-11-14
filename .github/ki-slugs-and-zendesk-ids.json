@@ -3036,6 +3036,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-amazon-order-does-not-integrate-correctly",
+    "internalReference": 1109828
+  },
+  {
+    "locale": "en",
     "slug": "amazon-carrier-selection",
     "internalReference": 1186908
   },
@@ -11188,6 +11193,11 @@
     "locale": "es",
     "slug": "amazon-codigo-de-error-13013-al-enviar-un-producto-al-mercado-de-amazon",
     "internalReference": 926656
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-el-pedido-de-amazon-no-se-integra-correctamente",
+    "internalReference": 1109828
   },
   {
     "locale": "es",
@@ -19403,6 +19413,11 @@
     "locale": "pt",
     "slug": "amazon-listagem-codigo-de-devolucao-13013-impedindo-a-criacao-de-sku",
     "internalReference": 1309398
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-o-pedido-da-amazon-nao-se-integra-corretamente",
+    "internalReference": 1109828
   },
   {
     "locale": "pt",
