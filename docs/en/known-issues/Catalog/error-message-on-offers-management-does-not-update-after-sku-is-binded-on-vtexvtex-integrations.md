@@ -1,18 +1,16 @@
 ---
 title: 'Error message on offers management does not update after sku is binded on VTEX<>VTEX integrations'
-id: 5tMKDMsFTZlXQrkVM4WeJD
+slug: error-message-on-offers-management-does-not-update-after-sku-is-binded-on-vtexvtex-integrations
 status: PUBLISHED
-createdAt: 2022-12-08T14:02:22.948Z
-updatedAt: 2024-02-16T20:24:16.785Z
-publishedAt: 2024-02-16T20:24:16.785Z
-firstPublishedAt: 2022-12-08T14:02:23.384Z
+createdAt: 2025-11-14T18:10:56.793Z
+updatedAt: 2025-11-14T18:10:56.793Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: error-message-on-offers-management-does-not-update-after-sku-is-binded-on-vtexvtex-integrations
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 712956
 ---
 
@@ -27,9 +25,7 @@ However, if the error is corrected on the seller side and the sku is sent again 
 This behavior is happening on VTEX<>VTEX integrations (seller and marketplace are VTEX accounts).
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -41,10 +37,7 @@ This behavior is happening on VTEX<>VTEX integrations (seller and marketplace ar
 5. Check that the error message did not go away on the seller sku offer management UI.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 No workaround, but this not affect sales, the sku is already correctly binded to the marketplace;
-
