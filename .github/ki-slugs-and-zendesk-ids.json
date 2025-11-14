@@ -7271,6 +7271,11 @@
   },
   {
     "locale": "en",
+    "slug": "products-showing-flag-and-discount-after-promotion-ended",
+    "internalReference": 383911
+  },
+  {
+    "locale": "en",
     "slug": "productsku-upload-form-allows-utf16-format-uploaddownload",
     "internalReference": 493402
   },
@@ -15541,6 +15546,11 @@
   },
   {
     "locale": "es",
+    "slug": "productos-que-muestran-la-bandera-y-el-descuento-tras-finalizar-la-promocion",
+    "internalReference": 383911
+  },
+  {
+    "locale": "es",
     "slug": "promocion-mas-por-menos-no-funciona-junto-con-la-promocion-regular",
     "internalReference": 637586
   },
@@ -23698,6 +23708,11 @@
     "locale": "pt",
     "slug": "precos-expirados-nao-apagaveisatualizaveis-devido-ao-limite-de-variacao-de-preco",
     "internalReference": 325695
+  },
+  {
+    "locale": "pt",
+    "slug": "produtos-que-mostram-a-bandeira-e-o-desconto-apos-o-termino-da-promocao",
+    "internalReference": 383911
   },
   {
     "locale": "pt",
