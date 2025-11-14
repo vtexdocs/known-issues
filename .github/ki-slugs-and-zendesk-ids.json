@@ -22991,6 +22991,11 @@
   },
   {
     "locale": "pt",
+    "slug": "transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-entre-recipientssplitremainvalue",
+    "internalReference": 1295769
+  },
+  {
+    "locale": "pt",
     "slug": "transacao-presa-no-status-aprovado-com-pagamento-cancelado",
     "internalReference": 1046365
   },
