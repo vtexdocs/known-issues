@@ -1,36 +1,39 @@
 ---
 title: 'No funciona la ordenación de imágenes al subir una nueva versión'
-id: 2Oq65YHU6uIQpQ5g8ZpjTE
+slug: no-funciona-la-ordenacion-de-imagenes-al-subir-una-nueva-version
 status: PUBLISHED
-createdAt: 2023-01-25T15:08:43.356Z
-updatedAt: 2024-02-16T20:26:48.206Z
-publishedAt: 2024-02-16T20:26:48.206Z
-firstPublishedAt: 2023-01-25T15:08:43.873Z
+createdAt: 2025-11-14T17:13:47.053Z
+updatedAt: 2025-11-14T17:13:47.053Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slugEN: ordination-of-images-when-uploading-a-new-version-not-working
 locale: es
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 739814
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
 
 
 El filtro de orden en el editor CMS/Site al subir una nueva imagen no funciona correctamente
 
 
-##
-
-## Simulación
+#### Simulación
 
 
+Ir al editor del sitio
+Añada una nueva imagen
+Intentar ordenar
+
+ ![](https://vtexhelp.zendesk.com/attachments/token/Wx1y1CbhbAkyUIH8peG9xiLtJ/?name=image.png)
 
 ## Workaround
 
+
+No
 
 
