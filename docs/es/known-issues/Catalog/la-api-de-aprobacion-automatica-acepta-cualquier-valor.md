@@ -1,24 +1,22 @@
 ---
 title: 'La API de aprobación automática acepta cualquier valor'
-id: kLl4mtwKPPqW6jk5hZMWs
+slug: la-api-de-aprobacion-automatica-acepta-cualquier-valor
 status: PUBLISHED
-createdAt: 2022-12-12T14:18:51.059Z
-updatedAt: 2024-02-16T20:27:19.981Z
-publishedAt: 2024-02-16T20:27:19.981Z
-firstPublishedAt: 2022-12-12T14:18:51.733Z
+createdAt: 2025-11-14T17:15:01.630Z
+updatedAt: 2025-11-14T17:15:01.630Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: auto-approve-api-accepts-any-values
 locale: es
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 713704
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
 
 
 Actualmente, la API de autoaprobación no comprueba si el vendedor existe, lo que puede dar lugar a configuraciones incorrectas.
@@ -30,13 +28,15 @@ Si el identificador de vendedor anterior se envía, por ejemplo, con un carácte
 
 
 
-##
-
-## Simulación
+#### Simulación
 
 
+
+1. Utilizando la API de configuración de autoaprobación, establezca una cadena similar a la del vendedor, pero que no coincida exactamente
+2. Comprueba que este valor se establecerá como verdadero y la API no responderá con un mensaje indicando que no existe vendedor para ese valor
+3.
 
 ## Workaround
 
 
-
+Si su autoaprobación no funciona, compruebe si hay algún carácter con una mayúscula o minúscula diferente.
