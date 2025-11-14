@@ -2,8 +2,8 @@
 title: 'Transação presa em Aprovado enquanto o pagamento permanece Liquidado ao usar liquidações parciais'
 slug: transacao-presa-em-aprovado-enquanto-o-pagamento-permanece-liquidado-ao-usar-liquidacoes-parciais
 status: PUBLISHED
-createdAt: 2025-11-05T14:31:37.150Z
-updatedAt: 2025-11-05T14:31:37.150Z
+createdAt: 2025-11-14T19:32:28.516Z
+updatedAt: 2025-11-14T19:32:28.516Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
