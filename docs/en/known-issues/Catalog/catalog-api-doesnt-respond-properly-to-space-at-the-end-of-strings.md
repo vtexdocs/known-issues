@@ -1,18 +1,16 @@
 ---
-title: 'Catalog API doesn''t respond properly to space at the end of strings'
-id: 37TmHtc19126iarlQ4IL2p
+title: "Catalog API doesn't respond properly to space at the end of strings"
+slug: catalog-api-doesnt-respond-properly-to-space-at-the-end-of-strings
 status: PUBLISHED
-createdAt: 2024-02-05T16:49:35.136Z
-updatedAt: 2024-07-01T18:49:25.845Z
-publishedAt: 2024-07-01T18:49:25.845Z
-firstPublishedAt: 2024-02-05T16:49:36.178Z
+createdAt: 2025-11-14T18:08:42.429Z
+updatedAt: 2025-11-14T18:08:42.429Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: catalog-api-doesnt-respond-properly-to-space-at-the-end-of-strings
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 977033
 ---
 
@@ -24,24 +22,18 @@ When using the catalog API collection, if a string JSON field is sent ending wit
 The correct response should still be a 400 (bad request) but with an error handling informing which field is incorrect and why.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 For any catalog API (https://developers.vtex.com/docs/api-reference/catalog-api) insert 1+ empty spaces at the end of a string field, such as exemplified above.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 n/a
 
 This type of string should not be accepted, but the error handling must be adjusted.
-
-
 
 
 
