@@ -2,15 +2,15 @@
 title: 'Shopee Cannot update price because the product has Shopee-exclusive promotions'
 slug: shopee-cannot-update-price-because-the-product-has-shopeeexclusive-promotions
 status: PUBLISHED
-createdAt: 2025-09-18T19:43:10.269Z
-updatedAt: 2025-09-18T19:43:10.269Z
+createdAt: 2025-11-14T19:20:46.745Z
+updatedAt: 2025-11-14T19:20:46.745Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: shopee-cannot-update-price-because-the-product-has-shopeeexclusive-promotions
 locale: en
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1294478
 ---
 
