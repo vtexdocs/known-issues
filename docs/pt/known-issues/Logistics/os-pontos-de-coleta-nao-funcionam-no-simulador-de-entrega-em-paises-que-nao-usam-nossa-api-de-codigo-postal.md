@@ -2,15 +2,15 @@
 title: 'Os pontos de coleta não funcionam no simulador de entrega em países que não usam nossa API de código postal'
 slug: os-pontos-de-coleta-nao-funcionam-no-simulador-de-entrega-em-paises-que-nao-usam-nossa-api-de-codigo-postal
 status: PUBLISHED
-createdAt: 2025-07-24T17:41:48.494Z
-updatedAt: 2025-07-24T17:41:48.494Z
+createdAt: 2025-11-14T19:23:25.715Z
+updatedAt: 2025-11-14T19:23:25.715Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slugEN: pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api
 locale: pt
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1262007
 ---
 
@@ -27,7 +27,7 @@ Para verificar se um país usa nossa API de código postal, é necessário entra
 
 
 
-Faça uma simulação de envio (/admin/logistics#/freight-simulation), e o ponto de coleta não aparecerá como uma opção
+Faça uma simulação de remessa (/admin/logistics#/freight-simulation), e o ponto de coleta não aparecerá como uma opção
 ## Workaround
 
 
