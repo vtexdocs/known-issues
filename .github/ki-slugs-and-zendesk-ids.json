@@ -23706,11 +23706,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-subcontas-nao-sao-alocadas-automaticamente-a-um-cluster",
-    "internalReference": 1227332
-  },
-  {
-    "locale": "pt",
     "slug": "as-subcontas-nao-sao-alocadas-automaticamente-em-um-cluster",
     "internalReference": 1227332
   },
