@@ -1,18 +1,16 @@
 ---
 title: 'Video attribute is not being sent from seller to marketplace'
-id: 6JfHpP6F8TGmJofoKc99ON
+slug: video-attribute-is-not-being-sent-from-seller-to-marketplace
 status: PUBLISHED
-createdAt: 2022-02-07T20:07:23.358Z
-updatedAt: 2024-02-16T20:23:28.657Z
-publishedAt: 2024-02-16T20:23:28.657Z
-firstPublishedAt: 2022-02-07T20:07:23.814Z
+createdAt: 2025-11-14T19:15:07.301Z
+updatedAt: 2025-11-14T19:15:07.301Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: video-attribute-is-not-being-sent-from-seller-to-marketplace
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 519412
 ---
 
@@ -23,9 +21,7 @@ VTEX<>VTEX integrations are not being able to sent video attributes from seller 
 
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 1. Seller has a video link on it's sku;
@@ -33,14 +29,10 @@ VTEX<>VTEX integrations are not being able to sent video attributes from seller 
 3. Marketplace sku is created without the video information. Check on Catalog -> Sku -> Videos.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 No workaround.
-
-
 
 
 
