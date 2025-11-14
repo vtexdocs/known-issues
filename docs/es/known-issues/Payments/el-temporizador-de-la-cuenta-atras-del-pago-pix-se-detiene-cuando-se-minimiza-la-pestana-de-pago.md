@@ -2,8 +2,8 @@
 title: 'El temporizador de la cuenta atrás del pago PIX se detiene cuando se minimiza la pestaña de pago.'
 slug: el-temporizador-de-la-cuenta-atras-del-pago-pix-se-detiene-cuando-se-minimiza-la-pestana-de-pago
 status: PUBLISHED
-createdAt: 2025-10-15T17:18:35.098Z
-updatedAt: 2025-10-15T17:18:35.098Z
+createdAt: 2025-11-14T19:30:51.767Z
+updatedAt: 2025-11-14T19:30:51.767Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
