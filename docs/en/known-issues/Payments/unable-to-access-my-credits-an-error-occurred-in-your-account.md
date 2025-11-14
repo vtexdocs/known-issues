@@ -2,15 +2,15 @@
 title: 'Unable to access My Credits "An error occurred in your account"'
 slug: unable-to-access-my-credits-an-error-occurred-in-your-account
 status: PUBLISHED
-createdAt: 2025-09-04T18:52:29.334Z
-updatedAt: 2025-09-04T18:52:29.334Z
+createdAt: 2025-11-14T19:34:49.944Z
+updatedAt: 2025-11-14T19:34:49.944Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: unable-to-access-my-credits-an-error-occurred-in-your-account
 locale: en
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1287291
 ---
 
