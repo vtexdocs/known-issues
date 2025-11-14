@@ -1,11 +1,9 @@
 ---
-title: 'Legacy CMS''s banner custom element not working'
-id: 3ezW1BTc2nSvHpp0mAYhwh
+title: "Legacy CMS's banner custom element not working"
+slug: legacy-cmss-banner-custom-element-not-working
 status: PUBLISHED
-createdAt: 2024-02-07T13:44:20.722Z
-updatedAt: 2024-02-07T13:44:21.554Z
-publishedAt: 2024-02-07T13:44:21.554Z
-firstPublishedAt: 2024-02-07T13:44:21.554Z
+createdAt: 2025-11-14T19:11:59.389Z
+updatedAt: 2025-11-14T19:11:59.389Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -26,9 +24,7 @@ Setting up a custom element of this type will not yield effects in most cases an
 This only happens for legacy template stores.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 1 - go to the legacy CMS and select the custom elements tab
@@ -37,9 +33,7 @@ This only happens for legacy template stores.
 4 - the configured banner will not render properly
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 set up the banners by using the type HTML layout and/or subtemplates associated to it.
@@ -47,8 +41,6 @@ set up the banners by using the type HTML layout and/or subtemplates associated 
 OR
 
 migrate to the VTEX store framework
-
-
 
 
 
