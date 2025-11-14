@@ -1,18 +1,16 @@
 ---
-title: 'Received Skus: Association approvals don''t add the seller''s available sales channel on the product when the sku is sold by more than 1 seller'
-id: 5ob4jquCm8l84MhX6285h8
+title: "Received Skus: Association approvals don't add the seller's available sales channel on the product when the sku is sold by more than 1 seller"
+slug: received-skus-association-approvals-dont-add-the-sellers-available-sales-channel-on-the-product-when-the-sku-is-sold-by-more-than-1-seller
 status: PUBLISHED
-createdAt: 2022-04-18T17:15:41.091Z
-updatedAt: 2024-02-16T20:25:58.313Z
-publishedAt: 2024-02-16T20:25:58.313Z
-firstPublishedAt: 2022-04-18T17:15:41.436Z
+createdAt: 2025-11-14T19:13:40.446Z
+updatedAt: 2025-11-14T19:13:40.446Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: received-skus-association-approvals-dont-add-the-sellers-available-sales-channel-on-the-product-when-the-sku-is-sold-by-more-than-1-seller
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 562472
 ---
 
@@ -24,9 +22,7 @@ A product sold by another seller on the marketplace catalog is available to be s
 However, if a new seller also sends the product and the marketplace perform a association action on the Received Skus module, meaning link to another product or link to another sku, this new seller's sales channel won't be added to the product, remaining only the original seller's sales channel.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -38,14 +34,10 @@ However, if a new seller also sends the product and the marketplace perform a as
 6. Product remains available only on sales channel A.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Check manually, via API or via Spreadsheet, the other sales channel available for the products.
-
-
 
 
 
