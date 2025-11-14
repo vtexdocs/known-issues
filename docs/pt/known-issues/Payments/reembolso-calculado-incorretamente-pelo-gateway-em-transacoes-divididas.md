@@ -2,8 +2,8 @@
 title: 'Reembolso calculado incorretamente pelo gateway em transações divididas'
 slug: reembolso-calculado-incorretamente-pelo-gateway-em-transacoes-divididas
 status: PUBLISHED
-createdAt: 2025-10-16T20:42:28.117Z
-updatedAt: 2025-10-16T20:42:28.117Z
+createdAt: 2025-11-14T19:30:59.741Z
+updatedAt: 2025-11-14T19:30:59.741Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
