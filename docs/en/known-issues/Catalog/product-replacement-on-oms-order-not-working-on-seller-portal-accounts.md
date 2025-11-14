@@ -1,18 +1,16 @@
 ---
 title: 'Product replacement on OMS order not working on seller portal accounts'
-id: 1wQTfSR6OB6CL0sRpCYARp
+slug: product-replacement-on-oms-order-not-working-on-seller-portal-accounts
 status: PUBLISHED
-createdAt: 2023-02-14T12:25:00.911Z
-updatedAt: 2024-07-01T18:48:50.766Z
-publishedAt: 2024-07-01T18:48:50.766Z
-firstPublishedAt: 2023-02-14T12:25:01.506Z
+createdAt: 2025-11-14T19:13:06.703Z
+updatedAt: 2025-11-14T19:13:06.703Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: product-replacement-on-oms-order-not-working-on-seller-portal-accounts
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 753484
 ---
 
@@ -24,9 +22,7 @@ Is not being possible to change the sku of an order because the OMS uses the sea
 The error is: "A conta solicitada {accountName} não foi encontrada no banco de conexão." <> "The requested account {accountName} was not found in the connection bank."
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -35,14 +31,10 @@ The error is: "A conta solicitada {accountName} não foi encontrada no banco de 
 3. Inspecting the error is possible to see that the message is the one above.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 No workaround.
-
-
 
 
 
