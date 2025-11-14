@@ -2,8 +2,8 @@
 title: 'Carousel layout issue using responsive-values in SKU Selector'
 slug: carousel-layout-issue-using-responsivevalues-in-sku-selector
 status: PUBLISHED
-createdAt: 2025-10-16T20:50:21.468Z
-updatedAt: 2025-10-16T20:50:21.468Z
+createdAt: 2025-11-14T19:40:13.066Z
+updatedAt: 2025-11-14T19:40:13.066Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
