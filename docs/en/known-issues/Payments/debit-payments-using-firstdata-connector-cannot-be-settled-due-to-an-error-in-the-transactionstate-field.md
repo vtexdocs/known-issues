@@ -1,18 +1,16 @@
 ---
 title: 'Debit payments using Firstdata connector cannot be settled due to an error in the TransactionState field'
-id: 6imTj4PTpJGGFqyhSLTPu9
+slug: debit-payments-using-firstdata-connector-cannot-be-settled-due-to-an-error-in-the-transactionstate-field
 status: PUBLISHED
-createdAt: 2022-03-03T21:59:55.119Z
-updatedAt: 2024-02-16T20:24:59.932Z
-publishedAt: 2024-02-16T20:24:59.932Z
-firstPublishedAt: 2022-03-03T21:59:55.506Z
+createdAt: 2025-11-14T19:27:00.170Z
+updatedAt: 2025-11-14T19:27:00.170Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: debit-payments-using-firstdata-connector-cannot-be-settled-due-to-an-error-in-the-transactionstate-field
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 461095
 ---
 
@@ -26,22 +24,16 @@ When utilizing the Firstdata connector for processing debit payments, our code i
 
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 It is not possible to simulate since it is an intermittent behavior that depends on the payment provider's response.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 N/A
-
-
 
 
 
