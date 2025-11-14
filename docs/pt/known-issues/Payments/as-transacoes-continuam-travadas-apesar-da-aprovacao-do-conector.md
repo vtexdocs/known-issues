@@ -2,8 +2,8 @@
 title: 'As transações continuam travadas apesar da aprovação do conector'
 slug: as-transacoes-continuam-travadas-apesar-da-aprovacao-do-conector
 status: PUBLISHED
-createdAt: 2025-10-21T19:09:25.677Z
-updatedAt: 2025-10-21T19:09:25.677Z
+createdAt: 2025-11-14T19:33:40.679Z
+updatedAt: 2025-11-14T19:33:40.679Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
