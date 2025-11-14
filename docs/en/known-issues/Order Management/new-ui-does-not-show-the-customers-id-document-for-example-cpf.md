@@ -1,18 +1,16 @@
 ---
 title: 'New UI does not show the customers ID document for example CPF'
-id: 7y7Npcr6krhsnnEy54vQFa
+slug: new-ui-does-not-show-the-customers-id-document-for-example-cpf
 status: PUBLISHED
-createdAt: 2022-12-08T22:21:07.966Z
-updatedAt: 2024-02-16T20:27:18.190Z
-publishedAt: 2024-02-16T20:27:18.190Z
-firstPublishedAt: 2022-12-08T22:21:08.507Z
+createdAt: 2025-11-14T19:25:31.225Z
+updatedAt: 2025-11-14T19:25:31.225Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: new-ui-does-not-show-the-customers-id-document-for-example-cpf
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 713480
 ---
 
@@ -22,19 +20,14 @@ internalReference: 713480
 The New UI does not shows the customer ID document on orders. For example as CPF, it happens because the accounts trade policy has another country configured.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 You can set an different country on Trade Policy and make a purchase using this policy configuration on checkout store. Normal process.
 After that open the admin and consult the properly order, on client informations you will not see the client document ID.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 There is no workaround for now.
-
