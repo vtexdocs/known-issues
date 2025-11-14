@@ -2,8 +2,8 @@
 title: 'Payment created without connector leads to canceled transaction'
 slug: payment-created-without-connector-leads-to-canceled-transaction
 status: PUBLISHED
-createdAt: 2025-11-12T13:23:05.792Z
-updatedAt: 2025-11-12T13:23:05.792Z
+createdAt: 2025-11-14T19:30:09.783Z
+updatedAt: 2025-11-14T19:30:09.783Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
