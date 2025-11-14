@@ -17041,6 +17041,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-substituicao-do-produto-no-pedido-oms-nao-esta-funcionando-nas-contas-do-portal-do-vendedor",
+    "internalReference": 753484
+  },
+  {
+    "locale": "pt",
     "slug": "a-troca-de-tipos-de-vendedor-nao-aciona-uma-indexacao",
     "internalReference": 1242193
   },
@@ -17933,11 +17938,6 @@
     "locale": "pt",
     "slug": "skuservicoformaspx-nao-listando-tabelas-de-valores-no-inicio-para-um-tipo-de-valor",
     "internalReference": 335819
-  },
-  {
-    "locale": "pt",
-    "slug": "substituicao-de-produto-em-pedido-oms-nao-funcionando-nas-contas-do-portal-do-vendedor",
-    "internalReference": 753484
   },
   {
     "locale": "pt",
