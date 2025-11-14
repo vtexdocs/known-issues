@@ -1,18 +1,16 @@
 ---
 title: 'Space in warehouse ID causes internal logistics requests to fail'
-id: M8SsnABs2HgYsUvNnjCFx
+slug: space-in-warehouse-id-causes-internal-logistics-requests-to-fail
 status: PUBLISHED
-createdAt: 2022-09-20T21:51:05.157Z
-updatedAt: 2024-02-16T20:24:53.145Z
-publishedAt: 2024-02-16T20:24:53.145Z
-firstPublishedAt: 2022-09-20T21:51:05.702Z
+createdAt: 2025-11-14T19:23:58.631Z
+updatedAt: 2025-11-14T19:23:58.631Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slugEN: space-in-warehouse-id-causes-internal-logistics-requests-to-fail
 locale: en
-kiStatus: No Fix
+kiStatus: Fixed
 internalReference: 654370
 ---
 
@@ -22,9 +20,7 @@ internalReference: 654370
 The logistics UI allows a user to create a Warehouse by registering an ID with space and this directly affects the requests made to this warehouse and may cause failures in the inventory update.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -38,15 +34,11 @@ The logistics UI allows a user to create a Warehouse by registering an ID with s
 
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 ** **
 To avoid or adjust these scenarios, when creating a warehouse, use underscores to separate characters, in case you need to have spaces between characters or words.
-
-
 
 
 
