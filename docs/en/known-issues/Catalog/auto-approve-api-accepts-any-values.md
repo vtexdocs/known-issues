@@ -1,18 +1,16 @@
 ---
 title: 'Auto approve API accepts any values'
-id: kLl4mtwKPPqW6jk5hZMWs
+slug: auto-approve-api-accepts-any-values
 status: PUBLISHED
-createdAt: 2022-12-12T14:18:51.059Z
-updatedAt: 2024-02-16T20:27:19.981Z
-publishedAt: 2024-02-16T20:27:19.981Z
-firstPublishedAt: 2022-12-12T14:18:51.733Z
+createdAt: 2025-11-14T17:14:57.912Z
+updatedAt: 2025-11-14T17:14:57.912Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: auto-approve-api-accepts-any-values
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 713704
 ---
 
@@ -28,9 +26,7 @@ If the seller id above is sent, for instance, using a different case sensitive c
 
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -39,10 +35,7 @@ If the seller id above is sent, for instance, using a different case sensitive c
 3.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 If your autoapprove is not working, double check if there's any character with a different case or slight difference.
-
