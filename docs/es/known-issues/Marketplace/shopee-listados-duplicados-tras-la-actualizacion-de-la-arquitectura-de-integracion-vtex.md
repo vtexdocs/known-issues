@@ -2,8 +2,8 @@
 title: 'Shopee Listados duplicados tras la actualización de la arquitectura de integración VTEX'
 slug: shopee-listados-duplicados-tras-la-actualizacion-de-la-arquitectura-de-integracion-vtex
 status: PUBLISHED
-createdAt: 2025-10-16T21:00:24.687Z
-updatedAt: 2025-10-16T21:00:24.687Z
+createdAt: 2025-11-14T19:25:01.728Z
+updatedAt: 2025-11-14T19:25:01.728Z
 contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
