@@ -1,18 +1,16 @@
 ---
 title: 'Attachment Update and Create API validation on field DomainValues not working'
-id: 1NAwwi7C65xM2G61uaTLrB
+slug: attachment-update-and-create-api-validation-on-field-domainvalues-not-working
 status: PUBLISHED
-createdAt: 2023-02-09T16:10:03.814Z
-updatedAt: 2024-07-01T18:48:48.654Z
-publishedAt: 2024-07-01T18:48:48.654Z
-firstPublishedAt: 2023-02-09T16:10:04.449Z
+createdAt: 2025-11-14T17:14:34.283Z
+updatedAt: 2025-11-14T17:14:34.283Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: attachment-update-and-create-api-validation-on-field-domainvalues-not-working
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 751091
 ---
 
@@ -20,7 +18,7 @@ internalReference: 751091
 
 
 Via UI (directly on VTEX admin) is possible to create an attachment without the field **Permitted values** filled:
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/attachment-update-and-create-api-validation-on-field-domainvalues-not-working_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/8rFw6593yoVr64CViajezsXW0/?name=image.png)
 
 However, via API there is this validation for this field:
 
@@ -34,9 +32,7 @@ Meaning you can't create a attachment like this:
 
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -45,14 +41,10 @@ Meaning you can't create a attachment like this:
 3. Check that the error message mentioned above is returned.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Create the attachment via Admin.
-
-
 
 
 
