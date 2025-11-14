@@ -8931,7 +8931,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-enlace-por-que-rellenar-la-categoria-global-vtex-en-la-configuracion-de-la-categoria-solo-funciona-abriendose-en-una-nueva-pestana",
+    "slug": "el-enlace-por-que-rellenar-la-categoria-global-vtex-en-la-configuracion-de-la-categoria-solo-funciona-al-abrirse-en-una-nueva-pestana",
     "internalReference": 544034
   },
   {
@@ -17481,7 +17481,7 @@
   },
   {
     "locale": "pt",
-    "slug": "filtro-da-categoria-ui-legacy-collection-selecionando-produtos-erroneamente-para-a-colecao",
+    "slug": "filtro-de-categoria-da-iu-da-colecao-legada-selecionando-produtos-erroneamente-para-a-colecao",
     "internalReference": 590934
   },
   {
@@ -17573,11 +17573,6 @@
     "locale": "pt",
     "slug": "link-de-texto-criado-com-no-marketplace-apos-as-aprovacoes-reocorrencia",
     "internalReference": 795900
-  },
-  {
-    "locale": "pt",
-    "slug": "link-por-que-preencher-a-categoria-vtex-global-na-configuracao-da-categoria-so-funciona-abrindo-em-uma-nova-aba",
-    "internalReference": 544034
   },
   {
     "locale": "pt",
@@ -17738,6 +17733,11 @@
     "locale": "pt",
     "slug": "o-link-alterar-pedido-no-checkoutorderplaced-esta-direcionando-para-myaccount-em-vez-da-pagina-do-pedido",
     "internalReference": 844893
+  },
+  {
+    "locale": "pt",
+    "slug": "o-link-why-fill-vtex-global-category-por-que-preencher-a-categoria-global-da-vtex-na-configuracao-da-categoria-so-funciona-ao-abrir-em-uma-nova-guia",
+    "internalReference": 544034
   },
   {
     "locale": "pt",
