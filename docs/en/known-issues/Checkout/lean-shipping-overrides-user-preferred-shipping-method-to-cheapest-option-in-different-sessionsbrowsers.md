@@ -1,11 +1,9 @@
 ---
 title: 'Lean Shipping overrides user preferred shipping method to cheapest option in different sessions/browsers'
-id: 2bUIAHTUDuu2K98HWVjVfb
+slug: lean-shipping-overrides-user-preferred-shipping-method-to-cheapest-option-in-different-sessionsbrowsers
 status: PUBLISHED
-createdAt: 2023-02-01T21:06:22.140Z
-updatedAt: 2023-02-01T21:06:23.163Z
-publishedAt: 2023-02-01T21:06:23.163Z
-firstPublishedAt: 2023-02-01T21:06:23.163Z
+createdAt: 2025-11-14T19:17:00.148Z
+updatedAt: 2025-11-14T19:17:00.148Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -22,9 +20,7 @@ internalReference: 607411
 In new sessions (different browsers) for the same orderForm, the previously selected option is not taken into account, being always superimposed on the "cheaper" option, especially affects shared cart scenarios
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -33,13 +29,9 @@ In new sessions (different browsers) for the same orderForm, the previously sele
 - See the shipping cost is the cheapest option instead of the selected option previously
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 N/A
-
-
 
 
