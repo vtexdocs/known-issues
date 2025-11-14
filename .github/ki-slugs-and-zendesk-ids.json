@@ -15491,7 +15491,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-promociones-de-regalo-no-funcionan-como-se-esperaba-cuando-actuan-junto-a-otra-promocion-de-regalo",
+    "slug": "las-promociones-de-regalo-no-funcionan-como-se-esperaba-cuando-actuan-junto-con-otra-promocion-de-regalo",
     "internalReference": 729980
   },
   {
@@ -23511,6 +23511,11 @@
   },
   {
     "locale": "pt",
+    "slug": "as-promocoes-de-brindes-nao-funcionam-como-esperado-quando-atuam-junto-com-outra-promocao-de-brindes",
+    "internalReference": 729980
+  },
+  {
+    "locale": "pt",
     "slug": "as-promocoes-mais-por-menos-estao-sendo-aplicadas-incorretamente-a-quantidades-sobrepostas",
     "internalReference": 1149846
   },
@@ -23728,11 +23733,6 @@
     "locale": "pt",
     "slug": "promocao-regular-com-uso-de-filtros-de-valor-no-carrinho",
     "internalReference": 445569
-  },
-  {
-    "locale": "pt",
-    "slug": "promocoes-de-presentes-que-nao-funcionam-como-esperado-quando-atuam-em-conjunto-com-outras-promocoes-de-presentes",
-    "internalReference": 729980
   },
   {
     "locale": "pt",
