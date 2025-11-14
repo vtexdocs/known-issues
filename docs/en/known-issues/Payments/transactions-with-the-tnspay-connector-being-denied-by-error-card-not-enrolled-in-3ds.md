@@ -1,18 +1,16 @@
 ---
 title: 'Transactions with the TNSPay connector being denied by error: Card not ENROLLED in 3DS'
-id: 2jZefzH8LYqPJxkmylmyA0
+slug: transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds
 status: PUBLISHED
-createdAt: 2022-03-14T13:21:56.187Z
-updatedAt: 2024-02-16T20:24:33.195Z
-publishedAt: 2024-02-16T20:24:33.195Z
-firstPublishedAt: 2022-03-14T13:21:56.952Z
+createdAt: 2025-11-14T19:34:37.601Z
+updatedAt: 2025-11-14T19:34:37.601Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 541687
 ---
 
@@ -30,18 +28,13 @@ At the beginning of the process, the first log is
 The authorization method was called 2 times within 2 seconds.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 Cannot simulate
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 There is no workaround
-
