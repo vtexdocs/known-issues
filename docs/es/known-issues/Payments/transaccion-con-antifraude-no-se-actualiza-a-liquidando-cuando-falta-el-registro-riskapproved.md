@@ -2,8 +2,8 @@
 title: 'Transacción con antifraude no se actualiza a "liquidando" cuando falta el registro "riskApproved'
 slug: transaccion-con-antifraude-no-se-actualiza-a-liquidando-cuando-falta-el-registro-riskapproved
 status: PUBLISHED
-createdAt: 2025-10-16T20:38:23.971Z
-updatedAt: 2025-10-16T20:38:23.971Z
+createdAt: 2025-11-14T19:33:02.957Z
+updatedAt: 2025-11-14T19:33:02.957Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
