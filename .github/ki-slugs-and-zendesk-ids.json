@@ -16781,6 +16781,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-api-de-aprovacao-automatica-aceita-qualquer-valor",
+    "internalReference": 713704
+  },
+  {
+    "locale": "pt",
     "slug": "a-api-de-criacao-de-kits-nao-esta-calculando-os-precos-dos-componentes",
     "internalReference": 739693
   },
@@ -17178,11 +17183,6 @@
     "locale": "pt",
     "slug": "atualizacao-das-especificacoes-do-produto-impossivel-devido-a-falta-de-propriedade-no-get-resp-json",
     "internalReference": 301725
-  },
-  {
-    "locale": "pt",
-    "slug": "auto-aprova-api-aceita-quaisquer-valores",
-    "internalReference": 713704
   },
   {
     "locale": "pt",
