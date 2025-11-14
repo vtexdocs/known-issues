@@ -11336,6 +11336,11 @@
   },
   {
     "locale": "es",
+    "slug": "erro-categoria-xxx-no-encontrada-en-el-mapeo-del-nodo-de-navegacion-para-la-especificacion-del-departamento-de-sku-elija-una-categoria-global-mas-especifica-persistente",
+    "internalReference": 417639
+  },
+  {
+    "locale": "es",
     "slug": "erro-sqlerrm-no-tracking-brinox-b2w",
     "internalReference": 643287
   },
@@ -19518,6 +19523,11 @@
     "locale": "pt",
     "slug": "divergencia-shipping-estimate-b2w",
     "internalReference": 642448
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-a-categoria-xxx-nao-foi-encontrada-no-mapeamento-do-no-de-navegacao-para-a-especificacao-de-departamento-da-sku-escolha-uma-categoria-global-mais-especifica-persistente",
+    "internalReference": 417639
   },
   {
     "locale": "pt",
