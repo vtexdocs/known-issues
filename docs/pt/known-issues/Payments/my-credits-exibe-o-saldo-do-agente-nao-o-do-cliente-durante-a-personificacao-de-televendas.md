@@ -2,15 +2,15 @@
 title: 'My Credits exibe o saldo do agente, não o do cliente, durante a personificação de televendas'
 slug: my-credits-exibe-o-saldo-do-agente-nao-o-do-cliente-durante-a-personificacao-de-televendas
 status: PUBLISHED
-createdAt: 2025-10-02T12:44:51.951Z
-updatedAt: 2025-10-02T12:44:51.951Z
+createdAt: 2025-11-14T19:29:40.979Z
+updatedAt: 2025-11-14T19:29:40.979Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: my-credits-displays-agents-balance-not-customers-during-telesales-impersonation
 locale: pt
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1301293
 ---
 
