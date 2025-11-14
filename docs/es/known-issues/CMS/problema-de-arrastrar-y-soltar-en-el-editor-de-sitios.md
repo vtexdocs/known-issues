@@ -1,44 +1,38 @@
 ---
 title: 'Problema de arrastrar y soltar en el Editor de Sitios'
-id: 4DubZ5C0dmqKGQqAZ6nZjo
+slug: problema-de-arrastrar-y-soltar-en-el-editor-de-sitios
 status: PUBLISHED
-createdAt: 2022-10-25T15:31:15.485Z
-updatedAt: 2023-03-09T14:04:38.040Z
-publishedAt: 2023-03-09T14:04:38.040Z
-firstPublishedAt: 2022-10-25T15:31:16.032Z
+createdAt: 2025-11-14T17:12:34.795Z
+updatedAt: 2025-11-14T17:12:34.795Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slugEN: drag-and-drop-issue-on-site-editor
 locale: es
-kiStatus: Fixed
+kiStatus: Backlog
 internalReference: 685103
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
 
 
 Los clientes no pueden utilizar la función de arrastrar y soltar en el editor del sitio para subir imágenes, esto probablemente ocurre duo nuestra nueva implementación de nuestro nuevo CMS Media Management.
 
 
-##
-
-## Simulación
+#### Simulación
 
 
 
 Ir a cualquier cuenta y tratar de subir una imagen de banner a través de arrastrar y soltar
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/CMS/problema-de-arrastrar-y-soltar-en-el-editor-de-sitios_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VImrMx2X11Cyb9sePaOFJJbj2/?name=inline785506209.png)
 https://share.vidyard.com/watch/RXWHL4QYir7i5h1U4zuEuJ
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Subir imágenes sin usar arrastrar y soltar, o,
@@ -47,4 +41,3 @@ Trate de volver a una versión anterior de admin-pages sin algunas correcciones 
 
 Ejecute `vtex install vtex.admin-pages@4.43.1`
 Esto resolverá el problema de arrastrar y soltar, pero otros problemas pueden aparecer de nuevo.
-
