@@ -1,11 +1,9 @@
 ---
 title: 'Applying a Coupon Removes Initial UTM Campaign Promotion from Cart'
-id: 2A1S6PgEwD9SgQo1UHrFFS
+slug: applying-a-coupon-removes-initial-utm-campaign-promotion-from-cart
 status: PUBLISHED
-createdAt: 2024-08-27T20:52:46.450Z
-updatedAt: 2024-08-27T21:14:48.748Z
-publishedAt: 2024-08-27T21:14:48.748Z
-firstPublishedAt: 2024-08-27T20:52:47.777Z
+createdAt: 2025-11-14T19:37:21.377Z
+updatedAt: 2025-11-14T19:37:21.377Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -22,9 +20,7 @@ internalReference: 1088010
 There is a bug where applying a coupon triggers a conflict with a promotion associated with a `utm_campaign`. When a promotion is activated by a specific `utm_campaign` and a coupon (which also has its own `utm_campaign` configuration) is added, the coupon removes the initial promotion. Despite the initial `utm_campaign` remaining in the `orderForm`, the initial promotion is no longer applied. The second promotion is triggered by the coupon, not by the UTM.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 To reproduce this behavior, follow these steps:
@@ -43,14 +39,10 @@ To reproduce this behavior, follow these steps:
   6. Observe that the initial free shipping promotion is removed from the cart after applying the coupon, even though the initial `utm_campaign` remains in the `orderForm`.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 If the second promotion (triggered by the coupon) is configured with a `utm_source` instead of `utm_campaign`, the bug can be circumvented. In this case, both promotions will be applied successfully without any conflict.
-
-
 
 
 
