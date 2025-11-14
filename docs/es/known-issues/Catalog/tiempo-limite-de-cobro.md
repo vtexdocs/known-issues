@@ -2,8 +2,8 @@
 title: 'Tiempo límite de cobro'
 slug: tiempo-limite-de-cobro
 status: PUBLISHED
-createdAt: 2025-10-02T19:53:56.690Z
-updatedAt: 2025-10-02T19:53:56.690Z
+createdAt: 2025-11-14T18:09:21.818Z
+updatedAt: 2025-11-14T18:09:21.818Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
