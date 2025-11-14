@@ -1,16 +1,16 @@
 ---
-title: 'Erro na contagem da quantidade de SKU no checkout quando a promoção Mais por Menos é aplicada em Cotações B2B'
+title: 'Erro na contagem da quantidade de SKU no checkout quando a promoção Mais por menos é aplicada em cotações B2B'
 slug: erro-na-contagem-da-quantidade-de-sku-no-checkout-quando-a-promocao-mais-por-menos-e-aplicada-em-cotacoes-b2b
 status: PUBLISHED
-createdAt: 2025-08-26T19:08:33.667Z
-updatedAt: 2025-08-26T19:08:33.667Z
+createdAt: 2025-11-14T17:12:10.130Z
+updatedAt: 2025-11-14T17:12:10.130Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slugEN: sku-quantity-miscount-in-checkout-when-more-for-less-promotion-is-applied-in-b2b-quotes
 locale: pt
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1281922
 ---
 
