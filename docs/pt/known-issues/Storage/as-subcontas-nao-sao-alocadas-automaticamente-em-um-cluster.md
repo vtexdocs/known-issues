@@ -2,8 +2,8 @@
 title: 'As subcontas não são alocadas automaticamente em um cluster'
 slug: as-subcontas-nao-sao-alocadas-automaticamente-em-um-cluster
 status: PUBLISHED
-createdAt: 2025-10-16T20:52:55.557Z
-updatedAt: 2025-10-16T20:52:55.557Z
+createdAt: 2025-11-14T16:21:20.207Z
+updatedAt: 2025-11-14T16:21:20.207Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -30,8 +30,7 @@ As subcontas não são alocadas automaticamente em um cluster após a criação.
 Tentativa de chamar a API de pesquisa de dados mestre, como:
 
     GET https://..com/api/dataentities/CL/search?_fields=id
-
-3. Observe que a resposta retorna um erro 500 indicando que a pesquisa de dados mestre não está funcionando
+3. Observe que a resposta retorna um erro 500, indicando que a pesquisa de dados mestre não está funcionando
 ## Workaround
 
 
