@@ -2,8 +2,8 @@
 title: 'As transações criadas sem nenhum pagamento ficam presas em "Cancelamento"'
 slug: as-transacoes-criadas-sem-nenhum-pagamento-ficam-presas-em-cancelamento
 status: PUBLISHED
-createdAt: 2025-10-28T14:06:08.492Z
-updatedAt: 2025-10-28T14:06:08.492Z
+createdAt: 2025-11-14T19:33:10.924Z
+updatedAt: 2025-11-14T19:33:10.924Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
