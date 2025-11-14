@@ -16626,11 +16626,6 @@
   },
   {
     "locale": "pt",
-    "slug": "edicao-drag-and-drop-no-site-editor",
-    "internalReference": 685103
-  },
-  {
-    "locale": "pt",
     "slug": "erro-algo-deu-errado-tente-novamente-ao-adicionar-imagens-pelo-site-editor",
     "internalReference": 932126
   },
@@ -16758,6 +16753,11 @@
     "locale": "pt",
     "slug": "perda-intermitente-de-conteudo-do-site-editor",
     "internalReference": 610533
+  },
+  {
+    "locale": "pt",
+    "slug": "problema-de-arrastar-e-soltar-no-site-editor",
+    "internalReference": 685103
   },
   {
     "locale": "pt",
