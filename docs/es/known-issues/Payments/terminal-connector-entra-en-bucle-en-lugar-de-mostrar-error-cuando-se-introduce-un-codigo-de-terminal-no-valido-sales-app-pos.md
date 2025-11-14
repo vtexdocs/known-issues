@@ -2,8 +2,8 @@
 title: 'Terminal Connector entra en bucle en lugar de mostrar error cuando se introduce un código de terminal no válido (Sales App POS)'
 slug: terminal-connector-entra-en-bucle-en-lugar-de-mostrar-error-cuando-se-introduce-un-codigo-de-terminal-no-valido-sales-app-pos
 status: PUBLISHED
-createdAt: 2025-10-07T12:21:26.608Z
-updatedAt: 2025-10-07T12:21:26.608Z
+createdAt: 2025-11-14T19:31:31.950Z
+updatedAt: 2025-11-14T19:31:31.950Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,7 +19,7 @@ internalReference: 1303282
 ## Sumario
 
 
-Cuando un usuario introduce un número de serie/código de terminal inexistente, el flujo del terminal-conector debería mostrar un error, pero la aplicación nativa vtex.terminal-connector-app entra en un bucle infinito y la pantalla se queda atascada en "Esperando pago en el terminal".
+Cuando un usuario introduce un número de serie/código de terminal inexistente, el flujo de terminal-conector debería mostrar un error, pero la aplicación nativa vtex.terminal-connector-app entra en un bucle infinito y la pantalla se queda atascada en "Esperando pago en el terminal".
 Afecta a los flujos POS de la aplicación de ventas que utilizan vtex.terminal-connector-app cuando se proporciona un código de terminal no válido.
 
 
