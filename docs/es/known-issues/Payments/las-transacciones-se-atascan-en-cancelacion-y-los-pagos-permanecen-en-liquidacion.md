@@ -2,8 +2,8 @@
 title: 'Las transacciones se atascan en "Cancelación" y los pagos permanecen en "Liquidación".'
 slug: las-transacciones-se-atascan-en-cancelacion-y-los-pagos-permanecen-en-liquidacion
 status: PUBLISHED
-createdAt: 2025-11-03T17:59:22.926Z
-updatedAt: 2025-11-03T17:59:22.926Z
+createdAt: 2025-11-14T19:34:26.748Z
+updatedAt: 2025-11-14T19:34:26.748Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
