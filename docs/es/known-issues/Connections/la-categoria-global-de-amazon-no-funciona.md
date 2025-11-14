@@ -1,32 +1,36 @@
 ---
 title: 'La categoría global de Amazon no funciona'
-id: 4xG37vNjH3XWVdb57w6zzV
+slug: la-categoria-global-de-amazon-no-funciona
 status: PUBLISHED
-createdAt: 2022-08-12T11:49:47.214Z
-updatedAt: 2024-02-16T20:25:10.435Z
-publishedAt: 2024-02-16T20:25:10.435Z
-firstPublishedAt: 2022-08-12T11:49:47.743Z
+createdAt: 2025-11-14T19:18:46.166Z
+updatedAt: 2025-11-14T19:18:46.166Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: amazon-global-category-not-working
 locale: es
-kiStatus: No Fix
+kiStatus: Fixed
 internalReference: 634199
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
 
-## Simulación
+Este KI se resolvió con la implementación de Amazon linting.
 
 
+#### Simulación
+
+
+Este problema se ha resuelto con la implementación de Amazon linting.
 
 ## Workaround
+
+
+N/A
 
 
 
