@@ -1,32 +1,28 @@
 ---
 title: 'El pago y la división de transacciones no funcionan en el mismo orden para el inventario omnicanal multinivel.'
-id: 3rFyqzEnSwx2czwdlgDovU
+slug: el-pago-y-la-division-de-transacciones-no-funcionan-en-el-mismo-orden-para-el-inventario-omnicanal-multinivel
 status: PUBLISHED
-createdAt: 2023-03-23T19:03:22.498Z
-updatedAt: 2024-02-16T20:25:26.525Z
-publishedAt: 2024-02-16T20:25:26.525Z
-firstPublishedAt: 2023-03-23T19:03:23.526Z
+createdAt: 2025-11-14T19:17:16.799Z
+updatedAt: 2025-11-14T19:17:16.799Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slugEN: payout-and-transaction-split-dont-work-in-the-same-order-for-multilevel-omnichannel-inventory
 locale: es
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 777201
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-En un marketplace con vendedores con relación multinivel (MOI), cuando se monta un carrito con al menos un vendedor que utiliza división de transacciones y otros que utilizan división de pagos, las transacciones con división de pagos se duplicarán repitiendo los artículos de distintos vendedores. Este escenario no permitirá realizar el pedido, y aparecerá el mensaje "Lo sentimos. No se han podido procesar los pagos solicitados".
+
+En un marketplace con vendedores con relación multinivel (MOI), cuando se monta un carro con al menos un vendedor que utiliza división de transacciones y otros que utilizan división de pagos, las transacciones con división de pagos se duplicarán repitiendo los artículos de distintos vendedores. Este escenario no permitirá realizar el pedido, y aparecerá el mensaje "Lo sentimos. No se han podido procesar los pagos solicitados".
 
 
-##
-
-## Simulación
+#### Simulación
 
 
 
@@ -35,12 +31,8 @@ En un marketplace con vendedores con relación multinivel (MOI), cuando se monta
 - Montar un carro con esos vendedores;
 - Realizar el pedido.
 
-
-
 ## Workaround
 
 
 Utilice la división de pagos para todos los vendedores
-
-
 
