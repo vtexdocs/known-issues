@@ -16961,6 +16961,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-mensagem-de-erro-no-gerenciamento-de-ofertas-nao-e-atualizada-depois-que-o-sku-e-vinculado-nas-integracoes-vtexvtex",
+    "internalReference": 712956
+  },
+  {
+    "locale": "pt",
     "slug": "a-movimentacao-de-categorias-nao-atualiza-o-id-do-departamento-nos-produtos",
     "internalReference": 316694
   },
@@ -17593,11 +17598,6 @@
     "locale": "pt",
     "slug": "mensagem-de-erro-inespecifica-ao-exportar-produtoexportacaoimportacaoespecificacaov2aspx",
     "internalReference": 314227
-  },
-  {
-    "locale": "pt",
-    "slug": "mensagem-de-erro-na-gestao-de-ofertas-nao-e-atualizada-depois-que-o-sku-e-vinculado-a-integracoes-vtexvtex",
-    "internalReference": 712956
   },
   {
     "locale": "pt",
