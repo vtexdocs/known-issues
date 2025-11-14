@@ -2,8 +2,8 @@
 title: '"isBillingAddressDifferent": falso quando deveria ser verdadeiro em uma primeira compra como ponto de coleta'
 slug: isbillingaddressdifferent-falso-quando-deveria-ser-verdadeiro-em-uma-primeira-compra-como-ponto-de-coleta
 status: PUBLISHED
-createdAt: 2025-10-16T20:38:03.685Z
-updatedAt: 2025-10-16T20:38:03.685Z
+createdAt: 2025-11-14T19:29:12.486Z
+updatedAt: 2025-11-14T19:29:12.486Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
