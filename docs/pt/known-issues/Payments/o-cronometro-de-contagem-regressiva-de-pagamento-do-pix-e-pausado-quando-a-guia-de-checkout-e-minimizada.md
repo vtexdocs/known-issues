@@ -2,8 +2,8 @@
 title: 'O cronômetro de contagem regressiva de pagamento do PIX é pausado quando a guia de checkout é minimizada'
 slug: o-cronometro-de-contagem-regressiva-de-pagamento-do-pix-e-pausado-quando-a-guia-de-checkout-e-minimizada
 status: PUBLISHED
-createdAt: 2025-10-15T17:18:20.696Z
-updatedAt: 2025-10-15T17:18:20.696Z
+createdAt: 2025-11-14T19:30:46.340Z
+updatedAt: 2025-11-14T19:30:46.340Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
