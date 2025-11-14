@@ -1,18 +1,16 @@
 ---
-title: 'Shipping Preview wrongly displaying the date when it''s scheduled delivery'
-id: 6pbufuWTFkL4NK3xLIxj1z
+title: "Shipping Preview wrongly displaying the date when it's scheduled delivery"
+slug: shipping-preview-wrongly-displaying-the-date-when-its-scheduled-delivery
 status: PUBLISHED
-createdAt: 2023-01-31T19:36:58.137Z
-updatedAt: 2024-07-01T18:48:44.228Z
-publishedAt: 2024-07-01T18:48:44.228Z
-firstPublishedAt: 2023-01-31T19:36:58.933Z
+createdAt: 2025-11-14T19:17:46.250Z
+updatedAt: 2025-11-14T19:17:46.250Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slugEN: shipping-preview-wrongly-displaying-the-date-when-its-scheduled-delivery
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 743774
 ---
 
@@ -22,9 +20,7 @@ internalReference: 743774
 Checkout UI converts the time using the computer's time zone displaying the delivery date incorrectly in shipping-preview (cart) when items are scheduled delivery.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -33,13 +29,9 @@ Checkout UI converts the time using the computer's time zone displaying the deli
 - You will see that the date shown is the day before
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Configure scheduled delivery windows during the daytime, such as business hours since it's the most common time for deliveries
-
-
 
 
