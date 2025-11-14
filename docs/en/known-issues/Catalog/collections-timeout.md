@@ -2,8 +2,8 @@
 title: 'Collections Timeout'
 slug: collections-timeout
 status: PUBLISHED
-createdAt: 2025-10-02T19:53:52.135Z
-updatedAt: 2025-10-02T19:53:52.135Z
+createdAt: 2025-11-14T18:09:17.840Z
+updatedAt: 2025-11-14T18:09:17.840Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
