@@ -2,8 +2,8 @@
 title: '"isBillingAddressDifferent": false when it should be true in a first buy as pick-up point'
 slug: isbillingaddressdifferent-false-when-it-should-be-true-in-a-first-buy-as-pickup-point
 status: PUBLISHED
-createdAt: 2025-10-16T20:38:06.319Z
-updatedAt: 2025-10-16T20:38:06.319Z
+createdAt: 2025-11-14T19:29:15.435Z
+updatedAt: 2025-11-14T19:29:15.435Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
