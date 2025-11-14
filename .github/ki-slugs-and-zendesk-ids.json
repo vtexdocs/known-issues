@@ -16611,6 +16611,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-ordenacao-de-imagens-ao-fazer-o-upload-de-uma-nova-versao-nao-esta-funcionando",
+    "internalReference": 739814
+  },
+  {
+    "locale": "pt",
     "slug": "ao-excluir-rotas-do-arquivo-routesjson-elas-nao-sao-excluidas-da-interface-do-usuario",
     "internalReference": 1172460
   },
@@ -16728,11 +16733,6 @@
     "locale": "pt",
     "slug": "o-usuario-ainda-pode-ver-e-acessar-os-recursos-do-cms-mesmo-sem-a-permissao-correta",
     "internalReference": 1046263
-  },
-  {
-    "locale": "pt",
-    "slug": "ordenacao-de-imagens-ao-fazer-upload-de-uma-nova-versao-nao-funcionando",
-    "internalReference": 739814
   },
   {
     "locale": "pt",
