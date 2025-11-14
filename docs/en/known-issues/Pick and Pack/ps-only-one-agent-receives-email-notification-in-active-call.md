@@ -2,8 +2,8 @@
 title: 'PS – Only one agent receives email notification in active call'
 slug: ps-only-one-agent-receives-email-notification-in-active-call
 status: PUBLISHED
-createdAt: 2025-10-16T20:50:34.243Z
-updatedAt: 2025-10-16T20:50:34.243Z
+createdAt: 2025-11-14T19:36:18.095Z
+updatedAt: 2025-11-14T19:36:18.095Z
 contentType: knownIssue
 productTeam: Pick and Pack
 author: 2mXZkbi0oi061KicTExNjo
