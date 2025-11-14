@@ -2,8 +2,8 @@
 title: 'checkout-graphql could not handle items with subscription when the orderForm has gifts'
 slug: checkoutgraphql-could-not-handle-items-with-subscription-when-the-orderform-has-gifts
 status: PUBLISHED
-createdAt: 2025-10-16T19:15:59.104Z
-updatedAt: 2025-10-16T19:15:59.104Z
+createdAt: 2025-11-14T19:16:17.219Z
+updatedAt: 2025-11-14T19:16:17.219Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
