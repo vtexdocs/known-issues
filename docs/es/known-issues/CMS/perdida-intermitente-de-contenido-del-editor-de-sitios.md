@@ -1,31 +1,27 @@
 ---
 title: 'Pérdida intermitente de contenido del Editor de Sitios'
-id: 3a5MlAoD2Z7Gu6HDS8wihD
+slug: perdida-intermitente-de-contenido-del-editor-de-sitios
 status: PUBLISHED
-createdAt: 2022-07-05T17:07:24.733Z
-updatedAt: 2024-11-18T14:05:46.071Z
-publishedAt: 2024-11-18T14:05:46.071Z
-firstPublishedAt: 2022-07-05T17:07:25.091Z
+createdAt: 2025-11-14T17:12:56.067Z
+updatedAt: 2025-11-14T17:12:56.067Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slugEN: intermitent-site-editor-content-loss
 locale: es
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 610533
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
 
 
 Cada cambio de contenido en el Editor de Sitios inserta cambios en el archivo content.json, almacenado en un bucket en AWS S3 y en el content_render.js. Algunos clientes han informado de la pérdida de contenido del Editor de Sitios después de algunos procedimientos estándar, como la promoción del espacio de trabajo.
 
 El contenido del espacio de trabajo no se lleva al entorno maestro después del proceso de promoción. Dado que la política de promoción predeterminada para gestionar conflictos es `masterWins`, el contenido del espacio de trabajo no se lleva a producción en los casos de conflicto.
-
-
 
 ## Simulación
 
@@ -41,7 +37,7 @@ Este problema es nuevo y diferente del anterior que originó este KI. Esto ha es
 
 1.3 Actualizar el maestro; esto creará un conflicto. La referencia creada anteriormente empieza a apuntar al maestro, por lo que se produce el problema. Sólo vuelve a la normalidad tras la resolución del conflicto;
 
-1.4 Realice el proceso de promoción en el espacio de trabajo. Seguirá apuntando al contenido maestro pero invalidará el contenido del espacio de trabajo.
+1.4 Realice el proceso de promoción en el área de trabajo. Seguirá apuntando al contenido maestro pero invalidará el contenido del espacio de trabajo.
 
 
 
@@ -52,8 +48,6 @@ Los clientes informaron de que al instalar una nueva versión del tema en un esp
 
 Esto ocurre normalmente debido a cambios en la estructura del proyecto, como las rutas de árbol. Es importante recordar que si se requiere un cambio en el treepath, el contenido debe ser añadido de nuevo.
 
-
-
 ## Workaround
 
 
@@ -61,6 +55,4 @@ N/A
 
 
 
-
-
-
+%0A
