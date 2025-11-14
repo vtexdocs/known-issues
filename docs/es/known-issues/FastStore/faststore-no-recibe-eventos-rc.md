@@ -1,49 +1,41 @@
 ---
 title: 'Faststore no recibe eventos RC'
-id: 76K8dbNqoEOdaB7au0Du8d
+slug: faststore-no-recibe-eventos-rc
 status: PUBLISHED
-createdAt: 2024-11-18T16:53:30.395Z
-updatedAt: 2024-11-18T16:53:32.143Z
-publishedAt: 2024-11-18T16:53:32.143Z
-firstPublishedAt: 2024-11-18T16:53:32.143Z
+createdAt: 2025-11-14T19:21:10.997Z
+updatedAt: 2025-11-14T19:21:10.997Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
 slugEN: faststore-is-not-receiving-rc-events
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1136559
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
 
 
 Faststore no está recibiendo eventos RC de PDP.
 
 
-##
-
-## Simulación
+#### Simulación
 
 
 Intenta acceder a un PDP desde una web de Faststore y busca el evento request to RC v8 en la pestaña network. Puede confirmar este comportamiento en nuestro defalt store:
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/FastStore/faststore-no-recibe-eventos-rc_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/eqT5Cp9lqTcX6jqhKTQfWiuvA/?name=image.png)
 
 Sólo funciona en el checkout:
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/FastStore/faststore-no-recibe-eventos-rc_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/EKaiFIXyyiIImCRF2gJYqe2Ek/?name=image.png)
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 N/A
-
-
 
 
 
