@@ -1,18 +1,16 @@
 ---
 title: 'Incorrect ShippingEstimateDate for order FOB'
-id: 3WLcrdw0tEdOvlMCYx9uyd
+slug: incorrect-shippingestimatedate-for-order-fob
 status: PUBLISHED
-createdAt: 2023-01-05T20:26:07.074Z
-updatedAt: 2024-02-16T20:23:32.848Z
-publishedAt: 2024-02-16T20:23:32.848Z
-firstPublishedAt: 2023-01-05T20:26:07.500Z
+createdAt: 2025-11-14T19:16:45.409Z
+updatedAt: 2025-11-14T19:16:45.409Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slugEN: incorrect-shippingestimatedate-for-order-fob
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 269104
 ---
 
@@ -21,9 +19,7 @@ internalReference: 269104
 "shippingEstimateDate" is incorrectly calculated for orders with the type FOB
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -31,13 +27,9 @@ internalReference: 269104
 - Do a Get Order and check that the parameter "ShippingEstimateDate" is not considering the "shippingEstimate" sent by the marketplace
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 N/A
-
-
 
 
