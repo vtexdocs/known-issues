@@ -2,15 +2,15 @@
 title: 'Transacción bloqueada en Liquidación tras fallo de Captura debido a una falta de coincidencia de recipientsSplitRemainValue.'
 slug: transaccion-bloqueada-en-liquidacion-tras-fallo-de-captura-debido-a-una-falta-de-coincidencia-de-recipientssplitremainvalue
 status: PUBLISHED
-createdAt: 2025-09-22T18:20:42.115Z
-updatedAt: 2025-09-22T18:20:42.115Z
+createdAt: 2025-11-14T19:32:48.853Z
+updatedAt: 2025-11-14T19:32:48.853Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transaction-stuck-in-settling-after-capture-fails-due-to-recipientssplitremainvalue-mismatch
 locale: es
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1295769
 ---
 
