@@ -2,8 +2,8 @@
 title: '"isBillingAddressDifferent": false cuando debería ser true en una primera compra como punto de recogida.'
 slug: isbillingaddressdifferent-false-cuando-deberia-ser-true-en-una-primera-compra-como-punto-de-recogida
 status: PUBLISHED
-createdAt: 2025-10-16T20:38:08.861Z
-updatedAt: 2025-10-16T20:38:08.861Z
+createdAt: 2025-11-14T19:29:18.117Z
+updatedAt: 2025-11-14T19:29:18.117Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
