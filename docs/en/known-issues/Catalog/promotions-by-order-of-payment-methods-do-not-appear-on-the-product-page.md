@@ -1,18 +1,16 @@
 ---
 title: 'Promotions by order of payment methods do not appear on the product page'
-id: HZ5IoCFFOhuxU0jQWkMPp
+slug: promotions-by-order-of-payment-methods-do-not-appear-on-the-product-page
 status: PUBLISHED
-createdAt: 2019-08-13T20:45:50.232Z
-updatedAt: 2024-07-01T18:48:59.282Z
-publishedAt: 2024-07-01T18:48:59.282Z
-firstPublishedAt: 2019-08-13T21:10:58.244Z
+createdAt: 2025-11-14T19:13:25.444Z
+updatedAt: 2025-11-14T19:13:25.444Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: promotions-by-order-of-payment-methods-do-not-appear-on-the-product-page
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 781523
 ---
 
@@ -23,9 +21,7 @@ The product page shows the SKU price with some promotions only, which does not i
 
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -36,15 +32,11 @@ The product page shows the SKU price with some promotions only, which does not i
 
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 
 This scenario can be easily solved by implementing a front-end Javascript which calculates the price and includes the discount percentage due, thereafter displaying an element with this additional price on the product page.
-
-
 
 
 
