@@ -2,15 +2,15 @@
 title: 'El atributo requiresAuthentication de la regla de pago es ignorado por la pasarela (no puede aplicarse/anularse a través de la API).'
 slug: el-atributo-requiresauthentication-de-la-regla-de-pago-es-ignorado-por-la-pasarela-no-puede-aplicarseanularse-a-traves-de-la-api
 status: PUBLISHED
-createdAt: 2025-10-02T16:23:44.162Z
-updatedAt: 2025-10-02T16:23:44.162Z
+createdAt: 2025-11-14T19:30:38.233Z
+updatedAt: 2025-11-14T19:30:38.233Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: payment-rule-requiresauthentication-attribute-is-ignored-by-gateway-cannot-be-enforcedoverridden-via-api
 locale: es
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1301482
 ---
 
@@ -33,7 +33,7 @@ internalReference: 1301482
 
 - Previsto frente a real:
 - Esperado: Cambiar requiresAuthentication en la regla afecta a si el método requiere autenticación.
-- Real: La lógica de la pasarela ignora los cambios de campo; el comportamiento no cambia.
+- Real: La lógica de la puerta de enlace ignora los cambios de campo; el comportamiento no cambia.
 
 ## Workaround
 
