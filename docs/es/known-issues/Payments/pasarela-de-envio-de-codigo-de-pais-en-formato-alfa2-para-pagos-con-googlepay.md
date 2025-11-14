@@ -2,8 +2,8 @@
 title: 'Pasarela de envío de código de país en formato alfa-2 para pagos con GooglePay'
 slug: pasarela-de-envio-de-codigo-de-pais-en-formato-alfa2-para-pagos-con-googlepay
 status: PUBLISHED
-createdAt: 2025-10-16T20:40:36.453Z
-updatedAt: 2025-10-16T20:40:36.453Z
+createdAt: 2025-11-14T19:27:57.039Z
+updatedAt: 2025-11-14T19:27:57.039Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
