@@ -1,11 +1,9 @@
 ---
 title: 'Lean Shipping sustituye el método de envío preferido por el usuario por la opción más barata en diferentes sesiones/navegadores.'
-id: 2bUIAHTUDuu2K98HWVjVfb
+slug: lean-shipping-sustituye-el-metodo-de-envio-preferido-por-el-usuario-por-la-opcion-mas-barata-en-diferentes-sesionesnavegadores
 status: PUBLISHED
-createdAt: 2023-02-01T21:06:22.140Z
-updatedAt: 2023-02-01T21:06:23.163Z
-publishedAt: 2023-02-01T21:06:23.163Z
-firstPublishedAt: 2023-02-01T21:06:23.163Z
+createdAt: 2025-11-14T19:17:02.589Z
+updatedAt: 2025-11-14T19:17:02.589Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,11 +14,9 @@ kiStatus: Backlog
 internalReference: 607411
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
-
+## Sumario
 
 ## Simulación
 
@@ -31,13 +27,9 @@ internalReference: 607411
 - Ver que el coste de envío es la opción más barata en lugar de la opción seleccionada anteriormente
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 N/A
-
-
 
 
