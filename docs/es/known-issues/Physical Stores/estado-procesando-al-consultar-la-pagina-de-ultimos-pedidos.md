@@ -2,8 +2,8 @@
 title: 'Estado "Procesando" al consultar la página de últimos pedidos'
 slug: estado-procesando-al-consultar-la-pagina-de-ultimos-pedidos
 status: PUBLISHED
-createdAt: 2025-10-16T20:43:31.387Z
-updatedAt: 2025-10-16T20:43:31.387Z
+createdAt: 2025-11-14T19:35:36.000Z
+updatedAt: 2025-11-14T19:35:36.000Z
 contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
