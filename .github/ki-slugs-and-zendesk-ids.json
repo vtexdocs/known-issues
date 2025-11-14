@@ -19326,6 +19326,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-categoria-global-da-amazon-nao-esta-funcionando",
+    "internalReference": 634199
+  },
+  {
+    "locale": "pt",
     "slug": "a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex",
     "internalReference": 588456
   },
