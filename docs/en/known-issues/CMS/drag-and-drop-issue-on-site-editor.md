@@ -1,18 +1,16 @@
 ---
 title: 'Drag and Drop issue on Site Editor'
-id: 4DubZ5C0dmqKGQqAZ6nZjo
+slug: drag-and-drop-issue-on-site-editor
 status: PUBLISHED
-createdAt: 2022-10-25T15:31:15.485Z
-updatedAt: 2023-03-09T14:04:38.040Z
-publishedAt: 2023-03-09T14:04:38.040Z
-firstPublishedAt: 2022-10-25T15:31:16.032Z
+createdAt: 2025-11-14T17:12:31.784Z
+updatedAt: 2025-11-14T17:12:31.784Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slugEN: drag-and-drop-issue-on-site-editor
 locale: en
-kiStatus: Fixed
+kiStatus: Backlog
 internalReference: 685103
 ---
 
@@ -22,21 +20,17 @@ internalReference: 685103
 Customers cannot use the drag and drop feature in the site editor to upload images, this probably occurs duo our new implementation of our new CMS Media Management.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
 Go to any account and try to upload a banner image through drag and drop
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/CMS/drag-and-drop-issue-on-site-editor_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VImrMx2X11Cyb9sePaOFJJbj2/?name=inline785506209.png)
 https://share.vidyard.com/watch/RXWHL4QYir7i5h1U4zuEuJ
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Upload images without use drag and drop, or,
@@ -45,4 +39,3 @@ Try to roll back to an older version of admin-pages without some fixes and CMS M
 
 Run `vtex install vtex.admin-pages@4.43.1`
 This will solve the issue about drag and drop, but other issues can show up again
-
