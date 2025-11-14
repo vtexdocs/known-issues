@@ -2,15 +2,15 @@
 title: 'Payment rule requiresAuthentication attribute is ignored by gateway (cannot be enforced/overridden via API)'
 slug: payment-rule-requiresauthentication-attribute-is-ignored-by-gateway-cannot-be-enforcedoverridden-via-api
 status: PUBLISHED
-createdAt: 2025-10-02T16:23:40.739Z
-updatedAt: 2025-10-02T16:23:40.739Z
+createdAt: 2025-11-14T19:30:35.636Z
+updatedAt: 2025-11-14T19:30:35.636Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: payment-rule-requiresauthentication-attribute-is-ignored-by-gateway-cannot-be-enforcedoverridden-via-api
 locale: en
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1301482
 ---
 
