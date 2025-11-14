@@ -2,15 +2,15 @@
 title: 'Los puntos de recogida no funcionan en el simulador de entrega en los países que no utilizan nuestra API de código postal'
 slug: los-puntos-de-recogida-no-funcionan-en-el-simulador-de-entrega-en-los-paises-que-no-utilizan-nuestra-api-de-codigo-postal
 status: PUBLISHED
-createdAt: 2025-07-24T17:42:03.069Z
-updatedAt: 2025-07-24T17:42:03.069Z
+createdAt: 2025-11-14T19:23:31.520Z
+updatedAt: 2025-11-14T19:23:31.520Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slugEN: pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api
 locale: es
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1262007
 ---
 
