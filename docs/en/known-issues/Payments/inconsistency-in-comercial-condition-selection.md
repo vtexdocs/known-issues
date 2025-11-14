@@ -2,8 +2,8 @@
 title: 'Inconsistency in comercial condition selection'
 slug: inconsistency-in-comercial-condition-selection
 status: PUBLISHED
-createdAt: 2025-10-16T20:47:13.634Z
-updatedAt: 2025-10-16T20:47:13.634Z
+createdAt: 2025-11-14T19:29:01.807Z
+updatedAt: 2025-11-14T19:29:01.807Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
