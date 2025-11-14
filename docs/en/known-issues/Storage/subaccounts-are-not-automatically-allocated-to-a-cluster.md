@@ -2,8 +2,8 @@
 title: 'Subaccounts are not automatically allocated to a cluster'
 slug: subaccounts-are-not-automatically-allocated-to-a-cluster
 status: PUBLISHED
-createdAt: 2025-10-16T20:52:58.547Z
-updatedAt: 2025-10-16T20:52:58.547Z
+createdAt: 2025-11-14T15:27:12.094Z
+updatedAt: 2025-11-14T15:27:12.094Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -30,7 +30,6 @@ Subaccounts are not automatically allocated to a cluster upon creation. As a res
 Attempt to call the Masterdata Search API, such as:
 
     GET https://..com/api/dataentities/CL/search?_fields=id
-
 3. Observe that the response returns an 500 error indicating that the masterdata search is not functioning.
 
 
