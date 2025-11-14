@@ -2,8 +2,8 @@
 title: 'Problema de layout de carrossel usando valores responsivos no seletor de SKU'
 slug: problema-de-layout-de-carrossel-usando-valores-responsivos-no-seletor-de-sku
 status: PUBLISHED
-createdAt: 2025-10-16T20:50:17.813Z
-updatedAt: 2025-10-16T20:50:17.813Z
+createdAt: 2025-11-14T19:40:10.461Z
+updatedAt: 2025-11-14T19:40:10.461Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
