@@ -2,15 +2,15 @@
 title: 'O sinalizador MessagessV2 exige que o conteúdo seja salvo no idioma original'
 slug: o-sinalizador-messagessv2-exige-que-o-conteudo-seja-salvo-no-idioma-original
 status: PUBLISHED
-createdAt: 2025-07-24T18:19:29.407Z
-updatedAt: 2025-07-24T18:19:29.407Z
+createdAt: 2025-11-14T17:13:23.068Z
+updatedAt: 2025-11-14T17:13:23.068Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slugEN: messagessv2-flag-requires-content-to-be-saved-on-the-original-language
 locale: pt
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1260018
 ---
 
