@@ -2,15 +2,15 @@
 title: 'Razones perdidas no ordenadas en la página indeva'
 slug: razones-perdidas-no-ordenadas-en-la-pagina-indeva
 status: PUBLISHED
-createdAt: 2025-09-16T19:56:37.243Z
-updatedAt: 2025-09-16T19:56:37.243Z
+createdAt: 2025-11-14T19:35:21.370Z
+updatedAt: 2025-11-14T19:35:21.370Z
 contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
 tag: Physical Stores
 slugEN: lost-reasons-not-ordered-on-indeva-page
 locale: es
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1293176
 ---
 
