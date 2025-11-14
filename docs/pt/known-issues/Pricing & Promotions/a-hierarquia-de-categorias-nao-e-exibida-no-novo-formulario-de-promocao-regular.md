@@ -2,8 +2,8 @@
 title: 'A hierarquia de categorias não é exibida no novo formulário de promoção regular'
 slug: a-hierarquia-de-categorias-nao-e-exibida-no-novo-formulario-de-promocao-regular
 status: PUBLISHED
-createdAt: 2025-11-03T17:14:57.101Z
-updatedAt: 2025-11-03T17:14:57.101Z
+createdAt: 2025-11-14T19:37:31.503Z
+updatedAt: 2025-11-14T19:37:31.503Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
