@@ -2,15 +2,15 @@
 title: 'No se puede acceder a Mis créditos "Se ha producido un error en su cuenta"'
 slug: no-se-puede-acceder-a-mis-creditos-se-ha-producido-un-error-en-su-cuenta
 status: PUBLISHED
-createdAt: 2025-09-04T18:52:34.930Z
-updatedAt: 2025-09-04T18:52:34.930Z
+createdAt: 2025-11-14T19:34:52.463Z
+updatedAt: 2025-11-14T19:34:52.463Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: unable-to-access-my-credits-an-error-occurred-in-your-account
 locale: es
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1287291
 ---
 
