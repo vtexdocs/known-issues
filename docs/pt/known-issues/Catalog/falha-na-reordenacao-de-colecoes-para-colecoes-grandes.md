@@ -1,11 +1,9 @@
 ---
 title: 'Falha na reordenação de coleções para coleções grandes'
-id: 2wZN2wFAzWNIHgBVR7yp9R
+slug: falha-na-reordenacao-de-colecoes-para-colecoes-grandes
 status: PUBLISHED
-createdAt: 2023-05-25T19:29:25.420Z
-updatedAt: 2023-05-25T19:29:25.876Z
-publishedAt: 2023-05-25T19:29:25.876Z
-firstPublishedAt: 2023-05-25T19:29:25.876Z
+createdAt: 2025-11-14T19:13:52.098Z
+updatedAt: 2025-11-14T19:13:52.098Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,13 +14,12 @@ kiStatus: Backlog
 internalReference: 408140
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+
+## Sumário
 
 
 Na nova UI de administração de coleções, quando um usuário tenta reordenar a exibição de pedidos de produtos, a mutação GraphQL do catálogo que executa essa ação geralmente falha
-
 ## Simulação
 
 
@@ -32,13 +29,10 @@ Na nova UI de administração de coleções, quando um usuário tenta reordenar 
 
 
 
-
 ## Workaround
 
 
 Não há nenhuma solução alternativa (seria criar uma nova coleção na ordem correta, mas isso não é uma solução alternativa em si, apenas uma alternativa).
-
-
 
 
 
