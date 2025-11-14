@@ -2,8 +2,8 @@
 title: 'Products with selling price is zero cannot be added to the cart in FastStore'
 slug: products-with-selling-price-is-zero-cannot-be-added-to-the-cart-in-faststore
 status: PUBLISHED
-createdAt: 2025-10-16T20:49:53.556Z
-updatedAt: 2025-10-16T20:49:53.556Z
+createdAt: 2025-11-14T19:21:49.300Z
+updatedAt: 2025-11-14T19:21:49.300Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
