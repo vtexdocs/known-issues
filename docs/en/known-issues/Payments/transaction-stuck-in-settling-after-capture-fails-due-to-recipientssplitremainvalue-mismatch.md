@@ -2,15 +2,15 @@
 title: 'Transaction stuck in Settling after Capture fails due to recipientsSplitRemainValue mismatch'
 slug: transaction-stuck-in-settling-after-capture-fails-due-to-recipientssplitremainvalue-mismatch
 status: PUBLISHED
-createdAt: 2025-09-22T18:20:38.411Z
-updatedAt: 2025-09-22T18:20:38.411Z
+createdAt: 2025-11-14T19:32:46.237Z
+updatedAt: 2025-11-14T19:32:46.237Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transaction-stuck-in-settling-after-capture-fails-due-to-recipientssplitremainvalue-mismatch
 locale: en
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1295769
 ---
 
