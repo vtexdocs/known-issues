@@ -14376,6 +14376,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-devoluciones-de-llamada-tras-la-aprobacion-pueden-provocar-que-paymentauthorizationworker-vuelva-a-intentar-el-pago-lo-que-tambien-puede-denegarlo",
+    "internalReference": 740499
+  },
+  {
+    "locale": "es",
     "slug": "las-operaciones-no-pueden-realizarse-correctamente-debido-a-que-el-campo-documenttype-es-nulo",
     "internalReference": 697107
   },
