@@ -1,33 +1,29 @@
 ---
 title: 'Propiedad blockClass de infoCard no funciona'
-id: LTEEWCaZx2unBWSEJFDw6
+slug: propiedad-blockclass-de-infocard-no-funciona
 status: PUBLISHED
-createdAt: 2023-01-31T19:02:03.835Z
-updatedAt: 2024-07-01T18:48:42.227Z
-publishedAt: 2024-07-01T18:48:42.227Z
-firstPublishedAt: 2023-01-31T19:02:04.299Z
+createdAt: 2025-11-17T17:43:06.412Z
+updatedAt: 2025-11-17T17:43:06.412Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: property-blockclass-from-infocard-not-working
 locale: es
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 743730
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
 
 
 
 Infocard tiene una propiedad llamada blockClass para añadir clases personalizadas en el componente, pero esta propiedad no funciona
 
 
-##
-
-## Simulación
+#### Simulación
 
 
 
@@ -35,14 +31,10 @@ Abra su componente infoCard, añada la propiedad blockClass
 Comprueba tus elementos en el DOM y no encontrarás ningún elemento infocard con la clase añadida
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 Construye tu propia infocard con nuestros componentes vtex.flex-layout, vtex.image y vtex.rich-text, esto te dará más flexibilidad para construir tu infocard
-
-
 
 
 
