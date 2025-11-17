@@ -2,8 +2,8 @@
 title: 'O elemento personalizado de banner do CMS legado não está funcionando'
 slug: o-elemento-personalizado-de-banner-do-cms-legado-nao-esta-funcionando
 status: PUBLISHED
-createdAt: 2025-11-14T19:11:56.937Z
-updatedAt: 2025-11-14T19:11:56.937Z
+createdAt: 2025-11-17T17:32:32.714Z
+updatedAt: 2025-11-17T17:32:32.714Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -27,7 +27,7 @@ Isso só ocorre em lojas de modelos herdadas.
 ## Simulação
 
 
-1 - vá para o CMS legado e selecione a guia de elementos personalizados
+1 - vá para o CMS antigo e selecione a guia de elementos personalizados
 2 - Carregue um elemento personalizado do tipo "banner".
 3 - faça referência a esse banner em seu html
 4 - o banner configurado não será renderizado corretamente
