@@ -2,8 +2,8 @@
 title: 'La lista de archivos adjuntos en la interfaz de usuario SKU puede provocar tiempos de espera.'
 slug: la-lista-de-archivos-adjuntos-en-la-interfaz-de-usuario-sku-puede-provocar-tiempos-de-espera
 status: PUBLISHED
-createdAt: 2025-11-14T17:14:18.913Z
-updatedAt: 2025-11-14T17:14:18.913Z
+createdAt: 2025-11-17T17:30:58.541Z
+updatedAt: 2025-11-17T17:30:58.541Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
