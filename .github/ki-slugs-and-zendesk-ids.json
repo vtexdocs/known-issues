@@ -23941,6 +23941,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-propriedade-blockclass-do-infocard-nao-esta-funcionando",
+    "internalReference": 743730
+  },
+  {
+    "locale": "pt",
     "slug": "a-quantidade-do-resumo-do-produto-nao-funciona-em-lojas-regionalizadas",
     "internalReference": 1313686
   },
@@ -24013,11 +24018,6 @@
     "locale": "pt",
     "slug": "autocomplete-hover-on-search-suggestion-is-not-working-properly",
     "internalReference": 697406
-  },
-  {
-    "locale": "pt",
-    "slug": "bloqueio-de-propriedadeclass-de-infocard-nao-funciona",
-    "internalReference": 743730
   },
   {
     "locale": "pt",
