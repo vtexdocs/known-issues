@@ -2,8 +2,8 @@
 title: 'La configuración del valor de fidelización CMS no funciona'
 slug: la-configuracion-del-valor-de-fidelizacion-cms-no-funciona
 status: PUBLISHED
-createdAt: 2025-11-14T18:09:43.551Z
-updatedAt: 2025-11-14T18:09:43.551Z
+createdAt: 2025-11-17T17:31:44.687Z
+updatedAt: 2025-11-17T17:31:44.687Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
