@@ -2,8 +2,8 @@
 title: 'Problemas con los componentes de renderizado en el editor de sitios'
 slug: problemas-con-los-componentes-de-renderizado-en-el-editor-de-sitios
 status: PUBLISHED
-createdAt: 2025-11-14T17:14:01.713Z
-updatedAt: 2025-11-14T17:14:01.713Z
+createdAt: 2025-11-17T17:30:42.662Z
+updatedAt: 2025-11-17T17:30:42.662Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
