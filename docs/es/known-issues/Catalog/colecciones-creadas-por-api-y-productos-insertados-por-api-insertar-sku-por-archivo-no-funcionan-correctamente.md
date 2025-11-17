@@ -2,8 +2,8 @@
 title: 'Colecciones creadas por API y Productos insertados por API Insertar SKU por Archivo no funcionan correctamente'
 slug: colecciones-creadas-por-api-y-productos-insertados-por-api-insertar-sku-por-archivo-no-funcionan-correctamente
 status: PUBLISHED
-createdAt: 2025-11-14T18:10:01.972Z
-updatedAt: 2025-11-14T18:10:01.972Z
+createdAt: 2025-11-17T17:32:02.437Z
+updatedAt: 2025-11-17T17:32:02.437Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -62,6 +62,6 @@ Insertar SKU en subcolección:
     curl --location -g --request POST 'https://catalog.vtexcommercestable.com.br/api/catalog/pvt/subcollection//stockkeepingunit?an=(https://catalog.vtexcommercestable.com.br/api/catalog/pvt/subcollection//stockkeepingunit?an=)' \--header 'Content-Type: application/json' \--header 'Accept: application/json' \--header 'VtexIdclientAutCookie: ' \--header 'Cookie: janus_sid=7026383e-2070-4b68-a2c2-59cf729ec0da' \--data-raw '{ "SkuId": 2000037}'
 
 
-2️⃣ También existe la posibilidad de utilizar el `api/catalog/pvt/collection//stockkeepingunit/importinsert` y luego, después de que la importación se haya completado y se hayan añadido todos los productos, ir manualmente, a través de la interfaz de usuario y actualizar todos los datos de la colección, ya sea cambiando su nombre o su fecha de inicio/fin.
+2️⃣ También existe la posibilidad de utilizar el `api/catalog/pvt/collection//stockkeepingunit/importinsert` y luego, una vez completada la importación y añadidos todos los productos, ir manualmente, vía UI y actualizar todos los datos de la colección, ya sea cambiando su nombre o su fecha de inicio/fin.
 
 De esta forma, los productos de la colección que se acaban de insertar se verán forzados a reindexarse y se les añadirán los datos relacionados con la colección, permitiendo la correcta visualización de la información necesaria.%0A
