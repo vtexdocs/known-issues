@@ -1,18 +1,16 @@
 ---
 title: 'Transliteration only being saved in vbase and not into rewriter'
-id: 3ngFt1qXOUjmY5L84dk6in
+slug: transliteration-only-being-saved-in-vbase-and-not-into-rewriter
 status: PUBLISHED
-createdAt: 2023-12-12T19:54:12.171Z
-updatedAt: 2024-02-16T20:26:46.444Z
-publishedAt: 2024-02-16T20:26:46.444Z
-firstPublishedAt: 2023-12-12T19:54:13.102Z
+createdAt: 2025-11-17T17:44:15.238Z
+updatedAt: 2025-11-17T17:44:15.238Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: transliteration-only-being-saved-in-vbase-and-not-into-rewriter
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 738334
 ---
 
@@ -23,9 +21,7 @@ internalReference: 738334
 When transliterating the urls through the catalog rewriter is not storing it, or is not receiving any notification through the broadcaster, we are only storing it in vbase
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -39,9 +35,7 @@ Check the rewriter with the linkId that you created at admin/graphql-ide and cho
 
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 
@@ -67,4 +61,3 @@ Now, we are going to delete the old route (the one saved with the name)
 
 
     mutation saveInternal($route: InternalInput!) { internal { delete(path: "yourTranslatedCategoryNameSlugified") { id } }}
-
