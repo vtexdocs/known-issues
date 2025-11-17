@@ -2,8 +2,8 @@
 title: 'Pedido atascado en on-order-completed-ffm (Cumplimiento) o en on-order-completed (Mercado) incluso después de una creación correcta (isCompleted: true)'
 slug: pedido-atascado-en-onordercompletedffm-cumplimiento-o-en-onordercompleted-mercado-incluso-despues-de-una-creacion-correcta-iscompleted-true
 status: PUBLISHED
-createdAt: 2025-11-14T19:25:50.232Z
-updatedAt: 2025-11-14T19:25:50.232Z
+createdAt: 2025-11-17T17:41:11.590Z
+updatedAt: 2025-11-17T17:41:11.590Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
