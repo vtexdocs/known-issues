@@ -2,15 +2,15 @@
 title: 'PLP con "Mostrar más" se muestra en blanco después de la navegación de vuelta de Checkout'
 slug: plp-con-mostrar-mas-se-muestra-en-blanco-despues-de-la-navegacion-de-vuelta-de-checkout
 status: PUBLISHED
-createdAt: 2025-10-02T19:50:56.361Z
-updatedAt: 2025-10-02T19:50:56.361Z
+createdAt: 2025-11-17T17:42:47.191Z
+updatedAt: 2025-11-17T17:42:47.191Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: plp-with-show-more-renders-blank-after-browser-back-navigation-from-checkout
 locale: es
-kiStatus: Unknown
+kiStatus: Backlog
 internalReference: 1301762
 ---
 
