@@ -2,8 +2,8 @@
 title: 'Transacción bloqueada en estado autorizado o pendiente de autorización después de haber sido aprobada'
 slug: transaccion-bloqueada-en-estado-autorizado-o-pendiente-de-autorizacion-despues-de-haber-sido-aprobada
 status: PUBLISHED
-createdAt: 2025-11-17T17:41:57.537Z
-updatedAt: 2025-11-17T17:41:57.537Z
+createdAt: 2025-11-17T17:57:31.563Z
+updatedAt: 2025-11-17T17:57:31.563Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -20,7 +20,7 @@ internalReference: 1037765
 
 
 En un flujo de transacción estándar, una vez que todos los pagos se han autorizado correctamente, se espera que la transacción cambie su estado a _Aprobado_.
-La documentación oficial explica con más detalle los diferentes estados de las transacciones: Flujo de Transacciones en Pagos.
+En la documentación oficial se explican con más detalle los diferentes estados de las transacciones: Flujo de Transacciones en Pagos.
 
 Sin embargo, en las transacciones afectadas por este problema, observamos dos tipos de comportamientos inesperados:
 
@@ -31,7 +31,7 @@ Sin embargo, en las transacciones afectadas por este problema, observamos dos ti
 
 
 
-Estos problemas pueden identificarse a menudo por registros de `TransactionWorkFlowChangeStatus` duplicados o contradictorios, como _Approved_ seguido de _Authorized_, o por la ausencia total del evento final _Approved_, lo que da lugar a un estado de transacción incoherente o congelado.
+Estos problemas suelen identificarse por registros de `TransactionWorkFlowChangeStatus` duplicados o contradictorios, como _Approved_ seguido de _Authorized_, o por la ausencia total del evento final _Approved_, lo que da lugar a un estado de transacción incoherente o congelado.
 
 En septiembre de 2025, realizamos una operación en la pasarela VTEX para garantizar la coherencia del estado, lo que redujo el número de casos en un 97%. Sin embargo, este problema puede seguir produciéndose debido a un uso inadecuado de los conectores de pago.
 Se ha abierto una nueva incidencia conocida para realizar un seguimiento de estos casos recientes, donde también puede encontrar más detalles sobre las mejores prácticas que deberían aplicar los conectores:
