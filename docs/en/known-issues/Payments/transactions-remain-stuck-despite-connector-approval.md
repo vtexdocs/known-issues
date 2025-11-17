@@ -2,8 +2,8 @@
 title: 'Transactions remain stuck despite connector approval'
 slug: transactions-remain-stuck-despite-connector-approval
 status: PUBLISHED
-createdAt: 2025-11-14T19:33:57.651Z
-updatedAt: 2025-11-14T19:33:57.651Z
+createdAt: 2025-11-17T17:42:08.757Z
+updatedAt: 2025-11-17T17:42:08.757Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
