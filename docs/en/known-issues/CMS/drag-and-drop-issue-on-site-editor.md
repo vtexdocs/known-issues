@@ -2,8 +2,8 @@
 title: 'Drag and Drop issue on Site Editor'
 slug: drag-and-drop-issue-on-site-editor
 status: PUBLISHED
-createdAt: 2025-11-14T17:12:31.784Z
-updatedAt: 2025-11-14T17:12:31.784Z
+createdAt: 2025-11-17T17:30:08.983Z
+updatedAt: 2025-11-17T17:30:08.983Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
