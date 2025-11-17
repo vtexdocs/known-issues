@@ -2,8 +2,8 @@
 title: 'O relatório Notify-me gera um arquivo corrompido quando não há SKUs encontrados'
 slug: o-relatorio-notifyme-gera-um-arquivo-corrompido-quando-nao-ha-skus-encontrados
 status: PUBLISHED
-createdAt: 2025-11-14T19:12:40.630Z
-updatedAt: 2025-11-14T19:12:40.630Z
+createdAt: 2025-11-17T17:32:47.185Z
+updatedAt: 2025-11-17T17:32:47.185Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
