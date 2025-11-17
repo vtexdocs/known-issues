@@ -2,8 +2,8 @@
 title: 'XML "Verificar configurações de parcelamento"'
 slug: xml-verificar-configuracoes-de-parcelamento
 status: PUBLISHED
-createdAt: 2025-11-14T19:15:18.381Z
-updatedAt: 2025-11-14T19:15:18.381Z
+createdAt: 2025-11-17T17:33:39.825Z
+updatedAt: 2025-11-17T17:33:39.825Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
