@@ -1,33 +1,29 @@
 ---
 title: 'La transliteración sólo se guarda en vbase y no en rewriter'
-id: 3ngFt1qXOUjmY5L84dk6in
+slug: la-transliteracion-solo-se-guarda-en-vbase-y-no-en-rewriter
 status: PUBLISHED
-createdAt: 2023-12-12T19:54:12.171Z
-updatedAt: 2024-02-16T20:26:46.444Z
-publishedAt: 2024-02-16T20:26:46.444Z
-firstPublishedAt: 2023-12-12T19:54:13.102Z
+createdAt: 2025-11-17T17:44:18.056Z
+updatedAt: 2025-11-17T17:44:18.056Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: transliteration-only-being-saved-in-vbase-and-not-into-rewriter
 locale: es
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 738334
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
 
 
 
 Al transliterar las urls a través del catalogo rewriter no lo almacena, o no recibe ninguna notificación a través del broadcaster, solo lo almacenamos en vbase
 
 
-##
-
-## Simulación
+#### Simulación
 
 
 
@@ -37,8 +33,6 @@ Comprueba el rewriter con el linkId que creaste en admin/graphql-ide y elige la 
 
 
     { internal{ get(ruta: "tuLinkdIdAquí"){ id } }}
-
-
 
 
 
@@ -68,5 +62,3 @@ Ahora, vamos a borrar la ruta antigua (la guardada con el nombre)
 
 
     mutation guardarInterna($ruta: ¡EntradaInterna!) { interna { borrar(ruta: "tuNombreCategoriaTraducidoSlugificado") { id } }}
-
-
