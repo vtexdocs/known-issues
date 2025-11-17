@@ -2,8 +2,8 @@
 title: 'XML "Check installment settings"'
 slug: xml-check-installment-settings
 status: PUBLISHED
-createdAt: 2025-11-14T19:15:21.040Z
-updatedAt: 2025-11-14T19:15:21.040Z
+createdAt: 2025-11-17T17:33:42.350Z
+updatedAt: 2025-11-17T17:33:42.350Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
