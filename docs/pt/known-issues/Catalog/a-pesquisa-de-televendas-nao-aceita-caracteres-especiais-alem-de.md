@@ -2,8 +2,8 @@
 title: 'A pesquisa de televendas não aceita caracteres especiais além de "@".'
 slug: a-pesquisa-de-televendas-nao-aceita-caracteres-especiais-alem-de
 status: PUBLISHED
-createdAt: 2025-11-14T19:14:50.880Z
-updatedAt: 2025-11-14T19:14:50.880Z
+createdAt: 2025-11-17T17:33:23.776Z
+updatedAt: 2025-11-17T17:33:23.776Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
