@@ -2,8 +2,8 @@
 title: 'O aplicativo AB Tester mostra informações mal calculadas para sessões e conversão'
 slug: o-aplicativo-ab-tester-mostra-informacoes-mal-calculadas-para-sessoes-e-conversao
 status: PUBLISHED
-createdAt: 2025-11-17T17:39:52.870Z
-updatedAt: 2025-11-17T17:39:52.870Z
+createdAt: 2025-11-17T17:55:53.668Z
+updatedAt: 2025-11-17T17:55:53.668Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
