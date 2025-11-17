@@ -2,8 +2,8 @@
 title: 'Tiempo límite de cobro'
 slug: tiempo-limite-de-cobro
 status: PUBLISHED
-createdAt: 2025-11-17T17:31:30.808Z
-updatedAt: 2025-11-17T17:31:30.808Z
+createdAt: 2025-11-17T17:39:21.743Z
+updatedAt: 2025-11-17T17:39:21.743Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -27,7 +27,7 @@ Esto también puede ocurrir con el módulo de nuevas colecciones.
 #### Simulación
 
 
-1) Vaya a la aplicación CMS UI con una tienda que tenga una base de catálogo grande, por ejemplo, >10000 productos.
+1) Vaya a la aplicación CMS UI con una tienda que tenga una base de catálogos grande, por ejemplo, >10000 productos.
 2) Vaya a "Grupos de productos (Colecciones) y seleccione "_nuevo grupo_".
 3) Cree un grupo y luego seleccione algunas casillas en el formulario
 4) Intente guardar estos cambios
