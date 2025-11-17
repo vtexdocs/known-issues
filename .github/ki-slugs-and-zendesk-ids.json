@@ -24106,11 +24106,6 @@
   },
   {
     "locale": "pt",
-    "slug": "modo-de-exibicao-do-seletor-de-sku-select-nao-funciona-em-prateleiras",
-    "internalReference": 682152
-  },
-  {
-    "locale": "pt",
     "slug": "moeda-incorreta-em-usd-exibida-em-alguns-locais",
     "internalReference": 414901
   },
@@ -24238,6 +24233,11 @@
     "locale": "pt",
     "slug": "o-minicart-nao-traduz-o-url-do-produto",
     "internalReference": 1106430
+  },
+  {
+    "locale": "pt",
+    "slug": "o-modo-de-exibicao-select-do-seletor-de-sku-nao-esta-funcionando-nas-prateleiras",
+    "internalReference": 682152
   },
   {
     "locale": "pt",
