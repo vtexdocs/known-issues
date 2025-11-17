@@ -2,8 +2,8 @@
 title: 'La búsqueda de televentas no acepta caracteres especiales aparte de "@".'
 slug: la-busqueda-de-televentas-no-acepta-caracteres-especiales-aparte-de
 status: PUBLISHED
-createdAt: 2025-11-14T19:14:55.965Z
-updatedAt: 2025-11-14T19:14:55.965Z
+createdAt: 2025-11-17T17:33:29.911Z
+updatedAt: 2025-11-17T17:33:29.911Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
