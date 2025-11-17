@@ -2,8 +2,8 @@
 title: 'XML "Comprobar ajustes de instalación"'
 slug: xml-comprobar-ajustes-de-instalacion
 status: PUBLISHED
-createdAt: 2025-11-14T19:15:23.416Z
-updatedAt: 2025-11-14T19:15:23.416Z
+createdAt: 2025-11-17T17:33:45.072Z
+updatedAt: 2025-11-17T17:33:45.072Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
