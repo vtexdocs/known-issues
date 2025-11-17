@@ -2,8 +2,8 @@
 title: 'Tempo limite das coleções'
 slug: tempo-limite-das-colecoes
 status: PUBLISHED
-createdAt: 2025-11-17T17:31:24.719Z
-updatedAt: 2025-11-17T17:31:24.719Z
+createdAt: 2025-11-17T17:39:15.088Z
+updatedAt: 2025-11-17T17:39:15.088Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
