@@ -2,8 +2,8 @@
 title: 'Problema de arrastrar y soltar en el Editor de Sitios'
 slug: problema-de-arrastrar-y-soltar-en-el-editor-de-sitios
 status: PUBLISHED
-createdAt: 2025-11-14T17:12:34.795Z
-updatedAt: 2025-11-14T17:12:34.795Z
+createdAt: 2025-11-17T17:30:11.517Z
+updatedAt: 2025-11-17T17:30:11.517Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
