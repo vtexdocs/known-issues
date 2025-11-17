@@ -2,8 +2,8 @@
 title: 'O campo de número de documento (RUT) está tendo o último dígito excluído aleatoriamente no iOS'
 slug: o-campo-de-numero-de-documento-rut-esta-tendo-o-ultimo-digito-excluido-aleatoriamente-no-ios
 status: PUBLISHED
-createdAt: 2025-11-14T19:16:27.485Z
-updatedAt: 2025-11-14T19:16:27.485Z
+createdAt: 2025-11-17T17:34:13.105Z
+updatedAt: 2025-11-17T17:34:13.105Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
