@@ -2,8 +2,8 @@
 title: 'Categorías que faltan vendedor no provisionado correctamente'
 slug: categorias-que-faltan-vendedor-no-provisionado-correctamente
 status: PUBLISHED
-createdAt: 2025-11-14T18:09:02.628Z
-updatedAt: 2025-11-14T18:09:02.628Z
+createdAt: 2025-11-17T17:31:14.361Z
+updatedAt: 2025-11-17T17:31:14.361Z
 contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
