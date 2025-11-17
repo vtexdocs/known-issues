@@ -2,8 +2,8 @@
 title: 'O Lean Shipping substitui o método de envio preferido do usuário pela opção mais barata em diferentes sessões/navegadores'
 slug: o-lean-shipping-substitui-o-metodo-de-envio-preferido-do-usuario-pela-opcao-mais-barata-em-diferentes-sessoesnavegadores
 status: PUBLISHED
-createdAt: 2025-11-14T19:16:56.256Z
-updatedAt: 2025-11-14T19:16:56.256Z
+createdAt: 2025-11-17T17:34:29.494Z
+updatedAt: 2025-11-17T17:34:29.494Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
