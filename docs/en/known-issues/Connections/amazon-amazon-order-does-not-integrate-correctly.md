@@ -2,8 +2,8 @@
 title: 'Amazon Amazon order does not integrate correctly'
 slug: amazon-amazon-order-does-not-integrate-correctly
 status: PUBLISHED
-createdAt: 2025-11-17T17:40:13.219Z
-updatedAt: 2025-11-17T17:40:13.219Z
+createdAt: 2025-11-17T17:56:10.136Z
+updatedAt: 2025-11-17T17:56:10.136Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
