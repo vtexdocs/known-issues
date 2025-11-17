@@ -2,8 +2,8 @@
 title: 'Render component issues on site editor'
 slug: render-component-issues-on-site-editor
 status: PUBLISHED
-createdAt: 2025-11-14T17:13:58.861Z
-updatedAt: 2025-11-14T17:13:58.861Z
+createdAt: 2025-11-17T17:30:39.895Z
+updatedAt: 2025-11-17T17:30:39.895Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
