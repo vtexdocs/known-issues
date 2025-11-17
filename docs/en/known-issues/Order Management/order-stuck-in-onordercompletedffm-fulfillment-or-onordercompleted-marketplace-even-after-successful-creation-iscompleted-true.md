@@ -2,8 +2,8 @@
 title: 'Order stuck in on-order-completed-ffm (Fulfillment) or on-order-completed (Marketplace) even after successful creation (isCompleted: true)'
 slug: order-stuck-in-onordercompletedffm-fulfillment-or-onordercompleted-marketplace-even-after-successful-creation-iscompleted-true
 status: PUBLISHED
-createdAt: 2025-11-17T17:41:08.831Z
-updatedAt: 2025-11-17T17:41:08.831Z
+createdAt: 2025-11-17T17:56:59.030Z
+updatedAt: 2025-11-17T17:56:59.030Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
