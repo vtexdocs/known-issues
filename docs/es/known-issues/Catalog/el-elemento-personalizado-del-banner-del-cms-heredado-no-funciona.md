@@ -2,8 +2,8 @@
 title: 'El elemento personalizado del banner del CMS heredado no funciona'
 slug: el-elemento-personalizado-del-banner-del-cms-heredado-no-funciona
 status: PUBLISHED
-createdAt: 2025-11-14T19:12:02.339Z
-updatedAt: 2025-11-14T19:12:02.339Z
+createdAt: 2025-11-17T17:32:38.863Z
+updatedAt: 2025-11-17T17:32:38.863Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
