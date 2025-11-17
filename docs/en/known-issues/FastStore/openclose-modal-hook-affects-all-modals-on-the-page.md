@@ -2,8 +2,8 @@
 title: 'Open/close modal hook affects all modals on the page'
 slug: openclose-modal-hook-affects-all-modals-on-the-page
 status: PUBLISHED
-createdAt: 2025-11-14T19:21:35.030Z
-updatedAt: 2025-11-14T19:21:35.030Z
+createdAt: 2025-11-17T17:35:51.863Z
+updatedAt: 2025-11-17T17:35:51.863Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
