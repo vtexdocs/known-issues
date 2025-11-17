@@ -2,8 +2,8 @@
 title: 'La aplicación AB Tester muestra información errónea sobre sesiones y conversión'
 slug: la-aplicacion-ab-tester-muestra-informacion-erronea-sobre-sesiones-y-conversion
 status: PUBLISHED
-createdAt: 2025-11-17T17:34:58.987Z
-updatedAt: 2025-11-17T17:34:58.987Z
+createdAt: 2025-11-17T17:39:59.471Z
+updatedAt: 2025-11-17T17:39:59.471Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
