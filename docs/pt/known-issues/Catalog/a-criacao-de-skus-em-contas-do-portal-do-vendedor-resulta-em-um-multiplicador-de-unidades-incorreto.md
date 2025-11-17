@@ -2,8 +2,8 @@
 title: 'A criação de SKUs em contas do portal do vendedor resulta em um multiplicador de unidades incorreto'
 slug: a-criacao-de-skus-em-contas-do-portal-do-vendedor-resulta-em-um-multiplicador-de-unidades-incorreto
 status: PUBLISHED
-createdAt: 2025-11-14T18:10:34.402Z
-updatedAt: 2025-11-14T18:10:34.402Z
+createdAt: 2025-11-17T17:32:12.401Z
+updatedAt: 2025-11-17T17:32:12.401Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,7 +19,7 @@ internalReference: 1186329
 ## Sumário
 
 
-Atualmente, ao usar uma conta VTEX do tipo "portal do vendedor", quando um usuário cria uma SKU, seu multiplicador de unidade é sempre definido como 1, independentemente do valor inserido inicialmente, ao usar a interface do usuário do administrador.
+Atualmente, ao usar uma conta VTEX do tipo "portal do vendedor", quando um usuário cria uma SKU, seu multiplicador de unidades é sempre definido como 1, independentemente do valor inserido inicialmente, ao usar a interface do usuário do administrador.
 ## Simulação
 
 
