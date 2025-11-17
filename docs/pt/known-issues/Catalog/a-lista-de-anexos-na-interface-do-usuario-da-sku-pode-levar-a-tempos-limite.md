@@ -2,8 +2,8 @@
 title: 'A lista de anexos na interface do usuário da SKU pode levar a tempos limite'
 slug: a-lista-de-anexos-na-interface-do-usuario-da-sku-pode-levar-a-tempos-limite
 status: PUBLISHED
-createdAt: 2025-11-14T17:14:12.730Z
-updatedAt: 2025-11-14T17:14:12.730Z
+createdAt: 2025-11-17T17:30:53.279Z
+updatedAt: 2025-11-17T17:30:53.279Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
