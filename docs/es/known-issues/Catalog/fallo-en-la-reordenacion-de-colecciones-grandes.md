@@ -2,8 +2,8 @@
 title: 'Fallo en la reordenación de colecciones grandes'
 slug: fallo-en-la-reordenacion-de-colecciones-grandes
 status: PUBLISHED
-createdAt: 2025-11-14T19:13:57.152Z
-updatedAt: 2025-11-14T19:13:57.152Z
+createdAt: 2025-11-17T17:33:14.257Z
+updatedAt: 2025-11-17T17:33:14.257Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
