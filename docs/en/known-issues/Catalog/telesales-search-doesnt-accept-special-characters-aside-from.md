@@ -2,8 +2,8 @@
 title: "Telesales search doesn't accept special characters aside from \"@\"."
 slug: telesales-search-doesnt-accept-special-characters-aside-from
 status: PUBLISHED
-createdAt: 2025-11-14T19:14:53.425Z
-updatedAt: 2025-11-14T19:14:53.425Z
+createdAt: 2025-11-17T17:33:26.503Z
+updatedAt: 2025-11-17T17:33:26.503Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
