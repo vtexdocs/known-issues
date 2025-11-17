@@ -2,8 +2,8 @@
 title: 'Campo de número de documento (RUT) se borra aleatoriamente el último dígito en iOS'
 slug: campo-de-numero-de-documento-rut-se-borra-aleatoriamente-el-ultimo-digito-en-ios
 status: PUBLISHED
-createdAt: 2025-11-14T19:16:32.521Z
-updatedAt: 2025-11-14T19:16:32.521Z
+createdAt: 2025-11-17T17:34:19.278Z
+updatedAt: 2025-11-17T17:34:19.278Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
