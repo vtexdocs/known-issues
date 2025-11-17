@@ -2,8 +2,8 @@
 title: 'Categorias ausentes do vendedor não provisionadas corretamente'
 slug: categorias-ausentes-do-vendedor-nao-provisionadas-corretamente
 status: PUBLISHED
-createdAt: 2025-11-17T17:39:00.188Z
-updatedAt: 2025-11-17T17:39:00.188Z
+createdAt: 2025-11-17T17:55:03.025Z
+updatedAt: 2025-11-17T17:55:03.025Z
 contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
