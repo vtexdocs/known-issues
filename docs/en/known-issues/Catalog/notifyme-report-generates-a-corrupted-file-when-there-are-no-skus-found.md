@@ -2,8 +2,8 @@
 title: 'Notify-me report generates a corrupted file when there are no SKUs found'
 slug: notifyme-report-generates-a-corrupted-file-when-there-are-no-skus-found
 status: PUBLISHED
-createdAt: 2025-11-14T19:12:43.408Z
-updatedAt: 2025-11-14T19:12:43.408Z
+createdAt: 2025-11-17T17:32:49.763Z
+updatedAt: 2025-11-17T17:32:49.763Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
