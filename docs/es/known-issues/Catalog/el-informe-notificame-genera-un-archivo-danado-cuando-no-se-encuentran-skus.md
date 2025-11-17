@@ -2,8 +2,8 @@
 title: 'El informe Notifícame genera un archivo dañado cuando no se encuentran SKUs'
 slug: el-informe-notificame-genera-un-archivo-danado-cuando-no-se-encuentran-skus
 status: PUBLISHED
-createdAt: 2025-11-14T19:12:47.104Z
-updatedAt: 2025-11-14T19:12:47.104Z
+createdAt: 2025-11-17T17:32:52.613Z
+updatedAt: 2025-11-17T17:32:52.613Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -33,7 +33,7 @@ Cuando el informe 'Notifícame' no tiene SKUs, al intentar exportarlo se generar
 ## Workaround
 
 
-Abra el archivo en otro programa o rellene el informe para poder exportarlo
+Abra el archivo en otro software o rellene el informe para poder exportarlo
 
 
 
