@@ -2,8 +2,8 @@
 title: 'As configurações do CMS Loyalty Value não estão funcionando'
 slug: as-configuracoes-do-cms-loyalty-value-nao-estao-funcionando
 status: PUBLISHED
-createdAt: 2025-11-14T18:09:35.812Z
-updatedAt: 2025-11-14T18:09:35.812Z
+createdAt: 2025-11-17T17:31:38.351Z
+updatedAt: 2025-11-17T17:31:38.351Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
