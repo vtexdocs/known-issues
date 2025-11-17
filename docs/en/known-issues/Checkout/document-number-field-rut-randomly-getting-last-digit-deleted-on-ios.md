@@ -2,8 +2,8 @@
 title: 'Document number field (RUT) randomly getting last digit deleted on iOS'
 slug: document-number-field-rut-randomly-getting-last-digit-deleted-on-ios
 status: PUBLISHED
-createdAt: 2025-11-14T19:16:30.020Z
-updatedAt: 2025-11-14T19:16:30.020Z
+createdAt: 2025-11-17T17:34:16.393Z
+updatedAt: 2025-11-17T17:34:16.393Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
