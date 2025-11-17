@@ -24286,13 +24286,18 @@
   },
   {
     "locale": "pt",
-    "slug": "o-seletor-de-quantidade-no-modo-stepper-nao-se-atualiza-apos-atingir-a-qunatity-maxima-disponivel",
+    "slug": "o-seletor-de-quantidade-no-modo-stepper-nao-e-atualizado-apos-atingir-a-quantidade-maxima-disponivel",
     "internalReference": 704458
   },
   {
     "locale": "pt",
     "slug": "o-service-worker-nao-cria-um-escopo-correto-para-armazenamentos-com-varias-vinculacoes",
     "internalReference": 1146421
+  },
+  {
+    "locale": "pt",
+    "slug": "o-site-renderiza-a-versao-para-desktop-ao-ser-acessado-via-ipad-no-safari",
+    "internalReference": 735208
   },
   {
     "locale": "pt",
@@ -24478,11 +24483,6 @@
     "locale": "pt",
     "slug": "valores-de-itens-incorretos-do-minicart-devido-a-solicitacoes-simultaneas-com-a-promocao-stepper-e-more-for-less",
     "internalReference": 1185655
-  },
-  {
-    "locale": "pt",
-    "slug": "versao-desktop-da-renderizacao-do-site-ao-acessar-via-ipad-no-safari",
-    "internalReference": 735208
   },
   {
     "locale": "pt",
