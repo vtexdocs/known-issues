@@ -2,8 +2,8 @@
 title: 'Problema de arrastar e soltar no Site Editor'
 slug: problema-de-arrastar-e-soltar-no-site-editor
 status: PUBLISHED
-createdAt: 2025-11-14T17:12:28.458Z
-updatedAt: 2025-11-14T17:12:28.458Z
+createdAt: 2025-11-17T17:30:05.993Z
+updatedAt: 2025-11-17T17:30:05.993Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
@@ -24,7 +24,7 @@ Os clientes não podem usar o recurso de arrastar e soltar no editor do site par
 
 
 
-Acesse qualquer conta e tente carregar uma imagem de banner por meio do recurso de arrastar e soltar
+Vá para qualquer conta e tente carregar uma imagem de banner por meio do recurso de arrastar e soltar
 
  ![](https://vtexhelp.zendesk.com/attachments/token/VImrMx2X11Cyb9sePaOFJJbj2/?name=inline785506209.png)
 https://share.vidyard.com/watch/RXWHL4QYir7i5h1U4zuEu
