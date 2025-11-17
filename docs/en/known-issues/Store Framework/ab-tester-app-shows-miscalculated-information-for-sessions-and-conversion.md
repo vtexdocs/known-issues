@@ -2,8 +2,8 @@
 title: 'AB Tester app shows miscalculated information for sessions and conversion'
 slug: ab-tester-app-shows-miscalculated-information-for-sessions-and-conversion
 status: PUBLISHED
-createdAt: 2025-11-17T17:34:55.591Z
-updatedAt: 2025-11-17T17:34:55.591Z
+createdAt: 2025-11-17T17:39:56.479Z
+updatedAt: 2025-11-17T17:39:56.479Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
