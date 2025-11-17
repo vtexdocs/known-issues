@@ -2,8 +2,8 @@
 title: "Legacy CMS's banner custom element not working"
 slug: legacy-cmss-banner-custom-element-not-working
 status: PUBLISHED
-createdAt: 2025-11-14T19:11:59.389Z
-updatedAt: 2025-11-14T19:11:59.389Z
+createdAt: 2025-11-17T17:32:35.901Z
+updatedAt: 2025-11-17T17:32:35.901Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
