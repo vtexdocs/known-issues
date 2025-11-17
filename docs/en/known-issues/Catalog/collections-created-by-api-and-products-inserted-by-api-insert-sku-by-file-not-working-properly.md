@@ -2,8 +2,8 @@
 title: 'Collections created by API and Products inserted by API Insert SKU by File not working properly'
 slug: collections-created-by-api-and-products-inserted-by-api-insert-sku-by-file-not-working-properly
 status: PUBLISHED
-createdAt: 2025-11-14T18:09:57.758Z
-updatedAt: 2025-11-14T18:09:57.758Z
+createdAt: 2025-11-17T17:31:58.411Z
+updatedAt: 2025-11-17T17:31:58.411Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
