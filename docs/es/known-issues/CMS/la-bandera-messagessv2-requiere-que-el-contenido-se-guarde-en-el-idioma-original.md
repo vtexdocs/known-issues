@@ -2,8 +2,8 @@
 title: 'La bandera MessagessV2 requiere que el contenido se guarde en el idioma original'
 slug: la-bandera-messagessv2-requiere-que-el-contenido-se-guarde-en-el-idioma-original
 status: PUBLISHED
-createdAt: 2025-11-14T17:13:29.707Z
-updatedAt: 2025-11-14T17:13:29.707Z
+createdAt: 2025-11-17T17:30:28.389Z
+updatedAt: 2025-11-17T17:30:28.389Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
