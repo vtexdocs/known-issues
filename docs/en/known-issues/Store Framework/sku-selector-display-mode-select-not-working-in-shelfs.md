@@ -1,18 +1,16 @@
 ---
 title: 'SKU Selector display mode SELECT not working in shelfs'
-id: 4viowN3tnbsdc0f1bqXrux
+slug: sku-selector-display-mode-select-not-working-in-shelfs
 status: PUBLISHED
-createdAt: 2023-01-18T12:24:32.528Z
-updatedAt: 2024-02-16T20:24:43.422Z
-publishedAt: 2024-02-16T20:24:43.422Z
-firstPublishedAt: 2023-01-18T12:24:33.003Z
+createdAt: 2025-11-17T17:43:56.925Z
+updatedAt: 2025-11-17T17:43:56.925Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: sku-selector-display-mode-select-not-working-in-shelfs
 locale: en
-kiStatus: No Fix
+kiStatus: Backlog
 internalReference: 682152
 ---
 
@@ -24,19 +22,14 @@ When you choose and different sku option in display mode SELECT instead of the d
 Reference KI: #329736
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 Go to any store in Firefox, and test this behavior in sku selector setting display mode as SELECT in any shelf
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 
 N/A
-
