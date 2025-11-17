@@ -2,8 +2,8 @@
 title: 'As coleções criadas pela API e os produtos inseridos pela API Insert SKU by File não estão funcionando corretamente'
 slug: as-colecoes-criadas-pela-api-e-os-produtos-inseridos-pela-api-insert-sku-by-file-nao-estao-funcionando-corretamente
 status: PUBLISHED
-createdAt: 2025-11-14T18:09:54.785Z
-updatedAt: 2025-11-14T18:09:54.785Z
+createdAt: 2025-11-17T17:31:55.515Z
+updatedAt: 2025-11-17T17:31:55.515Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -21,7 +21,7 @@ internalReference: 470966
 
 Hoje temos algumas maneiras de criar e adicionar produtos a uma coleção. Podemos usar nosso novo Collection Adimn, nosso administrador de coleções legado e podemos usar a API para criar coleções e adicionar produtos a uma coleção. Mas temos um problema ao criar coleções por meio da API e adicionar produtos a essa coleção usando a rota `api/catalog/pvt/collection//stockkeepingunit/importinsert`. Com essa API, podemos adicionar produtos à coleção usando uma planilha.
 
-O problema acontece toda vez que criamos uma coleção por API e tentamos usar essa API `importinsert` para adicionar produtos. Os produtos não ficam disponíveis para a coleção criada.
+O problema acontece toda vez que criamos uma coleção pela API e tentamos usar essa API `importinsert` para adicionar produtos. Os produtos não ficam disponíveis para a coleção criada.
 ## Simulação
 
 
@@ -47,7 +47,7 @@ Há duas soluções viáveis para esse problema:
 
 1️⃣ Adicione produtos a coleções criadas pela API usando Admin Spreadsheet Upload ou use a API Insert SKU to subcollection para inserir SKUs em coleções:
 
-Para adicionar SKUs a coleções usando a API, é necessário seguir estas etapas:
+Para adicionar SKUs a coleções usando a API, é preciso seguir estas etapas:
 
 Criar coleção:
 
