@@ -2,8 +2,8 @@
 title: 'O gancho para abrir/fechar modais afeta todos os modais da página'
 slug: o-gancho-para-abrirfechar-modais-afeta-todos-os-modais-da-pagina
 status: PUBLISHED
-createdAt: 2025-11-14T19:21:32.389Z
-updatedAt: 2025-11-14T19:21:32.389Z
+createdAt: 2025-11-17T17:35:49.635Z
+updatedAt: 2025-11-17T17:35:49.635Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
