@@ -2,8 +2,8 @@
 title: 'Attachment list on SKU UI can lead to timeouts'
 slug: attachment-list-on-sku-ui-can-lead-to-timeouts
 status: PUBLISHED
-createdAt: 2025-11-14T17:14:15.864Z
-updatedAt: 2025-11-14T17:14:15.864Z
+createdAt: 2025-11-17T17:30:56.192Z
+updatedAt: 2025-11-17T17:30:56.192Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
