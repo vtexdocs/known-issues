@@ -2,8 +2,8 @@
 title: 'Error en el recuento de la cantidad de SKU en la caja cuando se aplica la promoción Más por Menos en Cotizaciones B2B.'
 slug: error-en-el-recuento-de-la-cantidad-de-sku-en-la-caja-cuando-se-aplica-la-promocion-mas-por-menos-en-cotizaciones-b2b
 status: PUBLISHED
-createdAt: 2025-11-14T19:31:18.895Z
-updatedAt: 2025-11-14T19:31:18.895Z
+createdAt: 2025-11-17T17:29:56.257Z
+updatedAt: 2025-11-17T17:29:56.257Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
