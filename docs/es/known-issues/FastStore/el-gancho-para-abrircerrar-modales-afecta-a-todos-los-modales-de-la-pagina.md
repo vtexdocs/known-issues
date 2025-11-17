@@ -2,8 +2,8 @@
 title: 'El gancho para abrir/cerrar modales afecta a todos los modales de la página'
 slug: el-gancho-para-abrircerrar-modales-afecta-a-todos-los-modales-de-la-pagina
 status: PUBLISHED
-createdAt: 2025-11-14T19:21:37.579Z
-updatedAt: 2025-11-14T19:21:37.579Z
+createdAt: 2025-11-17T17:35:54.619Z
+updatedAt: 2025-11-17T17:35:54.619Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
