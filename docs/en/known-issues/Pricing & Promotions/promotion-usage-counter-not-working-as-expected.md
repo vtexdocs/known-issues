@@ -2,15 +2,15 @@
 title: 'Promotion usage counter not working as expected'
 slug: promotion-usage-counter-not-working-as-expected
 status: PUBLISHED
-createdAt: 2025-09-18T20:36:00.987Z
-updatedAt: 2025-09-18T20:36:00.987Z
+createdAt: 2025-11-18T22:18:56.047Z
+updatedAt: 2025-11-18T22:18:56.047Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slugEN: promotion-usage-counter-not-working-as-expected
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1090367
 ---
 
