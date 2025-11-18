@@ -3511,6 +3511,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-firstload-failure-in-mercado-libre-promotions-admin-data-only-loads-after-navigating-awayback",
+    "internalReference": 1327218
+  },
+  {
+    "locale": "en",
     "slug": "mercado-livre-main-image-not-respected",
     "internalReference": 1287784
   },
@@ -11656,6 +11661,11 @@
   },
   {
     "locale": "es",
+    "slug": "mercado-livre-fallo-en-la-primera-carga-en-la-administracion-de-promociones-de-mercado-libre-los-datos-solo-se-cargan-despues-de-navegar-hacia-atrasatras",
+    "internalReference": 1327218
+  },
+  {
+    "locale": "es",
     "slug": "mercado-livre-falta-el-atributo-size",
     "internalReference": 658473
   },
@@ -19768,6 +19778,11 @@
     "locale": "pt",
     "slug": "mercado-livre-erro-ao-baixar-faturas-no-modulo-faturas",
     "internalReference": 1087545
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-falha-no-primeiro-carregamento-na-administracao-de-promocoes-do-mercado-livre-os-dados-so-sao-carregados-depois-de-navegar-para-foravoltar",
+    "internalReference": 1327218
   },
   {
     "locale": "pt",
