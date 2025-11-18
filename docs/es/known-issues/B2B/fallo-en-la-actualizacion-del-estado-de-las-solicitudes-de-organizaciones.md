@@ -2,8 +2,8 @@
 title: 'Fallo en la actualización del estado de las solicitudes de organizaciones'
 slug: fallo-en-la-actualizacion-del-estado-de-las-solicitudes-de-organizaciones
 status: PUBLISHED
-createdAt: 2025-10-14T13:31:35.212Z
-updatedAt: 2025-10-14T13:31:35.212Z
+createdAt: 2025-11-18T17:36:11.820Z
+updatedAt: 2025-11-18T17:36:11.820Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
