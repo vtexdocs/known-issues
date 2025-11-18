@@ -3281,6 +3281,11 @@
   },
   {
     "locale": "en",
+    "slug": "magazine-luiza-bridge-error-request-blocked-by-marketplace-cdn",
+    "internalReference": 1327151
+  },
+  {
+    "locale": "en",
     "slug": "magazine-luiza-integrated-fob-order-with-conventional-delivery",
     "internalReference": 721951
   },
@@ -11731,6 +11736,11 @@
   },
   {
     "locale": "es",
+    "slug": "revista-luiza-error-de-puente-solicitud-bloqueada-por-cdn-de-mercado",
+    "internalReference": 1327151
+  },
+  {
+    "locale": "es",
     "slug": "revista-luiza-los-pedidos-con-estado-aprobado-en-el-marketplace-no-se-estan-aprobando-en-vtex",
     "internalReference": 823443
   },
@@ -19668,6 +19678,11 @@
     "locale": "pt",
     "slug": "magalu-sku-sendo-integrado-com-especificacoes-de-outro-marketplace",
     "internalReference": 689151
+  },
+  {
+    "locale": "pt",
+    "slug": "magazine-luiza-erro-de-ponte-solicitacao-bloqueada-pelo-cdn-do-marketplace",
+    "internalReference": 1327151
   },
   {
     "locale": "pt",
