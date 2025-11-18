@@ -2,15 +2,15 @@
 title: 'El contador de uso de promociones no funciona como se esperaba'
 slug: el-contador-de-uso-de-promociones-no-funciona-como-se-esperaba
 status: PUBLISHED
-createdAt: 2025-09-18T20:36:04.644Z
-updatedAt: 2025-09-18T20:36:04.644Z
+createdAt: 2025-11-18T22:18:59.566Z
+updatedAt: 2025-11-18T22:18:59.566Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slugEN: promotion-usage-counter-not-working-as-expected
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1090367
 ---
 
