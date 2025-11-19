@@ -2,8 +2,8 @@
 title: 'O contador de uso da promoção não está funcionando como esperado'
 slug: o-contador-de-uso-da-promocao-nao-esta-funcionando-como-esperado
 status: PUBLISHED
-createdAt: 2025-11-18T22:18:52.787Z
-updatedAt: 2025-11-18T22:18:52.787Z
+createdAt: 2025-11-19T14:03:58.319Z
+updatedAt: 2025-11-19T14:03:58.319Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -34,7 +34,7 @@ Observe que o contador de uso da promoção pode permitir a criação de mais pe
 
 
 
-Atualmente, nem sempre é possível reproduzir esse problema de forma consistente, pois a causa raiz exata das notificações duplicadas ainda não foi determinada
+No momento, nem sempre é possível reproduzir esse problema de forma consistente, pois a causa raiz exata das notificações duplicadas ainda não foi determinada
 ## Workaround
 
 
