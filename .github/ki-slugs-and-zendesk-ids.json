@@ -4311,6 +4311,11 @@
   },
   {
     "locale": "en",
+    "slug": "same-option-id-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
+    "internalReference": 1328394
+  },
+  {
+    "locale": "en",
     "slug": "same-option-value-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
     "internalReference": 1328394
   },
@@ -12203,6 +12208,11 @@
     "locale": "es",
     "slug": "el-formulario-de-busqueda-inteligente-de-sinonimos-puede-congelar-el-campo-de-tipo-de-sinonimo-despues-de-crear-un-sinonimo-unidireccional",
     "internalReference": 1215521
+  },
+  {
+    "locale": "es",
+    "slug": "el-mismo-id-de-opcion-en-diferentes-facetas-afecta-a-la-seleccion-de-facetas-en-una-version-movil",
+    "internalReference": 1328394
   },
   {
     "locale": "es",
@@ -20623,6 +20633,11 @@
     "locale": "pt",
     "slug": "o-intelligent-search-synonyms-nao-recria-sinonimos-excluidos",
     "internalReference": 1211321
+  },
+  {
+    "locale": "pt",
+    "slug": "o-mesmo-id-de-opcao-em-diferentes-facetas-afeta-a-selecao-de-facetas-em-uma-versao-movel",
+    "internalReference": 1328394
   },
   {
     "locale": "pt",
