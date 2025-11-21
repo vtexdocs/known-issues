@@ -2,8 +2,8 @@
 title: 'A atualização da folha de especificações do produto não aciona o notificador e a indexação'
 slug: a-atualizacao-da-folha-de-especificacoes-do-produto-nao-aciona-o-notificador-e-a-indexacao
 status: PUBLISHED
-createdAt: 2025-11-21T18:12:15.951Z
-updatedAt: 2025-11-21T18:12:15.951Z
+createdAt: 2025-11-21T18:38:52.126Z
+updatedAt: 2025-11-21T18:38:52.126Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -26,7 +26,7 @@ Ao importar os valores de especificação de um produto por meio de planilhas, e
 
 - Acesse o VTEX Admin no seguinte caminho: Catálogo -> Importar e exportar -> Especificações do produto.
 - Importe uma planilha para atualizar os valores das especificações.
-- Depois de algum tempo, verifique as informações na interface do usuário do administrador; elas estarão atualizadas, mas na API de pesquisa, não estarão atualizadas
+- Após algum tempo, verifique as informações na interface do usuário do administrador; elas estarão atualizadas, mas na API de pesquisa, não estarão atualizadas
 ## Workaround
 
 
