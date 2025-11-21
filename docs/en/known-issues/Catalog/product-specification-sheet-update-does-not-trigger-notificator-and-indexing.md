@@ -2,8 +2,8 @@
 title: 'Product Specification Sheet Update does not Trigger Notificator and Indexing'
 slug: product-specification-sheet-update-does-not-trigger-notificator-and-indexing
 status: PUBLISHED
-createdAt: 2025-11-21T18:12:18.902Z
-updatedAt: 2025-11-21T18:12:18.902Z
+createdAt: 2025-11-21T18:38:55.282Z
+updatedAt: 2025-11-21T18:38:55.282Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
