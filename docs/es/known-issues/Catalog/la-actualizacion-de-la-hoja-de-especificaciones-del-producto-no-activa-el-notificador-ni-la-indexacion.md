@@ -2,8 +2,8 @@
 title: 'La actualización de la hoja de especificaciones del producto no activa el notificador ni la indexación'
 slug: la-actualizacion-de-la-hoja-de-especificaciones-del-producto-no-activa-el-notificador-ni-la-indexacion
 status: PUBLISHED
-createdAt: 2025-11-21T18:12:22.163Z
-updatedAt: 2025-11-21T18:12:22.163Z
+createdAt: 2025-11-21T18:38:58.232Z
+updatedAt: 2025-11-21T18:38:58.232Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,7 +19,7 @@ internalReference: 403107
 ## Sumario
 
 
-Al importar los valores de especificación de un producto a través de hojas de cálculo, no se desencadenarán acciones de indexación para los nuevos valores en los campos de producto existentes. Se actualizarán correctamente en la base de datos de la cuenta, pero no en las rutas de la API de búsqueda ni en los componentes frontales que consumen información indexada.
+Al importar los valores de especificación de un producto a través de hojas de cálculo, no se desencadenarán acciones de indexación para los nuevos valores en los campos de producto existentes. Se actualizarán correctamente en la base de datos de la cuenta, pero no en las rutas de la API de búsqueda ni en los componentes del front-end que consumen información indexada.
 
 
 #### Simulación
