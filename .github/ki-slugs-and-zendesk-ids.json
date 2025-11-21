@@ -1421,6 +1421,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-specification-sheet-update-does-not-trigger-notificator-and-indexing",
+    "internalReference": 403107
+  },
+  {
+    "locale": "en",
     "slug": "product-unavailable-even-with-franchised-stock",
     "internalReference": 404499
   },
@@ -9206,6 +9211,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-actualizacion-de-la-hoja-de-especificaciones-del-producto-no-activa-el-notificador-ni-la-indexacion",
+    "internalReference": 403107
+  },
+  {
+    "locale": "es",
     "slug": "la-api-de-aprobacion-automatica-acepta-cualquier-valor",
     "internalReference": 713704
   },
@@ -16938,6 +16948,11 @@
     "locale": "pt",
     "slug": "a-api-sku-insert-file-nao-esta-respondendo-com-a-propriedade-text",
     "internalReference": 1014787
+  },
+  {
+    "locale": "pt",
+    "slug": "a-atualizacao-da-folha-de-especificacoes-do-produto-nao-aciona-o-notificador-e-a-indexacao",
+    "internalReference": 403107
   },
   {
     "locale": "pt",
