@@ -2,8 +2,8 @@
 title: 'El pago cancela la transacción después de la creación'
 slug: el-pago-cancela-la-transaccion-despues-de-la-creacion
 status: PUBLISHED
-createdAt: 2025-10-16T17:29:13.925Z
-updatedAt: 2025-10-16T17:29:13.925Z
+createdAt: 2025-11-24T14:19:20.979Z
+updatedAt: 2025-11-24T14:19:20.979Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -26,14 +26,14 @@ Una transacción ya aprobada (y en algunos casos capturada) recibe una solicitud
     Una solicitud externa llamada para cancelar esta transacción Id = con Valor RequestId = . Prioridad: por defecto. Autor: vtex-service::checkout::stable.
 Esta solicitud de cancelación se produce debido a un tiempo de espera cuando la caja llama a la ruta de pagos desde la pasarela, y el servicio tarda demasiado en responder.
 
-Esto ocurre cuando el método `newGatewayCallback` se activa en dos puntos diferentes del flujo del pedido:
+Esto ocurre cuando el método `GatewayCallback` se activa en dos puntos diferentes del flujo del pedido:
 
 
 
 1. **1. Durante la fase de procesamiento del pedido**, cuando se llama al punto final `gatewayCallback/{orderGroup}`.
 2. **Después de la autorización del pago**: cuando se llama al punto final `gatewayCallback/{orderGroup}/{messageCode}`.
 
-En ambos casos, el `newGatewayCallback` realiza una petición a la pasarela de pago. Si la pasarela tarda demasiado en responder, puede producirse el mismo tipo de error de tiempo de espera en ambos casos.
+En ambos casos, el `GatewayCallback` realiza una petición a la pasarela de pago. Si la pasarela tarda demasiado en responder, puede producirse el mismo tipo de error de tiempo de espera en ambos casos.
 
 Para mayor claridad:
 
@@ -52,7 +52,6 @@ La simulación no es posible.
 
 
 No hay solución disponible.
-
 
 
 
