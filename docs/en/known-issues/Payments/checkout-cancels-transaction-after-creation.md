@@ -2,8 +2,8 @@
 title: 'Checkout cancels transaction after creation'
 slug: checkout-cancels-transaction-after-creation
 status: PUBLISHED
-createdAt: 2025-10-16T17:29:09.937Z
-updatedAt: 2025-10-16T17:29:09.937Z
+createdAt: 2025-11-24T14:19:17.207Z
+updatedAt: 2025-11-24T14:19:17.207Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -24,14 +24,14 @@ A transaction already approved (and in some cases captured) receives a cancellat
     An external application called to cancel this transaction Id = with Value RequestId = . Priority: default. Author: vtex-service::checkout::stable.
 This cancellation request occurs due to a timeout when the checkout calls the payments route from the gateway, and the service takes too long to respond.
 
-This happens when the `newGatewayCallback` method is triggered at two different points in the order flow:
+This happens when the `GatewayCallback` method is triggered at two different points in the order flow:
 
 
 
 1. **During the order processing stage** – when the endpoint `gatewayCallback/{orderGroup}` is called.
 2. **After the payment authorization** – when the endpoint `gatewayCallback/{orderGroup}/{messageCode}` is called.
 
-In both cases, the `newGatewayCallback`  performs a request to the payment gateway. If the gateway takes too long to respond, the same type of timeout error can occur in either scenario.
+In both cases, the `GatewayCallback`  performs a request to the payment gateway. If the gateway takes too long to respond, the same type of timeout error can occur in either scenario.
 
 To clarify further:
 
@@ -52,7 +52,6 @@ Simulation is not possible.
 
 
 No workaround available.
-
 
 
 
