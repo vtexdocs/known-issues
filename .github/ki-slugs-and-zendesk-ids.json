@@ -3031,11 +3031,6 @@
   },
   {
     "locale": "en",
-    "slug": "amazon-amazon-order-does-not-integrate-correctly",
-    "internalReference": 1109828
-  },
-  {
-    "locale": "en",
     "slug": "amazon-carrier-selection",
     "internalReference": 1186908
   },
@@ -3088,6 +3083,11 @@
     "locale": "en",
     "slug": "amazon-object-reference-not-set-to-an-instance-of-an-object",
     "internalReference": 482173
+  },
+  {
+    "locale": "en",
+    "slug": "amazon-order-does-not-integrate",
+    "internalReference": 1109828
   },
   {
     "locale": "en",
@@ -11126,11 +11126,6 @@
   },
   {
     "locale": "es",
-    "slug": "amazon-el-pedido-de-amazon-no-se-integra-correctamente",
-    "internalReference": 1109828
-  },
-  {
-    "locale": "es",
     "slug": "amazon-error-en-el-flujo-de-actualizacion-sku-no-se-esta-registrando-en-el-puente",
     "internalReference": 990197
   },
@@ -11248,6 +11243,11 @@
     "locale": "es",
     "slug": "el-menu-meli-bridge-orders-no-muestra-la-informacion-del-orderid",
     "internalReference": 881733
+  },
+  {
+    "locale": "es",
+    "slug": "el-pedido-de-amazon-no-se-integra",
+    "internalReference": 1109828
   },
   {
     "locale": "es",
@@ -19256,11 +19256,6 @@
   },
   {
     "locale": "pt",
-    "slug": "amazon-o-pedido-da-amazon-nao-se-integra-corretamente",
-    "internalReference": 1109828
-  },
-  {
-    "locale": "pt",
     "slug": "amazon-os-skus-do-mesmo-produto-nao-foram-agrupados-na-amazon",
     "internalReference": 1240446
   },
@@ -19653,6 +19648,11 @@
     "locale": "pt",
     "slug": "o-menu-meli-bridge-orders-nao-exibe-as-informacoes-de-id-do-pedido",
     "internalReference": 881733
+  },
+  {
+    "locale": "pt",
+    "slug": "o-pedido-da-amazon-nao-se-integra",
+    "internalReference": 1109828
   },
   {
     "locale": "pt",
