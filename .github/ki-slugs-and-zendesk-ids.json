@@ -5981,6 +5981,11 @@
   },
   {
     "locale": "en",
+    "slug": "giftcard-transactions-returning-empty",
+    "internalReference": 384430
+  },
+  {
+    "locale": "en",
     "slug": "import-file-for-customer-credit-invoices-stuck-in-loading",
     "internalReference": 1289897
   },
@@ -14886,6 +14891,11 @@
   },
   {
     "locale": "es",
+    "slug": "transacciones-con-tarjeta-regalo-vacias",
+    "internalReference": 384430
+  },
+  {
+    "locale": "es",
     "slug": "transacciones-incompletas-que-aparecen-con-moneda-brasilena",
     "internalReference": 1007953
   },
@@ -23103,6 +23113,11 @@
     "locale": "pt",
     "slug": "transacoes-bloqueadas-apos-a-rejeicao-do-risco",
     "internalReference": 1092563
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-de-cartoespresente-que-retornam-vazias",
+    "internalReference": 384430
   },
   {
     "locale": "pt",
