@@ -741,6 +741,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-search-inconsistencies-may-not-return-products-due-to-an-indexing-issue",
+    "internalReference": 1330325
+  },
+  {
+    "locale": "en",
     "slug": "catalog-select-brand-in-catalog-doesnt-work",
     "internalReference": 1149983
   },
@@ -9126,6 +9131,11 @@
   },
   {
     "locale": "es",
+    "slug": "es-posible-que-la-busqueda-en-el-catalogo-no-devuelva-los-productos-debido-a-un-problema-de-indexacion",
+    "internalReference": 1330325
+  },
+  {
+    "locale": "es",
     "slug": "es-posible-que-los-botones-no-funcionen-a-la-primera-en-fullcleanup-admin",
     "internalReference": 790828
   },
@@ -17288,6 +17298,11 @@
     "locale": "pt",
     "slug": "as-exportacoes-de-estoques-individuais-inventarios-nao-funcionam-nas-contas-do-seller-portal",
     "internalReference": 684464
+  },
+  {
+    "locale": "pt",
+    "slug": "as-inconsistencias-da-pesquisa-de-catalogo-podem-nao-retornar-produtos-devido-a-um-problema-de-indexacao",
+    "internalReference": 1330325
   },
   {
     "locale": "pt",
