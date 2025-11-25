@@ -2,8 +2,8 @@
 title: 'O pedido da Amazon não se integra corretamente'
 slug: o-pedido-da-amazon-nao-se-integra-corretamente
 status: PUBLISHED
-createdAt: 2025-11-25T20:16:24.902Z
-updatedAt: 2025-11-25T20:16:24.902Z
+createdAt: 2025-11-25T21:11:54.008Z
+updatedAt: 2025-11-25T21:11:54.008Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
