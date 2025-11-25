@@ -3086,6 +3086,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-order-does-not-integrate-correctly",
+    "internalReference": 1109828
+  },
+  {
+    "locale": "en",
     "slug": "amazon-order-does-not-integrate",
     "internalReference": 1109828
   },
@@ -11243,6 +11248,11 @@
     "locale": "es",
     "slug": "el-menu-meli-bridge-orders-no-muestra-la-informacion-del-orderid",
     "internalReference": 881733
+  },
+  {
+    "locale": "es",
+    "slug": "el-pedido-de-amazon-no-se-integra-correctamente",
+    "internalReference": 1109828
   },
   {
     "locale": "es",
@@ -19648,6 +19658,11 @@
     "locale": "pt",
     "slug": "o-menu-meli-bridge-orders-nao-exibe-as-informacoes-de-id-do-pedido",
     "internalReference": 881733
+  },
+  {
+    "locale": "pt",
+    "slug": "o-pedido-da-amazon-nao-se-integra-corretamente",
+    "internalReference": 1109828
   },
   {
     "locale": "pt",
