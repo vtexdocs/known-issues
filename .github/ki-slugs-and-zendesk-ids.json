@@ -5146,6 +5146,11 @@
   },
   {
     "locale": "en",
+    "slug": "invoice-items-description-in-packages-overwritten-based-on-invoicevalue-rule-ordersoms-get-order-reconstruction",
+    "internalReference": 1330069
+  },
+  {
+    "locale": "en",
     "slug": "issues-with-my-account-links",
     "internalReference": 522514
   },
@@ -13446,6 +13451,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-descripcion-de-los-elementos-de-la-factura-en-los-paquetes-se-sobrescribe-en-funcion-de-la-regla-invoicevalue-reconstruccion-de-pedidosoms-get-order",
+    "internalReference": 1330069
+  },
+  {
+    "locale": "es",
     "slug": "la-division-de-la-entrega-no-se-mostrara-en-la-interfaz-de-usuario-ni-en-mis-pedidos-cuando-el-pedido-tenga-el-mismo-metodo-de-envio",
     "internalReference": 495352
   },
@@ -21518,6 +21528,11 @@
     "locale": "pt",
     "slug": "carater-especial-no-relatorio-do-nome-do-vendedor",
     "internalReference": 756243
+  },
+  {
+    "locale": "pt",
+    "slug": "descricao-dos-itens-da-fatura-em-pacotes-sobrescritos-com-base-na-regra-invoicevalue-reconstrucao-de-pedidosoms-get-order",
+    "internalReference": 1330069
   },
   {
     "locale": "pt",
