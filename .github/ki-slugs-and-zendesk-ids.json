@@ -766,11 +766,6 @@
   },
   {
     "locale": "en",
-    "slug": "categories-missing-seller-not-provisioned-correctly",
-    "internalReference": 1205261
-  },
-  {
-    "locale": "en",
     "slug": "categories-that-only-have-products-setup-by-similar-category-do-not-appear-on-sitemap",
     "internalReference": 1091727
   },
@@ -808,11 +803,6 @@
     "locale": "en",
     "slug": "changing-the-order-of-a-sku-specification-on-the-admin-could-make-the-page-not-work-correctly",
     "internalReference": 460329
-  },
-  {
-    "locale": "en",
-    "slug": "cms-legacy-collections-timeout",
-    "internalReference": 434026
   },
   {
     "locale": "en",
@@ -3021,11 +3011,6 @@
   },
   {
     "locale": "en",
-    "slug": "ab-tester-app-shows-miscalculated-information-for-sessions-and-conversion",
-    "internalReference": 865727
-  },
-  {
-    "locale": "en",
     "slug": ".md",
     "internalReference": 1216327
   },
@@ -3103,11 +3088,6 @@
     "locale": "en",
     "slug": "amazon-object-reference-not-set-to-an-instance-of-an-object",
     "internalReference": 482173
-  },
-  {
-    "locale": "en",
-    "slug": "amazon-order-does-not-integrate-correctly",
-    "internalReference": 1109828
   },
   {
     "locale": "en",
@@ -3941,11 +3921,6 @@
   },
   {
     "locale": "en",
-    "slug": "accented-synonyms-may-not-return-products-in-secondary-languages",
-    "internalReference": 1268282
-  },
-  {
-    "locale": "en",
     "slug": "accounts-with-on-the-name-dont-have-metrics-on-search-report",
     "internalReference": 793570
   },
@@ -3963,11 +3938,6 @@
     "locale": "en",
     "slug": "autocomplete-not-answering-to-cold-starts",
     "internalReference": 418573
-  },
-  {
-    "locale": "en",
-    "slug": "autocomplete-suggestion-api-removes-special-characters-from-the-product-name",
-    "internalReference": 1014701
   },
   {
     "locale": "en",
@@ -4042,16 +4012,6 @@
   {
     "locale": "en",
     "slug": "deleted-banner-may-still-appear-on-plp",
-    "internalReference": 1295586
-  },
-  {
-    "locale": "en",
-    "slug": "deleted-banners-may-remain-retrievable-in-the-banners-route-of-is-api",
-    "internalReference": 1295586
-  },
-  {
-    "locale": "en",
-    "slug": "deleted-banners-may-still-appear-on-plp",
     "internalReference": 1295586
   },
   {
@@ -4316,11 +4276,6 @@
   },
   {
     "locale": "en",
-    "slug": "regionalization-or-trade-policies-arent-considered-while-filtering-or",
-    "internalReference": 571101
-  },
-  {
-    "locale": "en",
     "slug": "same-option-id-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
     "internalReference": 1328394
   },
@@ -4393,11 +4348,6 @@
     "locale": "en",
     "slug": "searches-with-at-the-end-not-working-correctly",
     "internalReference": 509101
-  },
-  {
-    "locale": "en",
-    "slug": "searching-for-products-using-synonyms-may-not-return-all-the-products-from-original-term",
-    "internalReference": 1094028
   },
   {
     "locale": "en",
@@ -5331,11 +5281,6 @@
   },
   {
     "locale": "en",
-    "slug": "orders-stuck-in-completed-with-onordercompleted-status-in-fulfillment-and-approved-payment-status-in-marketplace",
-    "internalReference": 1218615
-  },
-  {
-    "locale": "en",
     "slug": "orders-stuck-in-starthandling-status",
     "internalReference": 1218606
   },
@@ -5408,11 +5353,6 @@
     "locale": "en",
     "slug": "rounding-of-totalvalue-in-listorders",
     "internalReference": 756314
-  },
-  {
-    "locale": "en",
-    "slug": "seller-selection-excludes-single-seller-of-sku-with-low-coverage-causing-unavailability-in-allocation-step",
-    "internalReference": 1298003
   },
   {
     "locale": "en",
@@ -6241,11 +6181,6 @@
   },
   {
     "locale": "en",
-    "slug": "order-stuck-in-payment-pending-status-due-to-missing-payment-approved-notification",
-    "internalReference": 1031035
-  },
-  {
-    "locale": "en",
     "slug": "order-with-status-of-verifying-invoice-does-not-update-to-invoiced",
     "internalReference": 500245
   },
@@ -6406,11 +6341,6 @@
   },
   {
     "locale": "en",
-    "slug": "sku-quantity-miscount-in-checkout-when-more-for-less-promotion-is-applied-in-b2b-quotes",
-    "internalReference": 1281922
-  },
-  {
-    "locale": "en",
     "slug": "status-on-transactions-list-doesnt-match-actual-state",
     "internalReference": 1004883
   },
@@ -6556,11 +6486,6 @@
   },
   {
     "locale": "en",
-    "slug": "transaction-stuck-in-a-status-prior-to-the-state-that-it-should-be",
-    "internalReference": 1037765
-  },
-  {
-    "locale": "en",
     "slug": "transaction-stuck-in-approved-while-payment-remains-settling-when-using-partial-settlements",
     "internalReference": 1319395
   },
@@ -6613,11 +6538,6 @@
     "locale": "en",
     "slug": "transactions-made-with-payu-do-not-change-from-cancelling-status",
     "internalReference": 338124
-  },
-  {
-    "locale": "en",
-    "slug": "transactions-remain-in-pending-authorization-despite-connector-approval",
-    "internalReference": 1302349
   },
   {
     "locale": "en",
@@ -6943,11 +6863,6 @@
     "locale": "en",
     "slug": "product-rich-snippets-not-using-aggregateoffer-format-for-offers-with-more-than-one-seller",
     "internalReference": 753505
-  },
-  {
-    "locale": "en",
-    "slug": "products-showing-flag-and-discount-after-promotion-ended",
-    "internalReference": 383911
   },
   {
     "locale": "en",
@@ -7536,11 +7451,6 @@
   },
   {
     "locale": "en",
-    "slug": "sitemap-returns-error-fetching-sitemap-data",
-    "internalReference": 1319643
-  },
-  {
-    "locale": "en",
     "slug": "some-unexpected-behavior-in-masterdata",
     "internalReference": 669048
   },
@@ -8033,11 +7943,6 @@
     "locale": "en",
     "slug": "ssq-disabled-for-search-pages-with-map-parameters",
     "internalReference": 1092143
-  },
-  {
-    "locale": "en",
-    "slug": "storefront-styles-page-interfering-with-theme-css-loading",
-    "internalReference": 1280557
   },
   {
     "locale": "en",
@@ -8831,18 +8736,8 @@
   },
   {
     "locale": "es",
-    "slug": "categorias-que-faltan-vendedor-no-provisionado-correctamente",
-    "internalReference": 1205261
-  },
-  {
-    "locale": "es",
     "slug": "categoryfullpath-a-veces-incorrecto-en-la-respuesta-de-la-api-de-busqueda",
     "internalReference": 1212625
-  },
-  {
-    "locale": "es",
-    "slug": "cms-legacy-collections-tiempo-de-espera",
-    "internalReference": 434026
   },
   {
     "locale": "es",
@@ -9776,11 +9671,6 @@
   },
   {
     "locale": "es",
-    "slug": "producto-no-disponible-incluso-con-el-stock-de-la-franquicia",
-    "internalReference": 404499
-  },
-  {
-    "locale": "es",
     "slug": "producto-no-disponible-incluso-con-stock-franquiciado",
     "internalReference": 404499
   },
@@ -9842,11 +9732,6 @@
   {
     "locale": "es",
     "slug": "skus-recibidos-las-aprobaciones-de-asociacion-no-anaden-el-canal-de-ventas-disponible-del-vendedor-en-el-producto-cuando-el-sku-es-vendido-por-mas-de-1-vendedor",
-    "internalReference": 562472
-  },
-  {
-    "locale": "es",
-    "slug": "skus-recibidos-las-aprobaciones-de-asociacion-no-anaden-el-canal-de-ventas-disponible-del-vendedor-en-el-producto-cuando-el-sku-es-vendido-por-mas",
     "internalReference": 562472
   },
   {
@@ -9928,11 +9813,6 @@
     "locale": "es",
     "slug": "timeout-al-cambiar-las-palabras-clave-de-la-categoria-con-muchos-productos",
     "internalReference": 497335
-  },
-  {
-    "locale": "es",
-    "slug": "timeout-de-la-especificacion-categoriesaspx",
-    "internalReference": 433664
   },
   {
     "locale": "es",
@@ -10338,11 +10218,6 @@
     "locale": "es",
     "slug": "el-paso-de-envio-puede-mostrar-un-mensaje-de-no-disponibilidad-mientras-se-calculan-las-opciones-de-envio",
     "internalReference": 650038
-  },
-  {
-    "locale": "es",
-    "slug": "el-pedido-no-se-puede-crear-debido-a-que-la-tarjeta-de-credito-no-es-valida",
-    "internalReference": 607742
   },
   {
     "locale": "es",
@@ -11211,11 +11086,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-aplicacion-ab-tester-muestra-informacion-erronea-sobre-sesiones-y-conversion",
-    "internalReference": 865727
-  },
-  {
-    "locale": "es",
     "slug": ".md",
     "internalReference": 1216327
   },
@@ -11381,18 +11251,8 @@
   },
   {
     "locale": "es",
-    "slug": "el-pedido-de-amazon-no-se-integra-correctamente",
-    "internalReference": 1109828
-  },
-  {
-    "locale": "es",
     "slug": "el-pedido-no-actualiza-su-estado-en-oms",
     "internalReference": 421529
-  },
-  {
-    "locale": "es",
-    "slug": "erro-categoria-xxx-no-encontrada-en-el-mapeo-del-nodo-de-navegacion-para-la-especificacion-del-departamento-de-sku-elija-una-categoria-global-mas-e",
-    "internalReference": 417639
   },
   {
     "locale": "es",
@@ -11467,11 +11327,6 @@
   {
     "locale": "es",
     "slug": "implantacion-de-categorias-en-amazon",
-    "internalReference": 549924
-  },
-  {
-    "locale": "es",
-    "slug": "implementacion-de-la-categoria-de-amazon",
     "internalReference": 549924
   },
   {
@@ -12281,11 +12136,6 @@
   },
   {
     "locale": "es",
-    "slug": "es-posible-que-la-busqueda-de-productos-mediante-sinonimos-no-devuelva-todos-los-productos-del-termino-original",
-    "internalReference": 1094028
-  },
-  {
-    "locale": "es",
     "slug": "es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilizan-sinonimos-en-lenguas-secundarias",
     "internalReference": 1268282
   },
@@ -12352,11 +12202,6 @@
   {
     "locale": "es",
     "slug": "la-api-de-sugerencia-de-autocompletar-elimina-los-caracteres-especiales-de-los-resultados-sugeridos",
-    "internalReference": 1014701
-  },
-  {
-    "locale": "es",
-    "slug": "la-api-de-sugerencia-de-autocompletar-elimina-los-caracteres-especiales-del-nombre-del-producto",
     "internalReference": 1014701
   },
   {
@@ -12436,11 +12281,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-regionalizacion-o-las-politicas-comerciales-no-se-tienen-en-cuenta-al",
-    "internalReference": 571101
-  },
-  {
-    "locale": "es",
     "slug": "las-busquedas-con-al-final-no-funcionan-correctamente",
     "internalReference": 509101
   },
@@ -12516,16 +12356,6 @@
   },
   {
     "locale": "es",
-    "slug": "los-banners-eliminados-pueden-seguir-apareciendo-en-plp",
-    "internalReference": 1295586
-  },
-  {
-    "locale": "es",
-    "slug": "los-banners-eliminados-pueden-seguir-recuperandose-en-la-ruta-banners-de-la-api-is",
-    "internalReference": 1295586
-  },
-  {
-    "locale": "es",
     "slug": "los-filtros-de-busqueda-desaparecen-intermitentemente",
     "internalReference": 734221
   },
@@ -12558,11 +12388,6 @@
     "locale": "es",
     "slug": "los-productos-sin-stock-en-los-vendedores-de-marca-blanca-aparecen-en-el-final-de-la-plp",
     "internalReference": 495741
-  },
-  {
-    "locale": "es",
-    "slug": "los-sinonimos-acentuados-pueden-no-devolver-productos-en-lenguas-secundarias",
-    "internalReference": 1268282
   },
   {
     "locale": "es",
@@ -13251,11 +13076,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-contador-de-uso-de-promociones-no-esta-funcionando-como-se-esperaba-en-el-caso-de-las-divisiones-de-pedidos-y-los-pedidos-incompletos",
-    "internalReference": 1289805
-  },
-  {
-    "locale": "es",
     "slug": "el-contador-de-uso-de-promociones-no-funciona-como-se-esperaba-en-el-caso-de-las-divisiones-de-pedidos-y-los-pedidos-incompletos",
     "internalReference": 1289805
   },
@@ -13526,11 +13346,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-seleccion-de-vendedores-excluye-a-un-unico-vendedor-de-sku-con-baja-cobertura-lo-que-provoca-indisponibilidad-en-el-paso-de-asignacion",
-    "internalReference": 1298003
-  },
-  {
-    "locale": "es",
     "slug": "la-simulacion-de-suscripciones-devuelve-un-error-cuando-pickuppointid-contiene-caracteres-especiales",
     "internalReference": 903332
   },
@@ -13678,11 +13493,6 @@
     "locale": "es",
     "slug": "pedido-sin-suscripcion-creado-y-sin-correo-electronico-de-nuevos-pedidos-en-casos-relacionados-con-el-metodo-de-pago-utilizando-conectores-como-pay",
     "internalReference": 529143
-  },
-  {
-    "locale": "es",
-    "slug": "pedidos-atascados-en-completado-con-el-estado-en-orden-completado-en-cumplimiento-y-el-estado-de-pago-aprobado-en-el-mercado",
-    "internalReference": 1218615
   },
   {
     "locale": "es",
@@ -14156,11 +13966,6 @@
   },
   {
     "locale": "es",
-    "slug": "error-en-el-recuento-de-la-cantidad-de-sku-en-la-caja-cuando-se-aplica-la-promocion-mas-por-menos-en-cotizaciones-b2b",
-    "internalReference": 1281922
-  },
-  {
-    "locale": "es",
     "slug": "error-en-el-reembolso-el-valor-no-puede-ser-nulo-nombre-del-parametro-valor",
     "internalReference": 1049494
   },
@@ -14288,11 +14093,6 @@
     "locale": "es",
     "slug": "incongruencia-en-las-fechas-de-vencimiento-del-boleto-bancario",
     "internalReference": 489460
-  },
-  {
-    "locale": "es",
-    "slug": "incongruencia-en-los-plazos-de-las-facturas-de-credito-de-los-clientes",
-    "internalReference": 331279
   },
   {
     "locale": "es",
@@ -14436,11 +14236,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-tarjeta-de-regalo-no-se-reembolsa-despues-de-la-cancelacion-de-la-transaccion",
-    "internalReference": 491195
-  },
-  {
-    "locale": "es",
     "slug": "la-tarjeta-regalo-native-esta-sumando-credito-aunque-devuelve-500",
     "internalReference": 760896
   },
@@ -14453,11 +14248,6 @@
     "locale": "es",
     "slug": "la-validez-del-pagare-no-anula-la-transaccion",
     "internalReference": 325491
-  },
-  {
-    "locale": "es",
-    "slug": "las-devoluciones-de-llamada-tras-la-aprobacion-pueden-provocar-que-paymentauthorizationworker-vuelva-a-intentar-el-pago-lo-que-tambien-puede-denega",
-    "internalReference": 740499
   },
   {
     "locale": "es",
@@ -14498,11 +14288,6 @@
     "locale": "es",
     "slug": "las-transacciones-de-verificacion-al-guardar-la-tarjeta-en-mycards-no-se-cancelan-automaticamente",
     "internalReference": 347084
-  },
-  {
-    "locale": "es",
-    "slug": "las-transacciones-permanecen-pendientes-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
-    "internalReference": 1302349
   },
   {
     "locale": "es",
@@ -14731,11 +14516,6 @@
   },
   {
     "locale": "es",
-    "slug": "pedido-bloqueado-en-estado-pendiente-de-pago-por-falta-de-notificacion-de-pago-aprobado",
-    "internalReference": 1031035
-  },
-  {
-    "locale": "es",
     "slug": "pedido-bloqueado-en-pendiente-de-pago-debido-a-un-estado-de-transaccion-obsoleto",
     "internalReference": 1195265
   },
@@ -14843,11 +14623,6 @@
     "locale": "es",
     "slug": "transaccion-atascada-en-aprobado-mientras-el-pago-permanece-liquidando-cuando-se-utilizan-liquidaciones-parciales",
     "internalReference": 1319395
-  },
-  {
-    "locale": "es",
-    "slug": "transaccion-atascada-en-un-estado-anterior-al-que-deberia-estar",
-    "internalReference": 1037765
   },
   {
     "locale": "es",
@@ -15241,11 +15016,6 @@
   },
   {
     "locale": "es",
-    "slug": "productos-que-muestran-la-bandera-y-el-descuento-tras-finalizar-la-promocion",
-    "internalReference": 383911
-  },
-  {
-    "locale": "es",
     "slug": "pubportalpagetype-no-se-mapea-correctamente-cuando-2-categorias-tienen-el-mismo-nombre",
     "internalReference": 314551
   },
@@ -15536,11 +15306,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-promocion-de-envio-gratuito-no-se-aplica-debido-a-que-el-importe-minimo-o-maximo-se-basa-en-el-precio-unitario-en-lugar-del-valor-total-del-arti",
-    "internalReference": 1081841
-  },
-  {
-    "locale": "es",
     "slug": "la-promocion-de-envio-gratuito-se-esta-aplicando-en-pedidos-divididos-fuera-de-la-restriccion-de-la-promocion",
     "internalReference": 732302
   },
@@ -15688,11 +15453,6 @@
     "locale": "es",
     "slug": "el-filtro-booleano-en-la-aplicacion-de-formularios-no-funciona-correctamente",
     "internalReference": 918537
-  },
-  {
-    "locale": "es",
-    "slug": "el-mapa-del-sitio-devuelve-error-al-obtener-los-datos-del-mapa-del-sitio",
-    "internalReference": 1319643
   },
   {
     "locale": "es",
@@ -16113,11 +15873,6 @@
     "locale": "es",
     "slug": "la-funcion-aplicar-al-tema-no-funciona-en-el-editor-de-sitios-con-paginas-personalizadas",
     "internalReference": 580543
-  },
-  {
-    "locale": "es",
-    "slug": "la-pagina-de-estilos-de-la-tienda-interfiere-con-la-carga-de-css-del-tema",
-    "internalReference": 1280557
   },
   {
     "locale": "es",
@@ -17461,18 +17216,8 @@
   },
   {
     "locale": "pt",
-    "slug": "categorias-ausentes-do-vendedor-nao-provisionadas-corretamente",
-    "internalReference": 1205261
-  },
-  {
-    "locale": "pt",
     "slug": "categorias-globais-no-catalogo-desatualizadas-em-comparacao-com-o-google",
     "internalReference": 754062
-  },
-  {
-    "locale": "pt",
-    "slug": "categoriasaspx-especificacao-timeout",
-    "internalReference": 433664
   },
   {
     "locale": "pt",
@@ -18016,11 +17761,6 @@
   },
   {
     "locale": "pt",
-    "slug": "produto-indisponivel-mesmo-com-estoque-na-franquia",
-    "internalReference": 404499
-  },
-  {
-    "locale": "pt",
     "slug": "produtos-com-variacoes-de-sku-aprovadas-em-skus-recebidos-estao-sendo-criados-com-skus-duplicados-no-catalogo",
     "internalReference": 889676
   },
@@ -18086,11 +17826,6 @@
   },
   {
     "locale": "pt",
-    "slug": "skus-recebidos-as-aprovacoes-de-associacao-nao-adicionam-o-canal-de-vendas-disponivel-do-vendedor-no-produto-quando-o-sku-e-vendido-por-mais-de-um",
-    "internalReference": 562472
-  },
-  {
-    "locale": "pt",
     "slug": "skuservicoformaspx-nao-listando-tabelas-de-valores-no-inicio-para-um-tipo-de-valor",
     "internalReference": 335819
   },
@@ -18098,11 +17833,6 @@
     "locale": "pt",
     "slug": "tempo-limite-ao-editar-especificacoes",
     "internalReference": 1192667
-  },
-  {
-    "locale": "pt",
-    "slug": "tempo-limite-das-colecoes-herdadas-do-cms",
-    "internalReference": 434026
   },
   {
     "locale": "pt",
@@ -19086,11 +18816,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-pedido-nao-pode-ser-criado-devido-a-cartao-de-credito-invalido",
-    "internalReference": 607742
-  },
-  {
-    "locale": "pt",
     "slug": "o-pedido-nao-pode-ser-criado-devido-a-um-cartao-de-credito-invalido",
     "internalReference": 607742
   },
@@ -19446,11 +19171,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-aplicativo-ab-tester-mostra-informacoes-mal-calculadas-para-sessoes-e-conversao",
-    "internalReference": 865727
-  },
-  {
-    "locale": "pt",
     "slug": ".md",
     "internalReference": 1216327
   },
@@ -19601,11 +19321,6 @@
   },
   {
     "locale": "pt",
-    "slug": "categoria-global-da-amazon-nao-funciona",
-    "internalReference": 634199
-  },
-  {
-    "locale": "pt",
     "slug": "centauro-orders-with-pedido-sem-o-campo-packages-error",
     "internalReference": 604422
   },
@@ -19648,11 +19363,6 @@
     "locale": "pt",
     "slug": "erro-ao-salvar-o-cartao-de-integracao-com-a-netshoes",
     "internalReference": 591921
-  },
-  {
-    "locale": "pt",
-    "slug": "erro-categoria-xxx-nao-encontrada-no-mapeamento-de-nos-de-navegacao-para-a-especificacao-do-departamento-da-sku-escolha-uma-categoria-global-mais-e",
-    "internalReference": 417639
   },
   {
     "locale": "pt",
@@ -19737,11 +19447,6 @@
   {
     "locale": "pt",
     "slug": "impressao-de-etiquetas-meli-oms",
-    "internalReference": 546542
-  },
-  {
-    "locale": "pt",
-    "slug": "impressao-do-rotulo-meli-oms",
     "internalReference": 546542
   },
   {
@@ -19948,11 +19653,6 @@
     "locale": "pt",
     "slug": "o-menu-meli-bridge-orders-nao-exibe-as-informacoes-de-id-do-pedido",
     "internalReference": 881733
-  },
-  {
-    "locale": "pt",
-    "slug": "o-pedido-da-amazon-nao-se-integra-corretamente",
-    "internalReference": 1109828
   },
   {
     "locale": "pt",
@@ -20381,11 +20081,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-de-sugestao-de-preenchimento-automatico-remove-caracteres-especiais-do-nome-do-produto",
-    "internalReference": 1014701
-  },
-  {
-    "locale": "pt",
     "slug": "a-api-de-sugestao-de-preenchimento-automatico-remove-caracteres-especiais-dos-resultados-sugeridos",
     "internalReference": 1014701
   },
@@ -20421,11 +20116,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-pesquisa-de-produtos-usando-sinonimos-pode-nao-retornar-todos-os-produtos-do-termo-original",
-    "internalReference": 1094028
-  },
-  {
-    "locale": "pt",
     "slug": "a-pesquisa-explicativa-nao-apresenta-resultados-quando-o-idioma-corresponde-a-localidade-do-administrador-tambem-configurada-na-pesquisa-inteligent",
     "internalReference": 830490
   },
@@ -20437,11 +20127,6 @@
   {
     "locale": "pt",
     "slug": "a-regionalizacao-ou-as-politicas-comerciais-nao-sao-consideradas-ao-filtrar-ou-classificar-itens-por-preco-ou-desconto",
-    "internalReference": 571101
-  },
-  {
-    "locale": "pt",
-    "slug": "a-regionalizacao-ou-as-politicas-comerciais-nao-sao-consideradas-ao-filtrar",
     "internalReference": 571101
   },
   {
@@ -20746,16 +20431,6 @@
   },
   {
     "locale": "pt",
-    "slug": "os-banners-excluidos-ainda-podem-aparecer-no-plp",
-    "internalReference": 1295586
-  },
-  {
-    "locale": "pt",
-    "slug": "os-banners-excluidos-podem-permanecer-recuperaveis-na-rota-banners-da-api-is",
-    "internalReference": 1295586
-  },
-  {
-    "locale": "pt",
     "slug": "os-destaques-de-produtos-nao-funcionam-em-uma-lista-de-produtos",
     "internalReference": 546844
   },
@@ -20767,11 +20442,6 @@
   {
     "locale": "pt",
     "slug": "os-filtros-de-especificacao-de-sku-nao-sao-carregados-quando-a-sku-esta-disponivel-apenas-em-um-vendedor-whitelabel",
-    "internalReference": 431888
-  },
-  {
-    "locale": "pt",
-    "slug": "os-filtros-de-especificacao-sku-nao-sao-carregados-quando-o-sku-so-esta-disponivel-em-um-vendedor-de-whitelabel",
     "internalReference": 431888
   },
   {
@@ -20903,11 +20573,6 @@
     "locale": "pt",
     "slug": "regras-de-visual-merchandising-que-alteram-produtos-inesperados-devido-a-ids-conflitantes",
     "internalReference": 1092750
-  },
-  {
-    "locale": "pt",
-    "slug": "sinonimos-acentuados-podem-nao-retornar-produtos-em-idiomas-secundarios",
-    "internalReference": 1268282
   },
   {
     "locale": "pt",
@@ -21456,11 +21121,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-selecao-do-vendedor-exclui-um-unico-vendedor-de-sku-com-baixa-cobertura-causando-indisponibilidade-na-etapa-de-alocacao",
-    "internalReference": 1298003
-  },
-  {
-    "locale": "pt",
     "slug": "a-simulacao-de-assinaturas-retornou-um-erro-quando-o-pickuppointid-contem-caracteres-especiais",
     "internalReference": 903332
   },
@@ -21951,11 +21611,6 @@
   },
   {
     "locale": "pt",
-    "slug": "pedidos-presos-em-concluidos-com-status-de-pedido-concluido-no-atendimento-e-status-de-pagamento-aprovado-no-marketplace",
-    "internalReference": 1218615
-  },
-  {
-    "locale": "pt",
     "slug": "pedidos-presos-no-status-de-cancelamento-no-atendimento-mas-com-o-marketplace-cancelado",
     "internalReference": 1198719
   },
@@ -22291,11 +21946,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-transacoes-permanecem-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
-    "internalReference": 1302349
-  },
-  {
-    "locale": "pt",
     "slug": "atualizacao-regex-da-cabal",
     "internalReference": 374652
   },
@@ -22466,11 +22116,6 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-na-contagem-da-quantidade-de-sku-no-checkout-quando-a-promocao-mais-por-menos-e-aplicada-em-cotacoes-b2b",
-    "internalReference": 1281922
-  },
-  {
-    "locale": "pt",
     "slug": "erro-na-criacao-de-pagamentos-personalizados",
     "internalReference": 995110
   },
@@ -22536,11 +22181,6 @@
   },
   {
     "locale": "pt",
-    "slug": "giftcard-nao-recebendo-reembolso-apos-o-cancelamento-da-transacao",
-    "internalReference": 491195
-  },
-  {
-    "locale": "pt",
     "slug": "giftcard-transaction-api-sempre-retorna-resposta-vazia",
     "internalReference": 384430
   },
@@ -22602,11 +22242,6 @@
   {
     "locale": "pt",
     "slug": "inconsistencia-nos-prazos-das-faturas-de-credito-do-cliente",
-    "internalReference": 331279
-  },
-  {
-    "locale": "pt",
-    "slug": "inconsistencia-sobre-os-prazos-das-faturas-de-credito-ao-cliente",
     "internalReference": 331279
   },
   {
@@ -22976,11 +22611,6 @@
   },
   {
     "locale": "pt",
-    "slug": "pedido-preso-no-status-pendente-de-pagamento-devido-a-falta-de-notificacao-de-pagamento-aprovado",
-    "internalReference": 1031035
-  },
-  {
-    "locale": "pt",
     "slug": "pedidos-feitos-com-gift-card-geram-transacoes-em-moeda-brasileira-r",
     "internalReference": 1083379
   },
@@ -23118,16 +22748,6 @@
     "locale": "pt",
     "slug": "transacao-presa-em-aprovado-enquanto-o-pagamento-permanece-liquidado-ao-usar-liquidacoes-parciais",
     "internalReference": 1319395
-  },
-  {
-    "locale": "pt",
-    "slug": "transacao-presa-em-um-status-anterior-ao-estado-em-que-deveria-estar",
-    "internalReference": 1037765
-  },
-  {
-    "locale": "pt",
-    "slug": "transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-de-recipientssplitremainvalue",
-    "internalReference": 1295769
   },
   {
     "locale": "pt",
@@ -23448,11 +23068,6 @@
     "locale": "pt",
     "slug": "portal-legacy-cms-redirecionamento-com-parametros-em-url-nao-funciona",
     "internalReference": 444496
-  },
-  {
-    "locale": "pt",
-    "slug": "produtos-que-mostram-a-bandeira-e-o-desconto-apos-o-termino-da-promocao",
-    "internalReference": 383911
   },
   {
     "locale": "pt",
@@ -23826,11 +23441,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-publico-da-campanha-nao-guarda-informacoes-sobre-cupons",
-    "internalReference": 521601
-  },
-  {
-    "locale": "pt",
     "slug": "os-comerciantes-nao-estao-recebendo-o-relatorio-de-preco-fixo",
     "internalReference": 674353
   },
@@ -23998,11 +23608,6 @@
     "locale": "pt",
     "slug": "o-mdv2-retorna-o-erro-504-gateway-timeout-quando-tentamos-atualizar-um-documento-passando-um-simbolo-ou-caractere-especial",
     "internalReference": 852966
-  },
-  {
-    "locale": "pt",
-    "slug": "o-sitemap-retorna-error-fetching-sitemap-data-erro-ao-buscar-dados-do-mapa-do-site",
-    "internalReference": 1319643
   },
   {
     "locale": "pt",
@@ -24493,11 +24098,6 @@
     "locale": "pt",
     "slug": "os-redirecionamentos-de-exportacao-nao-estao-funcionando-como-esperado",
     "internalReference": 537962
-  },
-  {
-    "locale": "pt",
-    "slug": "pagina-de-estilos-da-vitrine-interferindo-no-carregamento-do-css-do-tema",
-    "internalReference": 1280557
   },
   {
     "locale": "pt",
