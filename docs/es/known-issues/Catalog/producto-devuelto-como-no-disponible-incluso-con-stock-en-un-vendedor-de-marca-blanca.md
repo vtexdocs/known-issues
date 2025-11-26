@@ -2,8 +2,8 @@
 title: 'Producto devuelto como no disponible incluso con stock en un vendedor de marca blanca'
 slug: producto-devuelto-como-no-disponible-incluso-con-stock-en-un-vendedor-de-marca-blanca
 status: PUBLISHED
-createdAt: 2025-11-26T20:40:33.870Z
-updatedAt: 2025-11-26T20:40:33.870Z
+createdAt: 2025-11-26T20:42:46.585Z
+updatedAt: 2025-11-26T20:42:46.585Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -32,14 +32,11 @@ Esto no ocurre con la Búsqueda Inteligente, que proporciona soporte completo pa
 
 - Registrar existencias sólo en una cuenta de franquicia.
 - Desactivar la bandera "Mostrar fuera de stock".
--
-
-El PDP debe comportarse como si el producto no estuviera disponible.
-
+- El PDP debería comportarse como si el producto no estuviera disponible.
 
 ## Workaround
 
 
-Habilitar "Mostrar fuera de stock" en la cuenta de mercado.
+Habilite "Mostrar agotado" en la cuenta del mercado.
 
 
