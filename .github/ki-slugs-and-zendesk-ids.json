@@ -4416,6 +4416,11 @@
   },
   {
     "locale": "en",
+    "slug": "unavailable-products-may-appear-in-the-middle-of-plp-in-delivery-promise-context",
+    "internalReference": 1330836
+  },
+  {
+    "locale": "en",
     "slug": "unecessary-search-results-prioritization-by-diacritics-for-portuguese",
     "internalReference": 1028763
   },
@@ -12393,6 +12398,11 @@
     "locale": "es",
     "slug": "los-productos-destacados-no-funcionan-en-una-lista-de-productos",
     "internalReference": 546844
+  },
+  {
+    "locale": "es",
+    "slug": "los-productos-no-disponibles-pueden-aparecer-en-medio-del-plp-en-el-contexto-de-la-promesa-de-entrega",
+    "internalReference": 1330836
   },
   {
     "locale": "es",
@@ -20558,6 +20568,11 @@
     "locale": "pt",
     "slug": "produtos-com-unitmultiplier-sinalizados-erroneamente-como-com-promocao-para-filtros-de-pesquisa",
     "internalReference": 982830
+  },
+  {
+    "locale": "pt",
+    "slug": "produtos-indisponiveis-podem-aparecer-no-meio-do-plp-no-contexto-da-promessa-de-entrega",
+    "internalReference": 1330836
   },
   {
     "locale": "pt",
