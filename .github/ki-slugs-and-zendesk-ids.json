@@ -1396,6 +1396,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-returning-as-unavailable-even-with-stock-in-a-whitelabel-seller",
+    "internalReference": 404499
+  },
+  {
+    "locale": "en",
     "slug": "product-specification-export-index-out-of-range",
     "internalReference": 481095
   },
@@ -1418,11 +1423,6 @@
     "locale": "en",
     "slug": "product-specification-sheet-update-does-not-trigger-notificator-and-indexing",
     "internalReference": 403107
-  },
-  {
-    "locale": "en",
-    "slug": "product-unavailable-even-with-franchised-stock",
-    "internalReference": 404499
   },
   {
     "locale": "en",
@@ -9681,6 +9681,11 @@
   },
   {
     "locale": "es",
+    "slug": "producto-devuelto-como-no-disponible-incluso-con-stock-en-un-vendedor-de-marca-blanca",
+    "internalReference": 404499
+  },
+  {
+    "locale": "es",
     "slug": "producto-no-disponible-incluso-con-stock-franquiciado",
     "internalReference": 404499
   },
@@ -17777,6 +17782,11 @@
   {
     "locale": "pt",
     "slug": "produto-indisponivel-mesmo-com-estoque-franqueado",
+    "internalReference": 404499
+  },
+  {
+    "locale": "pt",
+    "slug": "produto-retornando-como-indisponivel-mesmo-com-estoque-em-um-vendedor-whitelabel",
     "internalReference": 404499
   },
   {
