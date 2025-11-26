@@ -2,8 +2,8 @@
 title: 'Produto retornando como indisponível mesmo com estoque em um vendedor whitelabel'
 slug: produto-retornando-como-indisponivel-mesmo-com-estoque-em-um-vendedor-whitelabel
 status: PUBLISHED
-createdAt: 2025-11-26T20:40:26.769Z
-updatedAt: 2025-11-26T20:40:26.769Z
+createdAt: 2025-11-26T20:42:40.462Z
+updatedAt: 2025-11-26T20:42:40.462Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -30,9 +30,7 @@ Isso não acontece com o Intelligent Search, que oferece suporte total a esse ce
 
 - Registre o estoque somente em uma conta de franquia.
 - Desative o sinalizador "Mostrar fora de estoque".
--
-
-O PDP deve se comportar como se o produto estivesse indisponível.
+- O PDP deve se comportar como se o produto não estivesse disponível
 ## Workaround
 
 
