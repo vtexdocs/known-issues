@@ -2,8 +2,8 @@
 title: 'Produto retornando como indisponível mesmo com estoque em um vendedor whitelabel'
 slug: produto-retornando-como-indisponivel-mesmo-com-estoque-em-um-vendedor-whitelabel
 status: PUBLISHED
-createdAt: 2025-11-26T20:40:05.247Z
-updatedAt: 2025-11-26T20:40:05.247Z
+createdAt: 2025-11-26T20:40:26.769Z
+updatedAt: 2025-11-26T20:40:26.769Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -37,6 +37,5 @@ O PDP deve se comportar como se o produto estivesse indisponível.
 
 
 Ative a opção "Show out of stock" na conta do marketplace.
-
 
 
