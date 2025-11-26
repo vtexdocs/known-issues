@@ -2,8 +2,8 @@
 title: 'Product returning as unavailable even with stock in a whitelabel seller'
 slug: product-returning-as-unavailable-even-with-stock-in-a-whitelabel-seller
 status: PUBLISHED
-createdAt: 2025-11-26T20:40:30.545Z
-updatedAt: 2025-11-26T20:40:30.545Z
+createdAt: 2025-11-26T20:42:43.280Z
+updatedAt: 2025-11-26T20:42:43.280Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -30,10 +30,7 @@ This doesn't happen with Intelligent Search, which provides full support for thi
 
 - Register stock only in a franchise account.
 - Disable the flag "Show out of stock".
--
-
-The PDP should behave as if the product is unavailable.
-
+- The PDP should behave as if the product is unavailable.
 
 
 #### Workaround
