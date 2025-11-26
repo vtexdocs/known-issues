@@ -2,8 +2,8 @@
 title: 'Product returning as unavailable even with stock in a whitelabel seller'
 slug: product-returning-as-unavailable-even-with-stock-in-a-whitelabel-seller
 status: PUBLISHED
-createdAt: 2025-11-26T20:40:09.992Z
-updatedAt: 2025-11-26T20:40:09.992Z
+createdAt: 2025-11-26T20:40:30.545Z
+updatedAt: 2025-11-26T20:40:30.545Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -40,6 +40,5 @@ The PDP should behave as if the product is unavailable.
 
 
 Enable "Show out of stock" in the marketplace account.
-
 
 
