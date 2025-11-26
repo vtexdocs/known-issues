@@ -2,8 +2,8 @@
 title: 'Producto devuelto como no disponible incluso con stock en un vendedor de marca blanca'
 slug: producto-devuelto-como-no-disponible-incluso-con-stock-en-un-vendedor-de-marca-blanca
 status: PUBLISHED
-createdAt: 2025-11-26T20:40:13.870Z
-updatedAt: 2025-11-26T20:40:13.870Z
+createdAt: 2025-11-26T20:40:33.870Z
+updatedAt: 2025-11-26T20:40:33.870Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -41,6 +41,5 @@ El PDP debe comportarse como si el producto no estuviera disponible.
 
 
 Habilitar "Mostrar fuera de stock" en la cuenta de mercado.
-
 
 
