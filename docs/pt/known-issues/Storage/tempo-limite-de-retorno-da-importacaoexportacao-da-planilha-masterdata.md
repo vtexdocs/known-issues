@@ -2,8 +2,8 @@
 title: 'Tempo limite de retorno da importação/exportação da planilha MasterData'
 slug: tempo-limite-de-retorno-da-importacaoexportacao-da-planilha-masterdata
 status: PUBLISHED
-createdAt: 2025-10-16T19:53:16.362Z
-updatedAt: 2025-10-16T19:53:16.362Z
+createdAt: 2025-11-28T21:59:57.665Z
+updatedAt: 2025-11-28T21:59:57.665Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -57,9 +57,7 @@ Para o caso de **importação**:
 - Clique no botão "**Import**";
 - A importação será iniciada, estará sendo processada e, em seguida, você será redirecionado para `Import/ExecuteImport` (por exemplo, https://my-account-here.vtexcrm.com.br/Import/ExecuteImport), e o seguinte erro será exibido:
 
-    Esta página não está funcionandomy-account-here.vtexcrm.com.br levou muito tempo para responder.HTTP ERROR 504
-
- ![](https://vtexhelp.zendesk.com/attachments/token/3brNPf70M3FBLGPiVwWsSHx94/?name=image.png
+    This page isn't workingmy-account-here.vtexcrm.com.br took too long to respond.HTTP ERROR 504 ![](https://vtexhelp.zendesk.com/attachments/token/3brNPf70M3FBLGPiVwWsSHx94/?name=image.png
 ## Workaround
 
 
