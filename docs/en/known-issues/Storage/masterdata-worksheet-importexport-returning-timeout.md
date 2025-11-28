@@ -2,8 +2,8 @@
 title: 'MasterData worksheet import/export returning timeout'
 slug: masterdata-worksheet-importexport-returning-timeout
 status: PUBLISHED
-createdAt: 2025-10-16T19:53:19.684Z
-updatedAt: 2025-10-16T19:53:19.684Z
+createdAt: 2025-11-28T22:00:02.307Z
+updatedAt: 2025-11-28T22:00:02.307Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -57,9 +57,7 @@ For **import** case:
 - Click on the "**Import**" button;
 - The import will start, it will be processing, and then you will be redirected to `Import/ExecuteImport` (for example https://my-account-here.vtexcrm.com.br/Import/ExecuteImport), and the following error will be displayed:
 
-    This page isn’t workingmy-account-here.vtexcrm.com.br took too long to respond.HTTP ERROR 504
-
- ![](https://vtexhelp.zendesk.com/attachments/token/3brNPf70M3FBLGPiVwWsSHx94/?name=image.png)
+    This page isn’t workingmy-account-here.vtexcrm.com.br took too long to respond.HTTP ERROR 504 ![](https://vtexhelp.zendesk.com/attachments/token/3brNPf70M3FBLGPiVwWsSHx94/?name=image.png)
 
 
 #### Workaround
