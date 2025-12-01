@@ -2,8 +2,8 @@
 title: 'Tempo limite de retorno da importação/exportação da planilha MasterData'
 slug: tempo-limite-de-retorno-da-importacaoexportacao-da-planilha-masterdata
 status: PUBLISHED
-createdAt: 2025-11-28T21:59:57.665Z
-updatedAt: 2025-11-28T21:59:57.665Z
+createdAt: 2025-12-01T19:06:03.197Z
+updatedAt: 2025-12-01T19:06:03.197Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -61,15 +61,18 @@ Para o caso de **importação**:
 ## Workaround
 
 
-Há três maneiras fáceis de usar soluções alternativas nesse caso.
+Há algumas maneiras fáceis de usar soluções alternativas nesse caso.
 
-Filtre somente os documentos de que você precisa, se não precisar de toda a entidade, e exporte-os:
+**Exportação:**
+**Opção 1:** Filtre somente os documentos de que você precisa, se não precisar de toda a entidade:
  ![](https://vtexhelp.zendesk.com/attachments/token/CojS7MzbOiDkaQ9HgdbrxlzHD/?name=image.png)
 
-Selecione somente os campos de que você realmente precisa, se não precisar de toda a entidade, e exporte-os:
+**Opção 2:** Selecione somente os campos de que você realmente precisa, se não precisar de toda a entidade:
  ![](https://vtexhelp.zendesk.com/attachments/token/pTOU7TEWidoOrtstbDALphW6k/?name=image.png)
 
-Separe a planilha a ser importada. Por exemplo, uma planilha com 60.000 documentos, divida-a em 6 planilhas de 10.000 documentos e tente importá-la novamente.
+**Opção 3:** É possível exportar via API. Você pode seguir esta documentação Extração de dados de dados mestre com pesquisa e rolagem.
+
+**Importar:** Separe a planilha a ser importada. Por exemplo, uma planilha com 60.000 documentos, divida-a em 6 planilhas de 10.000 documentos e tente importá-la novamente.
 Lembre-se de que não temos um número exato. Dividir o arquivo em até 10.000 documentos foi um exemplo sugerido. Isso dependerá do número de campos/colunas, do tamanho de cada informação no campo/coluna, do tamanho do arquivo, do trabalhador etc. Há alguns fatores que podem afetar a importação esperada.
 
 
