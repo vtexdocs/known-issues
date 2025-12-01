@@ -2,8 +2,8 @@
 title: 'MasterData worksheet import/export returning timeout'
 slug: masterdata-worksheet-importexport-returning-timeout
 status: PUBLISHED
-createdAt: 2025-11-28T22:00:02.307Z
-updatedAt: 2025-11-28T22:00:02.307Z
+createdAt: 2025-12-01T19:06:07.278Z
+updatedAt: 2025-12-01T19:06:07.278Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -63,15 +63,18 @@ For **import** case:
 #### Workaround
 
 
-There are 3 easy ways to use workarounds in this case.
+There are some easy ways to use workarounds in this case.
 
-Filter only the documents you need, if you don't need the whole entity, and then, export them:
+**Export:**
+**Option 1:** Filter only the documents you need, if you don't need the whole entity:
  ![](https://vtexhelp.zendesk.com/attachments/token/CojS7MzbOiDkaQ9HgdbrxlzHD/?name=image.png)
 
-Only select the fields you really need, if you don't need the whole entity, and then, export them:
+**Option 2:** Only select the fields you really need, if you don't need the whole entity:
  ![](https://vtexhelp.zendesk.com/attachments/token/pTOU7TEWidoOrtstbDALphW6k/?name=image.png)
 
-Separate the spreadsheet to be imported. For example, a worksheet with 60,000 documents, divide it into 6 spreadsheets of 10,000 documents and try to import it again.
+**Option 3:** It is possible to export via API. You can follow this documentation Extracting data from Master Data with search and scroll.
+
+**Import:** Separate the spreadsheet to be imported. For example, a worksheet with 60,000 documents, divide it into 6 spreadsheets of 10,000 documents and try to import it again.
 Remember that we don't have an exact number. Dividing the file into up to 10k documents was a suggested example. It will depend on the number of fields/columns, the size of each information in the field/column, the file size, the worker, etc. There are some factors that can affect the expected import.
 
 
