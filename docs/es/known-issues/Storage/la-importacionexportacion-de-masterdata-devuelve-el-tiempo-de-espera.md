@@ -2,8 +2,8 @@
 title: 'La importación/exportación de MasterData devuelve el tiempo de espera.'
 slug: la-importacionexportacion-de-masterdata-devuelve-el-tiempo-de-espera
 status: PUBLISHED
-createdAt: 2025-11-28T22:00:05.105Z
-updatedAt: 2025-11-28T22:00:05.105Z
+createdAt: 2025-12-01T19:06:12.076Z
+updatedAt: 2025-12-01T19:06:12.076Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
