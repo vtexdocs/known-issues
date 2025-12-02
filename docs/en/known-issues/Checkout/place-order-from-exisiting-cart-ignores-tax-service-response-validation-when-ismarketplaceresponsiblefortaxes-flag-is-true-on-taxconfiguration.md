@@ -2,8 +2,8 @@
 title: 'Place Order from Exisiting Cart ignores tax service response validation when isMarketplaceResponsibleForTaxes flag is true on taxConfiguration'
 slug: place-order-from-exisiting-cart-ignores-tax-service-response-validation-when-ismarketplaceresponsiblefortaxes-flag-is-true-on-taxconfiguration
 status: PUBLISHED
-createdAt: 2025-12-02T18:55:12.998Z
-updatedAt: 2025-12-02T18:55:12.998Z
+createdAt: 2025-12-02T20:02:08.949Z
+updatedAt: 2025-12-02T20:02:08.949Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
