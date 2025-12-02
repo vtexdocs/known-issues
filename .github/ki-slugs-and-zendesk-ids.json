@@ -2826,6 +2826,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopper-is-redirect-to-gatewaycallbackordergroupsuccess-instead-of-placeorder-page",
+    "internalReference": 786685
+  },
+  {
+    "locale": "en",
     "slug": "shoppers-not-able-to-access-the-payment-step-directly-with-a-complete-profile-and-available-pickup-option",
     "internalReference": 1243953
   },
@@ -10148,6 +10153,11 @@
     "locale": "es",
     "slug": "el-carro-creado-a-partir-de-un-pedido-antiguo-no-trae-las-opciones-de-montaje",
     "internalReference": 1020278
+  },
+  {
+    "locale": "es",
+    "slug": "el-comprador-es-redirigido-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder",
+    "internalReference": 786685
   },
   {
     "locale": "es",
@@ -18798,6 +18808,11 @@
     "locale": "pt",
     "slug": "o-checkout-sobregrava-o-nome-do-receptor-com-o-nome-do-cliente",
     "internalReference": 324792
+  },
+  {
+    "locale": "pt",
+    "slug": "o-comprador-e-redirecionado-para-a-pagina-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder",
+    "internalReference": 786685
   },
   {
     "locale": "pt",
