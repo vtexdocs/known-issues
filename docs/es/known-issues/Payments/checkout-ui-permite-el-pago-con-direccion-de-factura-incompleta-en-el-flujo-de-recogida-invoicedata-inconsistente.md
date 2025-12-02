@@ -2,8 +2,8 @@
 title: 'Checkout UI permite el pago con dirección de factura incompleta en el flujo de recogida (invoiceData inconsistente)'
 slug: checkout-ui-permite-el-pago-con-direccion-de-factura-incompleta-en-el-flujo-de-recogida-invoicedata-inconsistente
 status: PUBLISHED
-createdAt: 2025-12-02T14:36:54.587Z
-updatedAt: 2025-12-02T14:36:54.587Z
+createdAt: 2025-12-02T14:38:44.530Z
+updatedAt: 2025-12-02T14:38:44.530Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -29,12 +29,5 @@ Esto afecta a los compradores en escenarios de recogida, cuando existe una direc
 
 #### Simulación
 
-
-No es posible simular.
-
 ## Workaround
-
-
-Actualice/corrija la dirección de facturación del comprador directamente en Datos maestros para que los campos obligatorios (incluido el número) estén presentes y sean coherentes.
-
 
