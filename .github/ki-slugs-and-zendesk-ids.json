@@ -2056,6 +2056,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-ui-allows-payment-with-incomplete-invoice-address-in-pickup-flow-inconsistent-invoicedata",
+    "internalReference": 1333831
+  },
+  {
+    "locale": "en",
     "slug": "checkout-ui-changes-the-selected-address-when-more-than-1-address-available",
     "internalReference": 1138817
   },
@@ -10008,6 +10013,11 @@
     "locale": "es",
     "slug": "checkout-ui-loops-when-not-receiving-correct-sla-values-from-logistics-system",
     "internalReference": 485016
+  },
+  {
+    "locale": "es",
+    "slug": "checkout-ui-permite-el-pago-con-direccion-de-factura-incompleta-en-el-flujo-de-recogida-invoicedata-inconsistente",
+    "internalReference": 1333831
   },
   {
     "locale": "es",
@@ -18123,6 +18133,11 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-considera-apenas-os-itens-disponiveis-para-calcular-o-sla",
     "internalReference": 797028
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-usuario-do-checkout-permite-o-pagamento-com-endereco-de-fatura-incompleto-no-fluxo-de-retirada-invoicedata-inconsistente",
+    "internalReference": 1333831
   },
   {
     "locale": "pt",
