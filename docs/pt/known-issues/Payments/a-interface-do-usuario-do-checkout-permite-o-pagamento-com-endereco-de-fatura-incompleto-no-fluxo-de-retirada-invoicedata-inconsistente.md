@@ -2,8 +2,8 @@
 title: 'A interface do usuário do checkout permite o pagamento com endereço de fatura incompleto no fluxo de retirada (invoiceData inconsistente)'
 slug: a-interface-do-usuario-do-checkout-permite-o-pagamento-com-endereco-de-fatura-incompleto-no-fluxo-de-retirada-invoicedata-inconsistente
 status: PUBLISHED
-createdAt: 2025-12-02T14:36:51.484Z
-updatedAt: 2025-12-02T14:36:51.484Z
+createdAt: 2025-12-02T14:38:40.225Z
+updatedAt: 2025-12-02T14:38:40.225Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -34,6 +34,8 @@ Não é possível simular.
 ## Workaround
 
 
-Atualize/corrija o endereço da fatura do comprador diretamente nos dados mestre para que os campos obrigatórios (incluindo o número) estejam presentes e consistentes.
+
+- Atualize/corrija o endereço da fatura do comprador diretamente nos dados mestre para que os campos obrigatórios (incluindo o número) estejam presentes e consistentes.
+- Para cancelar a transação, abra um tíquete para que a equipe de suporte do produto de pagamento possa ignorar a análise antifraude
 
 
