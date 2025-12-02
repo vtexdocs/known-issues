@@ -2601,6 +2601,11 @@
   },
   {
     "locale": "en",
+    "slug": "place-order-from-exisiting-cart-ignores-tax-service-response-validation-when-ismarketplaceresponsiblefortaxes-flag-is-true-on-taxconfiguration",
+    "internalReference": 1334135
+  },
+  {
+    "locale": "en",
     "slug": "placeorder-generating-wrong-discount-and-shipping-values-between-items-that-appear-more-than-once",
     "internalReference": 732529
   },
@@ -10961,6 +10966,11 @@
   },
   {
     "locale": "es",
+    "slug": "place-order-from-exisiting-cart-ignora-la-validacion-de-la-respuesta-del-servicio-de-impuestos-cuando-la-bandera-ismarketplaceresponsiblefortaxes-es-verdadera-en-taxconfiguration",
+    "internalReference": 1334135
+  },
+  {
+    "locale": "es",
     "slug": "placeorder-generando-valores-de-descuento-y-envio-erroneos-entre-articulos-que-aparecen-mas-de-una-vez",
     "internalReference": 732529
   },
@@ -18558,6 +18568,11 @@
     "locale": "pt",
     "slug": "falta-de-validacao-do-numero-de-telefone-nas-apis-de-compra-permitindo-dados-invalidos-nos-pedidos",
     "internalReference": 680500
+  },
+  {
+    "locale": "pt",
+    "slug": "fazer-pedido-de-um-carrinho-existente-ignora-a-validacao-da-resposta-do-servico-de-impostos-quando-o-sinalizador-ismarketplaceresponsiblefortaxes-e-verdadeiro-em-taxconfiguration",
+    "internalReference": 1334135
   },
   {
     "locale": "pt",
