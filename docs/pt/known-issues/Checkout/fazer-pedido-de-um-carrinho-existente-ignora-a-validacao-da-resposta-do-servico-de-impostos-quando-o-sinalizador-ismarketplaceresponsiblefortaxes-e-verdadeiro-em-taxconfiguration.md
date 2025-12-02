@@ -2,8 +2,8 @@
 title: 'Fazer pedido de um carrinho existente ignora a validação da resposta do serviço de impostos quando o sinalizador isMarketplaceResponsibleForTaxes é verdadeiro em taxConfiguration'
 slug: fazer-pedido-de-um-carrinho-existente-ignora-a-validacao-da-resposta-do-servico-de-impostos-quando-o-sinalizador-ismarketplaceresponsiblefortaxes-e-verdadeiro-em-taxconfiguration
 status: PUBLISHED
-createdAt: 2025-12-02T18:55:16.111Z
-updatedAt: 2025-12-02T18:55:16.111Z
+createdAt: 2025-12-02T20:02:12.708Z
+updatedAt: 2025-12-02T20:02:12.708Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
