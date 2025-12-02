@@ -5671,6 +5671,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-ui-allows-payment-with-incomplete-invoice-address-in-pickup-flow-inconsistent-invoicedata",
+    "internalReference": 1333831
+  },
+  {
+    "locale": "en",
     "slug": "cobranded-saved-card-with-wrong-payment-system-id",
     "internalReference": 833400
   },
@@ -13723,6 +13728,11 @@
     "locale": "es",
     "slug": "cardholderdocument-no-se-envia-a-antifraude",
     "internalReference": 829864
+  },
+  {
+    "locale": "es",
+    "slug": "checkout-ui-permite-el-pago-con-direccion-de-factura-incompleta-en-el-flujo-de-recogida-invoicedata-inconsistente",
+    "internalReference": 1333831
   },
   {
     "locale": "es",
@@ -21808,6 +21818,11 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-das-carteiras-nativas-sempre-mostra-sem-juros-ao-usar-o-sinalizador-de-juros-externo",
     "internalReference": 1243648
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-usuario-do-checkout-permite-o-pagamento-com-endereco-de-fatura-incompleto-no-fluxo-de-retirada-invoicedata-inconsistente",
+    "internalReference": 1333831
   },
   {
     "locale": "pt",
