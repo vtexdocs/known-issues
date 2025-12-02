@@ -2,8 +2,8 @@
 title: 'Place Order from Exisiting Cart ignora la validación de la respuesta del servicio de impuestos cuando la bandera isMarketplaceResponsibleForTaxes es verdadera en taxConfiguration'
 slug: place-order-from-exisiting-cart-ignora-la-validacion-de-la-respuesta-del-servicio-de-impuestos-cuando-la-bandera-ismarketplaceresponsiblefortaxes-es-verdadera-en-taxconfiguration
 status: PUBLISHED
-createdAt: 2025-12-02T18:55:19.114Z
-updatedAt: 2025-12-02T18:55:19.114Z
+createdAt: 2025-12-02T20:02:16.409Z
+updatedAt: 2025-12-02T20:02:16.409Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
