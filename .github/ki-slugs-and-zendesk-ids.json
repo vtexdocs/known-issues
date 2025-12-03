@@ -2636,6 +2636,11 @@
   },
   {
     "locale": "en",
+    "slug": "price-tables-are-not-applied-due-to-session-cookie-loss",
+    "internalReference": 1335123
+  },
+  {
+    "locale": "en",
     "slug": "prices-restricted-to-int32-max-value-on-change-price-api",
     "internalReference": 566142
   },
@@ -10741,6 +10746,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-tablas-de-precios-no-se-aplican-debido-a-la-perdida-de-la-cookie-de-sesion",
+    "internalReference": 1335123
+  },
+  {
+    "locale": "es",
     "slug": "las-traducciones-de-las-opciones-de-suscripcion-no-funcionan-correctamente-en-algunos-idiomas",
     "internalReference": 561186
   },
@@ -18373,6 +18383,11 @@
     "locale": "pt",
     "slug": "as-promocoes-e-os-impostos-restritos-por-metodo-de-envio-nao-funcionam-para-os-vendedores-whitelabel",
     "internalReference": 315485
+  },
+  {
+    "locale": "pt",
+    "slug": "as-tabelas-de-precos-nao-sao-aplicadas-devido-a-perda-do-cookie-da-sessao",
+    "internalReference": 1335123
   },
   {
     "locale": "pt",
