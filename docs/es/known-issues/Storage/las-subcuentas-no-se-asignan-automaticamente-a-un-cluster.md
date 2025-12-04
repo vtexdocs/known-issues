@@ -2,8 +2,8 @@
 title: 'Las subcuentas no se asignan automáticamente a un clúster'
 slug: las-subcuentas-no-se-asignan-automaticamente-a-un-cluster
 status: PUBLISHED
-createdAt: 2025-11-14T16:59:25.932Z
-updatedAt: 2025-11-14T16:59:25.932Z
+createdAt: 2025-12-04T13:52:55.672Z
+updatedAt: 2025-12-04T13:52:55.672Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
