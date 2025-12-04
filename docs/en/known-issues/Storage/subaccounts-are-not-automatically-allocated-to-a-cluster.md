@@ -2,8 +2,8 @@
 title: 'Subaccounts are not automatically allocated to a cluster'
 slug: subaccounts-are-not-automatically-allocated-to-a-cluster
 status: PUBLISHED
-createdAt: 2025-11-14T16:59:21.943Z
-updatedAt: 2025-11-14T16:59:21.943Z
+createdAt: 2025-12-04T13:52:46.795Z
+updatedAt: 2025-12-04T13:52:46.795Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
