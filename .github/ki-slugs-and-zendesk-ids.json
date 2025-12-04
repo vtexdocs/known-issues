@@ -5941,6 +5941,11 @@
   },
   {
     "locale": "en",
+    "slug": "gift-cards-not-returned-in-checkout-when-both-cpf-and-cnpj-are-sent-gift-card-search-prioritizes-corporatedocument",
+    "internalReference": 1335218
+  },
+  {
+    "locale": "en",
     "slug": "giftcard-hub-call-receives-500-error",
     "internalReference": 1286257
   },
@@ -14341,6 +14346,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-tarjetas-regalo-no-se-devuelven-en-checkout-cuando-se-envian-tanto-cpf-como-cnpj-la-busqueda-de-tarjetas-regalo-da-prioridad-a-corporatedocument",
+    "internalReference": 1335218
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-con-konduto-tardan-mas-de-lo-previsto-en-actualizarse",
     "internalReference": 541149
   },
@@ -22108,6 +22118,11 @@
     "locale": "pt",
     "slug": "cartaopresente-ele-nao-retorna-os-campos-caption-e-relationname-quando-fazemos-uma-solicitacao-get",
     "internalReference": 428725
+  },
+  {
+    "locale": "pt",
+    "slug": "cartoespresente-nao-retornam-no-checkout-quando-sao-enviados-cpf-e-cnpj-a-busca-de-cartoespresente-prioriza-corporatedocument",
+    "internalReference": 1335218
   },
   {
     "locale": "pt",
