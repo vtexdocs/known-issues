@@ -2,8 +2,8 @@
 title: 'O comprador é redirecionado para a página gatewayCallback/{orderGroup}/Success em vez da página placeOrder'
 slug: o-comprador-e-redirecionado-para-a-pagina-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder
 status: PUBLISHED
-createdAt: 2025-12-03T14:46:49.079Z
-updatedAt: 2025-12-03T14:46:49.079Z
+createdAt: 2025-12-05T16:55:04.822Z
+updatedAt: 2025-12-05T16:55:04.822Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
