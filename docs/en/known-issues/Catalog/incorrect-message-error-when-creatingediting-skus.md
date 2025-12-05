@@ -1,11 +1,9 @@
 ---
 title: 'Incorrect message error when creating/editing SKUs'
-id: 19tQzBRYyVSI1MW2STZNFf
+slug: incorrect-message-error-when-creatingediting-skus
 status: PUBLISHED
-createdAt: 2023-03-20T19:50:11.591Z
-updatedAt: 2023-03-20T19:50:12.021Z
-publishedAt: 2023-03-20T19:50:12.021Z
-firstPublishedAt: 2023-03-20T19:50:12.021Z
+createdAt: 2025-12-05T20:27:39.711Z
+updatedAt: 2025-12-05T20:27:39.711Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -23,9 +21,7 @@ In order to create or edit an SKU is necessary to fill in the required fields, s
 
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -35,13 +31,9 @@ In order to create or edit an SKU is necessary to fill in the required fields, s
 - Save the SKU and note that 2 messages will pop up: "Invalid parameters" and "Specifications not entered Check tab"
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 There is no workaround
-
-
 
 
