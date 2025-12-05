@@ -1,9 +1,9 @@
 ---
-title: 'El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder.'
+title: 'El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder'
 slug: el-comprador-es-redirigido-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder
 status: PUBLISHED
-createdAt: 2025-12-03T14:46:52.206Z
-updatedAt: 2025-12-03T14:46:52.206Z
+createdAt: 2025-12-05T16:55:09.943Z
+updatedAt: 2025-12-05T16:55:09.943Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -29,7 +29,7 @@ El mismo problema puede producirse con los pagos de redirección y las tarjetas 
 
 
 1. Añade una tarjeta regalo de cualquier valor (debe ser inferior al total de la transacción).
-2. Seleccione un método de pago que utilice una Payment App.
+2. Selecciona un método de pago que utilice una Payment App.
 3. En la consola del navegador, ejecute `$(window).trigger('transactionValidation.vtex', [status])`.
 4. Si la transacción aún no está aprobada, el comprador recibirá JSON similar a:
   1.
