@@ -7146,6 +7146,11 @@
   },
   {
     "locale": "en",
+    "slug": "external-marketplace-prices-not-updated-after-promotion-start-or-end",
+    "internalReference": 1322691
+  },
+  {
+    "locale": "en",
     "slug": "fixed-price-being-created-on-trade-policy-1-when-saving-bundle-prices",
     "internalReference": 705869
   },
@@ -15461,6 +15466,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-precios-del-mercado-externo-no-se-actualizan-tras-el-inicio-o-el-fin-de-la-promocion",
+    "internalReference": 1322691
+  },
+  {
+    "locale": "es",
     "slug": "max-shipping-discount-no-actualiza-pricetags",
     "internalReference": 904190
   },
@@ -23603,6 +23613,11 @@
     "locale": "pt",
     "slug": "precos-de-exportacao-gerados-com-um-formato-que-nao-e-aceito-pelo-processo-de-importacao",
     "internalReference": 584975
+  },
+  {
+    "locale": "pt",
+    "slug": "precos-do-marketplace-externo-nao-atualizados-apos-o-inicio-ou-termino-da-promocao",
+    "internalReference": 1322691
   },
   {
     "locale": "pt",
