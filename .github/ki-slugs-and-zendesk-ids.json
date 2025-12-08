@@ -4136,6 +4136,11 @@
   },
   {
     "locale": "en",
+    "slug": "intelligent-search-can-throw-an-error-when-a-productsku-has-a-specification-with-the-same-name-as-a-native-field",
+    "internalReference": 1336576
+  },
+  {
+    "locale": "en",
     "slug": "intelligent-search-cleanup-intermitently-failing",
     "internalReference": 1225644
   },
@@ -12308,6 +12313,11 @@
     "locale": "es",
     "slug": "la-busqueda-inteligente-no-devuelve-el-pedido-sku-correcto",
     "internalReference": 677937
+  },
+  {
+    "locale": "es",
+    "slug": "la-busqueda-inteligente-puede-lanzar-un-error-cuando-un-productosku-tiene-una-especificacion-con-el-mismo-nombre-que-un-campo-nativo",
+    "internalReference": 1336576
   },
   {
     "locale": "es",
@@ -20493,6 +20503,11 @@
     "locale": "pt",
     "slug": "o-intelligent-search-nao-retorna-o-pedido-de-sku-correto",
     "internalReference": 677937
+  },
+  {
+    "locale": "pt",
+    "slug": "o-intelligent-search-pode-gerar-um-erro-quando-um-produtosku-tem-uma-especificacao-com-o-mesmo-nome-de-um-campo-nativo",
+    "internalReference": 1336576
   },
   {
     "locale": "pt",
