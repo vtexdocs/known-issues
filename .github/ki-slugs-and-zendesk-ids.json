@@ -4226,6 +4226,11 @@
   },
   {
     "locale": "en",
+    "slug": "plp-does-not-load-when-facet-values-are-reserved-words",
+    "internalReference": 1193294
+  },
+  {
+    "locale": "en",
     "slug": "price-filter-applied-on-top-of-spot-price-instead-of-regular-price",
     "internalReference": 982664
   },
@@ -4388,11 +4393,6 @@
     "locale": "en",
     "slug": "sku-variations-doesnt-return-in-the-plp",
     "internalReference": 569563
-  },
-  {
-    "locale": "en",
-    "slug": "some-facet-values-may-not-work-with-intelligent-search",
-    "internalReference": 1193294
   },
   {
     "locale": "en",
@@ -12076,11 +12076,6 @@
   },
   {
     "locale": "es",
-    "slug": "algunos-valores-de-las-facetas-pueden-no-funcionar-con-la-busqueda-inteligente",
-    "internalReference": 1193294
-  },
-  {
-    "locale": "es",
     "slug": "autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-plp-se-renderiza",
     "internalReference": 1208038
   },
@@ -12508,6 +12503,11 @@
     "locale": "es",
     "slug": "no-se-puede-seleccionar-la-configuracion-regional-del-sinonimo-en-la-busqueda-inteligente-multilingue",
     "internalReference": 1276576
+  },
+  {
+    "locale": "es",
+    "slug": "plp-no-se-carga-cuando-los-valores-de-las-facetas-son-palabras-reservadas",
+    "internalReference": 1193294
   },
   {
     "locale": "es",
@@ -20266,11 +20266,6 @@
   },
   {
     "locale": "pt",
-    "slug": "alguns-valores-de-faceta-podem-nao-funcionar-com-a-pesquisa-inteligente",
-    "internalReference": 1193294
-  },
-  {
-    "locale": "pt",
     "slug": "amostragem-para-filtros-de-pesquisa-inesperadamente-agressiva-omitindo-valores-de-filtro",
     "internalReference": 1202555
   },
@@ -20528,6 +20523,11 @@
     "locale": "pt",
     "slug": "o-nome-do-grupo-nao-e-atualizado-automaticamente-na-pesquisa-inteligente",
     "internalReference": 821481
+  },
+  {
+    "locale": "pt",
+    "slug": "o-plp-nao-e-carregado-quando-os-valores-da-faceta-sao-palavras-reservadas",
+    "internalReference": 1193294
   },
   {
     "locale": "pt",
