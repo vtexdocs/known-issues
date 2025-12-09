@@ -7536,6 +7536,11 @@
   },
   {
     "locale": "en",
+    "slug": "addtocart-event-doesnt-send-the-discount-info-and-the-discount-price",
+    "internalReference": 1337368
+  },
+  {
+    "locale": "en",
     "slug": "addtocart-function-doesnt-work-correctly-with-attachments-and-assembly-options-components-attachment",
     "internalReference": 830495
   },
@@ -15783,6 +15788,11 @@
     "locale": "es",
     "slug": "el-enrutamiento-de-solicitudes-es-incoherente-al-ejecutar-pruebas-ab",
     "internalReference": 931246
+  },
+  {
+    "locale": "es",
+    "slug": "el-evento-addtocart-no-envia-la-informacion-de-descuento-y-el-precio-de-descuento",
+    "internalReference": 1337368
   },
   {
     "locale": "es",
@@ -24068,6 +24078,11 @@
     "locale": "pt",
     "slug": "o-controle-deslizante-de-faixa-de-preco-tem-como-padrao-o-valor-minimo-apos-a-selecao-de-um-filtro",
     "internalReference": 843442
+  },
+  {
+    "locale": "pt",
+    "slug": "o-evento-addtocart-nao-envia-as-informacoes-de-desconto-e-o-preco-do-desconto",
+    "internalReference": 1337368
   },
   {
     "locale": "pt",
