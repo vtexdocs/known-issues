@@ -5976,11 +5976,6 @@
   },
   {
     "locale": "en",
-    "slug": "giftcard-transactions-returning-empty",
-    "internalReference": 384430
-  },
-  {
-    "locale": "en",
     "slug": "import-file-for-customer-credit-invoices-stuck-in-loading",
     "internalReference": 1289897
   },
@@ -6113,6 +6108,11 @@
     "locale": "en",
     "slug": "lack-of-validation-in-the-billingaddress-zip-code",
     "internalReference": 375481
+  },
+  {
+    "locale": "en",
+    "slug": "list-giftcard-transactions-api-returning-empty-or-incomplete",
+    "internalReference": 384430
   },
   {
     "locale": "en",
@@ -14421,6 +14421,11 @@
   },
   {
     "locale": "es",
+    "slug": "lista-de-transacciones-de-giftcard-api-que-devuelve-vacia-o-incompleta",
+    "internalReference": 384430
+  },
+  {
+    "locale": "es",
     "slug": "los-cambios-realizados-en-los-pagos-personalizados-no-se-reflejan-en-el-pago",
     "internalReference": 276250
   },
@@ -14783,11 +14788,6 @@
     "locale": "es",
     "slug": "transacciones-con-el-conector-tnspay-denegadas-por-error-tarjeta-no-registrada-en-3ds",
     "internalReference": 541687
-  },
-  {
-    "locale": "es",
-    "slug": "transacciones-con-tarjeta-regalo-vacias",
-    "internalReference": 384430
   },
   {
     "locale": "es",
@@ -22426,6 +22426,11 @@
   },
   {
     "locale": "pt",
+    "slug": "listagem-da-api-de-transacoes-de-cartaopresente-que-retorna-vazia-ou-incompleta",
+    "internalReference": 384430
+  },
+  {
+    "locale": "pt",
     "slug": "lixeira-enviada-nao-corresponde-a-uma-marca-de-cartao-associada",
     "internalReference": 308896
   },
@@ -22923,11 +22928,6 @@
     "locale": "pt",
     "slug": "transacoes-bloqueadas-apos-a-rejeicao-do-risco",
     "internalReference": 1092563
-  },
-  {
-    "locale": "pt",
-    "slug": "transacoes-de-cartoespresente-que-retornam-vazias",
-    "internalReference": 384430
   },
   {
     "locale": "pt",
