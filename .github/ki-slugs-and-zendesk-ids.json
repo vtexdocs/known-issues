@@ -4386,6 +4386,11 @@
   },
   {
     "locale": "en",
+    "slug": "sku-detach-selector-lists-product-specifications-in-the-search-settings",
+    "internalReference": 1338042
+  },
+  {
+    "locale": "en",
     "slug": "sku-specification-filters-arent-loaded-when-the-sku-is-only-available-in-a-whitelabel-seller",
     "internalReference": 431888
   },
@@ -12198,6 +12203,11 @@
     "locale": "es",
     "slug": "el-rango-de-precios-en-la-api-de-facetas-no-se-corresponde-con-los-resultados-de-busqueda",
     "internalReference": 997121
+  },
+  {
+    "locale": "es",
+    "slug": "el-selector-sku-detach-enumera-las-especificaciones-del-producto-en-los-ajustes-de-busqueda",
+    "internalReference": 1338042
   },
   {
     "locale": "es",
@@ -20573,6 +20583,11 @@
     "locale": "pt",
     "slug": "o-search-resolver-aplica-traducoes-de-mensagens-sobre-conteudo-ja-traduzido",
     "internalReference": 865918
+  },
+  {
+    "locale": "pt",
+    "slug": "o-seletor-sku-detach-lista-as-especificacoes-do-produto-nas-configuracoes-de-pesquisa",
+    "internalReference": 1338042
   },
   {
     "locale": "pt",
