@@ -5711,6 +5711,11 @@
   },
   {
     "locale": "en",
+    "slug": "competing-authorization-rules-generated-when-receiving-a-delaytocancel-value",
+    "internalReference": 1338614
+  },
+  {
+    "locale": "en",
     "slug": "console-error-report-only-refused-to-apply-inline-style-because-it-violates-the-following-content-security",
     "internalReference": 1017370
   },
@@ -14686,6 +14691,11 @@
   },
   {
     "locale": "es",
+    "slug": "reglas-de-autorizacion-competidoras-generadas-al-recibir-un-valor-delaytocancel",
+    "internalReference": 1338614
+  },
+  {
+    "locale": "es",
     "slug": "se-devuelve-una-transaccion-no-relacionada-cuando-se-utiliza-el-numero-de-secuencia-para-obtener-una-transaccion-en-la-interfaz-de-administracion",
     "internalReference": 503446
   },
@@ -22863,6 +22873,11 @@
     "locale": "pt",
     "slug": "registros-declarando-que-houve-um-reembolso-mas-devido-a-um-erro-por-parte-do-comprador-a-reversao-nao-ocorre-de-fato",
     "internalReference": 545331
+  },
+  {
+    "locale": "pt",
+    "slug": "regras-de-autorizacao-concorrentes-geradas-ao-receber-um-valor-delaytocancel",
+    "internalReference": 1338614
   },
   {
     "locale": "pt",
