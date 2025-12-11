@@ -7501,6 +7501,11 @@
   },
   {
     "locale": "en",
+    "slug": "search-api-returns-timeout-when-querying-large-master-data-entities-without-filters",
+    "internalReference": 1338401
+  },
+  {
+    "locale": "en",
     "slug": "searching-not-return-document-when-the-value-contains-a-plus-symbol",
     "internalReference": 828170
   },
@@ -15616,6 +15621,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-api-de-busqueda-devuelve-un-tiempo-de-espera-al-consultar-grandes-entidades-de-datos-maestros-sin-filtros",
+    "internalReference": 1338401
+  },
+  {
+    "locale": "es",
     "slug": "la-api-de-desplazamiento-devuelve-429-yo-408-errores-cuando-se-consultan-entidades-con-un-gran-numero-de-documentos-normalmente-superior-a-millones",
     "internalReference": 1035873
   },
@@ -23698,6 +23708,11 @@
     "locale": "pt",
     "slug": "uso-de-cupom-nao-restaurado-para-pedidos-incompletos",
     "internalReference": 639418
+  },
+  {
+    "locale": "pt",
+    "slug": "a-api-de-pesquisa-retorna-o-tempo-limite-ao-consultar-grandes-entidades-de-dados-mestre-sem-filtros",
+    "internalReference": 1338401
   },
   {
     "locale": "pt",
