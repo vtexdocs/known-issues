@@ -5691,6 +5691,11 @@
   },
   {
     "locale": "en",
+    "slug": "changes-not-persisted-when-editing-expiration-date-in-payment-rules",
+    "internalReference": 1338791
+  },
+  {
+    "locale": "en",
     "slug": "checkout-cancels-transaction-after-creation",
     "internalReference": 1157809
   },
@@ -14451,6 +14456,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-cambios-no-persisten-al-editar-la-fecha-de-caducidad-en-las-reglas-de-pago",
+    "internalReference": 1338791
+  },
+  {
+    "locale": "es",
     "slug": "los-cambios-realizados-en-los-pagos-personalizados-no-se-reflejan-en-el-pago",
     "internalReference": 276250
   },
@@ -22048,6 +22058,11 @@
     "locale": "pt",
     "slug": "arquivo-de-importacao-de-faturas-de-credito-de-clientes-travado-no-carregamento",
     "internalReference": 1289897
+  },
+  {
+    "locale": "pt",
+    "slug": "as-alteracoes-nao-sao-mantidas-ao-editar-a-data-de-vencimento-nas-regras-de-pagamento",
+    "internalReference": 1338791
   },
   {
     "locale": "pt",
