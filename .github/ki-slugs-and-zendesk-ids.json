@@ -5791,6 +5791,11 @@
   },
   {
     "locale": "en",
+    "slug": "duedate-parameter-is-not-expected-for-ppp-implementations",
+    "internalReference": 1340572
+  },
+  {
+    "locale": "en",
     "slug": "duplicated-payments-with-the-same-information",
     "internalReference": 1154246
   },
@@ -13948,6 +13953,11 @@
     "locale": "es",
     "slug": "el-pago-creado-sin-conector-provoca-la-cancelacion-de-la-transaccion",
     "internalReference": 1323547
+  },
+  {
+    "locale": "es",
+    "slug": "el-parametro-duedate-no-esta-previsto-para-las-implementaciones-de-la-app",
+    "internalReference": 1340572
   },
   {
     "locale": "es",
@@ -22668,6 +22678,11 @@
     "locale": "pt",
     "slug": "o-pagamento-criado-sem-conector-leva-ao-cancelamento-da-transacao",
     "internalReference": 1323547
+  },
+  {
+    "locale": "pt",
+    "slug": "o-parametro-duedate-nao-e-esperado-para-implementacoes-de-ppp",
+    "internalReference": 1340572
   },
   {
     "locale": "pt",
