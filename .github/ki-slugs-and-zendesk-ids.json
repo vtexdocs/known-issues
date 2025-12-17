@@ -4361,6 +4361,11 @@
   },
   {
     "locale": "en",
+    "slug": "search-filters-disappear-when-using-back-button-after-clicking-show-more",
+    "internalReference": 1341077
+  },
+  {
+    "locale": "en",
     "slug": "search-resolver-applying-messages-translations-over-already-translated-content",
     "internalReference": 865918
   },
@@ -12458,6 +12463,11 @@
     "locale": "es",
     "slug": "los-banners-de-busqueda-no-siguen-el-operador-and-para-las-condiciones-de-activacion",
     "internalReference": 1053614
+  },
+  {
+    "locale": "es",
+    "slug": "los-filtros-de-busqueda-desaparecen-al-utilizar-el-boton-de-retroceso-despues-de-hacer-clic-en-mostrar-mas",
+    "internalReference": 1341077
   },
   {
     "locale": "es",
@@ -20633,6 +20643,11 @@
     "locale": "pt",
     "slug": "os-filtros-de-especificacao-de-sku-nao-sao-carregados-quando-a-sku-esta-disponivel-apenas-em-um-vendedor-whitelabel",
     "internalReference": 431888
+  },
+  {
+    "locale": "pt",
+    "slug": "os-filtros-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-depois-de-clicar-em-mostrar-mais",
+    "internalReference": 1341077
   },
   {
     "locale": "pt",
