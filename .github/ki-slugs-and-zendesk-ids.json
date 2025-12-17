@@ -6056,6 +6056,11 @@
   },
   {
     "locale": "en",
+    "slug": "inconsistency-in-single-installment-payment-condition-behavior-at-checkout",
+    "internalReference": 605568
+  },
+  {
+    "locale": "en",
     "slug": "inconsistency-on-the-deadlines-of-customer-credit-invoices",
     "internalReference": 331279
   },
@@ -6403,11 +6408,6 @@
     "locale": "en",
     "slug": "second-payment-authorization-request-being-sent-within-an-interval-shorter-than-what-is-stated-in-firstretryattemptinseconds",
     "internalReference": 1165831
-  },
-  {
-    "locale": "en",
-    "slug": "single-installment-payment-condition-does-not-appear-at-chekout",
-    "internalReference": 605568
   },
   {
     "locale": "en",
@@ -14216,6 +14216,11 @@
   },
   {
     "locale": "es",
+    "slug": "incoherencia-en-el-comportamiento-de-la-condicion-de-pago-unico-en-la-caja",
+    "internalReference": 605568
+  },
+  {
+    "locale": "es",
     "slug": "incoherencia-en-el-informe-de-pedido-cuando-el-campo-tid-esta-duplicado-en-el-campo-connectorresponses-de-la-api-de-detalles-de-pago-get",
     "internalReference": 895664
   },
@@ -14273,11 +14278,6 @@
     "locale": "es",
     "slug": "la-aplicacion-de-condiciones-de-pago-agrupadas-esta-causando-problemas-de-sincronizacion-de-las-reglas-de-pago",
     "internalReference": 391569
-  },
-  {
-    "locale": "es",
-    "slug": "la-condicion-de-pago-unico-no-aparece-en-el-chekout",
-    "internalReference": 605568
   },
   {
     "locale": "es",
@@ -21951,11 +21951,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-condicao-de-pagamento-em-uma-unica-parcela-nao-aparece-no-checkout",
-    "internalReference": 605568
-  },
-  {
-    "locale": "pt",
     "slug": "a-condicao-especial-do-banco-emissor-esta-causando-para-alguns-bins-o-erro-na-pagina-de-checkout-banco-emissor-para-este-banco-nao-e-aceito",
     "internalReference": 391549
   },
@@ -22473,6 +22468,11 @@
     "locale": "pt",
     "slug": "inconsistencia-na-selecao-de-condicoes-comerciais",
     "internalReference": 1210072
+  },
+  {
+    "locale": "pt",
+    "slug": "inconsistencia-no-comportamento-da-condicao-de-pagamento-em-parcela-unica-no-checkout",
+    "internalReference": 605568
   },
   {
     "locale": "pt",
