@@ -4356,6 +4356,11 @@
   },
   {
     "locale": "en",
+    "slug": "search-facets-disappear-when-using-back-button-after-clicking-show-more",
+    "internalReference": 1341077
+  },
+  {
+    "locale": "en",
     "slug": "search-filters-disappear-intermittently",
     "internalReference": 734221
   },
@@ -12406,6 +12411,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-facetas-de-busqueda-desaparecen-al-utilizar-el-boton-atras-despues-de-hacer-clic-en-mostrar-mas",
+    "internalReference": 1341077
+  },
+  {
+    "locale": "es",
     "slug": "las-normas-de-comercializacion-visual-cambian-productos-inesperados-debido-a-identificaciones-contradictorias",
     "internalReference": 1092750
   },
@@ -20348,6 +20358,11 @@
     "locale": "pt",
     "slug": "as-especificacoes-do-produtosku-tem-prioridade-no-titulo-da-pagina",
     "internalReference": 1089440
+  },
+  {
+    "locale": "pt",
+    "slug": "as-facetas-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-depois-de-clicar-em-mostrar-mais",
+    "internalReference": 1341077
   },
   {
     "locale": "pt",
