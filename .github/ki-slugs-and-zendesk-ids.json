@@ -10076,6 +10076,11 @@
   },
   {
     "locale": "es",
+    "slug": "checkout-sobrescribe-el-nombre-del-receptor-con-el-nombre-del-cliente",
+    "internalReference": 324792
+  },
+  {
+    "locale": "es",
     "slug": "checkout-ui-loops-when-not-receiving-correct-sla-values-from-logistics-system",
     "internalReference": 485016
   },
@@ -18912,6 +18917,11 @@
   {
     "locale": "pt",
     "slug": "o-checkout-sobregrava-o-nome-do-receptor-com-o-nome-do-cliente",
+    "internalReference": 324792
+  },
+  {
+    "locale": "pt",
+    "slug": "o-checkout-substitui-o-nome-do-receptor-pelo-nome-do-cliente",
     "internalReference": 324792
   },
   {
