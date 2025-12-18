@@ -1,18 +1,16 @@
 ---
 title: 'Checkout overwrites receiver name with customer name'
-id: 6hw8M6PeUes529M1AdK62i
+slug: checkout-overwrites-receiver-name-with-customer-name
 status: PUBLISHED
-createdAt: 2022-09-22T01:03:23.512Z
-updatedAt: 2022-11-25T21:49:48.366Z
-publishedAt: 2022-11-25T21:49:48.366Z
-firstPublishedAt: 2022-09-22T01:03:23.985Z
+createdAt: 2025-12-18T12:36:42.617Z
+updatedAt: 2025-12-18T12:36:42.617Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slugEN: checkout-overwrites-receiver-name-with-customer-name
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 324792
 ---
 
@@ -22,8 +20,7 @@ internalReference: 324792
 The receiver name is rewritten with the customer name after reloading the checkout page.
 
 
-
-## Simulation
+#### Simulation
 
 
 
@@ -36,9 +33,7 @@ The receiver name is rewritten with the customer name after reloading the checko
 - reload the page
 
 
-
-## Workaround
+#### Workaround
 
 
 N/A
-
