@@ -6546,6 +6546,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-gets-cancelled-after-reverting-from-authorized-to-started",
+    "internalReference": 1341471
+  },
+  {
+    "locale": "en",
     "slug": "transaction-not-loading-blank-screen",
     "internalReference": 1157426
   },
@@ -14396,6 +14401,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-transaccion-se-cancela-tras-pasar-de-autorizada-a-iniciada",
+    "internalReference": 1341471
+  },
+  {
+    "locale": "es",
     "slug": "la-validez-del-pagare-no-anula-la-transaccion",
     "internalReference": 325491
   },
@@ -22043,6 +22053,11 @@
     "locale": "pt",
     "slug": "a-transacao-decidirv1-foi-reprocessada-apos-algumas-tentativas-de-autorizacao",
     "internalReference": 384009
+  },
+  {
+    "locale": "pt",
+    "slug": "a-transacao-e-cancelada-apos-ser-revertida-de-autorizada-para-iniciada",
+    "internalReference": 1341471
   },
   {
     "locale": "pt",
