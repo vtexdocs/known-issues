@@ -6766,6 +6766,11 @@
   },
   {
     "locale": "en",
+    "slug": "paste-action-blocked-on-login-and-on-the-pick-and-pack-picking-search-field",
+    "internalReference": 1343368
+  },
+  {
+    "locale": "en",
     "slug": "pick-and-pack-worksheets-remain-open-and-cannot-be-completed",
     "internalReference": 1160144
   },
@@ -14933,6 +14938,11 @@
     "locale": "es",
     "slug": "razones-perdidas-no-ordenadas-en-la-pagina-indeva",
     "internalReference": 1293176
+  },
+  {
+    "locale": "es",
+    "slug": "accion-de-pegar-bloqueada-en-el-inicio-de-sesion-y-en-el-campo-de-busqueda-de-picking-pick-and-pack",
+    "internalReference": 1343368
   },
   {
     "locale": "es",
@@ -23113,6 +23123,11 @@
     "locale": "pt",
     "slug": "status-processando-ao-verificar-a-pagina-de-ultimos-pedidos",
     "internalReference": 1199998
+  },
+  {
+    "locale": "pt",
+    "slug": "acao-de-colar-bloqueada-no-login-e-no-campo-de-pesquisa-de-picking-pick-and-pack",
+    "internalReference": 1343368
   },
   {
     "locale": "pt",
