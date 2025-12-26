@@ -4036,6 +4036,11 @@
   },
   {
     "locale": "en",
+    "slug": "detached-sku-search-results-not-considering-regionalized-availability",
+    "internalReference": 1344487
+  },
+  {
+    "locale": "en",
     "slug": "duplicated-entries-for-categoriesspecification-values-on-the-same-level",
     "internalReference": 562588
   },
@@ -12571,6 +12576,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-resultados-de-busqueda-de-sku-independientes-no-tienen-en-cuenta-la-disponibilidad-regionalizada",
+    "internalReference": 1344487
+  },
+  {
+    "locale": "es",
     "slug": "los-sinonimos-importan-presentar-el-exito-incluso-para-las-acciones-fallidas",
     "internalReference": 984557
   },
@@ -20778,6 +20788,11 @@
     "locale": "pt",
     "slug": "os-produtos-podem-nao-aparecer-na-pesquisa-ao-usar-sinonimos-em-idiomas-secundarios",
     "internalReference": 1268282
+  },
+  {
+    "locale": "pt",
+    "slug": "os-resultados-da-pesquisa-de-skus-independentes-nao-consideram-a-disponibilidade-regionalizada",
+    "internalReference": 1344487
   },
   {
     "locale": "pt",
