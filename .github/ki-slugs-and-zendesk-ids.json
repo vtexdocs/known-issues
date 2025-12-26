@@ -3942,7 +3942,7 @@
   {
     "locale": "en",
     "slug": "accounts-with-on-the-name-dont-have-metrics-on-search-report",
-    "internalReference": 793570
+    "internalReference": 1344531
   },
   {
     "locale": "en",
@@ -12457,7 +12457,7 @@
   {
     "locale": "es",
     "slug": "las-cuentas-con-en-el-nombre-no-tienen-metricas-en-el-informe-de-busqueda",
-    "internalReference": 793570
+    "internalReference": 1344531
   },
   {
     "locale": "es",
@@ -20553,6 +20553,11 @@
     "locale": "pt",
     "slug": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-busca",
     "internalReference": 793570
+  },
+  {
+    "locale": "pt",
+    "slug": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-pesquisa",
+    "internalReference": 1344531
   },
   {
     "locale": "pt",
