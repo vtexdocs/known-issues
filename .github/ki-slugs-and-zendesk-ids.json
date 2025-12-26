@@ -6626,6 +6626,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-remain-stuck-in-authorized-despite-connector-approval",
+    "internalReference": 1344357
+  },
+  {
+    "locale": "en",
     "slug": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
     "internalReference": 1344356
   },
@@ -14496,6 +14501,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-siguen-bloqueadas-en-autorizado-a-pesar-de-la-aprobacion-del-conector",
+    "internalReference": 1344357
+  },
+  {
+    "locale": "es",
     "slug": "limitaciones-del-campo-isvaluechangeable-para-transacciones-con-valor-minimo-de-001",
     "internalReference": 825122
   },
@@ -22233,6 +22243,11 @@
     "locale": "pt",
     "slug": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
     "internalReference": 1344356
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-permanecem-presas-no-autorizado-apesar-da-aprovacao-do-conector",
+    "internalReference": 1344357
   },
   {
     "locale": "pt",
