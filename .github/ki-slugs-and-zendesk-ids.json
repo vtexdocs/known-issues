@@ -6626,6 +6626,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
+    "internalReference": 1344356
+  },
+  {
+    "locale": "en",
     "slug": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
     "internalReference": 1304667
   },
@@ -14466,6 +14471,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-permanecen-atascadas-en-pendiente-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
+    "internalReference": 1344356
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-realizadas-con-payu-no-cambian-de-estado-de-cancelacion",
     "internalReference": 338124
   },
@@ -22218,6 +22228,11 @@
     "locale": "pt",
     "slug": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizados",
     "internalReference": 1309418
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
+    "internalReference": 1344356
   },
   {
     "locale": "pt",
