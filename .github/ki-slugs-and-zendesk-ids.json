@@ -6646,6 +6646,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-stuck-in-authorized-after-approval",
+    "internalReference": 1344363
+  },
+  {
+    "locale": "en",
     "slug": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
     "internalReference": 1304667
   },
@@ -14911,6 +14916,11 @@
   },
   {
     "locale": "es",
+    "slug": "transacciones-bloqueadas-en-autorizado-despues-de-la-aprobacion",
+    "internalReference": 1344363
+  },
+  {
+    "locale": "es",
     "slug": "transacciones-bloqueadas-tras-el-rechazo-del-riesgo",
     "internalReference": 1092563
   },
@@ -23133,6 +23143,11 @@
     "locale": "pt",
     "slug": "transacoes-incompletas-que-aparecem-com-a-moeda-brasileira",
     "internalReference": 1007953
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-presas-em-autorizado-apos-aprovacao",
+    "internalReference": 1344363
   },
   {
     "locale": "pt",
