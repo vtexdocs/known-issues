@@ -6626,6 +6626,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-remain-stuck-in-analyzing-risk-despite-legacy-anti-fraud-connector-approval",
+    "internalReference": 1344359
+  },
+  {
+    "locale": "en",
     "slug": "transactions-remain-stuck-in-authorized-despite-connector-approval",
     "internalReference": 1344357
   },
@@ -14476,6 +14481,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-permanecen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-antifraude-heredado",
+    "internalReference": 1344359
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-permanecen-atascadas-en-pendiente-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
     "internalReference": 1344356
   },
@@ -22243,6 +22253,11 @@
     "locale": "pt",
     "slug": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
     "internalReference": 1344356
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-permanecem-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-antifraude-legado",
+    "internalReference": 1344359
   },
   {
     "locale": "pt",
