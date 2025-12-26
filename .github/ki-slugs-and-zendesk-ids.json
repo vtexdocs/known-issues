@@ -6626,6 +6626,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-remain-stuck-in-analyzing-risk-despite-afpp-connector-approval",
+    "internalReference": 1344361
+  },
+  {
+    "locale": "en",
     "slug": "transactions-remain-stuck-in-analyzing-risk-despite-legacy-anti-fraud-connector-approval",
     "internalReference": 1344359
   },
@@ -14506,6 +14511,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-siguen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-afpp",
+    "internalReference": 1344361
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-siguen-bloqueadas-a-pesar-de-la-aprobacion-del-conector",
     "internalReference": 1302349
   },
@@ -22213,6 +22223,11 @@
     "locale": "pt",
     "slug": "as-transacoes-com-o-conector-tnspay-estao-sendo-negadas-por-erro-card-not-enrolled-in-3ds",
     "internalReference": 541687
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-continuam-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-afpp",
+    "internalReference": 1344361
   },
   {
     "locale": "pt",
