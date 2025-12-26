@@ -6666,6 +6666,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-stuck-in-pending-authorization-after-approval",
+    "internalReference": 1344365
+  },
+  {
+    "locale": "en",
     "slug": "transactions-with-konduto-are-taking-longer-than-expected-to-update-status",
     "internalReference": 541149
   },
@@ -14916,6 +14921,11 @@
   },
   {
     "locale": "es",
+    "slug": "transacciones-atascadas-en-pendiente-de-autorizacion-tras-la-aprobacion",
+    "internalReference": 1344365
+  },
+  {
+    "locale": "es",
     "slug": "transacciones-bloqueadas-en-autorizado-despues-de-la-aprobacion",
     "internalReference": 1344363
   },
@@ -23143,6 +23153,11 @@
     "locale": "pt",
     "slug": "transacoes-incompletas-que-aparecem-com-a-moeda-brasileira",
     "internalReference": 1007953
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-presas-em-autorizacao-pendente-apos-a-aprovacao",
+    "internalReference": 1344365
   },
   {
     "locale": "pt",
