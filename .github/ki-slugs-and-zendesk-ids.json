@@ -386,6 +386,11 @@
   },
   {
     "locale": "en",
+    "slug": "error-publishing-scheduled-release-ahead-of-schedule-in-admin-you-cant-publish-an-empty-release",
+    "internalReference": 1346648
+  },
+  {
+    "locale": "en",
     "slug": "error-something-went-wrong-please-try-again-when-adding-images-via-site-editor",
     "internalReference": 932126
   },
@@ -8606,6 +8611,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-al-publicar-una-publicacion-programada-antes-de-lo-previsto-en-admin-no-se-puede-publicar-una-publicacion-vacia",
+    "internalReference": 1346648
+  },
+  {
+    "locale": "es",
     "slug": "error-algo-ha-ido-mal-por-favor-intentelo-de-nuevo-al-anadir-imagenes-a-traves-del-editor-de-sitios",
     "internalReference": 932126
   },
@@ -16808,6 +16818,11 @@
     "locale": "pt",
     "slug": "erro-algo-deu-errado-tente-novamente-ao-adicionar-imagens-pelo-site-editor",
     "internalReference": 932126
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-ao-publicar-a-versao-agendada-antes-do-previsto-no-admin-voce-nao-pode-publicar-uma-versao-vazia",
+    "internalReference": 1346648
   },
   {
     "locale": "pt",
