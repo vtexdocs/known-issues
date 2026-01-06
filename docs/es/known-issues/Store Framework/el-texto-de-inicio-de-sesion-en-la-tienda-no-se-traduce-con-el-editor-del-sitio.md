@@ -1,11 +1,9 @@
 ---
 title: 'El texto de inicio de sesión en la tienda no se traduce con el editor del sitio.'
-id: 6DptiKTxtOcYIJEgJlZCmo
+slug: el-texto-de-inicio-de-sesion-en-la-tienda-no-se-traduce-con-el-editor-del-sitio
 status: PUBLISHED
-createdAt: 2023-11-08T13:33:41.296Z
-updatedAt: 2024-07-03T18:29:45.491Z
-publishedAt: 2024-07-03T18:29:45.491Z
-firstPublishedAt: 2023-11-08T13:33:41.967Z
+createdAt: 2026-01-06T14:19:07.898Z
+updatedAt: 2026-01-06T14:19:07.898Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,17 +14,15 @@ kiStatus: Backlog
 internalReference: 911757
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
 
 
 Al tratar de traducir un texto utilizando el editor de sitio para el inicio de sesión de la tienda, los cambios no se aplicarán en el frente de la tienda.
 
 
-##
-
-## Simulación
+#### Simulación
 
 
 
@@ -37,18 +33,14 @@ Al tratar de traducir un texto utilizando el editor de sitio para el inicio de s
 5. Visualice la página y el texto será el mismo independientemente de la configuración regional seleccionada.
 
 
-
-
 ## Workaround
 
 
 Asegúrese de que iconLabel está vacío tanto en el código de la tienda como en el editor del sitio.
 Si no está seguro de que esté vacío en el editor del sitio, puede restablecer el contenido pasando por la versión del editor del sitio > restablecer.
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Store%20Framework/el-texto-de-inicio-de-sesion-en-la-tienda-no-se-traduce-con-el-editor-del-sitio_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/PXovY6zVHdqqhxjodbtMqdXAa/?name=image.png)
 
 Siga la documentación aquí y los contextos aquí para establecer la etiqueta como desee en su lugar.
-
-
 
 
 
