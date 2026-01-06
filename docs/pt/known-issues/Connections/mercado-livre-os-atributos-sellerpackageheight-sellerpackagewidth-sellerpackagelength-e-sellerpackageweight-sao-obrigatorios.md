@@ -2,8 +2,8 @@
 title: 'Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios.'
 slug: mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios
 status: PUBLISHED
-createdAt: 2025-11-14T14:19:17.073Z
-updatedAt: 2025-11-14T14:19:17.073Z
+createdAt: 2026-01-06T18:33:14.903Z
+updatedAt: 2026-01-06T18:33:14.903Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,25 +19,15 @@ internalReference: 1325344
 ## Sumário
 
 
-Os produtos não conseguem publicar no Mercado Livre porque a categoria agora exige dimensões e peso da embalagem, mas a integração nativa do MELI da VTEX ainda não está enviando esses atributos. O sintoma visível no Bridge é uma mensagem de erro informando que seller_package_height, seller_package_width, seller_package_length e seller_package_weight são todos necessários. Isso afeta os vendedores que exportam itens para categorias MELI em que esses atributos se tornaram obrigatórios, mesmo quando os mapeamentos de categoria e atributo parecem corretos.
+
+1. O Mercado Livre tornou os atributos da dimensão ME2 obrigatórios para as categorias relacionadas ao item.
+2. Para habilitar o recurso, o comerciante deve configurar a especificação ME2 no nível do produto, além de fornecer as especificações de dimensão no nível do SKU.
+3. Os valores das dimensões devem ser reais e válidos; itens com dimensões incorretas ou inconsistentes podem ser moderados pelo Mercado Livre.
+4. A integração só reconhecerá valores fornecidos em **cm** e **g**.
+5. Somente números inteiros são aceitos.
+6. A integração lerá os atributos de dimensão diretamente do catálogo VTEX; o mapeamento desses campos no mapper será ignorado.
+Essas regras se aplicam a todas as SKUs configuradas com ME2.
 ## Simulação
-
-
-
--
-
-Pré-requisitos: Uma conta integrada ao Mercado Livre usando o conector nativo da VTEX e um produto mapeado para uma categoria MELI que agora exige dimensões/peso do pacote.
-
-
-
--
-
-Etapas:
-1) No Admin, verifique se o produto está mapeado para a categoria MELI pretendida por meio do Category Mapper e se os mapeamentos de atributos estão definidos como de costume.
-
-2) Tente exportar/publicar o produto para o MELI (Classic ou Premium) via Bridge.
-
-3) No Bridge, abra o cartão de erro do produto em Marketplace > Conexões > Produtos e verifique a mensagem retornada do MELI. Você deve ver um erro indicando os atributos necessários: seller_package_height, seller_package_width, seller_package_length, seller_package_weight.
 
 
  ![](https://vtexhelp.zendesk.com/attachments/token/OdzY5BXVY5FvGgfTL4HgAbVqd/?name=image.png
@@ -45,6 +35,5 @@ Etapas:
 
 
 Ajuste o mapeamento da categoria MELI para uma categoria que não exija esses atributos do sellerpackage*, se for aceitável para os negócios.
-
 
 
