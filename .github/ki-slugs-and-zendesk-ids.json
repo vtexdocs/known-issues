@@ -24451,6 +24451,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-productimpression-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente",
+    "internalReference": 717617
+  },
+  {
+    "locale": "pt",
     "slug": "o-recurso-aplicar-ao-tema-nao-funciona-no-editor-do-site-com-paginas-personalizadas",
     "internalReference": 580543
   },
@@ -24588,11 +24593,6 @@
     "locale": "pt",
     "slug": "produto-com-show-when-out-of-stock-definido-como-falso-retorna-200-em-vez-de-404",
     "internalReference": 1233974
-  },
-  {
-    "locale": "pt",
-    "slug": "produtoimpressao-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente",
-    "internalReference": 717617
   },
   {
     "locale": "pt",
