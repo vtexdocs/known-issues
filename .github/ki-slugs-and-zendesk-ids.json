@@ -3101,6 +3101,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-listing-ui-doesnt-enable-save-and-send-and-blocks-sku-publication-for-vitamin-producttype",
+    "internalReference": 1347282
+  },
+  {
+    "locale": "en",
     "slug": "amazon-object-reference-not-set-to-an-instance-of-an-object",
     "internalReference": 482173
   },
@@ -11313,6 +11318,11 @@
     "locale": "es",
     "slug": "amazon-listing-atributo-obligatorio-no-mostrado-en-la-interfaz-de-usuario-de-amazon-listing-impide-el-envio-de-productos",
     "internalReference": 1307340
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-listing-ui-no-habilita-guardar-y-enviar-y-bloquea-la-publicacion-de-sku-para-vitamin-producttype",
+    "internalReference": 1347282
   },
   {
     "locale": "es",
@@ -19553,6 +19563,11 @@
     "locale": "pt",
     "slug": "alguns-skus-nao-se-integram-dafiti",
     "internalReference": 655574
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-a-interface-do-usuario-de-listagem-nao-habilita-salvar-e-enviar-e-bloqueia-a-publicacao-de-sku-para-o-tipo-de-produto-vitamina",
+    "internalReference": 1347282
   },
   {
     "locale": "pt",
