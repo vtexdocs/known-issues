@@ -2,8 +2,8 @@
 title: "ProductImpression doesn't show all the products when the SKU is individually showed"
 slug: productimpression-doesnt-show-all-the-products-when-the-sku-is-individually-showed
 status: PUBLISHED
-createdAt: 2026-01-06T12:59:39.195Z
-updatedAt: 2026-01-06T12:59:39.195Z
+createdAt: 2026-01-06T14:17:26.495Z
+updatedAt: 2026-01-06T14:17:26.495Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
