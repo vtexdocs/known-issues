@@ -2,8 +2,8 @@
 title: 'O ProductImpression não mostra todos os produtos quando o SKU é mostrado individualmente'
 slug: o-productimpression-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente
 status: PUBLISHED
-createdAt: 2026-01-06T12:59:43.048Z
-updatedAt: 2026-01-06T12:59:43.048Z
+createdAt: 2026-01-06T14:17:31.044Z
+updatedAt: 2026-01-06T14:17:31.044Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,7 +19,7 @@ internalReference: 717617
 ## Sumário
 
 
-Quando a loja "desvincula" o SKU de um produto para ser exibido individualmente na vitrine, a ProductImpression do GTM só vê os produtos por seu productID, não por cada SKUId. Portanto, se o produto tiver 3 SKUs diferentes na página de pesquisa, a ProductImpression o mostrará apenas como um produto.
+Quando a loja "desvincula" o SKU de um produto para ser exibido individualmente na vitrine, o ProductImpression do GTM só vê os produtos por seu productID, não por cada SKUId. Portanto, se o produto tiver 3 SKUs diferentes na página de pesquisa, a ProductImpression o mostrará apenas como um produto.
 ## Simulação
 
 
