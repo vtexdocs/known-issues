@@ -1,11 +1,9 @@
 ---
 title: 'Início frio ao publicar um aplicativo'
-id: 556RKKBALrZk5bxwwflhr4
+slug: inicio-frio-ao-publicar-um-aplicativo
 status: PUBLISHED
-createdAt: 2024-08-29T13:26:21.683Z
-updatedAt: 2024-09-09T14:54:41.722Z
-publishedAt: 2024-09-09T14:54:41.722Z
-firstPublishedAt: 2024-08-29T13:26:43.820Z
+createdAt: 2026-01-06T12:58:06.675Z
+updatedAt: 2026-01-06T12:58:06.675Z
 contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,13 +14,12 @@ kiStatus: Backlog
 internalReference: 1088942
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+
+## Sumário
 
 
 Quando tentamos publicar um aplicativo, esse processo pode falhar na primeira tentativa devido a uma inicialização a frio do aplicativo responsável.
-
 ## Simulação
 
 
@@ -30,12 +27,11 @@ Tente publicar um aplicativo e, se não funcionar na primeira vez, tente novamen
 
     error: undefined
 
+##
 ## Workaround
 
 
 Tente publicar o aplicativo novamente
-
-
 
 
 
