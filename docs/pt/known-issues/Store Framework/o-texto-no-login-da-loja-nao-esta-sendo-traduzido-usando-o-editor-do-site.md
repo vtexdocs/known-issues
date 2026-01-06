@@ -1,11 +1,9 @@
 ---
 title: 'O texto no login da loja não está sendo traduzido usando o editor do site'
-id: 6DptiKTxtOcYIJEgJlZCmo
+slug: o-texto-no-login-da-loja-nao-esta-sendo-traduzido-usando-o-editor-do-site
 status: PUBLISHED
-createdAt: 2023-11-08T13:33:41.296Z
-updatedAt: 2024-07-03T18:29:45.491Z
-publishedAt: 2024-07-03T18:29:45.491Z
-firstPublishedAt: 2023-11-08T13:33:41.967Z
+createdAt: 2026-01-06T14:19:04.851Z
+updatedAt: 2026-01-06T14:19:04.851Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,13 +14,12 @@ kiStatus: Backlog
 internalReference: 911757
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+
+## Sumário
 
 
 Ao tentar traduzir um texto usando o editor do site para o login da loja, as alterações não serão aplicadas na frente da loja.
-
 ## Simulação
 
 
@@ -35,17 +32,14 @@ Ao tentar traduzir um texto usando o editor do site para o login da loja, as alt
 
 
 
-
 ## Workaround
 
 
 Certifique-se de que iconLabel esteja vazio tanto no código da loja quanto no editor do site.
 Se não tiver certeza de que está vazio no editor do site, você pode redefinir o conteúdo acessando a versão do editor do site > redefinir.
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/pt/known-issues/Store%20Framework/o-texto-no-login-da-loja-nao-esta-sendo-traduzido-usando-o-editor-do-site_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/PXovY6zVHdqqhxjodbtMqdXAa/?name=image.png)
 
 Siga a documentação aqui e os contextos aqui para definir o rótulo conforme desejado.
-
-
 
 
 
