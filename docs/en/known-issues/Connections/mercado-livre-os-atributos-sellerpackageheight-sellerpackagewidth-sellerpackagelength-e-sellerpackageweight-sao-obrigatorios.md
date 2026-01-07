@@ -2,8 +2,8 @@
 title: 'Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios.'
 slug: mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios
 status: PUBLISHED
-createdAt: 2026-01-06T18:33:11.822Z
-updatedAt: 2026-01-06T18:33:11.822Z
+createdAt: 2026-01-07T14:15:19.231Z
+updatedAt: 2026-01-07T14:15:19.231Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -17,14 +17,13 @@ internalReference: 1325344
 ## Summary
 
 
+Mercado Libre has made dimension attributes mandatory for ME2 items in some categories. However, this requirement may be extended to new categories without prior notice. Therefore, it's important to consider dimensions as mandatory for any product category that has ME2 delivery.
 
-1. Mercado Libre has made ME2 dimension attributes mandatory for the categories related to the item.
-2. To enable the feature, the merchant must configure the ME2 specification at the product level, in addition to providing the dimension specifications at the SKU level.
-3. Dimension values must be real and valid; items with incorrect or inconsistent dimensions may be moderated by Mercado Libre.
-4. The integration will only recognize values provided in **cm** and **g**.
-5. Only integer numbers are accepted.
-6. The integration will read dimension attributes directly from the VTEX catalog; mapping these fields in the mapper will be ignored.
-These rules apply to all SKUs configured with ME2.
+For the feature to work correctly, the merchant must configure the ME2 specification at the product level and provide the dimensions at the SKU level.
+The dimensions must reflect real values (e.g., L 20, H 30, W 10, D 5) and only values in centimeters and grams are accepted. If they aren't accepted by Mercado Libre, the item will be moderated and the product will not be published.
+
+The integration reads the dimension attributes directly from the VTEX catalog at the SKU level.
+Any mapping of these fields in the mapper will be ignored. This rule applies to all SKUs configured as ME2.
 
 
 #### Simulation
@@ -36,6 +35,6 @@ These rules apply to all SKUs configured with ME2.
 #### Workaround
 
 
-Adjust the MELI category mapping to a category that does not require these sellerpackage* attributes, if business-acceptable.
+n/a
 
 
