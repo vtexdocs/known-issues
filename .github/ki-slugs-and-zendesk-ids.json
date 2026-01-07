@@ -7391,6 +7391,11 @@
   },
   {
     "locale": "en",
+    "slug": "promotion-simulator-ui-shows-an-incorrect-number-of-items-compared-to-the-actual-cart",
+    "internalReference": 1347847
+  },
+  {
+    "locale": "en",
     "slug": "promotion-subscription-with-week-month-and-day-frequency-not-working-on-recurring-cycles",
     "internalReference": 965484
   },
@@ -15581,6 +15586,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-usuario-del-simulador-de-promociones-muestra-un-numero-incorrecto-de-articulos-en-comparacion-con-el-carrito-real",
+    "internalReference": 1347847
+  },
+  {
+    "locale": "es",
     "slug": "la-jerarquia-de-categorias-no-se-muestra-en-el-nuevo-formulario-de-promocion-regular",
     "internalReference": 1317779
   },
@@ -23653,6 +23663,11 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-do-formulario-de-imposto-nao-esta-exibindo-o-menu-suspenso-de-tags-de-marketing",
     "internalReference": 1058148
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-usuario-do-simulador-de-promocao-mostra-um-numero-incorreto-de-itens-em-comparacao-com-o-carrinho-real",
+    "internalReference": 1347847
   },
   {
     "locale": "pt",
