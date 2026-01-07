@@ -2,8 +2,8 @@
 title: 'Mercado Libre Los atributos altura_paquete_vendedor, anchura_paquete_vendedor, longitud_paquete_vendedor y peso_paquete_vendedor son obligatorios.'
 slug: mercado-libre-los-atributos-alturapaquetevendedor-anchurapaquetevendedor-longitudpaquetevendedor-y-pesopaquetevendedor-son-obligatorios
 status: PUBLISHED
-createdAt: 2026-01-06T18:33:17.480Z
-updatedAt: 2026-01-06T18:33:17.480Z
+createdAt: 2026-01-07T14:15:26.718Z
+updatedAt: 2026-01-07T14:15:26.718Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,14 +19,13 @@ internalReference: 1325344
 ## Sumario
 
 
+Mercado Libre ha hecho obligatorios los atributos de dimensión para los artículos ME2 en algunas categorías. Sin embargo, este requisito puede extenderse a nuevas categorías sin previo aviso. Por lo tanto, es importante considerar las dimensiones como obligatorias para cualquier categoría de producto que tenga entrega ME2.
 
-1. Mercado Libre ha hecho obligatorios los atributos de dimensión ME2 para las categorías relacionadas con el artículo.
-2. Para habilitar la función, el comerciante debe configurar la especificación ME2 a nivel de producto, además de proporcionar las especificaciones de dimensión a nivel de SKU.
-3. Los valores de las dimensiones deben ser reales y válidos; los artículos con dimensiones incorrectas o inconsistentes pueden ser moderados por Mercado Libre.
-4. La integración sólo reconocerá valores proporcionados en **cm** y **g**.
-5. Sólo se aceptan números enteros.
-6. La integración leerá los atributos de dimensión directamente del catálogo VTEX; se ignorará la asignación de estos campos en el mapeador.
-Estas reglas se aplican a todos los SKU configurados con ME2.
+Para que la función funcione correctamente, el comerciante debe configurar la especificación ME2 a nivel de producto y proporcionar las dimensiones a nivel de SKU.
+Las dimensiones deben reflejar valores reales (por ejemplo, L 20, H 30, A 10, P 5) y sólo se aceptan valores en centímetros y gramos. Si no son aceptados por Mercado Libre, el artículo será moderado y el producto no será publicado.
+
+La integración lee los atributos de dimensión directamente del catálogo VTEX a nivel SKU.
+Cualquier mapeo de estos campos en el mapeador será ignorado. Esta regla se aplica a todos los SKU configurados como ME2.
 
 
 #### Simulación
@@ -34,9 +33,10 @@ Estas reglas se aplican a todos los SKU configurados con ME2.
 
  ![](https://vtexhelp.zendesk.com/attachments/token/OdzY5BXVY5FvGgfTL4HgAbVqd/?name=image.png)
 
-## Workaround
+
+#### Workaround
 
 
-Ajuste la asignación de categorías MELI a una categoría que no requiera estos atributos sellerpackage*, si es aceptable desde el punto de vista comercial.
+n/a
 
 
