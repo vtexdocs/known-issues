@@ -6151,13 +6151,13 @@
   },
   {
     "locale": "en",
-    "slug": "konduto-af-cannot-complete-a-request-when-the-accountid-is-missing",
-    "internalReference": 496298
+    "slug": "lack-of-validation-in-the-billingaddress-zip-code",
+    "internalReference": 375481
   },
   {
     "locale": "en",
-    "slug": "lack-of-validation-in-the-billingaddress-zip-code",
-    "internalReference": 375481
+    "slug": "legacy-antifrauds-cannot-complete-a-request-when-the-accountid-is-missing",
+    "internalReference": 496298
   },
   {
     "locale": "en",
@@ -14346,11 +14346,6 @@
   },
   {
     "locale": "es",
-    "slug": "konduto-af-no-puede-completar-una-solicitud-cuando-falta-el-accountid",
-    "internalReference": 496298
-  },
-  {
-    "locale": "es",
     "slug": "la-actualizacion-del-pago-personalizado-no-se-refleja-en-el-pago",
     "internalReference": 1096461
   },
@@ -14638,6 +14633,11 @@
     "locale": "es",
     "slug": "los-pedidos-realizados-con-tarjeta-regalo-generan-transacciones-con-moneda-brasilena-r",
     "internalReference": 1083379
+  },
+  {
+    "locale": "es",
+    "slug": "los-sistemas-antifraude-heredados-no-pueden-completar-una-solicitud-cuando-falta-el-id-de-la-cuenta",
+    "internalReference": 496298
   },
   {
     "locale": "es",
@@ -22906,11 +22906,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-konduto-af-nao-pode-concluir-uma-solicitacao-quando-o-accountid-esta-ausente",
-    "internalReference": 496298
-  },
-  {
-    "locale": "pt",
     "slug": "o-link-para-o-pedido-na-pagina-do-cartaopresente-leva-a-uma-pagina-inexistente-404",
     "internalReference": 1196298
   },
@@ -22978,6 +22973,11 @@
     "locale": "pt",
     "slug": "opcao-de-parcelamento-de-1x-ausente-no-checkout-com-varias-condicoes-de-pagamento-e-configuracao-padrao-definida-para-uma-opcao-diferente",
     "internalReference": 709971
+  },
+  {
+    "locale": "pt",
+    "slug": "os-antifrauds-legados-nao-podem-concluir-uma-solicitacao-quando-o-accountid-esta-ausente",
+    "internalReference": 496298
   },
   {
     "locale": "pt",
