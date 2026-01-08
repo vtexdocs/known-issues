@@ -5611,6 +5611,11 @@
   },
   {
     "locale": "en",
+    "slug": "504-timeout-when-creating-gift-cards-in-bulk-via-admin-large-batch-size",
+    "internalReference": 1348204
+  },
+  {
+    "locale": "en",
     "slug": "adyen-3ds2-double-request-generates-payment-authorization-denial",
     "internalReference": 884154
   },
@@ -14901,6 +14906,11 @@
   },
   {
     "locale": "es",
+    "slug": "tiempo-de-espera-de-504-al-crear-tarjetas-regalo-de-forma-masiva-a-traves-de-admin-lote-de-gran-tamano",
+    "internalReference": 1348204
+  },
+  {
+    "locale": "es",
     "slug": "transaccion-atascada-en-aprobado-mientras-el-pago-permanece-liquidando-cuando-se-utilizan-liquidaciones-parciales",
     "internalReference": 1319395
   },
@@ -23168,6 +23178,11 @@
     "locale": "pt",
     "slug": "temos-um-problema-de-validacao-do-campo-clientid-do-giftcard-na-administracao",
     "internalReference": 454388
+  },
+  {
+    "locale": "pt",
+    "slug": "tempo-limite-de-504-ao-criar-cartoespresente-em-massa-atraves-do-admin-lote-de-grande-tamanho",
+    "internalReference": 1348204
   },
   {
     "locale": "pt",
