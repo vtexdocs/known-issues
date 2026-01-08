@@ -2,15 +2,15 @@
 title: 'Number-type product specifications allow importing decimal values'
 slug: numbertype-product-specifications-allow-importing-decimal-values
 status: PUBLISHED
-createdAt: 2025-09-18T14:44:59.645Z
-updatedAt: 2025-09-18T14:44:59.645Z
+createdAt: 2026-01-08T17:59:10.993Z
+updatedAt: 2026-01-08T17:59:10.993Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: numbertype-product-specifications-allow-importing-decimal-values
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1294268
 ---
 
