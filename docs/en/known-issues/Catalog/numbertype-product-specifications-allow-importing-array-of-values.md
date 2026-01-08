@@ -2,15 +2,15 @@
 title: 'Number-type product specifications allow importing array of values'
 slug: numbertype-product-specifications-allow-importing-array-of-values
 status: PUBLISHED
-createdAt: 2025-09-18T14:32:43.713Z
-updatedAt: 2025-09-18T14:32:43.713Z
+createdAt: 2026-01-08T17:58:18.065Z
+updatedAt: 2026-01-08T17:58:18.065Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: numbertype-product-specifications-allow-importing-array-of-values
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1294247
 ---
 
