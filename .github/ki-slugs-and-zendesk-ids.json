@@ -9646,6 +9646,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-especificaciones-de-productos-de-tipo-numerico-permiten-importar-matrices-de-valores",
+    "internalReference": 1294247
+  },
+  {
+    "locale": "es",
     "slug": "las-especificaciones-obligatorias-no-se-verifican-al-crear-un-producto-a-traves-de-la-api",
     "internalReference": 522293
   },
@@ -17373,6 +17378,11 @@
     "locale": "pt",
     "slug": "as-especificacoes-de-produtos-do-tipo-numero-permitem-a-importacao-de-valores-decimais",
     "internalReference": 1294268
+  },
+  {
+    "locale": "pt",
+    "slug": "as-especificacoes-do-produto-do-tipo-numerico-permitem-importar-uma-matriz-de-valores",
+    "internalReference": 1294247
   },
   {
     "locale": "pt",
