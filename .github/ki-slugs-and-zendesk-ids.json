@@ -616,6 +616,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-api-accepts-list-of-items-but-ui-does-not-reflect",
+    "internalReference": 1348787
+  },
+  {
+    "locale": "en",
     "slug": "catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return",
     "internalReference": 388869
   },
@@ -9351,6 +9356,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-api-del-catalogo-acepta-la-lista-de-articulos-pero-la-interfaz-de-usuario-no-lo-refleja",
+    "internalReference": 1348787
+  },
+  {
+    "locale": "es",
     "slug": "la-api-del-catalogo-crear-archivo-sku-solo-funciona-con-una-url",
     "internalReference": 503153
   },
@@ -17048,6 +17058,11 @@
     "locale": "pt",
     "slug": "a-api-de-precos-permite-valores-negativos",
     "internalReference": 774548
+  },
+  {
+    "locale": "pt",
+    "slug": "a-api-do-catalogo-aceita-listas-de-itens-mas-a-interface-do-usuario-nao-reflete-isso",
+    "internalReference": 1348787
   },
   {
     "locale": "pt",
