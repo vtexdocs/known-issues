@@ -6296,6 +6296,11 @@
   },
   {
     "locale": "en",
+    "slug": "order-stuck-in-verifying-invoice-after-settlementrequest-with-value-0",
+    "internalReference": 1349027
+  },
+  {
+    "locale": "en",
     "slug": "order-with-status-of-verifying-invoice-does-not-update-to-invoiced",
     "internalReference": 500245
   },
@@ -14841,6 +14846,11 @@
   },
   {
     "locale": "es",
+    "slug": "pedido-atascado-en-verificando-factura-tras-solicitud-de-liquidacion-con-valor-0",
+    "internalReference": 1349027
+  },
+  {
+    "locale": "es",
     "slug": "pedido-bloqueado-en-pago-pendiente-a-pesar-de-transaccion-aprobada",
     "internalReference": 1343830
   },
@@ -23143,6 +23153,11 @@
     "locale": "pt",
     "slug": "pedido-preso-em-pagamento-pendente-devido-a-status-de-transacao-desatualizado",
     "internalReference": 1195265
+  },
+  {
+    "locale": "pt",
+    "slug": "pedido-preso-em-verificacao-da-fatura-apos-solicitacao-de-liquidacao-com-valor-0",
+    "internalReference": 1349027
   },
   {
     "locale": "pt",
