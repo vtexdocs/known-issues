@@ -5711,6 +5711,11 @@
   },
   {
     "locale": "en",
+    "slug": "captured-transaction-remains-in-approved-status-due-to-missing-settlement-registration-in-requests",
+    "internalReference": 1349246
+  },
+  {
+    "locale": "en",
     "slug": "card-brands-incorrectly-processed-as-visa",
     "internalReference": 1024823
   },
@@ -14526,6 +14531,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-transaccion-capturada-permanece-en-estado-aprobada-debido-a-la-falta-de-registro-de-liquidacion-en-solicitudes",
+    "internalReference": 1349246
+  },
+  {
+    "locale": "es",
     "slug": "la-transaccion-decidirv1-fue-reprocesada-despues-de-algunos-reintentos-de-autorizacion",
     "internalReference": 384009
   },
@@ -22293,6 +22303,11 @@
     "locale": "pt",
     "slug": "a-solicitacao-de-parcelas-na-porta-de-entrada-de-um-comerciante-que-nao-o-mercado-e-sempre-feita-com-canal-de-vendas-1",
     "internalReference": 391197
+  },
+  {
+    "locale": "pt",
+    "slug": "a-transacao-capturada-permanece-no-status-aprovada-devido-a-falta-de-registro-de-liquidacao-nas-solicitacoes",
+    "internalReference": 1349246
   },
   {
     "locale": "pt",
