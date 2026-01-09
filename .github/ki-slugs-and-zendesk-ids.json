@@ -6156,6 +6156,11 @@
   },
   {
     "locale": "en",
+    "slug": "it-is-not-possible-to-use-the-sales-channel-filter-on-the-transactions-page",
+    "internalReference": 1348924
+  },
+  {
+    "locale": "en",
     "slug": "its-possible-to-go-from-order-to-transaction-but-the-inverse-flow-doesnt-work",
     "internalReference": 393483
   },
@@ -14741,6 +14746,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-es-posible-utilizar-el-filtro-del-canal-de-ventas-en-la-pagina-de-transacciones",
+    "internalReference": 1348924
+  },
+  {
+    "locale": "es",
     "slug": "no-se-puede-acceder-a-la-cuenta-de-pago-vtex",
     "internalReference": 550244
   },
@@ -22813,6 +22823,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-liquidar-uma-transacao-com-o-metodo-boleto-utilizando-a-braspag",
     "internalReference": 558065
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-utilizar-o-filtro-do-canal-de-vendas-na-pagina-de-transacoes",
+    "internalReference": 1348924
   },
   {
     "locale": "pt",
