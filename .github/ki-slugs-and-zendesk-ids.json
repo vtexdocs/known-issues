@@ -901,7 +901,7 @@
   },
   {
     "locale": "en",
-    "slug": "creating-skus-in-seller-portal-accounts-result-in-inocrrect-unit-multiplier",
+    "slug": "creating-skus-in-seller-portal-accounts-result-in-unit-multiplier-always-being-1",
     "internalReference": 1186329
   },
   {
@@ -9441,7 +9441,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-creacion-de-sku-en-cuentas-del-portal-del-vendedor-da-como-resultado-un-multiplicador-de-unidades-incorrecto",
+    "slug": "la-creacion-de-sku-en-las-cuentas-del-portal-del-vendedor-hace-que-el-multiplicador-de-unidades-sea-siempre-1",
     "internalReference": 1186329
   },
   {
@@ -17176,7 +17176,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-criacao-de-skus-em-contas-do-portal-do-vendedor-resulta-em-um-multiplicador-de-unidades-incorreto",
+    "slug": "a-criacao-de-skus-em-contas-do-portal-do-vendedor-faz-com-que-o-multiplicador-de-unidades-seja-sempre-1",
     "internalReference": 1186329
   },
   {
