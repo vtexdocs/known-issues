@@ -6311,6 +6311,11 @@
   },
   {
     "locale": "en",
+    "slug": "orders-remain-in-payment-pending-even-after-transaction-is-approved-or-finished",
+    "internalReference": 1349138
+  },
+  {
+    "locale": "en",
     "slug": "outdated-elo-regex-is-causing-us-to-misidentify-some-bins",
     "internalReference": 1015043
   },
@@ -14678,6 +14683,11 @@
     "locale": "es",
     "slug": "los-pagos-a-plazos-con-credito-de-cliente-no-se-muestran-como-opcion-en-el-proceso-de-pago",
     "internalReference": 1078804
+  },
+  {
+    "locale": "es",
+    "slug": "los-pedidos-permanecen-en-pago-pendiente-incluso-despues-de-que-la-transaccion-haya-sido-aprobada-o-finalizada",
+    "internalReference": 1349138
   },
   {
     "locale": "es",
@@ -23098,6 +23108,11 @@
     "locale": "pt",
     "slug": "os-pagamentos-de-debito-usando-o-conector-firstdata-nao-podem-ser-liquidados-devido-a-um-erro-no-campo-transactionstate",
     "internalReference": 461095
+  },
+  {
+    "locale": "pt",
+    "slug": "os-pedidos-permanecem-em-pagamento-pendente-mesmo-apos-a-transacao-ter-sido-aprovada-ou-concluida",
+    "internalReference": 1349138
   },
   {
     "locale": "pt",
