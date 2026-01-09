@@ -6366,6 +6366,11 @@
   },
   {
     "locale": "en",
+    "slug": "payments-admin-defense-mode-settings-page-fails-to-load-permissions-and-get-adminiframetransactionssettings-500",
+    "internalReference": 1348945
+  },
+  {
+    "locale": "en",
     "slug": "payments-gateway-does-not-correctly-send-subaccount-information-in-the-payload-to-the-connector",
     "internalReference": 801012
   },
@@ -14471,6 +14476,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-pagina-de-configuracion-del-modo-de-defensa-de-la-administracion-de-pagos-no-se-carga-permisos-y-get-adminiframetransactionssettings-500",
+    "internalReference": 1348945
+  },
+  {
+    "locale": "es",
     "slug": "la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada",
     "internalReference": 308896
   },
@@ -22243,6 +22253,11 @@
     "locale": "pt",
     "slug": "a-opcao-salvar-novo-cartao-nao-funciona-para-provedores-de-pagamento-assincronos",
     "internalReference": 308892
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pagina-de-configuracoes-do-modo-de-defesa-do-administrador-de-pagamentos-nao-carrega-permissoes-e-get-adminiframetransactionssettings-500",
+    "internalReference": 1348945
   },
   {
     "locale": "pt",
