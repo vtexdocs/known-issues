@@ -7026,6 +7026,11 @@
   },
   {
     "locale": "en",
+    "slug": "redirects-export-from-cms-url-builder-limted-to-65536-records",
+    "internalReference": 492861
+  },
+  {
+    "locale": "en",
     "slug": "request-capture-not-registering-new-events-when-using-legacy-stores",
     "internalReference": 604254
   },
@@ -7088,11 +7093,6 @@
     "locale": "en",
     "slug": "unable-to-delete-template-on-legacy-cms",
     "internalReference": 332033
-  },
-  {
-    "locale": "en",
-    "slug": "unable-to-export-more-than-65536-lines-in-cms-builder",
-    "internalReference": 492861
   },
   {
     "locale": "en",
@@ -15366,6 +15366,11 @@
   },
   {
     "locale": "es",
+    "slug": "redirige-la-exportacion-desde-cms-url-builder-limitada-a-65-536-registros",
+    "internalReference": 492861
+  },
+  {
+    "locale": "es",
     "slug": "restringir-el-defaultsrc-de-la-cabecera-politica-de-seguridad-de-contenidos-podria-romper-el-checkout",
     "internalReference": 763359
   },
@@ -23613,6 +23618,11 @@
     "locale": "pt",
     "slug": "pubportalpagetype-nao-mapeia-corretamente-quando-2-categorias-tem-o-mesmo-nome",
     "internalReference": 314551
+  },
+  {
+    "locale": "pt",
+    "slug": "redireciona-a-exportacao-do-cms-url-builder-limitada-a-65536-registros",
+    "internalReference": 492861
   },
   {
     "locale": "pt",
