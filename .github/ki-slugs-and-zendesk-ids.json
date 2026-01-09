@@ -5166,6 +5166,11 @@
   },
   {
     "locale": "en",
+    "slug": "invoice-accepted-with-value-higher-than-order-total-via-orders-api-during-concurrent-change",
+    "internalReference": 1348894
+  },
+  {
+    "locale": "en",
     "slug": "invoice-items-description-in-packages-overwritten-based-on-invoicevalue-rule-ordersoms-get-order-reconstruction",
     "internalReference": 1330069
   },
@@ -13491,6 +13496,11 @@
   },
   {
     "locale": "es",
+    "slug": "factura-aceptada-con-un-valor-superior-al-total-del-pedido-a-traves-de-la-api-de-pedidos-durante-un-cambio-simultaneo",
+    "internalReference": 1348894
+  },
+  {
+    "locale": "es",
     "slug": "historial-de-eventos-de-suscripcion-desordenado",
     "internalReference": 872697
   },
@@ -21703,6 +21713,11 @@
     "locale": "pt",
     "slug": "exportar-da-lista-de-pedidos-na-coluna-data-de-criacao-esta-na-utc-0",
     "internalReference": 619890
+  },
+  {
+    "locale": "pt",
+    "slug": "fatura-aceita-com-valor-superior-ao-total-do-pedido-por-meio-da-api-de-pedidos-durante-alteracao-simultanea",
+    "internalReference": 1348894
   },
   {
     "locale": "pt",
