@@ -7796,6 +7796,11 @@
   },
   {
     "locale": "en",
+    "slug": "custom-routes-missing-from-sitemap-for-subaccounts",
+    "internalReference": 1349623
+  },
+  {
+    "locale": "en",
     "slug": "disclosure-layout-cant-be-used-properly-when-prop-animated-is-set-as-true",
     "internalReference": 417947
   },
@@ -16491,6 +16496,11 @@
   },
   {
     "locale": "es",
+    "slug": "rutas-personalizadas-que-faltan-en-el-mapa-del-sitio-para-las-subcuentas",
+    "internalReference": 1349623
+  },
+  {
+    "locale": "es",
     "slug": "se-ha-superado-el-tamano-maximo-de-la-pila-de-llamadas-en-sitemap",
     "internalReference": 1132723
   },
@@ -24813,6 +24823,11 @@
     "locale": "pt",
     "slug": "rotas-bloqueadas-e-nao-encontradas-na-plataforma",
     "internalReference": 793457
+  },
+  {
+    "locale": "pt",
+    "slug": "rotas-personalizadas-ausentes-do-mapa-do-site-para-subcontas",
+    "internalReference": 1349623
   },
   {
     "locale": "pt",
