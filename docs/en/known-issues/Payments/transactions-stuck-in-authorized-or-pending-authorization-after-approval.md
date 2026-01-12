@@ -2,8 +2,8 @@
 title: 'Transactions stuck in Authorized or Pending Authorization after approval'
 slug: transactions-stuck-in-authorized-or-pending-authorization-after-approval
 status: PUBLISHED
-createdAt: 2025-10-08T16:24:44.345Z
-updatedAt: 2025-10-08T16:24:44.345Z
+createdAt: 2026-01-12T21:00:16.551Z
+updatedAt: 2026-01-12T21:00:16.551Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -35,7 +35,16 @@ To avoid this issue is important to know that the VTEX Payment Gateway uses an i
 Connectors should not call the Gateway back during the same flow it initiated, nor assume that data is immediately available in the database. Instead, they should use GET requests to retrieve transaction or payment information, wait for the authorization process to finish before sending callbacks, and handle additional processing asynchronously after the initial request completes.
 By following this pattern, avoiding circular API calls, concurrent requests, and overlapping callbacks, connectors ensure stable integration and prevent data consistency or locking issues.
 
-##
+In addition to the behavior described above, this parent known issue was later split into two more specific KIs to better delimit the business and technical flows and improve prioritization, as aligned in our internal discussion:
+
+- **[KI] Transactions stuck in Authorized after approval** – Zendesk ticket **1344363**
+https://vtexhelp.zendesk.com/agent/tickets/1344363
+- **[KI] Transactions stuck in Pending Authorization after approval** – Zendesk ticket **1344365**
+https://vtexhelp.zendesk.com/agent/tickets/1344365
+
+For up-to-date descriptions, symptoms, impact, metrics, and troubleshooting steps, **always use the child KIs above**.
+This parent KI is kept only for historical tracking and linkage of older escalations and should **not** be used as the main reference going forward.
+
 
 #### Simulation
 
