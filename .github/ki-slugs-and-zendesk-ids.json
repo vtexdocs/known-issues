@@ -5306,6 +5306,11 @@
   },
   {
     "locale": "en",
+    "slug": "order-status-exported-in-portuguese-in-oms-order-export-nontranslatable-statusdescription",
+    "internalReference": 1350055
+  },
+  {
+    "locale": "en",
     "slug": "order-stuck-at-seller-status-cancellationrequestdeniedffm",
     "internalReference": 1004978
   },
@@ -13523,6 +13528,11 @@
     "locale": "es",
     "slug": "error-en-la-visualizacion-de-shippingestimatedate-en-new-ui",
     "internalReference": 661040
+  },
+  {
+    "locale": "es",
+    "slug": "estado-del-pedido-exportado-en-portugues-en-oms-order-export-statusdescription-no-traducible",
+    "internalReference": 1350055
   },
   {
     "locale": "es",
@@ -22183,6 +22193,11 @@
     "locale": "pt",
     "slug": "split-items-order-with-value-as-0-zero-on-the-invoice",
     "internalReference": 387933
+  },
+  {
+    "locale": "pt",
+    "slug": "status-do-pedido-exportado-em-portugues-no-oms-exportacao-de-pedidos-statusdescription-nao-traduzivel",
+    "internalReference": 1350055
   },
   {
     "locale": "pt",
