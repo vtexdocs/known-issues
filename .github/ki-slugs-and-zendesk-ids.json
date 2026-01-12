@@ -3156,6 +3156,11 @@
   },
   {
     "locale": "en",
+    "slug": "app-fbe-capi-purchase-event-not-deduplicated-in-headless-checkout-fbpexternalid-dependency-on-vtex-checkout",
+    "internalReference": 1349091
+  },
+  {
+    "locale": "en",
     "slug": "attribute-melishippingmode-not-being-updated-in-meli-integration",
     "internalReference": 873993
   },
@@ -11398,6 +11403,11 @@
     "locale": "es",
     "slug": "analytics-error-al-cargar-datos-en-el-panel-de-rendimiento-de-ventas",
     "internalReference": 799899
+  },
+  {
+    "locale": "es",
+    "slug": "app-fbe-el-evento-de-compra-capi-no-se-deduplica-en-el-proceso-de-pago-sin-interfaz-dependencia-de-fbpexternalid-en-vtex-checkout",
+    "internalReference": 1349091
   },
   {
     "locale": "es",
@@ -19728,6 +19738,11 @@
     "locale": "pt",
     "slug": "anuncios-meli-buybox-que-nao-estao-ligados-a-produtos-bridge",
     "internalReference": 780961
+  },
+  {
+    "locale": "pt",
+    "slug": "app-fbe-evento-de-compra-capi-nao-deduplicado-no-checkout-sem-interface-dependencia-de-fbpexternalid-no-vtex-checkout",
+    "internalReference": 1349091
   },
   {
     "locale": "pt",
