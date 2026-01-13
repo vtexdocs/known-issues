@@ -2471,6 +2471,11 @@
   },
   {
     "locale": "en",
+    "slug": "order-creation-fails-and-order-with-no-item-is-created-when-cart-contains-paused-nonwhite-label-seller",
+    "internalReference": 1350336
+  },
+  {
+    "locale": "en",
     "slug": "order-replacement-feature-doesnt-work-when-the-replaced-cart-and-original-order-have-the-same-value",
     "internalReference": 866622
   },
@@ -10458,6 +10463,11 @@
     "locale": "es",
     "slug": "el-paso-de-envio-puede-mostrar-un-mensaje-de-no-disponibilidad-mientras-se-calculan-las-opciones-de-envio",
     "internalReference": 650038
+  },
+  {
+    "locale": "es",
+    "slug": "el-pedido-no-se-crea-y-se-crea-un-pedido-sin-articulos-cuando-el-carrito-contiene-un-vendedor-no-blanco-en-pausa",
+    "internalReference": 1350336
   },
   {
     "locale": "es",
@@ -18463,6 +18473,11 @@
     "locale": "pt",
     "slug": "a-criacao-de-pedidos-falhou-devido-a-divergencia-de-precos-na-camada-de-cumprimento",
     "internalReference": 512393
+  },
+  {
+    "locale": "pt",
+    "slug": "a-criacao-do-pedido-falha-e-e-criado-um-pedido-sem-itens-quando-o-carrinho-contem-um-vendedor-nao-white-label-em-pausa",
+    "internalReference": 1350336
   },
   {
     "locale": "pt",
