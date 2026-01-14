@@ -3351,6 +3351,11 @@
   },
   {
     "locale": "en",
+    "slug": "magazine-luiza-sku-creation-fails-with-misleading-already-exists-error-when-data-is-unchanged",
+    "internalReference": 1351096
+  },
+  {
+    "locale": "en",
     "slug": "marketplace-netwok-improve-error-when-importing-mapping-spreadsheet",
     "internalReference": 1127410
   },
@@ -11701,6 +11706,11 @@
   },
   {
     "locale": "es",
+    "slug": "magazine-luiza-la-creacion-de-sku-falla-con-un-error-enganoso-que-indica-ya-existe-cuando-los-datos-no-han-cambiado",
+    "internalReference": 1351096
+  },
+  {
+    "locale": "es",
     "slug": "magazine-luiza-pedido-cancelado-en-marketplace-no-actualiza-estado-en-vtex",
     "internalReference": 865926
   },
@@ -19978,6 +19988,11 @@
     "locale": "pt",
     "slug": "magalu-sku-sendo-integrado-com-especificacoes-de-outro-marketplace",
     "internalReference": 689151
+  },
+  {
+    "locale": "pt",
+    "slug": "magazine-luiza-a-criacao-do-sku-falha-com-um-erro-enganoso-de-ja-existe-quando-os-dados-nao-foram-alterados",
+    "internalReference": 1351096
   },
   {
     "locale": "pt",
