@@ -7821,6 +7821,11 @@
   },
   {
     "locale": "en",
+    "slug": "disablesitemapentry-flag-not-respected-by-sitemap-generation",
+    "internalReference": 1351681
+  },
+  {
+    "locale": "en",
     "slug": "disclosure-layout-cant-be-used-properly-when-prop-animated-is-set-as-true",
     "internalReference": 417947
   },
@@ -16341,6 +16346,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-generacion-del-mapa-del-sitio-no-respeta-el-indicador-disablesitemapentry",
+    "internalReference": 1351681
+  },
+  {
+    "locale": "es",
     "slug": "la-posicion-de-la-imagen-seleccionada-en-la-pdp-no-se-restablece-al-cambiar-de-producto",
     "internalReference": 595434
   },
@@ -24763,6 +24773,11 @@
     "locale": "pt",
     "slug": "o-service-worker-nao-cria-um-escopo-correto-para-armazenamentos-com-varias-vinculacoes",
     "internalReference": 1146421
+  },
+  {
+    "locale": "pt",
+    "slug": "o-sinalizador-disablesitemapentry-nao-e-respeitado-pela-geracao-do-mapa-do-site",
+    "internalReference": 1351681
   },
   {
     "locale": "pt",
