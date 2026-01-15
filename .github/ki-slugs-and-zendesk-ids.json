@@ -5401,6 +5401,11 @@
   },
   {
     "locale": "en",
+    "slug": "refund-not-triggered-after-input-invoice-due-to-inconsistent-invoicedata-oms-payments",
+    "internalReference": 1351358
+  },
+  {
+    "locale": "en",
     "slug": "regionalized-navigation-to-the-list-of-selected-sellers-that-do-not-fulfill-the-sku-associated-with-a-gift",
     "internalReference": 1167349
   },
@@ -13463,6 +13468,11 @@
     "locale": "es",
     "slug": "el-plan-de-suscripcion-esta-atascado-en-la-importacion-despues-de-cargar-la-hoja-de-calculo-de-la-asociacion-de-skus",
     "internalReference": 571080
+  },
+  {
+    "locale": "es",
+    "slug": "el-reembolso-no-se-ha-activado-tras-la-factura-de-entrada-debido-a-datos-de-factura-incoherentes-oms-pagos",
+    "internalReference": 1351358
   },
   {
     "locale": "es",
@@ -22213,6 +22223,11 @@
     "locale": "pt",
     "slug": "recurso-de-indexacao-de-ganchos-de-feed-que-ignora-eventos-nos-filtros-fromorders",
     "internalReference": 832400
+  },
+  {
+    "locale": "pt",
+    "slug": "reembolso-nao-acionado-apos-a-entrada-da-fatura-devido-a-dados-inconsistentes-da-fatura-oms-pagamentos",
+    "internalReference": 1351358
   },
   {
     "locale": "pt",
