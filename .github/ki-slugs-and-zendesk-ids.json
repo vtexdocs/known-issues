@@ -1456,6 +1456,11 @@
   },
   {
     "locale": "en",
+    "slug": "promotion-ui-incorrectly-changes-aphostrophe-character",
+    "internalReference": 1353323
+  },
+  {
+    "locale": "en",
     "slug": "promotions-by-order-of-payment-methods-do-not-appear-on-the-product-page",
     "internalReference": 781523
   },
@@ -9581,6 +9586,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-usuario-de-la-promocion-cambia-incorrectamente-el-caracter-del-apostrofo",
+    "internalReference": 1353323
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-usuario-muestra-un-error-al-exportar-archivos-de-catalogo-si-el-remitente-de-la-plantilla-de-correo-electronico-tiene-su-propio-smtp",
     "internalReference": 771942
   },
@@ -17343,6 +17353,11 @@
     "locale": "pt",
     "slug": "a-insercao-de-varios-valores-de-especificacao-nao-esta-funcionando-no-catalogo-legado",
     "internalReference": 1246453
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-usuario-da-promocao-altera-incorretamente-o-caractere-apostrofo",
+    "internalReference": 1353323
   },
   {
     "locale": "pt",
