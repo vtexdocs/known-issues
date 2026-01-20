@@ -2,8 +2,8 @@
 title: 'Order creation fails and order with no item is created when cart contains paused non-white label seller'
 slug: order-creation-fails-and-order-with-no-item-is-created-when-cart-contains-paused-nonwhite-label-seller
 status: PUBLISHED
-createdAt: 2026-01-13T15:23:43.990Z
-updatedAt: 2026-01-13T15:23:43.990Z
+createdAt: 2026-01-20T17:42:06.133Z
+updatedAt: 2026-01-20T17:42:06.133Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
