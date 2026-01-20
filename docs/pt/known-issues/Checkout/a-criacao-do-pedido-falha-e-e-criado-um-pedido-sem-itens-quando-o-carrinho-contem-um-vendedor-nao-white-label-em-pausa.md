@@ -2,8 +2,8 @@
 title: 'A criação do pedido falha e é criado um pedido sem itens quando o carrinho contém um vendedor não white label em pausa.'
 slug: a-criacao-do-pedido-falha-e-e-criado-um-pedido-sem-itens-quando-o-carrinho-contem-um-vendedor-nao-white-label-em-pausa
 status: PUBLISHED
-createdAt: 2026-01-13T15:23:49.244Z
-updatedAt: 2026-01-13T15:23:49.244Z
+createdAt: 2026-01-20T17:42:09.298Z
+updatedAt: 2026-01-20T17:42:09.298Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
