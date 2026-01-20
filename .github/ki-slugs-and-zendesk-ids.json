@@ -7471,6 +7471,11 @@
   },
   {
     "locale": "en",
+    "slug": "promotion-ui-incorrectly-changes-aphostrophe-character",
+    "internalReference": 1353323
+  },
+  {
+    "locale": "en",
     "slug": "promotion-usage-counter-not-working-as-expected",
     "internalReference": 1090367
   },
@@ -15751,6 +15756,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-usuario-de-la-promocion-cambia-incorrectamente-el-caracter-del-apostrofo",
+    "internalReference": 1353323
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-usuario-de-las-promociones-carga-informacion-incorrecta-sobre-la-divisa",
     "internalReference": 718908
   },
@@ -23928,6 +23938,11 @@
     "locale": "pt",
     "slug": "a-hierarquia-de-categorias-nao-e-exibida-no-novo-formulario-de-promocao-regular",
     "internalReference": 1317779
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-usuario-da-promocao-altera-incorretamente-o-caractere-apostrofo",
+    "internalReference": 1353323
   },
   {
     "locale": "pt",
