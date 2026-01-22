@@ -656,6 +656,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-does-not-remove-special-characters-when-setting-up-the-text-link",
+    "internalReference": 940127
+  },
+  {
+    "locale": "en",
     "slug": "catalog-error-exporting-the-report",
     "internalReference": 1163872
   },
@@ -9103,6 +9108,11 @@
     "locale": "es",
     "slug": "el-campo-url-logo-en-la-solicitud-de-actualizacion-del-vendedor-no-se-actualiza",
     "internalReference": 271480
+  },
+  {
+    "locale": "es",
+    "slug": "el-catalogo-no-elimina-los-caracteres-especiales-al-configurar-el-enlace-de-texto",
+    "internalReference": 940127
   },
   {
     "locale": "es",
@@ -18103,6 +18113,11 @@
     "locale": "pt",
     "slug": "o-campo-metatagdescription-nao-pode-ser-excluido-por-meio-do-admin",
     "internalReference": 979691
+  },
+  {
+    "locale": "pt",
+    "slug": "o-catalogo-nao-remove-caracteres-especiais-ao-configurar-o-link-de-texto",
+    "internalReference": 940127
   },
   {
     "locale": "pt",
