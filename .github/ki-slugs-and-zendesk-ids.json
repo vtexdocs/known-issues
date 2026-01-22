@@ -14306,7 +14306,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-de-cancelacion-de-transaccion-con-el-mensaje-codigo-no-localizable",
+    "slug": "error-de-cancelacion-de-transaccion-con-el-mensaje-codigo-inaccesible",
     "internalReference": 998435
   },
   {
@@ -22786,7 +22786,7 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-de-cancelamento-de-transacao-com-a-mensagem-unreachable-code-codigo-inacessivel",
+    "slug": "erro-de-cancelamento-da-transacao-com-a-mensagem-codigo-inacessivel",
     "internalReference": 998435
   },
   {
