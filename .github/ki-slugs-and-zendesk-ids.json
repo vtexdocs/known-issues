@@ -6841,6 +6841,11 @@
   },
   {
     "locale": "en",
+    "slug": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
+    "internalReference": 1355130
+  },
+  {
+    "locale": "en",
     "slug": "change-identified-customer-button-does-not-work-properly",
     "internalReference": 1237322
   },
@@ -15188,6 +15193,11 @@
     "locale": "es",
     "slug": "zonas-desfasadas-en-la-direccion-de-facturacion-de-guatemala-en-la-pagina-de-pago",
     "internalReference": 373603
+  },
+  {
+    "locale": "es",
+    "slug": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
+    "internalReference": 1355130
   },
   {
     "locale": "es",
@@ -23543,6 +23553,11 @@
     "locale": "pt",
     "slug": "zonas-locais-desatualizadas-no-endereco-de-faturamento-da-guatemala-na-pagina-de-checkout",
     "internalReference": 373603
+  },
+  {
+    "locale": "pt",
+    "slug": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp",
+    "internalReference": 1355130
   },
   {
     "locale": "pt",
