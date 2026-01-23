@@ -12791,7 +12791,7 @@
   },
   {
     "locale": "es",
-    "slug": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-stopwords",
+    "slug": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-palabras-vacias",
     "internalReference": 1041743
   },
   {
@@ -21121,7 +21121,7 @@
   },
   {
     "locale": "pt",
-    "slug": "priorizacao-por-palavrachave-do-produto-sem-considerar-stopwords",
+    "slug": "priorizacao-por-palavrachave-do-produto-sem-considerar-palavras-irrelevantes",
     "internalReference": 1041743
   },
   {
