@@ -1,18 +1,16 @@
 ---
-title: 'Prioritization by product''s ''keyword'' not considering stopwords'
-id: 55S7nFg61dAyCeGQCIw6aK
+title: "Prioritization by product's \"keyword\" not considering stopwords"
+slug: prioritization-by-products-keyword-not-considering-stopwords
 status: PUBLISHED
-createdAt: 2024-05-30T22:05:25.328Z
-updatedAt: 2024-05-30T22:05:26.335Z
-publishedAt: 2024-05-30T22:05:26.335Z
-firstPublishedAt: 2024-05-30T22:05:26.335Z
+createdAt: 2026-01-23T12:55:28.936Z
+updatedAt: 2026-01-23T12:55:28.936Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: prioritization-by-products-keyword-not-considering-stopwords
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1041743
 ---
 
@@ -24,9 +22,7 @@ Products may be prioritized in the search results by their "keyword", a word fro
 In a scenario where the keyword for a product is a stopword, this product may lose priority in the search results.
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 
@@ -35,10 +31,9 @@ In a scenario where the keyword for a product is a stopword, this product may lo
 - Products with "vida" as a keyword will be prioritized over the searched product.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 N/A
+
 
