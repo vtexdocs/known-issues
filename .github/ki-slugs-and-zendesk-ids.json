@@ -9196,6 +9196,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-metodo-stockkeepingunitinsertupdate-webservice-permite-insertar-un-refid-existente",
+    "internalReference": 419460
+  },
+  {
+    "locale": "es",
     "slug": "el-metodo-webservice-stockkeepingunitinsertupdate-permite-insertar-un-refid-existente",
     "internalReference": 419460
   },
@@ -18197,6 +18202,11 @@
   {
     "locale": "pt",
     "slug": "o-metodo-stockkeepingunitinsertupdate-webservice-permite-a-insercao-de-refid-existentes",
+    "internalReference": 419460
+  },
+  {
+    "locale": "pt",
+    "slug": "o-metodo-stockkeepingunitinsertupdate-webservice-permite-inserir-um-refid-existente",
     "internalReference": 419460
   },
   {
