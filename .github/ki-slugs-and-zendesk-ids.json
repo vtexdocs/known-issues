@@ -2111,6 +2111,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-ui-shows-login-to-view-credits-when-provider-returns-balance0",
+    "internalReference": 1356257
+  },
+  {
+    "locale": "en",
     "slug": "checkout-ui-unselects-the-schedule-all-toggle-after-refreshing-the-page",
     "internalReference": 784693
   },
@@ -10786,6 +10791,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-usuario-de-pago-muestra-inicie-sesion-para-ver-los-creditos-cuando-el-proveedor-devuelve-saldo0",
+    "internalReference": 1356257
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-usuario-de-pago-pasa-a-pago-con-una-direccion-de-factura-incompleta-para-compradores-con-perfil-completo",
     "internalReference": 937615
   },
@@ -18653,6 +18663,11 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-considera-apenas-os-itens-disponiveis-para-calcular-o-sla",
     "internalReference": 797028
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-usuario-do-checkout-exibe-faca-login-para-visualizar-os-creditos-quando-o-provedor-retorna-saldo0",
+    "internalReference": 1356257
   },
   {
     "locale": "pt",
