@@ -1,11 +1,9 @@
 ---
-title: 'Intelligent Search multilanguage doesn''t support 2 variations of the same language/idiom'
-id: 2Qr9uJWwlr20NG29VU4tn2
+title: "Intelligent Search multilanguage doesn't support 2 variations of the same language/idiom"
+slug: intelligent-search-multilanguage-doesnt-support-2-variations-of-the-same-languageidiom
 status: PUBLISHED
-createdAt: 2023-06-09T20:41:32.227Z
-updatedAt: 2024-08-28T17:03:13.933Z
-publishedAt: 2024-08-28T17:03:13.933Z
-firstPublishedAt: 2023-06-09T20:41:32.884Z
+createdAt: 2026-01-27T16:36:38.727Z
+updatedAt: 2026-01-27T16:36:38.727Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -26,25 +24,19 @@ When two different locale variations of the same language are used (i.e. `en-US`
 There are only two exceptions:
 
 - `pt-BR` and `pt-PT`
-- `es-ES` and `es-CA`
+- `es-ES` and `ca-ES`
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 If you have a Binding list with multiple languages and try to use internationalization for the same root language, it will not work.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 N/A
-
-
 
 
 
