@@ -12566,7 +12566,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-busqueda-inteligente-multilingue-no-admite-2-variaciones-del-mismo-idiomaidioma",
+    "slug": "la-busqueda-inteligente-multilingue-no-admite-dos-variantes-del-mismo-idioma-o-dialecto",
     "internalReference": 841704
   },
   {
@@ -20746,6 +20746,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-pesquisa-inteligente-multilingue-nao-suporta-duas-variacoes-do-mesmo-idiomaidioma",
+    "internalReference": 841704
+  },
+  {
+    "locale": "pt",
     "slug": "a-primeira-busca-em-uma-loja-nao-e-considerada-na-ui-ultimas-buscas",
     "internalReference": 570971
   },
@@ -20988,11 +20993,6 @@
     "locale": "pt",
     "slug": "o-formulario-intelligent-search-synonyms-pode-congelar-o-campo-de-tipo-de-sinonimo-apos-a-criacao-de-um-sinonimo-unidirecional",
     "internalReference": 1215521
-  },
-  {
-    "locale": "pt",
-    "slug": "o-intelligent-search-multilingue-nao-e-compativel-com-duas-variacoes-do-mesmo-idiomaidioma",
-    "internalReference": 841704
   },
   {
     "locale": "pt",
