@@ -2,8 +2,8 @@
 title: 'Catalog does not remove special characters when setting up the text link'
 slug: catalog-does-not-remove-special-characters-when-setting-up-the-text-link
 status: PUBLISHED
-createdAt: 2026-01-22T17:24:10.911Z
-updatedAt: 2026-01-22T17:24:10.911Z
+createdAt: 2026-01-28T12:08:32.404Z
+updatedAt: 2026-01-28T12:08:32.404Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
