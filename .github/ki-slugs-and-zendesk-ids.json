@@ -261,6 +261,11 @@
   },
   {
     "locale": "en",
+    "slug": "nonresponsive-b2b-components-cause-layout-and-usability-issues-on-mobile",
+    "internalReference": 1357293
+  },
+  {
+    "locale": "en",
     "slug": "order-again-from-b2b-orders-history-doesnt-work",
     "internalReference": 819920
   },
@@ -8601,6 +8606,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-componentes-b2b-que-no-responden-causan-problemas-de-diseno-y-usabilidad-en-dispositivos-moviles",
+    "internalReference": 1357293
+  },
+  {
+    "locale": "es",
     "slug": "los-compradores-no-pueden-iniciar-sesion-si-hay-una-configuracion-incorrecta-en-las-organizacionescentros-de-costes",
     "internalReference": 945609
   },
@@ -16883,6 +16893,11 @@
     "locale": "pt",
     "slug": "b2b-checkout-settings-esta-considerando-o-endereco-de-coleta-para-entregas",
     "internalReference": 1186568
+  },
+  {
+    "locale": "pt",
+    "slug": "componentes-b2b-nao-responsivos-causam-problemas-de-layout-e-usabilidade-em-dispositivos-moveis",
+    "internalReference": 1357293
   },
   {
     "locale": "pt",
