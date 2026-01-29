@@ -9266,6 +9266,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-al-reordenar-colecciones-grandes",
+    "internalReference": 408140
+  },
+  {
+    "locale": "es",
     "slug": "error-de-bloqueo-al-utilizar-las-api-de-catalogo",
     "internalReference": 862626
   },
@@ -9333,11 +9338,6 @@
     "locale": "es",
     "slug": "fallo-de-traslado-de-sku-error-de-transaccion-distribuida",
     "internalReference": 1297799
-  },
-  {
-    "locale": "es",
-    "slug": "fallo-en-la-reordenacion-de-colecciones-grandes",
-    "internalReference": 408140
   },
   {
     "locale": "es",
@@ -17946,7 +17946,7 @@
   },
   {
     "locale": "pt",
-    "slug": "falha-na-reordenacao-de-colecoes-para-colecoes-grandes",
+    "slug": "falha-na-reordenacao-de-colecoes-grandes",
     "internalReference": 408140
   },
   {
