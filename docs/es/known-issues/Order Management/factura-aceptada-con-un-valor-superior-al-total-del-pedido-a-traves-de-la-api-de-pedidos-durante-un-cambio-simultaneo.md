@@ -2,8 +2,8 @@
 title: 'Factura aceptada con un valor superior al total del pedido a través de la API de pedidos durante un cambio simultáneo.'
 slug: factura-aceptada-con-un-valor-superior-al-total-del-pedido-a-traves-de-la-api-de-pedidos-durante-un-cambio-simultaneo
 status: PUBLISHED
-createdAt: 2026-01-09T14:22:59.512Z
-updatedAt: 2026-01-09T14:22:59.512Z
+createdAt: 2026-01-29T14:38:29.029Z
+updatedAt: 2026-01-29T14:38:29.029Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,8 +18,8 @@ internalReference: 1348894
 
 ## Sumario
 
- Los pedidos pueden recibir facturas con un valor superior al total final del pedido cuando aún se está procesando simultáneamente una acción de cambio del pedido (por ejemplo, una cancelación parcial). El síntoma visible es una factura JSON que muestra un importe superior al valor final del pedido.
-Esto afecta a los casos en los que la facturación se activa al mismo tiempo que los cambios, como los flujos de estado de «gestión» que facturan automáticamente mientras aún se está procesando un cambio de reducción de valor. #### Simulación
+ En algunos casos, cuando se produce un **cambio** y se envía una **factura** casi al mismo tiempo para el mismo pedido, el sistema puede basarse en información desactualizada sobre el importe facturado. Esto puede provocar: - **Factura con un valor superior al total final del pedido** (la factura se acepta basándose en el valor del pedido antes de que se complete totalmente el cambio de reducción). - **Pedido atascado en** «pago aprobado» **incluso con una factura válida** (la factura existe en un sistema externo, pero el flujo de trabajo no la encuentra en el momento de la validación, lo que interpreta la situación como una factura parcial y no mueve el pedido a «facturado»).
+En ambos casos, la causa principal es la ejecución casi simultánea de **Cambio** y **Factura**, lo que da lugar a inconsistencias entre el importe real facturado y el estado final del pedido. #### Simulación
 
 ## Workaround
 
