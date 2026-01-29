@@ -2,8 +2,8 @@
 title: 'Error al reordenar colecciones grandes'
 slug: error-al-reordenar-colecciones-grandes
 status: PUBLISHED
-createdAt: 2026-01-29T19:34:39.694Z
-updatedAt: 2026-01-29T19:34:39.694Z
+createdAt: 2026-01-29T19:35:52.349Z
+updatedAt: 2026-01-29T19:35:52.349Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
