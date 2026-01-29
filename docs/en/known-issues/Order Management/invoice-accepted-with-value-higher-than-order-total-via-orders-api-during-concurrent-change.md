@@ -2,8 +2,8 @@
 title: 'Invoice accepted with value higher than order total via Orders API during concurrent Change'
 slug: invoice-accepted-with-value-higher-than-order-total-via-orders-api-during-concurrent-change
 status: PUBLISHED
-createdAt: 2026-01-09T14:22:52.499Z
-updatedAt: 2026-01-09T14:22:52.499Z
+createdAt: 2026-01-29T14:38:22.509Z
+updatedAt: 2026-01-29T14:38:22.509Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -17,9 +17,13 @@ internalReference: 1348894
 ## Summary
 
 
-Orders can receive invoices with a value higher than the final order total when an order Change action (for example, partial cancellation) is still being processed concurrently.
-The visible symptom is an invoice JSON showing an amount greater than the final order value.
-This affects scenarios where invoicing is triggered at the same time as Changes, such as “handling” status flows that auto-invoice while a value-reduction Change is still in progress.
+In some cases, when a **Change** and an **invoice** submission happen almost at the same time for the same order, the system may rely on out-of-date information about the invoiced amount.
+This can cause:
+
+- **Invoice with a value higher than the final order total** (the invoice is accepted based on the order value before the reduction Change is fully completed).
+- **Order stuck in** `payment-approved` **even with a valid invoice** (the invoice exists in an external system but is not found by the workflow at validation time, which interprets the situation as a partial invoice and does not move the order to `invoiced`).
+In both scenarios, the root cause is the near-simultaneous execution of **Change** and **Invoice**, which leads to inconsistencies between the actual invoiced amount and the final order state.
+
 
 #### Simulation
 
