@@ -2,8 +2,8 @@
 title: 'Fatura aceita com valor superior ao total do pedido por meio da API de pedidos durante alteração simultânea'
 slug: fatura-aceita-com-valor-superior-ao-total-do-pedido-por-meio-da-api-de-pedidos-durante-alteracao-simultanea
 status: PUBLISHED
-createdAt: 2026-01-09T14:22:56.060Z
-updatedAt: 2026-01-09T14:22:56.060Z
+createdAt: 2026-01-29T14:38:25.945Z
+updatedAt: 2026-01-29T14:38:25.945Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
