@@ -2,8 +2,8 @@
 title: 'Reorder Collection Failing for Large Collections'
 slug: reorder-collection-failing-for-large-collections
 status: PUBLISHED
-createdAt: 2026-01-29T19:34:30.983Z
-updatedAt: 2026-01-29T19:34:30.983Z
+createdAt: 2026-01-29T19:35:45.873Z
+updatedAt: 2026-01-29T19:35:45.873Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
