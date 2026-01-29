@@ -2,8 +2,8 @@
 title: 'Falha na reordenação de coleções grandes'
 slug: falha-na-reordenacao-de-colecoes-grandes
 status: PUBLISHED
-createdAt: 2026-01-29T19:34:35.605Z
-updatedAt: 2026-01-29T19:34:35.605Z
+createdAt: 2026-01-29T19:35:48.858Z
+updatedAt: 2026-01-29T19:35:48.858Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
