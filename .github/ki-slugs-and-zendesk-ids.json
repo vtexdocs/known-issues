@@ -5091,6 +5091,11 @@
   },
   {
     "locale": "en",
+    "slug": "divergent-order-value-between-marketplace-and-seller-while-using-price-override-and-promotions",
+    "internalReference": 756629
+  },
+  {
+    "locale": "en",
     "slug": "erro-in-change-v2-flow-with-duplicated-itens",
     "internalReference": 1219914
   },
@@ -14001,6 +14006,11 @@
   },
   {
     "locale": "es",
+    "slug": "valor-del-pedido-divergente-entre-el-mercado-y-el-vendedor-al-utilizar-la-anulacion-de-precios-y-las-promociones",
+    "internalReference": 756629
+  },
+  {
+    "locale": "es",
     "slug": "valor-incorrecto-en-el-paquete-debido-a-la-division-del-descuento",
     "internalReference": 605517
   },
@@ -22368,6 +22378,11 @@
     "locale": "pt",
     "slug": "usuario-recebe-mensagem-de-erro-no-primeiro-registro-em-minha-conta",
     "internalReference": 619909
+  },
+  {
+    "locale": "pt",
+    "slug": "valor-divergente-do-pedido-entre-o-marketplace-e-o-vendedor-ao-usar-substituicao-de-preco-e-promocoes",
+    "internalReference": 756629
   },
   {
     "locale": "pt",
