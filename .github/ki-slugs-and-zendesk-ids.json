@@ -11466,6 +11466,11 @@
   },
   {
     "locale": "es",
+    "slug": "amazon-la-interfaz-de-usuario-de-listing-no-habilita-guardar-y-enviar-y-bloquea-la-publicacion-de-sku-para-el-tipo-de-producto-vitamin",
+    "internalReference": 1347282
+  },
+  {
+    "locale": "es",
     "slug": "amazon-la-referencia-a-un-objeto-no-es-una-instancia-de-un-objeto",
     "internalReference": 482173
   },
@@ -19818,6 +19823,11 @@
     "locale": "pt",
     "slug": "a-integracao-do-meli-esta-recebendo-erros-do-meli-429-solicitacoes-demais",
     "internalReference": 873998
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-usuario-da-listagem-da-amazon-nao-permite-salvar-e-enviar-e-bloqueia-a-publicacao-do-sku-para-o-tipo-de-produto-vitamina",
+    "internalReference": 1347282
   },
   {
     "locale": "pt",
