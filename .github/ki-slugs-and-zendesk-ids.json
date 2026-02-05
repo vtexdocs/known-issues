@@ -4561,6 +4561,11 @@
   },
   {
     "locale": "en",
+    "slug": "nizza-script-affecting-pixel-apps",
+    "internalReference": 1361187
+  },
+  {
+    "locale": "en",
     "slug": "api-shipping-estimate-returns-wrong-info-when-sc-is-null",
     "internalReference": 554948
   },
@@ -12918,6 +12923,11 @@
     "locale": "es",
     "slug": "traduccion-incorrecta-de-los-nombres-de-sku-en-la-busqueda-inteligente",
     "internalReference": 1180016
+  },
+  {
+    "locale": "es",
+    "slug": "el-script-nizza-afecta-a-las-aplicaciones-de-pixeles",
+    "internalReference": 1361187
   },
   {
     "locale": "es",
@@ -21308,6 +21318,11 @@
     "locale": "pt",
     "slug": "o-simbolo-da-moeda-nas-prateleiras-difere-do-site",
     "internalReference": 1295069
+  },
+  {
+    "locale": "pt",
+    "slug": "script-nizza-afetando-aplicativos-pixel",
+    "internalReference": 1361187
   },
   {
     "locale": "pt",
