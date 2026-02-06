@@ -2,8 +2,8 @@
 title: 'Apps using masterdater builder 2.x may fail to identify schemas after a install'
 slug: apps-using-masterdater-builder-2x-may-fail-to-identify-schemas-after-a-install
 status: PUBLISHED
-createdAt: 2026-02-06T20:06:12.296Z
-updatedAt: 2026-02-06T20:06:12.296Z
+createdAt: 2026-02-06T20:27:25.099Z
+updatedAt: 2026-02-06T20:27:25.099Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -32,7 +32,11 @@ Some applications built using the Master Data build 2.x may experience runtime e
 #### Workaround
 
 
-N/A
+Open a support ticket with the following information:
 
+
+- App name
+- Version
+- Entities used by the app
 
 
