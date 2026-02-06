@@ -7601,6 +7601,11 @@
   },
   {
     "locale": "en",
+    "slug": "apps-using-masterdater-builder-2x-may-fail-to-identify-schemas-after-a-install",
+    "internalReference": 1361652
+  },
+  {
+    "locale": "en",
     "slug": "boolean-filter-on-form-application-does-not-work-properly",
     "internalReference": 918537
   },
@@ -16096,6 +16101,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-aplicaciones-que-utilizan-masterdater-builder-2x-pueden-no-identificar-los-esquemas-despues-de-una-instalacion",
+    "internalReference": 1361652
+  },
+  {
+    "locale": "es",
     "slug": "las-subcuentas-no-se-asignan-automaticamente-a-un-cluster",
     "internalReference": 1227332
   },
@@ -24513,6 +24523,11 @@
     "locale": "pt",
     "slug": "ocorre-um-erro-ao-tentar-realizar-uma-pesquisa-usando-o-campo-all-na-interface-do-usuario-do-vtex-crm",
     "internalReference": 925679
+  },
+  {
+    "locale": "pt",
+    "slug": "os-aplicativos-que-utilizam-o-masterdater-builder-2x-podem-nao-conseguir-identificar-esquemas-apos-a-instalacao",
+    "internalReference": 1361652
   },
   {
     "locale": "pt",
