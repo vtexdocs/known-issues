@@ -2,8 +2,8 @@
 title: 'Os aplicativos que utilizam o Masterdater Builder 2.x podem não conseguir identificar esquemas após a instalação.'
 slug: os-aplicativos-que-utilizam-o-masterdater-builder-2x-podem-nao-conseguir-identificar-esquemas-apos-a-instalacao
 status: PUBLISHED
-createdAt: 2026-02-06T20:06:16.702Z
-updatedAt: 2026-02-06T20:06:16.702Z
+createdAt: 2026-02-06T20:27:28.526Z
+updatedAt: 2026-02-06T20:27:28.526Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
