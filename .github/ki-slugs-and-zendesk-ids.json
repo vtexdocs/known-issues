@@ -3136,6 +3136,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-listing-some-skus-arent-integrated-due-to-an-error-in-the-attributecolorvalue-field-standardizedvalues",
+    "internalReference": 1361514
+  },
+  {
+    "locale": "en",
     "slug": "amazon-listing-ui-doesnt-enable-save-and-send-and-blocks-sku-publication-for-vitamin-producttype",
     "internalReference": 1347282
   },
@@ -11483,6 +11488,11 @@
     "locale": "es",
     "slug": "amazon-la-referencia-a-un-objeto-no-es-una-instancia-de-un-objeto",
     "internalReference": 482173
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-listado-algunos-sku-no-estan-integrados-debido-a-un-error-en-el-campo-colorvalue-del-atributo-standardizedvalues",
+    "internalReference": 1361514
   },
   {
     "locale": "es",
@@ -19908,6 +19918,11 @@
     "locale": "pt",
     "slug": "amazon-erro-no-fluxo-de-atualizacao-o-sku-nao-esta-sendo-registrado-na-ponte",
     "internalReference": 990197
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-listagem-alguns-skus-nao-estao-integrados-devido-a-um-erro-no-campo-colorvalue-do-atributo-standardizedvalues",
+    "internalReference": 1361514
   },
   {
     "locale": "pt",
