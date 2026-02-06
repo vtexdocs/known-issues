@@ -2031,7 +2031,7 @@
   },
   {
     "locale": "en",
-    "slug": "checkout-has-no-clarity-about-divergences-between-the-identified-and-the-logged-in-customer",
+    "slug": "checkout-has-no-clarity-about-divergences-between-the-customer-identified-in-the-cart-and-the-user-logged-in-to-the-store",
     "internalReference": 442267
   },
   {
@@ -10561,13 +10561,13 @@
   },
   {
     "locale": "es",
-    "slug": "el-proceso-de-pago-no-actualiza-los-impuestos-teniendo-en-cuenta-el-vendedor-correcto-al-combinar-la-informacion-del-carro",
-    "internalReference": 759842
+    "slug": "el-proceso-de-pago-no-aclara-las-divergencias-entre-el-cliente-identificado-en-el-carrito-y-el-usuario-que-ha-iniciado-sesion-en-la-tienda",
+    "internalReference": 442267
   },
   {
     "locale": "es",
-    "slug": "el-proceso-de-pago-no-deja-claras-las-divergencias-entre-el-cliente-identificado-y-el-registrado",
-    "internalReference": 442267
+    "slug": "el-proceso-de-pago-no-actualiza-los-impuestos-teniendo-en-cuenta-el-vendedor-correcto-al-combinar-la-informacion-del-carro",
+    "internalReference": 759842
   },
   {
     "locale": "es",
@@ -19331,6 +19331,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-checkout-nao-apresenta-clareza-sobre-divergencias-entre-o-cliente-identificado-no-carrinho-e-o-usuario-conectado-a-loja",
+    "internalReference": 442267
+  },
+  {
+    "locale": "pt",
     "slug": "o-checkout-nao-calcula-corretamente-o-valor-do-frete-para-um-unico-item-que-tenha-frete-gratuito-e-entrega-programada",
     "internalReference": 529043
   },
@@ -19358,11 +19363,6 @@
     "locale": "pt",
     "slug": "o-checkout-nao-pode-remover-o-item-de-presente-quando-nao-estiver-disponivel-apos-o-ponto-de-retirada-selecionado",
     "internalReference": 363885
-  },
-  {
-    "locale": "pt",
-    "slug": "o-checkout-nao-tem-clareza-sobre-as-divergencias-entre-o-cliente-identificado-e-o-cliente-conectado",
-    "internalReference": 442267
   },
   {
     "locale": "pt",
