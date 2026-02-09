@@ -2,8 +2,8 @@
 title: 'Checkout has no clarity about divergences between the customer identified in the cart and the user logged in to the store'
 slug: checkout-has-no-clarity-about-divergences-between-the-customer-identified-in-the-cart-and-the-user-logged-in-to-the-store
 status: PUBLISHED
-createdAt: 2026-02-06T20:34:32.870Z
-updatedAt: 2026-02-06T20:34:32.870Z
+createdAt: 2026-02-09T14:11:27.664Z
+updatedAt: 2026-02-09T14:11:27.664Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -25,7 +25,7 @@ This can lead to some unwanted behaviours, such as:
 
 1. Authenticated user adds personal information to the cart, then logs out via "My Account" or logs in with a different email, but personal information is persisted unmasked on the cart.
 
-2. Unauthenticated user with complete profile identifies themselves through email, which causes their personal information to be automatically filled and masked on the cart, then logs in with a different email but personal information is persisted masked on the cart.
+2. Unauthenticated user with complete profile identifies themselves through email, which causes their personal information to be automatically filled and masked on the cart, then logs in with a different email but personal information is persisted masked on the cart (and can't be edited)
 
 3. Personal data is updated on the user's profile through "My Account" page but this change is not reflected on existing orderForm in which this user is identified
 
@@ -46,8 +46,8 @@ This can lead to some unwanted behaviours, such as:
 
 
 - Unauthenticated, create a new cart and add email from a complete profile (personal data will be automatically filled and masked)
-- Return to the storefront, then log in with a different user
-- Go back to the cart; the previously added personal data will still be available and masked
+- Log in with a different user (especially using Google/Facebook as identity providers)
+- Go back to the cart; the previously added personal data will still be available and masked and it will not be able to edit the information
 
 **Scenario 3:**
 
@@ -65,5 +65,3 @@ This can lead to some unwanted behaviours, such as:
 Some scenarios can be handled by implementing Cart Data Clean Up on Log Out via the following documentation, using Session Watcher and the `/changeToAnonymousUser` API:
 
 https://developers.vtex.com/docs/guides/vtex-io-documentation-cleaning-cart-data-on-log-out
-
-
