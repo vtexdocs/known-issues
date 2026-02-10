@@ -2,15 +2,15 @@
 title: 'Catalog Error exporting the report'
 slug: catalog-error-exporting-the-report
 status: PUBLISHED
-createdAt: 2025-10-16T20:30:14.162Z
-updatedAt: 2025-10-16T20:30:14.162Z
+createdAt: 2026-02-10T11:11:46.761Z
+updatedAt: 2026-02-10T11:11:46.761Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: catalog-error-exporting-the-report
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1163872
 ---
 
