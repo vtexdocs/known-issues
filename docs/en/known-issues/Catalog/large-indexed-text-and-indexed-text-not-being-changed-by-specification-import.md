@@ -1,18 +1,16 @@
 ---
-title: '''Large Indexed Text'' and ''Indexed Text'' not being changed by Specification Import'
-id: 5ty5q8AfOROtCc8GegzZbd
+title: '"Large Indexed Text" and "Indexed Text" not being changed by Specification Import'
+slug: large-indexed-text-and-indexed-text-not-being-changed-by-specification-import
 status: PUBLISHED
-createdAt: 2022-04-22T17:12:36.962Z
-updatedAt: 2022-11-25T21:45:01.199Z
-publishedAt: 2022-11-25T21:45:01.199Z
-firstPublishedAt: 2022-04-22T17:12:37.634Z
+createdAt: 2026-02-10T21:04:31.140Z
+updatedAt: 2026-02-10T21:04:31.140Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: large-indexed-text-and-indexed-text-not-being-changed-by-specification-import
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 322657
 ---
 
@@ -20,14 +18,11 @@ internalReference: 322657
 
 
 
-
-
 Currently, for every product specification import type, the "`Large Indexed Text`" and "`Indexed Text`" are not recognizing changes in specification values via the Product Specification Sheet import.
 
 
 
-
-## Simulation
+#### Simulation
 
 
 1) Create a  "`Large Indexed Text`" or "`Indexed Text`" type product specification.
@@ -39,9 +34,10 @@ Currently, for every product specification import type, the "`Large Indexed Text
 
 
 
-
-## Workaround
+#### Workaround
 
 
 Using other text types, such as "`Large Text`" or "`Text`"
+
+
 
