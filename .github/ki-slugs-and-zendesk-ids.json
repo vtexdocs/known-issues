@@ -6706,6 +6706,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-stuck-in-cancelling-when-payments-are-finished",
+    "internalReference": 1363196
+  },
+  {
+    "locale": "en",
     "slug": "transaction-stuck-in-settling-after-capture-fails-due-to-recipientssplitremainvalue-mismatch",
     "internalReference": 1295769
   },
@@ -14728,6 +14733,11 @@
     "locale": "es",
     "slug": "la-transaccion-se-cancela-tras-pasar-de-autorizada-a-iniciada",
     "internalReference": 1341471
+  },
+  {
+    "locale": "es",
+    "slug": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
+    "internalReference": 1363196
   },
   {
     "locale": "es",
@@ -23638,6 +23648,11 @@
     "locale": "pt",
     "slug": "transacao-presa-em-aprovado-enquanto-o-pagamento-permanece-liquidado-ao-usar-liquidacoes-parciais",
     "internalReference": 1319395
+  },
+  {
+    "locale": "pt",
+    "slug": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos",
+    "internalReference": 1363196
   },
   {
     "locale": "pt",
