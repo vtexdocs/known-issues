@@ -1,18 +1,16 @@
 ---
 title: 'Catalog SKU Specification Export will not always export all the data if the selected category is a department'
-id: 1FrmIfWuDpbWSMvAnLuuho
+slug: catalog-sku-specification-export-will-not-always-export-all-the-data-if-the-selected-category-is-a-department
 status: PUBLISHED
-createdAt: 2023-05-30T15:36:48.918Z
-updatedAt: 2023-05-30T15:36:49.503Z
-publishedAt: 2023-05-30T15:36:49.503Z
-firstPublishedAt: 2023-05-30T15:36:49.503Z
+createdAt: 2026-02-10T11:18:00.685Z
+updatedAt: 2026-02-10T11:18:00.685Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: catalog-sku-specification-export-will-not-always-export-all-the-data-if-the-selected-category-is-a-department
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 465445
 ---
 
@@ -23,9 +21,7 @@ Catalog SKU Specification Export, will not always export all the data if selecte
 
 
 
-##
-
-## Simulation
+#### Simulation
 
 
 - Go to `admin/Site/ProdutoExportacaoImportacaoEspecificacaoSKUV2.aspx`
@@ -34,14 +30,10 @@ Catalog SKU Specification Export, will not always export all the data if selecte
 - Check data exported, the department may not include all the information.
 
 
-##
-
-## Workaround
+#### Workaround
 
 
 - Always select the innermost category from the desired department, as described on our UI.
-
-
 
 
 
