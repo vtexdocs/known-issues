@@ -2,15 +2,15 @@
 title: 'catalog Image import spreadsheet does not replace the Label'
 slug: catalog-image-import-spreadsheet-does-not-replace-the-label
 status: PUBLISHED
-createdAt: 2025-10-16T19:58:22.711Z
-updatedAt: 2025-10-16T19:58:22.711Z
+createdAt: 2026-02-10T11:07:43.263Z
+updatedAt: 2026-02-10T11:07:43.263Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: catalog-image-import-spreadsheet-does-not-replace-the-label
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1147627
 ---
 
