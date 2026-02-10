@@ -17796,11 +17796,6 @@
   },
   {
     "locale": "pt",
-    "slug": "catalog-a-planilha-de-importacao-de-imagens-nao-substitui-o-rotulo",
-    "internalReference": 1147627
-  },
-  {
-    "locale": "pt",
     "slug": "catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return",
     "internalReference": 388869
   },
@@ -17833,6 +17828,11 @@
     "locale": "pt",
     "slug": "catalog-selecionar-marca-no-catalogo-nao-funciona",
     "internalReference": 1149983
+  },
+  {
+    "locale": "pt",
+    "slug": "catalogo-a-planilha-de-importacao-de-imagens-nao-substitui-a-etiqueta",
+    "internalReference": 1147627
   },
   {
     "locale": "pt",
