@@ -10096,6 +10096,11 @@
   },
   {
     "locale": "es",
+    "slug": "texto-indexado-grande-y-texto-indexado-no-se-modifican-al-importar-especificaciones",
+    "internalReference": 322657
+  },
+  {
+    "locale": "es",
     "slug": "tiempo-de-espera-al-editar-especificaciones",
     "internalReference": 1192667
   },
@@ -18542,6 +18547,11 @@
   {
     "locale": "pt",
     "slug": "texto-grande-indexado-e-texto-indexado-nao-sendo-alterados-pela-importacao-de-especificacao",
+    "internalReference": 322657
+  },
+  {
+    "locale": "pt",
+    "slug": "texto-indexado-grande-e-texto-indexado-nao-sao-alterados-pela-importacao-de-especificacoes",
     "internalReference": 322657
   },
   {
