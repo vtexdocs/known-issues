@@ -17801,11 +17801,6 @@
   },
   {
     "locale": "pt",
-    "slug": "catalog-erro-ao-exportar-o-relatorio",
-    "internalReference": 1163872
-  },
-  {
-    "locale": "pt",
     "slug": "catalog-facelift-somente-os-itens-que-estao-dentro-do-departamento-estao-sendo-devolvidos",
     "internalReference": 1118841
   },
@@ -17833,6 +17828,11 @@
     "locale": "pt",
     "slug": "catalogo-a-planilha-de-importacao-de-imagens-nao-substitui-a-etiqueta",
     "internalReference": 1147627
+  },
+  {
+    "locale": "pt",
+    "slug": "catalogo-erro-ao-exportar-o-relatorio",
+    "internalReference": 1163872
   },
   {
     "locale": "pt",
