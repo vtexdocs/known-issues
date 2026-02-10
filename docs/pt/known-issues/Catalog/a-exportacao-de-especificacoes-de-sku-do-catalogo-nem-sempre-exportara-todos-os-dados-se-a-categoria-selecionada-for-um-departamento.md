@@ -1,34 +1,26 @@
 ---
-title: 'A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se a categoria selecionada for um departamento'
-id: 1FrmIfWuDpbWSMvAnLuuho
+title: 'A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se a categoria selecionada for um departamento.'
+slug: a-exportacao-de-especificacoes-de-sku-do-catalogo-nem-sempre-exportara-todos-os-dados-se-a-categoria-selecionada-for-um-departamento
 status: PUBLISHED
-createdAt: 2023-05-30T15:36:48.918Z
-updatedAt: 2023-05-30T15:36:49.503Z
-publishedAt: 2023-05-30T15:36:49.503Z
-firstPublishedAt: 2023-05-30T15:36:49.503Z
+createdAt: 2026-02-10T11:18:03.677Z
+updatedAt: 2026-02-10T11:18:03.677Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: catalog-sku-specification-export-will-not-always-export-all-the-data-if-the-selected-category-is-a-department
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 465445
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
-A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se for selecionado o departamento e não a subcategoria mais interna.
-
-
+## **Resumo**
 ## Simulação
 
 
-
 ## Workaround
-
-
 
