@@ -1651,6 +1651,11 @@
   },
   {
     "locale": "en",
+    "slug": "specificationcode-in-the-productspecification-export-only-shows-code-for-one-value",
+    "internalReference": 650961
+  },
+  {
+    "locale": "en",
     "slug": "stockkeepingunit-catalog-api-allows-invalid-commercial-condition-values",
     "internalReference": 769053
   },
@@ -9158,6 +9163,11 @@
     "locale": "es",
     "slug": "el-catalogo-no-elimina-los-caracteres-especiales-al-configurar-el-enlace-de-texto",
     "internalReference": 940127
+  },
+  {
+    "locale": "es",
+    "slug": "el-codigo-de-especificacion-en-la-exportacion-productspecification-solo-muestra-el-codigo-de-un-valor",
+    "internalReference": 650961
   },
   {
     "locale": "es",
@@ -18213,6 +18223,11 @@
     "locale": "pt",
     "slug": "o-catalogo-nao-remove-caracteres-especiais-ao-configurar-o-link-de-texto",
     "internalReference": 940127
+  },
+  {
+    "locale": "pt",
+    "slug": "o-codigo-de-especificacao-na-exportacao-productspecification-mostra-apenas-o-codigo-para-um-valor",
+    "internalReference": 650961
   },
   {
     "locale": "pt",
