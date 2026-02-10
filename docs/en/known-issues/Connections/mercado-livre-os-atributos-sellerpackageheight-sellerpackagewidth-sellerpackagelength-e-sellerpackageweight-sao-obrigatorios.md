@@ -2,20 +2,22 @@
 title: 'Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios.'
 slug: mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios
 status: PUBLISHED
-createdAt: 2026-01-07T14:15:19.231Z
-updatedAt: 2026-01-07T14:15:19.231Z
+createdAt: 2026-02-10T11:59:44.497Z
+updatedAt: 2026-02-10T11:59:44.497Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1325344
 ---
 
 ## Summary
 
+
+The feature is already active for all accounts
 
 Mercado Libre has made dimension attributes mandatory for ME2 items in some categories. However, this requirement may be extended to new categories without prior notice. Therefore, it's important to consider dimensions as mandatory for any product category that has ME2 delivery.
 
