@@ -2,8 +2,8 @@
 title: 'My Credits displays agent’s balance, not customer’s, during telesales impersonation'
 slug: my-credits-displays-agents-balance-not-customers-during-telesales-impersonation
 status: PUBLISHED
-createdAt: 2025-11-14T19:29:43.408Z
-updatedAt: 2025-11-14T19:29:43.408Z
+createdAt: 2026-02-12T18:02:26.826Z
+updatedAt: 2026-02-12T18:02:26.826Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
