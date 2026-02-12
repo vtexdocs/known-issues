@@ -14131,6 +14131,11 @@
   },
   {
     "locale": "es",
+    "slug": "afiliacion-creada-en-una-subcuenta-que-no-aparece-en-admin-el-nombre-de-la-afiliacion-ya-esta-en-uso-al-volver-a-intentarlo",
+    "internalReference": 1300974
+  },
+  {
+    "locale": "es",
     "slug": "al-intentar-configurar-el-antifraude-de-braspag-el-usuario-es-dirigido-a-la-pantalla-de-afiliacion-de-braspag",
     "internalReference": 334239
   },
@@ -22658,6 +22663,11 @@
     "locale": "pt",
     "slug": "adyenv2ppp-esta-exigindo-a-pspreference-para-cancelar-a-transacao",
     "internalReference": 486752
+  },
+  {
+    "locale": "pt",
+    "slug": "afiliacao-criada-em-subconta-nao-listada-no-admin-nome-da-afiliacao-ja-esta-sendo-usado-ao-tentar-novamente",
+    "internalReference": 1300974
   },
   {
     "locale": "pt",
