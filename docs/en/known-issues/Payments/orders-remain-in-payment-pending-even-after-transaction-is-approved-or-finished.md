@@ -2,8 +2,8 @@
 title: 'Orders remain in "Payment Pending" even after transaction is approved or finished'
 slug: orders-remain-in-payment-pending-even-after-transaction-is-approved-or-finished
 status: PUBLISHED
-createdAt: 2026-01-09T17:51:44.789Z
-updatedAt: 2026-01-09T17:51:44.789Z
+createdAt: 2026-02-12T18:03:37.127Z
+updatedAt: 2026-02-12T18:03:37.127Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
