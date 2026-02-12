@@ -14821,6 +14821,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
+    "internalReference": 1309418
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-siguen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-afpp",
     "internalReference": 1344361
   },
@@ -22788,6 +22793,11 @@
     "locale": "pt",
     "slug": "as-transacoes-ficam-presas-em-cancelamento-e-os-pagamentos-permanecem-em-liquidacao",
     "internalReference": 1317866
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizado",
+    "internalReference": 1309418
   },
   {
     "locale": "pt",
