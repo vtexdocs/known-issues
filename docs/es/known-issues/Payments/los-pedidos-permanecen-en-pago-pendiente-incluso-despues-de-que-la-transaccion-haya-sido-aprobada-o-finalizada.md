@@ -2,8 +2,8 @@
 title: 'Los pedidos permanecen en «Pago pendiente» incluso después de que la transacción haya sido aprobada o finalizada.'
 slug: los-pedidos-permanecen-en-pago-pendiente-incluso-despues-de-que-la-transaccion-haya-sido-aprobada-o-finalizada
 status: PUBLISHED
-createdAt: 2026-01-09T17:51:51.159Z
-updatedAt: 2026-01-09T17:51:51.159Z
+createdAt: 2026-02-12T18:03:42.966Z
+updatedAt: 2026-02-12T18:03:42.966Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
