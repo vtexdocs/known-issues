@@ -14936,6 +14936,11 @@
   },
   {
     "locale": "es",
+    "slug": "mis-creditos-muestra-el-saldo-del-agente-no-el-del-cliente-durante-la-suplantacion-de-identidad-en-las-ventas-telefonicas",
+    "internalReference": 1301293
+  },
+  {
+    "locale": "es",
     "slug": "mis-creditos-no-muestran-la-factura-de-paymentlink-aunque-el-campo-este-configurado",
     "internalReference": 546267
   },
@@ -23158,6 +23163,11 @@
     "locale": "pt",
     "slug": "meus-cartoes-nao-estao-funcionando-para-alguns-conectores-legados",
     "internalReference": 373636
+  },
+  {
+    "locale": "pt",
+    "slug": "meus-creditos-exibem-o-saldo-do-agente-nao-o-do-cliente-durante-a-representacao-de-telemarketing",
+    "internalReference": 1301293
   },
   {
     "locale": "pt",
