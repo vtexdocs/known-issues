@@ -726,7 +726,7 @@
   },
   {
     "locale": "en",
-    "slug": "catalog-indexing-report-total-section-calculation-error",
+    "slug": "catalog-indexing-report-returning-wrong-stats",
     "internalReference": 499450
   },
   {
@@ -9243,6 +9243,11 @@
     "locale": "es",
     "slug": "el-indicador-nombre-del-producto-de-xml-no-funciona-correctamente",
     "internalReference": 925965
+  },
+  {
+    "locale": "es",
+    "slug": "el-informe-de-indexacion-del-catalogo-devuelve-estadisticas-erroneas",
+    "internalReference": 499450
   },
   {
     "locale": "es",
@@ -18493,6 +18498,11 @@
     "locale": "pt",
     "slug": "recarregamento-inesperado-ao-registraratualizar-um-produto",
     "internalReference": 863542
+  },
+  {
+    "locale": "pt",
+    "slug": "relatorio-de-indexacao-do-catalogo-retornando-estatisticas-incorretas",
+    "internalReference": 499450
   },
   {
     "locale": "pt",
