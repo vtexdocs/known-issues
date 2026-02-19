@@ -2,8 +2,8 @@
 title: 'Inconsistency in single installment payment condition behavior at checkout'
 slug: inconsistency-in-single-installment-payment-condition-behavior-at-checkout
 status: PUBLISHED
-createdAt: 2026-02-19T14:16:42.031Z
-updatedAt: 2026-02-19T14:16:42.031Z
+createdAt: 2026-02-19T15:01:34.805Z
+updatedAt: 2026-02-19T15:01:34.805Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
