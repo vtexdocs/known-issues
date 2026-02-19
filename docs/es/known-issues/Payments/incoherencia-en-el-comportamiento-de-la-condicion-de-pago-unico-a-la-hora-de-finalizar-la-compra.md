@@ -2,8 +2,8 @@
 title: 'Incoherencia en el comportamiento de la condición de pago único a la hora de finalizar la compra.'
 slug: incoherencia-en-el-comportamiento-de-la-condicion-de-pago-unico-a-la-hora-de-finalizar-la-compra
 status: PUBLISHED
-createdAt: 2026-02-19T15:30:55.039Z
-updatedAt: 2026-02-19T15:30:55.039Z
+createdAt: 2026-02-19T15:43:52.495Z
+updatedAt: 2026-02-19T15:43:52.495Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
