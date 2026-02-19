@@ -2,8 +2,8 @@
 title: 'Catalog Indexing Report returning wrong stats'
 slug: catalog-indexing-report-returning-wrong-stats
 status: PUBLISHED
-createdAt: 2026-02-13T23:07:52.298Z
-updatedAt: 2026-02-13T23:07:52.298Z
+createdAt: 2026-02-19T15:36:28.142Z
+updatedAt: 2026-02-19T15:36:28.142Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,20 +16,12 @@ internalReference: 499450
 
 ## Summary
 
-
 Due to architectural changes on the product indexing workflow, the catalog indexing report ("RelatorioIndexacao.aspx") is not properly updated anymore, presenting wrong stats.
 
-
-#### Simulation
-
+## Simulation
 
 Compare the total product count across the Indexing Report, the Catalog Admin page, and the store’s search results. The values will show significant discrepancies.
 
-
-#### Workaround
-
+## Workaround
 
 Stores using the Intelligent Search can rely on the Indexing History admin page for a similar view.
-
-
-
