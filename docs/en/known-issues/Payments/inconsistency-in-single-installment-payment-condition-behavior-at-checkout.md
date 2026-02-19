@@ -2,8 +2,8 @@
 title: 'Inconsistency in single installment payment condition behavior at checkout'
 slug: inconsistency-in-single-installment-payment-condition-behavior-at-checkout
 status: PUBLISHED
-createdAt: 2025-12-17T12:51:36.128Z
-updatedAt: 2025-12-17T12:51:36.128Z
+createdAt: 2026-02-19T14:16:42.031Z
+updatedAt: 2026-02-19T14:16:42.031Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -19,7 +19,17 @@ internalReference: 605568
 
 
 When configuring payment conditions that include a single installment option, the checkout UI does not consistently reflect the installment configuration that will actually be applied by the Payments Gateway.
-In scenarios where multiple payment rules are eligible, the gateway always applies the most restrictive rule (for example, based on issuer country and/or BIN bank), regardless of the installment option selected by the shopper in the checkout UI.
+
+In scenarios where multiple payment rules are eligible, the gateway always applies the most restrictive rule, regardless of the installment option selected by the shopper in the checkout UI.
+
+The Payments Gateway considers a rule to be “more restrictive” **only** based on the following attributes:
+
+- **Issuer / issuer country**
+- **Cobrand**
+- **Card level**
+- **BIN ranges**
+- **Sales channel**
+
 As a result, the checkout UI may display installment options that do not match the rule ultimately applied, or may display only the full amount while the transaction is processed with a single-installment payment condition.
 
 Scenario 1 – Two payment conditions (single payment and single installment)
@@ -29,7 +39,13 @@ Two active payment conditions for the same payment method:
 
 Payment Condition A (Rule): Single payment (1x full amount), no restrictions
 
-Payment Condition B (Rule): Single installment (10x, non–single payment), with additional restrictions (for example, issuer country and/or BIN bank)
+Payment Condition B (Rule): Single installment (10x, non–single payment), with additional restrictions, such as:
+
+- Issuer / issuer country
+- BIN bank / BIN ranges
+- Cobrand
+- Card level
+- Sales channel
 
 Expected behavior
 
@@ -37,7 +53,7 @@ The checkout UI displays:
 
 Single installment option
 
-Regardless of the option selected in the UI (including selecting single payment), the transaction is processed using Condition B, since it is the most restrictive rule matched by the card BIN.
+Regardless of the option selected in the UI (including selecting single payment), the transaction is processed using Condition B, since it is the most restrictive rule matched by the card BIN and the other attributes listed above.
 
 This is the current and expected behavior of the Payments Gateway, as rule prioritization is based on restriction level, not on the UI selection.
 
@@ -74,4 +90,18 @@ After completing the purchase, the transaction correctly reflects the configured
 #### Workaround
 
 
-There is no workaround.
+**Scenario 1** - workaround is to align the restriction level between the single payment and the single installment conditions.
+
+Instead of having:
+
+Payment Condition A → 1x (full amount), no restrictions
+
+Payment Condition B → 10x, with additional restrictions (Issuer / issuer country, BIN bank / BIN ranges, Cobrand, Card level, Sales channel, etc.)
+
+The merchant can configure:
+
+Payment Condition A → 1x (full amount), with the same restrictions applied in Condition B
+
+Payment Condition B → 10x, with those same restrictions
+
+**Scenario 2** - There is no workaround.
