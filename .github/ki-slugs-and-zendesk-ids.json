@@ -14561,6 +14561,11 @@
   },
   {
     "locale": "es",
+    "slug": "incoherencia-en-el-comportamiento-de-la-condicion-de-pago-unico-a-la-hora-de-finalizar-la-compra",
+    "internalReference": 605568
+  },
+  {
+    "locale": "es",
     "slug": "incoherencia-en-el-comportamiento-de-la-condicion-de-pago-unico-en-la-caja",
     "internalReference": 605568
   },
