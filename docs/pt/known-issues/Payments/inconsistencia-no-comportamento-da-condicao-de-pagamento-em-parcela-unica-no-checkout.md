@@ -2,8 +2,8 @@
 title: 'Inconsistência no comportamento da condição de pagamento em parcela única no checkout'
 slug: inconsistencia-no-comportamento-da-condicao-de-pagamento-em-parcela-unica-no-checkout
 status: PUBLISHED
-createdAt: 2026-02-19T15:21:07.963Z
-updatedAt: 2026-02-19T15:21:07.963Z
+createdAt: 2026-02-19T15:30:48.264Z
+updatedAt: 2026-02-19T15:30:48.264Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -38,7 +38,7 @@ A opção de parcelamento não é exibida no menu suspenso de parcelamento do ch
 
 ## Workaround
 
-alternativa** **Cenário 1** - a solução alternativa é alinhar o nível de restrição entre as condições de pagamento único e parcelamento único.
+**Cenário 1** - a solução alternativa é alinhar o nível de restrição entre as condições de pagamento único e parcelamento único.
 
 Em vez de ter: Condição de pagamento A → 1x (valor total), sem restrições Condição de pagamento B → 10x, com restrições adicionais (emissor/país emissor, banco BIN/intervalos BIN, cobrand, nível do cartão, canal de vendas, etc.)
 
