@@ -2,8 +2,8 @@
 title: 'Inconsistency in single installment payment condition behavior at checkout'
 slug: inconsistency-in-single-installment-payment-condition-behavior-at-checkout
 status: PUBLISHED
-createdAt: 2026-02-19T15:01:34.805Z
-updatedAt: 2026-02-19T15:01:34.805Z
+createdAt: 2026-02-19T15:21:04.699Z
+updatedAt: 2026-02-19T15:21:04.699Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -15,8 +15,6 @@ internalReference: 605568
 ---
 
 ## Summary
-
-
 
 When configuring payment conditions that include a single installment option, the checkout UI does not consistently reflect the installment configuration that will actually be applied by the Payments Gateway.
 
@@ -77,18 +75,13 @@ Only the total amount (single payment) is shown to the shopper.
 
 After completing the purchase, the transaction correctly reflects the configured single-installment option.
 
-
-#### Simulation
-
-
+## Simulation
 
 - Configure payment conditions according to Scenario 1 or Scenario 2.
 - Go to the checkout page and add any product to the cart.
 - Complete the purchase and verify the payment rule applied to the transaction.
 
-
-#### Workaround
-
+## Workaround
 
 **Scenario 1** - workaround is to align the restriction level between the single payment and the single installment conditions.
 
