@@ -2,8 +2,8 @@
 title: 'Inconsistência no comportamento da condição de pagamento em parcela única no checkout'
 slug: inconsistencia-no-comportamento-da-condicao-de-pagamento-em-parcela-unica-no-checkout
 status: PUBLISHED
-createdAt: 2026-02-19T14:16:45.651Z
-updatedAt: 2026-02-19T14:16:45.651Z
+createdAt: 2026-02-19T15:01:39.666Z
+updatedAt: 2026-02-19T15:01:39.666Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
