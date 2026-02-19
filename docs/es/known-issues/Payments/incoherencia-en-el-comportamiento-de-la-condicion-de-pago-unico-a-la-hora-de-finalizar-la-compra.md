@@ -2,8 +2,8 @@
 title: 'Incoherencia en el comportamiento de la condición de pago único a la hora de finalizar la compra.'
 slug: incoherencia-en-el-comportamiento-de-la-condicion-de-pago-unico-a-la-hora-de-finalizar-la-compra
 status: PUBLISHED
-createdAt: 2026-02-19T15:21:12.008Z
-updatedAt: 2026-02-19T15:21:12.008Z
+createdAt: 2026-02-19T15:30:55.039Z
+updatedAt: 2026-02-19T15:30:55.039Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -38,7 +38,7 @@ La opción de pago a plazos no se muestra en el menú desplegable de pagos a pla
 
 ## Workaround
 
-alternativa** **Escenario 1**: la solución alternativa consiste en alinear el nivel de restricción entre las condiciones de pago único y pago único a plazos.
+**Escenario 1**: la solución alternativa consiste en alinear el nivel de restricción entre las condiciones de pago único y pago único a plazos.
 
 En lugar de tener: Condición de pago A → 1x (importe total), sin restricciones Condición de pago B → 10x, con restricciones adicionales (emisor/país emisor, rango BIN/rangos BIN, cobrand, nivel de tarjeta, canal de venta, etc.)
 
