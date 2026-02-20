@@ -12186,6 +12186,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-carrito-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-el-formulario-de-pedido",
+    "internalReference": 1127034
+  },
+  {
+    "locale": "es",
     "slug": "el-carro-faststore-fusiona-los-articulos-de-la-cadena-de-montaje",
     "internalReference": 1050068
   },
@@ -12258,11 +12263,6 @@
     "locale": "es",
     "slug": "la-aplicacion-webops-no-esta-totalmente-integrada-con-headless-cms",
     "internalReference": 1048810
-  },
-  {
-    "locale": "es",
-    "slug": "la-cesta-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-orderform",
-    "internalReference": 1127034
   },
   {
     "locale": "es",
