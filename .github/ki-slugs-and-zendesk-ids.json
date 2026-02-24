@@ -9796,6 +9796,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-colecciones-no-se-abren-en-las-subcuentas",
+    "internalReference": 649948
+  },
+  {
+    "locale": "es",
     "slug": "las-colecciones-nombradas-con-caracteres-especiales-no-se-pueden-exportar",
     "internalReference": 683343
   },
@@ -9888,11 +9893,6 @@
     "locale": "es",
     "slug": "los-caracteres-invisibles-en-los-nombres-de-categoria-provocan-errores-de-pagina-no-encontrada",
     "internalReference": 1061149
-  },
-  {
-    "locale": "es",
-    "slug": "los-cobros-no-se-abren-en-las-subcuentas",
-    "internalReference": 649948
   },
   {
     "locale": "es",
@@ -17691,13 +17691,13 @@
   },
   {
     "locale": "pt",
-    "slug": "as-cobrancas-nao-sao-abertas-em-subcontas",
-    "internalReference": 649948
+    "slug": "as-colecoes-criadas-pela-api-e-os-produtos-inseridos-pela-api-insert-sku-by-file-nao-estao-funcionando-corretamente",
+    "internalReference": 470966
   },
   {
     "locale": "pt",
-    "slug": "as-colecoes-criadas-pela-api-e-os-produtos-inseridos-pela-api-insert-sku-by-file-nao-estao-funcionando-corretamente",
-    "internalReference": 470966
+    "slug": "as-colecoes-nao-abrem-em-subcontas",
+    "internalReference": 649948
   },
   {
     "locale": "pt",
