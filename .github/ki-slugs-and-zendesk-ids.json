@@ -3126,11 +3126,6 @@
   },
   {
     "locale": "en",
-    "slug": "amazon-listing-alguns-skus-nao-sao-integrados-devido-ao-erro-no-atributo-colorvalue-field-standardizedvalues",
-    "internalReference": 1361514
-  },
-  {
-    "locale": "en",
     "slug": "amazon-listing-required-attribute-not-rendered-in-amazon-listing-ui-prevents-product-submission",
     "internalReference": 1307340
   },
@@ -11522,11 +11517,6 @@
   {
     "locale": "es",
     "slug": "amazon-listado-algunos-sku-no-estan-integrados-debido-a-un-error-en-el-campo-colorvalue-del-atributo-standardizedvalues",
-    "internalReference": 1361514
-  },
-  {
-    "locale": "es",
-    "slug": "amazon-listado-algunos-skus-no-se-integran-debido-al-error-en-el-atributo-colorvalue-del-campo-standardizedvalues",
     "internalReference": 1361514
   },
   {
@@ -20013,11 +20003,6 @@
     "locale": "pt",
     "slug": "amazon-listagem-codigo-de-devolucao-13013-impedindo-a-criacao-de-sku",
     "internalReference": 1309398
-  },
-  {
-    "locale": "pt",
-    "slug": "amazon-listing-alguns-skus-nao-sao-integrados-devido-ao-erro-no-atributo-colorvalue-field-standardizedvalues",
-    "internalReference": 1361514
   },
   {
     "locale": "pt",
