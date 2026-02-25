@@ -8261,6 +8261,11 @@
   },
   {
     "locale": "en",
+    "slug": "telesales-impersonation-fails-for-specific-customers-in-unified-profile-system-stores",
+    "internalReference": 1369897
+  },
+  {
+    "locale": "en",
     "slug": "text-in-add-to-cart-button-are-not-being-translated-using-site-editor",
     "internalReference": 1026103
   },
@@ -16521,6 +16526,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-suplantacion-de-identidad-en-las-ventas-telefonicas-falla-para-clientes-especificos-en-las-tiendas-del-sistema-de-perfiles-unificado",
+    "internalReference": 1369897
+  },
+  {
+    "locale": "es",
     "slug": "la-traduccion-automatica-de-url-no-se-produce-debido-a-caracteres-especiales",
     "internalReference": 1062858
   },
@@ -24643,6 +24653,11 @@
     "locale": "pt",
     "slug": "a-criacao-e-a-exclusao-de-um-grande-numero-de-redirecionamentos-quebram-a-pagina-de-redirecionamentos",
     "internalReference": 1010392
+  },
+  {
+    "locale": "pt",
+    "slug": "a-falsificacao-de-identidade-em-vendas-por-telefone-falha-para-clientes-especificos-em-lojas-do-sistema-de-perfil-unificado",
+    "internalReference": 1369897
   },
   {
     "locale": "pt",
