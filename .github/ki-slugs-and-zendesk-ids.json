@@ -6936,6 +6936,11 @@
   },
   {
     "locale": "en",
+    "slug": "pick-and-pack-single-order-generating-multiple-worksheets-due-to-concurrency-issue",
+    "internalReference": 1370559
+  },
+  {
+    "locale": "en",
     "slug": "pick-and-pack-worksheets-remain-open-and-cannot-be-completed",
     "internalReference": 1160144
   },
@@ -15406,6 +15411,11 @@
   },
   {
     "locale": "es",
+    "slug": "seleccionar-y-empaquetar-un-solo-pedido-genera-varias-hojas-de-calculo-debido-a-un-problema-de-concurrencia",
+    "internalReference": 1370559
+  },
+  {
+    "locale": "es",
     "slug": "autocompletar-en-la-busqueda-no-siempre-se-actualiza-cuando-se-cambia-varias-veces",
     "internalReference": 793275
   },
@@ -23843,6 +23853,11 @@
     "locale": "pt",
     "slug": "ps-somente-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa",
     "internalReference": 1218130
+  },
+  {
+    "locale": "pt",
+    "slug": "selecionar-e-embalar-pedido-unico-gerando-varias-planilhas-devido-a-um-problema-de-simultaneidade",
+    "internalReference": 1370559
   },
   {
     "locale": "pt",
