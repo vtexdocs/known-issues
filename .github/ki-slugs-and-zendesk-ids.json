@@ -3241,6 +3241,11 @@
   },
   {
     "locale": "en",
+    "slug": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
+    "internalReference": 1370670
+  },
+  {
+    "locale": "en",
     "slug": "dafiti-orders-that-are-in-awaiting-authorization-to-dispatch-at-vtex-but-are-still-paymentpending-at-dafiti",
     "internalReference": 719606
   },
@@ -11613,6 +11618,11 @@
     "locale": "es",
     "slug": "dafiti-la-actualizacion-del-seguimiento-falla-en-los-pedidos-crossdocking-debido-a-un-conflicto-de-tipo-de-entrega",
     "internalReference": 1323882
+  },
+  {
+    "locale": "es",
+    "slug": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-por-parte-del-mercado-tipo-de-imagen-no-compatible",
+    "internalReference": 1370670
   },
   {
     "locale": "es",
@@ -20113,6 +20123,11 @@
     "locale": "pt",
     "slug": "dafiti-a-atualizacao-do-rastreamento-falha-nos-pedidos-de-crossdocking-devido-a-um-conflito-de-tipo-de-entrega",
     "internalReference": 1323882
+  },
+  {
+    "locale": "pt",
+    "slug": "dafiti-urls-de-imagens-convertidas-para-webp-sao-rejeitadas-pelo-marketplace-tipo-de-imagem-nao-suportado",
+    "internalReference": 1370670
   },
   {
     "locale": "pt",
