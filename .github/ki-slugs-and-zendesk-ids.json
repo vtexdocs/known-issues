@@ -8781,6 +8781,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-al-publicar-una-version-programada-antes-de-lo-previsto-en-admin-no-se-puede-publicar-una-version-vacia",
+    "internalReference": 1346648
+  },
+  {
+    "locale": "es",
     "slug": "error-algo-ha-ido-mal-por-favor-intentelo-de-nuevo-al-anadir-imagenes-a-traves-del-editor-de-sitios",
     "internalReference": 932126
   },
@@ -17212,6 +17217,11 @@
   {
     "locale": "pt",
     "slug": "erro-ao-publicar-a-versao-agendada-antes-do-previsto-no-admin-voce-nao-pode-publicar-uma-versao-vazia",
+    "internalReference": 1346648
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-ao-publicar-uma-versao-programada-antes-do-prazo-no-admin-nao-e-possivel-publicar-uma-versao-vazia",
     "internalReference": 1346648
   },
   {
