@@ -12316,7 +12316,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-productos-cuyo-precio-de-venta-es-cero-no-se-pueden-anadir-al-carrito-en-faststore",
+    "slug": "los-productos-con-precio-de-venta-cero-no-se-pueden-anadir-al-carrito-en-faststore",
     "internalReference": 1216105
   },
   {
@@ -20796,6 +20796,11 @@
   },
   {
     "locale": "pt",
+    "slug": "os-produtos-com-preco-de-venda-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore",
+    "internalReference": 1216105
+  },
+  {
+    "locale": "pt",
     "slug": "os-scripts-gtm-nao-estao-sendo-carregados-nos-scripts-nativos-de-terceiros",
     "internalReference": 1086165
   },
@@ -20808,11 +20813,6 @@
     "locale": "pt",
     "slug": "perda-de-referencia-de-rolagem-no-faststore",
     "internalReference": 1317630
-  },
-  {
-    "locale": "pt",
-    "slug": "produtos-com-preco-de-venda-igual-a-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore",
-    "internalReference": 1216105
   },
   {
     "locale": "pt",
