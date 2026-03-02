@@ -2,8 +2,8 @@
 title: 'Secrets take hours to propagate to builds in WebOps (FastStore Platform)'
 slug: secrets-take-hours-to-propagate-to-builds-in-webops-faststore-platform
 status: PUBLISHED
-createdAt: 2026-03-02T17:52:13.122Z
-updatedAt: 2026-03-02T17:52:13.122Z
+createdAt: 2026-03-02T17:57:58.319Z
+updatedAt: 2026-03-02T17:57:58.319Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
