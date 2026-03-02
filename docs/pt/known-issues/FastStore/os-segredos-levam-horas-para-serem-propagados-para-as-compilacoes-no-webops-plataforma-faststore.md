@@ -2,8 +2,8 @@
 title: 'Os segredos levam horas para serem propagados para as compilações no WebOps (Plataforma FastStore)'
 slug: os-segredos-levam-horas-para-serem-propagados-para-as-compilacoes-no-webops-plataforma-faststore
 status: PUBLISHED
-createdAt: 2026-03-02T17:25:42.452Z
-updatedAt: 2026-03-02T17:25:42.452Z
+createdAt: 2026-03-02T17:52:16.039Z
+updatedAt: 2026-03-02T17:52:16.039Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,7 +18,7 @@ internalReference: 1371882
 
 ## Sumário
 
-Às vezes, as atualizações de segredos do WebOps levam horas para ficarem disponíveis nas compilações do FastStore, em vez dos poucos minutos esperados. O sintoma visível é que os segredos novos ou editados estão faltando na imagem/ambiente de compilação, mesmo após acionar uma nova implantação.
+Às vezes, as atualizações de segredos do WebOps levam horas para ficarem disponíveis nas compilações do FastStore, em vez dos poucos minutos esperados. O sintoma visível é que os segredos novos ou editados estão faltando na imagem/ambiente da compilação, mesmo após acionar uma nova implantação.
 
 ## Simulação
 
