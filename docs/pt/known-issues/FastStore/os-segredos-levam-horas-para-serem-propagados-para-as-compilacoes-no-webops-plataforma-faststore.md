@@ -2,8 +2,8 @@
 title: 'Os segredos levam horas para serem propagados para as compilações no WebOps (Plataforma FastStore)'
 slug: os-segredos-levam-horas-para-serem-propagados-para-as-compilacoes-no-webops-plataforma-faststore
 status: PUBLISHED
-createdAt: 2026-03-02T17:52:16.039Z
-updatedAt: 2026-03-02T17:52:16.039Z
+createdAt: 2026-03-02T17:58:03.793Z
+updatedAt: 2026-03-02T17:58:03.793Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
@@ -28,4 +28,4 @@ Etapas: 1) Em WebOps → Configurações → Variáveis e Segredos para a conta/
 
 ## Workaround
 
-Após salvar os segredos, aguarde alguns minutos e acione uma nova implantação. Se os segredos ainda estiverem faltando, abra um ticket de suporte imediatamente com: - Conta/ambiente, nomes exatos dos segredos (sem valores), data e hora de salvamento dos segredos, link de implantação e hora da compilação.
+Após salvar os segredos, aguarde alguns minutos e acione uma nova implantação. Se os segredos ainda estiverem faltando, abra imediatamente um ticket de suporte com: - Conta/ambiente, nomes exatos dos segredos (sem valores), data e hora de salvamento dos segredos, link de implantação e hora da compilação.
