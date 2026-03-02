@@ -3881,6 +3881,11 @@
   },
   {
     "locale": "en",
+    "slug": "secrets-take-hours-to-propagate-to-builds-in-webops-faststore-platform",
+    "internalReference": 1371882
+  },
+  {
+    "locale": "en",
     "slug": "sku-selector-not-choosing-correct-sku-when-having-similar-variations-with-substrings",
     "internalReference": 1047992
   },
@@ -12318,6 +12323,11 @@
     "locale": "es",
     "slug": "los-scripts-gtm-no-se-cargan-en-los-scripts-nativos-de-terceros",
     "internalReference": 1086165
+  },
+  {
+    "locale": "es",
+    "slug": "los-secretos-tardan-horas-en-propagarse-a-las-compilaciones-en-webops-plataforma-faststore",
+    "internalReference": 1371882
   },
   {
     "locale": "es",
@@ -20788,6 +20798,11 @@
     "locale": "pt",
     "slug": "os-scripts-gtm-nao-estao-sendo-carregados-nos-scripts-nativos-de-terceiros",
     "internalReference": 1086165
+  },
+  {
+    "locale": "pt",
+    "slug": "os-segredos-levam-horas-para-serem-propagados-para-as-compilacoes-no-webops-plataforma-faststore",
+    "internalReference": 1371882
   },
   {
     "locale": "pt",
