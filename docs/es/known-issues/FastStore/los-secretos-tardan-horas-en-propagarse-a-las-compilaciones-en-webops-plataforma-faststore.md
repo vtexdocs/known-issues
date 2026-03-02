@@ -2,8 +2,8 @@
 title: 'Los secretos tardan horas en propagarse a las compilaciones en WebOps (plataforma FastStore).'
 slug: los-secretos-tardan-horas-en-propagarse-a-las-compilaciones-en-webops-plataforma-faststore
 status: PUBLISHED
-createdAt: 2026-03-02T17:52:19.109Z
-updatedAt: 2026-03-02T17:52:19.109Z
+createdAt: 2026-03-02T17:58:08.423Z
+updatedAt: 2026-03-02T17:58:08.423Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
