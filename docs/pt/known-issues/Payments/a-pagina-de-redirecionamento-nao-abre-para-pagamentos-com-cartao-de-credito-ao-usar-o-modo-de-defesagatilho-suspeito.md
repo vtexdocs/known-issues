@@ -2,8 +2,8 @@
 title: 'A página de redirecionamento não abre para pagamentos com cartão de crédito ao usar o Modo de Defesa/Gatilho: suspeito'
 slug: a-pagina-de-redirecionamento-nao-abre-para-pagamentos-com-cartao-de-credito-ao-usar-o-modo-de-defesagatilho-suspeito
 status: PUBLISHED
-createdAt: 2026-03-03T15:55:39.099Z
-updatedAt: 2026-03-03T15:55:39.099Z
+createdAt: 2026-03-03T18:26:14.241Z
+updatedAt: 2026-03-03T18:26:14.241Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
