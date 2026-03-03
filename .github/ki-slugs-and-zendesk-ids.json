@@ -5691,6 +5691,11 @@
   },
   {
     "locale": "en",
+    "slug": ".md",
+    "internalReference": 887866
+  },
+  {
+    "locale": "en",
     "slug": "12-digits-cardnumber-being-accepted-in-checkout-and-causing-stuck-transactions",
     "internalReference": 452392
   },
@@ -14123,6 +14128,11 @@
     "locale": "es",
     "slug": "error-al-validar-documento-corporativo-de-mexico-en-el-checkout",
     "internalReference": 425486
+  },
+  {
+    "locale": "es",
+    "slug": ".md",
+    "internalReference": 887866
   },
   {
     "locale": "es",
@@ -22593,6 +22603,11 @@
     "locale": "pt",
     "slug": "erro-na-validacao-de-documento-corporativo-do-mexico-no-checkout",
     "internalReference": 425486
+  },
+  {
+    "locale": "pt",
+    "slug": ".md",
+    "internalReference": 887866
   },
   {
     "locale": "pt",
