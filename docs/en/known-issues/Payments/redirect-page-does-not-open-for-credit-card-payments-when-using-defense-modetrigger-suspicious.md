@@ -2,8 +2,8 @@
 title: 'Redirect page does not open for credit card payments when using Defense Mode/Trigger: suspicious'
 slug: redirect-page-does-not-open-for-credit-card-payments-when-using-defense-modetrigger-suspicious
 status: PUBLISHED
-createdAt: 2026-03-03T15:55:35.595Z
-updatedAt: 2026-03-03T15:55:35.595Z
+createdAt: 2026-03-03T18:26:10.896Z
+updatedAt: 2026-03-03T18:26:10.896Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
