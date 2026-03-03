@@ -6506,6 +6506,11 @@
   },
   {
     "locale": "en",
+    "slug": "redirect-page-does-not-open-for-credit-card-payments-when-using-defense-modetrigger-suspicious",
+    "internalReference": 887866
+  },
+  {
+    "locale": "en",
     "slug": "refund-action-logged-twice",
     "internalReference": 1099618
   },
@@ -14726,6 +14731,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensaactivador-sospechoso",
+    "internalReference": 887866
+  },
+  {
+    "locale": "es",
     "slug": "la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada",
     "internalReference": 308896
   },
@@ -22673,6 +22683,11 @@
     "locale": "pt",
     "slug": "a-pagina-de-configuracoes-do-modo-de-defesa-do-administrador-de-pagamentos-nao-carrega-permissoes-e-get-adminiframetransactionssettings-500",
     "internalReference": 1348945
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pagina-de-redirecionamento-nao-abre-para-pagamentos-com-cartao-de-credito-ao-usar-o-modo-de-defesagatilho-suspeito",
+    "internalReference": 887866
   },
   {
     "locale": "pt",
