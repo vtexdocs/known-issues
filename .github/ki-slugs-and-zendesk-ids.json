@@ -5426,6 +5426,11 @@
   },
   {
     "locale": "en",
+    "slug": "orders-that-fail-to-reach-the-invoiced-status-even-after-the-invoice-has-been-correctly-entered",
+    "internalReference": 1372902
+  },
+  {
+    "locale": "en",
     "slug": "orders-with-a-creation-error-remain-stuck-in-a-cancel-status",
     "internalReference": 1089344
   },
@@ -14021,6 +14026,11 @@
   },
   {
     "locale": "es",
+    "slug": "pedidos-que-no-alcanzan-el-estado-facturado-incluso-despues-de-que-la-factura-se-haya-introducido-correctamente",
+    "internalReference": 1372902
+  },
+  {
+    "locale": "es",
     "slug": "permitir-que-en-la-nueva-interfaz-de-administracion-de-pedidos-se-devuelvan-valores-sin-relacionar-un-articulo",
     "internalReference": 519576
   },
@@ -22513,6 +22523,11 @@
     "locale": "pt",
     "slug": "pedidos-presos-no-status-de-cancelamento-no-atendimento-mas-com-o-marketplace-cancelado",
     "internalReference": 1198719
+  },
+  {
+    "locale": "pt",
+    "slug": "pedidos-que-nao-alcancam-o-status-faturado-mesmo-apos-a-fatura-ter-sido-inserida-corretamente",
+    "internalReference": 1372902
   },
   {
     "locale": "pt",
