@@ -14746,6 +14746,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensadesencadenante-sospechoso",
+    "internalReference": 887866
+  },
+  {
+    "locale": "es",
     "slug": "la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada",
     "internalReference": 308896
   },
