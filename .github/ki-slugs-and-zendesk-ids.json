@@ -19536,6 +19536,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-comprador-e-redirecionado-para-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder",
+    "internalReference": 786685
+  },
+  {
+    "locale": "pt",
     "slug": "o-email-de-confirmacao-do-pedido-nao-esta-sendo-enviado",
     "internalReference": 423628
   },
