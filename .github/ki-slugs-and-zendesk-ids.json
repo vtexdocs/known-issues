@@ -14396,6 +14396,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-proceso-de-pago-cancela-la-transaccion-tras-su-creacion",
+    "internalReference": 1157809
+  },
+  {
+    "locale": "es",
     "slug": "el-sistema-no-funciona-con-mas-de-una-afiliacion-de-pago-de-extension-para-el-metodo-de-debito-en-linea",
     "internalReference": 319750
   },
