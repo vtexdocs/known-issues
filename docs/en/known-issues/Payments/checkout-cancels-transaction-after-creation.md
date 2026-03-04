@@ -2,21 +2,19 @@
 title: 'Checkout cancels transaction after creation'
 slug: checkout-cancels-transaction-after-creation
 status: PUBLISHED
-createdAt: 2025-11-24T14:19:17.207Z
-updatedAt: 2025-11-24T14:19:17.207Z
+createdAt: 2026-03-04T16:33:07.106Z
+updatedAt: 2026-03-04T16:33:07.106Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: checkout-cancels-transaction-after-creation
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1157809
 ---
 
 ## Summary
-
-
 
 A transaction already approved (and in some cases captured) receives a cancellation request directly from the checkout:
 
@@ -39,19 +37,10 @@ To clarify further:
 - The first call is a **POST request** to `gatewayCallback`, which occurs right after the user completes the checkout process.
 - The second call is a **GET request** to `gatewayCallback`, which is triggered during payment confirmation – this is when the shopper is redirected to the "Order Placed" screen.
 
-
-
-#### Simulation
-
+## Simulation
 
 Simulation is not possible.
 
-
-
-#### Workaround
-
+## Workaround
 
 No workaround available.
-
-
-
