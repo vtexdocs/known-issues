@@ -10176,6 +10176,11 @@
   },
   {
     "locale": "es",
+    "slug": "tiempo-de-espera-en-relatorioindexacaoaspx",
+    "internalReference": 547844
+  },
+  {
+    "locale": "es",
     "slug": "tiempo-de-espera-para-importar-sku-y-productos",
     "internalReference": 1201280
   },
@@ -18668,6 +18673,11 @@
     "locale": "pt",
     "slug": "tempo-limite-dos-filtros-do-catalogo",
     "internalReference": 922350
+  },
+  {
+    "locale": "pt",
+    "slug": "tempo-limite-em-relatorioindexacaoaspx",
+    "internalReference": 547844
   },
   {
     "locale": "pt",
