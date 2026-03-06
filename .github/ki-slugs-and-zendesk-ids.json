@@ -9886,6 +9886,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-funciones-de-usuario-de-catalogv2-no-se-aplican",
+    "internalReference": 489297
+  },
+  {
+    "locale": "es",
     "slug": "las-marcas-con-caracteres-especiales-no-se-pueden-buscar-en-el-administrador-de-marcas",
     "internalReference": 503496
   },
@@ -18173,6 +18178,11 @@
     "locale": "pt",
     "slug": "fullcleanup-pode-gerar-um-tempo-limite",
     "internalReference": 1228132
+  },
+  {
+    "locale": "pt",
+    "slug": "funcoes-do-usuario-do-catalogv2-nao-sendo-aplicadas",
+    "internalReference": 489297
   },
   {
     "locale": "pt",
