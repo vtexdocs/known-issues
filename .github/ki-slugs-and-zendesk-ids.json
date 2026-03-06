@@ -11206,6 +11206,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-gastos-de-envio-proporcionales-muestran-valores-negativos-cuando-hay-promociones-que-dividen-los-articulos-y-se-aplica-el-envio-gratuito",
+    "internalReference": 909925
+  },
+  {
+    "locale": "es",
     "slug": "los-gastos-de-envio-proporcionales-muestran-valores-negativos-cuando-hay-promociones-que-fraccionan-articulos-y-se-aplican-gastos-de-envio-gratuito",
     "internalReference": 909925
   },
@@ -19791,7 +19796,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-custos-de-frete-proporcionais-mostram-valores-negativos-quando-ha-promocoes-que-dividem-itens-e-frete-gratis-aplicado",
+    "slug": "os-custos-de-envio-proporcionais-apresentam-valores-negativos-quando-ha-promocoes-que-dividem-os-itens-e-envio-gratuito-aplicado",
     "internalReference": 909925
   },
   {
