@@ -15371,6 +15371,11 @@
   },
   {
     "locale": "es",
+    "slug": "transacciones-bloqueadas-en-autorizacion-pendiente-tras-su-aprobacion",
+    "internalReference": 1344365
+  },
+  {
+    "locale": "es",
     "slug": "transacciones-bloqueadas-en-autorizado-despues-de-la-aprobacion",
     "internalReference": 1344363
   },
@@ -23903,6 +23908,11 @@
     "locale": "pt",
     "slug": "transacoes-realizadas-em-condicoes-erradas",
     "internalReference": 392666
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-retidas-em-autorizacao-pendente-apos-aprovacao",
+    "internalReference": 1344365
   },
   {
     "locale": "pt",
