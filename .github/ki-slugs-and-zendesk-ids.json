@@ -14936,6 +14936,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-siguen-atascadas-en-analizando-el-riesgo-a-pesar-de-la-aprobacion-del-conector-antifraude-heredado",
+    "internalReference": 1344359
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-siguen-bloqueadas-a-pesar-de-la-aprobacion-del-conector",
     "internalReference": 1302349
   },
@@ -22923,6 +22928,11 @@
     "locale": "pt",
     "slug": "as-transacoes-com-o-conector-tnspay-estao-sendo-negadas-por-erro-card-not-enrolled-in-3ds",
     "internalReference": 541687
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-continuam-presas-na-fase-de-analise-de-risco-apesar-da-aprovacao-do-conector-antifraude-legado",
+    "internalReference": 1344359
   },
   {
     "locale": "pt",
