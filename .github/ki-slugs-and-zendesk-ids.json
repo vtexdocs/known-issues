@@ -14906,6 +14906,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-permanecen-bloqueadas-en-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
+    "internalReference": 1344356
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-realizadas-con-payu-no-cambian-de-estado-de-cancelacion",
     "internalReference": 338124
   },
