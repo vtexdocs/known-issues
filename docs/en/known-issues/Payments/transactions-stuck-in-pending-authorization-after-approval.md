@@ -2,20 +2,19 @@
 title: 'Transactions stuck in Pending Authorization after approval'
 slug: transactions-stuck-in-pending-authorization-after-approval
 status: PUBLISHED
-createdAt: 2025-12-26T14:53:56.723Z
-updatedAt: 2025-12-26T14:53:56.723Z
+createdAt: 2026-03-09T12:53:11.234Z
+updatedAt: 2026-03-09T12:53:11.234Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transactions-stuck-in-pending-authorization-after-approval
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1344365
 ---
 
 ## Summary
-
 
 Transactions may remain stuck in **Pending Authorization** even after all payments are successfully authorized, preventing invoicing and normal order progression. The visible symptom is the transaction not advancing to Approved despite approvals having occurred, often accompanied by duplicated or conflicting TransactionWorkFlowChangeStatus logs.
 The official documentation explains the different transaction states in more detail: Transaction Flow in Payments.
@@ -28,18 +27,10 @@ To avoid this issue is important to know that the VTEX Payment Gateway uses an i
 Connectors should not call the Gateway back during the same flow it initiated, nor assume that data is immediately available in the database. Instead, they should use GET requests to retrieve transaction or payment information, wait for the authorization process to finish before sending callbacks, and handle additional processing asynchronously after the initial request completes.
 By following this pattern, avoiding circular API calls, concurrent requests, and overlapping callbacks, connectors ensure stable integration and prevent data consistency or locking issues.
 
-
-
-#### Simulation
-
+## Simulation
 
 It's not possible to simulate.
 
-
-#### Workaround
-
+## Workaround
 
 Open a ticket for Produtc Support team
-
-
-
