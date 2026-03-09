@@ -14931,6 +14931,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-siguen-atascadas-en-analizando-el-riesgo-a-pesar-de-la-aprobacion-del-conector-afpp",
+    "internalReference": 1344361
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-siguen-bloqueadas-a-pesar-de-la-aprobacion-del-conector",
     "internalReference": 1302349
   },
@@ -22968,6 +22973,11 @@
     "locale": "pt",
     "slug": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
     "internalReference": 1344356
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-permanecem-presas-na-analise-de-risco-apesar-da-aprovacao-do-conector-afpp",
+    "internalReference": 1344361
   },
   {
     "locale": "pt",
