@@ -6736,6 +6736,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
+    "internalReference": 1376434
+  },
+  {
+    "locale": "en",
     "slug": "transaction-stuck-in-cancelling-when-payments-are-finished",
     "internalReference": 1363196
   },
@@ -15346,6 +15351,11 @@
   },
   {
     "locale": "es",
+    "slug": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-objeto",
+    "internalReference": 1376434
+  },
+  {
+    "locale": "es",
     "slug": "transaccion-bloqueada-en-liquidacion-tras-fallo-de-captura-debido-a-una-falta-de-coincidencia-de-recipientssplitremainvalue",
     "internalReference": 1295769
   },
@@ -23893,6 +23903,11 @@
     "locale": "pt",
     "slug": "transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-entre-recipientssplitremainvalue",
     "internalReference": 1295769
+  },
+  {
+    "locale": "pt",
+    "slug": "transacao-presa-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto",
+    "internalReference": 1376434
   },
   {
     "locale": "pt",
