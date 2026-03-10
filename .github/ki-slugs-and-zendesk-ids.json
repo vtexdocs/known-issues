@@ -3116,11 +3116,6 @@
   },
   {
     "locale": "en",
-    "slug": "amazon-integration-is-not-cancelling-orders-in-vtex",
-    "internalReference": 588456
-  },
-  {
-    "locale": "en",
     "slug": "amazon-integration-stock-reservations-for-kits",
     "internalReference": 829583
   },
@@ -3148,6 +3143,11 @@
     "locale": "en",
     "slug": "amazon-object-reference-not-set-to-an-instance-of-an-object",
     "internalReference": 482173
+  },
+  {
+    "locale": "en",
+    "slug": "amazon-order-cancellation-flow",
+    "internalReference": 588456
   },
   {
     "locale": "en",
@@ -11573,6 +11573,11 @@
     "locale": "es",
     "slug": "amazon-error-en-el-flujo-de-actualizacion-sku-no-se-esta-registrando-en-el-puente",
     "internalReference": 990197
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-flujo-de-cancelacion-de-pedidos",
+    "internalReference": 588456
   },
   {
     "locale": "es",
@@ -20158,6 +20163,11 @@
     "locale": "pt",
     "slug": "amazon-erro-no-fluxo-de-atualizacao-o-sku-nao-esta-sendo-registrado-na-ponte",
     "internalReference": 990197
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-fluxo-de-cancelamento-de-pedidos",
+    "internalReference": 588456
   },
   {
     "locale": "pt",
