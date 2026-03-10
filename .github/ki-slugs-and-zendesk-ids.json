@@ -4131,6 +4131,11 @@
   },
   {
     "locale": "en",
+    "slug": "explained-search-returns-results-from-main-locale-instead-of-selected-secondary-locale",
+    "internalReference": 1376133
+  },
+  {
+    "locale": "en",
     "slug": "facets-from-the-segment-affecting-breadcrumbs-page-title-and-additional-filters",
     "internalReference": 1057254
   },
@@ -12696,6 +12701,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada",
+    "internalReference": 1376133
+  },
+  {
+    "locale": "es",
     "slug": "la-busqueda-explicada-no-tiene-resultados-cuando-el-idioma-coincide-con-la-configuracion-regional-del-administrador-tambien-configurada-en-la-busqu",
     "internalReference": 830490
   },
@@ -21038,6 +21048,11 @@
     "locale": "pt",
     "slug": "a-pesquisa-de-produtos-por-campos-de-id-nao-funciona-com-caracteres-maiusculos",
     "internalReference": 1205216
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada",
+    "internalReference": 1376133
   },
   {
     "locale": "pt",
