@@ -2,8 +2,8 @@
 title: 'La API permite registrar muchos EAN en el mismo SKU.'
 slug: la-api-permite-registrar-muchos-ean-en-el-mismo-sku
 status: PUBLISHED
-createdAt: 2026-03-11T19:18:35.397Z
-updatedAt: 2026-03-11T19:18:35.397Z
+createdAt: 2026-03-11T19:19:35.020Z
+updatedAt: 2026-03-11T19:19:35.020Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
