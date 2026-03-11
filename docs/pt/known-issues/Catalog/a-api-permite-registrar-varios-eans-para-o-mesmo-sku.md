@@ -2,15 +2,15 @@
 title: 'A API permite registrar vários EANs para o mesmo SKU.'
 slug: a-api-permite-registrar-varios-eans-para-o-mesmo-sku
 status: PUBLISHED
-createdAt: 2026-03-11T19:05:13.933Z
-updatedAt: 2026-03-11T19:05:13.933Z
+createdAt: 2026-03-11T19:18:31.732Z
+updatedAt: 2026-03-11T19:18:31.732Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: api-allows-registering-many-eans-to-the-same-sku
 locale: pt
-kiStatus: No Fix
+kiStatus: Fixed
 internalReference: 286097
 ---
 
@@ -22,9 +22,9 @@ internalReference: 286097
 
 ## Simulação
 
-- crie um SKU e registre um EAN = 3. - com a API GET `https://.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit//ean`, verifique se esse valor EAN (3) é a única entrada.
+- crie um SKU e registre um EAN = 3 . - com a API GET `https://.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit//ean`, verifique se esse valor EAN (3) é a única entrada.
 - insira um novo EAN = 2 para este SKU através do POST `https://catalog.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit//ean/?an=`
-- com a API GET `https://.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit//ean`, verifique se agora o EAN é uma matriz com dois valores, em ordem alfabética {2, 3} - vá para a interface do catálogo e veja que o EAN mostrado para este SKU é 3 (o último da matriz)
+- com a API GET `https://.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit//ean`, verifique se agora o EAN é uma matriz com dois valores, em ordem alfabética {2, 3} - vá para a interface do catálogo e veja que o EAN mostrado para este SKU é 3 (o último na matriz)
 - exporte as informações do SKU e veja que o EAN exibido é 2 (o último registrado) - se você definir agora um novo EAN através da interface do catálogo, digamos “1”, ele excluirá o último EAN da matriz e incluirá esse novo valor. Portanto, a API GET retornaria {1, 2} para o nosso exemplo. Com 2 sendo exibido na interface e 1 sendo exibido nos arquivos exportados.
 
 ## Workaround
