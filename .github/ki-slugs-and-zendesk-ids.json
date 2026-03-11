@@ -15361,6 +15361,11 @@
   },
   {
     "locale": "es",
+    "slug": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-un-objeto",
+    "internalReference": 1376434
+  },
+  {
+    "locale": "es",
     "slug": "transaccion-bloqueada-en-liquidacion-tras-fallo-de-captura-debido-a-una-falta-de-coincidencia-de-recipientssplitremainvalue",
     "internalReference": 1295769
   },
@@ -23923,6 +23928,11 @@
     "locale": "pt",
     "slug": "transacao-presa-no-status-aprovado-com-pagamento-cancelado",
     "internalReference": 1046365
+  },
+  {
+    "locale": "pt",
+    "slug": "transacao-travada-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto",
+    "internalReference": 1376434
   },
   {
     "locale": "pt",
