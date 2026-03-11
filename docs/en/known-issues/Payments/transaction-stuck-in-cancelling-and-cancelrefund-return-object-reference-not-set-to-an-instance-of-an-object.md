@@ -2,8 +2,8 @@
 title: 'Transaction stuck in cancelling and cancel/refund return “Object reference not set to an instance of an object”'
 slug: transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object
 status: PUBLISHED
-createdAt: 2026-03-10T19:23:23.696Z
-updatedAt: 2026-03-10T19:23:23.696Z
+createdAt: 2026-03-11T19:53:54.277Z
+updatedAt: 2026-03-11T19:53:54.277Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -24,4 +24,7 @@ It is not possible to simulate.
 
 ## Workaround
 
-There is no workaround.
+To manually complete the post-purchase flow for a stuck transaction, execute one of the following APIs:
+
+- **Cancel the transaction:**`POST /api/pvt/transactions/{transactionId}/cancellation-request` 🔗 API reference: https://developers.vtex.com/docs/api-reference/payments-gateway-api#post-/api/pvt/transactions/-transactionId-/cancellation-request
+- **Refund the transaction**: `POST /api/pvt/transactions/{transactionId}/refunding-request` 🔗 API reference: https://developers.vtex.com/docs/api-reference/payments-gateway-api#post-/api/pvt/transactions/-transactionId-/refunding-request
