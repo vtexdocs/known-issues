@@ -2,15 +2,15 @@
 title: 'Transaction stuck in cancelling and cancel/refund return “Object reference not set to an instance of an object”'
 slug: transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object
 status: PUBLISHED
-createdAt: 2026-03-11T19:53:54.277Z
-updatedAt: 2026-03-11T19:53:54.277Z
+createdAt: 2026-03-11T19:58:54.207Z
+updatedAt: 2026-03-11T19:58:54.207Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1376434
 ---
 
