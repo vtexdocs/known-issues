@@ -561,6 +561,11 @@
   },
   {
     "locale": "en",
+    "slug": "api-allows-registering-many-eans-to-the-same-sku",
+    "internalReference": 286097
+  },
+  {
+    "locale": "en",
     "slug": "apis-who-saw-also-saw-who-saw-also-bought-who-bought-also-bought-not-always-working-as-expected",
     "internalReference": 712015
   },
@@ -9581,6 +9586,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-api-permite-registrar-muchos-ean-en-el-mismo-sku",
+    "internalReference": 286097
+  },
+  {
+    "locale": "es",
     "slug": "la-api-put-brand-no-actualiza-la-propiedad-linkid",
     "internalReference": 1222015
   },
@@ -17538,6 +17548,11 @@
     "locale": "pt",
     "slug": "a-api-insert-sku-file-nao-aceita-urls-de-servidores-que-exigem-o-cabecalho-useragent",
     "internalReference": 1069222
+  },
+  {
+    "locale": "pt",
+    "slug": "a-api-permite-registrar-varios-eans-para-o-mesmo-sku",
+    "internalReference": 286097
   },
   {
     "locale": "pt",
