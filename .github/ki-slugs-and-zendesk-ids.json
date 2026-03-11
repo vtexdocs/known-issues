@@ -3156,11 +3156,6 @@
   },
   {
     "locale": "en",
-    "slug": "amazon-order-does-not-integrate",
-    "internalReference": 1109828
-  },
-  {
-    "locale": "en",
     "slug": "amazon-order-integration-error",
     "internalReference": 557223
   },
@@ -11722,11 +11717,6 @@
   {
     "locale": "es",
     "slug": "el-pedido-de-amazon-no-se-integra-correctamente",
-    "internalReference": 1109828
-  },
-  {
-    "locale": "es",
-    "slug": "el-pedido-de-amazon-no-se-integra",
     "internalReference": 1109828
   },
   {
@@ -20597,11 +20587,6 @@
   {
     "locale": "pt",
     "slug": "o-pedido-da-amazon-nao-se-integra-corretamente",
-    "internalReference": 1109828
-  },
-  {
-    "locale": "pt",
-    "slug": "o-pedido-da-amazon-nao-se-integra",
     "internalReference": 1109828
   },
   {
