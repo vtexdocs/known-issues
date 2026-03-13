@@ -2091,6 +2091,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-ui-breaks-after-new-address-is-added-on-address-form-in-chile-b2b-stores",
+    "internalReference": 1378467
+  },
+  {
+    "locale": "en",
     "slug": "checkout-ui-changes-the-selected-address-when-more-than-1-address-available",
     "internalReference": 1138817
   },
@@ -10881,6 +10886,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-pago-deja-de-funcionar-tras-anadir-una-nueva-direccion-en-el-formulario-de-direcciones-de-las-tiendas-b2b-de-chile",
+    "internalReference": 1378467
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-pago-deselecciona-la-opcion-programar-todo-despues-de-actualizar-la-pagina",
     "internalReference": 784693
   },
@@ -18958,6 +18968,11 @@
     "locale": "pt",
     "slug": "a-interface-de-usuario-do-checkout-substitui-o-destinatario-da-remessa-quando-o-nome-e-diferente-dos-dados-do-perfil",
     "internalReference": 822670
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-checkout-apresenta-falhas-apos-a-adicao-de-um-novo-endereco-no-formulario-de-endereco-nas-lojas-b2b-do-chile",
+    "internalReference": 1378467
   },
   {
     "locale": "pt",
