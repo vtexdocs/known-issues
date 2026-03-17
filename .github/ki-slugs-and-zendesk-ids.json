@@ -15181,6 +15181,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-se-reembolsa-la-tarjeta-regalo-tras-la-cancelacion-de-la-transaccion",
+    "internalReference": 491195
+  },
+  {
+    "locale": "es",
     "slug": "nps-no-aceptamos-respuestas-con-mas-de-65536-caracteres",
     "internalReference": 317389
   },
@@ -23683,6 +23688,11 @@
     "locale": "pt",
     "slug": "o-status-na-lista-de-transacoes-nao-corresponde-ao-estado-real",
     "internalReference": 1004883
+  },
+  {
+    "locale": "pt",
+    "slug": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao",
+    "internalReference": 491195
   },
   {
     "locale": "pt",
