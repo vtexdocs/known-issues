@@ -901,6 +901,11 @@
   },
   {
     "locale": "en",
+    "slug": "coupon-not-working-with-message-coupon-has-expired",
+    "internalReference": 1379679
+  },
+  {
+    "locale": "en",
     "slug": "coupons-created-as-archived-temporarrily",
     "internalReference": 892041
   },
@@ -9233,6 +9238,11 @@
     "locale": "es",
     "slug": "el-comportamiento-de-refid-no-es-coherente-entre-la-api-y-la-interfaz-de-usuario",
     "internalReference": 910050
+  },
+  {
+    "locale": "es",
+    "slug": "el-cupon-no-funciona-y-aparece-el-mensaje-el-cupon-ha-caducado",
+    "internalReference": 1379679
   },
   {
     "locale": "es",
@@ -18458,6 +18468,11 @@
     "locale": "pt",
     "slug": "o-comportamento-do-refid-nao-e-consistente-entre-a-api-e-a-interface-do-usuario",
     "internalReference": 910050
+  },
+  {
+    "locale": "pt",
+    "slug": "o-cupom-nao-esta-funcionando-e-aparece-a-mensagem-o-cupom-expirou",
+    "internalReference": 1379679
   },
   {
     "locale": "pt",
