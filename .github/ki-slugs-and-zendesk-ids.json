@@ -6966,6 +6966,11 @@
   },
   {
     "locale": "en",
+    "slug": "sales-app-when-attempting-to-pay-with-digit-or-scan-card-the-cvv-field-cant-be-filled",
+    "internalReference": 1380651
+  },
+  {
+    "locale": "en",
     "slug": "absence-of-feedback-for-order-change-failures-in-pick-and-pack-communication-with-oms",
     "internalReference": 1275957
   },
@@ -15493,6 +15498,11 @@
     "locale": "es",
     "slug": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
     "internalReference": 1355130
+  },
+  {
+    "locale": "es",
+    "slug": "aplicacion-de-ventas-al-intentar-pagar-con-tarjeta-digital-o-escaneada-no-se-puede-rellenar-el-campo-del-cvv",
+    "internalReference": 1380651
   },
   {
     "locale": "es",
@@ -24043,6 +24053,11 @@
     "locale": "pt",
     "slug": "a-instore-nao-le-corretamente-o-registro-html-nas-informacoes-do-produto",
     "internalReference": 718136
+  },
+  {
+    "locale": "pt",
+    "slug": "aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-nao-e-possivel-preencher-o-campo-cvv",
+    "internalReference": 1380651
   },
   {
     "locale": "pt",
