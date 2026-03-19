@@ -5471,6 +5471,11 @@
   },
   {
     "locale": "en",
+    "slug": "refund-limited-incorrectly-due-to-duplicated-receipt-from-race-condition-oms-invoicerestutions",
+    "internalReference": 1380918
+  },
+  {
+    "locale": "en",
     "slug": "refund-not-triggered-after-input-invoice-due-to-inconsistent-invoicedata-oms-payments",
     "internalReference": 1351358
   },
@@ -14121,6 +14126,11 @@
   },
   {
     "locale": "es",
+    "slug": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-por-una-condicion-de-carrera-factura-omsreembolsos",
+    "internalReference": 1380918
+  },
+  {
+    "locale": "es",
     "slug": "retraso-en-la-cancelacion-del-pedido-en-marketplace",
     "internalReference": 1242813
   },
@@ -22703,6 +22713,11 @@
     "locale": "pt",
     "slug": "recurso-de-indexacao-de-ganchos-de-feed-que-ignora-eventos-nos-filtros-fromorders",
     "internalReference": 832400
+  },
+  {
+    "locale": "pt",
+    "slug": "reembolso-limitado-incorretamente-devido-a-um-recibo-duplicado-causado-por-uma-condicao-de-corrida-fatura-omsrestituicoes",
+    "internalReference": 1380918
   },
   {
     "locale": "pt",
