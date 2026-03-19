@@ -2106,6 +2106,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-ui-does-not-display-an-error-message-when-user-with-complete-profile-triggers-gift-unavailability",
+    "internalReference": 1381105
+  },
+  {
+    "locale": "en",
     "slug": "checkout-ui-goes-to-payment-with-an-incomplete-invoice-address-for-shoppers-with-complete-profile",
     "internalReference": 937615
   },
@@ -10926,6 +10931,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-pago-no-muestra-un-mensaje-de-error-cuando-un-usuario-con-el-perfil-completo-activa-la-opcion-de-que-el-regalo-no-esta-disponible",
+    "internalReference": 1381105
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-pago-no-puede-agrupar-paquetes-cuando-dos-o-mas-opciones-de-entrega-tienen-el-mismo-precio",
     "internalReference": 1105920
   },
@@ -19023,6 +19033,11 @@
     "locale": "pt",
     "slug": "a-interface-do-checkout-apresenta-falhas-apos-a-adicao-de-um-novo-endereco-no-formulario-de-endereco-nas-lojas-b2b-do-chile",
     "internalReference": 1378467
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-checkout-nao-exibe-uma-mensagem-de-erro-quando-um-usuario-com-perfil-completo-aciona-a-indisponibilidade-do-presente",
+    "internalReference": 1381105
   },
   {
     "locale": "pt",
