@@ -4086,6 +4086,11 @@
   },
   {
     "locale": "en",
+    "slug": "category-translation-fields-being-overwritten-on-catalog-graphql",
+    "internalReference": 654896
+  },
+  {
+    "locale": "en",
     "slug": "changing-synonyms-from-unidirectional-to-bidirectional-does-not-work",
     "internalReference": 1149205
   },
@@ -12911,6 +12916,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-graphql-del-catalogo",
+    "internalReference": 654896
+  },
+  {
+    "locale": "es",
     "slug": "los-filtros-de-busqueda-desaparecen-al-utilizar-el-boton-de-retroceso-despues-de-hacer-clic-en-mostrar-mas",
     "internalReference": 1341077
   },
@@ -21493,6 +21503,11 @@
     "locale": "pt",
     "slug": "os-banners-de-pesquisa-nao-seguem-o-operador-and-para-condicoes-de-acionamento",
     "internalReference": 1053614
+  },
+  {
+    "locale": "pt",
+    "slug": "os-campos-de-traducao-da-categoria-estao-sendo-sobrescritos-no-graphql-do-catalogo",
+    "internalReference": 654896
   },
   {
     "locale": "pt",
