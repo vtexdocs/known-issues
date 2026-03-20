@@ -14526,6 +14526,11 @@
   },
   {
     "locale": "es",
+    "slug": "en-la-pagina-de-tarjetas-regalo-del-administrador-del-catalogo-heredado-aparece-el-mensaje-ha-ocurrido-un-error-para-determinados-usuarios",
+    "internalReference": 1373636
+  },
+  {
+    "locale": "es",
     "slug": "en-payout-split-no-se-envia-el-objeto-recipiens-en-el-metodo-de-pago-apple-pay",
     "internalReference": 1094952
   },
@@ -22928,6 +22933,11 @@
     "locale": "pt",
     "slug": "a-opcao-salvar-novo-cartao-nao-funciona-para-provedores-de-pagamento-assincronos",
     "internalReference": 308892
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pagina-de-cartoespresente-do-administrador-do-catalogo-legado-exibe-a-mensagem-ocorreu-um-erro-para-usuarios-especificos",
+    "internalReference": 1373636
   },
   {
     "locale": "pt",
