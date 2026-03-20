@@ -6751,6 +6751,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-stuck-in-approved-while-payment-remains-finished-or-settling",
+    "internalReference": 1381639
+  },
+  {
+    "locale": "en",
     "slug": "transaction-stuck-in-approved-while-payment-remains-settling-when-using-partial-settlements",
     "internalReference": 1319395
   },
@@ -14921,6 +14926,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-transaccion-se-ha-quedado-bloqueada-en-aprobada-mientras-que-el-pago-sigue-en-estado-finalizado-o-en-liquidacion",
+    "internalReference": 1381639
+  },
+  {
+    "locale": "es",
     "slug": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
     "internalReference": 1363196
   },
@@ -22968,6 +22978,11 @@
     "locale": "pt",
     "slug": "a-transacao-e-cancelada-apos-ser-revertida-de-autorizada-para-iniciada",
     "internalReference": 1341471
+  },
+  {
+    "locale": "pt",
+    "slug": "a-transacao-esta-parada-na-etapa-aprovada-enquanto-o-pagamento-continua-como-concluido-ou-em-liquidacao",
+    "internalReference": 1381639
   },
   {
     "locale": "pt",
