@@ -13266,6 +13266,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-usuario-de-shipping-simulator-muestra-valores-vacios-en-los-campos-rango-de-codigos-postales-y-rango-de-peso-para-las-referencias-de-los-kits",
+    "internalReference": 1382356
+  },
+  {
+    "locale": "es",
     "slug": "la-oferta-de-sla-fluctua-entre-diferentes-politicas-de-envio-debido-al-cache-en-la-fecha-estimada-de-30-segundos",
     "internalReference": 1036916
   },
