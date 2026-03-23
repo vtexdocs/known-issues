@@ -4781,6 +4781,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-simulator-ui-returns-empty-postal-code-range-weight-range-for-kits-skus",
+    "internalReference": 1382356
+  },
+  {
+    "locale": "en",
     "slug": "shipping-strategy-stuck-in-processing-due-to-extremely-large-weightrange-combinations-logistics-shipping-spreadsheets",
     "internalReference": 1304893
   },
@@ -21743,6 +21748,11 @@
     "locale": "pt",
     "slug": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-sku-muito-grande-statuscode-429",
     "internalReference": 1178575
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-shipping-simulator-exibe-valores-nulos-nos-campos-intervalo-de-cep-e-intervalo-de-peso-para-as-skus-dos-kits",
+    "internalReference": 1382356
   },
   {
     "locale": "pt",
