@@ -9906,13 +9906,13 @@
   },
   {
     "locale": "es",
-    "slug": "las-colecciones-no-se-abren-en-las-subcuentas",
-    "internalReference": 649948
+    "slug": "las-colecciones-cuyos-nombres-contengan-caracteres-especiales-no-se-pueden-exportar",
+    "internalReference": 683343
   },
   {
     "locale": "es",
-    "slug": "las-colecciones-nombradas-con-caracteres-especiales-no-se-pueden-exportar",
-    "internalReference": 683343
+    "slug": "las-colecciones-no-se-abren-en-las-subcuentas",
+    "internalReference": 649948
   },
   {
     "locale": "es",
@@ -17971,11 +17971,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-colecoes-nomeadas-com-caracteres-especiais-nao-podem-ser-exportadas",
-    "internalReference": 683343
-  },
-  {
-    "locale": "pt",
     "slug": "as-configuracoes-do-cms-loyalty-value-nao-estao-funcionando",
     "internalReference": 726849
   },
@@ -18188,6 +18183,11 @@
     "locale": "pt",
     "slug": "colecoes-barra-de-pesquisa-problema-pesquisar-produtos-no-catalogo",
     "internalReference": 1169998
+  },
+  {
+    "locale": "pt",
+    "slug": "colecoes-com-nomes-que-contenham-caracteres-especiais-nao-podem-ser-exportadas",
+    "internalReference": 683343
   },
   {
     "locale": "pt",
