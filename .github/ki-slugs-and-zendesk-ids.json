@@ -3331,6 +3331,11 @@
   },
   {
     "locale": "en",
+    "slug": "fbe-plppdp-images-intermittently-fail-to-load-when-meta-facebook-business-extension-fbe-is-enabled",
+    "internalReference": 1382819
+  },
+  {
+    "locale": "en",
     "slug": "findmarketplaces-error-5xx-sorry-something-went-wrong-on-our-side",
     "internalReference": 1235339
   },
@@ -20483,6 +20488,11 @@
     "locale": "pt",
     "slug": "falta-integracao-meli-faturamentoadereco",
     "internalReference": 771418
+  },
+  {
+    "locale": "pt",
+    "slug": "fbe-as-imagens-do-plppdp-nao-carregam-ocasionalmente-quando-a-meta-facebook-business-extension-fbe-esta-ativada",
+    "internalReference": 1382819
   },
   {
     "locale": "pt",
