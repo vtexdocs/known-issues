@@ -2,8 +2,8 @@
 title: 'A ação “Novo usuário” está desativada em “Minha organização” no domínio público'
 slug: a-acao-novo-usuario-esta-desativada-em-minha-organizacao-no-dominio-publico
 status: PUBLISHED
-createdAt: 2026-03-25T19:04:57.926Z
-updatedAt: 2026-03-25T19:04:57.926Z
+createdAt: 2026-03-25T20:05:51.136Z
+updatedAt: 2026-03-25T20:05:51.136Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,12 +18,15 @@ internalReference: 1383616
 
 ## Sumário
 
-Os usuários administradores não conseguem adicionar novos membros a partir do domínio público da loja virtual em Minha conta > Minha organização, pois o botão “NOVO” permanece desativado, enquanto a mesma ação funciona no domínio myvtex. O sintoma visível é um botão “NOVO” desativado no subdomínio público para todos os usuários, mesmo aqueles que possuem as seguintes permissões na organização:
+** **
+Na versão mais recente do aplicativo `vtex.b2b-organizations` (v3.x), os usuários não conseguem adicionar novos membros a partir do domínio público da loja virtual em Minha conta > Minha organização, pois o botão “NOVO” permanece desativado, enquanto a mesma ação funciona no domínio myvtex. O sintoma visível é um botão “NOVO” desativado no subdomínio público para todos os usuários, mesmo aqueles que possuem as seguintes permissões na organização:
 
 `"add-users-organization",`
 `"remove-users-organization"`
 
 ## Simulação
+
+** **
 
 - Acesse a loja pelo domínio público e faça login como um usuário com as permissões `"add-users-organization"` e `"remove-users-organization"` para uma determinada organização
 - Navegue até Minha conta > Minha organização > Usuários.
