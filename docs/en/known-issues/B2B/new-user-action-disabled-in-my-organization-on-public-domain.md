@@ -2,8 +2,8 @@
 title: '“New user” action disabled in My Organization on public domain'
 slug: new-user-action-disabled-in-my-organization-on-public-domain
 status: PUBLISHED
-createdAt: 2026-03-25T19:04:54.531Z
-updatedAt: 2026-03-25T19:04:54.531Z
+createdAt: 2026-03-25T20:05:46.710Z
+updatedAt: 2026-03-25T20:05:46.710Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,12 +16,15 @@ internalReference: 1383616
 
 ## Summary
 
-Admin users cannot add new members from the public storefront domain in My Account > My Organization because the “NEW” button remains disabled, while the same action works on the myvtex domain. The visible symptom is a disabled “NEW” button on the public subdomain for all users, even those who have the following permissions on the organization:
+** **
+On the most recent version of the `vtex.b2b-organizations` app (v3.x), users cannot add new members from the public storefront domain in My Account > My Organization because the “NEW” button remains disabled, while the same action works on the myvtex domain. The visible symptom is a disabled “NEW” button on the public subdomain for all users, even those who have the following permissions on the organization:
 
 `"add-users-organization",`
 `"remove-users-organization"`
 
 ## Simulation
+
+** **
 
 - Access the store via the public domain and log in as a user with permissions `"add-users-organization"` and `"remove-users-organization"` for a given organization
 - Navigate to My Account > My Organization > Users.
