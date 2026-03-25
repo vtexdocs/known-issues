@@ -1491,6 +1491,11 @@
   },
   {
     "locale": "en",
+    "slug": "publish-button-intermittently-unresponsive-in-seller-portal-product-creationupdate",
+    "internalReference": 1383511
+  },
+  {
+    "locale": "en",
     "slug": "put-brand-api-does-not-update-linkid-property",
     "internalReference": 1222015
   },
@@ -9208,6 +9213,11 @@
     "locale": "es",
     "slug": "el-boton-eliminar-de-la-interfaz-de-usuario-del-catalogo-heredado-no-funciona",
     "internalReference": 326408
+  },
+  {
+    "locale": "es",
+    "slug": "el-boton-publicar-no-responde-de-forma-intermitente-al-crear-o-actualizar-productos-en-el-portal-del-vendedor",
+    "internalReference": 1383511
   },
   {
     "locale": "es",
@@ -18513,6 +18523,11 @@
     "locale": "pt",
     "slug": "o-botao-excluir-da-interface-do-usuario-do-catalogo-legado-nao-funciona",
     "internalReference": 326408
+  },
+  {
+    "locale": "pt",
+    "slug": "o-botao-publicar-nao-responde-ocasionalmente-durante-a-criacaoatualizacao-de-produtos-no-portal-do-vendedor",
+    "internalReference": 1383511
   },
   {
     "locale": "pt",
