@@ -261,6 +261,11 @@
   },
   {
     "locale": "en",
+    "slug": "new-user-action-disabled-in-my-organization-on-public-domain",
+    "internalReference": 1383616
+  },
+  {
+    "locale": "en",
     "slug": "nonresponsive-b2b-components-cause-layout-and-usability-issues-on-mobile",
     "internalReference": 1357293
   },
@@ -2498,6 +2503,11 @@
     "locale": "en",
     "slug": "new-subscription-orders-arent-created-with-saved-credit-card-and-savepersonaldataasoptin",
     "internalReference": 1087876
+  },
+  {
+    "locale": "en",
+    "slug": "new-user-action-disabled-in-my-organization-on-public-domain",
+    "internalReference": 1383616
   },
   {
     "locale": "en",
@@ -8656,6 +8666,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-accion-nuevo-usuario-esta-desactivada-en-mi-organizacion-en-el-dominio-publico",
+    "internalReference": 1383616
+  },
+  {
+    "locale": "es",
     "slug": "la-aplicacion-storefront-permissions-establece-documenttype-como-cpf",
     "internalReference": 798330
   },
@@ -10818,6 +10833,11 @@
     "locale": "es",
     "slug": "itemvalue-del-carrito-es-enviado-incorrectamente-por-el-checkout-en-additionaldata",
     "internalReference": 640386
+  },
+  {
+    "locale": "es",
+    "slug": "la-accion-nuevo-usuario-esta-desactivada-en-mi-organizacion-en-el-dominio-publico",
+    "internalReference": 1383616
   },
   {
     "locale": "es",
@@ -17201,6 +17221,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-acao-novo-usuario-esta-desativada-em-minha-organizacao-no-dominio-publico",
+    "internalReference": 1383616
+  },
+  {
+    "locale": "pt",
     "slug": "a-b2b-quotes-nao-aplica-o-desconto-no-checkout-no-dominio-do-site",
     "internalReference": 849080
   },
@@ -18963,6 +18988,11 @@
     "locale": "pt",
     "slug": "xmlaspx-timeout",
     "internalReference": 384719
+  },
+  {
+    "locale": "pt",
+    "slug": "a-acao-novo-usuario-esta-desativada-em-minha-organizacao-no-dominio-publico",
+    "internalReference": 1383616
   },
   {
     "locale": "pt",
