@@ -11676,6 +11676,11 @@
   },
   {
     "locale": "es",
+    "slug": "amazon-ficha-de-producto-el-codigo-de-devolucion-n-13013-impide-la-creacion-del-sku",
+    "internalReference": 1309398
+  },
+  {
+    "locale": "es",
     "slug": "amazon-flujo-de-cancelacion-de-pedidos",
     "internalReference": 588456
   },
@@ -20333,6 +20338,11 @@
     "locale": "pt",
     "slug": "amazon-a-interface-do-usuario-de-listagem-nao-habilita-salvar-e-enviar-e-bloqueia-a-publicacao-de-sku-para-o-tipo-de-produto-vitamina",
     "internalReference": 1347282
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-anuncio-o-codigo-de-retorno-13013-esta-impedindo-a-criacao-do-sku",
+    "internalReference": 1309398
   },
   {
     "locale": "pt",
