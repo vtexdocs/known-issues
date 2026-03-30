@@ -1,27 +1,24 @@
 ---
-title: 'Amazon Listing Returns Code'
+title: 'Amazon Listing Returns Code #13013 preventing SKU creation'
 slug: amazon-listing-returns-code-13013-preventing-sku-creation
 status: PUBLISHED
-createdAt: 2025-10-17T12:08:29.332Z
-updatedAt: 2025-10-17T12:08:29.332Z
+createdAt: 2026-03-30T14:32:15.866Z
+updatedAt: 2026-03-30T14:32:15.866Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: amazon-listing-returns-code-13013-preventing-sku-creation
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1309398
 ---
 
 ## Summary
 
-
 Some merchants are facing Amazon error Code #13013 when attempting to list products via the VTEX Amazon connector. The visible symptom is that affected SKUs fail to be created/associated in Amazon, and listings remain in error in Bridge/Listing. Reports span multiple accounts and SKUs.
 
-
-#### Simulation
-
+## Simulation
 
 VTEX account connected to Amazon marketplace and attempting to list products via Amazon Listing/Bridge.
 
@@ -31,10 +28,7 @@ VTEX account connected to Amazon marketplace and attempting to list products via
 
 
     [Code #13013] Seu SKU não pode ser adicionado porque o produto não está no catálogo ou foi excluído. Verifique os dados do produto, corrija os erros e reenvie com o UPC/GTIN original em vez de um ASIN sugerido. Se você estiver publicando um produto em outro site da Amazon, talvez sejam necessárias algumas horas para que o anúncio esteja disponível. Verifique se há progresso ou problemas em sua conta de vendedor.
-#### Workaround
 
+## Workaround
 
 Is there a workaround for this bug? If yes, describe it here. If not, write "N/A" or "There is no workaround available.". Do not remove this section if there is no workaround, please.
-
-
-
