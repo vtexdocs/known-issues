@@ -7741,6 +7741,11 @@
   },
   {
     "locale": "en",
+    "slug": "crm-ui-relationship-field-search-fails-when-related-field-is-auto-increment",
+    "internalReference": 1386097
+  },
+  {
+    "locale": "en",
     "slug": "data-visualization-inconsistencies-on-masterdata-ui",
     "internalReference": 1107262
   },
@@ -16426,6 +16431,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-busqueda-en-el-campo-de-relacion-de-la-interfaz-de-usuario-de-crm-falla-cuando-el-campo-relacionado-es-de-autoincremento",
+    "internalReference": 1386097
+  },
+  {
+    "locale": "es",
     "slug": "la-busqueda-no-devuelve-el-documento-cuando-el-valor-contiene-un-simbolo-mas",
     "internalReference": 828170
   },
@@ -24978,6 +24988,11 @@
     "locale": "pt",
     "slug": "a-pesquisa-nao-retorna-o-documento-quando-o-valor-contem-um-simbolo-mais",
     "internalReference": 828170
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pesquisa-no-campo-de-relacao-da-interface-do-usuario-do-crm-falha-quando-o-campo-relacionado-e-de-incremento-automatico",
+    "internalReference": 1386097
   },
   {
     "locale": "pt",
