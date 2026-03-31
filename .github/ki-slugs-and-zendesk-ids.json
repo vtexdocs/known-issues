@@ -2771,6 +2771,11 @@
   },
   {
     "locale": "en",
+    "slug": "race-condition-with-get-orderform-when-user-is-authenticated-and-email-is-null",
+    "internalReference": 1386397
+  },
+  {
+    "locale": "en",
     "slug": "region-api-returns-seller-list-due-to-cache",
     "internalReference": 969692
   },
@@ -10523,6 +10528,11 @@
     "locale": "es",
     "slug": "comportamiento-erroneo-de-la-mutacion-addtocart-de-checkout-graphql-al-enviar-las-opciones-de-los-articulos-ya-anadidos",
     "internalReference": 452053
+  },
+  {
+    "locale": "es",
+    "slug": "condicion-de-carrera-con-get-orderform-cuando-el-usuario-esta-autenticado-y-el-correo-electronico-es-nulo",
+    "internalReference": 1386397
   },
   {
     "locale": "es",
@@ -19503,6 +19513,11 @@
     "locale": "pt",
     "slug": "compradores-que-nao-conseguem-acessar-a-etapa-de-pagamento-diretamente-com-um-perfil-completo-e-opcao-de-retirada-disponivel",
     "internalReference": 1243953
+  },
+  {
+    "locale": "pt",
+    "slug": "condicao-de-corrida-com-get-orderform-quando-o-usuario-esta-autenticado-e-o-email-e-nulo",
+    "internalReference": 1386397
   },
   {
     "locale": "pt",
