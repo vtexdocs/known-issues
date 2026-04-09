@@ -4131,6 +4131,11 @@
   },
   {
     "locale": "en",
+    "slug": "collection-title-is-not-displayed-when-accessing-through-mapproductclusterids-query-in-multilanguage-accounts",
+    "internalReference": 1390606
+  },
+  {
+    "locale": "en",
     "slug": "conflict-between-specifications-with-the-same-name-at-the-intelligent-search",
     "internalReference": 933958
   },
@@ -12743,6 +12748,11 @@
     "locale": "es",
     "slug": "el-titulo-de-busqueda-de-la-coleccion-no-muestra-los-acentos-cuando-se-accede-a-traves-de-mapproductclusternames",
     "internalReference": 439856
+  },
+  {
+    "locale": "es",
+    "slug": "el-titulo-de-la-coleccion-no-se-muestra-al-acceder-a-traves-de-la-consulta-mapproductclusterids-en-cuentas-multilingues",
+    "internalReference": 1390606
   },
   {
     "locale": "es",
@@ -21623,6 +21633,11 @@
     "locale": "pt",
     "slug": "o-seletor-sku-detach-lista-as-especificacoes-do-produto-nas-configuracoes-de-pesquisa",
     "internalReference": 1338042
+  },
+  {
+    "locale": "pt",
+    "slug": "o-titulo-da-colecao-nao-e-exibido-ao-acessar-por-meio-da-consulta-mapproductclusterids-em-contas-multilingues",
+    "internalReference": 1390606
   },
   {
     "locale": "pt",
