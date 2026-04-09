@@ -10816,6 +10816,11 @@
   },
   {
     "locale": "es",
+    "slug": "errores-al-anadir-una-opcion-de-montaje-no-disponible",
+    "internalReference": 1308431
+  },
+  {
+    "locale": "es",
     "slug": "falta-de-respuesta-al-seleccionar-articulos-de-regalo-que-no-estan-disponibles",
     "internalReference": 648767
   },
@@ -19588,6 +19593,11 @@
     "locale": "pt",
     "slug": "erro-no-campo-de-quantidade-maxima-da-mesma-sku-no-carrinho",
     "internalReference": 587394
+  },
+  {
+    "locale": "pt",
+    "slug": "erros-no-carrinho-ao-adicionar-uma-opcao-de-montagem-indisponivel",
+    "internalReference": 1308431
   },
   {
     "locale": "pt",
