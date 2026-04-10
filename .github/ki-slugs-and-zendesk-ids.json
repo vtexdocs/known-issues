@@ -3751,6 +3751,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-freight-value-mismatch-on-seller-logistics-orders",
+    "internalReference": 1391278
+  },
+  {
+    "locale": "en",
     "slug": "shopee-sku-disabled-in-marketplace-shopeeskuhelper-sku-update-failed",
     "internalReference": 685137
   },
@@ -12293,6 +12298,11 @@
     "locale": "es",
     "slug": "shopee-atributo-de-marca-no-enviado-o-sobrescrito-durante-la-sincronizacion-del-producto",
     "internalReference": 1323634
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-discrepancia-en-el-importe-de-los-gastos-de-envio-en-los-pedidos-gestionados-por-el-vendedor",
+    "internalReference": 1391278
   },
   {
     "locale": "es",
@@ -20953,6 +20963,11 @@
     "locale": "pt",
     "slug": "shopee-atributo-de-marca-nao-enviado-ou-sobrescrito-durante-a-sincronizacao-do-produto",
     "internalReference": 1323634
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-discrepancia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor",
+    "internalReference": 1391278
   },
   {
     "locale": "pt",
