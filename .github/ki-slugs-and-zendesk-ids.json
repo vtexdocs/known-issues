@@ -23256,6 +23256,11 @@
   },
   {
     "locale": "pt",
+    "slug": "as-transacoes-continuam-bloqueadas-apesar-da-aprovacao-do-conector",
+    "internalReference": 1302349
+  },
+  {
+    "locale": "pt",
     "slug": "as-transacoes-continuam-presas-na-fase-de-analise-de-risco-apesar-da-aprovacao-do-conector-antifraude-legado",
     "internalReference": 1344359
   },
