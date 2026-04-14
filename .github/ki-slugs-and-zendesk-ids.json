@@ -12786,6 +12786,11 @@
   },
   {
     "locale": "es",
+    "slug": "es-posible-que-los-resultados-de-la-busqueda-no-muestren-productos-de-los-sinonimos",
+    "internalReference": 1094028
+  },
+  {
+    "locale": "es",
     "slug": "especificaciones-con-el-mismo-nombre-que-afectan-a-la-visibilidad-del-filtro-en-la-busqueda-inteligente",
     "internalReference": 1078576
   },
