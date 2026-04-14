@@ -2,20 +2,19 @@
 title: 'Transactions remain stuck despite connector approval'
 slug: transactions-remain-stuck-despite-connector-approval
 status: PUBLISHED
-createdAt: 2026-01-12T20:35:37.559Z
-updatedAt: 2026-01-12T20:35:37.559Z
+createdAt: 2026-04-14T12:27:03.790Z
+updatedAt: 2026-04-14T12:27:03.790Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transactions-remain-stuck-despite-connector-approval
 locale: en
-kiStatus: Backlog
+kiStatus: Scheduled
 internalReference: 1302349
 ---
 
 ## Summary
-
 
 In some cases, the **Transaction Worker** fails to advance the transaction to the expected status, even after receiving a successful response (**200 OK** with status `"approved"`) from the connector. As a result, transactions may remain stuck in **Pending Authorization**, **Authorized**, or **Analyzing Risk**, and the corresponding orders stay in **Payment Pending**. This behavior can occur when the connector correctly returns an approved response, but the internal process that updates the transaction status does not execute properly.
 
@@ -28,15 +27,11 @@ In some cases, the **Transaction Worker** fails to advance the transaction to th
 
 The text above reflects the original consolidated description used before this split and should be read as the **umbrella/root KI** for these four derived KIs.
 
-
-#### Simulation
-
+## Simulation
 
 It is not possible to simulate.
 
-
-#### Workaround
-
+## Workaround
 
 The workaround depends on the current transaction status:
 
@@ -45,6 +40,3 @@ The workaround depends on the current transaction status:
 - Scenario 2 – Transaction stuck in Authorized
 - Scenario 3 – Transaction stuck in Analyzing Risk
 For scenarios 2 and 3, it is necessary to open a ticket for Product.
-
-
-
