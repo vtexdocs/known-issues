@@ -2,8 +2,8 @@
 title: 'Os resultados da pesquisa podem não exibir produtos dos sinônimos'
 slug: os-resultados-da-pesquisa-podem-nao-exibir-produtos-dos-sinonimos
 status: PUBLISHED
-createdAt: 2025-10-09T12:51:32.196Z
-updatedAt: 2025-10-09T12:51:32.196Z
+createdAt: 2026-04-14T19:22:41.321Z
+updatedAt: 2026-04-14T19:22:41.321Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,29 +18,26 @@ internalReference: 1094028
 
 ## Sumário
 
-
-Ao pesquisar produtos de um termo que tem sinônimos, o Intelligent Search pode não recuperar os produtos dos sinônimos.
+Ao pesquisar produtos a partir de um termo que possui sinônimos, a Pesquisa Inteligente pode não recuperar os produtos associados aos sinônimos.
 
 Esse comportamento ocorre porque os produtos associados ao sinônimo não foram reindexados para serem vinculados a um produto após a adição ou atualização de um sinônimo. Isso é causado pela perda da notificação de reindexação durante o processo.
+
 ## Simulação
 
+Para confirmar se esse problema está ocorrendo, observe as seguintes evidências:
 
-Para garantir que esse problema esteja ocorrendo, esteja ciente das seguintes evidências:
+1 - O número de resultados difere entre si.
 
-1 - O número de resultados é diferente um do outro.
+- Em **Admin > Loja > Pesquisa Inteligente > Sinônimos**, crie ou atualize um sinônimo unidirecional.
+- Em seguida, em **Admin > Loja > Pesquisa Inteligente >  Pesquisa Explicada**, compare os resultados ao pesquisar o termo original e o sinônimo.
+- Ao comparar os resultados, os resultados da pesquisa pelo sinônimo não incluem todos os produtos encontrados na pesquisa pelo termo específico original.
 
-- Em **Admin > Storefront > Intelligent Search > Synonyms**, crie ou atualize um sinônimo unidirecional.
-- Em seguida, em **Admin > Storefront > Intelligent Search > Explained Search**, compare os resultados ao pesquisar o termo original e o sinônimo.
-- Ao comparar os resultados, os resultados ao pesquisar o sinônimo não incluem todos os produtos ao pesquisar o termo específico original.
-
-2 - A data da última reindexação de um produto é mais antiga do que a data de criação do sinônimo.
+2 - A data da última reindexação de um produto é anterior à data de criação do sinônimo.
 
 - Escolha um produto do termo original que não apareça ao pesquisar usando o sinônimo.
-- Compare as datas entre a data da última reindexação do produto (**Admin > Storefront > Intelligent Search > Histórico de indexação**) e a data de criação/atualização do sinônimo (**Admin > Storefront > Intelligent Search > Sinônimos**).
-- Se a data da última reindexação de um produto for mais antiga do que a data de criação do sinônimo, então esse caso pode se encaixar nesse KI
+- Compare as datas entre a última data de reindexação do produto (**Admin > Loja > Pesquisa Inteligente >  Histórico de indexação**) e a data de criação/atualização do sinônimo (**Admin > Loja > Pesquisa Inteligente > Sinônimos**).
+- Se a data da última reindexação de um produto for anterior à data de criação do sinônimo, então este caso se enquadra neste KI.
+
 ## Workaround
 
-
-Abra um tíquete para a equipe de CX com as informações de evidência para que possamos reindexar os produtos afetados.
-
-
+Abra um ticket para a equipe de CX com as informações comprovativas para que possamos reindexar os produtos afetados.
