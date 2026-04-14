@@ -2,8 +2,8 @@
 title: 'Search results may not display products from the synonyms'
 slug: search-results-may-not-display-products-from-the-synonyms
 status: PUBLISHED
-createdAt: 2025-10-09T12:51:37.308Z
-updatedAt: 2025-10-09T12:51:37.308Z
+createdAt: 2026-04-14T19:22:38.216Z
+updatedAt: 2026-04-14T19:22:38.216Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,14 +16,11 @@ internalReference: 1094028
 
 ## Summary
 
-
 When searching for products from a term that has synonyms, Intelligent Search may not retrieve the products from the synonyms.
 
 This behavior happens because products associated with the synonym did not reindex to be linked to a product after adding or updating a synonym. It is caused by the re-index notification being lost in the process.
 
-
-#### Simulation
-
+## Simulation
 
 To ensure that this issue is happening, be aware of the following evidence:
 
@@ -39,10 +36,6 @@ To ensure that this issue is happening, be aware of the following evidence:
 - Compare the dates between the last re-index date of the product (**Admin > Storefront > Intelligent Search >  Indexing history** ) and the creation/update date of the synonym (**Admin > Storefront > Intelligent Search > Synonyms**).
 - If the last re-index date of a product is older than the date of the synonym creation, then this case can fit with this KI.
 
-
-#### Workaround
-
+## Workaround
 
 Open a ticket to the CX team with the evidence information so that we can re-index the affected products.
-
-
