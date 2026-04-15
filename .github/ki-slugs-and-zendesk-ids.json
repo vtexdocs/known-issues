@@ -15031,6 +15031,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-transaccion-se-esta-liquidando-mientras-que-el-pago-con-tarjeta-regalo-permanece-en-estado-autorizado-tras-un-error-de-liquidacion-automatica",
+    "internalReference": 1201336
+  },
+  {
+    "locale": "es",
     "slug": "la-transaccion-se-ha-quedado-bloqueada-en-aprobada-mientras-que-el-pago-sigue-en-estado-finalizado-o-en-liquidacion",
     "internalReference": 1381639
   },
@@ -23148,6 +23153,11 @@
     "locale": "pt",
     "slug": "a-transacao-esta-parada-na-etapa-aprovada-enquanto-o-pagamento-continua-como-concluido-ou-em-liquidacao",
     "internalReference": 1381639
+  },
+  {
+    "locale": "pt",
+    "slug": "a-transacao-esta-sendo-liquidada-enquanto-o-pagamento-com-cartaopresente-permanece-no-status-autorizado-apos-um-erro-na-liquidacao-automatica",
+    "internalReference": 1201336
   },
   {
     "locale": "pt",
