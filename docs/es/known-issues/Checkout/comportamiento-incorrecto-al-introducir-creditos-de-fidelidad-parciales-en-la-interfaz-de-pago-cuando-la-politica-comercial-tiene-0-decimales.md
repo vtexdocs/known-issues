@@ -2,8 +2,8 @@
 title: 'Comportamiento incorrecto al introducir créditos de fidelidad parciales en la interfaz de pago cuando la política comercial tiene 0 decimales'
 slug: comportamiento-incorrecto-al-introducir-creditos-de-fidelidad-parciales-en-la-interfaz-de-pago-cuando-la-politica-comercial-tiene-0-decimales
 status: PUBLISHED
-createdAt: 2026-04-17T21:12:13.491Z
-updatedAt: 2026-04-17T21:12:13.491Z
+createdAt: 2026-04-17T21:13:02.353Z
+updatedAt: 2026-04-17T21:13:02.353Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
