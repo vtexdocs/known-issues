@@ -2591,6 +2591,11 @@
   },
   {
     "locale": "en",
+    "slug": "partial-loyalty-credit-input-wrong-behavior-checkout-ui-when-commercial-policy-has-0-decimal-places",
+    "internalReference": 1394857
+  },
+  {
+    "locale": "en",
     "slug": "partial-scheduled-delivery-window-selection-for-the-same-sla-affecting-the-purchase-flow",
     "internalReference": 627261
   },
@@ -10538,6 +10543,11 @@
     "locale": "es",
     "slug": "comportamiento-erroneo-de-la-mutacion-addtocart-de-checkout-graphql-al-enviar-las-opciones-de-los-articulos-ya-anadidos",
     "internalReference": 452053
+  },
+  {
+    "locale": "es",
+    "slug": "comportamiento-incorrecto-al-introducir-creditos-de-fidelidad-parciales-en-la-interfaz-de-pago-cuando-la-politica-comercial-tiene-0-decimales",
+    "internalReference": 1394857
   },
   {
     "locale": "es",
@@ -19538,6 +19548,11 @@
     "locale": "pt",
     "slug": "componentes-em-um-kit-com-o-mesmo-preco",
     "internalReference": 989371
+  },
+  {
+    "locale": "pt",
+    "slug": "comportamento-incorreto-na-insercao-de-credito-de-fidelidade-parcial-na-interface-de-checkout-quando-a-politica-comercial-tem-0-casas-decimais",
+    "internalReference": 1394857
   },
   {
     "locale": "pt",
