@@ -2,8 +2,8 @@
 title: 'Comportamento incorreto na inserção de crédito de fidelidade parcial na interface de checkout quando a política comercial tem 0 casas decimais'
 slug: comportamento-incorreto-na-insercao-de-credito-de-fidelidade-parcial-na-interface-de-checkout-quando-a-politica-comercial-tem-0-casas-decimais
 status: PUBLISHED
-createdAt: 2026-04-17T21:12:10.539Z
-updatedAt: 2026-04-17T21:12:10.539Z
+createdAt: 2026-04-17T21:12:59.035Z
+updatedAt: 2026-04-17T21:12:59.035Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
