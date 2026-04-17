@@ -2,8 +2,8 @@
 title: 'Partial loyalty credit input wrong behavior Checkout UI when commercial policy has 0 decimal places'
 slug: partial-loyalty-credit-input-wrong-behavior-checkout-ui-when-commercial-policy-has-0-decimal-places
 status: PUBLISHED
-createdAt: 2026-04-17T21:12:07.072Z
-updatedAt: 2026-04-17T21:12:07.072Z
+createdAt: 2026-04-17T21:12:55.811Z
+updatedAt: 2026-04-17T21:12:55.811Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
