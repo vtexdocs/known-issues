@@ -7516,6 +7516,11 @@
   },
   {
     "locale": "en",
+    "slug": "inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion",
+    "internalReference": 1395338
+  },
+  {
+    "locale": "en",
     "slug": "incorrect-discount-calculation-for-more-for-less-with-max-price-after-item-split-by-previous-promotion-application",
     "internalReference": 1093789
   },
@@ -16068,6 +16073,11 @@
     "locale": "es",
     "slug": "calculo-incorrecto-del-descuento-para-mas-por-menos-con-precio-maximo-despues-de-la-division-del-articulo-por-la-aplicacion-de-promocion-anterior",
     "internalReference": 1093789
+  },
+  {
+    "locale": "es",
+    "slug": "calculo-incorrecto-del-regalo-al-combinar-referencias-elegibles-en-la-promocion-compra-uno-y-llevate-otro-gratis",
+    "internalReference": 1395338
   },
   {
     "locale": "es",
@@ -24838,6 +24848,11 @@
     "locale": "pt",
     "slug": "calculo-de-desconto-incorreto-para-mais-por-menos-com-preco-maximo-apos-a-divisao-do-item-pelo-aplicativo-de-promocao-anterior",
     "internalReference": 1093789
+  },
+  {
+    "locale": "pt",
+    "slug": "calculo-incorreto-do-brinde-ao-combinar-skus-elegiveis-na-promocao-compre-um-ganhe-outro",
+    "internalReference": 1395338
   },
   {
     "locale": "pt",
