@@ -2,8 +2,8 @@
 title: 'PDP returns a 404 error for products not associated with a default sales channel (discovery.config.js)'
 slug: pdp-returns-a-404-error-for-products-not-associated-with-a-default-sales-channel-discoveryconfigjs
 status: PUBLISHED
-createdAt: 2026-04-22T17:26:43.921Z
-updatedAt: 2026-04-22T17:26:43.921Z
+createdAt: 2026-04-22T20:23:38.202Z
+updatedAt: 2026-04-22T20:23:38.202Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
