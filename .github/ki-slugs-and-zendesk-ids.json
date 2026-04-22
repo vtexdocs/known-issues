@@ -7421,6 +7421,11 @@
   },
   {
     "locale": "en",
+    "slug": "coupon-not-working-with-message-coupon-has-expired",
+    "internalReference": 1379679
+  },
+  {
+    "locale": "en",
     "slug": "coupon-usage-not-restored-for-incomplete-orders",
     "internalReference": 639418
   },
@@ -16128,6 +16133,11 @@
     "locale": "es",
     "slug": "el-contador-de-uso-de-promociones-no-funciona-como-se-esperaba",
     "internalReference": 1090367
+  },
+  {
+    "locale": "es",
+    "slug": "el-cupon-no-funciona-y-aparece-el-mensaje-el-cupon-ha-caducado",
+    "internalReference": 1379679
   },
   {
     "locale": "es",
@@ -24958,6 +24968,11 @@
     "locale": "pt",
     "slug": "o-contador-de-uso-da-promocao-nao-esta-funcionando-como-esperado",
     "internalReference": 1090367
+  },
+  {
+    "locale": "pt",
+    "slug": "o-cupom-nao-esta-funcionando-e-aparece-a-mensagem-o-cupom-expirou",
+    "internalReference": 1379679
   },
   {
     "locale": "pt",
