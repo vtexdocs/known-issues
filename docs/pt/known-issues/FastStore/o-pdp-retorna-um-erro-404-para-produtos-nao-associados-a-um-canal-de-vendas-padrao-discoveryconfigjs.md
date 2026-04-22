@@ -2,8 +2,8 @@
 title: 'O PDP retorna um erro 404 para produtos não associados a um canal de vendas padrão (discovery.config.js)'
 slug: o-pdp-retorna-um-erro-404-para-produtos-nao-associados-a-um-canal-de-vendas-padrao-discoveryconfigjs
 status: PUBLISHED
-createdAt: 2026-04-22T17:26:48.137Z
-updatedAt: 2026-04-22T17:26:48.137Z
+createdAt: 2026-04-22T20:23:42.767Z
+updatedAt: 2026-04-22T20:23:42.767Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
