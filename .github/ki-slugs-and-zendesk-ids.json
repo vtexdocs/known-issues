@@ -3911,6 +3911,11 @@
   },
   {
     "locale": "en",
+    "slug": "pdp-returns-a-404-error-for-products-not-associated-with-a-default-sales-channel-discoveryconfigjs",
+    "internalReference": 1396347
+  },
+  {
+    "locale": "en",
     "slug": "product-page-sessions-not-working",
     "internalReference": 961591
   },
@@ -12543,6 +12548,11 @@
     "locale": "es",
     "slug": "orderform-no-se-actualiza-debido-a-que-faststoreentorno-seguro-no-esta-sincronizado",
     "internalReference": 1056870
+  },
+  {
+    "locale": "es",
+    "slug": "pdp-devuelve-un-error-404-para-los-productos-que-no-estan-asociados-a-un-canal-de-ventas-predeterminado-discoveryconfigjs",
+    "internalReference": 1396347
   },
   {
     "locale": "es",
@@ -21188,6 +21198,11 @@
     "locale": "pt",
     "slug": "o-orderform-nao-esta-sendo-atualizado-devido-ao-ambiente-faststoresecure-fora-de-sincronia",
     "internalReference": 1056870
+  },
+  {
+    "locale": "pt",
+    "slug": "o-pdp-retorna-um-erro-404-para-produtos-nao-associados-a-um-canal-de-vendas-padrao-discoveryconfigjs",
+    "internalReference": 1396347
   },
   {
     "locale": "pt",
