@@ -2,8 +2,8 @@
 title: 'PDP devuelve un error 404 para los productos que no están asociados a un canal de ventas predeterminado (discovery.config.js)'
 slug: pdp-devuelve-un-error-404-para-los-productos-que-no-estan-asociados-a-un-canal-de-ventas-predeterminado-discoveryconfigjs
 status: PUBLISHED
-createdAt: 2026-04-22T17:26:51.923Z
-updatedAt: 2026-04-22T17:26:51.923Z
+createdAt: 2026-04-22T20:23:46.664Z
+updatedAt: 2026-04-22T20:23:46.664Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
