@@ -13381,7 +13381,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-exportacion-de-existencias-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
+    "slug": "la-exportacion-de-existencias-no-funciona-con-una-base-de-referencias-muy-amplia-codigo-de-estado-429",
     "internalReference": 1178575
   },
   {
@@ -21946,7 +21946,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-sku-muito-grande-statuscode-429",
+    "slug": "a-exportacao-de-estoque-nao-funciona-com-uma-base-de-skus-muito-grande-codigo-de-status-429",
     "internalReference": 1178575
   },
   {
