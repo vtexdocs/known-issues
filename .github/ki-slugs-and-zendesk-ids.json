@@ -7541,6 +7541,11 @@
   },
   {
     "locale": "en",
+    "slug": "incorrect-coupon-expired-messaged-displayed-in-the-checkout-when-using-a-promotion-that-isarchived-true",
+    "internalReference": 1375848
+  },
+  {
+    "locale": "en",
     "slug": "incorrect-discount-calculation-for-more-for-less-with-max-price-after-item-split-by-previous-promotion-application",
     "internalReference": 1093789
   },
@@ -16098,6 +16103,11 @@
     "locale": "es",
     "slug": "aparece-un-mensaje-de-error-al-anadir-o-eliminar-colecciones-en-promociones",
     "internalReference": 1095440
+  },
+  {
+    "locale": "es",
+    "slug": "aparece-un-mensaje-erroneo-de-cupon-caducado-en-la-pagina-de-pago-al-utilizar-una-promocion-cuyo-valor-isarchived-es-true",
+    "internalReference": 1375848
   },
   {
     "locale": "es",
@@ -24993,6 +25003,11 @@
     "locale": "pt",
     "slug": "mensagem-de-erro-exibida-ao-adicionar-ou-remover-colecoes-em-promocoes",
     "internalReference": 1095440
+  },
+  {
+    "locale": "pt",
+    "slug": "mensagem-incorreta-cupom-expirado-exibida-na-finalizacao-da-compra-ao-usar-uma-promocao-cujo-atributo-isarchived-true",
+    "internalReference": 1375848
   },
   {
     "locale": "pt",
