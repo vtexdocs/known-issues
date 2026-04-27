@@ -14776,6 +14776,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-en-la-transaccion-debido-a-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
+    "internalReference": 1398229
+  },
+  {
+    "locale": "es",
     "slug": "error-en-operaciones-de-reembolso-y-captura-con-payout-split-valor-en-destinatarios-es-diferente-al-valor-de-la-operacion",
     "internalReference": 698005
   },
