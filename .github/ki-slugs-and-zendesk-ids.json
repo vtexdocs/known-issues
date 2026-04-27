@@ -4401,6 +4401,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-indexing-may-show-a-high-delay-in-indexing-history",
+    "internalReference": 1398224
+  },
+  {
+    "locale": "en",
     "slug": "product-search-by-id-fields-not-working-for-uppercase-characters",
     "internalReference": 1205216
   },
@@ -12936,6 +12941,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-indexacion-de-productos-puede-mostrar-un-retraso-considerable-en-el-historial-de-indexacion",
+    "internalReference": 1398224
+  },
+  {
+    "locale": "es",
     "slug": "la-limpieza-de-la-busqueda-inteligente-falla-intermitentemente",
     "internalReference": 1225644
   },
@@ -21368,6 +21378,11 @@
     "locale": "pt",
     "slug": "a-faixa-de-preco-na-api-de-facetas-nao-corresponde-aos-resultados-da-pesquisa",
     "internalReference": 997121
+  },
+  {
+    "locale": "pt",
+    "slug": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao",
+    "internalReference": 1398224
   },
   {
     "locale": "pt",
