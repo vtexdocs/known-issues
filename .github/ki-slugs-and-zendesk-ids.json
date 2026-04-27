@@ -6791,6 +6791,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-error-caused-by-bin-validation-mismatch-in-payment-rules",
+    "internalReference": 1398229
+  },
+  {
+    "locale": "en",
     "slug": "transaction-gets-cancelled-after-reverting-from-authorized-to-started",
     "internalReference": 1341471
   },
@@ -23598,6 +23603,11 @@
     "locale": "pt",
     "slug": "erro-na-mensagem-errada-ao-usar-um-cartao-presente-inexistente",
     "internalReference": 584102
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-na-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento",
+    "internalReference": 1398229
   },
   {
     "locale": "pt",
