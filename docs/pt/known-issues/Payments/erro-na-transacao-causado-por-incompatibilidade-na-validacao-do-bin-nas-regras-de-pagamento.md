@@ -2,8 +2,8 @@
 title: 'Erro na transação causado por incompatibilidade na validação do BIN nas regras de pagamento'
 slug: erro-na-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento
 status: PUBLISHED
-createdAt: 2026-04-27T19:42:55.738Z
-updatedAt: 2026-04-27T19:42:55.738Z
+createdAt: 2026-04-27T20:31:18.171Z
+updatedAt: 2026-04-27T20:31:18.171Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
