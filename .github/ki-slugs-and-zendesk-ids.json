@@ -13346,6 +13346,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-permiso-acceso-completo-al-inventario-logistico-no-funciono-como-se-esperaba",
+    "internalReference": 482353
+  },
+  {
+    "locale": "es",
     "slug": "el-permiso-de-acceso-total-al-inventario-de-logistica-no-funciono-como-se-esperaba",
     "internalReference": 482353
   },
@@ -21998,6 +22003,11 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-do-checkout-envia-o-hifen-no-codigo-postal-para-o-orderform",
     "internalReference": 937692
+  },
+  {
+    "locale": "pt",
+    "slug": "a-permissao-acesso-total-ao-estoque-de-logistica-nao-funcionou-como-esperado",
+    "internalReference": 482353
   },
   {
     "locale": "pt",
