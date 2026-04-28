@@ -13281,6 +13281,11 @@
   },
   {
     "locale": "es",
+    "slug": "capacidad-de-entrega-con-cero-pedidos-lo-que-permite-seleccionar-el-transportista-al-finalizar-la-compra",
+    "internalReference": 471612
+  },
+  {
+    "locale": "es",
     "slug": "checkout-ui-envia-guion-en-el-codigo-postal-a-orderform",
     "internalReference": 937692
   },
@@ -22053,6 +22058,11 @@
     "locale": "pt",
     "slug": "atualizacao-de-valores-de-frete-api-que-leva-tempo-para-refletir-sobre-o-modulo-de-simulacao",
     "internalReference": 621230
+  },
+  {
+    "locale": "pt",
+    "slug": "capacidade-de-entrega-como-zero-pedidos-permitindo-a-selecao-da-transportadora-no-checkout",
+    "internalReference": 471612
   },
   {
     "locale": "pt",
