@@ -4891,11 +4891,6 @@
   },
   {
     "locale": "en",
-    "slug": "timeout-in-the-query-to-analytics-preventing-to-check-the-inventory-log",
-    "internalReference": 984482
-  },
-  {
-    "locale": "en",
     "slug": "total-reservation-item-with-negative-value-in-inventory-ui",
     "internalReference": 991735
   },
@@ -13523,11 +13518,6 @@
     "locale": "es",
     "slug": "solicitud-incorrecta-al-intentar-acceder-a-un-inventario-con-una-gran-cantidad-de-articulos-reservados",
     "internalReference": 296066
-  },
-  {
-    "locale": "es",
-    "slug": "tiempo-de-espera-en-la-consulta-a-analytics-que-impide-comprobar-el-registro-de-inventario",
-    "internalReference": 984482
   },
   {
     "locale": "es",
@@ -22223,11 +22213,6 @@
     "locale": "pt",
     "slug": "status-erro-de-processamento-politica-de-embarque",
     "internalReference": 445793
-  },
-  {
-    "locale": "pt",
-    "slug": "tempo-limite-na-consulta-para-que-o-analytics-impeca-a-verificacao-do-registro-de-inventario",
-    "internalReference": 984482
   },
   {
     "locale": "pt",
