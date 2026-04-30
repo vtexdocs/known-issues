@@ -3651,6 +3651,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand",
+    "internalReference": 1399947
+  },
+  {
+    "locale": "en",
     "slug": "mercado-livre-remove-underreview-validation-in-update-sku",
     "internalReference": 890658
   },
@@ -12163,6 +12168,11 @@
     "locale": "es",
     "slug": "mensajes-automaticos-meli-mercado-livre-mensajes",
     "internalReference": 615164
+  },
+  {
+    "locale": "es",
+    "slug": "mercado-libre-es-necesario-crear-los-siguientes-atributos-para-configurar-me2-brand",
+    "internalReference": 1399947
   },
   {
     "locale": "es",
@@ -20868,6 +20878,11 @@
     "locale": "pt",
     "slug": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
     "internalReference": 1325344
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand",
+    "internalReference": 1399947
   },
   {
     "locale": "pt",
