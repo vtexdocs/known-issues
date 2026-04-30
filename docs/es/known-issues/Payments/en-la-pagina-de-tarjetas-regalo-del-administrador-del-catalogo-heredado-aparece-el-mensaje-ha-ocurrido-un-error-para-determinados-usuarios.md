@@ -2,8 +2,8 @@
 title: 'En la página de tarjetas regalo del administrador del catálogo heredado aparece el mensaje «Ha ocurrido un error» para determinados usuarios'
 slug: en-la-pagina-de-tarjetas-regalo-del-administrador-del-catalogo-heredado-aparece-el-mensaje-ha-ocurrido-un-error-para-determinados-usuarios
 status: PUBLISHED
-createdAt: 2026-03-20T20:54:48.610Z
-updatedAt: 2026-03-20T20:54:48.610Z
+createdAt: 2026-04-30T16:24:15.316Z
+updatedAt: 2026-04-30T16:24:15.316Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,13 +18,13 @@ internalReference: 1373636
 
 ## Sumario
 
-Algunos usuarios no pueden acceder a la página de tarjetas regalo en la administración del catálogo heredada (por ejemplo, /admin/Site/Vale.aspx). La pantalla muestra un error genérico del tipo «Ha ocurrido un error». El problema es específico del usuario y se produce cuando un filtro no válido se almacena de forma persistente en el servidor para esa página y ese usuario, lo que provoca que las llamadas internas al sistema de tarjetas regalo devuelvan un error HTTP 400.
+Algunos usuarios no pueden acceder a la página de tarjetas regalo en la administración del catálogo heredada (por ejemplo, /admin/Site/Vale.aspx). La pantalla muestra un error genérico del tipo «Ha ocurrido un error». El problema es específico del usuario y se produce cuando un filtro no válido queda almacenado en el servidor para esa página y ese usuario, lo que provoca que las llamadas internas al sistema de tarjetas regalo devuelvan un código HTTP 400.
 
 ## Simulación
 
 1. Acceda a la página heredada de Tarjetas regalo: _/admin/Site/Vale.aspx._
 2. Aplique un valor de filtro mal formado (por ejemplo, pegando una cadena de etiqueta + código como `“Código: AAAA-XXXX-BBBB-YYYY”` en lugar de un código de canje puro). La página persiste el filtro por usuario + página en la base de datos.
-3. La interfaz de usuario se recarga con un error de «Algo ha salido mal».
+3. La interfaz de usuario se recarga con un error de «Algo salió mal».
 
 ## Workaround
 
