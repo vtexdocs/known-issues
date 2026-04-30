@@ -2,8 +2,8 @@
 title: 'Legacy Catalog Admin Gift Card page shows “Something went wrong” for specific users'
 slug: legacy-catalog-admin-gift-card-page-shows-something-went-wrong-for-specific-users
 status: PUBLISHED
-createdAt: 2026-03-20T20:54:43.253Z
-updatedAt: 2026-03-20T20:54:43.253Z
+createdAt: 2026-04-30T16:24:07.038Z
+updatedAt: 2026-04-30T16:24:07.038Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
