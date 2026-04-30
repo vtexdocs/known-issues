@@ -2,8 +2,8 @@
 title: 'A página de cartões-presente do Administrador do Catálogo Legado exibe a mensagem “Ocorreu um erro” para usuários específicos'
 slug: a-pagina-de-cartoespresente-do-administrador-do-catalogo-legado-exibe-a-mensagem-ocorreu-um-erro-para-usuarios-especificos
 status: PUBLISHED
-createdAt: 2026-03-20T20:54:46.117Z
-updatedAt: 2026-03-20T20:54:46.117Z
+createdAt: 2026-04-30T16:24:11.010Z
+updatedAt: 2026-04-30T16:24:11.010Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
