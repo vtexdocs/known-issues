@@ -15041,11 +15041,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-pagina-de-tarjetas-regalo-del-administrador-del-catalogo-heredado-muestra-el-mensaje-se-ha-producido-un-error-para-determinados-usuarios",
-    "internalReference": 1373636
-  },
-  {
-    "locale": "es",
     "slug": "la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada",
     "internalReference": 308896
   },
@@ -23213,11 +23208,6 @@
     "locale": "pt",
     "slug": "a-pagina-de-redirecionamento-nao-abre-para-pagamentos-com-cartao-de-credito-ao-usar-o-modo-de-defesagatilho-suspeito",
     "internalReference": 887866
-  },
-  {
-    "locale": "pt",
-    "slug": "a-pagina-do-cartaopresente-do-administrador-do-catalogo-antigo-exibe-a-mensagem-ocorreu-um-problema-para-usuarios-especificos",
-    "internalReference": 1373636
   },
   {
     "locale": "pt",
