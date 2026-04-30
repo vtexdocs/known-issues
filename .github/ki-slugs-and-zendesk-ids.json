@@ -5501,6 +5501,11 @@
   },
   {
     "locale": "en",
+    "slug": "orders-stuck-in-requestcancel-on-marketplace-when-seller-invoices-at-the-same-time-cancel-vs-invoice-race-condition",
+    "internalReference": 1400005
+  },
+  {
+    "locale": "en",
     "slug": "orders-stuck-in-starthandling-status",
     "internalReference": 1218606
   },
@@ -14163,6 +14168,11 @@
     "locale": "es",
     "slug": "los-pedidos-con-un-error-de-creacion-permanecen-atascados-en-estado-cancelado",
     "internalReference": 1089344
+  },
+  {
+    "locale": "es",
+    "slug": "los-pedidos-se-quedan-bloqueados-en-el-estado-solicitud-de-cancelacion-en-el-marketplace-cuando-el-vendedor-emite-la-factura-al-mismo-tiempo-condicion-de-carrera-entre-la-cancelacion-y-la-factura",
+    "internalReference": 1400005
   },
   {
     "locale": "es",
@@ -22988,6 +22998,11 @@
     "locale": "pt",
     "slug": "pedidos-com-vendedores-de-mudanca-executados-nao-estao-respeitando-o-periodo-de-carencia-de-cancelamento",
     "internalReference": 656815
+  },
+  {
+    "locale": "pt",
+    "slug": "pedidos-ficam-presos-no-status-solicitacao-de-cancelamento-no-marketplace-quando-o-vendedor-emite-a-fatura-ao-mesmo-tempo-condicao-de-corrida-entre-cancelamento-e-faturamento",
+    "internalReference": 1400005
   },
   {
     "locale": "pt",
