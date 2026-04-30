@@ -2,8 +2,8 @@
 title: 'Orders stuck in “request-cancel” on marketplace when seller invoices at the same time (cancel vs invoice race condition)'
 slug: orders-stuck-in-requestcancel-on-marketplace-when-seller-invoices-at-the-same-time-cancel-vs-invoice-race-condition
 status: PUBLISHED
-createdAt: 2026-04-30T17:56:43.866Z
-updatedAt: 2026-04-30T17:56:43.866Z
+createdAt: 2026-04-30T21:31:59.172Z
+updatedAt: 2026-04-30T21:31:59.172Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,7 +16,7 @@ internalReference: 1400005
 
 ## Summary
 
-Orders can become permanently stuck in the marketplace with status “request-cancel” and workflowIsInError: true when a cancellation request from the marketplace races with the seller’s invoice event by a few hundred milliseconds. The visible symptom is that the marketplace order does not move to Canceled or Invoiced, while the seller order remains Invoiced; attempts to adjust status via API/UI fail. This affects marketplace↔seller scenarios across delivery types and payments (not limited to pickup/Pix), as confirmed with Americanas and Cobasi examples. Engineering identified this as an architectural race condition and is planning remediation.
+Orders can become permanently stuck in the marketplace with status “request-cancel” and workflowIsInError: true when a cancellation request from the marketplace races with the seller’s invoice event by a few hundred milliseconds. The visible symptom is that the marketplace order does not move to Canceled or Invoiced, while the seller order remains Invoiced; attempts to adjust status via API/UI fail. This affects marketplace↔seller scenarios across delivery types and payments (not limited to pickup/Pix), as confirmed in other examples. Engineering identified this as an architectural race condition and is planning remediation.
 
 ## Simulation
 
