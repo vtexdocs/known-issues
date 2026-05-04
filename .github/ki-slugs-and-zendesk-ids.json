@@ -1411,6 +1411,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-import-error-with-unmodified-file",
+    "internalReference": 1400586
+  },
+  {
+    "locale": "en",
     "slug": "product-insertupdate-api-allows-n-in-the-textlink-field",
     "internalReference": 486459
   },
@@ -9493,6 +9498,11 @@
     "locale": "es",
     "slug": "enlace-de-texto-creado-con-en-marketplace-tras-las-aprobaciones-reoccurrence",
     "internalReference": 795900
+  },
+  {
+    "locale": "es",
+    "slug": "error-al-importar-un-producto-con-un-archivo-sin-modificar",
+    "internalReference": 1400586
   },
   {
     "locale": "es",
@@ -18448,6 +18458,11 @@
     "locale": "pt",
     "slug": "erro-leituradedadosdoadministrador-ao-tentar-acessar-as-paginas-do-catalogo-no-admin",
     "internalReference": 1055578
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-na-importacao-do-produto-com-arquivo-nao-modificado",
+    "internalReference": 1400586
   },
   {
     "locale": "pt",
