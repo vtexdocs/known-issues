@@ -2,8 +2,8 @@
 title: 'Checkout UI breaks after new address is added on Address Form in Chile B2B stores'
 slug: checkout-ui-breaks-after-new-address-is-added-on-address-form-in-chile-b2b-stores
 status: PUBLISHED
-createdAt: 2026-03-13T19:50:30.840Z
-updatedAt: 2026-03-13T19:50:30.840Z
+createdAt: 2026-05-04T17:30:07.789Z
+updatedAt: 2026-05-04T17:30:07.789Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
