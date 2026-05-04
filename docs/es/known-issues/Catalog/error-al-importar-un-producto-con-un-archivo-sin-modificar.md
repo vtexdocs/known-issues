@@ -2,8 +2,8 @@
 title: 'Error al importar un producto con un archivo sin modificar'
 slug: error-al-importar-un-producto-con-un-archivo-sin-modificar
 status: PUBLISHED
-createdAt: 2026-05-04T12:04:06.831Z
-updatedAt: 2026-05-04T12:04:06.831Z
+createdAt: 2026-05-04T12:07:04.945Z
+updatedAt: 2026-05-04T12:07:04.945Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
