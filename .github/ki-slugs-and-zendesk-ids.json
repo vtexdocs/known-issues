@@ -2081,6 +2081,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-ownership-cookie-size-may-lead-to-broken-requests-due-to-size-limit",
+    "internalReference": 1401406
+  },
+  {
+    "locale": "en",
     "slug": "checkout-payment-split-may-generate-incorrect-information-in-the-paymentdata",
     "internalReference": 330802
   },
@@ -10848,6 +10853,11 @@
     "locale": "es",
     "slug": "el-servicio-fiscal-utiliza-los-datos-del-documento-en-lugar-del-correo-electronico-del-cliente",
     "internalReference": 548671
+  },
+  {
+    "locale": "es",
+    "slug": "el-tamano-de-la-cookie-de-propiedad-del-proceso-de-pago-puede-provocar-errores-en-las-solicitudes-debido-al-limite-de-tamano",
+    "internalReference": 1401406
   },
   {
     "locale": "es",
@@ -20133,6 +20143,11 @@
     "locale": "pt",
     "slug": "o-servico-de-impostos-usa-dados-de-documentos-em-vez-de-email-do-cliente",
     "internalReference": 548671
+  },
+  {
+    "locale": "pt",
+    "slug": "o-tamanho-do-cookie-de-propriedade-do-checkout-pode-causar-falhas-nas-solicitacoes-devido-ao-limite-de-tamanho",
+    "internalReference": 1401406
   },
   {
     "locale": "pt",
