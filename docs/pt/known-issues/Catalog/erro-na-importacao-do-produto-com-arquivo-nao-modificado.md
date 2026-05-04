@@ -2,8 +2,8 @@
 title: 'Erro na importação do produto com arquivo não modificado'
 slug: erro-na-importacao-do-produto-com-arquivo-nao-modificado
 status: PUBLISHED
-createdAt: 2026-05-04T12:04:02.397Z
-updatedAt: 2026-05-04T12:04:02.397Z
+createdAt: 2026-05-04T12:07:01.712Z
+updatedAt: 2026-05-04T12:07:01.712Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,7 +18,7 @@ internalReference: 1400586
 
 ## Sumário
 
-Atualmente, estamos enfrentando um problema com o módulo de Importação/Exportação, que consiste basicamente em um conflito entre arquivos não modificados da Exportação e a Importação.
+Atualmente, estamos enfrentando um problema com o módulo de Importação/Exportação, que consiste basicamente em um conflito entre arquivos não modificados da Exportação e da Importação.
 
 ## Simulação
 
