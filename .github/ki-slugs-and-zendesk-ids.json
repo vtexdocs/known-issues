@@ -1976,6 +1976,11 @@
   },
   {
     "locale": "en",
+    "slug": "cart-parameter-ignoreprofiledata-reverted-to-false-after-shopper-signs-out-in-checkout",
+    "internalReference": 1401421
+  },
+  {
+    "locale": "en",
     "slug": "cart-with-items-displays-empty-cart-message-while-screen-is-still-loading",
     "internalReference": 303673
   },
@@ -10798,6 +10803,11 @@
     "locale": "es",
     "slug": "el-pago-y-la-division-de-transacciones-no-funcionan-en-el-mismo-orden-para-el-inventario-omnicanal-multinivel",
     "internalReference": 777201
+  },
+  {
+    "locale": "es",
+    "slug": "el-parametro-ignoreprofiledata-del-carrito-vuelve-a-establecerse-en-false-despues-de-que-el-comprador-cierre-sesion-durante-el-proceso-de-pago",
+    "internalReference": 1401421
   },
   {
     "locale": "es",
@@ -20088,6 +20098,11 @@
     "locale": "pt",
     "slug": "o-pagamento-e-a-divisao-da-transacao-nao-funcionam-na-mesma-ordem-para-o-inventario-omnicanal-multinivel",
     "internalReference": 777201
+  },
+  {
+    "locale": "pt",
+    "slug": "o-parametro-ignoreprofiledata-do-carrinho-volta-a-ser-definido-como-false-apos-o-cliente-encerrar-a-sessao-durante-o-checkout",
+    "internalReference": 1401421
   },
   {
     "locale": "pt",
