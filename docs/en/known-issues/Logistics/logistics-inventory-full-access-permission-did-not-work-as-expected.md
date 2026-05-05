@@ -3,7 +3,7 @@ title: '"Logistics inventory full access" permission did not work as expected'
 slug: logistics-inventory-full-access-permission-did-not-work-as-expected
 status: PUBLISHED
 createdAt: 2021-12-06T20:59:22.000Z
-updatedAt: 2026-05-05T13:28:04.285Z
+updatedAt: 2026-05-05T13:31:50.812Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
