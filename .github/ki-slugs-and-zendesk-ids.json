@@ -24726,11 +24726,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-palavras-substitutas-de-categoria-e-marca-nao-estao-sendo-indexadas",
-    "internalReference": 374204
-  },
-  {
-    "locale": "pt",
     "slug": "autocompletar-na-busca-nem-sempre-atualizando-quando-alterado-varias-vezes",
     "internalReference": 793275
   },
@@ -24858,6 +24853,11 @@
     "locale": "pt",
     "slug": "os-textos-do-controle-avise-me-nao-estao-sendo-traduzidos",
     "internalReference": 517165
+  },
+  {
+    "locale": "pt",
+    "slug": "palavraschave-relacionadas-a-categorias-e-marcas-nao-estao-sendo-indexadas",
+    "internalReference": 374204
   },
   {
     "locale": "pt",
