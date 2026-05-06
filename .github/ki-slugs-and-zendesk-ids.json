@@ -6156,6 +6156,11 @@
   },
   {
     "locale": "en",
+    "slug": "error-with-returncode-355-in-cancellation-process-with-erederest-and-erede-v2",
+    "internalReference": 740084
+  },
+  {
+    "locale": "en",
     "slug": "escalation-incomplete-billingaddress-despite-isbillingaddressdifferent-false",
     "internalReference": 1252301
   },
@@ -15018,6 +15023,11 @@
     "locale": "es",
     "slug": "error-al-procesar-el-segundo-reembolso-del-mismo-valor-que-el-primero-la-tarjeta-regalo-ya-ha-sido-reembolsada",
     "internalReference": 1118560
+  },
+  {
+    "locale": "es",
+    "slug": "error-con-el-codigo-de-retorno-355-en-el-proceso-de-cancelacion-con-erederest-y-erede-v2",
+    "internalReference": 740084
   },
   {
     "locale": "es",
@@ -24213,6 +24223,11 @@
     "locale": "pt",
     "slug": "erro-causado-pela-substituicao-do-token-no-conector-paypal-antigo-para-o-status-de-pagamento-pendente",
     "internalReference": 308214
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-com-o-codigo-de-retorno-355-no-processo-de-cancelamento-com-o-erederest-e-o-erede-v2",
+    "internalReference": 740084
   },
   {
     "locale": "pt",
