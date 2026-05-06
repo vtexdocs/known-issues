@@ -13911,7 +13911,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-campo-ean-como-cadena-se-ignora-cuando-se-aprueba-en-skus-recibidos",
+    "slug": "el-campo-ean-como-cadena-de-caracteres-se-ignora-al-aprobar-los-sku-recibidos",
     "internalReference": 897301
   },
   {
@@ -23111,11 +23111,6 @@
   },
   {
     "locale": "pt",
-    "slug": "campo-ean-como-string-sendo-ignorado-quando-aprovado-em-skus-recebidos",
-    "internalReference": 897301
-  },
-  {
-    "locale": "pt",
     "slug": "categorias-ausentes-do-vendedor-nao-provisionadas-corretamente",
     "internalReference": 1205261
   },
@@ -23163,6 +23158,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-suspender-o-vendedor",
     "internalReference": 682151
+  },
+  {
+    "locale": "pt",
+    "slug": "o-campo-ean-como-string-esta-sendo-ignorado-ao-aprovar-os-skus-recebidos",
+    "internalReference": 897301
   },
   {
     "locale": "pt",
