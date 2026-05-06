@@ -9341,6 +9341,11 @@
   },
   {
     "locale": "es",
+    "slug": "divergencia-en-las-redondeos-de-las-promociones",
+    "internalReference": 957369
+  },
+  {
+    "locale": "es",
     "slug": "el-acceso-al-license-manager-para-la-gestion-de-politicas-comerciales-no-funciona",
     "internalReference": 380904
   },
@@ -10436,11 +10441,6 @@
   },
   {
     "locale": "es",
-    "slug": "promociones-divergencia-microrredonda",
-    "internalReference": 957369
-  },
-  {
-    "locale": "es",
     "slug": "puesta-en-servicio-del-producto-cache-incoherente",
     "internalReference": 872364
   },
@@ -10633,11 +10633,6 @@
     "locale": "es",
     "slug": "al-pegar-el-codigo-postal-en-la-vista-previa-de-envio-del-carrito-a-veces-se-obtiene-un-resultado-nulo-de-la-api",
     "internalReference": 481878
-  },
-  {
-    "locale": "es",
-    "slug": "algo-salio-mal-al-anadir-una-direccion-incompleta-e-intentar-editarla",
-    "internalReference": 960064
   },
   {
     "locale": "es",
@@ -11873,6 +11868,11 @@
     "locale": "es",
     "slug": "punto-de-recogida-no-seleccionado-por-checkout-ui-al-cambiar-sla",
     "internalReference": 1199158
+  },
+  {
+    "locale": "es",
+    "slug": "se-ha-producido-un-error-al-anadir-una-direccion-incompleta-e-intentar-editarla",
+    "internalReference": 960064
   },
   {
     "locale": "es",
@@ -19031,6 +19031,11 @@
   },
   {
     "locale": "pt",
+    "slug": "divergencia-de-arredondamento-de-micronivel-nas-promocoes",
+    "internalReference": 957369
+  },
+  {
+    "locale": "pt",
     "slug": "e-exibida-a-mensagem-de-erro-algo-deu-errado-no-painel-de-administracao-do-catalogo",
     "internalReference": 907567
   },
@@ -19601,11 +19606,6 @@
   },
   {
     "locale": "pt",
-    "slug": "promocoes-divergencia-de-microrredes",
-    "internalReference": 957369
-  },
-  {
-    "locale": "pt",
     "slug": "relatorio-de-indexacao-do-catalogo-esta-apresentando-estatisticas-incorretas",
     "internalReference": 499450
   },
@@ -20128,11 +20128,6 @@
     "locale": "pt",
     "slug": "alerta-para-preencher-a-selecao-de-entrega-programada-aparece-apenas-uma-vez",
     "internalReference": 565982
-  },
-  {
-    "locale": "pt",
-    "slug": "algo-deu-errado-ao-adicionar-um-endereco-incompleto-e-tentar-editalo",
-    "internalReference": 960064
   },
   {
     "locale": "pt",
@@ -20908,6 +20903,11 @@
     "locale": "pt",
     "slug": "o-valor-do-item-do-carrinho-e-enviado-incorretamente-pelo-checkout-em-additionaldata",
     "internalReference": 640386
+  },
+  {
+    "locale": "pt",
+    "slug": "ocorreu-um-erro-ao-adicionar-um-endereco-incompleto-e-tentar-editalo",
+    "internalReference": 960064
   },
   {
     "locale": "pt",
