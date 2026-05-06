@@ -9486,6 +9486,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-metodo-del-servicio-web-stockkeepingunitinsertupdate-permite-insertar-un-refid-ya-existente",
+    "internalReference": 419460
+  },
+  {
+    "locale": "es",
     "slug": "el-metodo-stockkeepingunitinsertupdate-webservice-permite-insertar-un-refid-existente",
     "internalReference": 419460
   },
@@ -14511,7 +14516,7 @@
   },
   {
     "locale": "es",
-    "slug": "un-error-con-el-sistema-de-eventos-al-final-de-una-transaccion-provoca-que-un-pedido-quede-incompleto",
+    "slug": "un-error-en-el-sistema-de-eventos-al-final-de-una-transaccion-provoca-que-un-pedido-quede-incompleto",
     "internalReference": 421137
   },
   {
@@ -18971,6 +18976,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-metodo-do-servico-web-stockkeepingunitinsertupdate-permite-inserir-um-refid-ja-existente",
+    "internalReference": 419460
+  },
+  {
+    "locale": "pt",
     "slug": "o-metodo-stockkeepingunitinsertupdate-webservice-permite-a-insercao-de-refid-existentes",
     "internalReference": 419460
   },
@@ -22866,11 +22876,6 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-no-sistema-de-eventos-no-final-de-uma-transacao-faz-com-que-um-pedido-fique-incompleto",
-    "internalReference": 421137
-  },
-  {
-    "locale": "pt",
     "slug": "ew-ui-nao-sugere-o-item-correto-a-ser-devolvido-quando-o-pedido-tem-uma-mudanca",
     "internalReference": 735854
   },
@@ -23308,6 +23313,11 @@
     "locale": "pt",
     "slug": "two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull",
     "internalReference": 680919
+  },
+  {
+    "locale": "pt",
+    "slug": "um-erro-no-sistema-de-eventos-no-final-de-uma-transacao-faz-com-que-um-pedido-fique-incompleto",
+    "internalReference": 421137
   },
   {
     "locale": "pt",
