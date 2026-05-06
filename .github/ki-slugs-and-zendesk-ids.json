@@ -10586,6 +10586,11 @@
   },
   {
     "locale": "es",
+    "slug": "al-anadir-una-nueva-direccion-en-direccion-de-facturacion-la-api-devuelve-un-resultado-nulo",
+    "internalReference": 748668
+  },
+  {
+    "locale": "es",
     "slug": "al-colocar-el-codigo-postal-en-la-vista-previa-de-envio-del-carro-se-duplican-las-opciones-de-direccion-para-los-clientes-recurrentes",
     "internalReference": 956338
   },
@@ -10608,11 +10613,6 @@
     "locale": "es",
     "slug": "algo-salio-mal-al-anadir-una-direccion-incompleta-e-intentar-editarla",
     "internalReference": 960064
-  },
-  {
-    "locale": "es",
-    "slug": "anadir-una-nueva-direccion-en-direccion-de-factura-devuelve-resultados-nulos-de-la-api",
-    "internalReference": 748668
   },
   {
     "locale": "es",
@@ -14426,7 +14426,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-campos-de-la-configuracion-de-orderform-se-actualizan-a-null-cuando-se-produce-algun-cambio-en-la-configuracion-de-la-gestion-de-pedidos",
+    "slug": "los-campos-de-la-configuracion-del-formulario-de-pedido-se-ponen-a-nulo-cuando-se-produce-algun-cambio-en-la-configuracion-de-la-gestion-de-pedidos",
     "internalReference": 748404
   },
   {
@@ -16606,11 +16606,6 @@
   },
   {
     "locale": "es",
-    "slug": "exportacion-de-precios-incompleta-al-utilizar-filtros-de-categorias",
-    "internalReference": 753466
-  },
-  {
-    "locale": "es",
     "slug": "exportaciones-de-precios-generadas-con-un-formato-que-no-es-aceptado-por-el-proceso-de-importacion",
     "internalReference": 584975
   },
@@ -16673,6 +16668,11 @@
     "locale": "es",
     "slug": "la-exportacion-de-la-tabla-de-precios-calculados-no-trae-todos-los-skus",
     "internalReference": 722005
+  },
+  {
+    "locale": "es",
+    "slug": "la-exportacion-de-precios-no-se-completa-al-utilizar-filtros-de-categoria",
+    "internalReference": 753466
   },
   {
     "locale": "es",
@@ -18506,6 +18506,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-validacao-da-api-de-atualizacao-e-criacao-de-anexos-no-campo-domainvalues-nao-esta-funcionando",
+    "internalReference": 751091
+  },
+  {
+    "locale": "pt",
     "slug": "admin-esta-mostrando-a-extensao-da-imagem-como-jpg-mesmo-quando-a-imagem-e-png",
     "internalReference": 516269
   },
@@ -19943,6 +19948,11 @@
     "locale": "pt",
     "slug": "alteracao-da-janela-de-entrega-programada-para-todos-os-itens-ao-selecionar-um-item-comum-no-carrinho-com-varios-vendedores",
     "internalReference": 1089806
+  },
+  {
+    "locale": "pt",
+    "slug": "ao-adicionar-um-novo-endereco-no-campo-endereco-de-faturamento-a-api-retorna-um-resultado-nulo",
+    "internalReference": 748668
   },
   {
     "locale": "pt",
@@ -23551,7 +23561,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-campos-na-configuracao-do-orderform-sao-atualizados-para-nulos-quando-ha-alguma-alteracao-nas-configuracoes-do-order-management",
+    "slug": "os-campos-na-configuracao-do-formulario-de-pedido-sao-atualizados-para-nulo-sempre-que-houver-alguma-alteracao-nas-configuracoes-de-gerenciamento-de-pedidos",
     "internalReference": 748404
   },
   {
@@ -25541,6 +25551,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-exportacao-de-precos-fica-incompleta-ao-usar-filtros-de-categoria",
+    "internalReference": 753466
+  },
+  {
+    "locale": "pt",
     "slug": "a-exportacao-de-tabelas-de-precos-falha-devido-ao-estrangulamento-da-api-do-catalogo",
     "internalReference": 1081437
   },
@@ -25723,11 +25738,6 @@
     "locale": "pt",
     "slug": "erro-nao-pode-criar-criterios-de-busca-erro-o-filtro-ja-existe-brandid-ao-criar-uma-promocao-excluindo-mais-de-1-marca",
     "internalReference": 663698
-  },
-  {
-    "locale": "pt",
-    "slug": "exportacao-de-preco-incompleto-ao-utilizar-filtros-de-categoria",
-    "internalReference": 753466
   },
   {
     "locale": "pt",
