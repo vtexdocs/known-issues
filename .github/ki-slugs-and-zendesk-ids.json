@@ -9676,6 +9676,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-actualizacion-de-la-ficha-tecnica-del-producto-no-activa-el-sistema-de-notificaciones-ni-la-indexacion",
+    "internalReference": 403107
+  },
+  {
+    "locale": "es",
     "slug": "la-actualizacion-de-la-hoja-de-especificaciones-del-producto-no-activa-el-notificador-ni-la-indexacion",
     "internalReference": 403107
   },
@@ -16696,7 +16701,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-importacionexportacion-de-masterdata-devuelve-el-tiempo-de-espera",
+    "slug": "la-importacionexportacion-de-hojas-de-calculo-de-masterdata-devuelve-un-error-de-tiempo-de-espera",
     "internalReference": 400265
   },
   {
@@ -17983,6 +17988,11 @@
     "locale": "pt",
     "slug": "a-api-sku-insert-file-nao-esta-respondendo-com-a-propriedade-text",
     "internalReference": 1014787
+  },
+  {
+    "locale": "pt",
+    "slug": "a-atualizacao-da-ficha-tecnica-do-produto-nao-aciona-o-notificator-nem-a-indexacao",
+    "internalReference": 403107
   },
   {
     "locale": "pt",
@@ -25386,6 +25396,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-importacaoexportacao-da-planilha-do-masterdata-esta-apresentando-tempo-limite-esgotado",
+    "internalReference": 400265
+  },
+  {
+    "locale": "pt",
     "slug": "a-iu-crmmasterdata-nao-esta-apagando-documentos-mesmo-com-a-mensagem-de-sucesso",
     "internalReference": 699374
   },
@@ -25523,11 +25538,6 @@
     "locale": "pt",
     "slug": "problemas-com-gatilhos-que-contem-anexos",
     "internalReference": 1215924
-  },
-  {
-    "locale": "pt",
-    "slug": "tempo-limite-de-retorno-da-importacaoexportacao-da-planilha-masterdata",
-    "internalReference": 400265
   },
   {
     "locale": "pt",
