@@ -12936,11 +12936,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-usuario-solo-con-el-rol-administrador-de-usuarios-restringido-no-puede-listar-los-usuarios",
-    "internalReference": 932666
-  },
-  {
-    "locale": "es",
     "slug": "la-preferencia-de-inicio-de-sesion-con-contrasena-no-se-puede-deshacer-en-admin",
     "internalReference": 1020548
   },
@@ -12963,6 +12958,11 @@
     "locale": "es",
     "slug": "los-usuarios-no-pueden-acceder-al-sistema-de-datos-maestroscrm-cuando-intentan-iniciar-sesion-mediante-autenticacion-saml",
     "internalReference": 465652
+  },
+  {
+    "locale": "es",
+    "slug": "los-usuarios-que-solo-tengan-el-rol-administrador-de-usuarios-restringido-no-pueden-ver-la-lista-de-usuarios",
+    "internalReference": 932666
   },
   {
     "locale": "es",
@@ -22096,11 +22096,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-usuario-apenas-com-a-funcao-user-administrator-restricted-nao-consegue-listar-os-usuarios",
-    "internalReference": 932666
-  },
-  {
-    "locale": "pt",
     "slug": "ord-resetar-nao-desconectar-outras-sessoes",
     "internalReference": 530461
   },
@@ -22128,6 +22123,11 @@
     "locale": "pt",
     "slug": "sms-2fa-enviado-pela-vtex-aparece-como-provavel-golpe-para-usuarios-na-irlanda",
     "internalReference": 1268097
+  },
+  {
+    "locale": "pt",
+    "slug": "somente-usuarios-com-a-funcao-administrador-de-usuarios-restrito-nao-podem-listar-os-usuarios",
+    "internalReference": 932666
   },
   {
     "locale": "pt",
