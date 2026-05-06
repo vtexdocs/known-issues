@@ -2,8 +2,8 @@
 title: "Shipping Preview wrongly displaying the date when it's scheduled delivery"
 slug: shipping-preview-wrongly-displaying-the-date-when-its-scheduled-delivery
 status: PUBLISHED
-createdAt: 2025-11-14T19:17:46.250Z
-updatedAt: 2025-11-14T19:17:46.250Z
+createdAt: 2023-01-31T19:36:45.000Z
+updatedAt: 2023-01-31T19:36:45.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,22 +16,14 @@ internalReference: 743774
 
 ## Summary
 
-
 Checkout UI converts the time using the computer's time zone displaying the delivery date incorrectly in shipping-preview (cart) when items are scheduled delivery.
 
-
-#### Simulation
-
-
+## Simulation
 
 - Configure a scheduled delivery window to start at 0h
 - Set up a time zone that subtracts from UTC+00:00 in the computer
 - You will see that the date shown is the day before
 
-
-#### Workaround
-
+## Workaround
 
 Configure scheduled delivery windows during the daytime, such as business hours since it's the most common time for deliveries
-
-
