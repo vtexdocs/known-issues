@@ -11416,7 +11416,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-usuario-se-congela-si-se-produce-un-error-en-el-proceso-interno-del-pedido-de-plaza",
+    "slug": "la-interfaz-de-usuario-se-bloquea-si-se-produce-un-error-en-el-proceso-interno-de-realizacion-del-pedido",
     "internalReference": 943771
   },
   {
@@ -13926,7 +13926,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-filtro-skus-recibidos-no-funciona-con-caracteres-especiales",
+    "slug": "el-filtro-de-referencias-recibidas-no-funciona-con-caracteres-especiales",
     "internalReference": 944533
   },
   {
@@ -13946,7 +13946,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-al-aprobar-skus-rechazados-o-revisados-por-calidad-de-la-oferta",
+    "slug": "error-al-aprobar-referencias-que-han-sido-rechazadas-o-revisadas-por-el-equipo-de-calidad-de-las-ofertas",
     "internalReference": 940998
   },
   {
@@ -15921,7 +15921,7 @@
   },
   {
     "locale": "es",
-    "slug": "problemas-al-insertar-valores-en-la-tarjeta-regalo-de-fidelizacion-en-la-caja",
+    "slug": "problemas-al-introducir-valores-en-la-tarjeta-regalo-de-fidelidad-al-finalizar-la-compra",
     "internalReference": 943629
   },
   {
@@ -19946,7 +19946,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-interface-do-usuario-fica-congelada-se-ocorrer-um-erro-no-processo-interno-da-ordem-de-colocacao",
+    "slug": "a-interface-do-usuario-fica-travada-se-ocorrer-um-erro-no-processo-interno-de-realizacao-do-pedido",
     "internalReference": 943771
   },
   {
@@ -23156,7 +23156,7 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-ao-aprovar-skus-que-foram-rejeitados-ou-revisados-pelo-offer-quality",
+    "slug": "erro-ao-aprovar-skus-que-foram-rejeitados-ou-analisados-pela-equipe-de-qualidade-de-ofertas",
     "internalReference": 940998
   },
   {
@@ -23201,7 +23201,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-filtro-skus-recebido-nao-funciona-com-caracteres-especiais",
+    "slug": "o-filtro-de-skus-recebidas-nao-funciona-com-caracteres-especiais",
     "internalReference": 944533
   },
   {
@@ -25116,7 +25116,7 @@
   },
   {
     "locale": "pt",
-    "slug": "problemas-ao-inserir-valores-no-cartaopresente-de-fidelidade-no-checkout",
+    "slug": "problemas-ao-inserir-valores-no-cartaopresente-de-fidelidade-durante-o-checkout",
     "internalReference": 943629
   },
   {
