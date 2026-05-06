@@ -14206,6 +14206,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-historial-de-eventos-de-la-suscripcion-no-esta-en-orden",
+    "internalReference": 872697
+  },
+  {
+    "locale": "es",
     "slug": "el-informe-de-exportacion-de-pedidos-no-funciona-correctamente-debido-a-un-doble-espacio-en-el-nombre-de-la-promocion",
     "internalReference": 786216
   },
@@ -14338,11 +14343,6 @@
     "locale": "es",
     "slug": "factura-aceptada-con-un-valor-superior-al-total-del-pedido-a-traves-de-la-api-de-pedidos-durante-un-cambio-simultaneo",
     "internalReference": 1348894
-  },
-  {
-    "locale": "es",
-    "slug": "historial-de-eventos-de-suscripcion-desordenado",
-    "internalReference": 872697
   },
   {
     "locale": "es",
