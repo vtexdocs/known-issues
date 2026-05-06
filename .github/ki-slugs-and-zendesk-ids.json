@@ -9616,11 +9616,6 @@
   },
   {
     "locale": "es",
-    "slug": "especificacion-del-producto-indice-de-exportacion-fuera-de-la-gama",
-    "internalReference": 481095
-  },
-  {
-    "locale": "es",
     "slug": "excluir-productos-de-la-coleccion-no-funciona",
     "internalReference": 923016
   },
@@ -9678,6 +9673,11 @@
     "locale": "es",
     "slug": "indexer-crea-una-respuesta-de-disponibilidad-incoherente-para-mercados-regionalizados",
     "internalReference": 1172289
+  },
+  {
+    "locale": "es",
+    "slug": "indice-de-exportacion-de-especificaciones-del-producto-fuera-de-rango",
+    "internalReference": 481095
   },
   {
     "locale": "es",
@@ -10078,6 +10078,11 @@
     "locale": "es",
     "slug": "las-categorias-que-solo-tienen-productos-configurados-por-categoria-similar-no-aparecen-en-el-mapa-del-sitio",
     "internalReference": 1091727
+  },
+  {
+    "locale": "es",
+    "slug": "las-colecciones-creadas-mediante-la-api-y-los-productos-anadidos-mediante-la-api-la-funcion-insertar-sku-por-archivo-no-funciona-correctamente",
+    "internalReference": 470966
   },
   {
     "locale": "es",
@@ -11511,7 +11516,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-carros-creados-a-partir-de-la-sustitucion-de-pedidos-no-reciben-correctamente-las-promociones",
+    "slug": "los-carritos-creados-a-partir-de-la-sustitucion-de-un-pedido-no-reciben-las-promociones-correctamente",
     "internalReference": 473424
   },
   {
@@ -18356,6 +18361,11 @@
   },
   {
     "locale": "pt",
+    "slug": "as-colecoes-criadas-pela-api-e-os-produtos-inseridos-pela-api-inserir-sku-por-arquivo-nao-estao-funcionando-corretamente",
+    "internalReference": 470966
+  },
+  {
+    "locale": "pt",
     "slug": "as-colecoes-criadas-pela-api-e-os-produtos-inseridos-pela-api-insert-sku-by-file-nao-estao-funcionando-corretamente",
     "internalReference": 470966
   },
@@ -18681,11 +18691,6 @@
   },
   {
     "locale": "pt",
-    "slug": "especificacao-do-produto-indice-de-exportacao-fora-da-faixa",
-    "internalReference": 481095
-  },
-  {
-    "locale": "pt",
     "slug": "especificacoes-obrigatorias-nao-sao-verificadas-ao-criar-um-produto-atraves-de-api",
     "internalReference": 522293
   },
@@ -18813,6 +18818,11 @@
     "locale": "pt",
     "slug": "indexador-de-catalogo-gerando-documentos-de-traducao-invalidos",
     "internalReference": 991494
+  },
+  {
+    "locale": "pt",
+    "slug": "indice-de-exportacao-de-especificacoes-do-produto-fora-do-intervalo",
+    "internalReference": 481095
   },
   {
     "locale": "pt",
@@ -20461,7 +20471,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-promocoes-corretamente",
+    "slug": "os-carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-as-promocoes-corretamente",
     "internalReference": 473424
   },
   {
@@ -22373,6 +22383,11 @@
     "locale": "pt",
     "slug": "atualizacao-de-valores-de-frete-api-que-leva-tempo-para-refletir-sobre-o-modulo-de-simulacao",
     "internalReference": 621230
+  },
+  {
+    "locale": "pt",
+    "slug": "capacidade-de-entrega-como-zero-pedidos-permitindo-a-escolha-da-transportadora-no-momento-do-checkout",
+    "internalReference": 471612
   },
   {
     "locale": "pt",
