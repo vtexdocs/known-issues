@@ -12371,6 +12371,11 @@
   },
   {
     "locale": "es",
+    "slug": "magazine-luiza-los-pedidos-con-el-estado-aprobado-en-el-marketplace-no-se-estan-aprobando-en-vtex",
+    "internalReference": 823443
+  },
+  {
+    "locale": "es",
     "slug": "magazine-luiza-modificar-la-especificacion-de-plaintextdescription",
     "internalReference": 754022
   },
@@ -12618,11 +12623,6 @@
     "locale": "es",
     "slug": "revista-luiza-error-de-puente-solicitud-bloqueada-por-cdn-de-mercado",
     "internalReference": 1327151
-  },
-  {
-    "locale": "es",
-    "slug": "revista-luiza-los-pedidos-con-estado-aprobado-en-el-marketplace-no-se-estan-aprobando-en-vtex",
-    "internalReference": 823443
   },
   {
     "locale": "es",
@@ -21431,6 +21431,11 @@
   },
   {
     "locale": "pt",
+    "slug": "magazine-luiza-os-pedidos-com-o-status-aprovado-no-marketplace-nao-estao-sendo-aprovados-no-vtex",
+    "internalReference": 823443
+  },
+  {
+    "locale": "pt",
     "slug": "magazine-luiza-pedido-cancelado-no-marketplace-mas-nao-no-vtex",
     "internalReference": 792618
   },
@@ -21438,11 +21443,6 @@
     "locale": "pt",
     "slug": "magazine-luiza-pedido-cancelado-no-marketplace-nao-atualizou-o-status-na-vtex",
     "internalReference": 865926
-  },
-  {
-    "locale": "pt",
-    "slug": "magazine-luiza-pedidos-com-status-aprovado-no-marketplace-nao-estao-sendo-aprovados-na-vtex",
-    "internalReference": 823443
   },
   {
     "locale": "pt",
