@@ -9851,7 +9851,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-api-del-catalogo-no-responde-correctamente-a-los-espacios-al-final-de-las-cadenas",
+    "slug": "la-api-del-catalogo-no-responde-correctamente-ante-los-espacios-al-final-de-las-cadenas",
     "internalReference": 977033
   },
   {
@@ -12381,7 +12381,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-pedidos-meli-full-no-crean-factura-en-vtex",
+    "slug": "los-pedidos-meli-full-no-generan-factura-en-vtex",
     "internalReference": 976614
   },
   {
@@ -18361,7 +18361,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-do-catalogo-nao-responde-adequadamente-ao-espaco-no-final-das-cadeias-de-caracteres",
+    "slug": "a-api-do-catalogo-nao-responde-corretamente-ao-espaco-no-final-das-sequencias-de-caracteres",
     "internalReference": 977033
   },
   {
@@ -21786,6 +21786,11 @@
   },
   {
     "locale": "pt",
+    "slug": "os-pedidos-meli-full-nao-estao-gerando-faturas-no-vtex",
+    "internalReference": 976614
+  },
+  {
+    "locale": "pt",
     "slug": "os-pedidos-meli-nao-estao-sendo-cancelados-no-vtex-oms-para-o-cenario-de-contas-multiplas",
     "internalReference": 977453
   },
@@ -21818,11 +21823,6 @@
     "locale": "pt",
     "slug": "pedidos-faturados-na-vtex-mas-que-nao-atualizam-a-fatura-na-netshoes",
     "internalReference": 577219
-  },
-  {
-    "locale": "pt",
-    "slug": "pedidos-meli-full-nao-criam-fatura-na-vtex",
-    "internalReference": 976614
   },
   {
     "locale": "pt",
