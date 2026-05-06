@@ -11751,12 +11751,17 @@
   },
   {
     "locale": "es",
+    "slug": "seleccion-inesperada-de-varios-puntos-de-recogida-para-un-mismo-vendedor-cuando-no-todos-los-articulos-estan-disponibles-a-traves-de-la-misma-opcion",
+    "internalReference": 467702
+  },
+  {
+    "locale": "es",
     "slug": "si-la-primera-direccion-de-la-lista-de-direcciones-esta-incompleta-no-se-rellenan-los-datos-del-perfil-ni-de-envio-al-finalizar-la-compra",
     "internalReference": 366975
   },
   {
     "locale": "es",
-    "slug": "si-no-se-anaden-los-datos-en-el-paso-entregar-en-otra-direccion-desaparece-el-boton-ir-al-pago",
+    "slug": "si-no-se-introducen-los-datos-en-el-paso-enviar-a-otra-direccion-el-boton-pasar-al-pago-desaparece",
     "internalReference": 467419
   },
   {
@@ -19591,11 +19596,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-nao-adicao-de-dados-na-etapa-entregar-em-outro-endereco-faz-com-que-o-botao-ir-para-o-pagamento-desapareca",
-    "internalReference": 467419
-  },
-  {
-    "locale": "pt",
     "slug": "a-opcao-de-coleta-nao-retorna-a-opcao-selecionada-se-a-troca-entre-a-entrega-e-a-coleta",
     "internalReference": 588394
   },
@@ -20616,7 +20616,12 @@
   },
   {
     "locale": "pt",
-    "slug": "selecao-inesperada-de-varios-pontos-de-coleta-para-o-mesmo-vendedor-quando-nem-todos-os-itens-estao-disponiveis-na-mesma-opcao",
+    "slug": "se-os-dados-nao-forem-inseridos-na-etapa-entregar-em-outro-endereco-o-botao-prosseguir-para-o-pagamento-desaparecera",
+    "internalReference": 467419
+  },
+  {
+    "locale": "pt",
+    "slug": "selecao-inesperada-de-varios-pontos-de-retirada-para-o-mesmo-vendedor-quando-nem-todos-os-itens-estao-disponiveis-por-meio-da-mesma-opcao",
     "internalReference": 467702
   },
   {
