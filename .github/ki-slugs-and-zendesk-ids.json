@@ -9926,11 +9926,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-exportacion-de-catalogos-no-admite-los-caracteres-t-y-s",
-    "internalReference": 950933
-  },
-  {
-    "locale": "es",
     "slug": "la-exportacion-de-colecciones-solo-muestra-el-primer-sku-del-producto-inactivo",
     "internalReference": 1040753
   },
@@ -9948,6 +9943,11 @@
     "locale": "es",
     "slug": "la-exportacion-de-muchos-productos-o-referencias-lleva-mucho-tiempo-y-en-ocasiones-la-solicitud-no-se-puede-completar",
     "internalReference": 284386
+  },
+  {
+    "locale": "es",
+    "slug": "la-exportacion-del-catalogo-no-admite-los-caracteres-t-y-s",
+    "internalReference": 950933
   },
   {
     "locale": "es",
@@ -10628,11 +10628,6 @@
     "locale": "es",
     "slug": "al-finalizar-la-compra-el-nombre-del-destinatario-se-sustituye-por-el-nombre-del-cliente",
     "internalReference": 324792
-  },
-  {
-    "locale": "es",
-    "slug": "al-interactuar-con-el-componente-de-pago-cuando-aun-se-encuentra-en-estado-de-carga-se-envia-la-opcion-de-pago-incorrecta",
-    "internalReference": 952086
   },
   {
     "locale": "es",
@@ -11913,6 +11908,11 @@
     "locale": "es",
     "slug": "si-se-interactua-con-el-campo-de-direccion-mientras-algunos-datos-de-la-interfaz-de-usuario-aun-se-estan-cargando-se-cambia-el-modo-de-introduccion-de-la-direccion",
     "internalReference": 423811
+  },
+  {
+    "locale": "es",
+    "slug": "si-se-interactua-con-el-componente-de-pago-mientras-aun-se-esta-cargando-se-envia-una-opcion-de-pago-incorrecta",
+    "internalReference": 952086
   },
   {
     "locale": "es",
@@ -18476,7 +18476,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-exportacao-do-catalogo-nao-pode-manipular-caracteres-t-e-s",
+    "slug": "a-exportacao-do-catalogo-nao-suporta-os-caracteres-t-e-s",
     "internalReference": 950933
   },
   {
@@ -19881,11 +19881,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-interacao-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-em-um-estado-de-carregamento-envia-a-opcao-de-pagamento-errada",
-    "internalReference": 952086
-  },
-  {
-    "locale": "pt",
     "slug": "a-interface-de-usuario-do-checkout-altera-o-endereco-selecionado-quando-ha-mais-de-um-endereco-disponivel",
     "internalReference": 1138817
   },
@@ -20463,6 +20458,11 @@
     "locale": "pt",
     "slug": "interagir-com-o-componente-de-endereco-enquanto-alguns-dados-na-interface-do-usuario-ainda-estao-em-carregamento-altera-o-modo-de-insercao-do-endereco",
     "internalReference": 423811
+  },
+  {
+    "locale": "pt",
+    "slug": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-carregando-faz-com-que-seja-enviada-a-opcao-de-pagamento-errada",
+    "internalReference": 952086
   },
   {
     "locale": "pt",
