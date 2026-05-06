@@ -15301,7 +15301,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-aplicacion-cielo-3ds2-devuelve-un-estado-aprobado-incluso-en-situaciones-en-las-que-la-autenticacion-ha-fallado",
+    "slug": "la-aplicacion-cielo-3ds2-muestra-el-estado-aprobado-incluso-en-casos-en-los-que-la-autenticacion-ha-fallado",
     "internalReference": 820060
   },
   {
@@ -24666,7 +24666,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-cenarios-em-que-a-autenticacao-falhou",
+    "slug": "o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-casos-em-que-a-autenticacao-falhou",
     "internalReference": 820060
   },
   {
