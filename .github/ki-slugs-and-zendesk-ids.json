@@ -14746,6 +14746,11 @@
   },
   {
     "locale": "es",
+    "slug": "actualmente-la-interfaz-de-usuario-de-transactions-tiene-una-limitacion-que-impide-mostrar-los-registros-de-interactions-si-el-contenido-supera-las-5000-lineas",
+    "internalReference": 778408
+  },
+  {
+    "locale": "es",
     "slug": "adyenv1-no-envia-correctamente-el-paymentmethodtype-para-amex-cuando-se-utiliza-apple-pay",
     "internalReference": 920563
   },
@@ -15666,7 +15671,7 @@
   },
   {
     "locale": "es",
-    "slug": "mercadopagov1-falla-al-autorizar-transacciones-cuando-viene-con-el-valor-de-datos-de-usuario-de-telefono-como-0",
+    "slug": "mercadopagov1-no-autoriza-las-transacciones-cuando-el-valor-del-dato-de-usuario-del-telefono-es-0",
     "internalReference": 778611
   },
   {
@@ -23896,11 +23901,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-iu-de-transacao-tem-atualmente-uma-limitacao-onde-nao-pode-exibir-logs-deinteracoes-se-a-carga-util-exceder-5000-linhas",
-    "internalReference": 778408
-  },
-  {
-    "locale": "pt",
     "slug": "a-lista-de-faturas-do-credito-ao-cliente-nao-pode-ser-exportada",
     "internalReference": 327219
   },
@@ -24173,6 +24173,11 @@
     "locale": "pt",
     "slug": "atualizacao-regex-da-cabal",
     "internalReference": 374652
+  },
+  {
+    "locale": "pt",
+    "slug": "atualmente-a-interface-do-usuario-da-transacao-apresenta-uma-limitacao-que-a-impede-de-exibir-registros-de-interactions-caso-o-conteudo-exceda-5000-linhas",
+    "internalReference": 778408
   },
   {
     "locale": "pt",
@@ -24531,11 +24536,6 @@
   },
   {
     "locale": "pt",
-    "slug": "mercadopagov1-nao-autoriza-transacoes-quando-se-trata-de-valor-0-de-dados-de-usuario-do-telefone",
-    "internalReference": 778611
-  },
-  {
-    "locale": "pt",
     "slug": "meus-cartoes-nao-estao-funcionando-para-alguns-conectores-legados",
     "internalReference": 373636
   },
@@ -24748,6 +24748,11 @@
     "locale": "pt",
     "slug": "o-link-para-o-pedido-na-pagina-do-cartaopresente-leva-a-uma-pagina-inexistente-404",
     "internalReference": 1196298
+  },
+  {
+    "locale": "pt",
+    "slug": "o-mercadopagov1-nao-consegue-autorizar-transacoes-quando-o-valor-do-dado-do-usuario-do-telefone-e-0",
+    "internalReference": 778611
   },
   {
     "locale": "pt",
