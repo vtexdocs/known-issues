@@ -11936,7 +11936,7 @@
   },
   {
     "locale": "es",
-    "slug": "tax-service-no-aplica-promociones-de-envio-gratis-con-promocion-que-divide-articulos",
+    "slug": "tax-service-no-aplica-las-promociones-de-envio-gratuito-a-los-pedidos-en-los-que-se-combinan-varios-articulos",
     "internalReference": 995527
   },
   {
@@ -12116,11 +12116,6 @@
   },
   {
     "locale": "es",
-    "slug": "atributo-de-emision-meli-sizechart-no-valido",
-    "internalReference": 996639
-  },
-  {
-    "locale": "es",
     "slug": "atributo-de-integracion-de-amazon-numero-de-itens",
     "internalReference": 557788
   },
@@ -12193,6 +12188,11 @@
     "locale": "es",
     "slug": "el-atributo-melishippingmode-no-se-actualiza-en-la-integracion-de-meli",
     "internalReference": 873993
+  },
+  {
+    "locale": "es",
+    "slug": "el-atributo-sizechart-de-meli-no-es-valido",
+    "internalReference": 996639
   },
   {
     "locale": "es",
@@ -13841,7 +13841,7 @@
   },
   {
     "locale": "es",
-    "slug": "no-se-puede-crear-ninguna-ventana-de-entrega-debido-a-la-incoherencia-en-estimatedate-y-lastdeliveryday-para-timecost-alto",
+    "slug": "no-se-puede-crear-un-intervalo-de-entrega-debido-a-una-inconsistencia-entre-estimatedate-y-lastdeliveryday-lo-que-conlleva-un-elevado-coste-de-tiempo",
     "internalReference": 995491
   },
   {
@@ -20106,6 +20106,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-tax-service-nao-aplica-promocoes-de-frete-gratis-a-promocoes-que-dividem-os-itens",
+    "internalReference": 995527
+  },
+  {
+    "locale": "pt",
     "slug": "a-ui-nao-atualiza-a-melhor-escolha-de-sla-no-carrinho",
     "internalReference": 550201
   },
@@ -20881,11 +20886,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-tax-service-nao-aplica-promocoes-de-frete-gratis-com-promocoes-que-dividem-itens",
-    "internalReference": 995527
-  },
-  {
-    "locale": "pt",
     "slug": "o-transporte-enxuto-causa-algo-deu-errado-depois-de-mudar-os-pontos-de-coleta",
     "internalReference": 1053609
   },
@@ -21316,11 +21316,6 @@
   },
   {
     "locale": "pt",
-    "slug": "atributo-de-problema-do-meli-sizechart-nao-e-valido",
-    "internalReference": 996639
-  },
-  {
-    "locale": "pt",
     "slug": "atributo-tamanho-do-mercado-livre-mapper",
     "internalReference": 592577
   },
@@ -21733,6 +21728,11 @@
     "locale": "pt",
     "slug": "o-atributo-melishippingmode-nao-esta-sendo-atualizado-na-integracao-com-o-meli",
     "internalReference": 873993
+  },
+  {
+    "locale": "pt",
+    "slug": "o-atributo-sizechart-do-meli-nao-e-valido",
+    "internalReference": 996639
   },
   {
     "locale": "pt",
@@ -22976,7 +22976,7 @@
   },
   {
     "locale": "pt",
-    "slug": "nenhuma-janela-de-entrega-pode-ser-criada-devido-a-inconsistencia-em-estimatedate-e-lastdeliveryday-para-timecost-alto",
+    "slug": "nao-e-possivel-criar-um-intervalo-de-entrega-devido-a-uma-inconsistencia-entre-estimatedate-e-lastdeliveryday-o-que-implica-um-custo-de-tempo-elevado",
     "internalReference": 995491
   },
   {
