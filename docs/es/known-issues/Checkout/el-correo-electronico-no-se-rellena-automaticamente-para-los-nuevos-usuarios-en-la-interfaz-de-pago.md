@@ -2,8 +2,8 @@
 title: 'El correo electrónico no se rellena automáticamente para los nuevos usuarios en la interfaz de pago'
 slug: el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-usuarios-en-la-interfaz-de-pago
 status: PUBLISHED
-createdAt: 2023-08-25T00:24:50.000Z
-updatedAt: 2023-08-25T15:27:32.000Z
+createdAt: 2023-08-25T15:29:44.000Z
+updatedAt: 2023-08-29T19:17:25.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,7 +11,7 @@ tag: Checkout
 slugEN: email-not-autofilling-for-new-users-on-checkoutui
 locale: es
 kiStatus: Backlog
-internalReference: 887645
+internalReference: 887949
 ---
 
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
@@ -24,7 +24,7 @@ Esto se debe a que no hay ningún usuario registrado con esa dirección de corre
 ## Simulación
 
 1. Ve a la página de pago donde los clientes introducen su correo electrónico.
-2. Introduce un correo electrónico que nunca se haya utilizado antes en la tienda.
+2. Introduce una dirección de correo electrónico que nunca se haya utilizado antes en la tienda.
 3. Ve al componente de perfil del cliente.
 4. El campo de correo electrónico estará vacío, por lo que tendrás que volver a escribirlo.
 
