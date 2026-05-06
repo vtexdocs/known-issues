@@ -13961,7 +13961,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-productos-no-se-emparejan-correctamente-cuando-el-productname-contiene-numeros",
+    "slug": "los-productos-no-se-muestran-correctamente-cuando-el-nombre-del-producto-contiene-numeros",
     "internalReference": 762525
   },
   {
@@ -16406,7 +16406,7 @@
   },
   {
     "locale": "es",
-    "slug": "restringir-el-defaultsrc-de-la-cabecera-politica-de-seguridad-de-contenidos-podria-romper-el-checkout",
+    "slug": "restringir-el-valor-defaultsrc-de-la-politica-de-seguridad-de-contenidos-csp-del-encabezado-podria-impedir-que-se-complete-el-proceso-de-pago",
     "internalReference": 763359
   },
   {
@@ -23051,7 +23051,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-produtos-nao-estao-sendo-correspondidos-corretamente-quando-o-productname-contem-numeros",
+    "slug": "os-produtos-nao-estao-sendo-correspondidos-corretamente-quando-o-nome-do-produto-contem-numeros",
     "internalReference": 762525
   },
   {
@@ -25466,7 +25466,7 @@
   },
   {
     "locale": "pt",
-    "slug": "restringir-o-padrao-de-seguranca-do-cabecalho-a-politica-de-seguranca-de-conteudo-pode-quebrar-o-checkout",
+    "slug": "restringir-o-parametro-defaultsrc-da-politica-de-seguranca-de-conteudo-csp-do-cabecalho-pode-impedir-o-funcionamento-do-processo-de-checkout",
     "internalReference": 763359
   },
   {
