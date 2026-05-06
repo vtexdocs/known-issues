@@ -16646,6 +16646,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-tabla-de-precios-exportada-filtrada-por-marca-no-incluye-todas-las-referencias",
+    "internalReference": 594075
+  },
+  {
+    "locale": "es",
     "slug": "la-tabla-de-precios-promocionales-en-carros-de-la-compra-de-gran-tamano-puede-afectar-al-rendimiento-o-provocar-errores-de-tiempo-de-espera",
     "internalReference": 949389
   },
@@ -16753,11 +16758,6 @@
     "locale": "es",
     "slug": "registros-de-precios-de-auditoria-que-muestran-informacion-desconocida",
     "internalReference": 856420
-  },
-  {
-    "locale": "es",
-    "slug": "tabla-de-precios-exportados-filtrado-por-marca-no-trae-todos-los-skus",
-    "internalReference": 594075
   },
   {
     "locale": "es",
@@ -25381,6 +25381,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-tabela-de-precos-exportada-filtrada-por-marca-nao-inclui-todos-os-skus",
+    "internalReference": 594075
+  },
+  {
+    "locale": "pt",
     "slug": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-grandes-pode-afetar-o-desempenho-ou-levar-a-erros-de-tempo-limite",
     "internalReference": 949389
   },
@@ -25668,11 +25673,6 @@
     "locale": "pt",
     "slug": "tabela-de-precos-calculados-para-exportacao-nao-trazendo-todos-os-skus",
     "internalReference": 722005
-  },
-  {
-    "locale": "pt",
-    "slug": "tabela-de-precos-de-exportacao-filtrada-por-marca-nao-traz-todos-os-skus",
-    "internalReference": 594075
   },
   {
     "locale": "pt",
