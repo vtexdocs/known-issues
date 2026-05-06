@@ -14746,7 +14746,7 @@
   },
   {
     "locale": "es",
-    "slug": "suscripciones-no-ejecutadas-por-fallo-en-la-indexacion-de-datos-o-en-la-consulta-de-datos-maestros",
+    "slug": "suscripciones-no-ejecutadas-debido-a-un-error-en-la-indexacion-de-datos-o-a-un-error-en-la-consulta-de-datos-maestros",
     "internalReference": 961526
   },
   {
@@ -23426,7 +23426,7 @@
   },
   {
     "locale": "pt",
-    "slug": "assinaturas-nao-executadas-devido-a-falha-na-indexacao-de-dados-ou-falha-na-consulta-de-dados-mestre",
+    "slug": "assinaturas-nao-executadas-devido-a-falha-na-indexacao-de-dados-ou-na-consulta-de-dados-mestre",
     "internalReference": 961526
   },
   {
