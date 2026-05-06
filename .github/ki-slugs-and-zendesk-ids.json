@@ -12271,7 +12271,7 @@
   },
   {
     "locale": "es",
-    "slug": "integracion-de-amazon-reservas-de-stock-para-kits",
+    "slug": "integracion-con-amazon-reservas-de-existencias-para-kits",
     "internalReference": 829583
   },
   {
@@ -21381,6 +21381,11 @@
   },
   {
     "locale": "pt",
+    "slug": "integracao-com-a-amazon-para-reservas-de-estoque-de-kits",
+    "internalReference": 829583
+  },
+  {
+    "locale": "pt",
     "slug": "integracao-de-pedido-amazon-quantidade-de-item-invalida",
     "internalReference": 385656
   },
@@ -21728,11 +21733,6 @@
     "locale": "pt",
     "slug": "reserva-de-estoque-para-pedidos-da-amazon",
     "internalReference": 670572
-  },
-  {
-    "locale": "pt",
-    "slug": "reservas-de-estoque-de-integracao-da-amazon-para-kits",
-    "internalReference": 829583
   },
   {
     "locale": "pt",
