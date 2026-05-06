@@ -2,8 +2,8 @@
 title: 'Category translation fields being overwritten on catalog graphql'
 slug: category-translation-fields-being-overwritten-on-catalog-graphql
 status: PUBLISHED
-createdAt: 2026-03-20T00:25:31.717Z
-updatedAt: 2026-03-20T00:25:31.717Z
+createdAt: 2022-09-08T23:46:11.000Z
+updatedAt: 2026-03-20T03:24:35.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
