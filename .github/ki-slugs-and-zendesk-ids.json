@@ -11181,6 +11181,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-funcion-lean-shipping-anula-el-metodo-de-envio-preferido-por-el-usuario-y-aplica-la-opcion-mas-economica-en-diferentes-sesiones-o-navegadores",
+    "internalReference": 607411
+  },
+  {
+    "locale": "es",
     "slug": "la-informacion-del-cliente-no-se-guarda-en-el-sistema-de-perfiles",
     "internalReference": 784763
   },
@@ -11508,11 +11513,6 @@
     "locale": "es",
     "slug": "lean-shipping-provoca-algo-salio-mal-tras-cambiar-los-puntos-de-recogida",
     "internalReference": 1053609
-  },
-  {
-    "locale": "es",
-    "slug": "lean-shipping-sustituye-el-metodo-de-envio-preferido-por-el-usuario-por-la-opcion-mas-barata-en-diferentes-sesionesnavegadores",
-    "internalReference": 607411
   },
   {
     "locale": "es",
@@ -15116,6 +15116,11 @@
   },
   {
     "locale": "es",
+    "slug": "incoherencia-en-el-funcionamiento-de-la-opcion-de-pago-en-una-sola-cuota-al-finalizar-la-compra",
+    "internalReference": 605568
+  },
+  {
+    "locale": "es",
     "slug": "incoherencia-en-el-informe-de-pedido-cuando-el-campo-tid-esta-duplicado-en-el-campo-connectorresponses-de-la-api-de-detalles-de-pago-get",
     "internalReference": 895664
   },
@@ -16898,6 +16903,11 @@
     "locale": "es",
     "slug": "mdv2-devuelve-el-error-504-gateway-timeout-cuando-intentamos-actualizar-un-documento-pasando-un-simbolo-o-caracter-especial",
     "internalReference": 852966
+  },
+  {
+    "locale": "es",
+    "slug": "no-se-pueden-utilizar-caracteres-especiales-en-la-busqueda-de-cnpj-en-masterdata",
+    "internalReference": 602054
   },
   {
     "locale": "es",
@@ -20432,6 +20442,11 @@
   {
     "locale": "pt",
     "slug": "o-lean-shipping-substitui-o-metodo-de-envio-preferido-do-usuario-pela-opcao-mais-barata-em-diferentes-sessoesnavegadores",
+    "internalReference": 607411
+  },
+  {
+    "locale": "pt",
+    "slug": "o-lean-shipping-substitui-o-metodo-de-envio-preferido-pelo-usuario-pela-opcao-mais-barata-em-diferentes-sessoesnavegadores",
     "internalReference": 607411
   },
   {
@@ -24206,6 +24221,11 @@
   },
   {
     "locale": "pt",
+    "slug": "inconsistencia-no-comportamento-da-opcao-de-pagamento-em-uma-unica-parcela-durante-a-finalizacao-da-compra",
+    "internalReference": 605568
+  },
+  {
+    "locale": "pt",
     "slug": "inconsistencia-no-evento",
     "internalReference": 267299
   },
@@ -25793,6 +25813,11 @@
     "locale": "pt",
     "slug": "link-de-download-do-masterdata-export-indisponivel",
     "internalReference": 613864
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-usar-caracteres-especiais-na-pesquisa-de-cnpj-no-masterdata",
+    "internalReference": 602054
   },
   {
     "locale": "pt",
