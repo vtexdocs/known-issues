@@ -10976,7 +10976,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-proceso-de-pago-no-actualiza-los-impuestos-teniendo-en-cuenta-el-vendedor-correcto-al-combinar-la-informacion-del-carro",
+    "slug": "el-proceso-de-pago-no-actualiza-los-impuestos-teniendo-en-cuenta-el-vendedor-correcto-al-combinar-la-informacion-del-carrito",
     "internalReference": 759842
   },
   {
@@ -12463,6 +12463,11 @@
     "locale": "es",
     "slug": "mercado-livre-bridge-bridge-no-registra-algunos-mensajes-de-error",
     "internalReference": 1053742
+  },
+  {
+    "locale": "es",
+    "slug": "mercado-livre-el-atributo-de-variacion-esta-duplicado-se-permiten-combinaciones-unicas-de-atributos",
+    "internalReference": 758331
   },
   {
     "locale": "es",
@@ -14806,7 +14811,7 @@
   },
   {
     "locale": "es",
-    "slug": "cuando-se-produce-un-error-despues-de-que-firstdata-apruebe-una-liquidacion-la-transaccion-no-puede-completarse",
+    "slug": "cuando-se-produce-un-error-despues-de-que-firstdata-haya-autorizado-una-liquidacion-la-transaccion-no-se-puede-completar",
     "internalReference": 760458
   },
   {
@@ -14861,7 +14866,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-conector-adyenv1-no-esta-enviando-pspreference-en-algunas-operaciones-y-por-lo-tanto-causa-error",
+    "slug": "el-conector-adyenv1-no-envia-el-campo-pspreference-en-algunas-operaciones-lo-que-provoca-un-error",
     "internalReference": 758411
   },
   {
@@ -20561,6 +20566,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-fluxo-de-checkout-nao-atualiza-os-impostos-considerando-o-vendedor-correto-ao-consolidar-as-informacoes-do-carrinho",
+    "internalReference": 759842
+  },
+  {
+    "locale": "pt",
     "slug": "o-fluxo-de-login-no-checkout-permite-alterar-o-email-mas-o-fluxo-nao-e-compativel",
     "internalReference": 258447
   },
@@ -20633,11 +20643,6 @@
     "locale": "pt",
     "slug": "o-pedido-nao-pode-ser-criado-quando-o-vendedor-tem-um-codigo-de-pais-diferente",
     "internalReference": 763955
-  },
-  {
-    "locale": "pt",
-    "slug": "o-pipeline-de-checkout-nao-atualiza-os-impostos-considerando-o-vendedor-correto-ao-mesclar-as-informacoes-do-carrinho",
-    "internalReference": 759842
   },
   {
     "locale": "pt",
@@ -21473,6 +21478,11 @@
     "locale": "pt",
     "slug": "mercado-livre-menu-bridge-orders-nao-mostra-as-informacoes-de-shippingid",
     "internalReference": 1001903
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-o-atributo-de-variacao-esta-duplicado-sao-permitidas-combinacoes-unicas-de-atributos",
+    "internalReference": 758331
   },
   {
     "locale": "pt",
@@ -24641,7 +24651,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-conector-adyenv1-nao-esta-enviando-pspreference-em-algumas-operacoes-e-portanto-causando-erros",
+    "slug": "o-conector-adyenv1-nao-esta-enviando-o-pspreference-em-algumas-operacoes-o-que-esta-causando-um-erro",
     "internalReference": 758411
   },
   {
@@ -24931,7 +24941,7 @@
   },
   {
     "locale": "pt",
-    "slug": "quando-ocorre-um-erro-apos-a-firstdata-aprovar-um-acordo-a-transacao-nao-pode-ser-concluida",
+    "slug": "quando-ocorre-um-erro-apos-a-firstdata-aprovar-uma-liquidacao-a-transacao-nao-pode-ser-concluida",
     "internalReference": 760458
   },
   {
