@@ -13831,7 +13831,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-comparador-no-funciona-como-se-espera-cuando-el-nombre-del-productosku-contiene-caracteres-especiales",
+    "slug": "el-comparador-no-funciona-como-se-esperaba-cuando-el-nombre-del-producto-o-del-sku-contiene-caracteres-especiales",
     "internalReference": 736164
   },
   {
@@ -17246,7 +17246,7 @@
   },
   {
     "locale": "es",
-    "slug": "intl-no-considera-moneda-personalizada-en-formatdivisa",
+    "slug": "intl-no-tiene-en-cuenta-la-moneda-personalizada-en-formatcurrency",
     "internalReference": 736695
   },
   {
@@ -26231,11 +26231,6 @@
   },
   {
     "locale": "pt",
-    "slug": "nao-considerando-a-moeda-personalizada-no-formato",
-    "internalReference": 736695
-  },
-  {
-    "locale": "pt",
     "slug": "o-aplicativo-ab-tester-mostra-informacoes-mal-calculadas-para-sessoes-e-conversao",
     "internalReference": 865727
   },
@@ -26313,6 +26308,11 @@
     "locale": "pt",
     "slug": "o-favicon-nao-e-exibido-em-algumas-versoes-do-google-chrome-para-celular",
     "internalReference": 1139339
+  },
+  {
+    "locale": "pt",
+    "slug": "o-formato-formatcurrency-nao-considera-moedas-personalizadas",
+    "internalReference": 736695
   },
   {
     "locale": "pt",
