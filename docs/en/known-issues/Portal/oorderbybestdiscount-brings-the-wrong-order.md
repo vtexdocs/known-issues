@@ -2,8 +2,8 @@
 title: 'O=OrderByBestDiscount brings the wrong order'
 slug: oorderbybestdiscount-brings-the-wrong-order
 status: PUBLISHED
-createdAt: 2025-10-07T19:51:14.186Z
-updatedAt: 2025-10-07T19:51:14.186Z
+createdAt: 2021-08-06T21:52:38.000Z
+updatedAt: 2025-10-07T22:50:41.000Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,20 +16,14 @@ internalReference: 409119
 
 ## Summary
 
-
 OrderByBestDiscount is calculated taking into account the lowest `listPrice` and `price` among all available sales channels
 
-
-#### Simulation
-
-
+## Simulation
 
 - Enter more than one price on the product. Ex: two different list prices on different sellers
 - Put page sorting by discount (O=OrderByBestDiscount)
 - See that the sorting is not in the order of the prices being displayed
 
-
-#### Workaround
-
+## Workaround
 
 N/A
