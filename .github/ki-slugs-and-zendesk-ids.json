@@ -11381,7 +11381,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-usuario-utiliza-el-sla-incorrecto-cuando-se-seleccionan-vendedores-diferentes-para-la-entrega-y-la-recogida",
+    "slug": "la-interfaz-de-usuario-utiliza-un-sla-incorrecto-cuando-se-seleccionan-diferentes-vendedores-para-la-entrega-y-la-recogida",
     "internalReference": 797023
   },
   {
@@ -17906,7 +17906,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-botao-voltar-nao-e-renderizado-em-minha-organizacao",
+    "slug": "o-botao-voltar-nao-e-exibido-em-minha-organizacao",
     "internalReference": 797003
   },
   {
@@ -19896,7 +19896,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-interface-do-usuario-usa-o-sla-errado-quando-vendedores-diferentes-sao-selecionados-para-entrega-e-coleta",
+    "slug": "a-interface-do-usuario-utiliza-o-sla-incorreto-quando-sao-selecionados-vendedores-diferentes-para-entrega-e-retirada",
     "internalReference": 797023
   },
   {
