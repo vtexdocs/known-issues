@@ -10281,6 +10281,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-se-aplican-los-roles-de-usuario-de-catalogv2",
+    "internalReference": 489297
+  },
+  {
+    "locale": "es",
     "slug": "no-se-permite-la-entrega-de-kits-si-el-producto-tiene-un-modo-configurado",
     "internalReference": 296045
   },
@@ -18418,6 +18423,11 @@
     "locale": "pt",
     "slug": "as-exportacoes-de-estoques-individuais-inventarios-nao-funcionam-nas-contas-do-seller-portal",
     "internalReference": 684464
+  },
+  {
+    "locale": "pt",
+    "slug": "as-funcoes-de-usuario-do-catalogv2-nao-estao-sendo-aplicadas",
+    "internalReference": 489297
   },
   {
     "locale": "pt",
