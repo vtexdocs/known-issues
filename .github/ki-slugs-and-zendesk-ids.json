@@ -3146,6 +3146,11 @@
   },
   {
     "locale": "en",
+    "slug": "this-is-a-test",
+    "internalReference": 741722
+  },
+  {
+    "locale": "en",
     "slug": ".md",
     "internalReference": 1216327
   },
@@ -11126,7 +11131,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-api-de-orderform-impide-la-seleccion-del-metodo-de-envio-para-el-mismo-articulo-con-diferentes-vendedores",
+    "slug": "la-api-de-orderform-impide-seleccionar-el-metodo-de-envio-para-el-mismo-articulo-cuando-se-trata-de-vendedores-diferentes",
     "internalReference": 742139
   },
   {
@@ -11436,11 +11441,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-vista-previa-de-envio-muestra-erroneamente-la-fecha-en-la-que-esta-programada-la-entrega",
-    "internalReference": 743774
-  },
-  {
-    "locale": "es",
     "slug": "la-vista-previa-de-los-envios-no-utiliza-el-nombre-del-ans-para-su-visualizacion-en-la-interfaz-de-usuario",
     "internalReference": 574651
   },
@@ -11458,6 +11458,11 @@
     "locale": "es",
     "slug": "la-vista-previa-del-envio-muestra-el-codigo-postal-de-recogida-para-el-envio-cuando-hay-un-paquete-dividido-para-la-recogida-y-el-envio",
     "internalReference": 938124
+  },
+  {
+    "locale": "es",
+    "slug": "la-vista-previa-del-envio-muestra-erroneamente-la-fecha-de-entrega-prevista",
+    "internalReference": 743774
   },
   {
     "locale": "es",
@@ -11566,7 +11571,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-articulos-no-disponibles-rompen-el-calculo-del-orderform-en-un-escenario-especifico-cuando-se-utilizan-vendedores-con-etiqueta-blanca",
+    "slug": "los-articulos-no-disponibles-alteran-el-calculo-del-formulario-de-pedido-en-un-caso-concreto-al-utilizar-vendedores-de-marca-blanca",
     "internalReference": 745047
   },
   {
@@ -11928,6 +11933,11 @@
     "locale": "es",
     "slug": "visualizacion-incorrecta-de-la-cantidad-de-paquetes-en-la-caja",
     "internalReference": 520369
+  },
+  {
+    "locale": "es",
+    "slug": "esto-es-una-prueba",
+    "internalReference": 741722
   },
   {
     "locale": "es",
@@ -13391,7 +13401,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-terminos-mas-buscados-presentados-en-autocompletar-no-coinciden-con-los-terminos-presentados-en-el-informe-analytics",
+    "slug": "los-terminos-de-busqueda-mas-frecuentes-que-aparecen-en-la-funcion-de-autocompletar-no-coinciden-con-los-que-figuran-en-el-informe-de-analytics",
     "internalReference": 741999
   },
   {
@@ -13831,11 +13841,6 @@
   },
   {
     "locale": "es",
-    "slug": "crear-vendedor-con-informacion-adicional-devuelve-un-error",
-    "internalReference": 741110
-  },
-  {
-    "locale": "es",
     "slug": "el-campo-cambios-y-devoluciones-no-se-actualiza-en-la-interfaz-de-usuario-de-gestion-de-vendedores-tras-guardar",
     "internalReference": 689886
   },
@@ -13943,6 +13948,11 @@
     "locale": "es",
     "slug": "la-limpieza-completa-de-vendedores-no-funciona-si-la-cuenta-tiene-grupos-de-vendedores-en-gestion-de-vendedores",
     "internalReference": 922541
+  },
+  {
+    "locale": "es",
+    "slug": "la-operacion-crear-vendedor-con-informacion-adicional-devuelve-un-error",
+    "internalReference": 741110
   },
   {
     "locale": "es",
@@ -14991,7 +15001,7 @@
   },
   {
     "locale": "es",
-    "slug": "en-un-escenario-de-pago-dividido-cuando-el-importe-ya-ha-sido-capturado-la-pasarela-ya-no-permite-una-solicitud-de-cancelacion",
+    "slug": "en-un-caso-de-pago-fraccionado-en-el-que-el-importe-ya-se-haya-cobrado-la-pasarela-ya-no-permite-solicitar-la-cancelacion",
     "internalReference": 742046
   },
   {
@@ -17336,6 +17346,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-propiedad-blockclass-de-infocard-no-funciona",
+    "internalReference": 743730
+  },
+  {
+    "locale": "es",
     "slug": "la-suplantacion-de-identidad-en-las-ventas-telefonicas-falla-para-clientes-especificos-en-las-tiendas-del-sistema-de-perfiles-unificado",
     "internalReference": 1369897
   },
@@ -17373,6 +17388,11 @@
     "locale": "es",
     "slug": "las-imagenes-de-movil-infocard-no-se-aplicaran",
     "internalReference": 909647
+  },
+  {
+    "locale": "es",
+    "slug": "las-opciones-de-montaje-no-se-tienen-en-cuenta-al-seleccionarlas-en-la-pagina-de-detalles-del-producto-y-al-anadir-el-articulo-al-carrito",
+    "internalReference": 743529
   },
   {
     "locale": "es",
@@ -17521,11 +17541,6 @@
   },
   {
     "locale": "es",
-    "slug": "propiedad-blockclass-de-infocard-no-funciona",
-    "internalReference": 743730
-  },
-  {
-    "locale": "es",
     "slug": "redondeo-incorrecto-del-precio-cuando-el-multiplicador-de-la-unidad-es-diferente-de-1",
     "internalReference": 426275
   },
@@ -17543,11 +17558,6 @@
     "locale": "es",
     "slug": "se-ha-superado-el-tamano-maximo-de-la-pila-de-llamadas-en-sitemap",
     "internalReference": 1132723
-  },
-  {
-    "locale": "es",
-    "slug": "se-ignoran-las-opciones-de-montaje-al-seleccionarlas-en-la-pdp-y-anadirlas-al-carro",
-    "internalReference": 743529
   },
   {
     "locale": "es",
@@ -19616,7 +19626,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-do-orderform-impede-a-selecao-do-metodo-de-envio-para-o-mesmo-item-em-diferentes-vendedores",
+    "slug": "a-api-do-formulario-de-pedido-impede-a-selecao-do-metodo-de-envio-para-o-mesmo-item-em-diferentes-vendedores",
     "internalReference": 742139
   },
   {
@@ -19848,6 +19858,11 @@
     "locale": "pt",
     "slug": "a-pesquisa-do-seletor-de-ponto-de-coleta-nao-funciona-com-enterreturn",
     "internalReference": 829955
+  },
+  {
+    "locale": "pt",
+    "slug": "a-previsualizacao-do-envio-exibe-incorretamente-a-data-prevista-para-a-entrega",
+    "internalReference": 743774
   },
   {
     "locale": "pt",
@@ -20271,7 +20286,7 @@
   },
   {
     "locale": "pt",
-    "slug": "itens-indisponiveis-que-quebram-o-calculo-do-pedidoformulario-de-calculo-em-um-cenario-especifico-utilizando-vendedores-de-whitelabel",
+    "slug": "itens-indisponiveis-que-prejudicam-o-calculo-do-formulario-de-pedido-em-um-cenario-especifico-ao-utilizar-vendedores-de-marca-branca",
     "internalReference": 745047
   },
   {
@@ -20953,6 +20968,11 @@
     "locale": "pt",
     "slug": "valores-nulos-no-objeto-deliveryslainminutes-para-entrega-programada-para-o-mesmo-dia",
     "internalReference": 1079981
+  },
+  {
+    "locale": "pt",
+    "slug": "este-e-um-teste",
+    "internalReference": 741722
   },
   {
     "locale": "pt",
@@ -22261,6 +22281,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-evento-productclick-nao-esta-sendo-acionado-na-barra-de-pesquisa",
+    "internalReference": 742754
+  },
+  {
+    "locale": "pt",
     "slug": "o-filtro-productclusterids-e-substituido-por-productclusternames-ao-aplicar-filtros-adicionais",
     "internalReference": 899508
   },
@@ -22401,6 +22426,11 @@
   },
   {
     "locale": "pt",
+    "slug": "os-termos-de-pesquisa-mais-populares-apresentados-na-sugestao-automatica-nao-correspondem-aos-termos-apresentados-no-relatorio-do-analytics",
+    "internalReference": 741999
+  },
+  {
+    "locale": "pt",
     "slug": "os-valores-das-especificacoes-nao-estao-sendo-traduzidos-na-secao-de-pesquisa-inteligente",
     "internalReference": 784129
   },
@@ -22458,11 +22488,6 @@
     "locale": "pt",
     "slug": "problemas-de-traducao-ao-usar-uma-subconta-para-implementar-lojas-em-varios-idiomas",
     "internalReference": 848524
-  },
-  {
-    "locale": "pt",
-    "slug": "produtoclique-o-evento-que-nao-aciona-na-barra-de-busca",
-    "internalReference": 742754
   },
   {
     "locale": "pt",
@@ -22861,6 +22886,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-funcao-criar-vendedor-com-informacoes-adicionais-esta-apresentando-um-erro",
+    "internalReference": 741110
+  },
+  {
+    "locale": "pt",
     "slug": "a-inativacao-do-vendedor-na-nova-ui-de-registro-do-vendedor-nao-aciona-a-reindexacao-do-produto-lacuna-de-sincronizacao-do-marketplace",
     "internalReference": 915970
   },
@@ -22918,11 +22948,6 @@
     "locale": "pt",
     "slug": "convite-do-vendedor-rota-nao-encontrada-apos-a-criacao-da-conta",
     "internalReference": 1167493
-  },
-  {
-    "locale": "pt",
-    "slug": "criar-vendedor-com-informacoes-adicionais-esta-retornando-um-erro",
-    "internalReference": 741110
   },
   {
     "locale": "pt",
@@ -24191,7 +24216,7 @@
   },
   {
     "locale": "pt",
-    "slug": "em-um-cenario-de-pagamento-dividido-quando-o-valor-ja-foi-capturado-a-porta-de-entrada-nao-permite-mais-um-pedido-de-cancelamento",
+    "slug": "em-um-cenario-de-divisao-de-pagamento-em-que-o-valor-ja-foi-registrado-o-gateway-nao-permite-mais-uma-solicitacao-de-cancelamento",
     "internalReference": 742046
   },
   {
@@ -26156,6 +26181,11 @@
   },
   {
     "locale": "pt",
+    "slug": "as-opcoes-de-montagem-sao-ignoradas-quando-selecionadas-na-pagina-de-detalhes-do-produto-pdp-e-ao-adicionar-ao-carrinho",
+    "internalReference": 743529
+  },
+  {
+    "locale": "pt",
     "slug": "as-tags-canonicas-nao-sao-aplicadas-apos-o-terceiro-nivel-de-categoria",
     "internalReference": 932349
   },
@@ -26518,11 +26548,6 @@
     "locale": "pt",
     "slug": "ogtitle-nao-esta-considerando-o-sinalizador-removestorenametitle-nas-paginas-de-produtos",
     "internalReference": 1242243
-  },
-  {
-    "locale": "pt",
-    "slug": "opcoes-de-montagem-sendo-ignoradas-quando-selecionadas-no-pdp-e-adicionadas-ao-carrinho",
-    "internalReference": 743529
   },
   {
     "locale": "pt",
