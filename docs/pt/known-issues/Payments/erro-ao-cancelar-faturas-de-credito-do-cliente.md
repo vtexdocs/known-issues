@@ -1,11 +1,9 @@
 ---
 title: 'Erro ao cancelar faturas de crédito do cliente'
-id: 75nZNOHGYGBlAoTOjG6gs
+slug: erro-ao-cancelar-faturas-de-credito-do-cliente
 status: PUBLISHED
-createdAt: 2023-10-26T21:09:54.255Z
-updatedAt: 2024-05-29T17:25:32.948Z
-publishedAt: 2024-05-29T17:25:32.948Z
-firstPublishedAt: 2023-10-26T21:09:54.992Z
+createdAt: 2023-10-26T21:09:38.000Z
+updatedAt: 2024-05-29T17:25:13.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,27 +14,18 @@ kiStatus: Backlog
 internalReference: 926563
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
-Em alguns casos, as faturas não podem ser canceladas; ao executar a API DELETE, recebemos um erro 500 com a resposta abaixo:
+Em alguns casos, as faturas não podem ser canceladas; ao executar a API DELETE, recebemos um erro 500 com a seguinte resposta:
 
 `"message": "Ocorreu um erro."`
 
 ## Simulação
 
-
-Não foi possível replicar esse erro.
-
-
+Não conseguimos reproduzir esse bug.
 
 ## Workaround
 
-
-NA
-
-
-
-
+N/A
