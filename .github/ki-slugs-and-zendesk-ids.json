@@ -16961,7 +16961,7 @@
   },
   {
     "locale": "es",
-    "slug": "autor-de-la-version-nota-no-encontrado-en-vtex-id-en-el-perfil",
+    "slug": "autor-de-la-version-nota-no-se-encuentra-en-el-id-de-vtex-en-el-perfil",
     "internalReference": 914314
   },
   {
@@ -17321,7 +17321,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-texto-de-inicio-de-sesion-en-la-tienda-no-se-traduce-con-el-editor-del-sitio",
+    "slug": "el-texto-de-inicio-de-sesion-en-la-tienda-no-se-traduce-mediante-el-editor-del-sitio",
     "internalReference": 911757
   },
   {
@@ -26171,7 +26171,7 @@
   },
   {
     "locale": "pt",
-    "slug": "autor-da-versao-note-not-found-on-vtex-id-no-perfil",
+    "slug": "autor-da-versao-observacao-nao-encontrado-no-vtex-id-no-perfil",
     "internalReference": 914314
   },
   {
@@ -26761,6 +26761,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-texto-na-pagina-de-login-da-loja-nao-esta-sendo-traduzido-pelo-editor-do-site",
+    "internalReference": 911757
+  },
+  {
+    "locale": "pt",
     "slug": "o-texto-no-botao-adicionar-ao-carrinho-nao-esta-sendo-traduzido-usando-o-editor-do-site",
     "internalReference": 1026103
   },
@@ -26768,11 +26773,6 @@
     "locale": "pt",
     "slug": "o-texto-no-infocard-nao-esta-sendo-traduzido-usando-o-editor-do-site",
     "internalReference": 1049491
-  },
-  {
-    "locale": "pt",
-    "slug": "o-texto-no-login-da-loja-nao-esta-sendo-traduzido-usando-o-editor-do-site",
-    "internalReference": 911757
   },
   {
     "locale": "pt",
