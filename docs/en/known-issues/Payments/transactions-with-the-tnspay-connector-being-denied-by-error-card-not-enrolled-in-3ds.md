@@ -2,8 +2,8 @@
 title: 'Transactions with the TNSPay connector being denied by error: Card not ENROLLED in 3DS'
 slug: transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds
 status: PUBLISHED
-createdAt: 2025-11-14T19:34:37.601Z
-updatedAt: 2025-11-14T19:34:37.601Z
+createdAt: 2022-03-14T13:21:44.000Z
+updatedAt: 2023-04-10T16:10:35.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,7 +16,6 @@ internalReference: 541687
 
 ## Summary
 
-
 The default is that they are canceled and we send two Authorize 3Ds Requests, and you still haven't received the Authorize Request response.
 The second response only appears after it has already entered the cancellation flow.
 
@@ -27,14 +26,10 @@ At the beginning of the process, the first log is
 
 The authorization method was called 2 times within 2 seconds.
 
-
-#### Simulation
-
+## Simulation
 
 Cannot simulate
 
-
-#### Workaround
-
+## Workaround
 
 There is no workaround
