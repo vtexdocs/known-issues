@@ -13121,7 +13121,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-rango-de-precios-en-la-api-de-facetas-no-se-corresponde-con-los-resultados-de-busqueda",
+    "slug": "el-rango-de-precios-de-la-api-de-facets-no-se-corresponde-con-los-resultados-de-la-busqueda",
     "internalReference": 997121
   },
   {
@@ -22206,7 +22206,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-faixa-de-preco-na-api-de-facetas-nao-corresponde-aos-resultados-da-pesquisa",
+    "slug": "a-faixa-de-preco-na-api-do-facets-nao-corresponde-aos-resultados-da-pesquisa",
     "internalReference": 997121
   },
   {
