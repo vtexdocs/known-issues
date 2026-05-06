@@ -16541,7 +16541,7 @@
   },
   {
     "locale": "es",
-    "slug": "actualizaciones-de-precios-con-cache-en-las-aplicaciones-finales",
+    "slug": "actualizaciones-de-precios-con-cache-en-aplicaciones-finales",
     "internalReference": 896520
   },
   {
@@ -19866,11 +19866,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-interface-de-usuario-do-checkout-mostra-o-frete-gratis-quando-o-usuario-alterna-as-opcoes-de-entrega",
-    "internalReference": 897109
-  },
-  {
-    "locale": "pt",
     "slug": "a-interface-de-usuario-do-checkout-nao-pode-agrupar-pacotes-quando-duas-ou-mais-opcoes-de-entrega-tem-o-mesmo-preco",
     "internalReference": 1105920
   },
@@ -19888,6 +19883,11 @@
     "locale": "pt",
     "slug": "a-interface-do-checkout-desmarca-a-opcao-agendar-tudo-apos-a-atualizacao-da-pagina",
     "internalReference": 784693
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-checkout-exibe-o-frete-gratis-quando-o-usuario-altera-as-opcoes-de-entrega",
+    "internalReference": 897109
   },
   {
     "locale": "pt",
