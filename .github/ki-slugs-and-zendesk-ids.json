@@ -9866,7 +9866,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-configuracion-del-valor-de-fidelizacion-cms-no-funciona",
+    "slug": "la-configuracion-de-valores-de-fidelidad-de-cms-no-funciona",
     "internalReference": 726849
   },
   {
@@ -9896,11 +9896,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-exportacion-de-catalogos-no-muestra-los-canales-de-venta-cuando-se-marca-ninguno",
-    "internalReference": 722001
-  },
-  {
-    "locale": "es",
     "slug": "la-exportacion-de-colecciones-solo-muestra-el-primer-sku-del-producto-inactivo",
     "internalReference": 1040753
   },
@@ -9918,6 +9913,11 @@
     "locale": "es",
     "slug": "la-exportacion-de-muchos-productos-o-referencias-lleva-mucho-tiempo-y-en-ocasiones-la-solicitud-no-se-puede-completar",
     "internalReference": 284386
+  },
+  {
+    "locale": "es",
+    "slug": "la-exportacion-del-catalogo-no-muestra-los-canales-de-venta-cuando-se-ha-seleccionado-ninguno",
+    "internalReference": 722001
   },
   {
     "locale": "es",
@@ -16626,6 +16626,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-exportacion-de-la-tabla-de-precios-calculados-no-incluye-todas-las-referencias",
+    "internalReference": 722005
+  },
+  {
+    "locale": "es",
     "slug": "la-exportacion-de-la-tabla-de-precios-calculados-no-trae-todos-los-skus",
     "internalReference": 722005
   },
@@ -18286,6 +18291,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-exportacao-do-catalogo-nao-exibe-os-canais-de-vendas-quando-a-opcao-nenhum-esta-marcada",
+    "internalReference": 722001
+  },
+  {
+    "locale": "pt",
     "slug": "a-exportacao-do-catalogo-nao-pode-manipular-caracteres-t-e-s",
     "internalReference": 950933
   },
@@ -18523,6 +18533,11 @@
     "locale": "pt",
     "slug": "as-colecoes-nao-abrem-em-subcontas",
     "internalReference": 649948
+  },
+  {
+    "locale": "pt",
+    "slug": "as-configuracoes-de-valor-de-fidelidade-do-cms-nao-estao-funcionando",
+    "internalReference": 726849
   },
   {
     "locale": "pt",
@@ -18853,11 +18868,6 @@
     "locale": "pt",
     "slug": "exibicao-da-disponibilidade-do-produto-atrasada-ao-usar-varios-canais-de-vendas",
     "internalReference": 949411
-  },
-  {
-    "locale": "pt",
-    "slug": "exportacao-de-catalogo-nao-mostra-os-canais-de-venda-quando-nenhum-esta-marcado",
-    "internalReference": 722001
   },
   {
     "locale": "pt",
@@ -25443,6 +25453,11 @@
     "locale": "pt",
     "slug": "a-discountexpression-sempre-usa-o-frete-mais-barato-independentemente-do-frete-selecionado",
     "internalReference": 1075053
+  },
+  {
+    "locale": "pt",
+    "slug": "a-exportacao-da-tabela-de-precos-calculados-nao-inclui-todos-os-skus",
+    "internalReference": 722005
   },
   {
     "locale": "pt",
