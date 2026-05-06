@@ -10586,7 +10586,7 @@
   },
   {
     "locale": "es",
-    "slug": "un-valor-valido-de-especificacion-de-producto-puede-ser-devuelto-en-blanco-en-el-catalogo-admin",
+    "slug": "un-valor-valido-de-las-especificaciones-del-producto-puede-dejarse-en-blanco-en-la-administracion-del-catalogo",
     "internalReference": 966499
   },
   {
@@ -16701,7 +16701,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-modo-redondeo-techosuelo-no-funciona-correctamente-entre-los-elementos-con-multiplicador-unitario-distinto-de-1",
+    "slug": "el-modo-de-redondeo-ceilingfloor-no-funciona-correctamente-con-elementos-que-tienen-un-multiplicador-de-unidad-distinto-de-1",
     "internalReference": 968349
   },
   {
@@ -19736,7 +19736,7 @@
   },
   {
     "locale": "pt",
-    "slug": "um-valor-de-especificacao-de-produto-valido-pode-ser-retornado-em-branco-no-administrador-do-catalogo",
+    "slug": "um-valor-valido-da-especificacao-do-produto-pode-ser-deixado-em-branco-no-painel-de-administracao-do-catalogo",
     "internalReference": 966499
   },
   {
@@ -26096,7 +26096,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-modo-de-arredondamento-de-tetopiso-nao-esta-funcionando-corretamente-entre-itens-com-multiplicador-de-unidade-diferente-de-1",
+    "slug": "o-modo-de-arredondamento-ceilingfloor-nao-funciona-corretamente-em-itens-com-um-multiplicador-de-unidade-diferente-de-1",
     "internalReference": 968349
   },
   {
