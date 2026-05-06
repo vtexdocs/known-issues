@@ -10281,7 +10281,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-productos-sin-sku-no-aparecen-en-la-administracion-cuando-se-busca-por-id-de-producto",
+    "slug": "los-productos-sin-sku-no-aparecen-en-el-panel-de-administracion-al-realizar-una-busqueda-por-id-de-producto",
     "internalReference": 740431
   },
   {
@@ -15416,7 +15416,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-devoluciones-de-llamada-tras-la-aprobacion-pueden-provocar-que-paymentauthorizationworker-vuelva-a-intentar-el-pago-lo-que-tambien-puede-denegarlo",
+    "slug": "las-devoluciones-de-llamada-tras-la-aprobacion-pueden-hacer-que-paymentauthorizationworker-vuelva-a-intentar-el-pago-lo-que-tambien-podria-dar-lugar-a-su-denegacion",
     "internalReference": 740499
   },
   {
@@ -19336,6 +19336,11 @@
   },
   {
     "locale": "pt",
+    "slug": "os-produtos-sem-sku-nao-sao-exibidos-no-painel-de-administracao-ao-pesquisar-pelo-id-do-produto",
+    "internalReference": 740431
+  },
+  {
+    "locale": "pt",
     "slug": "os-skus-enviados-pelos-vendedores-sao-criados-com-imagens-fora-de-ordem",
     "internalReference": 648349
   },
@@ -19388,11 +19393,6 @@
     "locale": "pt",
     "slug": "produtos-indisponiveis-com-mensagens-conflitantes-no-novo-catalogo-de-administracao-de-produtos-facelift",
     "internalReference": 1095510
-  },
-  {
-    "locale": "pt",
-    "slug": "produtos-sem-sku-nao-sao-devolvidos-na-administracao-ao-pesquisar-por-id-do-produto",
-    "internalReference": 740431
   },
   {
     "locale": "pt",
@@ -23946,7 +23946,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-chamadas-de-retorno-apos-a-aprovacao-podem-acionar-o-paymentauthorizationworker-para-tentar-novamente-o-pagamento-o-que-tambem-pode-negalo",
+    "slug": "as-chamadas-de-retorno-apos-a-aprovacao-podem-fazer-com-que-o-paymentauthorizationworker-tente-novamente-o-pagamento-o-que-tambem-pode-resultar-na-recusa-do-mesmo",
     "internalReference": 740499
   },
   {
