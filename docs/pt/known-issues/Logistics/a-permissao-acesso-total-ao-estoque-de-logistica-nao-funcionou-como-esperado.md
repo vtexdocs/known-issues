@@ -3,7 +3,7 @@ title: 'A permissão "Acesso total ao estoque de logística" não funcionou como
 slug: a-permissao-acesso-total-ao-estoque-de-logistica-nao-funcionou-como-esperado
 status: PUBLISHED
 createdAt: 2021-12-06T20:59:22.000Z
-updatedAt: 2026-05-05T13:31:58.432Z
+updatedAt: 2022-06-02T20:23:32.000Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
