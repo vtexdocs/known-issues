@@ -1,9 +1,9 @@
 ---
-title: 'Manual sorting of collections doesn''t work as expected'
+title: "Manual sorting of collections doesn't work as expected"
 slug: manual-sorting-of-collections-doesnt-work-as-expected
 status: PUBLISHED
-createdAt: 2025-08-12T18:34:41.253Z
-updatedAt: 2025-08-12T18:34:41.253Z
+createdAt: 2020-10-09T18:09:41.000Z
+updatedAt: 2025-07-30T22:40:37.000Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,8 +16,6 @@ internalReference: 295245
 
 ## Summary
 
-
-
 Manual sorting of collections doesn't work as expected. There are two ways to sort SKUs using a collection:
 
 
@@ -29,12 +27,7 @@ In both cases, the system supports sorting up to **30** SKUs of the collection. 
 
 > This behavior is observed in all VTEX stores, including those developed using VTEX IO.
 
-
-
-#### Simulation
-
-
-
+## Simulation
 
 1. Create a collection;
 2. Manually insert more than 30 SKUs;
@@ -44,15 +37,10 @@ In both cases, the system supports sorting up to **30** SKUs of the collection. 
 6. Wait a few minutes for the cache to expire;
 7. Access the page and note that the first ordered items will be items placed after 30.
 
-
-#### Workaround
-
-
+## Workaround
 
 As a workaround, we have the following options:
 
 
 - Use collections with only 30 items, if it's essential to apply manual sorting;
 - Use the Release Date field, register the dates in the desired sequence, and use the field to sort the collection.
-
-
