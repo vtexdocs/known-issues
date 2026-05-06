@@ -14311,7 +14311,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-exportacion-de-pedidos-con-una-media-de-mas-de-200-productos-puede-dar-un-timeout-en-el-proceso-de-generacion-del-fichero",
+    "slug": "la-exportacion-de-pedidos-con-una-media-de-mas-de-200-productos-puede-provocar-un-tiempo-de-espera-en-el-proceso-de-generacion-del-archivo",
     "internalReference": 702933
   },
   {
@@ -23006,7 +23006,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-exportacao-de-pedidos-com-uma-media-de-mais-de-200-produtos-pode-gerar-um-tempo-limite-no-processo-de-geracao-de-arquivos",
+    "slug": "a-exportacao-de-pedidos-com-uma-media-superior-a-200-produtos-pode-causar-um-tempo-limite-no-processo-de-geracao-do-arquivo",
     "internalReference": 702933
   },
   {
