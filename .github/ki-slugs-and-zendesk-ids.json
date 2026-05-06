@@ -9496,7 +9496,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-filtro-especificacion-del-producto-del-modulo-de-recogida-asume-valores-incorrectos",
+    "slug": "el-filtro-especificaciones-del-producto-del-modulo-de-colecciones-asume-valores-incorrectos",
     "internalReference": 926593
   },
   {
@@ -13986,7 +13986,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-creacion-de-grupos-de-vendedores-no-anade-los-vendedores-seleccionados",
+    "slug": "la-creacion-de-un-grupo-de-vendedores-no-anade-a-los-vendedores-seleccionados",
     "internalReference": 926969
   },
   {
@@ -19096,11 +19096,6 @@
   },
   {
     "locale": "pt",
-    "slug": "filtro-product-specification-no-collection-module-assumindo-valores-incorretos",
-    "internalReference": 926593
-  },
-  {
-    "locale": "pt",
     "slug": "fullcleanup-pode-gerar-um-tempo-limite",
     "internalReference": 1228132
   },
@@ -19368,6 +19363,11 @@
     "locale": "pt",
     "slug": "o-filtro-do-catalogo-para-o-vendedor-1-nao-apresenta-resultados",
     "internalReference": 801538
+  },
+  {
+    "locale": "pt",
+    "slug": "o-filtro-especificacao-do-produto-no-modulo-de-colecao-esta-assumindo-valores-incorretos",
+    "internalReference": 926593
   },
   {
     "locale": "pt",
@@ -21216,7 +21216,7 @@
   },
   {
     "locale": "pt",
-    "slug": "amazon-codigo-de-erro-13013-ao-enviar-um-produto-para-o-amazon-marketplace",
+    "slug": "amazon-codigo-de-erro-13013-ao-enviar-o-produto-para-o-marketplace-da-amazon",
     "internalReference": 926656
   },
   {
