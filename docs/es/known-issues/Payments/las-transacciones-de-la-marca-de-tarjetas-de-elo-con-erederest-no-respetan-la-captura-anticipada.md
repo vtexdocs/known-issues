@@ -2,8 +2,8 @@
 title: 'Las transacciones de la marca de tarjetas de Elo con ERedeRest no respetan la captura anticipada'
 slug: las-transacciones-de-la-marca-de-tarjetas-de-elo-con-erederest-no-respetan-la-captura-anticipada
 status: PUBLISHED
-createdAt: 2025-11-14T19:27:17.070Z
-updatedAt: 2025-11-14T19:27:17.070Z
+createdAt: 2021-03-30T20:57:36.000Z
+updatedAt: 2023-05-08T20:36:07.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,16 +18,13 @@ internalReference: 350814
 
 ## Sumario
 
+En las transacciones con la marca de tarjeta Elo, no se respeta la configuración de captura anticipada, y la transacción se captura inmediatamente después de la aprobación.
 
-En las transacciones con la marca de tarjeta Elo, no se está respetando la configuración de captura anticipada, y la transacción se está capturando inmediatamente después de la aprobación.
+## Simulación
 
-
-#### Simulación
-
-
-Crear una transacción Elo con una afiliación que tenga configurada la captura anticipada.
+Crea una transacción Elo con una entidad afiliada que tenga configurada la captura anticipada.
 
 ## Workaround
 
-
+provisional**
 N/A
