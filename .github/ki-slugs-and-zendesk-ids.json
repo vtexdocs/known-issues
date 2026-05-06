@@ -8811,7 +8811,7 @@
   },
   {
     "locale": "es",
-    "slug": "informacion-de-condiciones-de-pago-incoherente-entre-los-detalles-del-centro-de-costes-en-mi-organizacion-y-los-ajustes-de-pago-b2b",
+    "slug": "incoherencia-en-la-informacion-sobre-las-condiciones-de-pago-entre-los-detalles-del-centro-de-costes-en-mi-organizacion-y-la-configuracion-de-b2b-checkout",
     "internalReference": 847340
   },
   {
@@ -13526,7 +13526,7 @@
   },
   {
     "locale": "es",
-    "slug": "problemas-de-traduccion-al-utilizar-una-subcuenta-para-implantar-tiendas-multilingues",
+    "slug": "problemas-de-traduccion-al-utilizar-una-subcuenta-para-implementar-tiendas-multilingues",
     "internalReference": 848524
   },
   {
@@ -17908,6 +17908,11 @@
     "locale": "pt",
     "slug": "falha-na-atualizacao-do-status-das-solicitacoes-das-organizacoes",
     "internalReference": 1275305
+  },
+  {
+    "locale": "pt",
+    "slug": "inconsistencia-nas-informacoes-sobre-condicoes-de-pagamento-entre-os-detalhes-do-centro-de-custos-em-minha-organizacao-e-as-configuracoes-do-checkout-b2b",
+    "internalReference": 847340
   },
   {
     "locale": "pt",
@@ -22611,7 +22616,7 @@
   },
   {
     "locale": "pt",
-    "slug": "problemas-de-traducao-ao-usar-uma-subconta-para-implementar-lojas-em-varios-idiomas",
+    "slug": "problemas-de-traducao-ao-usar-uma-subconta-para-implementar-lojas-multilingues",
     "internalReference": 848524
   },
   {
