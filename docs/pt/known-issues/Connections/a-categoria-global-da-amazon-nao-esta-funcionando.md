@@ -2,8 +2,8 @@
 title: 'A categoria global da Amazon não está funcionando'
 slug: a-categoria-global-da-amazon-nao-esta-funcionando
 status: PUBLISHED
-createdAt: 2025-11-14T19:18:40.216Z
-updatedAt: 2025-11-14T19:18:40.216Z
+createdAt: 2022-08-09T14:00:52.000Z
+updatedAt: 2025-06-23T15:39:36.000Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,18 +18,12 @@ internalReference: 634199
 
 ## Sumário
 
+Este KI foi resolvido com a implementação do Amazon Linting.
 
-Esse KI foi resolvido com a implementação do Amazon linting.
 ## Simulação
 
-
-Esse KI foi resolvido com a implementação do Amazon linting.
-
+Este KI foi resolvido com a implementação do Amazon Linting.
 
 ## Workaround
 
-
 N/A
-
-
-
