@@ -15386,7 +15386,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-ruta-search-del-sistema-de-tarjetas-regalo-no-devuelve-vales-de-forma-intermitente-cuando-el-encabezado-restrange-es-inferior-a-10",
+    "slug": "la-ruta-search-del-sistema-de-tarjetas-regalo-no-devuelve-vales-de-forma-intermitente-cuando-el-valor-del-encabezado-restrange-es-inferior-a-10",
     "internalReference": 770337
   },
   {
@@ -23936,7 +23936,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-rota-search-do-sistema-de-cartoespresente-intermitentemente-nao-devolve-comprovantes-quando-o-cabecalho-da-faixa-rest-e-inferior-a-10",
+    "slug": "a-rota-search-do-sistema-de-cartoespresente-ocasionalmente-nao-retorna-vouchers-quando-o-cabecalho-restrange-e-inferior-a-10",
     "internalReference": 770337
   },
   {
