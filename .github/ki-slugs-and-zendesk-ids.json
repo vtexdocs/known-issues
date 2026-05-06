@@ -10451,6 +10451,11 @@
   },
   {
     "locale": "es",
+    "slug": "tiempos-de-espera-del-administrador-del-catalogo-relacionados-con-el-numero-de-valores-en-una-sola-especificacion",
+    "internalReference": 433664
+  },
+  {
+    "locale": "es",
     "slug": "timeout-al-cambiar-las-palabras-clave-de-la-categoria-con-muchos-productos",
     "internalReference": 497335
   },
@@ -13221,7 +13226,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-filtros-de-especificacion-de-sku-no-se-cargan-cuando-la-sku-solo-esta-disponible-en-un-vendedor-de-etiqueta-blanca",
+    "slug": "los-filtros-de-especificaciones-de-sku-no-se-cargan-cuando-el-sku-solo-esta-disponible-en-un-vendedor-de-marca-blanca",
     "internalReference": 431888
   },
   {
@@ -15261,6 +15266,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-transaccion-se-queda-bloqueada-en-la-fase-de-cancelacion-cuando-se-rechaza-una-de-las-tarjetas",
+    "internalReference": 429082
+  },
+  {
+    "locale": "es",
     "slug": "la-validez-del-pagare-no-anula-la-transaccion",
     "internalReference": 325491
   },
@@ -15716,7 +15726,7 @@
   },
   {
     "locale": "es",
-    "slug": "tarjeta-regalo-no-devuelve-los-campos-caption-y-relationname-cuando-hacemos-una-peticion-get",
+    "slug": "tarjeta-regalo-no-devuelve-los-campos-caption-y-relationname-cuando-realizamos-una-solicitud-get",
     "internalReference": 428725
   },
   {
@@ -18788,6 +18798,11 @@
     "locale": "pt",
     "slug": "intervalo-administracao-de-importacao-e-exportacao",
     "internalReference": 424902
+  },
+  {
+    "locale": "pt",
+    "slug": "limites-de-tempo-de-administracao-do-catalogo-relacionados-ao-numero-de-valores-em-uma-unica-especificacao",
+    "internalReference": 433664
   },
   {
     "locale": "pt",
@@ -22031,7 +22046,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-filtros-de-especificacao-de-sku-nao-sao-carregados-quando-a-sku-esta-disponivel-apenas-em-um-vendedor-whitelabel",
+    "slug": "os-filtros-de-especificacoes-do-sku-nao-sao-carregados-quando-o-sku-esta-disponivel-apenas-em-um-vendedor-de-marca-branca",
     "internalReference": 431888
   },
   {
@@ -23521,6 +23536,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-transacao-fica-travada-na-etapa-de-cancelamento-quando-um-dos-cartoes-e-recusado",
+    "internalReference": 429082
+  },
+  {
+    "locale": "pt",
     "slug": "a-transacao-ficou-presa-na-aprovacao-com-o-conector-nps-devido-ao-pspresponsecod-na-resposta-da-liquidacao",
     "internalReference": 557051
   },
@@ -23746,7 +23766,7 @@
   },
   {
     "locale": "pt",
-    "slug": "cartaopresente-ele-nao-retorna-os-campos-caption-e-relationname-quando-fazemos-uma-solicitacao-get",
+    "slug": "cartaopresente-nao-retorna-os-campos-caption-e-relationname-quando-fazemos-uma-solicitacao-get",
     "internalReference": 428725
   },
   {
