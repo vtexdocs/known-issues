@@ -2,8 +2,8 @@
 title: 'Discrepancy on coupon usage count on OMS and coupons UI'
 slug: discrepancy-on-coupon-usage-count-on-oms-and-coupons-ui
 status: PUBLISHED
-createdAt: 2025-11-14T19:37:49.236Z
-updatedAt: 2025-11-14T19:37:49.236Z
+createdAt: 2023-12-18T21:53:10.000Z
+updatedAt: 2023-12-18T21:53:10.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,21 +16,12 @@ internalReference: 954959
 
 ## Summary
 
-
 Some orders are not being retrieved in the usage of the coupons, we identified that a few orders weren't being counted by the coupons admin.
 
-
-#### Simulation
-
+## Simulation
 
 Check if between 10/09 and 13/09 there's any discrepancy between coupon usages
 
-
-#### Workaround
-
-
+## Workaround
 
 n/a
-
-
-
