@@ -10096,7 +10096,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-sustitucion-de-productos-en-un-pedido-oms-no-funciona-en-las-cuentas-del-portal-del-vendedor",
+    "slug": "la-sustitucion-de-productos-en-pedidos-de-oms-no-funciona-en-las-cuentas-del-portal-del-vendedor",
     "internalReference": 753484
   },
   {
@@ -12346,6 +12346,11 @@
   },
   {
     "locale": "es",
+    "slug": "magazine-luiza-modificar-la-especificacion-de-plaintextdescription",
+    "internalReference": 754022
+  },
+  {
+    "locale": "es",
     "slug": "magazine-luiza-pedido-cancelado-en-marketplace-no-actualiza-estado-en-vtex",
     "internalReference": 865926
   },
@@ -12568,11 +12573,6 @@
     "locale": "es",
     "slug": "reserva-de-existencias-para-pedidos-de-amazon",
     "internalReference": 670572
-  },
-  {
-    "locale": "es",
-    "slug": "revista-luiza-ajustar-especificacion-plaintextdescription",
-    "internalReference": 754022
   },
   {
     "locale": "es",
@@ -16236,6 +16236,11 @@
   },
   {
     "locale": "es",
+    "slug": "fragmentos-enriquecidos-de-productos-que-no-utilizan-el-formato-aggregateoffer-para-ofertas-con-mas-de-un-vendedor",
+    "internalReference": 753505
+  },
+  {
+    "locale": "es",
     "slug": "la-api-de-busqueda-no-devuelve-los-skus-showifnotavailabletrue-para-las-consultas-fqspecificationfilter",
     "internalReference": 336896
   },
@@ -16338,11 +16343,6 @@
     "locale": "es",
     "slug": "los-controles-heredados-de-plantillas-de-plazos-y-estanterias-no-tienen-en-cuenta-los-multiplicadores-de-unidades",
     "internalReference": 979205
-  },
-  {
-    "locale": "es",
-    "slug": "los-fragmentos-enriquecidos-de-productos-no-utilizan-el-formato-aggregateoffer-para-las-ofertas-con-mas-de-un-vendedor",
-    "internalReference": 753505
   },
   {
     "locale": "es",
@@ -18483,6 +18483,11 @@
     "locale": "pt",
     "slug": "a-selecao-de-sellers-disponiveis-na-politica-comercial-nao-esta-funcionando-corretamente",
     "internalReference": 515480
+  },
+  {
+    "locale": "pt",
+    "slug": "a-substituicao-de-produtos-em-pedidos-do-oms-nao-esta-funcionando-nas-contas-do-portal-do-vendedor",
+    "internalReference": 753484
   },
   {
     "locale": "pt",
@@ -21031,11 +21036,6 @@
   },
   {
     "locale": "pt",
-    "slug": "ajustar-a-especificacao-de-textodesinscricao",
-    "internalReference": 754022
-  },
-  {
-    "locale": "pt",
     "slug": "ajustar-a-exportacao-da-aba-de-processamento",
     "internalReference": 649311
   },
@@ -21343,6 +21343,11 @@
     "locale": "pt",
     "slug": "magazine-luiza-a-criacao-do-sku-falha-com-um-erro-enganoso-de-ja-existe-quando-os-dados-nao-foram-alterados",
     "internalReference": 1351096
+  },
+  {
+    "locale": "pt",
+    "slug": "magazine-luiza-ajustar-a-especificacao-de-plaintextdescription",
+    "internalReference": 754022
   },
   {
     "locale": "pt",
@@ -25446,7 +25451,7 @@
   },
   {
     "locale": "pt",
-    "slug": "snippets-ricos-em-produtos-que-nao-utilizam-o-formato-aggregateoffer-para-ofertas-com-mais-de-um-vendedor",
+    "slug": "snippets-de-produto-que-nao-utilizam-o-formato-aggregateoffer-para-ofertas-com-mais-de-um-vendedor",
     "internalReference": 753505
   },
   {
