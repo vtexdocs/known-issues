@@ -2,8 +2,8 @@
 title: 'User only with the role "User Administrator - RESTRICTED" is not able to list the users'
 slug: user-only-with-the-role-user-administrator-restricted-is-not-able-to-list-the-users
 status: PUBLISHED
-createdAt: 2025-11-14T19:22:20.694Z
-updatedAt: 2025-11-14T19:22:20.694Z
+createdAt: 2023-11-08T18:06:57.000Z
+updatedAt: 2023-11-08T18:06:57.000Z
 contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,13 +16,9 @@ internalReference: 932666
 
 ## Summary
 
-
 If an admin user only has the role "**User Administrator - RESTRICTED**" ("**Save user**" resource), the list of users is not available and it is not possible to make any necessary edits or deletions.
 
-
-#### Simulation
-
-
+## Simulation
 
 - Have an user with only the role "**User Administrator - RESTRICTED**";
 - Access the "**Admin Users**" page with this user (e.g. https://my-account-here.myvtex.com/admin/users);
@@ -31,15 +27,10 @@ If an admin user only has the role "**User Administrator - RESTRICTED**" ("**Sav
 
 - It is possible to add the user you want, and include the necessary roles, but we can't access the users to add/edit/remove roles, or even delete the user through their registration, but only through the role.
 
-
-#### Workaround
-
+## Workaround
 
 You can add or remove the user to the role by accessing the role directly.
 
 You can also create a custom role with only the resources "**Get paged roles**" and "**Get paged users**":
  ![](https://vtexhelp.zendesk.com/attachments/token/yjNfjlnfFaBrXZE6gx97OaxHy/?name=image.png)
 And then, add it to the user who can save users.
-
-
-
