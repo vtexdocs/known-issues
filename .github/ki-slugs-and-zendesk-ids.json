@@ -17036,6 +17036,11 @@
   },
   {
     "locale": "es",
+    "slug": "al-desactivar-el-service-worker-nativo-no-es-posible-utilizar-uno-personalizado",
+    "internalReference": 770949
+  },
+  {
+    "locale": "es",
     "slug": "al-deslizar-la-imagen-del-producto-despues-de-ampliarla-el-zoom-no-vuelve-a-su-estado-original-lo-que-provoca-problemas-de-visualizacion",
     "internalReference": 491180
   },
@@ -17093,11 +17098,6 @@
     "locale": "es",
     "slug": "crear-y-eliminar-un-gran-numero-de-redirecciones-rompe-la-pagina-de-redirecciones",
     "internalReference": 1010392
-  },
-  {
-    "locale": "es",
-    "slug": "cuando-se-desactiva-el-service-worker-nativo-no-es-posible-utilizar-uno-personalizado",
-    "internalReference": 770949
   },
   {
     "locale": "es",
