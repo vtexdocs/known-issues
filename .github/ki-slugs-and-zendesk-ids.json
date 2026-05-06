@@ -10011,6 +10011,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-usuario-de-los-productos-similares-deja-de-funcionar-cuando-hay-demasiados-productos",
+    "internalReference": 868425
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-usuario-muestra-un-error-al-exportar-archivos-de-catalogo-si-el-remitente-de-la-plantilla-de-correo-electronico-tiene-su-propio-smtp",
     "internalReference": 771942
   },
@@ -10388,11 +10393,6 @@
     "locale": "es",
     "slug": "productos-no-disponibles-con-mensajes-contradictorios-en-la-nueva-administracion-de-productos-del-catalogo-facelift",
     "internalReference": 1095510
-  },
-  {
-    "locale": "es",
-    "slug": "productos-similares-la-iu-se-rompe-con-demasiados-productos",
-    "internalReference": 868425
   },
   {
     "locale": "es",
@@ -18471,6 +18471,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-interface-do-usuario-de-produtos-semelhantes-fica-desorganizada-quando-ha-muitos-produtos",
+    "internalReference": 868425
+  },
+  {
+    "locale": "pt",
     "slug": "a-limpeza-completa-do-catalogo-nao-aciona-uma-nova-indexacao-da-pesquisa-inteligente",
     "internalReference": 449763
   },
@@ -19523,11 +19528,6 @@
     "locale": "pt",
     "slug": "produtos-indisponiveis-com-mensagens-conflitantes-no-novo-catalogo-de-administracao-de-produtos-facelift",
     "internalReference": 1095510
-  },
-  {
-    "locale": "pt",
-    "slug": "produtos-similares-ui-brokes-with-too-many-products",
-    "internalReference": 868425
   },
   {
     "locale": "pt",
