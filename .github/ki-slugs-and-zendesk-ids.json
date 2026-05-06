@@ -14626,7 +14626,7 @@
   },
   {
     "locale": "es",
-    "slug": "delaytoautosettleafterantifraud-activacion-de-la-captura-automatica-incluso-sin-antifraude",
+    "slug": "delaytoautosettleafterantifraud-activa-el-cobro-automatico-incluso-sin-el-control-antifraude",
     "internalReference": 369633
   },
   {
@@ -23706,7 +23706,7 @@
   },
   {
     "locale": "pt",
-    "slug": "delaytoautosettleafterantifraud-acionando-a-captura-automatica-mesmo-sem-antifraude",
+    "slug": "delaytoautosettleafterantifraud-aciona-a-captura-automatica-mesmo-sem-a-verificacao-antifraude",
     "internalReference": 369633
   },
   {
