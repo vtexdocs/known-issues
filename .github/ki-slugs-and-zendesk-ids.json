@@ -14651,7 +14651,7 @@
   },
   {
     "locale": "es",
-    "slug": "valor-incorrecto-para-el-preciodefinicion-en-el-orden-de-la-cadena-para-un-mercado-multinivel",
+    "slug": "valor-incorrecto-en-la-definicion-de-pricedefinition-en-la-cadena-de-pedidos-de-un-mercado-multinivel",
     "internalReference": 663203
   },
   {
@@ -15541,13 +15541,13 @@
   },
   {
     "locale": "es",
-    "slug": "los-metodos-de-pago-mostrados-en-la-caja-difieren-de-las-condiciones-de-pago-activas",
-    "internalReference": 666469
+    "slug": "los-metodos-de-pago-permanecen-en-la-pagina-de-pago-incluso-cuando-la-condicion-de-pago-asociada-esta-desactivada",
+    "internalReference": 649237
   },
   {
     "locale": "es",
-    "slug": "los-metodos-de-pago-permanecen-en-la-pagina-de-pago-incluso-cuando-la-condicion-de-pago-asociada-esta-desactivada",
-    "internalReference": 649237
+    "slug": "los-metodos-de-pago-que-se-muestran-al-finalizar-la-compra-difieren-de-las-condiciones-de-pago-vigentes",
+    "internalReference": 666469
   },
   {
     "locale": "es",
@@ -23621,7 +23621,7 @@
   },
   {
     "locale": "pt",
-    "slug": "valor-incorreto-para-precodefinicao-na-ordem-da-cadeia-para-um-mercado-multinivel",
+    "slug": "valor-incorreto-para-a-definicao-de-preco-na-ordem-da-cadeia-de-um-marketplace-multinivel",
     "internalReference": 663203
   },
   {
@@ -24636,7 +24636,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-metodos-de-pagamento-exibidos-no-checkout-diferem-das-condicoes-de-pagamento-ativas",
+    "slug": "os-metodos-de-pagamento-exibidos-na-finalizacao-da-compra-diferem-das-condicoes-de-pagamento-ativas",
     "internalReference": 666469
   },
   {
