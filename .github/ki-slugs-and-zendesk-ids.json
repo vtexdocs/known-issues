@@ -11241,11 +11241,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-falta-de-coincidencia-de-addressid-provoca-el-error-direccion-no-valida-para-un-articulo",
-    "internalReference": 992503
-  },
-  {
-    "locale": "es",
     "slug": "la-fecha-de-entrega-se-vacia-cuando-el-articulo-es-un-regalo-anadido",
     "internalReference": 586143
   },
@@ -11948,6 +11943,11 @@
     "locale": "es",
     "slug": "ui-informs-that-there-is-no-sla-for-address-that-had-previously-available-sla",
     "internalReference": 585249
+  },
+  {
+    "locale": "es",
+    "slug": "una-discrepancia-en-el-addressid-provoca-el-error-direccion-no-valida-para-un-articulo",
+    "internalReference": 992503
   },
   {
     "locale": "es",
@@ -15551,7 +15551,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-reglas-de-credito-de-cliente-eliminadas-apareceran-en-la-caja-si-no-se-han-desactivado-previamente",
+    "slug": "las-reglas-de-credito-de-clientes-eliminadas-apareceran-al-finalizar-la-compra-si-no-se-han-desactivado-previamente",
     "internalReference": 994066
   },
   {
@@ -19876,7 +19876,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-incompatibilidade-de-addressid-causa-o-erro-endereco-invalido-para-um-item",
+    "slug": "a-incompatibilidade-do-addressid-causa-o-erro-endereco-invalido-para-um-item",
     "internalReference": 992503
   },
   {
@@ -24266,7 +24266,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-regras-de-credito-ao-cliente-excluidas-aparecerao-no-checkout-se-nao-tiverem-sido-desativadas-anteriormente",
+    "slug": "as-regras-de-credito-do-cliente-excluidas-aparecerao-na-finalizacao-da-compra-caso-nao-tenham-sido-desativadas-anteriormente",
     "internalReference": 994066
   },
   {
