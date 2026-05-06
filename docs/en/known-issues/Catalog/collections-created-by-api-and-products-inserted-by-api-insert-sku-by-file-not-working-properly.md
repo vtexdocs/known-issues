@@ -2,8 +2,8 @@
 title: 'Collections created by API and Products inserted by API Insert SKU by File not working properly'
 slug: collections-created-by-api-and-products-inserted-by-api-insert-sku-by-file-not-working-properly
 status: PUBLISHED
-createdAt: 2025-11-17T17:31:58.411Z
-updatedAt: 2025-11-17T17:31:58.411Z
+createdAt: 2021-11-18T13:11:38.000Z
+updatedAt: 2023-10-04T19:50:34.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,14 +16,11 @@ internalReference: 470966
 
 ## Summary
 
-
 Today we have some ways to create and add products to a collection. We can use our new Collection Adimn, our legacy collection admin and we can use API to create collections and add products to a collection. But we have a problem when creating collections through API and add products to this collection using the route `api/catalog/pvt/collection//stockkeepingunit/importinsert`. With this API we are able to add products to the collection using a spreadsheet.
 
 The problem happens every time we create a collection by API and try to use this `importinsert` API to add products. The products do not become available to the collection created.
 
-
-#### Simulation
-
+## Simulation
 
 - Create a collection using API:
 
@@ -38,9 +35,7 @@ The problem happens every time we create a collection by API and try to use this
 
     curl --location -g --request GET 'https://.vtexcommercestable.com.br/api/catalog_system/pub/products/search/?fq=H:' \--header 'Accept: application/json' \--header 'Content-Type: application/json'
 
-#### Workaround
-
-
+## Workaround
 
 There are two viable workarounds for this issue:
 
