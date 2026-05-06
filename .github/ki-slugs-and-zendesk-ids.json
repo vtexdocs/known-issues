@@ -10266,7 +10266,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-skus-enviados-por-los-vendedores-se-crean-con-imagenes-desordenadas",
+    "slug": "los-sku-enviados-por-los-vendedores-se-crean-con-imagenes-desordenadas",
     "internalReference": 648349
   },
   {
@@ -13831,7 +13831,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-de-importacion-de-productos-compartidos",
+    "slug": "error-al-importar-productos-compartidos",
     "internalReference": 647962
   },
   {
@@ -17246,6 +17246,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-cookie-de-segmento-solo-se-actualiza-tras-actualizar-la-pagina",
+    "internalReference": 647116
+  },
+  {
+    "locale": "es",
     "slug": "la-flecha-de-la-miniatura-no-funciona-en-el-carrusel",
     "internalReference": 1137480
   },
@@ -17488,11 +17493,6 @@
     "locale": "es",
     "slug": "se-muestra-la-moneda-usd-incorrecta-en-algunas-localizaciones",
     "internalReference": 414901
-  },
-  {
-    "locale": "es",
-    "slug": "segmento-cookie-actualizado-solo-despues-de-actualizar-la-pagina",
-    "internalReference": 647116
   },
   {
     "locale": "es",
@@ -19261,6 +19261,11 @@
   },
   {
     "locale": "pt",
+    "slug": "os-skus-enviados-pelos-vendedores-sao-criados-com-imagens-fora-de-ordem",
+    "internalReference": 648349
+  },
+  {
+    "locale": "pt",
     "slug": "palavras-substitutas-com-menos-de-3-caracteres-nao-funcionam",
     "internalReference": 282500
   },
@@ -19358,11 +19363,6 @@
     "locale": "pt",
     "slug": "sku-binding-nao-mostra-todas-as-colunas-da-planilha",
     "internalReference": 1163100
-  },
-  {
-    "locale": "pt",
-    "slug": "skus-enviados-por-vendedores-sao-criados-com-imagens-fora-de-ordem",
-    "internalReference": 648349
   },
   {
     "locale": "pt",
@@ -22816,7 +22816,7 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-de-importacao-de-produtos-compartilhados",
+    "slug": "erro-na-importacao-de-produtos-compartilhados",
     "internalReference": 647962
   },
   {
@@ -26061,11 +26061,6 @@
   },
   {
     "locale": "pt",
-    "slug": "cookie-de-segmento-atualizado-somente-apos-a-atualizacao-da-pagina",
-    "internalReference": 647116
-  },
-  {
-    "locale": "pt",
     "slug": "criacao-de-redirecionamentos-errados-contendo-caracteresconsultas-que-nao-deveriam-ser-carregados-o-uploaddownload-do-csv-por-meio-da-cli-nao-funci",
     "internalReference": 971936
   },
@@ -26168,6 +26163,11 @@
     "locale": "pt",
     "slug": "o-controle-deslizante-de-faixa-de-preco-tem-como-padrao-o-valor-minimo-apos-a-selecao-de-um-filtro",
     "internalReference": 843442
+  },
+  {
+    "locale": "pt",
+    "slug": "o-cookie-de-segmento-so-e-atualizado-apos-a-atualizacao-da-pagina",
+    "internalReference": 647116
   },
   {
     "locale": "pt",
