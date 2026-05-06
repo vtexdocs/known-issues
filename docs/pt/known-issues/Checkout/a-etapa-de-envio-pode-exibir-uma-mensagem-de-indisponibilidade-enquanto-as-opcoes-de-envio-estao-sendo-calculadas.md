@@ -1,11 +1,9 @@
 ---
 title: 'A etapa de envio pode exibir uma mensagem de indisponibilidade enquanto as opções de envio estão sendo calculadas'
-id: e8ah969LyXALENeVO9wML
+slug: a-etapa-de-envio-pode-exibir-uma-mensagem-de-indisponibilidade-enquanto-as-opcoes-de-envio-estao-sendo-calculadas
 status: PUBLISHED
-createdAt: 2023-03-24T14:34:35.667Z
-updatedAt: 2023-03-24T14:35:04.264Z
-publishedAt: 2023-03-24T14:35:04.264Z
-firstPublishedAt: 2023-03-24T14:34:36.183Z
+createdAt: 2022-09-01T15:42:16.000Z
+updatedAt: 2023-03-24T14:34:47.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,26 +14,16 @@ kiStatus: Backlog
 internalReference: 650038
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
-Um usuário que salvou endereço em seu perfil, ao chegar na etapa de endereço onde a seleção de envio é exibida, ao selecionar outra opção um aviso de "Entrega não está disponível para este endereço" é mostrado erroneamente, pode aparecer rapidamente devido ao carregamento de informações, isso pode acontecer de acordo com o atraso nesta busca, dependendo da complexidade da loja.
-
-
-##
+Um usuário que tenha salvo um endereço em seu perfil, ao chegar à etapa de endereço em que a seleção de envio é exibida, ao selecionar outra opção, um aviso de "A entrega não está disponível para este endereço" é exibido erroneamente; isso pode ocorrer rapidamente devido ao carregamento das informações, e pode acontecer de acordo com o atraso nessa pesquisa, dependendo da complexidade da loja.
 
 ## Simulação
 
-
-Um usuário logado, ao tentar mudar o endereço selecionado para outro na etapa de entrega, o alerta será exibido e então o endereço será selecionado normalmente.
-
-
-##
+Um usuário conectado, ao tentar alterar o endereço selecionado por outro na etapa de entrega, o alerta será exibido e, em seguida, o endereço será selecionado normalmente.
 
 ## Workaround
 
-
 N/A
-
