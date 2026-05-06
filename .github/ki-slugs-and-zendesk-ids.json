@@ -13531,6 +13531,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-simulacion-de-pago-con-una-gran-cantidad-de-articulos-del-mismo-sku-da-lugar-a-un-tiempo-de-espera-de-logistica-agotado",
+    "internalReference": 330775
+  },
+  {
+    "locale": "es",
     "slug": "la-simulacion-logistica-con-el-precio-minimo-y-maximo-en-la-politica-de-envio-no-funciona-cuando-productprice-es-0-cero",
     "internalReference": 553080
   },
@@ -13588,11 +13593,6 @@
     "locale": "es",
     "slug": "se-esta-estudiando-una-politica-de-envios-que-no-entregue-los-fines-de-semana",
     "internalReference": 594828
-  },
-  {
-    "locale": "es",
-    "slug": "simulacion-de-pago-con-una-gran-cantidad-de-la-misma-sku-recibe-un-tiempo-de-espera-logistica",
-    "internalReference": 330775
   },
   {
     "locale": "es",
@@ -22166,7 +22166,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-simulacao-de-checkout-com-uma-grande-quantidade-do-mesmo-item-recebe-um-tempo-limite-de-logistica",
+    "slug": "a-simulacao-de-checkout-com-uma-grande-quantidade-do-mesmo-sku-resulta-em-um-tempo-limite-de-espera-do-sistema-de-logistica",
     "internalReference": 330775
   },
   {
