@@ -16746,6 +16746,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-promociones-de-regalo-no-funcionan-como-se-esperaba-cuando-se-combinan-con-otras-promociones-de-regalo",
+    "internalReference": 729980
+  },
+  {
+    "locale": "es",
     "slug": "las-promociones-mas-por-menos-se-aplican-incorrectamente-a-cantidades-solapadas",
     "internalReference": 1149846
   },
@@ -25568,6 +25573,11 @@
     "locale": "pt",
     "slug": "as-condicoes-do-catalogo-de-promocoes-se-aplicam-ao-skucomponent-mesmo-quando-apenas-o-skukit-e-adicionado-ao-carrinho",
     "internalReference": 1085500
+  },
+  {
+    "locale": "pt",
+    "slug": "as-promocoes-de-brinde-nao-estao-funcionando-como-esperado-quando-combinadas-com-outras-promocoes-de-brinde",
+    "internalReference": 729980
   },
   {
     "locale": "pt",
