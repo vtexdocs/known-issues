@@ -15301,11 +15301,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-regex-obsoleta-de-mastercard-debit-esta-provocando-que-identifiquemos-erroneamente-algunos-bin",
-    "internalReference": 642136
-  },
-  {
-    "locale": "es",
     "slug": "la-ruta-search-del-sistema-de-tarjetas-regalo-no-devuelve-vales-de-forma-intermitente-cuando-el-encabezado-restrange-es-inferior-a-10",
     "internalReference": 770337
   },
@@ -15973,6 +15968,11 @@
     "locale": "es",
     "slug": "un-conflicto-de-regex-hace-que-identifiquemos-erroneamente-mastercard-como-visa",
     "internalReference": 893588
+  },
+  {
+    "locale": "es",
+    "slug": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
+    "internalReference": 642136
   },
   {
     "locale": "es",
@@ -24536,11 +24536,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-regex-desatualizado-do-mastercard-debit-esta-nos-levando-a-identificar-incorretamente-alguns-bins",
-    "internalReference": 642136
-  },
-  {
-    "locale": "pt",
     "slug": "o-regex-elo-desatualizado-esta-nos-levando-a-identificar-incorretamente-alguns-bins",
     "internalReference": 1015043
   },
@@ -24918,6 +24913,11 @@
     "locale": "pt",
     "slug": "transaction-stuck-in-canceling-when-one-of-the-card-is-denied",
     "internalReference": 429082
+  },
+  {
+    "locale": "pt",
+    "slug": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins",
+    "internalReference": 642136
   },
   {
     "locale": "pt",
