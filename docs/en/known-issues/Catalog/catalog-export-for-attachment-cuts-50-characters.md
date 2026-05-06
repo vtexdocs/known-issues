@@ -1,11 +1,9 @@
 ---
 title: 'Catalog export for attachment cuts > 50 characters'
-id: 7hX23y19wmMNPTUgbhh2WX
+slug: catalog-export-for-attachment-cuts-50-characters
 status: PUBLISHED
-createdAt: 2023-12-14T16:46:58.819Z
-updatedAt: 2023-12-14T16:46:59.522Z
-publishedAt: 2023-12-14T16:46:59.522Z
-firstPublishedAt: 2023-12-14T16:46:59.522Z
+createdAt: 2023-12-14T16:46:42.000Z
+updatedAt: 2023-12-14T16:46:42.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,14 +16,9 @@ internalReference: 953161
 
 ## Summary
 
-
 When importing data for attachments in the catalog module, if the said attachment is over 50 characters long, the string is cut, leading to no updates for this data.
 
-
-##
-
 ## Simulation
-
 
 1 - create an attachment with a name over 50 characters long, for instance, "This is a very long attachment name that is created to test an issue".
 
@@ -37,15 +30,6 @@ When importing data for attachments in the catalog module, if the said attachmen
 
 5 - you will need to manually adjust this information if you want to properly import it
 
-
-##
-
 ## Workaround
 
-
 Update attachments via API, UI, or manually change their incorrect string in the sheet.
-
-
-
-
-
