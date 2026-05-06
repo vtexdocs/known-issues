@@ -16761,6 +16761,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-condicion-de-precio-minimo-de-los-articulos-en-la-promocion-del-portal-del-vendedor-no-funciona-como-se-esperaba",
+    "internalReference": 928558
+  },
+  {
+    "locale": "es",
     "slug": "la-exportacion-de-la-tabla-de-precios-calculados-no-incluye-todas-las-referencias",
     "internalReference": 722005
   },
@@ -16918,11 +16923,6 @@
     "locale": "es",
     "slug": "no-se-restablece-el-uso-del-cupon-en-los-pedidos-incompletos",
     "internalReference": 639418
-  },
-  {
-    "locale": "es",
-    "slug": "portal-del-vendedor-promocion-precio-minimo-del-articulo-condicion-no-funciona-como-se-esperaba",
-    "internalReference": 928558
   },
   {
     "locale": "es",
@@ -25746,13 +25746,13 @@
   },
   {
     "locale": "pt",
-    "slug": "a-condicao-da-promocao-do-portal-do-vendedor-preco-minimo-do-item-nao-esta-funcionando-como-esperado",
-    "internalReference": 928558
+    "slug": "a-condicao-de-numero-maximo-de-parcelas-nos-publicos-da-campanha-nao-e-avaliada-corretamente",
+    "internalReference": 1141291
   },
   {
     "locale": "pt",
-    "slug": "a-condicao-de-numero-maximo-de-parcelas-nos-publicos-da-campanha-nao-e-avaliada-corretamente",
-    "internalReference": 1141291
+    "slug": "a-condicao-de-preco-minimo-do-item-na-promocao-do-portal-do-vendedor-nao-esta-funcionando-como-esperado",
+    "internalReference": 928558
   },
   {
     "locale": "pt",
