@@ -12221,7 +12221,7 @@
   },
   {
     "locale": "es",
-    "slug": "falta-la-integracion-meli-billingaddress",
+    "slug": "falta-la-direccion-de-facturacion-en-la-integracion-de-meli",
     "internalReference": 771418
   },
   {
@@ -15691,7 +15691,7 @@
   },
   {
     "locale": "es",
-    "slug": "modificar-el-numero-de-caracteres-de-la-ficha-braspag",
+    "slug": "modificar-el-numero-de-caracteres-del-albaran-de-braspag",
     "internalReference": 771045
   },
   {
@@ -21316,7 +21316,7 @@
   },
   {
     "locale": "pt",
-    "slug": "falta-integracao-meli-faturamentoadereco",
+    "slug": "falta-o-campo-billingaddress-na-integracao-com-o-meli",
     "internalReference": 771418
   },
   {
@@ -24021,7 +24021,7 @@
   },
   {
     "locale": "pt",
-    "slug": "alterar-o-numero-de-caracteres-no-boletim-da-braspag",
+    "slug": "alterar-o-numero-de-caracteres-no-boleto-braspag",
     "internalReference": 771045
   },
   {
