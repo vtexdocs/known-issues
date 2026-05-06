@@ -9636,11 +9636,6 @@
   },
   {
     "locale": "es",
-    "slug": "error-de-mensaje-incorrecto-al-creareditar-skus",
-    "internalReference": 774518
-  },
-  {
-    "locale": "es",
     "slug": "error-en-la-lista-de-regalos-direccion-incompleta",
     "internalReference": 313576
   },
@@ -10313,6 +10308,11 @@
     "locale": "es",
     "slug": "mapa-del-sitio-de-las-subcuentas-que-incluye-productos-de-otras-subcuentas-y-de-la-cuenta-principal",
     "internalReference": 617974
+  },
+  {
+    "locale": "es",
+    "slug": "mensaje-de-error-incorrecto-al-crear-o-editar-sku",
+    "internalReference": 774518
   },
   {
     "locale": "es",
@@ -13531,7 +13531,7 @@
   },
   {
     "locale": "es",
-    "slug": "sinonimos-no-mostrados-en-la-busqueda-explicada",
+    "slug": "sinonimos-que-no-aparecen-en-la-busqueda-explicada",
     "internalReference": 774307
   },
   {
@@ -22591,7 +22591,7 @@
   },
   {
     "locale": "pt",
-    "slug": "sinonimos-nao-mostrados-na-pesquisa-explicada",
+    "slug": "sinonimos-nao-exibidos-na-pesquisa-explicada",
     "internalReference": 774307
   },
   {
