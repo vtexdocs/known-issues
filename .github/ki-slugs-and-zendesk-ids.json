@@ -9166,11 +9166,6 @@
   },
   {
     "locale": "es",
-    "slug": "catalog-brand-api-rest-permite-al-cliente-romper-la-informacion-si-envia-la-peticion-con-valores-erroneos",
-    "internalReference": 269109
-  },
-  {
-    "locale": "es",
     "slug": "catalog-brand-api-rest-permite-al-cliente-romper-la-informacion-si-envia-la-peticion-con-valores-incorrectos",
     "internalReference": 1126473
   },
@@ -9753,6 +9748,11 @@
     "locale": "es",
     "slug": "la-api-put-brand-no-actualiza-la-propiedad-linkid",
     "internalReference": 1222015
+  },
+  {
+    "locale": "es",
+    "slug": "la-api-rest-de-catalog-brand-permite-al-cliente-interrumpir-la-transmision-de-datos-si-envia-una-solicitud-con-valores-incorrectos",
+    "internalReference": 269109
   },
   {
     "locale": "es",
@@ -17881,13 +17881,13 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-rest-da-marca-do-catalogo-permite-que-o-cliente-quebre-as-informacoes-se-enviar-uma-solicitacao-com-valores-errados",
-    "internalReference": 269109
+    "slug": "a-api-rest-da-marca-do-catalogo-permite-que-o-cliente-quebre-as-informacoes-se-enviar-uma-solicitacao-com-valores-incorretos",
+    "internalReference": 1126473
   },
   {
     "locale": "pt",
-    "slug": "a-api-rest-da-marca-do-catalogo-permite-que-o-cliente-quebre-as-informacoes-se-enviar-uma-solicitacao-com-valores-incorretos",
-    "internalReference": 1126473
+    "slug": "a-api-rest-do-catalogo-de-marcas-permite-que-o-cliente-interrompa-o-envio-de-informacoes-caso-a-solicitacao-seja-enviada-com-valores-incorretos",
+    "internalReference": 269109
   },
   {
     "locale": "pt",
