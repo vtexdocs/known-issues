@@ -14806,7 +14806,7 @@
   },
   {
     "locale": "es",
-    "slug": "adyenv1-no-envia-correctamente-el-paymentmethodtype-para-amex-cuando-se-utiliza-apple-pay",
+    "slug": "adyenv1-no-envia-correctamente-el-valor-de-paymentmethodtype-para-amex-cuando-se-utiliza-apple-pay",
     "internalReference": 920563
   },
   {
@@ -23966,11 +23966,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-adyenv1-nao-envia-corretamente-o-paymentmethodtype-para-a-amex-ao-usar-o-apple-pay",
-    "internalReference": 920563
-  },
-  {
-    "locale": "pt",
     "slug": "a-api-de-listagem-de-transacoes-com-cartaopresente-esta-retornando-resultados-vazios-ou-incompletos",
     "internalReference": 384430
   },
@@ -24763,6 +24758,11 @@
     "locale": "pt",
     "slug": "numero-de-12-digitos-do-cartaonumero-sendo-aceito-na-caixa-e-causando-transacoes-presas",
     "internalReference": 452392
+  },
+  {
+    "locale": "pt",
+    "slug": "o-adyenv1-nao-envia-corretamente-o-parametro-paymentmethodtype-para-a-amex-ao-usar-o-apple-pay",
+    "internalReference": 920563
   },
   {
     "locale": "pt",
