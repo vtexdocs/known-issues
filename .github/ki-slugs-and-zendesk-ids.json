@@ -12311,7 +12311,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-integracion-meli-esta-recibiendo-errores-de-meli-429-demasiadas-peticiones",
+    "slug": "la-integracion-de-meli-esta-dando-errores-de-meli-429-demasiadas-solicitudes",
     "internalReference": 873998
   },
   {
@@ -21121,13 +21121,13 @@
   },
   {
     "locale": "pt",
-    "slug": "a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex",
-    "internalReference": 588456
+    "slug": "a-integracao-com-o-meli-esta-apresentando-erros-do-meli-429-numero-excessivo-de-solicitacoes",
+    "internalReference": 873998
   },
   {
     "locale": "pt",
-    "slug": "a-integracao-do-meli-esta-recebendo-erros-do-meli-429-solicitacoes-demais",
-    "internalReference": 873998
+    "slug": "a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex",
+    "internalReference": 588456
   },
   {
     "locale": "pt",
