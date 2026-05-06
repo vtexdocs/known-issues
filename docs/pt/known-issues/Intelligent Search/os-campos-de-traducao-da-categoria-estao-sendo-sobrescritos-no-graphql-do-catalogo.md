@@ -2,8 +2,8 @@
 title: 'Os campos de tradução da categoria estão sendo sobrescritos no GraphQL do catálogo'
 slug: os-campos-de-traducao-da-categoria-estao-sendo-sobrescritos-no-graphql-do-catalogo
 status: PUBLISHED
-createdAt: 2026-03-20T00:25:34.398Z
-updatedAt: 2026-03-20T00:25:34.398Z
+createdAt: 2022-09-08T23:46:11.000Z
+updatedAt: 2026-03-20T03:24:35.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,7 +18,7 @@ internalReference: 654896
 
 ## Sumário
 
-Ao traduzir conteúdo usando o aplicativo catalog-graphql ou a tradução do catálogo, campos como nome, título ou descrição estão sendo sobrescritos. Esse comportamento ocorre apenas quando a configuração da categoria no idioma de base apresenta valores idênticos para qualquer um desses campos.
+Ao traduzir conteúdo usando o aplicativo catalog-graphql ou a tradução do catálogo, campos como nome, título ou descrição estão sendo sobrescritos. Esse comportamento ocorre apenas quando a configuração da categoria no idioma de base apresenta valores idênticos em qualquer um desses campos.
 
 ## Simulação
 
@@ -28,4 +28,4 @@ Ao traduzir conteúdo usando o aplicativo catalog-graphql ou a tradução do cat
 
 ## Workaround
 
-Para evitar o comportamento de sobrescrita, certifique-se de que a configuração da categoria base (no idioma padrão da conta) tenha valores distintos para todos os três campos: Nome, Título da página da categoria (Título da tag) e Descrição da categoria (Descrição da meta tag).
+Para evitar a substituição, certifique-se de que a configuração da categoria base (no idioma padrão da conta) tenha valores distintos para todos os três campos: Nome, Título da página da categoria (Título da tag) e Descrição da categoria (Descrição da meta tag).
