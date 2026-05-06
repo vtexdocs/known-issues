@@ -13941,6 +13941,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-se-puede-suspender-al-vendedor",
+    "internalReference": 682151
+  },
+  {
+    "locale": "es",
     "slug": "recibidos-skus-revision-ficha-productos-que-faltan",
     "internalReference": 939877
   },
@@ -22872,6 +22877,11 @@
   {
     "locale": "pt",
     "slug": "incapaz-de-pausar-o-vendedor",
+    "internalReference": 682151
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-suspender-o-vendedor",
     "internalReference": 682151
   },
   {
