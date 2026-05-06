@@ -14466,7 +14466,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-simulacion-de-suscripciones-devuelve-un-error-cuando-pickuppointid-contiene-caracteres-especiales",
+    "slug": "la-simulacion-de-suscripciones-devolvio-un-error-cuando-pickuppointid-contiene-caracteres-especiales",
     "internalReference": 903332
   },
   {
@@ -14931,7 +14931,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-conector-payu-no-puede-procesar-pagos-cuando-hay-datos-de-envio-que-contienen-mas-de-40-caracteres",
+    "slug": "el-conector-payu-no-puede-procesar-los-pagos-cuando-los-datos-de-envio-contienen-mas-de-40-caracteres",
     "internalReference": 902539
   },
   {
@@ -24831,7 +24831,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-conector-payu-nao-consegue-processar-pagamentos-quando-ha-dados-de-envio-com-mais-de-40-caracteres",
+    "slug": "o-conector-payu-nao-consegue-processar-pagamentos-quando-os-dados-de-envio-contem-mais-de-40-caracteres",
     "internalReference": 902539
   },
   {
