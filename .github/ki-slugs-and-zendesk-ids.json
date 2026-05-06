@@ -10826,7 +10826,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-campo-de-codigo-postal-de-la-vista-previa-de-envio-no-esta-oculto",
+    "slug": "el-campo-de-introduccion-del-codigo-postal-de-la-vista-previa-del-envio-no-esta-oculto",
     "internalReference": 821984
   },
   {
@@ -20466,7 +20466,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-campo-de-entrada-do-codigo-postal-da-visualizacao-do-envio-nao-esta-oculto",
+    "slug": "o-campo-de-insercao-do-cep-na-visualizacao-do-envio-nao-esta-oculto",
     "internalReference": 821984
   },
   {
