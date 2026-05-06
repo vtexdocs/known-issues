@@ -1,11 +1,9 @@
 ---
-title: '[Facebook] Today Facebook looks at sellingPrice and listPrice to update the price in the Facebook catalog'
-id: 4CDh12JM3y9AqBnuGDHgnT
+title: 'Facebook Today Facebook looks at sellingPrice and listPrice to update the price in the Facebook catalog'
+slug: facebook-today-facebook-looks-at-sellingprice-and-listprice-to-update-the-price-in-the-facebook-catalog
 status: PUBLISHED
-createdAt: 2024-04-03T12:41:15.144Z
-updatedAt: 2024-04-03T12:41:16.005Z
-publishedAt: 2024-04-03T12:41:16.005Z
-firstPublishedAt: 2024-04-03T12:41:16.005Z
+createdAt: 2023-10-24T13:15:07.000Z
+updatedAt: 2024-04-03T12:40:57.000Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,14 +16,9 @@ internalReference: 924411
 
 ## Summary
 
-
 Today Facebook looks at sellingPrice and listPrice to update the price in the Facebook catalog.
 
-
-##
-
 ## Simulation
-
 
 Seller is using unitMultiplier = 0.5
 
@@ -35,16 +28,6 @@ What is the problem with this calculation?
 When the seller uses 0.5, for example, on Facebook we are updating it as the settlement price on Facebook.
 2. When the seller uses a multiplier greater than 1.39, it falls within the promotional price even though it is higher than the listPrice
 
-
-
-##
-
 ## Workaround
 
-
 seller use unitMultiplier = 10000
-
-
-
-
-
