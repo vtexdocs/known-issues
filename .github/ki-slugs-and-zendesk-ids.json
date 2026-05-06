@@ -8866,7 +8866,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-usuario-detallada-de-las-organizaciones-b2b-solo-muestra-100-primeros-vendedores",
+    "slug": "la-interfaz-de-usuario-de-detalles-de-organizaciones-b2b-solo-muestra-los-primeros-100-vendedores",
     "internalReference": 966450
   },
   {
@@ -16856,7 +16856,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-suscripcion-promocional-con-frecuencia-de-semana-mes-y-dia-no-funciona-en-ciclos-recurrentes",
+    "slug": "la-suscripcion-a-la-promocion-con-periodicidad-semanal-mensual-y-diaria-no-funciona-en-los-ciclos-recurrentes",
     "internalReference": 965484
   },
   {
@@ -17891,7 +17891,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-interface-de-usuario-detalhada-das-organizacoes-b2b-mostra-apenas-100-primeiros-vendedores",
+    "slug": "a-interface-do-usuario-de-detalhes-das-organizacoes-b2b-mostra-apenas-os-primeiros-100-vendedores",
     "internalReference": 966450
   },
   {
@@ -25771,7 +25771,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-assinatura-de-promocao-com-frequencia-de-semana-mes-e-dia-nao-esta-funcionando-em-ciclos-recorrentes",
+    "slug": "a-assinatura-promocional-com-frequencia-semanal-mensal-e-diaria-nao-esta-funcionando-nos-ciclos-recorrentes",
     "internalReference": 965484
   },
   {
