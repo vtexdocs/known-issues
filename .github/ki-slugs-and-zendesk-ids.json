@@ -4591,6 +4591,11 @@
   },
   {
     "locale": "en",
+    "slug": "some-special-characters-are-not-stripped-from-product-searches-or-indexing",
+    "internalReference": 382382
+  },
+  {
+    "locale": "en",
     "slug": "sort-by-name-working-different-on-stores-integrated-before-a-date",
     "internalReference": 600468
   },
@@ -12776,6 +12781,11 @@
   },
   {
     "locale": "es",
+    "slug": "algunos-caracteres-especiales-no-se-eliminan-de-las-busquedas-de-productos-ni-de-la-indexacion",
+    "internalReference": 382382
+  },
+  {
+    "locale": "es",
     "slug": "autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-plp-se-renderiza",
     "internalReference": 1208038
   },
@@ -16561,7 +16571,7 @@
   },
   {
     "locale": "es",
-    "slug": "productos-que-muestran-la-bandera-y-el-descuento-tras-finalizar-la-promocion",
+    "slug": "productos-que-muestran-una-bandera-y-un-descuento-tras-finalizar-la-promocion",
     "internalReference": 383911
   },
   {
@@ -21621,6 +21631,11 @@
   },
   {
     "locale": "pt",
+    "slug": "alguns-caracteres-especiais-nao-sao-removidos-das-pesquisas-de-produtos-ou-da-indexacao",
+    "internalReference": 382382
+  },
+  {
+    "locale": "pt",
     "slug": "amostragem-para-filtros-de-pesquisa-inesperadamente-agressiva-omitindo-valores-de-filtro",
     "internalReference": 1202555
   },
@@ -25301,7 +25316,7 @@
   },
   {
     "locale": "pt",
-    "slug": "produtos-que-mostram-a-bandeira-e-o-desconto-apos-o-termino-da-promocao",
+    "slug": "produtos-que-exibem-uma-bandeira-e-um-desconto-apos-o-termino-da-promocao",
     "internalReference": 383911
   },
   {
