@@ -16631,6 +16631,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-descuento-maximo-por-envio-no-actualiza-las-etiquetas-de-precio",
+    "internalReference": 904190
+  },
+  {
+    "locale": "es",
     "slug": "el-descuento-nominal-calculado-segun-la-formula-no-funciona-como-se-esperaba-en-las-operaciones-de-resta",
     "internalReference": 886980
   },
@@ -16888,11 +16893,6 @@
     "locale": "es",
     "slug": "los-precios-del-mercado-externo-no-se-actualizan-tras-el-inicio-o-el-fin-de-la-promocion",
     "internalReference": 1322691
-  },
-  {
-    "locale": "es",
-    "slug": "max-shipping-discount-no-actualiza-pricetags",
-    "internalReference": 904190
   },
   {
     "locale": "es",
@@ -24421,13 +24421,13 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-ao-exportar-uma-grande-quantidade-de-cartoespresente",
-    "internalReference": 288436
+    "slug": "erro-ao-encerrar-a-conta-de-credito-do-cliente",
+    "internalReference": 904432
   },
   {
     "locale": "pt",
-    "slug": "erro-ao-fechar-a-conta-de-credito-do-cliente",
-    "internalReference": 904432
+    "slug": "erro-ao-exportar-uma-grande-quantidade-de-cartoespresente",
+    "internalReference": 288436
   },
   {
     "locale": "pt",
@@ -26006,6 +26006,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-desconto-maximo-de-frete-nao-esta-atualizando-as-etiquetas-de-preco",
+    "internalReference": 904190
+  },
+  {
+    "locale": "pt",
     "slug": "o-desconto-nominal-calculado-com-base-na-formula-nao-esta-funcionando-como-esperado-nas-operacoes-de-subtracao",
     "internalReference": 886980
   },
@@ -26028,11 +26033,6 @@
     "locale": "pt",
     "slug": "o-limite-de-variacao-de-preco-so-funciona-na-politica-principal",
     "internalReference": 509540
-  },
-  {
-    "locale": "pt",
-    "slug": "o-max-shipping-discount-nao-esta-atualizando-as-pricetags",
-    "internalReference": 904190
   },
   {
     "locale": "pt",
