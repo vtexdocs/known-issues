@@ -7411,6 +7411,11 @@
   },
   {
     "locale": "en",
+    "slug": "when-a-component-of-the-kit-look-is-out-of-stock-the-kit-is-shown-as-sold-out-on-searching",
+    "internalReference": 342720
+  },
+  {
+    "locale": "en",
     "slug": "xmls-returning-500-error",
     "internalReference": 268042
   },
@@ -10581,11 +10586,6 @@
   },
   {
     "locale": "es",
-    "slug": "checkout-permite-a-los-usuarios-saltar-al-paso-de-pago-con-un-shippingdata-vacio-cuando-se-utiliza-geolocalizacion",
-    "internalReference": 343056
-  },
-  {
-    "locale": "es",
     "slug": "checkout-permite-anadir-cantidades-de-sku-por-encima-del-stock-disponible-cuando-la-simulacion-de-vendedor-externo-devuelve-0-como-cantidad",
     "internalReference": 1316990
   },
@@ -11078,6 +11078,11 @@
     "locale": "es",
     "slug": "la-fecha-de-entrega-se-vacia-cuando-el-articulo-es-un-regalo-anadido",
     "internalReference": 586143
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-de-pago-permite-a-los-usuarios-pasar-directamente-al-paso-de-pago-con-un-campo-shippingdata-vacio-cuando-se-utiliza-la-geolocalizacion",
+    "internalReference": 343056
   },
   {
     "locale": "es",
@@ -13966,6 +13971,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-flujo-de-pedidos-de-logisticavendedor-sigue-su-curso-independientemente-de-si-el-pedido-del-marketplace-tiene-el-indicador-de-pedido-incompleto-iscompletedfalse",
+    "internalReference": 345526
+  },
+  {
+    "locale": "es",
     "slug": "el-informe-de-exportacion-de-pedidos-no-funciona-correctamente-debido-al-doble-espacio-en-el-nombre-de-la-promocion",
     "internalReference": 786216
   },
@@ -15923,6 +15933,11 @@
     "locale": "es",
     "slug": "cms-settings-role-no-funciona-como-se-esperaba",
     "internalReference": 538706
+  },
+  {
+    "locale": "es",
+    "slug": "cuando-un-componente-del-conjunto-esta-agotado-el-conjunto-aparece-como-agotado-en-los-resultados-de-busqueda",
+    "internalReference": 342720
   },
   {
     "locale": "es",
@@ -19756,7 +19771,7 @@
   },
   {
     "locale": "pt",
-    "slug": "dados-incorretos-na-pickupstoreinfo-apos-a-criacao-do-pedido",
+    "slug": "dados-incorretos-em-pickupstoreinfo-apos-a-criacao-do-pedido",
     "internalReference": 347155
   },
   {
@@ -20071,7 +20086,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-checkout-permite-que-os-usuarios-pulem-para-a-etapa-de-pagamento-com-um-shippingdata-vazio-ao-usar-a-geolocalizacao",
+    "slug": "o-checkout-permite-que-os-usuarios-passem-diretamente-para-a-etapa-de-pagamento-com-um-campo-shippingdata-vazio-ao-usar-a-geolocalizacao",
     "internalReference": 343056
   },
   {
@@ -22951,6 +22966,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-fluxo-de-pedidos-de-atendimentovendedor-segue-adiante-independentemente-de-o-pedido-no-marketplace-apresentar-o-sinalizador-de-pedido-incompleto-iscompletedfalse",
+    "internalReference": 345526
+  },
+  {
+    "locale": "pt",
     "slug": "o-fluxo-de-pedidos-do-fulfillmentvendedor-progride-independentemente-de-ter-o-sinalizador-de-pedido-incompleto-iscompletedfalse-no-pedido-do-market",
     "internalReference": 345526
   },
@@ -24863,6 +24883,11 @@
     "locale": "pt",
     "slug": "pubportalpagetype-nao-mapeia-corretamente-quando-2-categorias-tem-o-mesmo-nome",
     "internalReference": 314551
+  },
+  {
+    "locale": "pt",
+    "slug": "quando-um-item-do-conjunto-esta-em-falta-o-conjunto-aparece-como-esgotado-na-pesquisa",
+    "internalReference": 342720
   },
   {
     "locale": "pt",
