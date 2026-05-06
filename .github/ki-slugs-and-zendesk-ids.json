@@ -22,7 +22,7 @@
   {
     "locale": "en",
     "slug": "magazine-luiza-some-orders-do-not-update-status-for-delivered-on-the-marketplace",
-    "internalReference": 827440
+    "internalReference": 829762
   },
   {
     "locale": "en",
@@ -8631,8 +8631,8 @@
   },
   {
     "locale": "es",
-    "slug": "magazine-luiza-algunos-pedidos-no-actualizan-el-estado-de-entregado-en-el-mercado",
-    "internalReference": 827440
+    "slug": "magazine-luiza-algunos-pedidos-no-actualizan-el-estado-a-entregado-en-el-marketplace",
+    "internalReference": 829762
   },
   {
     "locale": "es",
@@ -17678,6 +17678,11 @@
     "locale": "pt",
     "slug": "falha-no-carregamento-do-administrador-devido-a-varios-logins-b2b",
     "internalReference": 1221787
+  },
+  {
+    "locale": "pt",
+    "slug": "magazine-luiza-algumas-encomendas-nao-atualizam-o-status-para-entregue-no-marketplace",
+    "internalReference": 829762
   },
   {
     "locale": "pt",
