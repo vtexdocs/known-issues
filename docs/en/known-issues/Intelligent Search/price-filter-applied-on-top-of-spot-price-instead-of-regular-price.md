@@ -1,11 +1,9 @@
 ---
-title: 'Price filter applied on top of ''spot price'' instead of regular price'
-id: 2EEgRV1NxYuns4eF7F0ZqD
+title: 'Price filter applied on top of "spot price" instead of regular price'
+slug: price-filter-applied-on-top-of-spot-price-instead-of-regular-price
 status: PUBLISHED
-createdAt: 2024-02-15T19:39:53.576Z
-updatedAt: 2024-02-15T19:39:54.436Z
-publishedAt: 2024-02-15T19:39:54.436Z
-firstPublishedAt: 2024-02-15T19:39:54.436Z
+createdAt: 2024-02-15T19:39:39.000Z
+updatedAt: 2024-02-15T19:39:39.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,16 +16,11 @@ internalReference: 982664
 
 ## Summary
 
-
 Price filters are applied on top of the "spotPrice" value, which is the price for special payment conditions, instead of the item's regular price.
 
 This may affect expectations while diverging from most places, which focus on the regular price, as the shelves and cart usually do, or properties like "priceRange" from the API.
 
-
-##
-
 ## Simulation
-
 
 Consider a product priced at $430 with 10% off in a specific payment method, generating a "spot price" of $387.
 
@@ -37,16 +30,6 @@ In the same way, the "priceRange" property from the API will answer with the fol
 
     "priceRange": { "sellingPrice": { "highPrice": 430, "lowPrice": 430 }, "listPrice": { "highPrice": 430, "lowPrice": 430 }}
 
-
-
-##
-
 ## Workaround
 
-
 N/A
-
-
-
-
-
