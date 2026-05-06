@@ -9531,11 +9531,6 @@
   },
   {
     "locale": "es",
-    "slug": "error-al-importarexportar-una-hoja-de-calculo-grande-en-el-nuevo-administrador-de-cobros",
-    "internalReference": 362017
-  },
-  {
-    "locale": "es",
     "slug": "error-al-reordenar-colecciones-grandes",
     "internalReference": 408140
   },
@@ -9558,6 +9553,11 @@
     "locale": "es",
     "slug": "error-en-la-lista-de-regalos-direccion-incompleta",
     "internalReference": 313576
+  },
+  {
+    "locale": "es",
+    "slug": "error-grave-en-la-hoja-de-calculo-de-importacionexportacion-en-la-nueva-administracion-de-colecciones",
+    "internalReference": 362017
   },
   {
     "locale": "es",
@@ -18546,13 +18546,13 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-de-planilha-grande-de-importacaoexportacao-no-new-collections-admin",
-    "internalReference": 362017
+    "slug": "erro-field-group-not-found-in-the-category-ao-criar-uma-especificacao-via-api-usando-um-grupo-que-pertence-a-categoria-principal",
+    "internalReference": 1109219
   },
   {
     "locale": "pt",
-    "slug": "erro-field-group-not-found-in-the-category-ao-criar-uma-especificacao-via-api-usando-um-grupo-que-pertence-a-categoria-principal",
-    "internalReference": 1109219
+    "slug": "erro-grave-na-planilha-de-importacaoexportacao-na-nova-pagina-de-administracao-de-colecoes",
+    "internalReference": 362017
   },
   {
     "locale": "pt",
@@ -19616,7 +19616,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-opcoes-de-frete-nao-sao-exibidas-no-carrinho-quando-ha-entrega-programada-e-o-lean-shipping-esta-ativado",
+    "slug": "as-opcoes-de-envio-nao-sao-exibidas-no-carrinho-quando-ha-entrega-programada-e-o-lean-shipping-esta-ativado",
     "internalReference": 362685
   },
   {
