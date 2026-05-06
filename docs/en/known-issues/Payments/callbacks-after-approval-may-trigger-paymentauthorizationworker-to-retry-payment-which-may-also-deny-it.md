@@ -2,8 +2,8 @@
 title: 'Callbacks after approval may trigger PaymentAuthorizationWorker to retry payment which may also deny it.'
 slug: callbacks-after-approval-may-trigger-paymentauthorizationworker-to-retry-payment-which-may-also-deny-it
 status: PUBLISHED
-createdAt: 2025-11-14T19:26:45.322Z
-updatedAt: 2025-11-14T19:26:45.322Z
+createdAt: 2023-01-25T19:58:26.000Z
+updatedAt: 2023-09-15T18:22:40.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,19 +16,12 @@ internalReference: 740499
 
 ## Summary
 
-
 When the provider sends a callback right after authorization, it may trigger a new authorization attempt. Hence, in some cases when the transaction has more than 1 payment and one of them is a gift card, a new authorization retry may cancel the transaction when it has no funds.
 
-
-#### Simulation
-
+## Simulation
 
 It can't be simulated as it depends on the provider's callback.
 
-
-#### Workaround
-
+## Workaround
 
 N/A
-
-
