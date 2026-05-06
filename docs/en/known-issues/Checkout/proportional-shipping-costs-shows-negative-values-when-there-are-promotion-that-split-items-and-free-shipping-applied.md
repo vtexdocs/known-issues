@@ -2,8 +2,8 @@
 title: 'Proportional shipping costs shows negative values when there are promotion that split items and free shipping applied'
 slug: proportional-shipping-costs-shows-negative-values-when-there-are-promotion-that-split-items-and-free-shipping-applied
 status: PUBLISHED
-createdAt: 2026-03-06T22:55:28.553Z
-updatedAt: 2026-03-06T22:55:28.553Z
+createdAt: 2023-09-29T01:29:24.000Z
+updatedAt: 2026-03-07T01:55:06.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
