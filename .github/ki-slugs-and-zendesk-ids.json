@@ -10951,11 +10951,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-pago-permite-anadir-2-direcciones-diferentes-para-la-entrega",
-    "internalReference": 931225
-  },
-  {
-    "locale": "es",
     "slug": "el-pago-permite-pasar-al-formulario-de-pago-sin-la-direccion-de-envio-en-la-interfaz-de-usuario-solamente",
     "internalReference": 699317
   },
@@ -11003,6 +10998,11 @@
     "locale": "es",
     "slug": "el-proceso-de-pago-no-permite-eliminar-un-articulo-de-regalo-cuando-este-no-esta-disponible-tras-seleccionar-un-punto-de-recogida",
     "internalReference": 363885
+  },
+  {
+    "locale": "es",
+    "slug": "el-proceso-de-pago-permite-anadir-dos-direcciones-de-entrega-diferentes",
+    "internalReference": 931225
   },
   {
     "locale": "es",
