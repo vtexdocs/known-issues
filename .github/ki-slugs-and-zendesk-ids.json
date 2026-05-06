@@ -2096,6 +2096,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-payment-split-may-generate-incorrect-information-in-the-paymentdata-of-orders-nopayment",
+    "internalReference": 330802
+  },
+  {
+    "locale": "en",
     "slug": "checkout-payment-split-may-generate-incorrect-information-in-the-paymentdata",
     "internalReference": 330802
   },
@@ -11051,6 +11056,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-division-del-pago-al-finalizar-la-compra-puede-generar-informacion-incorrecta-en-el-campo-paymentdata-de-los-pedidos-nopayment",
+    "internalReference": 330802
+  },
+  {
+    "locale": "es",
     "slug": "la-edicion-del-correo-electronico-en-la-interfaz-de-pago-hace-que-la-pantalla-se-congele",
     "internalReference": 1211673
   },
@@ -14988,6 +14998,11 @@
     "locale": "es",
     "slug": "incoherencia-en-los-eventos",
     "internalReference": 267299
+  },
+  {
+    "locale": "es",
+    "slug": "incoherencia-en-los-plazos-de-las-facturas-de-credito-a-clientes",
+    "internalReference": 331279
   },
   {
     "locale": "es",
@@ -19283,6 +19298,11 @@
     "locale": "pt",
     "slug": "a-disponibilidade-do-produto-e-mostrada-incorretamente-nos-pickups-no-modal-de-exibicao-do-carrinho",
     "internalReference": 552875
+  },
+  {
+    "locale": "pt",
+    "slug": "a-divisao-do-pagamento-no-checkout-pode-gerar-informacoes-incorretas-no-campo-paymentdata-dos-pedidos-nopayment",
+    "internalReference": 330802
   },
   {
     "locale": "pt",
@@ -23887,6 +23907,11 @@
   {
     "locale": "pt",
     "slug": "inconsistencia-nos-prazos-das-faturas-de-credito-do-cliente",
+    "internalReference": 331279
+  },
+  {
+    "locale": "pt",
+    "slug": "inconsistencia-nos-prazos-de-vencimento-das-faturas-de-credito-ao-cliente",
     "internalReference": 331279
   },
   {
