@@ -2,8 +2,8 @@
 title: "Tax hub request doesn't sum discounts when manual price is applied"
 slug: tax-hub-request-doesnt-sum-discounts-when-manual-price-is-applied
 status: PUBLISHED
-createdAt: 2025-11-14T19:18:00.454Z
-updatedAt: 2025-11-14T19:18:00.454Z
+createdAt: 2023-11-08T18:07:07.000Z
+updatedAt: 2023-11-08T18:07:07.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,21 +16,13 @@ internalReference: 932667
 
 ## Summary
 
-
 When a manual price is applied to an item to decrease the price, the tax hub request doesn't sum it and shows the discount totals always as 0.
 
-
-#### Simulation
-
-
+## Simulation
 
 - Set a manual price lower than the current price for an item;
 - The tax hub request won't sum the discount in the totals.
 
-
-#### Workaround
-
+## Workaround
 
 N/A
-
-
