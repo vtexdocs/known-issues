@@ -1,11 +1,9 @@
 ---
 title: 'Orders without invoiceAddress created through native UI'
-id: 1XjNZhcTJ5rZJP4w3kJtcW
+slug: orders-without-invoiceaddress-created-through-native-ui
 status: PUBLISHED
-createdAt: 2022-01-24T20:21:07.893Z
-updatedAt: 2023-12-19T21:34:15.743Z
-publishedAt: 2023-12-19T21:34:15.743Z
-firstPublishedAt: 2022-06-27T19:49:05.878Z
+createdAt: 2020-11-16T17:31:41.000Z
+updatedAt: 2023-12-19T21:34:01.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,15 +16,10 @@ internalReference: 306140
 
 ## Summary
 
-
 In some cases it is still possible to create orders without `invoiceAddress` via the checkout UI.
 The invoice address must be mandatory in the UI of all stores that have the functionality enabled.
 
-
-##
-
 ## Simulation
-
 
 So far the known steps to reproduce the scenario are:
 
@@ -44,14 +37,6 @@ So far the known steps to reproduce the scenario are:
 In addition to the above, the behavior can be observed when the user is in the shipping stage and when reloading the page, they are automatically taken to payment without filling out the Invoice data.
 Another scenario that induces the behavior is to switch between the list of previously registered addresses and a new address, which allows the user to proceed to payment without filling in the zip code (of a new address).
 
-
-##
-
 ## Workaround
 
-
 There is no known workaround to avoid the root scenario.
-
-
-
-
