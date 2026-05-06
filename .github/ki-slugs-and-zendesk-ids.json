@@ -11256,7 +11256,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-opcion-de-entrega-programada-no-aparece-en-el-carrito-si-el-envio-magro-esta-desactivado-y-el-articulo-tiene-ambos-tipos-de-entregas",
+    "slug": "la-opcion-de-entrega-programada-no-aparece-en-el-carrito-si-el-envio-lean-esta-desactivado-y-el-articulo-ofrece-ambos-tipos-de-entrega",
     "internalReference": 394943
   },
   {
@@ -13921,7 +13921,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-campo-judet-county-no-aparece-como-guardado-al-editar-la-direccion-en-romania-my-account",
+    "slug": "el-campo-condado-de-judet-no-aparece-como-guardado-al-editar-la-direccion-en-la-seccion-mi-cuenta-de-rumania",
     "internalReference": 394658
   },
   {
@@ -14331,6 +14331,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-se-pueden-crear-pedidos-de-suscripcion-una-vez-que-el-sku-se-ha-vinculado-a-un-regalo-que-no-esta-disponible",
+    "internalReference": 395965
+  },
+  {
+    "locale": "es",
     "slug": "orden-de-compracolocada-boleto-factura-bancaria-moip",
     "internalReference": 376951
   },
@@ -14463,11 +14468,6 @@
     "locale": "es",
     "slug": "suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-una-de-las-sku",
     "internalReference": 666701
-  },
-  {
-    "locale": "es",
-    "slug": "suscripciones-los-pedidos-no-pueden-crearse-una-vez-que-la-sku-se-ha-vinculado-a-un-regalo-no-disponible",
-    "internalReference": 395965
   },
   {
     "locale": "es",
@@ -19506,7 +19506,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-opcao-de-entrega-programada-nao-aparecera-no-carrinho-se-o-envio-enxuto-estiver-desativado-e-o-item-tiver-ambos-os-tipos-de-entrega",
+    "slug": "a-opcao-de-entrega-programada-nao-aparece-no-carrinho-se-o-envio-simplificado-estiver-desativado-e-o-item-tiver-os-dois-tipos-de-entrega",
     "internalReference": 394943
   },
   {
@@ -22731,11 +22731,6 @@
   },
   {
     "locale": "pt",
-    "slug": "assinaturas-os-pedidos-nao-podem-ser-criados-depois-que-a-sku-tiver-sido-vinculada-a-um-presente-indisponivel",
-    "internalReference": 395965
-  },
-  {
-    "locale": "pt",
     "slug": "assinaturas-quando-o-vendedor-e-um-pickup-point-e-nao-tem-um-dos-skus",
     "internalReference": 666701
   },
@@ -22916,6 +22911,11 @@
   },
   {
     "locale": "pt",
+    "slug": "nao-e-possivel-criar-pedidos-de-assinatura-depois-que-o-sku-for-associado-a-um-presente-indisponivel",
+    "internalReference": 395965
+  },
+  {
+    "locale": "pt",
     "slug": "nao-e-possivel-fazer-uma-alteracao-alteracao-v2-para-aumentar-o-pedido-se-a-conta-tiver-o-modo-de-defesa-ativo-em-pagamentos-ou-qualquer-outro-pagamento",
     "internalReference": 1155646
   },
@@ -22961,7 +22961,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-campo-judet-county-nao-esta-aparecendo-como-salvo-ao-editar-o-endereco-na-minha-conta-na-romenia",
+    "slug": "o-campo-condado-de-judet-nao-aparece-como-salvo-ao-editar-o-endereco-na-secao-minha-conta-da-romenia",
     "internalReference": 394658
   },
   {
