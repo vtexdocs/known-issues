@@ -10211,7 +10211,7 @@
   },
   {
     "locale": "es",
-    "slug": "no-se-permite-la-entrega-de-kits-si-el-producto-tiene-un-modal-configurado",
+    "slug": "no-se-permite-la-entrega-de-kits-si-el-producto-tiene-un-modo-configurado",
     "internalReference": 296045
   },
   {
@@ -15971,7 +15971,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-clasificacion-manual-de-colecciones-no-funciona-como-se-esperaba",
+    "slug": "la-clasificacion-manual-de-las-colecciones-no-funciona-como-se-esperaba",
     "internalReference": 295245
   },
   {
@@ -24591,7 +24591,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-classificacao-manual-de-colecoes-nao-funciona-como-esperado",
+    "slug": "a-classificacao-manual-das-colecoes-nao-funciona-como-esperado",
     "internalReference": 295245
   },
   {
