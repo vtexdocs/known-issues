@@ -16911,7 +16911,7 @@
   },
   {
     "locale": "es",
-    "slug": "registros-de-precios-de-auditoria-que-muestran-informacion-desconocida",
+    "slug": "revisar-los-registros-de-precios-que-muestran-informacion-desconocida",
     "internalReference": 856420
   },
   {
@@ -25831,6 +25831,11 @@
   },
   {
     "locale": "pt",
+    "slug": "auditar-os-registros-de-precos-que-apresentam-informacoes-desconhecidas",
+    "internalReference": 856420
+  },
+  {
+    "locale": "pt",
     "slug": "bandeira-aplicar-desconto-apenas-a-opcao-de-remessa-mais-barata-nao-funcionando-como-esperado",
     "internalReference": 672567
   },
@@ -26038,11 +26043,6 @@
     "locale": "pt",
     "slug": "quantas-vezes-seu-beneficio-sera-aplicado-em-sua-loja-salvando-incorretamente-na-interface-do-formulario-de-promocao",
     "internalReference": 268304
-  },
-  {
-    "locale": "pt",
-    "slug": "registros-de-precos-de-auditoria-mostrando-informacoes-desconhecidas",
-    "internalReference": 856420
   },
   {
     "locale": "pt",
