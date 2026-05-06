@@ -12361,11 +12361,6 @@
   },
   {
     "locale": "es",
-    "slug": "las-ordenes-meli-no-se-cancelan-en-el-escenario-vtex-oms-para-cuentas-multiples",
-    "internalReference": 977453
-  },
-  {
-    "locale": "es",
     "slug": "limitacion-de-imagenes-meli",
     "internalReference": 571539
   },
@@ -12378,6 +12373,11 @@
     "locale": "es",
     "slug": "los-anuncios-de-buybox-de-meli-no-se-pausan-cuando-se-pausa-el-anuncio-del-marketplace",
     "internalReference": 910371
+  },
+  {
+    "locale": "es",
+    "slug": "los-pedidos-de-meli-no-se-cancelan-en-vtex-oms-en-el-caso-de-cuentas-multiples",
+    "internalReference": 977453
   },
   {
     "locale": "es",
@@ -12616,11 +12616,6 @@
   },
   {
     "locale": "es",
-    "slug": "oferta-de-flete-meli-para-varios-officialstoreids",
-    "internalReference": 978358
-  },
-  {
-    "locale": "es",
     "slug": "orden-aprobada-en-el-marketplace-pero-no-integrada-en-vtex",
     "internalReference": 547809
   },
@@ -12643,6 +12638,11 @@
     "locale": "es",
     "slug": "pedidos-facturados-en-vtex-pero-que-no-actualizan-la-factura-en-netshoes",
     "internalReference": 577219
+  },
+  {
+    "locale": "es",
+    "slug": "presupuesto-de-meli-freight-para-varios-officialstoreid",
+    "internalReference": 978358
   },
   {
     "locale": "es",
@@ -17696,6 +17696,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-produce-un-error-bad-request-al-buscar-terminos-que-contienen-el-simbolo-mediante-la-funcion-de-autocompletado",
+    "internalReference": 978136
+  },
+  {
+    "locale": "es",
     "slug": "selector-de-sku-con-contextos-multilpe",
     "internalReference": 341322
   },
@@ -17708,11 +17713,6 @@
     "locale": "es",
     "slug": "sliderlayout-bug-when-using-prop-infinite-as-always-on-mobile",
     "internalReference": 920725
-  },
-  {
-    "locale": "es",
-    "slug": "solicitud-incorrecta-al-buscar-terminos-con-mediante-autocompletar",
-    "internalReference": 978136
   },
   {
     "locale": "es",
@@ -21376,7 +21376,7 @@
   },
   {
     "locale": "pt",
-    "slug": "cotacao-de-frete-meli-para-multiplos-officialstoreids",
+    "slug": "cotacao-de-frete-da-meli-para-varios-officialstoreids",
     "internalReference": 978358
   },
   {
@@ -21786,13 +21786,13 @@
   },
   {
     "locale": "pt",
-    "slug": "os-pedidos-meli-full-nao-estao-gerando-faturas-no-vtex",
-    "internalReference": 976614
+    "slug": "os-pedidos-da-meli-nao-estao-sendo-cancelados-no-vtex-oms-em-um-cenario-com-varias-contas",
+    "internalReference": 977453
   },
   {
     "locale": "pt",
-    "slug": "os-pedidos-meli-nao-estao-sendo-cancelados-no-vtex-oms-para-o-cenario-de-contas-multiplas",
-    "internalReference": 977453
+    "slug": "os-pedidos-meli-full-nao-estao-gerando-faturas-no-vtex",
+    "internalReference": 976614
   },
   {
     "locale": "pt",
@@ -26546,6 +26546,11 @@
   },
   {
     "locale": "pt",
+    "slug": "erro-bad-request-ao-pesquisar-termos-com-o-simbolo-pelo-preenchimento-automatico",
+    "internalReference": 978136
+  },
+  {
+    "locale": "pt",
     "slug": "erro-de-minicart-ao-atualizar-a-promocao",
     "internalReference": 552633
   },
@@ -26928,11 +26933,6 @@
     "locale": "pt",
     "slug": "sinalizador-de-desempenho-que-afeta-a-grade-de-produtos-no-plp",
     "internalReference": 1251266
-  },
-  {
-    "locale": "pt",
-    "slug": "solicitacao-incorreta-ao-pesquisar-termos-com-por-meio-do-preenchimento-automatico",
-    "internalReference": 978136
   },
   {
     "locale": "pt",
