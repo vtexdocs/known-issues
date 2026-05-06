@@ -18,7 +18,7 @@ internalReference: 482353
 
 ## Sumario
 
-En este momento, dentro de los permisos de Logística, existe uno denominado «Acceso completo al inventario de Logística», que, en teoría, debería permitir gestionar el inventario de forma totalmente independiente; es decir, el usuario podría manipular únicamente los datos de inventario, sin poder acceder a nada más dentro del módulo de logística.
+En este momento, dentro de los permisos de Logística, existe uno denominado «Acceso completo al inventario de Logística», que, en teoría, debería permitir gestionar el inventario de forma totalmente independiente; es decir, el usuario solo podría manipular los datos de inventario, nada más dentro del módulo de logística.
 
 El problema actual es que este permiso no funciona como se esperaba, es decir, se necesita el permiso general de logística para poder gestionar el inventario. El riesgo, en este caso, es que el usuario pueda realizar acciones en los demás módulos de logística, como políticas de envío, geolocalización, etc.
 
