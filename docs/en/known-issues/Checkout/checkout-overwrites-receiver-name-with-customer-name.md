@@ -2,8 +2,8 @@
 title: 'Checkout overwrites receiver name with customer name'
 slug: checkout-overwrites-receiver-name-with-customer-name
 status: PUBLISHED
-createdAt: 2025-12-18T12:36:42.617Z
-updatedAt: 2025-12-18T12:36:42.617Z
+createdAt: 2021-01-15T16:22:11.000Z
+updatedAt: 2022-09-26T21:11:13.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,15 +16,9 @@ internalReference: 324792
 
 ## Summary
 
-
 The receiver name is rewritten with the customer name after reloading the checkout page.
 
-
-#### Simulation
-
-
-
-
+## Simulation
 
 - create a new cart
 - go ahead as a new customer with a name "A"
@@ -32,8 +26,6 @@ The receiver name is rewritten with the customer name after reloading the checko
 - go to the payment step
 - reload the page
 
-
-#### Workaround
-
+## Workaround
 
 N/A
