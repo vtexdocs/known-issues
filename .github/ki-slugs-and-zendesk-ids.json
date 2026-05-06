@@ -13816,7 +13816,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-campo-cambios-y-devoluciones-no-se-actualiza-en-la-interfaz-de-usuario-de-gestion-de-vendedores-despues-de-guardar",
+    "slug": "el-campo-cambios-y-devoluciones-no-se-actualiza-en-la-interfaz-de-usuario-de-gestion-de-vendedores-tras-guardar",
     "internalReference": 689886
   },
   {
@@ -14436,7 +14436,7 @@
   },
   {
     "locale": "es",
-    "slug": "mi-suscripcion-muestra-un-mensaje-de-error-cuando-la-suscripcion-esta-asociada-a-un-punto-de-recogida",
+    "slug": "mi-suscripcion-muestra-un-mensaje-de-error-cuando-esta-vinculada-a-un-punto-de-recogida",
     "internalReference": 692523
   },
   {
@@ -22886,7 +22886,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-campo-exchanges-and-returns-trocas-e-devolucoes-nao-esta-sendo-atualizado-na-iu-de-gerenciamento-do-vendedor-apos-o-salvamento",
+    "slug": "o-campo-trocas-e-devolucoes-nao-e-atualizado-na-interface-de-gerenciamento-do-vendedor-apos-o-salvamento",
     "internalReference": 689886
   },
   {
@@ -23221,7 +23221,7 @@
   },
   {
     "locale": "pt",
-    "slug": "minha-assinatura-mostra-uma-mensagem-de-erro-quando-a-assinatura-esta-associada-a-um-ponto-de-coleta",
+    "slug": "minha-assinatura-exibe-uma-mensagem-de-erro-quando-esta-associada-a-um-ponto-de-retirada",
     "internalReference": 692523
   },
   {
