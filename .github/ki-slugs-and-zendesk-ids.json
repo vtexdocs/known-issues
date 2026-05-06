@@ -12966,7 +12966,7 @@
   },
   {
     "locale": "es",
-    "slug": "no-se-puede-iniciar-sesion-a-traves-de-la-aplicacion-de-google-en-ios",
+    "slug": "no-puedo-iniciar-sesion-a-traves-de-la-aplicacion-de-google-en-ios",
     "internalReference": 926239
   },
   {
@@ -15076,7 +15076,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-al-anular-facturas-de-credito-de-clientes",
+    "slug": "error-al-cancelar-facturas-de-credito-de-clientes",
     "internalReference": 926563
   },
   {
@@ -19311,6 +19311,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-campo-nome-do-produto-do-xml-nao-esta-funcionando-corretamente",
+    "internalReference": 925965
+  },
+  {
+    "locale": "pt",
     "slug": "o-campo-specificationcode-na-exportacao-productspecification-mostra-apenas-o-codigo-de-um-valor",
     "internalReference": 650961
   },
@@ -19438,11 +19443,6 @@
     "locale": "pt",
     "slug": "o-relatorio-notifyme-gera-um-arquivo-corrompido-quando-nao-ha-skus-encontrados",
     "internalReference": 956264
-  },
-  {
-    "locale": "pt",
-    "slug": "o-sinalizador-nome-do-produto-do-xml-nao-esta-funcionando-corretamente",
-    "internalReference": 925965
   },
   {
     "locale": "pt",
