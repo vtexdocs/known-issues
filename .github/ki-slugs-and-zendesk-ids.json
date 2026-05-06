@@ -12536,7 +12536,7 @@
   },
   {
     "locale": "es",
-    "slug": "reserva-de-existencias-de-amazon-orders",
+    "slug": "reserva-de-existencias-para-pedidos-de-amazon",
     "internalReference": 670572
   },
   {
@@ -16806,6 +16806,11 @@
   },
   {
     "locale": "es",
+    "slug": "algunos-comportamientos-inesperados-en-masterdata",
+    "internalReference": 669048
+  },
+  {
+    "locale": "es",
     "slug": "autor-de-la-version-nota-no-encontrado-en-vtex-id-en-el-perfil",
     "internalReference": 914314
   },
@@ -16813,11 +16818,6 @@
     "locale": "es",
     "slug": "caso-las-variaciones-en-el-id-del-documento-provocan-duplicaciones-en-el-indexador",
     "internalReference": 1203412
-  },
-  {
-    "locale": "es",
-    "slug": "comportamiento-inesperado-en-masterdata",
-    "internalReference": 669048
   },
   {
     "locale": "es",
@@ -17046,7 +17046,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-componente-productimage-no-actualiza-sus-imagenes-en-funcion-del-cambio-de-las-especificaciones-sku",
+    "slug": "el-componente-productimage-no-actualiza-sus-imagenes-cuando-cambian-las-especificaciones-del-sku",
     "internalReference": 669619
   },
   {
@@ -21526,7 +21526,7 @@
   },
   {
     "locale": "pt",
-    "slug": "reserva-de-estoque-de-pedidos-da-amazon",
+    "slug": "reserva-de-estoque-para-pedidos-da-amazon",
     "internalReference": 670572
   },
   {
@@ -25796,7 +25796,7 @@
   },
   {
     "locale": "pt",
-    "slug": "alguns-comportamentos-inesperados-no-masterdata",
+    "slug": "algum-comportamento-inesperado-no-masterdata",
     "internalReference": 669048
   },
   {
@@ -26181,7 +26181,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-componente-productimage-nao-atualiza-suas-imagens-com-base-na-alteracao-das-especificacoes-de-sku",
+    "slug": "o-componente-productimage-nao-atualiza-suas-imagens-quando-ocorrem-alteracoes-nas-especificacoes-do-sku",
     "internalReference": 669619
   },
   {
