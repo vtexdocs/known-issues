@@ -2,8 +2,8 @@
 title: 'Shopper is redirect to gatewayCallback/{orderGroup}/Success instead of placeOrder page'
 slug: shopper-is-redirect-to-gatewaycallbackordergroupsuccess-instead-of-placeorder-page
 status: PUBLISHED
-createdAt: 2026-03-03T18:30:43.632Z
-updatedAt: 2026-03-03T18:30:43.632Z
+createdAt: 2023-04-10T16:10:01.000Z
+updatedAt: 2026-03-03T21:30:14.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
