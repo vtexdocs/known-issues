@@ -11586,7 +11586,7 @@
   },
   {
     "locale": "es",
-    "slug": "pedidos-sin-invoiceaddress-creados-a-traves-de-la-interfaz-de-usuario-nativa",
+    "slug": "pedidos-sin-direccion-de-facturacion-creados-a-traves-de-la-interfaz-de-usuario-nativa",
     "internalReference": 306140
   },
   {
@@ -14856,7 +14856,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-provocado-por-un-token-anulado-en-el-conector-heredado-de-paypal-para-el-estado-de-pago-pendiente",
+    "slug": "error-provocado-por-un-token-sobrescrito-en-el-conector-heredado-de-paypal-para-el-estado-de-pago-pendiente",
     "internalReference": 308214
   },
   {
@@ -20331,7 +20331,7 @@
   },
   {
     "locale": "pt",
-    "slug": "pedidos-sem-invoiceaddress-criados-por-meio-da-ui-nativa",
+    "slug": "pedidos-sem-endereco-de-faturamento-criados-por-meio-da-interface-de-usuario-nativa",
     "internalReference": 306140
   },
   {
@@ -23641,11 +23641,6 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-acionado-por-token-substituido-no-conector-do-paypal-legado-para-status-de-pagamento-pendente",
-    "internalReference": 308214
-  },
-  {
-    "locale": "pt",
     "slug": "erro-ao-atualizar-o-limite-de-credito-do-cliente",
     "internalReference": 1093711
   },
@@ -23683,6 +23678,11 @@
     "locale": "pt",
     "slug": "erro-ao-tentar-abrir-meus-cartoes",
     "internalReference": 370706
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-causado-pela-substituicao-do-token-no-conector-paypal-antigo-para-o-status-de-pagamento-pendente",
+    "internalReference": 308214
   },
   {
     "locale": "pt",
