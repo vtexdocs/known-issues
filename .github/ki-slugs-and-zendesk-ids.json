@@ -16376,6 +16376,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-funcion-de-subir-archivos-no-funciona-en-adminportalsitesdefaultcode",
+    "internalReference": 897956
+  },
+  {
+    "locale": "es",
     "slug": "la-funcion-getcurrentproductwithvariations-de-vtexjs-trae-los-datos-del-sku-del-componente-y-no-del-sku-del-kit",
     "internalReference": 324416
   },
@@ -16493,11 +16498,6 @@
     "locale": "es",
     "slug": "restringir-el-valor-defaultsrc-de-la-politica-de-seguridad-de-contenidos-csp-del-encabezado-podria-impedir-que-se-complete-el-proceso-de-pago",
     "internalReference": 763359
-  },
-  {
-    "locale": "es",
-    "slug": "subir-archivo-no-funciona-en-adminportalsitesdefaultcode",
-    "internalReference": 897956
   },
   {
     "locale": "es",
@@ -25576,7 +25576,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-upload-de-arquivo-nao-esta-funcionando-em-adminportalsitesdefaultcode",
+    "slug": "o-upload-de-arquivos-nao-esta-funcionando-em-adminportalsitesdefaultcode",
     "internalReference": 897956
   },
   {
