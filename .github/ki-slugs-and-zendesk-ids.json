@@ -15051,6 +15051,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-api-de-transacciones-de-tarjetas-regalo-devuelve-resultados-vacios-o-incompletos",
+    "internalReference": 384430
+  },
+  {
+    "locale": "es",
     "slug": "la-api-para-crearactualizar-proveedores-de-tarjetas-regalo-siempre-esta-actualizando-el-proveedor-actual-cuando-nunca-antes-ha-anadido-un-nuevo-pro",
     "internalReference": 768954
   },
@@ -23303,6 +23308,11 @@
     "locale": "pt",
     "slug": "a-adyenv1-nao-envia-corretamente-o-paymentmethodtype-para-a-amex-ao-usar-o-apple-pay",
     "internalReference": 920563
+  },
+  {
+    "locale": "pt",
+    "slug": "a-api-de-listagem-de-transacoes-com-cartaopresente-esta-retornando-resultados-vazios-ou-incompletos",
+    "internalReference": 384430
   },
   {
     "locale": "pt",
