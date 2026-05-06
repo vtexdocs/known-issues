@@ -15101,6 +15101,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-al-cancelar-una-transaccion-con-el-mensaje-codigo-inaccesible",
+    "internalReference": 998435
+  },
+  {
+    "locale": "es",
     "slug": "error-al-cerrar-la-cuenta-de-credito-del-cliente",
     "internalReference": 904432
   },
@@ -24468,6 +24473,11 @@
     "locale": "pt",
     "slug": "erro-ao-atualizar-o-limite-de-credito-do-cliente",
     "internalReference": 1093711
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-ao-cancelar-a-transacao-com-a-mensagem-codigo-inacessivel",
+    "internalReference": 998435
   },
   {
     "locale": "pt",
