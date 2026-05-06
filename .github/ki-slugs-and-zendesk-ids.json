@@ -8931,11 +8931,6 @@
   },
   {
     "locale": "es",
-    "slug": "los-permisos-del-escaparate-tienen-en-cuenta-a-las-organizaciones-inactivas",
-    "internalReference": 927174
-  },
-  {
-    "locale": "es",
     "slug": "los-usuarios-creados-en-cuentas-con-la-funcion-emailrectification-no-se-crean-en-vtex-id",
     "internalReference": 1165203
   },
@@ -8963,6 +8958,11 @@
     "locale": "es",
     "slug": "si-corporatedocument-empieza-por-letras-se-elimina-el-primer-digito",
     "internalReference": 920703
+  },
+  {
+    "locale": "es",
+    "slug": "storefront-permissions-tiene-en-cuenta-las-organizaciones-inactivas",
+    "internalReference": 927174
   },
   {
     "locale": "es",
@@ -17926,11 +17926,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-permissoes-do-storefront-consideram-as-organizacoes-inativas",
-    "internalReference": 927174
-  },
-  {
-    "locale": "pt",
     "slug": "b2b-checkout-settings-esta-considerando-o-endereco-de-coleta-para-entregas",
     "internalReference": 1186568
   },
@@ -18033,6 +18028,11 @@
     "locale": "pt",
     "slug": "o-registro-estadual-nao-e-preenchido-apos-a-aprovacao-do-pedido-da-organizacao",
     "internalReference": 825127
+  },
+  {
+    "locale": "pt",
+    "slug": "o-storefront-permissions-leva-em-consideracao-as-organizacoes-inativas",
+    "internalReference": 927174
   },
   {
     "locale": "pt",
