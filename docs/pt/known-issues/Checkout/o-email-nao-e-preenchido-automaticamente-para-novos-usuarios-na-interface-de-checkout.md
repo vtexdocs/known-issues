@@ -2,8 +2,8 @@
 title: 'O e-mail não é preenchido automaticamente para novos usuários na interface de checkout'
 slug: o-email-nao-e-preenchido-automaticamente-para-novos-usuarios-na-interface-de-checkout
 status: PUBLISHED
-createdAt: 2023-08-25T00:24:50.000Z
-updatedAt: 2023-08-25T15:27:32.000Z
+createdAt: 2023-08-25T15:29:44.000Z
+updatedAt: 2023-08-29T19:17:25.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,7 +11,7 @@ tag: Checkout
 slugEN: email-not-autofilling-for-new-users-on-checkoutui
 locale: pt
 kiStatus: Backlog
-internalReference: 887645
+internalReference: 887949
 ---
 
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
@@ -19,7 +19,7 @@ internalReference: 887645
 ## Sumário
 
 Quando um novo usuário insere um novo endereço de e-mail na etapa de e-mail e avança para a próxima página, no componente de dados do cliente, o campo de e-mail não é preenchido automaticamente.
-Isso ocorre porque não há nenhum usuário registrado com esse endereço de e-mail. Como resultado, o `orderForm` carregado também contém um campo de e-mail vazio, fazendo com que ele permaneça em branco e exigindo que o cliente insira novamente seu endereço de e-mail.
+Isso ocorre porque não há nenhum usuário registrado com esse endereço de e-mail. Consequentemente, o `orderForm` carregado também contém um campo de e-mail vazio, fazendo com que ele permaneça em branco e exigindo que o cliente insira novamente seu endereço de e-mail.
 
 ## Simulação
 
