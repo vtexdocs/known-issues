@@ -8886,7 +8886,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-condiciones-de-pago-configuradas-en-configuracion-b2b-no-se-asignan-tras-aprobar-organizaciones",
+    "slug": "las-condiciones-de-pago-configuradas-en-los-ajustes-b2b-no-se-asignan-tras-aprobar-las-organizaciones",
     "internalReference": 989507
   },
   {
@@ -10736,7 +10736,7 @@
   },
   {
     "locale": "es",
-    "slug": "componentes-en-un-kit-con-el-mismo-precio",
+    "slug": "componentes-incluidos-en-un-kit-por-el-mismo-precio",
     "internalReference": 989371
   },
   {
@@ -11081,7 +11081,7 @@
   },
   {
     "locale": "es",
-    "slug": "entrega-fraccionada-con-lean-shipping-ofreciendo-sla-invalidos",
+    "slug": "entrega-fraccionada-con-lean-shipping-con-un-sla-no-valido",
     "internalReference": 990155
   },
   {
@@ -12046,7 +12046,7 @@
   },
   {
     "locale": "es",
-    "slug": "amazon-error-en-el-flujo-de-actualizacion-sku-no-se-esta-registrando-en-el-puente",
+    "slug": "amazon-error-en-el-proceso-de-actualizacion-el-sku-no-se-esta-registrando-en-el-puente",
     "internalReference": 990197
   },
   {
@@ -20311,7 +20311,7 @@
   },
   {
     "locale": "pt",
-    "slug": "componentes-em-um-kit-com-o-mesmo-preco",
+    "slug": "componentes-de-um-kit-com-o-mesmo-preco",
     "internalReference": 989371
   },
   {
@@ -20366,7 +20366,7 @@
   },
   {
     "locale": "pt",
-    "slug": "divisao-da-entrega-com-o-lean-shipping-oferecendo-sla-invalido",
+    "slug": "divisao-da-entrega-com-a-lean-shipping-apresenta-um-sla-invalido",
     "internalReference": 990155
   },
   {
