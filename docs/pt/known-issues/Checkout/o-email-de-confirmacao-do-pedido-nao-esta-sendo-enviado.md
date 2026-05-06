@@ -1,11 +1,9 @@
 ---
 title: 'O e-mail de confirmação do pedido não está sendo enviado'
-id: 4RelMFApLldLtf0GxhYzdt
+slug: o-email-de-confirmacao-do-pedido-nao-esta-sendo-enviado
 status: PUBLISHED
-createdAt: 2023-03-10T22:07:59.908Z
-updatedAt: 2023-08-28T14:53:51.322Z
-publishedAt: 2023-08-28T14:53:51.322Z
-firstPublishedAt: 2023-03-10T22:08:01.026Z
+createdAt: 2021-09-01T18:28:19.000Z
+updatedAt: 2023-08-28T14:53:33.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,24 +14,16 @@ kiStatus: Fixed
 internalReference: 423628
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
-O Checkout não mapeia todos os fluxos em que o "GatewayCallback" deve acionar o evento "Raised OrderPlaced", de modo que os fluxos não mapeados podem não acionar esse evento como esperado, afetando diretamente o e-mail de confirmação do pedido a ser enviado.
+O Checkout não mapeia todos os fluxos nos quais o "GatewayCallback" deve acionar o evento "Raised OrderPlaced"; portanto, os fluxos não mapeados podem não disparar esse evento conforme o esperado, afetando diretamente o envio do e-mail de confirmação do pedido.
 
 ## Simulação
 
-
 Não há como simular o cenário.
-
-
 
 ## Workaround
 
-
 N/A
-
-
-
