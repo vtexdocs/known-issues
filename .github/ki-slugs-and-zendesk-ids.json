@@ -13806,6 +13806,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-api-de-coincidencia-de-varias-referencias-recibidas-devuelve-el-error-sellerid-no-valido",
+    "internalReference": 506660
+  },
+  {
+    "locale": "es",
     "slug": "la-api-de-la-lista-de-ofertas-coincidentes-no-funciona-correctamente",
     "internalReference": 553456
   },
@@ -13813,11 +13818,6 @@
     "locale": "es",
     "slug": "la-api-obtener-todas-las-sugerencias-de-sku-no-mantiene-el-mismo-orden-de-los-sku-al-cambiar-los-limites",
     "internalReference": 367187
-  },
-  {
-    "locale": "es",
-    "slug": "la-api-recibe-varios-sku-y-devuelve-invalid-sellerid",
-    "internalReference": 506660
   },
   {
     "locale": "es",
@@ -22621,6 +22621,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-api-de-correspondencia-de-varios-skus-recebidos-retorna-sellerid-invalido",
+    "internalReference": 506660
+  },
+  {
+    "locale": "pt",
     "slug": "a-api-obter-todas-as-sugestoes-de-sku-nao-mantem-a-mesma-ordem-dos-skus-ao-alterar-os-limites",
     "internalReference": 367187
   },
@@ -22653,11 +22658,6 @@
     "locale": "pt",
     "slug": "ao-carregar-a-pagina-catalog-maping-no-administrador-a-mensagem-inicial-nao-e-traduzida",
     "internalReference": 717066
-  },
-  {
-    "locale": "pt",
-    "slug": "api-match-multiple-received-skus-retornando-invalid-sellerid",
-    "internalReference": 506660
   },
   {
     "locale": "pt",
