@@ -12176,7 +12176,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-menu-meli-bridge-orders-no-muestra-la-informacion-del-orderid",
+    "slug": "el-menu-pedidos-de-meli-bridge-no-muestra-la-informacion-del-id-de-pedido",
     "internalReference": 881733
   },
   {
@@ -21546,6 +21546,11 @@
   },
   {
     "locale": "pt",
+    "slug": "menu-pedidos-do-meli-bridge-nao-exibe-as-informacoes-do-id-do-pedido",
+    "internalReference": 881733
+  },
+  {
+    "locale": "pt",
     "slug": "mercado-livre-a-interface-do-usuario-do-modulo-promocoes-exibe-a-mensagem-desculpe-ocorreu-um-erro-devido-aos-limites-de-solicitacoes-do-mercado-livre-modulo-promocoes",
     "internalReference": 797143
   },
@@ -21668,11 +21673,6 @@
     "locale": "pt",
     "slug": "o-meli-mapper-envia-incorretamente-a-especificacao-do-produto-como-variacao",
     "internalReference": 851021
-  },
-  {
-    "locale": "pt",
-    "slug": "o-menu-meli-bridge-orders-nao-exibe-as-informacoes-de-id-do-pedido",
-    "internalReference": 881733
   },
   {
     "locale": "pt",
