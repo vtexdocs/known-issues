@@ -11481,11 +11481,6 @@
   },
   {
     "locale": "es",
-    "slug": "mensaje-de-error-erroneo-para-la-api-de-realizacion-de-pedidos-cuando-la-solicitud-de-carga-util-no-es-valida",
-    "internalReference": 709180
-  },
-  {
-    "locale": "es",
     "slug": "no-es-posible-anadir-un-articulo-con-accesorio-a-la-cesta-si-ya-hay-otra-unidad-de-este-articulo-sin-accesorio-en-la-cesta",
     "internalReference": 412041
   },
@@ -11618,6 +11613,11 @@
     "locale": "es",
     "slug": "punto-de-recogida-no-seleccionado-por-checkout-ui-al-cambiar-sla",
     "internalReference": 1199158
+  },
+  {
+    "locale": "es",
+    "slug": "se-muestra-un-mensaje-de-error-incorrecto-en-la-api-de-realizacion-de-pedidos-cuando-la-solicitud-no-es-valida",
+    "internalReference": 709180
   },
   {
     "locale": "es",
@@ -19861,7 +19861,7 @@
   },
   {
     "locale": "pt",
-    "slug": "mensagem-de-erro-incorreta-para-pedido-de-local-api-quando-o-pedido-de-carga-util-e-invalido",
+    "slug": "mensagem-de-erro-incorreta-na-api-de-realizacao-de-pedidos-quando-a-solicitacao-de-carga-util-e-invalida",
     "internalReference": 709180
   },
   {
