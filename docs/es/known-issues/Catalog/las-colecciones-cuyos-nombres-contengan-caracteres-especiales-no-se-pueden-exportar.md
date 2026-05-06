@@ -2,8 +2,8 @@
 title: 'Las colecciones cuyos nombres contengan caracteres especiales no se pueden exportar'
 slug: las-colecciones-cuyos-nombres-contengan-caracteres-especiales-no-se-pueden-exportar
 status: PUBLISHED
-createdAt: 2026-03-24T18:11:08.612Z
-updatedAt: 2026-03-24T18:11:08.612Z
+createdAt: 2022-10-21T23:21:10.000Z
+updatedAt: 2026-03-24T21:10:28.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -22,7 +22,7 @@ Se espera que una colección se pueda exportar desde el panel de administración
 
 ## Simulación
 
-- Crea una colección con `$`, `+` o `,` en el nombre
+- Crea una colección con `$` , `+`  o `,`  en el nombre
 - Intenta exportar la colección
 - Se mostrará un error en el panel de administración
 
