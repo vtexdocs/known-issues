@@ -6951,6 +6951,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-stuck-in-analysing-risk",
+    "internalReference": 541149
+  },
+  {
+    "locale": "en",
     "slug": "transactions-stuck-in-authorized-after-approval",
     "internalReference": 1344363
   },
@@ -9423,6 +9428,11 @@
     "locale": "es",
     "slug": "el-enlace-de-cambio-de-pedido-en-la-pagina-de-pagopedido-realizado-lleva-a-myaccount-en-lugar-de-a-la-pagina-de-pedido",
     "internalReference": 844893
+  },
+  {
+    "locale": "es",
+    "slug": "el-enlace-por-que-rellenar-la-categoria-global-de-vtex-en-la-configuracion-de-categorias-solo-funciona-si-se-abre-en-una-nueva-pestana",
+    "internalReference": 544034
   },
   {
     "locale": "es",
@@ -15341,6 +15351,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-con-el-conector-tnspay-se-rechazan-por-error-la-tarjeta-no-esta-registrada-en-3ds",
+    "internalReference": 541687
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-con-konduto-tardan-mas-de-lo-previsto-en-actualizarse",
     "internalReference": 541149
   },
@@ -15891,13 +15906,13 @@
   },
   {
     "locale": "es",
-    "slug": "transacciones-bloqueadas-tras-el-rechazo-del-riesgo",
-    "internalReference": 1092563
+    "slug": "transacciones-bloqueadas-en-la-fase-de-analisis-de-riesgos",
+    "internalReference": 541149
   },
   {
     "locale": "es",
-    "slug": "transacciones-con-el-conector-tnspay-denegadas-por-error-tarjeta-no-registrada-en-3ds",
-    "internalReference": 541687
+    "slug": "transacciones-bloqueadas-tras-el-rechazo-del-riesgo",
+    "internalReference": 1092563
   },
   {
     "locale": "es",
@@ -19083,6 +19098,11 @@
     "locale": "pt",
     "slug": "o-link-alterar-pedido-no-checkoutorderplaced-esta-direcionando-para-myaccount-em-vez-da-pagina-do-pedido",
     "internalReference": 844893
+  },
+  {
+    "locale": "pt",
+    "slug": "o-link-por-que-preencher-a-categoria-global-da-vtex-na-configuracao-de-categorias-so-funciona-se-for-aberto-em-uma-nova-guia",
+    "internalReference": 544034
   },
   {
     "locale": "pt",
@@ -24763,6 +24783,16 @@
     "locale": "pt",
     "slug": "transacoes-bloqueadas-apos-a-rejeicao-do-risco",
     "internalReference": 1092563
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-com-o-conector-tnspay-estao-sendo-recusadas-devido-a-um-erro-cartao-nao-registrado-no-3ds",
+    "internalReference": 541687
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-em-espera-na-analise-de-risco",
+    "internalReference": 541149
   },
   {
     "locale": "pt",
