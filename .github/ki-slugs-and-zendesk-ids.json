@@ -9446,7 +9446,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-filtro-de-categorias-de-la-interfaz-de-usuario-de-la-coleccion-heredada-selecciona-productos-erroneamente-en-la-coleccion",
+    "slug": "el-filtro-de-categorias-de-la-interfaz-de-usuario-de-la-coleccion-heredada-selecciona-productos-que-no-pertenecen-a-la-coleccion",
     "internalReference": 590934
   },
   {
@@ -10856,6 +10856,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-formulario-de-pedido-no-muestra-los-datos-del-cliente-ni-siquiera-con-credenciales-validas",
+    "internalReference": 582070
+  },
+  {
+    "locale": "es",
     "slug": "el-listprice-mostrado-en-un-carrito-no-considera-si-el-precio-regular-esta-siendo-modificado-por-un-unitmultiplier",
     "internalReference": 578649
   },
@@ -11351,7 +11356,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-opcion-de-recogida-no-devuelve-la-opcion-seleccionada-si-se-cambia-entre-entrega-y-recogida",
+    "slug": "la-opcion-de-recogida-no-muestra-la-opcion-seleccionada-al-cambiar-entre-entrega-y-recogida",
     "internalReference": 588394
   },
   {
@@ -11681,11 +11686,6 @@
   },
   {
     "locale": "es",
-    "slug": "orderform-no-devuelve-los-datos-del-cliente-incluso-para-credenciales-autorizadas",
-    "internalReference": 582070
-  },
-  {
-    "locale": "es",
     "slug": "orderform-no-resiste-a-los-cambios-en-itemattachment-y-ofertas",
     "internalReference": 334191
   },
@@ -11976,6 +11976,11 @@
   },
   {
     "locale": "es",
+    "slug": "amazon-proceso-de-cancelacion-de-pedidos",
+    "internalReference": 588456
+  },
+  {
+    "locale": "es",
     "slug": "amazon-seleccion-de-transportistas",
     "internalReference": 1186908
   },
@@ -12003,6 +12008,11 @@
     "locale": "es",
     "slug": "atributo-de-integracion-de-amazon-numero-de-itens",
     "internalReference": 557788
+  },
+  {
+    "locale": "es",
+    "slug": "atributo-tamano-de-mercado-livre-mapper",
+    "internalReference": 592577
   },
   {
     "locale": "es",
@@ -12603,11 +12613,6 @@
     "locale": "es",
     "slug": "skus-que-expiran-en-merchant-center",
     "internalReference": 548044
-  },
-  {
-    "locale": "es",
-    "slug": "tamano-del-atributo-mercado-livre-mapper",
-    "internalReference": 592577
   },
   {
     "locale": "es",
@@ -16291,7 +16296,7 @@
   },
   {
     "locale": "es",
-    "slug": "oorderbypriceasc-o-orderbypricedesc-podria-dar-lugar-a-un-pedido-erroneo",
+    "slug": "oorderbypriceasc-o-orderbypricedesc-podria-generar-un-orden-incorrecto",
     "internalReference": 582861
   },
   {
@@ -16996,11 +17001,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-componente-iframe-de-google-customer-reviews-no-se-muestra-correctamente",
-    "internalReference": 578443
-  },
-  {
-    "locale": "es",
     "slug": "el-componente-productimage-no-actualiza-sus-imagenes-en-funcion-del-cambio-de-las-especificaciones-sku",
     "internalReference": 669619
   },
@@ -17053,6 +17053,11 @@
     "locale": "es",
     "slug": "el-evento-viewcart-solo-se-recibe-en-el-datalayer-cada-dos-por-tres",
     "internalReference": 1048306
+  },
+  {
+    "locale": "es",
+    "slug": "el-iframe-del-componente-opiniones-de-clientes-de-google-presenta-un-problema-de-visualizacion",
+    "internalReference": 578443
   },
   {
     "locale": "es",
@@ -19086,6 +19091,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-filtro-de-categoria-da-interface-do-usuario-da-colecao-antiga-esta-selecionando-produtos-incorretamente-para-a-colecao",
+    "internalReference": 590934
+  },
+  {
+    "locale": "pt",
     "slug": "o-filtro-de-especificacao-do-produto-no-collection-module-nao-lista-a-categoria-raiz",
     "internalReference": 918687
   },
@@ -19696,13 +19706,13 @@
   },
   {
     "locale": "pt",
-    "slug": "a-opcao-de-coleta-nao-retorna-a-opcao-selecionada-se-a-troca-entre-a-entrega-e-a-coleta",
-    "internalReference": 588394
+    "slug": "a-opcao-de-entrega-programada-nao-aparece-no-carrinho-se-o-envio-simplificado-estiver-desativado-e-o-item-tiver-os-dois-tipos-de-entrega",
+    "internalReference": 394943
   },
   {
     "locale": "pt",
-    "slug": "a-opcao-de-entrega-programada-nao-aparece-no-carrinho-se-o-envio-simplificado-estiver-desativado-e-o-item-tiver-os-dois-tipos-de-entrega",
-    "internalReference": 394943
+    "slug": "a-opcao-de-retirada-nao-retorna-a-opcao-selecionada-ao-alternar-entre-entrega-e-retirada",
+    "internalReference": 588394
   },
   {
     "locale": "pt",
@@ -20401,6 +20411,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-formulario-de-pedido-nao-exibe-os-dados-do-cliente-mesmo-com-credenciais-autorizadas",
+    "internalReference": 582070
+  },
+  {
+    "locale": "pt",
     "slug": "o-item-de-promocao-nao-sera-exibido-dividido-apos-a-adicao-de-dados-de-preferencias-do-cliente",
     "internalReference": 842575
   },
@@ -20428,11 +20443,6 @@
     "locale": "pt",
     "slug": "o-modal-de-ponto-de-coleta-nao-utiliza-geocoordinates-sem-uma-chave-do-google-maps",
     "internalReference": 1041462
-  },
-  {
-    "locale": "pt",
-    "slug": "o-orderform-nao-retorna-os-dados-do-cliente-mesmo-para-credenciais-autorizadas",
-    "internalReference": 582070
   },
   {
     "locale": "pt",
@@ -20931,6 +20941,11 @@
   },
   {
     "locale": "pt",
+    "slug": "amazon-processo-de-cancelamento-de-pedidos",
+    "internalReference": 588456
+  },
+  {
+    "locale": "pt",
     "slug": "amazoncasacaso-erros-de-rastreamento",
     "internalReference": 360564
   },
@@ -20958,6 +20973,11 @@
     "locale": "pt",
     "slug": "atributo-de-problema-do-meli-sizechart-nao-e-valido",
     "internalReference": 996639
+  },
+  {
+    "locale": "pt",
+    "slug": "atributo-tamanho-do-mercado-livre-mapper",
+    "internalReference": 592577
   },
   {
     "locale": "pt",
@@ -21518,11 +21538,6 @@
     "locale": "pt",
     "slug": "skus-expirando-no-merchant-center",
     "internalReference": 548044
-  },
-  {
-    "locale": "pt",
-    "slug": "tamanho-do-atributo-do-mercado-livre-mapper",
-    "internalReference": 592577
   },
   {
     "locale": "pt",
@@ -25156,7 +25171,7 @@
   },
   {
     "locale": "pt",
-    "slug": "oorderbypriceasc-ou-orderbypricedesc-pode-gerar-o-pedido-errado",
+    "slug": "oorderbypriceasc-ou-orderbypricedesc-pode-resultar-em-uma-ordem-incorreta",
     "internalReference": 582861
   },
   {
@@ -26131,7 +26146,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-iframe-do-componente-avaliacoes-de-clientes-do-google-tem-renderizacao-inconsistente",
+    "slug": "o-iframe-do-componente-avaliacoes-de-clientes-do-google-apresenta-uma-renderizacao-inconsistente",
     "internalReference": 578443
   },
   {
