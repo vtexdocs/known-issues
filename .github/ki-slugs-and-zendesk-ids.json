@@ -15041,11 +15041,6 @@
   },
   {
     "locale": "es",
-    "slug": "imposibilidad-de-utilizar-dos-o-mas-credenciales-de-paypal-diferentes-para-la-misma-cuenta",
-    "internalReference": 459704
-  },
-  {
-    "locale": "es",
     "slug": "incoherencia-en-el-comportamiento-de-la-condicion-de-pago-unico-a-la-hora-de-finalizar-la-compra",
     "internalReference": 605568
   },
@@ -15548,6 +15543,11 @@
     "locale": "es",
     "slug": "no-es-posible-liquidar-una-transaccion-con-el-metodo-del-boleto-utilizando-braspag",
     "internalReference": 558065
+  },
+  {
+    "locale": "es",
+    "slug": "no-es-posible-utilizar-dos-o-mas-datos-de-acceso-diferentes-de-paypal-para-la-misma-cuenta",
+    "internalReference": 459704
   },
   {
     "locale": "es",
@@ -24016,11 +24016,6 @@
   },
   {
     "locale": "pt",
-    "slug": "impossibilidade-de-usar-duas-ou-mais-credenciais-diferentes-do-paypal-para-a-mesma-conta",
-    "internalReference": 459704
-  },
-  {
-    "locale": "pt",
     "slug": "incapacidade-de-fazer-cancelamento-parcial-com-mercadopagov1",
     "internalReference": 286738
   },
@@ -24163,6 +24158,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-liquidar-uma-transacao-com-o-metodo-boleto-utilizando-a-braspag",
     "internalReference": 558065
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-usar-duas-ou-mais-credenciais-diferentes-do-paypal-para-a-mesma-conta",
+    "internalReference": 459704
   },
   {
     "locale": "pt",
