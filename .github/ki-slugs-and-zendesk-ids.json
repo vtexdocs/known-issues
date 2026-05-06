@@ -8636,7 +8636,7 @@
   },
   {
     "locale": "es",
-    "slug": "magazine-luiza-algunos-skus-no-actualizan-el-precio",
+    "slug": "magazine-luiza-el-precio-de-algunos-articulos-no-se-actualiza",
     "internalReference": 882919
   },
   {
@@ -9333,6 +9333,11 @@
     "locale": "es",
     "slug": "el-acceso-al-license-manager-para-la-gestion-de-politicas-comerciales-no-funciona",
     "internalReference": 380904
+  },
+  {
+    "locale": "es",
+    "slug": "el-administrador-de-sku-falla-al-enviar-un-codigo-de-referencia-de-mas-de-50-caracteres",
+    "internalReference": 884789
   },
   {
     "locale": "es",
@@ -10433,11 +10438,6 @@
     "locale": "es",
     "slug": "se-produce-una-recarga-inesperada-al-registrar-o-actualizar-un-producto",
     "internalReference": 863542
-  },
-  {
-    "locale": "es",
-    "slug": "sku-admin-se-rompe-al-enviar-un-codigo-de-referencia-de-mas-de-50-caracteres",
-    "internalReference": 884789
   },
   {
     "locale": "es",
@@ -12961,7 +12961,7 @@
   },
   {
     "locale": "es",
-    "slug": "problema-con-las-api-de-sesion-que-utilizan-propiedades-publicas-que-empiezan-por-el-mismo-prefijo",
+    "slug": "problema-con-las-api-de-sesion-que-utilizan-propiedades-publicas-que-comienzan-con-el-mismo-prefijo",
     "internalReference": 885011
   },
   {
@@ -15351,11 +15351,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-doble-solicitud-de-adyen-3ds2-genera-una-denegacion-de-autorizacion-de-pago",
-    "internalReference": 884154
-  },
-  {
-    "locale": "es",
     "slug": "la-fecha-de-caducidad-de-la-condicion-especial-no-se-elimina",
     "internalReference": 547046
   },
@@ -16108,6 +16103,11 @@
     "locale": "es",
     "slug": "una-regex-de-elo-obsoleta-nos-hace-identificar-erroneamente-algunos-bins",
     "internalReference": 1015043
+  },
+  {
+    "locale": "es",
+    "slug": "una-solicitud-doble-de-adyen-3ds2-provoca-el-rechazo-de-la-autorizacion-de-pago",
+    "internalReference": 884154
   },
   {
     "locale": "es",
@@ -19236,11 +19236,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-administrador-da-sku-quebra-ao-enviar-um-codigo-de-referencia-com-mais-de-50-caracteres",
-    "internalReference": 884789
-  },
-  {
-    "locale": "pt",
     "slug": "o-arquivo-xml-nao-recebe-preco-do-swl",
     "internalReference": 425027
   },
@@ -19423,6 +19418,11 @@
     "locale": "pt",
     "slug": "o-sinalizador-nome-do-produto-do-xml-nao-esta-funcionando-corretamente",
     "internalReference": 925965
+  },
+  {
+    "locale": "pt",
+    "slug": "o-sku-admin-apresenta-falhas-ao-enviar-um-codigo-de-referencia-com-mais-de-50-caracteres",
+    "internalReference": 884789
   },
   {
     "locale": "pt",
@@ -22081,7 +22081,7 @@
   },
   {
     "locale": "pt",
-    "slug": "problema-com-apis-de-sessao-usando-propriedades-publicas-que-comecam-com-o-mesmo-prefixo",
+    "slug": "problema-com-apis-de-sessao-que-utilizam-propriedades-publicas-cujos-nomes-comecam-com-o-mesmo-prefixo",
     "internalReference": 885011
   },
   {
@@ -25116,11 +25116,6 @@
   },
   {
     "locale": "pt",
-    "slug": "solicitacao-dupla-do-adyen-3ds2-gera-recusa-de-autorizacao-de-pagamento",
-    "internalReference": 884154
-  },
-  {
-    "locale": "pt",
     "slug": "solicitacoes-de-reembolso-ausentes-que-executam-multiplas-solicitacoes",
     "internalReference": 1154224
   },
@@ -25253,6 +25248,11 @@
     "locale": "pt",
     "slug": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins",
     "internalReference": 642136
+  },
+  {
+    "locale": "pt",
+    "slug": "uma-solicitacao-dupla-do-adyen-3ds2-gera-uma-recusa-na-autorizacao-de-pagamento",
+    "internalReference": 884154
   },
   {
     "locale": "pt",
