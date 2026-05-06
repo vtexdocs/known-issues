@@ -8751,7 +8751,7 @@
   },
   {
     "locale": "es",
-    "slug": "b2b-quotes-no-aplica-el-descuento-al-pagar-en-el-dominio-web",
+    "slug": "b2b-quotes-no-aplica-descuentos-al-finalizar-la-compra-en-el-dominio-del-sitio-web",
     "internalReference": 849080
   },
   {
@@ -8781,7 +8781,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-historial-de-pedidos-b2b-no-funciona-en-el-dominio-web",
+    "slug": "el-historial-de-pedidos-b2b-no-funciona-en-el-dominio-del-sitio-web",
     "internalReference": 849394
   },
   {
@@ -17816,11 +17816,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-b2b-quotes-nao-aplica-o-desconto-no-checkout-no-dominio-do-site",
-    "internalReference": 849080
-  },
-  {
-    "locale": "pt",
     "slug": "a-comparacao-de-produtos-nao-permite-mudar-as-caixas-de-verificacao-se-voce-manter-a-gaveta-aberta",
     "internalReference": 568409
   },
@@ -17933,6 +17928,11 @@
     "locale": "pt",
     "slug": "o-b2b-bulk-import-nao-valida-a-id-ja-em-uso",
     "internalReference": 1128764
+  },
+  {
+    "locale": "pt",
+    "slug": "o-b2b-quotes-nao-aplica-descontos-na-finalizacao-da-compra-no-dominio-do-site",
+    "internalReference": 849080
   },
   {
     "locale": "pt",
