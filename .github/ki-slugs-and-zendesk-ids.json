@@ -7276,6 +7276,11 @@
   },
   {
     "locale": "en",
+    "slug": "price-range-disregards-sales-policy",
+    "internalReference": 322764
+  },
+  {
+    "locale": "en",
     "slug": "product-rich-snippets-not-using-aggregateoffer-format-for-offers-with-more-than-one-seller",
     "internalReference": 753505
   },
@@ -10088,6 +10093,11 @@
     "locale": "es",
     "slug": "las-opciones-de-pago-a-plazos-no-se-actualizan-automaticamente-en-pdpplp",
     "internalReference": 987467
+  },
+  {
+    "locale": "es",
+    "slug": "las-opciones-texto-grande-con-indices-y-texto-con-indices-no-se-modifican-al-importar-la-especificacion",
+    "internalReference": 322657
   },
   {
     "locale": "es",
@@ -15931,6 +15941,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-rango-de-precios-no-tiene-en-cuenta-la-politica-de-ventas",
+    "internalReference": 322764
+  },
+  {
+    "locale": "es",
     "slug": "elementos-personalizados-en-cms-heredados-no-funcionan-con-mas-de-un-html",
     "internalReference": 871480
   },
@@ -18248,6 +18263,11 @@
     "locale": "pt",
     "slug": "as-opcoes-de-parcelamento-nao-sao-atualizadas-automaticamente-no-pdpplp",
     "internalReference": 987467
+  },
+  {
+    "locale": "pt",
+    "slug": "as-opcoes-texto-indexado-grande-e-texto-indexado-nao-sao-alteradas-pela-importacao-de-especificacoes",
+    "internalReference": 322657
   },
   {
     "locale": "pt",
@@ -24593,6 +24613,11 @@
     "locale": "pt",
     "slug": "a-classificacao-manual-das-colecoes-nao-funciona-como-esperado",
     "internalReference": 295245
+  },
+  {
+    "locale": "pt",
+    "slug": "a-faixa-de-preco-nao-leva-em-conta-a-politica-de-vendas",
+    "internalReference": 322764
   },
   {
     "locale": "pt",
