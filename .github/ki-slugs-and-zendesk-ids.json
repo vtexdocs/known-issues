@@ -10351,7 +10351,7 @@
   },
   {
     "locale": "es",
-    "slug": "no-se-pueden-cargar-imagenes-de-hojas-de-calculo-con-servicios-de-host-que-utilizan-el-protocolo-de-cifrado-ssl13",
+    "slug": "no-se-pueden-cargar-imagenes-de-hojas-de-calculo-con-servicios-de-alojamiento-que-utilicen-el-protocolo-de-cifrado-ssl-13",
     "internalReference": 851911
   },
   {
@@ -19176,7 +19176,7 @@
   },
   {
     "locale": "pt",
-    "slug": "nao-e-possivel-fazer-upload-de-imagens-de-planilhas-com-servicos-de-host-usando-o-protocolo-de-criptografia-ssl13",
+    "slug": "nao-e-possivel-enviar-imagens-de-planilhas-com-servicos-de-hospedagem-que-utilizam-o-protocolo-de-criptografia-ssl-13",
     "internalReference": 851911
   },
   {
