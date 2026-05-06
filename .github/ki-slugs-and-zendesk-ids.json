@@ -10011,7 +10011,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-importacion-de-especificaciones-de-producto-con-el-tipo-texto-no-activa-la-indexacion-del-producto",
+    "slug": "la-importacion-de-las-especificaciones-del-producto-con-el-tipo-texto-no-activa-la-indexacion-del-producto",
     "internalReference": 998658
   },
   {
@@ -18521,13 +18521,13 @@
   },
   {
     "locale": "pt",
-    "slug": "a-importacao-da-especificacao-do-produto-com-o-tipo-texto-nao-aciona-a-indexacao-do-produto",
-    "internalReference": 998658
+    "slug": "a-importacao-de-arquivos-da-pesquisa-avancada-nao-funciona-nos-filtros-do-catalogo",
+    "internalReference": 1086454
   },
   {
     "locale": "pt",
-    "slug": "a-importacao-de-arquivos-da-pesquisa-avancada-nao-funciona-nos-filtros-do-catalogo",
-    "internalReference": 1086454
+    "slug": "a-importacao-de-especificacoes-de-produto-com-o-tipo-texto-nao-aciona-a-indexacao-do-produto",
+    "internalReference": 998658
   },
   {
     "locale": "pt",
