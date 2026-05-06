@@ -1,11 +1,9 @@
 ---
-title: '[Admin] Global Search doesn''t recognize ''Profile Menu items'''
-id: 4AZiu9NXouL6b8z5EHJIWK
+title: "Admin Global Search doesn't recognize \"Profile Menu items\""
+slug: admin-global-search-doesnt-recognize-profile-menu-items
 status: PUBLISHED
-createdAt: 2024-01-22T17:09:55.423Z
-updatedAt: 2024-11-13T20:59:49.913Z
-publishedAt: 2024-11-13T20:59:49.913Z
-firstPublishedAt: 2024-01-22T17:09:55.944Z
+createdAt: 2024-01-22T17:09:38.000Z
+updatedAt: 2024-11-13T20:59:02.000Z
 contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
@@ -25,17 +23,11 @@ Global Search doesn't recognize "Profile Menu items"
 In some cases, the search returns no results.
 For example: "Users" "Authentication"
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Admin/admin-global-search-doesnt-recognize-profile-menu-items_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/QwUkKwavO6WM00STA32BVwyvn/?name=image.png)
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Admin/admin-global-search-doesnt-recognize-profile-menu-items_2.png)
-
+ ![](https://vtexhelp.zendesk.com/attachments/token/weT1QdMEqTne83NxeJRN1ilFm/?name=image.png)
 
 ## Workaround
 
 Use side menu to access these modules
-
-
-
-
-
