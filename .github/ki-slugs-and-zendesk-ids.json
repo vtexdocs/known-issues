@@ -16856,6 +16856,11 @@
   },
   {
     "locale": "es",
+    "slug": "al-deslizar-la-imagen-del-producto-despues-de-ampliarla-el-zoom-no-vuelve-a-su-estado-original-lo-que-provoca-problemas-de-visualizacion",
+    "internalReference": 491180
+  },
+  {
+    "locale": "es",
     "slug": "al-usar-filtros-horizontales-despues-de-elegir-tres-de-ellos-las-opciones-del-filtro-ya-no-se-colapsan",
     "internalReference": 859382
   },
@@ -16913,11 +16918,6 @@
     "locale": "es",
     "slug": "cuando-se-desactiva-el-service-worker-nativo-no-es-posible-utilizar-uno-personalizado",
     "internalReference": 770949
-  },
-  {
-    "locale": "es",
-    "slug": "deslizar-la-imagen-del-producto-despues-de-hacer-zoom-no-revierte-el-zoom-lo-que-causa-problemas-de-visualizacion",
-    "internalReference": 491180
   },
   {
     "locale": "es",
@@ -25886,6 +25886,11 @@
   },
   {
     "locale": "pt",
+    "slug": "deslizar-a-imagem-do-produto-apos-ampliar-nao-reverte-o-zoom-causando-problemas-de-exibicao",
+    "internalReference": 491180
+  },
+  {
+    "locale": "pt",
     "slug": "divergencia-nas-configuracoes-avancadas-do-store-em-novas-contas-ou-espacos-de-trabalho",
     "internalReference": 1064235
   },
@@ -26193,11 +26198,6 @@
     "locale": "pt",
     "slug": "os-redirecionamentos-de-exportacao-nao-estao-funcionando-como-esperado",
     "internalReference": 537962
-  },
-  {
-    "locale": "pt",
-    "slug": "passar-a-imagem-do-produto-depois-de-aumentar-o-zoom-nao-reverte-o-zoom-causando-problemas-de-exibicao",
-    "internalReference": 491180
   },
   {
     "locale": "pt",
