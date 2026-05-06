@@ -10831,7 +10831,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-campo-disponibilidad-es-incorrecto-en-la-simulacion-de-cumplimiento-para-productos-sin-stock-o-precio",
+    "slug": "el-campo-disponibilidad-es-incorrecto-en-la-simulacion-de-gestion-de-pedidos-para-productos-sin-existencias-o-sin-precio",
     "internalReference": 773537
   },
   {
@@ -20436,7 +20436,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-campo-disponibilidade-esta-incorreto-na-simulacao-de-cumprimento-para-produtos-sem-estoque-ou-preco",
+    "slug": "o-campo-disponibilidade-esta-incorreto-na-simulacao-de-atendimento-para-produtos-sem-estoque-ou-sem-preco",
     "internalReference": 773537
   },
   {
