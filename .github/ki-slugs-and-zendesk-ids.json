@@ -9321,11 +9321,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-atributo-de-video-no-se-envia-del-vendedor-al-mercado",
-    "internalReference": 519412
-  },
-  {
-    "locale": "es",
     "slug": "el-boton-de-guardar-de-campovalorformaspx-requiere-dos-clics",
     "internalReference": 525616
   },
@@ -9553,6 +9548,11 @@
     "locale": "es",
     "slug": "el-valor-por-defecto-en-la-especificacion-solo-funciona-cuando-se-crean-productos-a-traves-de-la-administracion",
     "internalReference": 550097
+  },
+  {
+    "locale": "es",
+    "slug": "el-vendedor-no-esta-enviando-el-atributo-de-video-al-mercado",
+    "internalReference": 519412
   },
   {
     "locale": "es",
@@ -15156,6 +15156,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-ausencia-del-campo-minicartbuyerid-provoca-que-el-sistema-antifraude-cancele-las-transacciones",
+    "internalReference": 514335
+  },
+  {
+    "locale": "es",
     "slug": "la-condicion-especial-del-banco-emisor-esta-causando-para-algunos-bins-el-error-en-la-pagina-de-pago-el-banco-emisor-para-este-banco-no-es-aceptado",
     "internalReference": 391549
   },
@@ -15178,11 +15183,6 @@
     "locale": "es",
     "slug": "la-doble-solicitud-de-adyen-3ds2-genera-una-denegacion-de-autorizacion-de-pago",
     "internalReference": 884154
-  },
-  {
-    "locale": "es",
-    "slug": "la-falta-del-campo-minicartbuyerid-hace-que-el-antifraude-cancele-transacciones",
-    "internalReference": 514335
   },
   {
     "locale": "es",
@@ -18971,7 +18971,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-atributo-de-video-nao-esta-sendo-enviado-do-vendedor-para-o-marketplace",
+    "slug": "o-atributo-de-video-nao-esta-sendo-enviado-pelo-vendedor-para-a-plataforma-de-vendas",
     "internalReference": 519412
   },
   {
@@ -21126,7 +21126,7 @@
   },
   {
     "locale": "pt",
-    "slug": "mapeador-de-atributos-personalizado-mercado-livre",
+    "slug": "mapeador-de-atributos-personalizados-do-mercado-livre",
     "internalReference": 521197
   },
   {
@@ -23506,6 +23506,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-ausencia-do-campo-minicartbuyerid-faz-com-que-o-sistema-antifraude-cancele-as-transacoes",
+    "internalReference": 514335
+  },
+  {
+    "locale": "pt",
     "slug": "a-callbackurl-sempre-retorna-403-quando-a-conta-do-proprietario-do-conector-foi-desativada",
     "internalReference": 775235
   },
@@ -24288,11 +24293,6 @@
     "locale": "pt",
     "slug": "o-botao-giratorio-mycards-nao-esta-funcionando-corretamente",
     "internalReference": 780667
-  },
-  {
-    "locale": "pt",
-    "slug": "o-campo-minicartbuyerid-ausente-faz-com-que-o-antifraude-cancele-transacoes",
-    "internalReference": 514335
   },
   {
     "locale": "pt",
