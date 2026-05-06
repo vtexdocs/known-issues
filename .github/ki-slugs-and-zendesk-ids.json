@@ -8801,11 +8801,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-primer-digito-se-elimina-de-corporatedocument-si-empieza-por-letras",
-    "internalReference": 920703
-  },
-  {
-    "locale": "es",
     "slug": "el-registro-estatal-no-se-ha-completado-tras-aprobar-la-solicitud-de-la-organizacion",
     "internalReference": 825127
   },
@@ -8963,6 +8958,11 @@
     "locale": "es",
     "slug": "pedido-rapido-cambia-la-cantidad-de-articulos-cuando-se-aplica-una-promocion-mas-por-menos",
     "internalReference": 1123142
+  },
+  {
+    "locale": "es",
+    "slug": "si-corporatedocument-empieza-por-letras-se-elimina-el-primer-digito",
+    "internalReference": 920703
   },
   {
     "locale": "es",
@@ -10881,7 +10881,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-compradores-despues-de-iniciar-sesion",
+    "slug": "el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-compradores-tras-iniciar-sesion",
     "internalReference": 920634
   },
   {
@@ -18016,7 +18016,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-primeiro-digito-e-removido-de-corporatedocument-se-comecar-com-letras",
+    "slug": "o-primeiro-digito-e-removido-do-corporatedocument-se-ele-comecar-com-letras",
     "internalReference": 920703
   },
   {
