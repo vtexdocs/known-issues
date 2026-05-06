@@ -9166,6 +9166,11 @@
   },
   {
     "locale": "es",
+    "slug": "al-filtrar-los-productos-por-tienda-en-el-panel-de-administracion-del-catalogo-es-posible-que-se-muestre-un-numero-incorrecto-de-resultados",
+    "internalReference": 756461
+  },
+  {
+    "locale": "es",
     "slug": "al-mover-categorias-no-se-actualiza-el-id-del-departamento-en-los-productos",
     "internalReference": 316694
   },
@@ -9678,11 +9683,6 @@
     "locale": "es",
     "slug": "fallo-de-traslado-de-sku-error-de-transaccion-distribuida",
     "internalReference": 1297799
-  },
-  {
-    "locale": "es",
-    "slug": "filtrar-productos-por-tienda-en-la-administracion-del-catalogo-puede-mostrar-una-cantidad-incorrecta-de-resultados",
-    "internalReference": 756461
   },
   {
     "locale": "es",
@@ -10811,7 +10811,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-boton-ir-al-pago-no-funciona-en-la-division-de-entrega-cuando-se-cambia-entre-las-opciones-de-entrega-y-recogida",
+    "slug": "el-boton-ir-al-pago-no-funciona-en-la-division-del-envio-al-cambiar-entre-las-opciones-de-entrega-y-recogida",
     "internalReference": 756587
   },
   {
@@ -14076,7 +14076,7 @@
   },
   {
     "locale": "es",
-    "slug": "caracter-especial-en-el-nombre-del-vendedor-informe",
+    "slug": "caracteres-especiales-en-el-nombre-del-vendedor-informe",
     "internalReference": 756243
   },
   {
@@ -14196,7 +14196,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-uso-de-muchos-filtros-en-la-lista-oms-afecta-a-los-resultados-del-informe",
+    "slug": "el-uso-de-muchos-filtros-en-la-lista-del-oms-afecta-a-los-resultados-del-informe",
     "internalReference": 756198
   },
   {
@@ -14611,7 +14611,7 @@
   },
   {
     "locale": "es",
-    "slug": "redondeo-de-totalvalue-en-listorders",
+    "slug": "redondeo-del-valor-total-en-listorders",
     "internalReference": 756314
   },
   {
@@ -18351,6 +18351,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-filtragem-de-produtos-por-loja-no-painel-de-administracao-do-catalogo-pode-exibir-um-numero-incorreto-de-resultados",
+    "internalReference": 756461
+  },
+  {
+    "locale": "pt",
     "slug": "a-funcao-ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando",
     "internalReference": 339894
   },
@@ -18958,11 +18963,6 @@
     "locale": "pt",
     "slug": "falha-na-reordenacao-de-colecoes-grandes",
     "internalReference": 408140
-  },
-  {
-    "locale": "pt",
-    "slug": "filtrar-produtos-por-loja-no-catalogo-admin-pode-mostrar-a-quantidade-errada-de-resultados",
-    "internalReference": 756461
   },
   {
     "locale": "pt",
@@ -20391,7 +20391,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-botao-ir-para-pagamento-nao-funciona-na-divisao-da-entrega-ao-alternar-entre-as-opcoes-de-entrega-e-coleta",
+    "slug": "o-botao-prosseguir-para-o-pagamento-nao-funciona-na-divisao-da-entrega-ao-alternar-entre-as-opcoes-de-entrega-e-retirada",
     "internalReference": 756587
   },
   {
@@ -23166,6 +23166,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-utilizacao-de-muitos-filtros-na-lista-do-oms-afeta-os-resultados-do-relatorio",
+    "internalReference": 756198
+  },
+  {
+    "locale": "pt",
     "slug": "alguns-enderecos-preenchidos-automaticamente-pelo-google-nao-podem-ser-salvos-em-minha-conta",
     "internalReference": 415388
   },
@@ -23188,6 +23193,11 @@
     "locale": "pt",
     "slug": "ao-adicionar-um-sku-atraves-de-nossa-funcionalidade-change-order-o-nome-do-produto-nao-e-exibido-no-pedido-e-na-notificacao-por-email",
     "internalReference": 557978
+  },
+  {
+    "locale": "pt",
+    "slug": "arredondamento-do-totalvalue-em-listorders",
+    "internalReference": 756314
   },
   {
     "locale": "pt",
@@ -23231,13 +23241,13 @@
   },
   {
     "locale": "pt",
-    "slug": "caracteres-especiais-no-invoicenumber-causam-falha-no-fluxo-poscompra",
-    "internalReference": 953285
+    "slug": "caractere-especial-no-nome-do-vendedor-relatorio",
+    "internalReference": 756243
   },
   {
     "locale": "pt",
-    "slug": "carater-especial-no-relatorio-do-nome-do-vendedor",
-    "internalReference": 756243
+    "slug": "caracteres-especiais-no-invoicenumber-causam-falha-no-fluxo-poscompra",
+    "internalReference": 953285
   },
   {
     "locale": "pt",
@@ -23543,11 +23553,6 @@
     "locale": "pt",
     "slug": "o-status-na-lista-de-pedidos-e-diferente-do-status-do-pedido-atual",
     "internalReference": 577103
-  },
-  {
-    "locale": "pt",
-    "slug": "o-uso-de-muitos-filtros-na-lista-oms-afeta-os-resultados-do-relatorio",
-    "internalReference": 756198
   },
   {
     "locale": "pt",
