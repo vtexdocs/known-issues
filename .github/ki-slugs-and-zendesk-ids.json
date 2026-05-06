@@ -14806,6 +14806,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-mensaje-mi-direccion-de-facturacion-es-que-aparece-en-el-iframe-de-la-tarjeta-de-credito-se-muestra-en-un-idioma-incorrecto-cuando-se-realiza-el-pago-en-catalan",
+    "internalReference": 481181
+  },
+  {
+    "locale": "es",
     "slug": "el-menu-desplegable-de-las-cuotas-en-la-interfaz-de-compra-esta-suelto-cuando-se-desplaza-la-pantalla",
     "internalReference": 540257
   },
@@ -23518,6 +23523,11 @@
     "locale": "pt",
     "slug": "a-lista-de-faturas-do-credito-ao-cliente-nao-pode-ser-exportada",
     "internalReference": 327219
+  },
+  {
+    "locale": "pt",
+    "slug": "a-mensagem-meu-endereco-de-cobranca-e-no-iframe-do-cartao-de-credito-aparece-no-idioma-errado-ao-utilizar-o-checkout-em-catalao",
+    "internalReference": 481181
   },
   {
     "locale": "pt",
