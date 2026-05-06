@@ -9626,7 +9626,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-de-bloqueo-al-utilizar-las-api-de-catalogo",
+    "slug": "error-de-bloqueo-al-utilizar-las-api-de-catalog",
     "internalReference": 862626
   },
   {
@@ -10411,11 +10411,6 @@
   },
   {
     "locale": "es",
-    "slug": "recarga-inesperada-al-registraractualizar-un-producto",
-    "internalReference": 863542
-  },
-  {
-    "locale": "es",
     "slug": "recogidas-no-permite-mas-de-1000-sku-por-carga",
     "internalReference": 793274
   },
@@ -10428,6 +10423,11 @@
     "locale": "es",
     "slug": "se-ha-agotado-el-tiempo-de-espera-en-relatorioindexacaoaspx",
     "internalReference": 547844
+  },
+  {
+    "locale": "es",
+    "slug": "se-produce-una-recarga-inesperada-al-registrar-o-actualizar-un-producto",
+    "internalReference": 863542
   },
   {
     "locale": "es",
@@ -13721,7 +13721,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-capacidad-de-entrega-no-se-respeta-si-hay-espacio-en-el-id-de-la-politica-de-envio",
+    "slug": "la-capacidad-de-entrega-no-se-respeta-si-hay-espacio-en-el-id-de-la-politica-de-envios",
     "internalReference": 862830
   },
   {
@@ -18961,7 +18961,7 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-de-deadlocked-ao-usar-as-apis-do-catalog",
+    "slug": "erro-de-impasse-ao-usar-as-apis-do-catalogo",
     "internalReference": 862626
   },
   {
@@ -19426,6 +19426,11 @@
   },
   {
     "locale": "pt",
+    "slug": "ocorre-uma-atualizacao-inesperada-ao-registraratualizar-um-produto",
+    "internalReference": 863542
+  },
+  {
+    "locale": "pt",
     "slug": "os-botoes-podem-nao-funcionar-na-primeira-tentativa-no-fullcleanup-admin",
     "internalReference": 790828
   },
@@ -19533,11 +19538,6 @@
     "locale": "pt",
     "slug": "promocoes-divergencia-de-microrredes",
     "internalReference": 957369
-  },
-  {
-    "locale": "pt",
-    "slug": "recarregamento-inesperado-ao-registraratualizar-um-produto",
-    "internalReference": 863542
   },
   {
     "locale": "pt",
@@ -22721,7 +22721,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-capacidade-de-entrega-nao-e-respeitada-se-houver-espaco-no-id-da-politica-de-remessa",
+    "slug": "a-capacidade-de-entrega-nao-e-respeitada-se-houver-espaco-no-id-da-politica-de-envio",
     "internalReference": 862830
   },
   {
