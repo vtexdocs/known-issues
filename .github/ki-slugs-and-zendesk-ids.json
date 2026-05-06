@@ -10811,11 +10811,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-pago-no-puede-eliminar-el-articulo-de-regalo-cuando-no-esta-disponible-despues-de-seleccionar-el-punto-de-recogida",
-    "internalReference": 363885
-  },
-  {
-    "locale": "es",
     "slug": "el-pago-permite-anadir-2-direcciones-diferentes-para-la-entrega",
     "internalReference": 931225
   },
@@ -10863,6 +10858,11 @@
     "locale": "es",
     "slug": "el-proceso-de-pago-no-actualiza-los-impuestos-teniendo-en-cuenta-el-vendedor-correcto-al-combinar-la-informacion-del-carro",
     "internalReference": 759842
+  },
+  {
+    "locale": "es",
+    "slug": "el-proceso-de-pago-no-permite-eliminar-un-articulo-de-regalo-cuando-este-no-esta-disponible-tras-seleccionar-un-punto-de-recogida",
+    "internalReference": 363885
   },
   {
     "locale": "es",
@@ -20046,6 +20046,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-checkout-nao-consegue-remover-o-item-de-presente-quando-este-nao-esta-disponivel-apos-a-selecao-do-ponto-de-retirada",
+    "internalReference": 363885
+  },
+  {
+    "locale": "pt",
     "slug": "o-checkout-nao-considera-a-localidade-para-traduzir-erros-de-api",
     "internalReference": 1168499
   },
@@ -20063,11 +20068,6 @@
     "locale": "pt",
     "slug": "o-checkout-nao-mostra-opcao-para-mudar-o-codigo-postal",
     "internalReference": 321598
-  },
-  {
-    "locale": "pt",
-    "slug": "o-checkout-nao-pode-remover-o-item-de-presente-quando-nao-estiver-disponivel-apos-o-ponto-de-retirada-selecionado",
-    "internalReference": 363885
   },
   {
     "locale": "pt",
