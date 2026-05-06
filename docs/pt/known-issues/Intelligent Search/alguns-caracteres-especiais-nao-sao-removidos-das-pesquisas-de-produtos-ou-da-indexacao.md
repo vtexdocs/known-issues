@@ -2,8 +2,8 @@
 title: 'Alguns caracteres especiais não são removidos das pesquisas de produtos ou da indexação'
 slug: alguns-caracteres-especiais-nao-sao-removidos-das-pesquisas-de-produtos-ou-da-indexacao
 status: PUBLISHED
-createdAt: 2021-06-16T12:59:54.000Z
-updatedAt: 2023-10-27T00:24:02.000Z
+createdAt: 2023-11-29T19:52:25.000Z
+updatedAt: 2023-11-29T20:26:33.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,7 +11,7 @@ tag: Intelligent Search
 slugEN: some-special-characters-are-not-stripped-from-product-searches-or-indexing
 locale: pt
 kiStatus: Backlog
-internalReference: 382382
+internalReference: 944659
 ---
 
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
