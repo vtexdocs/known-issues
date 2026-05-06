@@ -1,11 +1,9 @@
 ---
 title: 'O Lean Shipping não é desativado após a remoção de itens do carrinho'
-id: 4dZZz28csz9BLhJNvQGHQV
+slug: o-lean-shipping-nao-e-desativado-apos-a-remocao-de-itens-do-carrinho
 status: PUBLISHED
-createdAt: 2023-10-09T14:20:03.767Z
-updatedAt: 2023-10-09T14:20:04.692Z
-publishedAt: 2023-10-09T14:20:04.692Z
-firstPublishedAt: 2023-10-09T14:20:04.692Z
+createdAt: 2023-10-09T14:19:49.000Z
+updatedAt: 2023-10-09T14:19:49.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,27 +14,19 @@ kiStatus: Backlog
 internalReference: 916461
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
-O Lean Shipping não é desativado automaticamente após a remoção de itens do carrinho, mantendo apenas um onde deveria mostrar todas as opções.
+O recurso "Envio enxuto" não é desativado automaticamente após a remoção de itens do carrinho, mantendo apenas um item quando deveria exibir todas as opções.
 
 ## Simulação
 
-
-
-- Adicione 2 ou mais itens de vendedores diferentes que tenham SLAs diferentes;
-- O envio enxuto estará ativo;
-- Remover todos os itens, mantendo apenas 1;
-- O envio enxuto ainda estará ativo
+- Adicione 2 ou mais itens de diferentes vendedores com SLAs diferentes;
+- O Lean Shipping estará ativo;
+- Remova todos os itens, mantendo apenas 1;
+- O Lean Shipping continuará ativo.
 
 ## Workaround
 
-
-Atualizar a página
-
-
-
-
+Atualize a página
