@@ -2,8 +2,8 @@
 title: 'Amazon Order cancellation flow'
 slug: amazon-order-cancellation-flow
 status: PUBLISHED
-createdAt: 2026-03-10T20:11:06.794Z
-updatedAt: 2026-03-10T20:11:06.794Z
+createdAt: 2022-05-30T22:12:14.000Z
+updatedAt: 2026-03-10T23:10:41.000Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
