@@ -2,8 +2,8 @@
 title: "Tax Service doesn't consider nominal promotions when placing orders"
 slug: tax-service-doesnt-consider-nominal-promotions-when-placing-orders
 status: PUBLISHED
-createdAt: 2025-11-07T21:43:30.796Z
-updatedAt: 2025-11-07T21:43:30.796Z
+createdAt: 2023-09-14T20:48:24.000Z
+updatedAt: 2025-11-08T00:42:31.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,22 +16,14 @@ internalReference: 900120
 
 ## Summary
 
-
 When using tax service, if there is a nominal promotion applied in the cart and an item split happens, the request for the tax service system doesn't have the nominal promotion applied, not allowing to finish the purchase, and the message "The requested order could not be created. Please try again" will be shown.
 
-
-#### Simulation
-
-
+## Simulation
 
 - Create a nominal promotion with fulfillment as order origin;
 - Add items to the cart, make sure the items split (here you can limit the promotion to a certain quantity of items);
 - Try to finish the purchase.
 
-
-#### Workaround
-
+## Workaround
 
 N/A
-
-
