@@ -2,8 +2,8 @@
 title: 'Catalog does not remove special characters when setting up the text link'
 slug: catalog-does-not-remove-special-characters-when-setting-up-the-text-link
 status: PUBLISHED
-createdAt: 2026-01-28T12:08:32.404Z
-updatedAt: 2026-01-28T12:08:32.404Z
+createdAt: 2023-11-22T16:19:37.000Z
+updatedAt: 2026-01-28T15:08:04.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,20 +16,13 @@ internalReference: 940127
 
 ## Summary
 
-
 One of the steps to create a product is to insert a slug to represent the product's page URL. If the URL contains any special character, it will generate an invalid URL, and it could cause problems when trying to access the product page.
 In other words, the catalog does not remove special characters when setting up the text link, such as © ℗ ® ™
 
-
-#### Simulation
-
+## Simulation
 
 Create a product link with a special character, for example, © ℗ ® ™. The catalog won't remove the inserted special characters, causing problems in the product page rendering.
 
-
-#### Workaround
-
+## Workaround
 
 Avoid using special characters in the product slug (URL), but if a URL was found with a special character, edit it manually to remove the character.
-
-
