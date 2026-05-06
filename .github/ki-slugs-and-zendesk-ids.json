@@ -8851,7 +8851,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-usuario-de-la-configuracion-no-actualiza-el-periodo-de-caducidad-de-las-cotizaciones",
+    "slug": "la-interfaz-de-usuario-de-configuracion-no-actualiza-el-periodo-de-validez-de-las-cotizaciones",
     "internalReference": 876576
   },
   {
@@ -17836,13 +17836,13 @@
   },
   {
     "locale": "pt",
-    "slug": "a-interface-de-usuario-detalhada-das-organizacoes-b2b-mostra-apenas-100-primeiros-vendedores",
-    "internalReference": 966450
+    "slug": "a-interface-de-configuracoes-nao-atualiza-o-prazo-de-validade-das-cotacoes",
+    "internalReference": 876576
   },
   {
     "locale": "pt",
-    "slug": "a-interface-do-usuario-de-configuracoes-nao-atualiza-o-periodo-de-expiracao-das-cotacoes",
-    "internalReference": 876576
+    "slug": "a-interface-de-usuario-detalhada-das-organizacoes-b2b-mostra-apenas-100-primeiros-vendedores",
+    "internalReference": 966450
   },
   {
     "locale": "pt",
