@@ -10566,7 +10566,7 @@
   },
   {
     "locale": "es",
-    "slug": "checkout-no-admite-la-codificacion-de-nombres-de-opciones-de-montaje",
+    "slug": "checkout-no-admite-la-codificacion-de-los-nombres-de-las-opciones-de-ensamblaje",
     "internalReference": 378842
   },
   {
@@ -20056,11 +20056,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-checkout-nao-e-compativel-com-a-codificacao-de-nomes-de-opcoes-de-montagem",
-    "internalReference": 378842
-  },
-  {
-    "locale": "pt",
     "slug": "o-checkout-nao-exibe-a-promocao-de-frete-imediatamente-em-determinadas-condicoes",
     "internalReference": 280144
   },
@@ -20068,6 +20063,11 @@
     "locale": "pt",
     "slug": "o-checkout-nao-mostra-opcao-para-mudar-o-codigo-postal",
     "internalReference": 321598
+  },
+  {
+    "locale": "pt",
+    "slug": "o-checkout-nao-suporta-a-codificacao-dos-nomes-das-opcoes-de-montagem",
+    "internalReference": 378842
   },
   {
     "locale": "pt",
