@@ -10216,13 +10216,13 @@
   },
   {
     "locale": "es",
-    "slug": "las-promociones-de-devolucion-de-dinero-no-tienen-en-cuenta-los-articulos-retirados-de-los-pedidos",
-    "internalReference": 1019864
+    "slug": "las-promociones-clasificadas-por-metodo-de-pago-no-aparecen-en-la-pagina-del-producto",
+    "internalReference": 781523
   },
   {
     "locale": "es",
-    "slug": "las-promociones-por-orden-de-formas-de-pago-no-aparecen-en-la-pagina-del-producto",
-    "internalReference": 781523
+    "slug": "las-promociones-de-devolucion-de-dinero-no-tienen-en-cuenta-los-articulos-retirados-de-los-pedidos",
+    "internalReference": 1019864
   },
   {
     "locale": "es",
@@ -12321,7 +12321,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-anuncios-de-meli-buybox-no-se-vinculan-a-los-productos-puente",
+    "slug": "los-anuncios-de-buybox-de-meli-no-estan-vinculados-a-los-productos-puente",
     "internalReference": 780961
   },
   {
@@ -18701,6 +18701,11 @@
   },
   {
     "locale": "pt",
+    "slug": "as-promocoes-por-forma-de-pagamento-nao-aparecem-na-pagina-do-produto",
+    "internalReference": 781523
+  },
+  {
+    "locale": "pt",
     "slug": "as-promocoes-por-ordem-de-metodos-de-pagamento-nao-sao-exibidas-na-pagina-do-produto",
     "internalReference": 781523
   },
@@ -21161,11 +21166,6 @@
   },
   {
     "locale": "pt",
-    "slug": "anuncios-meli-buybox-que-nao-estao-ligados-a-produtos-bridge",
-    "internalReference": 780961
-  },
-  {
-    "locale": "pt",
     "slug": "app-fbe-evento-de-compra-capi-nao-deduplicado-no-checkout-sem-interface-dependencia-de-fbpexternalid-no-vtex-checkout",
     "internalReference": 1349091
   },
@@ -21623,6 +21623,11 @@
     "locale": "pt",
     "slug": "os-ads-do-meli-buybox-nao-estao-sendo-pausados-quando-o-ad-do-marketplace-e-pausado",
     "internalReference": 910371
+  },
+  {
+    "locale": "pt",
+    "slug": "os-anuncios-da-buybox-da-meli-nao-estao-vinculados-aos-produtos-de-transicao",
+    "internalReference": 780961
   },
   {
     "locale": "pt",
