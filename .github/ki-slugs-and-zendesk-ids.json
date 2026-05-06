@@ -11671,6 +11671,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-usuarios-registrados-que-no-hayan-iniciado-sesion-no-pueden-completar-el-proceso-de-pago-si-cambian-de-la-opcion-de-entrega-a-la-de-recogida-en-la-pagina-de-pago",
+    "internalReference": 870845
+  },
+  {
+    "locale": "es",
     "slug": "los-valores-permitidos-de-los-anexos-no-se-actualizan-cuando-se-anaden-a-los-articulos",
     "internalReference": 920970
   },
@@ -14286,7 +14291,7 @@
   },
   {
     "locale": "es",
-    "slug": "en-mi-cuenta-la-edicion-de-la-direccion-con-informacion-roja-de-campo-obligatorio-aparece-incluso-despues-de-rellenar-hasta-guardar-los-datos",
+    "slug": "en-mi-cuenta-la-ventana-de-edicion-de-la-direccion-sigue-mostrando-el-mensaje-campo-obligatorio-incluso-despues-de-haberla-rellenado-hasta-que-se-guardan-los-datos",
     "internalReference": 870891
   },
   {
@@ -16286,11 +16291,6 @@
   },
   {
     "locale": "es",
-    "slug": "elementos-personalizados-en-cms-heredados-no-funcionan-con-mas-de-un-html",
-    "internalReference": 871480
-  },
-  {
-    "locale": "es",
     "slug": "error-403-para-todas-las-url-que-contengan-develop",
     "internalReference": 975182
   },
@@ -16408,6 +16408,11 @@
     "locale": "es",
     "slug": "los-controles-heredados-de-plantillas-de-plazos-y-estanterias-no-tienen-en-cuenta-los-multiplicadores-de-unidades",
     "internalReference": 979205
+  },
+  {
+    "locale": "es",
+    "slug": "los-elementos-personalizados-en-los-cms-antiguos-no-funcionan-con-mas-de-un-archivo-html",
+    "internalReference": 871480
   },
   {
     "locale": "es",
@@ -20906,7 +20911,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-usuarios-registrados-nao-conectados-nao-conseguem-concluir-o-checkout-ao-mudar-de-entrega-para-retirada-na-pagina-de-checkout",
+    "slug": "os-usuarios-cadastrados-que-nao-estao-conectados-nao-conseguem-concluir-a-compra-ao-alterar-a-opcao-de-entrega-para-retirada-na-pagina-de-finalizacao-da-compra",
     "internalReference": 870845
   },
   {
@@ -23386,11 +23391,6 @@
   },
   {
     "locale": "pt",
-    "slug": "em-my-account-a-edicao-do-endereco-com-a-informacao-vermelha-de-campo-obrigatorio-aparece-mesmo-depois-de-preenchida-ate-salvar-os-dados",
-    "internalReference": 870891
-  },
-  {
-    "locale": "pt",
     "slug": "emails-de-pagamento-pendente-replicado",
     "internalReference": 348932
   },
@@ -23508,6 +23508,11 @@
     "locale": "pt",
     "slug": "na-pagina-pedido-efetuado-o-datalayer-captura-apenas-as-informacoes-do-primeiro-pagamento-da-transacao-transactionpaymenttype",
     "internalReference": 727339
+  },
+  {
+    "locale": "pt",
+    "slug": "na-secao-minha-conta-a-mensagem-campo-obrigatorio-aparece-mesmo-depois-de-preenchidos-os-dados-ate-o-momento-de-salvar",
+    "internalReference": 870891
   },
   {
     "locale": "pt",
@@ -25456,7 +25461,7 @@
   },
   {
     "locale": "pt",
-    "slug": "elementos-personalizados-em-cms-legados-nao-funcionam-com-mais-de-um-html",
+    "slug": "elementos-personalizados-em-cmss-antigos-nao-funcionam-com-mais-de-um-html",
     "internalReference": 871480
   },
   {
