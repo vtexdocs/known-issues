@@ -9516,6 +9516,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-reordenamiento-de-colecciones-falla-en-el-caso-de-colecciones-de-gran-tamano",
+    "internalReference": 408140
+  },
+  {
+    "locale": "es",
     "slug": "el-termino-hace-que-la-api-de-busqueda-no-tenga-retorno",
     "internalReference": 570542
   },
@@ -16148,6 +16153,11 @@
     "locale": "es",
     "slug": "no-se-puede-exportar-mas-de-65536-lineas-en-cms-builder",
     "internalReference": 492861
+  },
+  {
+    "locale": "es",
+    "slug": "oorderbybestdiscount-muestra-un-orden-incorrecto",
+    "internalReference": 409119
   },
   {
     "locale": "es",
@@ -24883,6 +24893,11 @@
     "locale": "pt",
     "slug": "o-upload-do-file-manager-com-dois-ou-mais-arquivos-existentes-nao-atualiza-todos-os-arquivos-apenas-o-primeiro",
     "internalReference": 418253
+  },
+  {
+    "locale": "pt",
+    "slug": "oorderbybestdiscount-apresenta-uma-ordem-incorreta",
+    "internalReference": 409119
   },
   {
     "locale": "pt",
