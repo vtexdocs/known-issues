@@ -23,7 +23,7 @@ Otro comportamiento inesperado es que otros módulos siguen estando disponibles 
 
 ## Simulación
 
-- Crea un rol en la aplicación «Roles del gestor de licencias» otorgando acceso únicamente a:
+- Crea un rol en la aplicación «Roles» del Gestor de licencias que solo conceda acceso a:
   - El menú CMS de la barra superior;
   - La configuración del CMS.
 
@@ -36,4 +36,4 @@ Otro comportamiento inesperado es que otros módulos siguen estando disponibles 
 
 ## Workaround
 
-Para acceder al menú del CMS, el usuario debe ser un superadministrador.
+Para acceder al menú del CMS, el usuario debe tener el rol de Superadministrador.
