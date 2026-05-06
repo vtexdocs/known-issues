@@ -10771,11 +10771,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-pago-no-muestra-la-promocion-de-envio-en-el-primer-instante-para-una-condicion-especifica",
-    "internalReference": 280144
-  },
-  {
-    "locale": "es",
     "slug": "el-pago-no-puede-eliminar-el-articulo-de-regalo-cuando-no-esta-disponible-despues-de-seleccionar-el-punto-de-recogida",
     "internalReference": 363885
   },
@@ -10873,6 +10868,11 @@
     "locale": "es",
     "slug": "el-valor-del-documento-del-cliente-no-se-actualiza-correctamente-a-veces-en-la-configuracion-global-checkout",
     "internalReference": 863726
+  },
+  {
+    "locale": "es",
+    "slug": "en-el-proceso-de-pago-no-se-muestra-la-promocion-de-envio-de-inmediato-en-determinadas-circunstancias",
+    "internalReference": 280144
   },
   {
     "locale": "es",
@@ -19961,7 +19961,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-checkout-nao-exibe-a-promocao-de-frete-no-primeiro-instante-para-uma-condicao-especifica",
+    "slug": "o-checkout-nao-exibe-a-promocao-de-frete-imediatamente-em-determinadas-condicoes",
     "internalReference": 280144
   },
   {
