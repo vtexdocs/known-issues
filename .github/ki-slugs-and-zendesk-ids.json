@@ -14256,11 +14256,6 @@
   },
   {
     "locale": "es",
-    "slug": "ew-ui-no-sugiere-el-articulo-correcto-a-devolver-una-vez-que-el-pedido-tiene-un-cambio",
-    "internalReference": 735854
-  },
-  {
-    "locale": "es",
     "slug": "exportacion-de-la-lista-de-pedidos-en-la-columna-fecha-de-creacion-esta-en-utc-0",
     "internalReference": 619890
   },
@@ -14363,6 +14358,11 @@
     "locale": "es",
     "slug": "la-nueva-interfaz-de-usuario-no-muestra-los-articulos-pendientes-de-facturar-en-los-pedidos-con-factura-parcial-o-total",
     "internalReference": 646253
+  },
+  {
+    "locale": "es",
+    "slug": "la-nueva-interfaz-de-usuario-no-sugiere-el-articulo-correcto-que-se-debe-devolver-una-vez-que-se-ha-producido-un-cambio-en-el-pedido",
+    "internalReference": 735854
   },
   {
     "locale": "es",
@@ -23076,6 +23076,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-nova-interface-do-usuario-nao-sugere-o-item-correto-a-ser-devolvido-quando-ha-uma-alteracao-no-pedido",
+    "internalReference": 735854
+  },
+  {
+    "locale": "pt",
     "slug": "a-nova-iu-nao-mostra-o-valor-faturado-na-pagina-de-itens-de-retorno",
     "internalReference": 664838
   },
@@ -23213,11 +23218,6 @@
     "locale": "pt",
     "slug": "erro-no-fluxo-change-v2-com-itens-duplicados",
     "internalReference": 1219914
-  },
-  {
-    "locale": "pt",
-    "slug": "ew-ui-nao-sugere-o-item-correto-a-ser-devolvido-quando-o-pedido-tem-uma-mudanca",
-    "internalReference": 735854
   },
   {
     "locale": "pt",
