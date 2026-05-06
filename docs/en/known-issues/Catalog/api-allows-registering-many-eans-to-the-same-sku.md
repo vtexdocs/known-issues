@@ -2,8 +2,8 @@
 title: 'API allows registering many EANs to the same SKU'
 slug: api-allows-registering-many-eans-to-the-same-sku
 status: PUBLISHED
-createdAt: 2026-03-11T19:19:27.399Z
-updatedAt: 2026-03-11T19:19:27.399Z
+createdAt: 2020-09-09T18:51:02.000Z
+updatedAt: 2026-03-11T22:19:03.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
