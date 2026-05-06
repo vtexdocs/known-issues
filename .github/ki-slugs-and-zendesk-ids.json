@@ -15491,6 +15491,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-sistemas-antifraude-heredados-no-pueden-completar-una-solicitud-cuando-falta-el-accountid",
+    "internalReference": 496298
+  },
+  {
+    "locale": "es",
     "slug": "los-sistemas-antifraude-heredados-no-pueden-completar-una-solicitud-cuando-falta-el-id-de-la-cuenta",
     "internalReference": 496298
   },
@@ -24403,6 +24408,11 @@
     "locale": "pt",
     "slug": "o-rodape-dos-meus-cartoes-esta-tremendo-ao-tentar-adicionar-um-novo-cartao",
     "internalReference": 1012542
+  },
+  {
+    "locale": "pt",
+    "slug": "o-sistema-antissuperficies-antigo-nao-consegue-concluir-uma-solicitacao-quando-o-accountid-esta-faltando",
+    "internalReference": 496298
   },
   {
     "locale": "pt",
