@@ -11251,11 +11251,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-pago-deselecciona-la-opcion-programar-todo-despues-de-actualizar-la-pagina",
-    "internalReference": 784693
-  },
-  {
-    "locale": "es",
     "slug": "la-interfaz-de-pago-muestra-el-envio-gratuito-cuando-el-usuario-cambia-las-opciones-de-entrega",
     "internalReference": 897109
   },
@@ -11288,6 +11283,11 @@
     "locale": "es",
     "slug": "la-interfaz-de-usuario-de-la-caja-cambia-la-direccion-seleccionada-cuando-hay-mas-de-1-direccion-disponible",
     "internalReference": 1138817
+  },
+  {
+    "locale": "es",
+    "slug": "la-interfaz-de-usuario-de-la-caja-desactiva-el-boton-programar-todo-tras-actualizar-la-pagina",
+    "internalReference": 784693
   },
   {
     "locale": "es",
@@ -19791,6 +19791,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-interface-do-checkout-desmarca-a-opcao-agendar-tudo-apos-a-atualizacao-da-pagina",
+    "internalReference": 784693
+  },
+  {
+    "locale": "pt",
     "slug": "a-interface-do-checkout-nao-esta-utilizando-automaticamente-a-opcao-frete-economico-para-itens-sem-metodos-de-envio-comuns",
     "internalReference": 329846
   },
@@ -20153,11 +20158,6 @@
     "locale": "pt",
     "slug": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
     "internalReference": 704699
-  },
-  {
-    "locale": "pt",
-    "slug": "checkout-ui-desmarca-a-opcao-schedule-all-apos-refrescar-a-pagina",
-    "internalReference": 784693
   },
   {
     "locale": "pt",
