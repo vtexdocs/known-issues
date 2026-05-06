@@ -15106,6 +15106,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-al-crear-pagos-personalizados",
+    "internalReference": 995110
+  },
+  {
+    "locale": "es",
     "slug": "error-al-crear-una-tarjeta-regalo-a-traves-del-panel-de-administracion",
     "internalReference": 986327
   },
@@ -15173,11 +15178,6 @@
     "locale": "es",
     "slug": "error-en-el-reembolso-el-valor-no-puede-ser-nulo-nombre-del-parametro-valor",
     "internalReference": 1049494
-  },
-  {
-    "locale": "es",
-    "slug": "error-en-la-creacion-de-pagos-personalizados",
-    "internalReference": 995110
   },
   {
     "locale": "es",
