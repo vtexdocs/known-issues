@@ -16646,7 +16646,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-usuario-de-las-promociones-carga-informacion-incorrecta-sobre-la-divisa",
+    "slug": "la-interfaz-de-usuario-de-promociones-muestra-informacion-erronea-sobre-la-moneda",
     "internalReference": 718908
   },
   {
@@ -25456,6 +25456,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-interface-de-usuario-das-promocoes-esta-exibindo-informacoes-incorretas-sobre-a-moeda",
+    "internalReference": 718908
+  },
+  {
+    "locale": "pt",
     "slug": "a-interface-do-usuario-da-promocao-altera-incorretamente-o-caractere-apostrofo",
     "internalReference": 1353323
   },
@@ -25648,11 +25653,6 @@
     "locale": "pt",
     "slug": "informacoes-incorretas-nos-campos-de-datas-de-expiracao-das-promocoes",
     "internalReference": 611284
-  },
-  {
-    "locale": "pt",
-    "slug": "iu-de-promocoes-carregando-informacoes-de-moeda-incorretas",
-    "internalReference": 718908
   },
   {
     "locale": "pt",
