@@ -1,11 +1,9 @@
 ---
 title: 'ProductClick event not triggering in searchbar'
-id: Nk7Dkd4YoY5LXbxpWJIKz
+slug: productclick-event-not-triggering-in-searchbar
 status: PUBLISHED
-createdAt: 2023-01-30T17:43:44.441Z
-updatedAt: 2023-01-30T17:43:45.235Z
-publishedAt: 2023-01-30T17:43:45.235Z
-firstPublishedAt: 2023-01-30T17:43:45.235Z
+createdAt: 2023-01-30T17:43:30.000Z
+updatedAt: 2023-01-30T17:43:30.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,8 +16,6 @@ internalReference: 742754
 
 ## Summary
 
-
-
 ProductClick event is not being triggered in searchbar
 
 https://github.com/vtex-apps/search/blob/8cf2cec70a2d6e1ac616343d07f10d75b45aa8ae/react/components/Autocomplete/components/TileList/TileList.tsx#L76
@@ -30,29 +26,13 @@ https://github.com/vtex-apps/product-summary/blob/8ef1f2b397d35a03b2acaf448c0c70
 
 https://github.com/vtex-apps/product-summary/blob/45a6df2afeabd441d3c772b5ee1840206a8cf061/react/ProductSummaryList.tsx#L160-L174
 
-
-
-
-##
-
 ## Simulation
-
-
 
 Go to searchbar
 Search for any term that has products
 Click on the product
 Check dataLayer event on console
 
-
-##
-
 ## Workaround
 
-
 No
-
-
-
-
-
