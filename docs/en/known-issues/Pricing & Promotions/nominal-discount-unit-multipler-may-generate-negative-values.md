@@ -2,8 +2,8 @@
 title: 'Nominal Discount + Unit Multipler may generate negative values'
 slug: nominal-discount-unit-multipler-may-generate-negative-values
 status: PUBLISHED
-createdAt: 2025-10-16T19:52:19.924Z
-updatedAt: 2025-10-16T19:52:19.924Z
+createdAt: 2023-07-24T19:13:35.000Z
+updatedAt: 2023-07-25T16:50:28.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -15,7 +15,6 @@ internalReference: 867838
 ---
 
 ## Summary
-
 
 When using a "nominal value" type discount, if there afe multiples values affected for a same discount in the same cart, this discount is proportionally distributed among the items.
 
@@ -37,11 +36,7 @@ However, the item A's price is actually 100*0.01 due to its unit multiplier, so,
 
 Altough this doesn't affect the calculation of the final proce of the order (because the deduced price of the discount will still be -$20), whis may impact ERP integrations.
 
-
-
-
-#### Simulation
-
+## Simulation
 
 Create an order in which there are  2+ items, one with a unit multiplier of value < 1 (ideally a very small value, such as 0.01) and other(s) without a unit multiplier.
 
@@ -49,11 +44,6 @@ Then, create a nominal discount promotion valid for all the items within the car
 
 The discount will be distributed considering the original  price of the item with the unit multiplier and possibly result in its price being negative
 
-
-#### Workaround
-
+## Workaround
 
 Using other promotion types to distribute the discount.
-
-
-
