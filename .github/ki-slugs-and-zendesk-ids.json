@@ -17236,7 +17236,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-rastreadores-no-leen-las-migas-de-pan-debido-al-tiempo-de-espera-del-ssr",
+    "slug": "los-rastreadores-no-leen-la-ruta-de-navegacion-debido-a-un-tiempo-de-espera-de-ssr",
     "internalReference": 460999
   },
   {
@@ -25718,6 +25718,11 @@
     "locale": "pt",
     "slug": "a-transliteracao-so-esta-sendo-salva-no-vbase-e-nao-no-rewriter",
     "internalReference": 738334
+  },
+  {
+    "locale": "pt",
+    "slug": "a-trilha-de-navegacao-nao-esta-sendo-lida-pelos-rastreadores-devido-a-um-tempo-limite-de-ssr",
+    "internalReference": 460999
   },
   {
     "locale": "pt",
