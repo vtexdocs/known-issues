@@ -1,11 +1,9 @@
 ---
 title: 'Las opciones de pago a plazos no se actualizan automáticamente en PDP/PLP'
-id: 1PSjCEZyKatCZ9Q1W1zQOc
+slug: las-opciones-de-pago-a-plazos-no-se-actualizan-automaticamente-en-pdpplp
 status: PUBLISHED
-createdAt: 2024-02-23T12:31:32.446Z
-updatedAt: 2024-02-23T12:31:33.262Z
-publishedAt: 2024-02-23T12:31:33.262Z
-firstPublishedAt: 2024-02-23T12:31:33.262Z
+createdAt: 2024-02-23T12:31:14.000Z
+updatedAt: 2024-02-23T12:31:14.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,21 +14,19 @@ kiStatus: Backlog
 internalReference: 987467
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-Cuando una cuenta cambia las opciones de pago a plazos de un producto, a pesar de que el producto está correctamente indexado, las opciones de pago a plazos no se actualizan en el PLP o en el PDP (a veces en ambos).
-
-
-##
+Cuando una cuenta modifica las opciones de pago a plazos de un producto, aunque el producto esté correctamente indexado, las opciones de pago a plazos no se actualizan en la PLP ni en la PDP (a veces en ninguna de las dos).
 
 ## Simulación
 
-
+1. Crea una opción de pago a plazos y comprueba que se refleja correctamente en la PDP/PLP.
+2. Actualiza esta misma opción de pago a plazos.
+3. Comprueba que no todas las PDP y PLP se han actualizado con la nueva información correcta.
 
 ## Workaround
 
-
-
+provisional**
+Vuelve a indexar los productos afectados.
