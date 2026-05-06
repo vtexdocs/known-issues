@@ -2,8 +2,8 @@
 title: 'Checkout has no clarity about divergences between the customer identified in the cart and the user logged in to the store'
 slug: checkout-has-no-clarity-about-divergences-between-the-customer-identified-in-the-cart-and-the-user-logged-in-to-the-store
 status: PUBLISHED
-createdAt: 2026-02-09T14:11:27.664Z
-updatedAt: 2026-02-09T14:11:27.664Z
+createdAt: 2021-10-04T22:46:58.000Z
+updatedAt: 2026-02-09T17:10:43.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,8 +16,6 @@ internalReference: 442267
 
 ## Summary
 
-
-
 Changes on user authentication made through VTEX ID don't automatically update the orderForm's personal information (profile and address).
 
 This can lead to some unwanted behaviours, such as:
@@ -29,10 +27,7 @@ This can lead to some unwanted behaviours, such as:
 
 3. Personal data is updated on the user's profile through "My Account" page but this change is not reflected on existing orderForm in which this user is identified
 
-
-#### Simulation
-
-
+## Simulation
 
 **Scenario 1:**
 
@@ -57,10 +52,7 @@ This can lead to some unwanted behaviours, such as:
 - Update some profile or address information
 - Return to the cart; the personal data will not have been updated
 
-
-#### Workaround
-
-
+## Workaround
 
 Some scenarios can be handled by implementing Cart Data Clean Up on Log Out via the following documentation, using Session Watcher and the `/changeToAnonymousUser` API:
 
