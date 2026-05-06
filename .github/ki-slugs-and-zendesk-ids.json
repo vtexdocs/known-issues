@@ -9521,7 +9521,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-indexador-de-catalogos-genera-documentos-de-traduccion-no-validos",
+    "slug": "el-indexador-del-catalogo-genera-documentos-de-traduccion-no-validos",
     "internalReference": 991494
   },
   {
@@ -19186,11 +19186,6 @@
   },
   {
     "locale": "pt",
-    "slug": "indexador-de-catalogo-gerando-documentos-de-traducao-invalidos",
-    "internalReference": 991494
-  },
-  {
-    "locale": "pt",
     "slug": "indice-de-exportacao-de-especificacoes-do-produto-fora-do-intervalo",
     "internalReference": 481095
   },
@@ -19418,6 +19413,11 @@
     "locale": "pt",
     "slug": "o-indexador-cria-uma-resposta-de-disponibilidade-inconsistente-para-mercados-regionalizados",
     "internalReference": 1172289
+  },
+  {
+    "locale": "pt",
+    "slug": "o-indexador-de-catalogo-esta-gerando-documentos-de-traducao-invalidos",
+    "internalReference": 991494
   },
   {
     "locale": "pt",
