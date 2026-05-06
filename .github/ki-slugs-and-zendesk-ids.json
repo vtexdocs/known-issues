@@ -17701,6 +17701,11 @@
   },
   {
     "locale": "es",
+    "slug": "si-se-crean-redireccionamientos-incorrectos-que-contengan-caracteres-o-consultas-que-no-deberian-incluirse-la-carga-o-descarga-del-archivo-csv-a-traves-de-la-cli-no-funciona",
+    "internalReference": 971936
+  },
+  {
+    "locale": "es",
     "slug": "sliderlayout-bug-when-using-prop-infinite-as-always-on-mobile",
     "internalReference": 920725
   },
@@ -26423,6 +26428,11 @@
     "locale": "pt",
     "slug": "algumas-paginas-personalizadas-nao-estao-retornando-na-api-de-rotas-personalizadas-causando-a-falta-de-entradas-no-mapa-do-site",
     "internalReference": 1319581
+  },
+  {
+    "locale": "pt",
+    "slug": "ao-criar-redirecionamentos-incorretos-que-contenham-caracteres-ou-parametros-que-nao-deveriam-ser-enviados-o-uploaddownload-do-csv-pela-cli-nao-funciona",
+    "internalReference": 971936
   },
   {
     "locale": "pt",
