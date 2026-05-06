@@ -8641,7 +8641,7 @@
   },
   {
     "locale": "es",
-    "slug": "magazine-luiza-tracking-error-customer-delivery-date-debe-ser-mayor-que-delivery-date-y-debe-ser-igual-o-menor-que-la-fecha-de-hoy",
+    "slug": "magazine-luiza-seguimiento-error-la-fecha-de-entrega-al-cliente-debe-ser-posterior-a-la-fecha-de-envio-y-debe-ser-igual-o-anterior-a-la-fecha-de-hoy",
     "internalReference": 856984
   },
   {
@@ -12811,7 +12811,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-paginacion-en-la-pagina-de-busqueda-no-se-reinicia-al-cambiar-el-contexto-de-busqueda",
+    "slug": "la-paginacion-de-la-pagina-de-busqueda-no-se-reinicia-al-cambiar-el-contexto-de-busqueda",
     "internalReference": 857392
   },
   {
@@ -21851,7 +21851,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-paginacao-na-pagina-de-pesquisa-nao-e-redefinida-ao-alterar-o-contexto-da-pesquisa",
+    "slug": "a-paginacao-na-pagina-de-pesquisa-nao-e-reiniciada-ao-alterar-o-contexto-da-pesquisa",
     "internalReference": 857392
   },
   {
