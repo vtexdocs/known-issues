@@ -2,8 +2,8 @@
 title: 'Error when reaching pages over 333 on a entity list (more than 10.000 documents)'
 slug: error-when-reaching-pages-over-333-on-a-entity-list-more-than-10000-documents
 status: PUBLISHED
-createdAt: 2025-11-14T19:39:13.983Z
-updatedAt: 2025-11-14T19:39:13.983Z
+createdAt: 2021-02-12T16:30:34.000Z
+updatedAt: 2023-02-27T19:29:35.000Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,24 +16,18 @@ internalReference: 334407
 
 ## Summary
 
-
 When the store has more than 10.000 documents, so more than 333 pages, when trying to reach the latest pages on CRM, there is a message error:
 
     VTEX - Master Data: Ocorreu um erro inesperado no sistema. Por favor tente novamente, caso o erro persista entre em contato com a VTEX.
 
  ![](https://vtexhelp.zendesk.com/attachments/token/5wXQPX2etczf6IiyzGFLAtIvp/?name=inline1653316518.png)
 
-
-#### Simulation
-
-
+## Simulation
 
 1. Go to a CRM on an entity with a lot of data (more than 10k documents);
 2. The error will happen when trying to reach a page that would retrieve the 10.000th document or over. Usually by page 334 (10000 / 30 = 333.33 ~~ 334)
 
-
-#### Workaround
-
+## Workaround
 
 If the store wishes to retrieve the latest data, they can use the Scroll documents API:
 
