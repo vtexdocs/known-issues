@@ -9536,7 +9536,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-informe-notificame-genera-un-archivo-danado-cuando-no-se-encuentran-skus",
+    "slug": "el-informe-notifyme-genera-un-archivo-danado-cuando-no-se-encuentran-referencias-de-producto",
     "internalReference": 956264
   },
   {
@@ -10621,13 +10621,13 @@
   },
   {
     "locale": "es",
-    "slug": "al-colocar-el-codigo-postal-en-la-vista-previa-de-envio-del-carro-se-duplican-las-opciones-de-direccion-para-los-clientes-recurrentes",
-    "internalReference": 956338
+    "slug": "al-finalizar-la-compra-el-nombre-del-destinatario-se-sustituye-por-el-nombre-del-cliente",
+    "internalReference": 324792
   },
   {
     "locale": "es",
-    "slug": "al-finalizar-la-compra-el-nombre-del-destinatario-se-sustituye-por-el-nombre-del-cliente",
-    "internalReference": 324792
+    "slug": "al-introducir-el-codigo-postal-en-la-vista-previa-del-envio-del-carrito-se-duplican-las-opciones-de-direccion-para-los-clientes-habituales",
+    "internalReference": 956338
   },
   {
     "locale": "es",
@@ -11956,7 +11956,7 @@
   },
   {
     "locale": "es",
-    "slug": "validacion-de-adjuntos-solo-en-el-mercado-al-anadir-un-articulo-de-un-vendedor-con-adjunto",
+    "slug": "validacion-de-archivos-adjuntos-solo-en-el-marketplace-al-anadir-un-articulo-de-un-vendedor-que-incluya-archivos-adjuntos",
     "internalReference": 957343
   },
   {
@@ -14686,7 +14686,7 @@
   },
   {
     "locale": "es",
-    "slug": "posibles-errores-en-la-notificacion-de-ordenes-de-cambio-en-la-interfaz-de-usuario-la-api-y-la-pasarela",
+    "slug": "posibles-errores-en-la-notificacion-de-ordenes-de-modificacion-en-la-interfaz-de-usuario-la-api-y-la-pasarela",
     "internalReference": 955489
   },
   {
@@ -19466,7 +19466,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-relatorio-notifyme-gera-um-arquivo-corrompido-quando-nao-ha-skus-encontrados",
+    "slug": "o-relatorio-notifyme-gera-um-arquivo-corrompido-quando-nao-sao-encontrados-skus",
     "internalReference": 956264
   },
   {
@@ -19801,11 +19801,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-colocacao-do-codigo-postal-na-visualizacao-de-frete-do-carrinho-esta-duplicando-as-opcoes-de-endereco-para-clientes-recorrentes",
-    "internalReference": 956338
-  },
-  {
-    "locale": "pt",
     "slug": "a-compra-nao-pode-ser-concluida-e-fica-parada-na-mensagem-o-tipo-de-frete-foi-alterado",
     "internalReference": 449341
   },
@@ -19878,6 +19873,11 @@
     "locale": "pt",
     "slug": "a-incompatibilidade-de-addressid-causa-o-erro-endereco-invalido-para-um-item",
     "internalReference": 992503
+  },
+  {
+    "locale": "pt",
+    "slug": "a-insercao-do-cep-na-visualizacao-de-envio-do-carrinho-esta-gerando-opcoes-de-endereco-duplicadas-para-clientes-recorrentes",
+    "internalReference": 956338
   },
   {
     "locale": "pt",
@@ -21146,7 +21146,7 @@
   },
   {
     "locale": "pt",
-    "slug": "validacao-de-anexo-somente-no-marketplace-ao-adicionar-um-item-de-um-vendedor-com-anexo",
+    "slug": "validacao-de-anexos-apenas-na-loja-virtual-ao-adicionar-um-item-de-um-vendedor-que-inclua-um-anexo",
     "internalReference": 957343
   },
   {
@@ -23896,7 +23896,7 @@
   },
   {
     "locale": "pt",
-    "slug": "possiveis-erros-na-notificacao-de-ordens-de-alteracao-na-interface-do-usuario-na-api-e-no-gateway",
+    "slug": "possiveis-erros-na-notificacao-de-ordens-de-modificacao-na-interface-do-usuario-na-api-e-no-gateway",
     "internalReference": 955489
   },
   {
