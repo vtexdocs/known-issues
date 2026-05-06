@@ -1,11 +1,9 @@
 ---
-title: 'La interfaz de pago muestra el envío gratuito cuando el usuario cambia las opciones de entrega.'
-id: 5ibXQuVSU5vLfihL8uImyX
+title: 'La interfaz de pago muestra el envío gratuito cuando el usuario cambia las opciones de entrega'
+slug: la-interfaz-de-pago-muestra-el-envio-gratuito-cuando-el-usuario-cambia-las-opciones-de-entrega
 status: PUBLISHED
-createdAt: 2023-09-27T20:40:02.973Z
-updatedAt: 2023-10-02T19:35:11.231Z
-publishedAt: 2023-10-02T19:35:11.231Z
-firstPublishedAt: 2023-09-27T20:40:03.494Z
+createdAt: 2023-09-11T14:07:03.000Z
+updatedAt: 2023-10-02T19:34:53.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,30 +14,18 @@ kiStatus: Backlog
 internalReference: 897109
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-La interfaz de usuario de la caja muestra la entrega gratuita cuando el usuario cambia el método de entrega de envío normal a entrega programada. El problema solo se produce en el cuadro de entrega y cuando la cuenta tiene configurada la función LeanShipping. aunque la IU muestra el envío gratuito, los valores totales de la compra se muestran y cobran correctamente.
-
-
-##
+La interfaz de pago muestra el envío gratuito cuando el usuario cambia el método de envío de «envío normal» a «entrega programada». El problema solo se produce en el cuadro de envío y cuando la cuenta tiene configurada la función LeanShipping. Aunque la interfaz muestra el envío gratuito, los valores totales de la compra se muestran y se cobran correctamente.
 
 ## Simulación
 
-
-
-1. Vaya a la página de pago comprando un artículo al azar
-2. en la sección de envío, seleccione envío programado y, a continuación, vuelva a seleccionar envío normal y aparecerá el precio de envío gratuito en la sección de envío
-
-
+1. Ve a la página de pago comprando un artículo aleatorio.
+2. En la sección de envío, selecciona «entrega programada» y, a continuación, vuelve a seleccionar «envío normal»; el precio del envío gratuito aparecerá en la sección de entrega.
 
 ## Workaround
 
-
-No hay solución.
-
-
-
-
+provisional**
+No hay ninguna solución provisional.
