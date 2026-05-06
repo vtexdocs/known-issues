@@ -10221,7 +10221,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-etiquetas-xml-precio-relacionadas-no-cargan-el-contenido-de-los-articulos-no-disponibles",
+    "slug": "las-etiquetas-xml-relacionadas-con-price-no-cargan-el-contenido-de-los-articulos-que-no-estan-disponibles",
     "internalReference": 974722
   },
   {
@@ -13176,7 +13176,7 @@
   },
   {
     "locale": "es",
-    "slug": "falta-la-traduccion-de-la-facetafiltro-de-precios-en-la-busqueda-inteligente",
+    "slug": "falta-la-traduccion-del-filtro-de-precio-en-la-busqueda-inteligente",
     "internalReference": 974840
   },
   {
@@ -18841,7 +18841,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-tags-xml-price-relacionadas-nao-carregam-o-conteudo-de-itens-indisponiveis",
+    "slug": "as-tags-relacionadas-a-price-no-xml-nao-carregam-o-conteudo-de-itens-indisponiveis",
     "internalReference": 974722
   },
   {
@@ -22441,7 +22441,7 @@
   },
   {
     "locale": "pt",
-    "slug": "falta-de-traducao-para-a-facetafiltro-de-preco-na-intelligent-search",
+    "slug": "falta-a-traducao-para-o-filtro-de-preco-na-pesquisa-inteligente",
     "internalReference": 974840
   },
   {
