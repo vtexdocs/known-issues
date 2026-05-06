@@ -10581,7 +10581,7 @@
   },
   {
     "locale": "es",
-    "slug": "una-sku-puede-estar-activa-y-tener-el-indicador-activar-si-es-posible-desmarcado",
+    "slug": "una-referencia-puede-estar-activa-y-tener-desmarcada-la-casilla-activar-si-es-posible",
     "internalReference": 931324
   },
   {
@@ -17226,7 +17226,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-enrutamiento-de-solicitudes-es-incoherente-al-ejecutar-pruebas-ab",
+    "slug": "el-enrutamiento-de-las-solicitudes-no-es-coherente-al-realizar-pruebas-ab",
     "internalReference": 931246
   },
   {
@@ -19706,13 +19706,13 @@
   },
   {
     "locale": "pt",
-    "slug": "um-valor-de-especificacao-de-produto-valido-pode-ser-retornado-em-branco-no-administrador-do-catalogo",
-    "internalReference": 966499
+    "slug": "um-sku-pode-estar-ativo-e-ter-a-opcao-ativar-se-possivel-desmarcada",
+    "internalReference": 931324
   },
   {
     "locale": "pt",
-    "slug": "uma-sku-pode-estar-ativa-e-ter-o-sinalizador-ativar-se-possivel-desmarcado",
-    "internalReference": 931324
+    "slug": "um-valor-de-especificacao-de-produto-valido-pode-ser-retornado-em-branco-no-administrador-do-catalogo",
+    "internalReference": 966499
   },
   {
     "locale": "pt",
@@ -26591,6 +26591,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-encaminhamento-de-solicitacoes-apresenta-inconsistencias-durante-a-execucao-de-testes-ab",
+    "internalReference": 931246
+  },
+  {
+    "locale": "pt",
     "slug": "o-evento-addtocart-nao-envia-as-informacoes-de-desconto-e-o-preco-do-desconto",
     "internalReference": 1337368
   },
@@ -26728,11 +26733,6 @@
     "locale": "pt",
     "slug": "o-reescritor-nao-esta-recebendo-rotas-atualizadas-do-catalogo",
     "internalReference": 1172080
-  },
-  {
-    "locale": "pt",
-    "slug": "o-roteamento-de-solicitacoes-e-inconsistente-ao-executar-testes-ab",
-    "internalReference": 931246
   },
   {
     "locale": "pt",
