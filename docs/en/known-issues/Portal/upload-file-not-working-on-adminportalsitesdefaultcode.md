@@ -1,11 +1,9 @@
 ---
 title: 'Upload file not working on admin/portal/#/sites/default/code'
-id: 5pFAkaymcuOQMAqUDGPQZK
+slug: upload-file-not-working-on-adminportalsitesdefaultcode
 status: PUBLISHED
-createdAt: 2023-09-12T13:37:36.429Z
-updatedAt: 2023-09-12T13:37:37.323Z
-publishedAt: 2023-09-12T13:37:37.323Z
-firstPublishedAt: 2023-09-12T13:37:37.323Z
+createdAt: 2023-09-12T13:37:21.000Z
+updatedAt: 2023-09-12T13:37:21.000Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,32 +16,17 @@ internalReference: 897956
 
 ## Summary
 
-
 When trying to upload a new file on admin/portal/#/sites/default/code nothing happens. Checking the console on devTools we can see an error message:
 "eventTrackerService is not defined"
 
-
-##
-
 ## Simulation
-
-
 
 1. Go to admin/portal/#/sites/default/code
 2. Go to New -> Upload File -> select the file you wish to import -> click on create
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Portal/upload-file-not-working-on-adminportalsitesdefaultcode_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4uSgPeUxG9xAOkTq1HUs8khX6/?name=image.png)
 3. Check that nothing happens.
-
-
-##
 
 ## Workaround
 
-
 The WA is to create the file directly on this UI.
 Go to New -> File -> Name your file and click on create -> Insert the code and click on save.
-
-
-
-
-
