@@ -9446,7 +9446,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-enlace-de-cambio-de-pedido-en-la-pagina-de-pagopedido-realizado-lleva-a-myaccount-en-lugar-de-a-la-pagina-de-pedido",
+    "slug": "el-enlace-modificar-pedido-en-la-pagina-de-pago-o-en-pedido-realizado-redirige-a-mi-cuenta-en-lugar-de-a-la-pagina-del-pedido",
     "internalReference": 844893
   },
   {
@@ -10641,11 +10641,6 @@
   },
   {
     "locale": "es",
-    "slug": "bucle-en-la-ventana-emergente-de-autenticacion-cuando-la-primera-condicion-de-pago-requiere-autenticacion",
-    "internalReference": 844192
-  },
-  {
-    "locale": "es",
     "slug": "calendario-en-ingles-para-tiendas-en-espanol",
     "internalReference": 412426
   },
@@ -11118,6 +11113,11 @@
     "locale": "es",
     "slug": "fecha-de-envio-estimada-incorrecta-para-el-pedido-fob",
     "internalReference": 269104
+  },
+  {
+    "locale": "es",
+    "slug": "incluir-la-ventana-emergente-de-autenticacion-cuando-la-primera-condicion-de-pago-requiera-autenticacion",
+    "internalReference": 844192
   },
   {
     "locale": "es",
@@ -19336,7 +19336,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-link-alterar-pedido-no-checkoutorderplaced-esta-direcionando-para-myaccount-em-vez-da-pagina-do-pedido",
+    "slug": "o-link-alterar-pedido-na-pagina-de-finalizacao-da-comprapedido-concluido-esta-direcionando-para-a-pagina-minha-conta-em-vez-de-para-a-pagina-do-pedido",
     "internalReference": 844893
   },
   {
@@ -20331,7 +20331,7 @@
   },
   {
     "locale": "pt",
-    "slug": "faca-um-loop-na-janela-popup-de-autenticacao-quando-a-primeira-condicao-de-pagamento-exigir-autenticacao",
+    "slug": "exibir-a-janela-de-autenticacao-quando-a-primeira-condicao-de-pagamento-exigir-autenticacao",
     "internalReference": 844192
   },
   {
@@ -20816,13 +20816,13 @@
   },
   {
     "locale": "pt",
-    "slug": "o-valor-do-item-do-carrinho-e-enviado-incorretamente-pelo-checkout-em-additionaldata",
-    "internalReference": 640386
+    "slug": "o-valor-da-recompensa-nao-foi-adicionado-ou-foi-adicionado-um-valor-diferente-ao-cartaopresente",
+    "internalReference": 844079
   },
   {
     "locale": "pt",
-    "slug": "o-valor-do-premio-nao-foi-adicionado-ou-foi-adicionado-um-valor-diferente-ao-cartaopresente",
-    "internalReference": 844079
+    "slug": "o-valor-do-item-do-carrinho-e-enviado-incorretamente-pelo-checkout-em-additionaldata",
+    "internalReference": 640386
   },
   {
     "locale": "pt",
