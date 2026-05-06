@@ -9896,11 +9896,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-coleccion-de-importacion-solo-acepta-el-orden-de-los-productos-si-la-importacion-se-realiza-basandose-en-skuid",
-    "internalReference": 953862
-  },
-  {
-    "locale": "es",
     "slug": "la-configuracion-de-valores-de-fidelidad-de-cms-no-funciona",
     "internalReference": 726849
   },
@@ -9978,6 +9973,11 @@
     "locale": "es",
     "slug": "la-funcion-exportar-especificaciones-de-sku-del-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento",
     "internalReference": 465445
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-importar-coleccion-solo-acepta-el-pedido-de-productos-si-la-importacion-se-realiza-basandose-en-el-skuid",
+    "internalReference": 953862
   },
   {
     "locale": "es",
@@ -11413,6 +11413,11 @@
     "locale": "es",
     "slug": "la-interfaz-de-usuario-no-muestra-la-seleccion-de-ventanas-para-los-puntos-de-recogida-cuando-un-articulo-de-un-vendedor-esta-entre-articulos-para",
     "internalReference": 1077568
+  },
+  {
+    "locale": "es",
+    "slug": "la-interfaz-de-usuario-no-muestra-la-seleccion-del-intervalo-de-entrega-para-los-puntos-de-recogida-cuando-un-articulo-de-un-vendedor-se-encuentra-entre-articulos-de-otro-vendedor-destinados-a-la-recogida",
+    "internalReference": 954108
   },
   {
     "locale": "es",
@@ -16621,7 +16626,7 @@
   },
   {
     "locale": "es",
-    "slug": "discrepancia-en-el-recuento-de-cupones-utilizados-en-oms-y-en-la-interfaz-de-usuario-de-cupones",
+    "slug": "discrepancia-en-el-recuento-de-cupones-utilizados-entre-el-oms-y-la-interfaz-de-usuario-de-cupones",
     "internalReference": 954959
   },
   {
@@ -18411,11 +18416,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-colecao-de-importacao-so-aceita-a-ordem-dos-produtos-se-a-importacao-for-feita-com-base-no-skuid",
-    "internalReference": 953862
-  },
-  {
-    "locale": "pt",
     "slug": "a-criacao-de-skus-em-contas-do-portal-do-vendedor-faz-com-que-o-multiplicador-de-unidades-seja-sempre-1",
     "internalReference": 1186329
   },
@@ -18488,6 +18488,11 @@
     "locale": "pt",
     "slug": "a-funcao-ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando",
     "internalReference": 339894
+  },
+  {
+    "locale": "pt",
+    "slug": "a-funcao-de-importacao-de-colecoes-so-aceita-o-pedido-de-produtos-se-a-importacao-for-feita-com-base-no-skuid",
+    "internalReference": 953862
   },
   {
     "locale": "pt",
@@ -19973,6 +19978,11 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-mostra-que-uma-retirada-foi-selecionada-no-carrinho-com-assinaturas-mas-nao-foi-na-api",
     "internalReference": 996976
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-usuario-nao-exibe-a-opcao-de-selecao-do-horario-de-entrega-para-pontos-de-retirada-quando-um-item-de-um-vendedor-esta-entre-itens-para-retirada-de-outro-vendedor",
+    "internalReference": 954108
   },
   {
     "locale": "pt",
