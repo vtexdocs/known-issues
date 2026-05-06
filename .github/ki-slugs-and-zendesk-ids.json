@@ -9781,7 +9781,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-api-de-attachents-no-permite-domainvalues-nulos-y-deberia",
+    "slug": "la-api-de-attachents-no-permite-valores-nulos-en-domainvalues-y-deberia-hacerlo",
     "internalReference": 897480
   },
   {
@@ -18276,11 +18276,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-da-attachents-nao-permite-domainvalues-nulos-e-deveria",
-    "internalReference": 897480
-  },
-  {
-    "locale": "pt",
     "slug": "a-api-de-aprovacao-automatica-aceita-qualquer-valor",
     "internalReference": 713704
   },
@@ -18318,6 +18313,11 @@
     "locale": "pt",
     "slug": "a-api-de-precos-permite-valores-negativos",
     "internalReference": 774548
+  },
+  {
+    "locale": "pt",
+    "slug": "a-api-do-attachents-nao-permite-valores-nulos-em-domainvalues-e-deveria-permitir",
+    "internalReference": 897480
   },
   {
     "locale": "pt",
