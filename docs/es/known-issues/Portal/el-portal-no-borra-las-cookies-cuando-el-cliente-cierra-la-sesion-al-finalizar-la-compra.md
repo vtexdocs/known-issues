@@ -2,8 +2,8 @@
 title: 'El portal no borra las cookies cuando el cliente cierra la sesión al finalizar la compra'
 slug: el-portal-no-borra-las-cookies-cuando-el-cliente-cierra-la-sesion-al-finalizar-la-compra
 status: PUBLISHED
-createdAt: 2025-11-14T19:36:37.794Z
-updatedAt: 2025-11-14T19:36:37.794Z
+createdAt: 2021-08-23T15:40:35.000Z
+updatedAt: 2025-05-16T23:06:55.000Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,26 +18,20 @@ internalReference: 417322
 
 ## Sumario
 
+En la caja de una tienda, existe la opción de cerrar sesión.
 
-En la caja de una tienda, tenemos una opción para cerrar la sesión.
+Lamentablemente, la solicitud enviada a la aplicación del portal no elimina las cookies del usuario, que permanecen en el formulario de pedido junto con el correo electrónico del cliente, por lo que este no puede cerrar sesión mediante esta opción. Este comportamiento se produce en tiendas que utilizan una solución de tienda online distinta de «Legacy CMS Portal».
 
-Desafortunadamente, la petición realizada a la aplicación del portal no borra las cookies del usuario, que permanecen en el OrderForm con el email del cliente, por lo que el cliente no puede cerrar la sesión utilizando esta opción. Este comportamiento ocurre en tiendas con una solución de escaparate distinta a "Legacy CMS Portal".
+## Simulación
 
+1. Acceda al sitio web de la tienda (`www.store.com`) e inicie sesión en «Mi cuenta» utilizando el correo electrónico y el código;
+2. Una vez que haya iniciado sesión, cree un carrito y vaya a la caja;
+3. Complete el paso «Perfil» y vaya a «Envío»; a continuación, intente cerrar la sesión desde el enlace «No soy yo, finalizar sesión».
 
-#### Simulación
+La caja realiza la solicitud de forma normal, enviando la solicitud junto con el `orderFormId`.
 
-
-1. Vaya al sitio web de la tienda (`www.store.com`) e inicie sesión desde Mi Cuenta utilizando el correo electrónico y el código;
-2. Una vez logueado, hacer un carrito y pasar por caja;
-3. 3. Completa el paso Perfil y ve a Envíos, luego intenta cerrar sesión desde el enlace "No soy yo, finalizar sesión".
-
-Checkout realiza la petición normalmente, haciendo la petición junto con el `orderFormId`.
-
-Sin embargo, la Aplicación Portal no borra la cookie de este usuario y por lo tanto devuelve el mismo usuario. El correo electrónico se mantiene en el formulario de pedido y, en consecuencia, no se cierra la sesión.
+Sin embargo, la aplicación del portal no elimina la cookie de este usuario y, por lo tanto, devuelve el mismo usuario. El correo electrónico se mantiene en el formulario de pedido y, en consecuencia, no se cierra la sesión.
 
 ## Workaround
 
-
-Abra un ticket con VTEX solicitando habilitar el cierre de sesión con VTEX ID.
-
-
+Abre un ticket con VTEX solicitando que se habilite el cierre de sesión con el ID de VTEX.
