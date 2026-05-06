@@ -9141,7 +9141,7 @@
   },
   {
     "locale": "es",
-    "slug": "algunas-especificaciones-no-se-muestran-en-admin-pero-son-visibles-a-traves-de-la-api",
+    "slug": "algunas-especificaciones-no-se-muestran-en-el-panel-de-administracion-pero-se-pueden-consultar-a-traves-de-la-api",
     "internalReference": 418348
   },
   {
@@ -12026,11 +12026,6 @@
   },
   {
     "locale": "es",
-    "slug": "erro-categoria-xxx-no-encontrada-en-el-mapeo-del-nodo-de-navegacion-para-la-especificacion-del-departamento-de-sku-elija-una-categoria-global-mas-especifica-persistente",
-    "internalReference": 417639
-  },
-  {
-    "locale": "es",
     "slug": "erro-sqlerrm-no-tracking-brinox-b2w",
     "internalReference": 643287
   },
@@ -12058,6 +12053,11 @@
     "locale": "es",
     "slug": "error-meli-al-enviar-el-seguimiento-del-pedido",
     "internalReference": 764885
+  },
+  {
+    "locale": "es",
+    "slug": "error-persistente-no-se-ha-encontrado-la-categoria-xxx-en-la-asignacion-de-nodos-de-navegacion-para-la-especificacion-del-departamento-de-sku-elija-una-categoria-global-mas-especifica",
+    "internalReference": 417639
   },
   {
     "locale": "es",
@@ -15956,6 +15956,11 @@
   },
   {
     "locale": "es",
+    "slug": "al-subir-archivos-con-el-administrador-de-archivos-si-ya-existen-dos-o-mas-archivos-no-se-actualizan-todos-los-archivos-sino-solo-el-primero",
+    "internalReference": 418253
+  },
+  {
+    "locale": "es",
     "slug": "autocompletar-en-la-busqueda-no-siempre-se-actualiza-cuando-se-cambia-varias-veces",
     "internalReference": 793275
   },
@@ -16063,11 +16068,6 @@
     "locale": "es",
     "slug": "la-captura-de-solicitudes-no-registra-nuevos-eventos-cuando-se-utilizan-almacenes-heredados",
     "internalReference": 604254
-  },
-  {
-    "locale": "es",
-    "slug": "la-carga-de-archivos-con-dos-o-mas-archivos-existentes-no-actualiza-todos-los-archivos-solo-el-primero",
-    "internalReference": 418253
   },
   {
     "locale": "es",
@@ -18251,7 +18251,7 @@
   },
   {
     "locale": "pt",
-    "slug": "algumas-especificacoes-nao-sao-exibidas-no-admin-mas-sao-visiveis-via-api",
+    "slug": "algumas-especificacoes-nao-sao-exibidas-no-admin-mas-podem-ser-visualizadas-por-meio-da-api",
     "internalReference": 418348
   },
   {
@@ -20846,11 +20846,6 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-a-categoria-xxx-nao-foi-encontrada-no-mapeamento-do-no-de-navegacao-para-a-especificacao-de-departamento-da-sku-escolha-uma-categoria-global-mais-especifica-persistente",
-    "internalReference": 417639
-  },
-  {
-    "locale": "pt",
     "slug": "erro-ao-salvar-o-cartao-de-integracao-com-a-netshoes",
     "internalReference": 591921
   },
@@ -20883,6 +20878,11 @@
     "locale": "pt",
     "slug": "erro-na-interface-do-usuario-da-meli-promotions",
     "internalReference": 797143
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-persistente-categoria-xxx-nao-encontrada-no-mapeamento-de-nos-de-navegacao-para-a-especificacao-de-departamento-do-sku-escolha-uma-categoria-global-mais-especifica",
+    "internalReference": 417639
   },
   {
     "locale": "pt",
@@ -24781,6 +24781,11 @@
   },
   {
     "locale": "pt",
+    "slug": "ao-fazer-upload-no-gerenciador-de-arquivos-com-dois-arquivos-sendo-que-um-deles-ja-existe-nem-todos-os-arquivos-sao-atualizados-apenas-o-primeiro",
+    "internalReference": 418253
+  },
+  {
+    "locale": "pt",
     "slug": "arquivos-xml-que-retornam-erro-500",
     "internalReference": 268042
   },
@@ -24903,11 +24908,6 @@
     "locale": "pt",
     "slug": "o-upload-de-arquivo-nao-esta-funcionando-em-adminportalsitesdefaultcode",
     "internalReference": 897956
-  },
-  {
-    "locale": "pt",
-    "slug": "o-upload-do-file-manager-com-dois-ou-mais-arquivos-existentes-nao-atualiza-todos-os-arquivos-apenas-o-primeiro",
-    "internalReference": 418253
   },
   {
     "locale": "pt",
