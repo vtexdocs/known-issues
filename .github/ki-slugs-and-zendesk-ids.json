@@ -17166,7 +17166,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-control-deslizante-de-la-gama-de-precios-adopta-por-defecto-el-valor-minimo-despues-de-seleccionar-un-filtro",
+    "slug": "el-control-deslizante-de-rango-de-precios-vuelve-al-valor-minimo-por-defecto-tras-seleccionar-un-filtro",
     "internalReference": 843442
   },
   {
@@ -26486,7 +26486,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-controle-deslizante-de-faixa-de-preco-tem-como-padrao-o-valor-minimo-apos-a-selecao-de-um-filtro",
+    "slug": "o-controle-deslizante-de-faixa-de-preco-volta-ao-valor-minimo-apos-a-selecao-de-um-filtro",
     "internalReference": 843442
   },
   {
