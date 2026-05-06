@@ -1,9 +1,9 @@
 ---
-title: 'Meli Error de producto La secuencia no contiene elementos'
+title: 'Meli Error de producto: la secuencia no contiene elementos'
 slug: meli-error-de-producto-la-secuencia-no-contiene-elementos
 status: PUBLISHED
-createdAt: 2025-09-29T12:01:19.490Z
-updatedAt: 2025-09-29T12:01:19.490Z
+createdAt: 2022-10-14T15:33:55.000Z
+updatedAt: 2025-09-29T15:00:22.000Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,18 +18,13 @@ internalReference: 678062
 
 ## Sumario
 
+Hay algunos casos de productos en el puente que presentan el error «La secuencia no contiene elementos».
 
+En realidad, los productos con este error mostrarían otro error, probablemente debido a que falta una asignación.
 
-Hay pocos casos de productos en bridge con el error "La secuencia no contiene elementos".
+## Simulación
 
-Los productos con este error, en realidad muestran otro error, probablemente debido a la falta de mapeo.
-
-
-#### Simulación
-
-
-
-Dentro del menú puente de productos, si filtramos por error puede haber algunos casos con el error de abajo: "La secuencia no contiene elementos"
+En el menú del puente de productos, al filtrar por error, pueden aparecer algunos casos con el siguiente error: «La secuencia no contiene elementos»
 
 Admin - Integraciones - Productos
 
@@ -37,5 +32,5 @@ Admin - Integraciones - Productos
 
 ## Workaround
 
-
-Al reprocesar el producto, el error en el puente puede cambiar.
+provisional**
+Al volver a procesar el producto, el error en Bridge puede cambiar.
