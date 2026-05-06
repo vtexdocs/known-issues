@@ -13146,13 +13146,13 @@
   },
   {
     "locale": "es",
-    "slug": "fetchmore-aporta-valores-repetidos-entre-el-origen-y-el-destino",
-    "internalReference": 835396
+    "slug": "fetchmore-mantiene-el-estado-de-nextpage-y-se-bloquea-la-paginacion",
+    "internalReference": 560014
   },
   {
     "locale": "es",
-    "slug": "fetchmore-mantiene-el-estado-de-nextpage-y-se-bloquea-la-paginacion",
-    "internalReference": 560014
+    "slug": "fetchmore-muestra-valores-repetidos-entre-to-y-from",
+    "internalReference": 835396
   },
   {
     "locale": "es",
@@ -22331,11 +22331,6 @@
   },
   {
     "locale": "pt",
-    "slug": "fetchmore-traz-valores-repetidos-entre-o-to-e-o-from",
-    "internalReference": 835396
-  },
-  {
-    "locale": "pt",
     "slug": "filtra-por-especificacoes-de-sku-sem-considerar-a-disponibilidade-regionalizada",
     "internalReference": 1045111
   },
@@ -22398,6 +22393,11 @@
     "locale": "pt",
     "slug": "o-evento-productclick-nao-esta-sendo-acionado-na-barra-de-pesquisa",
     "internalReference": 742754
+  },
+  {
+    "locale": "pt",
+    "slug": "o-fetchmore-traz-valores-repetidos-entre-os-campos-de-e-para",
+    "internalReference": 835396
   },
   {
     "locale": "pt",
