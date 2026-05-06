@@ -14786,7 +14786,7 @@
   },
   {
     "locale": "es",
-    "slug": "callbackurl-siempre-devuelve-403-cuando-la-cuenta-del-propietario-del-conector-ha-sido-desactivada",
+    "slug": "callbackurl-siempre-devuelve-un-codigo-403-cuando-la-cuenta-del-propietario-del-conector-ha-sido-desactivada",
     "internalReference": 775235
   },
   {
@@ -23846,11 +23846,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-callbackurl-sempre-retorna-403-quando-a-conta-do-proprietario-do-conector-foi-desativada",
-    "internalReference": 775235
-  },
-  {
-    "locale": "pt",
     "slug": "a-captura-automatica-programada-nao-e-exibida",
     "internalReference": 1121837
   },
@@ -24643,6 +24638,11 @@
     "locale": "pt",
     "slug": "o-botao-giratorio-mycards-nao-esta-funcionando-corretamente",
     "internalReference": 780667
+  },
+  {
+    "locale": "pt",
+    "slug": "o-callbackurl-sempre-retorna-um-codigo-403-quando-a-conta-do-proprietario-do-conector-foi-desativada",
+    "internalReference": 775235
   },
   {
     "locale": "pt",
