@@ -2,8 +2,8 @@
 title: 'Algunos caracteres especiales no se eliminan de las búsquedas de productos ni de la indexación'
 slug: algunos-caracteres-especiales-no-se-eliminan-de-las-busquedas-de-productos-ni-de-la-indexacion
 status: PUBLISHED
-createdAt: 2021-06-16T12:59:54.000Z
-updatedAt: 2023-10-27T00:24:02.000Z
+createdAt: 2023-11-29T19:52:25.000Z
+updatedAt: 2023-11-29T20:26:33.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,7 +11,7 @@ tag: Intelligent Search
 slugEN: some-special-characters-are-not-stripped-from-product-searches-or-indexing
 locale: es
 kiStatus: Backlog
-internalReference: 382382
+internalReference: 944659
 ---
 
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
@@ -20,7 +20,7 @@ internalReference: 382382
 
 Algunos caracteres especiales no se eliminan por completo de las palabras clave buscadas ni de la indexación de productos, lo que puede afectar a las búsquedas en determinados casos.
 
-Los caracteres conocidos que provocan este problema son las comas (`,`), los puntos (`.`) y los dos puntos (`:`). El resto de caracteres suelen ignorarse y no generan problemas.
+Los caracteres conocidos que provocan esta situación son las comas (`,`), los puntos (`.`) y los dos puntos (`:`). El resto de caracteres suelen ignorarse y no generan problemas.
 
 Al registrar un producto, las comas y los puntos al final de las palabras se eliminan durante la indexación del producto, pero si se encuentran en medio de una palabra, se conservan. Las palabras clave se separan por espacios.
 
