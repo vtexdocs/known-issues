@@ -4496,6 +4496,11 @@
   },
   {
     "locale": "en",
+    "slug": "promotions-resulting-in-wrong-sortingfiltering-by-price-or-discount",
+    "internalReference": 888304
+  },
+  {
+    "locale": "en",
     "slug": "refactor-our-reset-password-flow-to-call-the-new-corresponding-mutation-in-the-graphql-app",
     "internalReference": 577825
   },
@@ -8626,6 +8631,11 @@
   },
   {
     "locale": "es",
+    "slug": "admin-modulo-de-datos-maestros-el-motor-de-busqueda-de-la-administracion-redirige-a-una-url-incorrecta",
+    "internalReference": 889045
+  },
+  {
+    "locale": "es",
     "slug": "admin-revisar-busqueda-global",
     "internalReference": 889993
   },
@@ -8648,11 +8658,6 @@
     "locale": "es",
     "slug": "magazine-luiza-seguimiento-error-la-fecha-de-entrega-al-cliente-debe-ser-posterior-a-la-fecha-de-envio-y-debe-ser-igual-o-anterior-a-la-fecha-de-hoy",
     "internalReference": 856984
-  },
-  {
-    "locale": "es",
-    "slug": "modulo-admin-datos-maestros-el-buscador-del-admin-los-redirige-a-una-url-erronea",
-    "internalReference": 889045
   },
   {
     "locale": "es",
@@ -13486,6 +13491,11 @@
   },
   {
     "locale": "es",
+    "slug": "ofertas-que-provocan-un-orden-o-filtrado-incorrecto-por-precio-o-descuento",
+    "internalReference": 888304
+  },
+  {
+    "locale": "es",
     "slug": "plp-no-se-carga-cuando-los-valores-de-las-facetas-son-palabras-reservadas",
     "internalReference": 1193294
   },
@@ -17716,6 +17726,11 @@
   },
   {
     "locale": "pt",
+    "slug": "admin-no-modulo-de-dados-mestres-o-mecanismo-de-busca-do-administrador-redireciona-os-usuarios-para-a-url-errada",
+    "internalReference": 889045
+  },
+  {
+    "locale": "pt",
     "slug": "admin-revisar-pesquisa-global",
     "internalReference": 889993
   },
@@ -17743,11 +17758,6 @@
     "locale": "pt",
     "slug": "magazine-luiza-tracking-erro-data-de-entrega-ao-cliente-deve-ser-maior-que-a-data-de-despacho-e-deve-ser-igual-ou-menor-a-data-de-hoje",
     "internalReference": 856984
-  },
-  {
-    "locale": "pt",
-    "slug": "modulo-admin-master-data-o-mecanismo-de-pesquisa-do-administrador-os-redireciona-para-o-url-errado",
-    "internalReference": 889045
   },
   {
     "locale": "pt",
@@ -22672,6 +22682,11 @@
   {
     "locale": "pt",
     "slug": "promocoes-que-resultam-em-classificacao-filtragem-incorreta-por-preco-ou",
+    "internalReference": 888304
+  },
+  {
+    "locale": "pt",
+    "slug": "promocoes-que-resultam-em-uma-classificacaofiltragem-incorreta-por-preco-ou-desconto",
     "internalReference": 888304
   },
   {
