@@ -12161,7 +12161,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-atributo-melishippingmode-no-se-actualiza-en-la-integracion-meli",
+    "slug": "el-atributo-melishippingmode-no-se-actualiza-en-la-integracion-de-meli",
     "internalReference": 873993
   },
   {
@@ -13651,7 +13651,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-espacio-en-la-propiedad-street-en-postal-code-json-afecta-a-la-visualizacion-del-campo-de-direccion-en-la-caja",
+    "slug": "el-espacio-en-el-campo-codigo-postal-del-json-afecta-a-la-visualizacion-del-campo-de-la-direccion-durante-el-proceso-de-pago",
     "internalReference": 872935
   },
   {
@@ -21651,7 +21651,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-atributo-melishippingmode-nao-esta-sendo-atualizado-na-integracao-meli",
+    "slug": "o-atributo-melishippingmode-nao-esta-sendo-atualizado-na-integracao-com-o-meli",
     "internalReference": 873993
   },
   {
@@ -22907,6 +22907,11 @@
   {
     "locale": "pt",
     "slug": "o-espaco-na-propriedade-da-rua-no-codigo-postal-json-afeta-a-exibicao-do-campo-de-endereco-no-checkout",
+    "internalReference": 872935
+  },
+  {
+    "locale": "pt",
+    "slug": "o-espaco-no-campo-endereco-do-json-do-codigo-postal-afeta-a-exibicao-do-campo-de-endereco-na-finalizacao-da-compra",
     "internalReference": 872935
   },
   {
