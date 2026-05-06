@@ -1,11 +1,9 @@
 ---
 title: 'Merchant not being able to open account for some clients in Customer Credit API'
-id: 4NGCingtQxzFV1gMbxFzT1
+slug: merchant-not-being-able-to-open-account-for-some-clients-in-customer-credit-api
 status: PUBLISHED
-createdAt: 2023-09-25T13:22:58.063Z
-updatedAt: 2023-09-25T13:22:58.651Z
-publishedAt: 2023-09-25T13:22:58.651Z
-firstPublishedAt: 2023-09-25T13:22:58.651Z
+createdAt: 2023-09-25T13:22:39.000Z
+updatedAt: 2023-09-25T13:22:39.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,7 +16,6 @@ internalReference: 906509
 
 ## Summary
 
-
 For some reason, when trying to open a new account for specific clients through the API, it returns the following error:
 
 {
@@ -29,23 +26,10 @@ For some reason, when trying to open a new account for specific clients through 
 
 In this scenario, the data of the client (Name, document, etc.) has never been used before on any other account.
 
-
-##
-
 ## Simulation
-
 
 This happens inconsistently, so it will only happen every other attempt.
 
-
-##
-
 ## Workaround
 
-
 Create the account via Admin UI.
-
-
-
-
-
