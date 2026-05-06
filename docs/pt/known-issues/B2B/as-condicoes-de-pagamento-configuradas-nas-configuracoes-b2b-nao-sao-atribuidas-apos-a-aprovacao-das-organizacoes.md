@@ -1,11 +1,9 @@
 ---
 title: 'As condições de pagamento configuradas nas configurações B2B não são atribuídas após a aprovação das organizações'
-id: 7pUMnYPWPHlhPzlWwTtWsL
+slug: as-condicoes-de-pagamento-configuradas-nas-configuracoes-b2b-nao-sao-atribuidas-apos-a-aprovacao-das-organizacoes
 status: PUBLISHED
-createdAt: 2024-02-26T22:29:03.516Z
-updatedAt: 2024-02-26T22:29:04.387Z
-publishedAt: 2024-02-26T22:29:04.387Z
-firstPublishedAt: 2024-02-26T22:29:04.387Z
+createdAt: 2024-02-26T22:28:50.000Z
+updatedAt: 2024-02-26T22:28:50.000Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,29 +14,20 @@ kiStatus: Backlog
 internalReference: 989507
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
-As condições de pagamento configuradas nas configurações de organizações B2B não são salvas nos detalhes da organização.
+As condições de pagamento configuradas nas Configurações de Organizações B2B não são salvas nos Detalhes da Organização.
 
 ## Simulação
 
-
-
-- Configure as condições de pagamento padrão nas configurações de organizações B2B;
-- Criar uma solicitação de organização;
-- Aprovar a solicitação da organização;
-- Verifique os detalhes da organização; ela não terá nenhuma condição de pagamento atribuída
+- Configure condições de pagamento padrão nas Configurações de Organizações B2B;
+- Crie uma Solicitação de Organização;
+- Aprove a Solicitação de Organização;
+- Verifique os Detalhes da Organização; ela não terá nenhuma condição de pagamento atribuída.
 
 ## Workaround
 
-
-
 - Atribua as condições de pagamento à organização por meio do administrador;
-- Crie um acionador para o esquema da entidade da organização.
-
-
-
-
+- Crie um gatilho para o esquema da entidade de organizações.
