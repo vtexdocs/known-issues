@@ -11336,7 +11336,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-usuario-no-muestra-el-formulario-para-editar-la-direccion-cuando-se-selecciona-anadir-primero-una-nueva-direccion",
+    "slug": "la-interfaz-de-usuario-no-muestra-el-formulario-para-editar-la-direccion-cuando-se-elige-anadir-primero-una-nueva-direccion",
     "internalReference": 747772
   },
   {
@@ -14986,7 +14986,7 @@
   },
   {
     "locale": "es",
-    "slug": "en-algunos-casos-checkoutui-no-muestra-el-importe-correcto-que-debe-abonarse-con-el-credito-de-cliente-para-1x-plazo",
+    "slug": "en-algunos-casos-checkoutui-no-muestra-el-importe-correcto-a-pagar-con-el-credito-del-cliente-para-una-cuota-unica",
     "internalReference": 748320
   },
   {
@@ -19801,6 +19801,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-interface-do-usuario-nao-exibe-o-formulario-para-editar-o-endereco-quando-se-opta-por-adicionar-um-novo-endereco-primeiro",
+    "internalReference": 747772
+  },
+  {
+    "locale": "pt",
     "slug": "a-interface-do-usuario-nao-mostra-a-selecao-da-janela-de-entrega-para-pontos-de-retirada-quando-um-item-de-um-vendedor-esta-entre-itens-para-retira",
     "internalReference": 954108
   },
@@ -19808,11 +19813,6 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-nao-mostra-a-selecao-de-janelas-para-pontos-de-retirada-quando-um-item-de-um-vendedor-esta-entre-itens-para-retirada-de-outr",
     "internalReference": 1077568
-  },
-  {
-    "locale": "pt",
-    "slug": "a-interface-do-usuario-nao-mostra-o-formulario-para-editar-o-endereco-ao-selecionar-primeiro-a-adicao-de-um-novo-endereco",
-    "internalReference": 747772
   },
   {
     "locale": "pt",
@@ -24211,7 +24211,7 @@
   },
   {
     "locale": "pt",
-    "slug": "em-alguns-casos-a-checkoutui-nao-mostra-o-valor-correto-a-ser-pago-com-o-credito-do-cliente-para-1x-a-prestacao",
+    "slug": "em-alguns-casos-o-checkoutui-nao-exibe-o-valor-correto-a-ser-pago-com-o-credito-do-cliente-para-a-parcela-1",
     "internalReference": 748320
   },
   {
