@@ -10611,11 +10611,6 @@
   },
   {
     "locale": "es",
-    "slug": "boton-para-ver-mas-puntos-de-recogida-que-no-se-presentan-en-la-lista",
-    "internalReference": 685650
-  },
-  {
-    "locale": "es",
     "slug": "bucle-en-la-ventana-emergente-de-autenticacion-cuando-la-primera-condicion-de-pago-requiere-autenticacion",
     "internalReference": 844192
   },
@@ -10798,6 +10793,11 @@
     "locale": "es",
     "slug": "el-boton-ir-al-pago-no-funciona-en-la-division-de-entrega-cuando-se-cambia-entre-las-opciones-de-entrega-y-recogida",
     "internalReference": 756587
+  },
+  {
+    "locale": "es",
+    "slug": "el-boton-para-ver-mas-puntos-de-recogida-no-aparece-en-la-lista",
+    "internalReference": 685650
   },
   {
     "locale": "es",
@@ -19961,7 +19961,7 @@
   },
   {
     "locale": "pt",
-    "slug": "botao-para-ver-mais-pontos-de-coleta-que-nao-estao-sendo-apresentados-na-lista",
+    "slug": "botao-para-ver-mais-pontos-de-retirada-que-nao-aparecem-na-lista",
     "internalReference": 685650
   },
   {
