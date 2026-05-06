@@ -9711,7 +9711,7 @@
   },
   {
     "locale": "es",
-    "slug": "incoherencia-al-buscar-facetas-que-contienen-resultados-con-valores-de-especificacion-grandes",
+    "slug": "incoherencia-al-buscar-facetas-que-contengan-resultados-con-valores-de-especificacion-elevados",
     "internalReference": 824198
   },
   {
@@ -19071,7 +19071,7 @@
   },
   {
     "locale": "pt",
-    "slug": "inconsistencia-na-pesquisa-de-facetas-que-contem-resultados-com-valores-de-especificacao-grandes",
+    "slug": "inconsistencia-na-pesquisa-por-facetas-que-contem-resultados-com-valores-de-especificacao-elevados",
     "internalReference": 824198
   },
   {
