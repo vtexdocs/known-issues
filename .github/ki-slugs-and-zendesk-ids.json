@@ -9506,6 +9506,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-mensaje-de-error-en-la-gestion-de-ofertas-no-se-actualiza-despues-de-vincular-el-sku-en-las-integraciones-vtexvtex",
+    "internalReference": 712956
+  },
+  {
+    "locale": "es",
     "slug": "el-metodo-del-servicio-web-stockkeepingunitinsertupdate-permite-insertar-un-refid-ya-existente",
     "internalReference": 419460
   },
@@ -10283,11 +10288,6 @@
     "locale": "es",
     "slug": "mapa-del-sitio-de-las-subcuentas-que-incluye-productos-de-otras-subcuentas-y-de-la-cuenta-principal",
     "internalReference": 617974
-  },
-  {
-    "locale": "es",
-    "slug": "mensaje-de-error-en-la-gestion-de-ofertas-no-se-actualiza-despues-de-sku-esta-vinculado-en-vtexvtex-integraciones",
-    "internalReference": 712956
   },
   {
     "locale": "es",
@@ -18338,6 +18338,11 @@
     "locale": "pt",
     "slug": "a-logica-de-arredondamento-do-preco-de-custo-diverge-na-api-de-precos-calculados",
     "internalReference": 842336
+  },
+  {
+    "locale": "pt",
+    "slug": "a-mensagem-de-erro-na-gestao-de-ofertas-nao-e-atualizada-apos-a-vinculacao-do-sku-nas-integracoes-vtexvtex",
+    "internalReference": 712956
   },
   {
     "locale": "pt",
