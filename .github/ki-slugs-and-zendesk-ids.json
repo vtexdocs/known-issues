@@ -10226,7 +10226,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-traducciones-del-catalogo-no-se-reflejan-en-el-frontend",
+    "slug": "las-traducciones-del-catalogo-no-se-muestran-en-la-interfaz-de-usuario",
     "internalReference": 861892
   },
   {
@@ -18766,7 +18766,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-traducoes-do-catalogo-nao-sao-refletidas-no-frontend",
+    "slug": "as-traducoes-do-catalogo-nao-aparecem-na-interface-do-usuario",
     "internalReference": 861892
   },
   {
