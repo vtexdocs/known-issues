@@ -8636,7 +8636,7 @@
   },
   {
     "locale": "es",
-    "slug": "admin-revisar-busqueda-global",
+    "slug": "admin-revisar-la-busqueda-global",
     "internalReference": 889993
   },
   {
@@ -10316,7 +10316,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-productos-con-variaciones-de-sku-aprobadas-en-skus-recibidos-se-estan-creando-con-skus-duplicados-en-el-catalogo",
+    "slug": "los-productos-con-variaciones-de-sku-aprobadas-en-sku-recibidos-se-estan-creando-con-sku-duplicados-en-el-catalogo",
     "internalReference": 889676
   },
   {
@@ -19491,6 +19491,11 @@
   },
   {
     "locale": "pt",
+    "slug": "os-produtos-com-variacoes-de-sku-aprovadas-em-skus-recebidos-estao-sendo-criados-com-skus-duplicados-no-catalogo",
+    "internalReference": 889676
+  },
+  {
+    "locale": "pt",
     "slug": "os-produtos-nao-sao-atualizados-depois-que-as-politicas-comerciais-sao-criadasatualizadas",
     "internalReference": 1286569
   },
@@ -19548,11 +19553,6 @@
     "locale": "pt",
     "slug": "produto-retornando-como-indisponivel-mesmo-com-estoque-em-um-vendedor-whitelabel",
     "internalReference": 404499
-  },
-  {
-    "locale": "pt",
-    "slug": "produtos-com-variacoes-de-sku-aprovadas-em-skus-recebidos-estao-sendo-criados-com-skus-duplicados-no-catalogo",
-    "internalReference": 889676
   },
   {
     "locale": "pt",
