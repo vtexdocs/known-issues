@@ -12176,7 +12176,7 @@
   },
   {
     "locale": "es",
-    "slug": "facebook-revisar-el-comportamiento-de-la-ruta-de-carga-de-skus-en-facebook",
+    "slug": "facebook-revisar-el-comportamiento-de-la-ruta-de-carga-de-los-sku-en-facebook",
     "internalReference": 660874
   },
   {
@@ -21166,13 +21166,13 @@
   },
   {
     "locale": "pt",
-    "slug": "facebook-hoje-o-facebook-analisa-o-sellingprice-e-o-listprice-para-atualizar-o-preco-no-catalogo-do-facebook",
-    "internalReference": 924411
+    "slug": "facebook-analisar-o-comportamento-da-rota-de-carregamento-de-skus-no-facebook",
+    "internalReference": 660874
   },
   {
     "locale": "pt",
-    "slug": "facebook-rever-o-comportamento-da-rota-de-carga-no-facebook",
-    "internalReference": 660874
+    "slug": "facebook-hoje-o-facebook-analisa-o-sellingprice-e-o-listprice-para-atualizar-o-preco-no-catalogo-do-facebook",
+    "internalReference": 924411
   },
   {
     "locale": "pt",
