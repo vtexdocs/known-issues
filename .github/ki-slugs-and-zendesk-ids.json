@@ -11476,7 +11476,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-solicitud-del-centro-de-impuestos-no-suma-los-descuentos-cuando-se-aplica-el-precio-manual",
+    "slug": "la-solicitud-del-centro-fiscal-no-suma-los-descuentos-cuando-se-aplica-un-precio-manual",
     "internalReference": 932667
   },
   {
@@ -20061,13 +20061,13 @@
   },
   {
     "locale": "pt",
-    "slug": "a-solicitacao-do-hub-de-impostos-nao-soma-os-descontos-quando-o-preco-manual-e-aplicado",
-    "internalReference": 932667
+    "slug": "a-solicitacao-do-hub-fiscal-do-marketplace-nao-considera-alguns-tipos-de-desconto",
+    "internalReference": 945580
   },
   {
     "locale": "pt",
-    "slug": "a-solicitacao-do-hub-fiscal-do-marketplace-nao-considera-alguns-tipos-de-desconto",
-    "internalReference": 945580
+    "slug": "a-solicitacao-no-tax-hub-nao-soma-os-descontos-quando-e-aplicado-um-preco-manual",
+    "internalReference": 932667
   },
   {
     "locale": "pt",
