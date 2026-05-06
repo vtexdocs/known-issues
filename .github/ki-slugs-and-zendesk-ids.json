@@ -12506,11 +12506,6 @@
   },
   {
     "locale": "es",
-    "slug": "meli-valor-incorrecto-cuando-el-cliente-tiene-cupon-en-meli",
-    "internalReference": 969297
-  },
-  {
-    "locale": "es",
     "slug": "mensajes-automaticos-de-meli-en-mercado-livre-mensajes",
     "internalReference": 615164
   },
@@ -12748,6 +12743,11 @@
     "locale": "es",
     "slug": "un-solo-sku-con-varios-ean-en-el-centro-comercial",
     "internalReference": 520345
+  },
+  {
+    "locale": "es",
+    "slug": "valor-incorrecto-de-meli-cuando-el-cliente-tiene-un-cupon-en-meli",
+    "internalReference": 969297
   },
   {
     "locale": "es",
@@ -13066,11 +13066,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-autocompletado-de-busqueda-proporciona-una-url-obsoleta-despues-de-navegar-por-las-sugerencias",
-    "internalReference": 968604
-  },
-  {
-    "locale": "es",
     "slug": "el-banner-eliminado-puede-seguir-apareciendo-en-plp",
     "internalReference": 1295586
   },
@@ -13288,6 +13283,11 @@
     "locale": "es",
     "slug": "la-emisora-no-notifica-todos-los-cambios-de-stock-al-modulo-de-busqueda-inteligente",
     "internalReference": 683345
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-de-autocompletado-de-la-busqueda-ofrece-una-url-obsoleta-tras-navegar-por-las-sugerencias",
+    "internalReference": 968604
   },
   {
     "locale": "es",
@@ -21916,7 +21916,7 @@
   },
   {
     "locale": "pt",
-    "slug": "valor-incorreto-da-meli-quando-o-cliente-tem-cupom-na-meli",
+    "slug": "valor-incorreto-no-meli-quando-o-cliente-possui-um-cupom-no-meli",
     "internalReference": 969297
   },
   {
@@ -22203,6 +22203,11 @@
     "locale": "pt",
     "slug": "a-faixa-de-preco-na-api-de-facetas-nao-corresponde-aos-resultados-da-pesquisa",
     "internalReference": 997121
+  },
+  {
+    "locale": "pt",
+    "slug": "a-funcao-de-preenchimento-automatico-da-pesquisa-exibe-uma-url-desatualizada-apos-a-navegacao-pelas-sugestoes",
+    "internalReference": 968604
   },
   {
     "locale": "pt",
@@ -22548,11 +22553,6 @@
     "locale": "pt",
     "slug": "o-plp-nao-e-carregado-quando-os-valores-da-faceta-sao-palavras-reservadas",
     "internalReference": 1193294
-  },
-  {
-    "locale": "pt",
-    "slug": "o-preenchimento-automatico-da-pesquisa-fornece-um-url-desatualizado-apos-a-navegacao-pelas-sugestoes",
-    "internalReference": 968604
   },
   {
     "locale": "pt",
