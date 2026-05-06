@@ -9421,7 +9421,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-campo-metatagdescription-no-se-puede-eliminar-a-traves-de-admin",
+    "slug": "el-campo-metatagdescription-no-se-puede-eliminar-a-traves-del-panel-de-administracion",
     "internalReference": 979691
   },
   {
@@ -13086,7 +13086,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-filtro-de-precios-se-aplica-sobre-el-precio-al-contado-en-lugar-del-precio-normal",
+    "slug": "el-filtro-de-precios-se-aplica-al-precio-al-contado-en-lugar-de-al-precio-habitual",
     "internalReference": 982664
   },
   {
@@ -13098,6 +13098,11 @@
     "locale": "es",
     "slug": "el-formulario-de-busqueda-inteligente-de-sinonimos-puede-congelar-el-campo-de-tipo-de-sinonimo-despues-de-crear-un-sinonimo-unidireccional",
     "internalReference": 1215521
+  },
+  {
+    "locale": "es",
+    "slug": "el-informe-de-analisis-de-busquedas-muestra-las-diferencias-entre-las-versiones-con-y-sin-metricas-de-embudo",
+    "internalReference": 980297
   },
   {
     "locale": "es",
@@ -13401,11 +13406,6 @@
   },
   {
     "locale": "es",
-    "slug": "los-analisis-de-busqueda-informan-de-divergencias-entre-versiones-con-o-sin-metricas-de-embudo",
-    "internalReference": 980297
-  },
-  {
-    "locale": "es",
     "slug": "los-banners-de-busqueda-no-borran-las-reglas-de-las-reglas-de-activacion",
     "internalReference": 1142901
   },
@@ -13546,7 +13546,7 @@
   },
   {
     "locale": "es",
-    "slug": "problema-de-desplazamiento-al-hacer-zoom-tras-el-renderizado-de-la-pagina-de-busqueda",
+    "slug": "problema-de-desplazamiento-al-ampliar-la-imagen-tras-la-visualizacion-de-la-pagina-de-busqueda",
     "internalReference": 979464
   },
   {
@@ -17366,6 +17366,11 @@
   },
   {
     "locale": "es",
+    "slug": "en-ocasiones-las-etiquetas-no-aparecen-en-la-vista-plp-con-formato-de-lista",
+    "internalReference": 982200
+  },
+  {
+    "locale": "es",
     "slug": "enlaces-de-imagen-incompletos-en-la-optimizacion-critica-de-css",
     "internalReference": 1110160
   },
@@ -17503,11 +17508,6 @@
     "locale": "es",
     "slug": "las-cabeceras-personalizadas-no-se-aplican-a-todas-las-paginas",
     "internalReference": 1170580
-  },
-  {
-    "locale": "es",
-    "slug": "las-etiquetas-a-veces-no-aparecen-en-la-vista-plp-con-formato-de-lista",
-    "internalReference": 982200
   },
   {
     "locale": "es",
@@ -19331,7 +19331,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-campo-metatagdescription-nao-pode-ser-excluido-por-meio-do-admin",
+    "slug": "o-campo-metatagdescription-nao-pode-ser-excluido-pelo-admin",
     "internalReference": 979691
   },
   {
@@ -22301,11 +22301,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-analises-de-pesquisa-relatam-divergencias-entre-versoes-comsem-metricas-de-funil",
-    "internalReference": 980297
-  },
-  {
-    "locale": "pt",
     "slug": "as-configuracoes-de-idioma-do-intelligent-search-nao-estao-sincronizadas-com-as-configuracoes-da-loja",
     "internalReference": 990343
   },
@@ -22566,6 +22561,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-relatorio-de-analise-de-pesquisa-aponta-divergencias-entre-as-versoes-com-e-sem-metricas-de-funil",
+    "internalReference": 980297
+  },
+  {
+    "locale": "pt",
     "slug": "o-resultado-da-pesquisa-pode-nao-exibir-a-faceta-sellername-em-lojas-multilingues-em-locais-adicionais",
     "internalReference": 1186137
   },
@@ -22691,7 +22691,7 @@
   },
   {
     "locale": "pt",
-    "slug": "problema-de-rolagem-ao-aplicar-zoom-apos-a-renderizacao-da-pagina-de-pesquisa",
+    "slug": "problema-de-rolagem-ao-ampliar-a-imagem-apos-a-renderizacao-da-pagina-de-pesquisa",
     "internalReference": 979464
   },
   {
@@ -26476,7 +26476,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-vezes-as-tags-nao-aparecem-na-visualizacao-plp-do-formato-de-lista",
+    "slug": "as-vezes-as-tags-nao-aparecem-na-visualizacao-plp-no-formato-de-lista",
     "internalReference": 982200
   },
   {
