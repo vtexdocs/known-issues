@@ -15396,6 +15396,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-ruta-de-transaccion-del-sistema-actual-de-tarjetas-regalo-devuelve-un-codigo-de-estado-200-ok-al-anadir-o-retirar-saldo-incluso-si-la-tarjeta-esta-inactiva",
+    "internalReference": 795997
+  },
+  {
+    "locale": "es",
     "slug": "la-ruta-search-del-sistema-de-tarjetas-regalo-no-devuelve-vales-de-forma-intermitente-cuando-el-valor-del-encabezado-restrange-es-inferior-a-10",
     "internalReference": 770337
   },
@@ -23953,6 +23958,11 @@
     "locale": "pt",
     "slug": "a-pagina-de-redirecionamento-nao-abre-para-pagamentos-com-cartao-de-credito-ao-usar-o-modo-de-defesagatilho-suspeito",
     "internalReference": 887866
+  },
+  {
+    "locale": "pt",
+    "slug": "a-rota-de-transacao-do-sistema-atual-de-cartoespresente-retorna-um-codigo-de-status-200-ok-ao-adicionar-ou-remover-creditos-mesmo-que-o-cartao-esteja-inativo",
+    "internalReference": 795997
   },
   {
     "locale": "pt",
