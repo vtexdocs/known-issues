@@ -10151,7 +10151,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-marcas-con-caracteres-especiales-no-se-pueden-buscar-en-el-administrador-de-marcas",
+    "slug": "las-marcas-que-contienen-caracteres-especiales-no-se-pueden-buscar-en-el-panel-de-administracion-de-marcas",
     "internalReference": 503496
   },
   {
@@ -18461,11 +18461,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-marcas-com-alguns-caracteres-especiais-nao-podem-ser-pesquisadas-no-administrador-da-marca",
-    "internalReference": 503496
-  },
-  {
-    "locale": "pt",
     "slug": "as-notificacoes-de-inventario-para-o-indexador-sao-armazenadas-em-cache",
     "internalReference": 914545
   },
@@ -18913,6 +18908,11 @@
     "locale": "pt",
     "slug": "mapa-do-site-das-subcontas-incluindo-produtos-de-outras-subcontas-e-da-conta-principal",
     "internalReference": 617974
+  },
+  {
+    "locale": "pt",
+    "slug": "marcas-com-caracteres-especiais-nao-podem-ser-pesquisadas-no-painel-de-administracao-de-marcas",
+    "internalReference": 503496
   },
   {
     "locale": "pt",
