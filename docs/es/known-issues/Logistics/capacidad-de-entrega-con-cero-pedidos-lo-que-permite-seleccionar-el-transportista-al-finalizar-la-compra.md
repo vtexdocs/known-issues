@@ -2,8 +2,8 @@
 title: 'Capacidad de entrega con (cero) pedidos, lo que permite seleccionar el transportista al finalizar la compra'
 slug: capacidad-de-entrega-con-cero-pedidos-lo-que-permite-seleccionar-el-transportista-al-finalizar-la-compra
 status: PUBLISHED
-createdAt: 2026-04-28T14:04:13.053Z
-updatedAt: 2026-04-28T14:04:13.053Z
+createdAt: 2021-11-18T22:15:26.000Z
+updatedAt: 2022-05-24T21:01:12.000Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,14 +18,14 @@ internalReference: 471612
 
 ## Sumario
 
-Existe una posible configuración relacionada con la capacidad de entrega (pedidos o SKU).
+Existe una posible configuración relacionada con la capacidad de entrega utilizando (pedidos o SKU).
 
-Cuando la configuración es (cero) pedidos para el intervalo de tiempo, es posible crear un pedido y programarlo para un intervalo no deseado.
+Cuando la configuración es (cero) pedidos para el intervalo de tiempo, es posible crear un pedido y programarlo para un intervalo de tiempo no deseado.
 
 ## Simulación
 
-Configure las condiciones de la política de envíos con (CERO PEDIDOS) como capacidad para cualquier día de la semana.
-El proceso de pago permite crear pedidos programados para esa franja horaria, durante la franja horaria creada como (cero pedidos)
+Configura las condiciones de la política de envíos con (CERO PEDIDOS) como capacidad para cualquier día de la semana.
+El proceso de pago permite crear pedidos programados para esa franja horaria, durante la franja creada como (cero pedidos).
 
 ## Workaround
 
