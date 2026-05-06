@@ -7761,6 +7761,11 @@
   },
   {
     "locale": "en",
+    "slug": "promotions-with-minimum-value-and-gift-conditions-not-displaying-gift-in-cart",
+    "internalReference": 445569
+  },
+  {
+    "locale": "en",
     "slug": "put-price-overwrites-kit-price-logic",
     "internalReference": 404486
   },
@@ -9956,7 +9961,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-limpieza-completa-del-catalogo-no-desencadena-una-nueva-indexacion-de-la-busqueda-inteligente",
+    "slug": "la-limpieza-completa-del-catalogo-no-activa-una-nueva-indexacion-de-la-busqueda-inteligente",
     "internalReference": 449763
   },
   {
@@ -10896,6 +10901,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-proceso-de-pago-no-deja-claro-si-hay-discrepancias-entre-el-cliente-identificado-en-el-carrito-y-el-usuario-que-ha-iniciado-sesion-en-la-tienda",
+    "internalReference": 442267
+  },
+  {
+    "locale": "es",
     "slug": "el-proceso-de-pago-no-permite-eliminar-un-articulo-de-regalo-cuando-este-no-esta-disponible-tras-seleccionar-un-punto-de-recogida",
     "internalReference": 363885
   },
@@ -11078,11 +11088,6 @@
     "locale": "es",
     "slug": "la-compra-no-se-puede-finalizar-y-devuelve-el-error-el-campo-del-nombre-del-receptor-no-es-valido",
     "internalReference": 313945
-  },
-  {
-    "locale": "es",
-    "slug": "la-compra-no-se-puede-finalizar-y-se-queda-atascada-en-el-tipo-de-carga-ha-cambiado",
-    "internalReference": 449341
   },
   {
     "locale": "es",
@@ -11593,6 +11598,11 @@
     "locale": "es",
     "slug": "no-se-informa-al-usuario-cuando-algo-va-mal",
     "internalReference": 339072
+  },
+  {
+    "locale": "es",
+    "slug": "no-se-puede-completar-la-compra-y-se-queda-bloqueada-en-el-tipo-de-envio-ha-cambiado",
+    "internalReference": 449341
   },
   {
     "locale": "es",
@@ -16641,6 +16651,11 @@
   },
   {
     "locale": "es",
+    "slug": "promociones-con-un-valor-minimo-y-condiciones-de-regalo-en-las-que-el-regalo-no-aparece-en-el-carrito",
+    "internalReference": 445569
+  },
+  {
+    "locale": "es",
     "slug": "registros-de-precios-de-auditoria-que-muestran-informacion-desconocida",
     "internalReference": 856420
   },
@@ -18161,6 +18176,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-limpeza-completa-do-catalogo-nao-aciona-uma-nova-indexacao-da-pesquisa-inteligente",
+    "internalReference": 449763
+  },
+  {
+    "locale": "pt",
     "slug": "a-lista-de-anexos-na-interface-do-usuario-da-sku-pode-levar-a-tempos-limite",
     "internalReference": 1133468
   },
@@ -19036,11 +19056,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-preenchimento-do-catalogo-nao-aciona-uma-nova-indexacao-de-busca-inteligente",
-    "internalReference": 449763
-  },
-  {
-    "locale": "pt",
     "slug": "o-produto-aparece-como-indisponivel-mesmo-havendo-estoque-em-um-vendedor-de-marca-branca",
     "internalReference": 404499
   },
@@ -19371,7 +19386,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-compra-nao-pode-ser-concluida-e-esta-travada-em-o-tipo-de-frete-foi-alterado",
+    "slug": "a-compra-nao-pode-ser-concluida-e-fica-parada-na-mensagem-o-tipo-de-frete-foi-alterado",
     "internalReference": 449341
   },
   {
@@ -20333,6 +20348,11 @@
     "locale": "pt",
     "slug": "o-primeiro-endereco-da-lista-de-enderecos-esta-incompleto-e-nao-preenche-os-dados-do-perfilenvio-no-momento-do-checkout",
     "internalReference": 366975
+  },
+  {
+    "locale": "pt",
+    "slug": "o-processo-de-finalizacao-da-compra-nao-deixa-claro-se-ha-divergencias-entre-o-cliente-identificado-no-carrinho-e-o-usuario-conectado-a-loja",
+    "internalReference": 442267
   },
   {
     "locale": "pt",
@@ -25432,6 +25452,11 @@
   {
     "locale": "pt",
     "slug": "promocao-regular-com-uso-de-filtros-de-valor-no-carrinho",
+    "internalReference": 445569
+  },
+  {
+    "locale": "pt",
+    "slug": "promocoes-com-valor-minimo-e-condicoes-de-brinde-que-nao-exibem-o-brinde-no-carrinho",
     "internalReference": 445569
   },
   {
