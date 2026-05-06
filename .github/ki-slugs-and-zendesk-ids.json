@@ -13481,7 +13481,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-sinonimos-importan-presentar-el-exito-incluso-para-las-acciones-fallidas",
+    "slug": "los-sinonimos-transmiten-una-sensacion-de-exito-incluso-en-el-caso-de-acciones-fallidas",
     "internalReference": 984557
   },
   {
@@ -22766,13 +22766,13 @@
   },
   {
     "locale": "pt",
-    "slug": "sinonimos-importam-apresentar-sucesso-mesmo-para-acoes-fracassadas",
-    "internalReference": 984557
+    "slug": "sinonimos-nao-exibidos-na-pesquisa-explicada",
+    "internalReference": 774307
   },
   {
     "locale": "pt",
-    "slug": "sinonimos-nao-exibidos-na-pesquisa-explicada",
-    "internalReference": 774307
+    "slug": "sinonimos-que-sugerem-sucesso-mesmo-em-acoes-malsucedidas",
+    "internalReference": 984557
   },
   {
     "locale": "pt",
