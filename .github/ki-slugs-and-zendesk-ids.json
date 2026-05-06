@@ -13771,11 +13771,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-politica-de-envios-bloqueada-en-estado-de-tramitacion-se-muestra-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica",
-    "internalReference": 925914
-  },
-  {
-    "locale": "es",
     "slug": "la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio",
     "internalReference": 1268196
   },
@@ -13863,6 +13858,11 @@
     "locale": "es",
     "slug": "un-error-en-el-identificador-del-espacio-de-almacen-provoca-que-fallen-las-solicitudes-logisticas-internas",
     "internalReference": 654370
+  },
+  {
+    "locale": "es",
+    "slug": "una-politica-de-envios-que-se-encuentra-en-estado-de-procesamiento-aparece-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica",
+    "internalReference": 925914
   },
   {
     "locale": "es",
@@ -22806,7 +22806,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-politica-de-remessa-presa-no-status-de-processamento-e-exibida-como-ativa-na-nova-ui-de-logistica",
+    "slug": "a-politica-de-envio-que-esta-no-status-em-processamento-e-exibida-como-ativa-na-nova-interface-de-logistica",
     "internalReference": 925914
   },
   {
