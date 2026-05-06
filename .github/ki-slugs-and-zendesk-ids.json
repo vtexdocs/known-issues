@@ -15266,11 +15266,6 @@
   },
   {
     "locale": "es",
-    "slug": "incoherencia-en-el-informe-de-pedido-cuando-el-campo-tid-esta-duplicado-en-el-campo-connectorresponses-de-la-api-de-detalles-de-pago-get",
-    "internalReference": 895664
-  },
-  {
-    "locale": "es",
     "slug": "incoherencia-en-la-seleccion-de-las-condiciones-comerciales",
     "internalReference": 1210072
   },
@@ -15303,6 +15298,11 @@
     "locale": "es",
     "slug": "incongruencia-en-las-fechas-de-vencimiento-del-boleto-bancario",
     "internalReference": 489460
+  },
+  {
+    "locale": "es",
+    "slug": "inconsistencia-en-el-orden-de-los-registros-cuando-el-campo-tid-aparece-duplicado-en-el-campo-connectorresponses-de-la-api-get-de-detalles-de-pago",
+    "internalReference": 895664
   },
   {
     "locale": "es",
@@ -24611,7 +24611,7 @@
   },
   {
     "locale": "pt",
-    "slug": "inconsistencia-no-relatorio-de-pedidos-quando-o-campo-tid-e-duplicado-no-campo-connectorresponses-da-api-de-detalhes-de-pagamento-get",
+    "slug": "inconsistencia-no-relatorio-de-pedidos-quando-o-campo-tid-aparece-duplicado-no-campo-connectorresponses-da-api-get-de-detalhes-de-pagamento",
     "internalReference": 895664
   },
   {
