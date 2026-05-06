@@ -1,11 +1,9 @@
 ---
 title: 'No se envía el correo electrónico de confirmación del pedido'
-id: 4RelMFApLldLtf0GxhYzdt
+slug: no-se-envia-el-correo-electronico-de-confirmacion-del-pedido
 status: PUBLISHED
-createdAt: 2023-03-10T22:07:59.908Z
-updatedAt: 2023-08-28T14:53:51.322Z
-publishedAt: 2023-08-28T14:53:51.322Z
-firstPublishedAt: 2023-03-10T22:08:01.026Z
+createdAt: 2021-09-01T18:28:19.000Z
+updatedAt: 2023-08-28T14:53:33.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,27 +14,16 @@ kiStatus: Fixed
 internalReference: 423628
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-Checkout no mapea todos los flujos donde el "GatewayCallback" debe disparar el evento "Raised OrderPlaced", por lo que los flujos no mapeados son aptos para no disparar este evento como se espera, afectando directamente al email de confirmación de pedido a enviar.
-
-
-##
+El proceso de pago no asigna todos los flujos en los que «GatewayCallback» debe activar el evento «Raised OrderPlaced», por lo que es probable que los flujos no asignados no activen este evento como se esperaba, lo que afecta directamente al envío del correo electrónico de confirmación del pedido.
 
 ## Simulación
 
-
-No hay forma de simular el escenario.
-
-
+No hay forma de simular este escenario.
 
 ## Workaround
 
-
 N/A
-
-
-
