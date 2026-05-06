@@ -11661,6 +11661,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-se-puede-crear-el-pedido-porque-la-tarjeta-de-credito-no-es-valida",
+    "internalReference": 607742
+  },
+  {
+    "locale": "es",
     "slug": "no-se-puede-crear-un-pedido-cuando-el-vendedor-tiene-un-codigo-de-pais-diferente",
     "internalReference": 763955
   },
@@ -20208,6 +20213,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-adicionar-um-item-com-acessorio-ao-carrinho-se-ja-houver-outra-unidade-desse-item-sem-acessorio-no-carrinho",
     "internalReference": 412041
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-criar-o-pedido-devido-a-um-cartao-de-credito-invalido",
+    "internalReference": 607742
   },
   {
     "locale": "pt",
