@@ -11586,6 +11586,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-precios-estan-limitados-al-valor-maximo-de-int32-en-la-api-de-modificacion-de-precios",
+    "internalReference": 566142
+  },
+  {
+    "locale": "es",
     "slug": "los-puntos-de-recogida-que-comienzan-con-el-mismo-patron-de-identificacion-muestran-el-producto-disponible",
     "internalReference": 964036
   },
@@ -11738,11 +11743,6 @@
     "locale": "es",
     "slug": "precio-intercambiado-si-el-mismo-articulo-esta-dos-veces-en-la-cesta-y-uno-es-de-opciones-de-montaje",
     "internalReference": 1070336
-  },
-  {
-    "locale": "es",
-    "slug": "precios-restringidos-al-valor-maximo-int32-en-la-api-de-cambio-de-precio",
-    "internalReference": 566142
   },
   {
     "locale": "es",
@@ -13218,6 +13218,11 @@
     "locale": "es",
     "slug": "las-normas-de-merchandising-visual-se-extienden-erroneamente-a-contextos-mas-amplios",
     "internalReference": 1098688
+  },
+  {
+    "locale": "es",
+    "slug": "las-politicas-de-regionalizacion-o-comerciales-no-se-tienen-en-cuenta-al-filtrar-u-ordenar-los-articulos-por-precio-o-descuento",
+    "internalReference": 571101
   },
   {
     "locale": "es",
@@ -17186,7 +17191,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-aplicacion-mensajes-tarda-demasiado-en-devolver-la-informacion",
+    "slug": "la-aplicacion-mensajes-tarda-demasiado-en-mostrar-la-informacion",
     "internalReference": 567305
   },
   {
@@ -20681,7 +20686,7 @@
   },
   {
     "locale": "pt",
-    "slug": "precos-restritos-ao-valor-maximo-int32-na-api-change-price",
+    "slug": "precos-limitados-ao-valor-maximo-de-int32-na-api-de-alteracao-de-preco",
     "internalReference": 566142
   },
   {
@@ -21898,6 +21903,11 @@
     "locale": "pt",
     "slug": "as-facetas-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-depois-de-clicar-em-mostrar-mais",
     "internalReference": 1341077
+  },
+  {
+    "locale": "pt",
+    "slug": "as-politicas-de-regionalizacao-ou-comerciais-nao-sao-levadas-em-conta-ao-filtrar-ou-classificar-itens-por-preco-ou-desconto",
+    "internalReference": 571101
   },
   {
     "locale": "pt",
@@ -26051,13 +26061,13 @@
   },
   {
     "locale": "pt",
-    "slug": "o-aplicativo-de-mensagens-esta-demorando-muito-para-retornar-as-informacoes",
-    "internalReference": 567305
+    "slug": "o-aplicativo-de-televendas-nao-esta-funcionando-corretamente-com-requiresauthenticationtoloadprofile",
+    "internalReference": 797651
   },
   {
     "locale": "pt",
-    "slug": "o-aplicativo-de-televendas-nao-esta-funcionando-corretamente-com-requiresauthenticationtoloadprofile",
-    "internalReference": 797651
+    "slug": "o-aplicativo-mensagens-esta-demorando-muito-para-exibir-as-informacoes",
+    "internalReference": 567305
   },
   {
     "locale": "pt",
