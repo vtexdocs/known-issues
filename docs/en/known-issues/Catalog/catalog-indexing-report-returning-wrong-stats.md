@@ -2,8 +2,8 @@
 title: 'Catalog Indexing Report returning wrong stats'
 slug: catalog-indexing-report-returning-wrong-stats
 status: PUBLISHED
-createdAt: 2026-02-19T15:36:28.142Z
-updatedAt: 2026-02-19T15:36:28.142Z
+createdAt: 2022-01-07T17:05:40.000Z
+updatedAt: 2026-02-14T02:07:28.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
