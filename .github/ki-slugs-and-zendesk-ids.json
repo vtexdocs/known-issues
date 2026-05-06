@@ -5451,6 +5451,11 @@
   },
   {
     "locale": "en",
+    "slug": "on-the-order-placed-page-the-datalayer-only-captures-the-information-of-the-first-payment-within-the-transaction-transactionpaymenttype",
+    "internalReference": 727339
+  },
+  {
+    "locale": "en",
     "slug": "on-the-order-placed-page-the-datalayer-only-captures-the-information-of-the",
     "internalReference": 727339
   },
@@ -14197,6 +14202,11 @@
   {
     "locale": "es",
     "slug": "en-la-pagina-order-placed-el-datalayer-solo-captura-la-informacion-del",
+    "internalReference": 727339
+  },
+  {
+    "locale": "es",
+    "slug": "en-la-pagina-pedido-realizado-datalayer-solo-recoge-la-informacion-del-primer-pago-de-la-transaccion-transactionpaymenttype",
     "internalReference": 727339
   },
   {
@@ -23282,6 +23292,11 @@
   {
     "locale": "pt",
     "slug": "na-pagina-order-placed-o-datalayer-captura-apenas-as-informacoes-do-primeiro",
+    "internalReference": 727339
+  },
+  {
+    "locale": "pt",
+    "slug": "na-pagina-pedido-efetuado-o-datalayer-captura-apenas-as-informacoes-do-primeiro-pagamento-da-transacao-transactionpaymenttype",
     "internalReference": 727339
   },
   {
