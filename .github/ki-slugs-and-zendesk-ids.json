@@ -9741,6 +9741,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-api-permite-registrar-varios-codigos-ean-para-la-misma-referencia-de-producto",
+    "internalReference": 286097
+  },
+  {
+    "locale": "es",
     "slug": "la-api-put-brand-no-actualiza-la-propiedad-linkid",
     "internalReference": 1222015
   },
