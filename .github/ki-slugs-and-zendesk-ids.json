@@ -12876,11 +12876,6 @@
   },
   {
     "locale": "es",
-    "slug": "cookie-rota-la-apisesiones",
-    "internalReference": 779014
-  },
-  {
-    "locale": "es",
     "slug": "divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad",
     "internalReference": 1222306
   },
@@ -12923,6 +12918,11 @@
     "locale": "es",
     "slug": "las-cookies-de-sesion-se-comparten-entre-distintos-enlaces-cuando-no-se-encuentran-en-el-mismo-nivel-de-ruta",
     "internalReference": 925071
+  },
+  {
+    "locale": "es",
+    "slug": "las-cookies-han-danado-la-api-y-las-sesiones",
+    "internalReference": 779014
   },
   {
     "locale": "es",
@@ -21966,11 +21966,6 @@
   },
   {
     "locale": "pt",
-    "slug": "cookie-quebrou-a-apisessoes",
-    "internalReference": 779014
-  },
-  {
-    "locale": "pt",
     "slug": "divergencia-no-numero-de-permissoes-usadas-no-security-monitor",
     "internalReference": 1222306
   },
@@ -21978,6 +21973,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-fazer-login-pelo-aplicativo-do-google-no-ios",
     "internalReference": 926239
+  },
+  {
+    "locale": "pt",
+    "slug": "o-cookie-corrompeu-a-apisessoes",
+    "internalReference": 779014
   },
   {
     "locale": "pt",
