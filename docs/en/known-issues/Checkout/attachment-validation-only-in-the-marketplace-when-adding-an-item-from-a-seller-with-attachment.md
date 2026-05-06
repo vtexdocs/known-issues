@@ -1,11 +1,9 @@
 ---
 title: 'Attachment validation only in the marketplace when adding an item from a seller with attachment'
-id: 638N4urP08NY7v8jdH7U5N
+slug: attachment-validation-only-in-the-marketplace-when-adding-an-item-from-a-seller-with-attachment
 status: PUBLISHED
-createdAt: 2023-12-22T18:18:59.194Z
-updatedAt: 2023-12-22T18:18:59.909Z
-publishedAt: 2023-12-22T18:18:59.909Z
-firstPublishedAt: 2023-12-22T18:18:59.909Z
+createdAt: 2023-12-22T18:18:42.000Z
+updatedAt: 2023-12-22T18:18:42.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,7 +16,6 @@ internalReference: 957343
 
 ## Summary
 
-
 Adding an item from a seller with an attachment in the same API request, the attachment validation happens only in the marketplace.
 
 **Scenario 1:**
@@ -29,12 +26,7 @@ If the marketplace doesn't have the same attachment, the error message "The name
 
 This behavior happens in both APIs to add items: Add cart items and Handle cart items.
 
-
-##
-
 ## Simulation
-
-
 
 - Configure the same attachment in the marketplace and seller with different field keys;
 - Associate with an item;
@@ -44,18 +36,10 @@ This behavior happens in both APIs to add items: Add cart items and Handle cart 
 - Configure an attachment in the seller and associate it with an item;
 - Add the item via Add cart items or Handle cart items, with attachments.
 
-
-##
-
 ## Workaround
-
-
 
 - Add the item first and the attachment later in different requests. To send the attachment, you can:
   - send the attachments via Handle cart items;
   - send the attachments via Add an attachment to an item, for example:
 
     curl --location 'https://{accountName}.{environment}.com.br/api/checkout/pub/orderForm/{orderFormId}/items/{itemIndex}/attachments/{attachmentName}' \--header 'Content-Type: application/json' \--data '{  "content": {      "key": "value"  },  "noSplitItem": true}'
-
-
-
