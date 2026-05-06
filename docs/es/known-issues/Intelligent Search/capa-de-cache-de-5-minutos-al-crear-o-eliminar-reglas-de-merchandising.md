@@ -1,11 +1,9 @@
 ---
 title: 'Capa de caché de 5 minutos al crear o eliminar reglas de merchandising'
-id: 2wNExsAu1fbeQujCKr6c93
+slug: capa-de-cache-de-5-minutos-al-crear-o-eliminar-reglas-de-merchandising
 status: PUBLISHED
-createdAt: 2023-06-09T15:29:16.354Z
-updatedAt: 2023-06-09T15:29:17.422Z
-publishedAt: 2023-06-09T15:29:17.422Z
-firstPublishedAt: 2023-06-09T15:29:17.422Z
+createdAt: 2023-06-09T15:29:00.000Z
+updatedAt: 2023-06-09T15:29:00.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,29 +14,18 @@ kiStatus: Backlog
 internalReference: 841197
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-Al crear reglas de merchandising visual o eliminar cualquier regla de merchandising, hay una caché de 5 minutos para estar visualmente disponible en admin.
-
-
-##
+Al crear reglas de merchandising visual o al eliminar cualquier regla de merchandising, existe un retraso de 5 minutos antes de que los cambios se reflejen en el panel de administración.
 
 ## Simulación
 
-
-
-- Crear una regla de merchandising;
-- Elimine la regla de comercialización; seguirá apareciendo en el administrador durante 5 minutos.
-
-
+- Crea una regla de merchandising;
+- Elimina la regla de merchandising; seguirá apareciendo en el panel de administración durante 5 minutos.
 
 ## Workaround
 
-
+provisional**
 N/A
-
-
-
