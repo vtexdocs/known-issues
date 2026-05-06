@@ -9121,13 +9121,13 @@
   },
   {
     "locale": "es",
-    "slug": "no-es-posible-cargar-nuevos-mediosdocumentos-en-un-espacio-de-trabajo-de-desarrollo-cuando-la-entidad-tiene-mas-de-10k-documentos",
-    "internalReference": 795940
+    "slug": "no-es-posible-crear-una-ruta-utilizando-el-tipo-de-contenido-a-traves-de-ui",
+    "internalReference": 923619
   },
   {
     "locale": "es",
-    "slug": "no-es-posible-crear-una-ruta-utilizando-el-tipo-de-contenido-a-traves-de-ui",
-    "internalReference": 923619
+    "slug": "no-es-posible-subir-nuevos-archivos-multimedia-o-documentos-en-un-espacio-de-trabajo-de-desarrollo-cuando-la-entidad-tiene-mas-de-10-000-documentos",
+    "internalReference": 795940
   },
   {
     "locale": "es",
@@ -18081,7 +18081,7 @@
   },
   {
     "locale": "pt",
-    "slug": "nao-e-possivel-fazer-upload-de-novas-midiasdocumentos-em-um-espaco-de-trabalho-de-desenvolvimento-quando-a-entidade-tem-mais-de-10-mil-documentos",
+    "slug": "nao-e-possivel-fazer-upload-de-novos-arquivos-de-midiadocumentos-em-um-espaco-de-trabalho-de-desenvolvimento-quando-a-entidade-possui-mais-de-10-mil-documentos",
     "internalReference": 795940
   },
   {
