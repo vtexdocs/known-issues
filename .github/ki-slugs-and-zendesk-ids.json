@@ -12156,7 +12156,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-centro-de-promociones-meli-no-vincula-las-sku-con-la-promocion",
+    "slug": "el-centro-de-promociones-de-meli-no-vincula-los-sku-a-la-promocion",
     "internalReference": 801348
   },
   {
@@ -21616,6 +21616,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-centro-de-promocoes-meli-nao-esta-vinculando-os-skus-a-promocao",
+    "internalReference": 801348
+  },
+  {
+    "locale": "pt",
     "slug": "o-facebook-do-cartao-nao-salva-algumas-configuracoes",
     "internalReference": 548763
   },
@@ -21623,11 +21628,6 @@
     "locale": "pt",
     "slug": "o-meli-mapper-envia-incorretamente-a-especificacao-do-produto-como-variacao",
     "internalReference": 851021
-  },
-  {
-    "locale": "pt",
-    "slug": "o-meli-promotion-center-nao-esta-vinculando-skus-a-promocao",
-    "internalReference": 801348
   },
   {
     "locale": "pt",
