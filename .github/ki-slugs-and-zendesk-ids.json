@@ -11376,7 +11376,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-usuario-solo-tiene-en-cuenta-los-elementos-disponibles-para-calcular-el-sla",
+    "slug": "la-interfaz-de-usuario-solo-tiene-en-cuenta-los-articulos-disponibles-para-calcular-el-sla",
     "internalReference": 797028
   },
   {
@@ -19831,11 +19831,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-interface-do-usuario-considera-apenas-os-itens-disponiveis-para-calcular-o-sla",
-    "internalReference": 797028
-  },
-  {
-    "locale": "pt",
     "slug": "a-interface-do-usuario-do-checkout-exibe-faca-login-para-visualizar-os-creditos-quando-o-provedor-retorna-saldo0",
     "internalReference": 1356257
   },
@@ -19863,6 +19858,11 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-gera-solicitacoes-separadas-para-cada-chavecampo-de-um-anexo",
     "internalReference": 336371
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-usuario-leva-em-consideracao-apenas-os-itens-disponiveis-para-calcular-o-sla",
+    "internalReference": 797028
   },
   {
     "locale": "pt",
