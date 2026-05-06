@@ -11641,7 +11641,7 @@
   },
   {
     "locale": "es",
-    "slug": "no-se-puede-seleccionar-el-punto-de-recogida-en-los-mercados-con-vendedores-multinivel",
+    "slug": "no-se-puede-seleccionar-el-punto-de-recogida-en-los-mercados-con-vendedores-de-varios-niveles",
     "internalReference": 524073
   },
   {
@@ -16526,6 +16526,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-audiencia-de-la-campana-no-guarda-la-informacion-de-los-cupones",
+    "internalReference": 521601
+  },
+  {
+    "locale": "es",
     "slug": "la-bandera-aplicar-el-descuento-solo-a-la-opcion-de-envio-mas-barata-no-funciona-como-se-esperaba",
     "internalReference": 672567
   },
@@ -20411,7 +20416,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-ponto-de-coleta-nao-pode-ser-selecionado-em-mercados-com-vendedores-multiniveis",
+    "slug": "o-ponto-de-retirada-nao-pode-ser-selecionado-em-marketplaces-com-vendedores-de-varios-niveis",
     "internalReference": 524073
   },
   {
@@ -23386,7 +23391,7 @@
   },
   {
     "locale": "pt",
-    "slug": "problemas-com-os-links-de-minha-conta",
+    "slug": "problemas-com-os-links-da-minha-conta",
     "internalReference": 522514
   },
   {
@@ -25513,6 +25518,11 @@
     "locale": "pt",
     "slug": "o-numero-de-itens-no-filtro-de-precos-nao-corresponde-ao-numero-correto",
     "internalReference": 371405
+  },
+  {
+    "locale": "pt",
+    "slug": "o-publico-da-campanha-nao-salva-as-informacoes-do-cupom",
+    "internalReference": 521601
   },
   {
     "locale": "pt",
