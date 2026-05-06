@@ -13796,7 +13796,7 @@
   },
   {
     "locale": "es",
-    "slug": "al-cargar-la-pagina-catalog-maping-en-admin-no-se-traduce-el-mensaje-inicial",
+    "slug": "al-cargar-la-pagina-catalog-maping-en-el-panel-de-administracion-el-mensaje-inicial-no-aparece-traducido",
     "internalReference": 717066
   },
   {
@@ -22827,6 +22827,11 @@
   {
     "locale": "pt",
     "slug": "ao-carregar-a-pagina-catalog-maping-no-administrador-a-mensagem-inicial-nao-e-traduzida",
+    "internalReference": 717066
+  },
+  {
+    "locale": "pt",
+    "slug": "ao-carregar-a-pagina-mapeamento-do-catalogo-no-painel-de-administracao-a-mensagem-inicial-nao-esta-traduzida",
     "internalReference": 717066
   },
   {
