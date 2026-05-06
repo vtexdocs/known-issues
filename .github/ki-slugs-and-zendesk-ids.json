@@ -19676,6 +19676,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-previsualizacao-do-frete-exibe-o-preco-incorretamente-quando-se-trata-de-uma-entrega-programada",
+    "internalReference": 532487
+  },
+  {
+    "locale": "pt",
     "slug": "a-simulacao-de-checkout-retorna-o-valor-0-no-campo-slastax-para-impostos-de-porcentagem-de-frete",
     "internalReference": 1012724
   },
