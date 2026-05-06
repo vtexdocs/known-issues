@@ -1,11 +1,9 @@
 ---
-title: 'Settings UI doesn''t update ''expiration period'' of quotes'
-id: 4CmuAYwDn7tcCiR9DQHSFb
+title: "Settings UI doesn't update \"expiration period\" of quotes"
+slug: settings-ui-doesnt-update-expiration-period-of-quotes
 status: PUBLISHED
-createdAt: 2023-08-07T19:42:22.810Z
-updatedAt: 2024-09-27T13:22:47.719Z
-publishedAt: 2024-09-27T13:22:47.719Z
-firstPublishedAt: 2023-08-07T19:43:56.788Z
+createdAt: 2023-08-07T19:42:08.000Z
+updatedAt: 2024-09-27T13:22:28.000Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,25 +16,14 @@ internalReference: 876576
 
 ## Summary
 
-
 B2B Quote settings UI does not update the expiration period value; it is always 30.
 
-
-##
-
 ## Simulation
-
-
 
 - Access the B2B Quotes settings page and change the "expiration period".
 - Refresh the page; no changes are applied.
 
-
-##
-
 ## Workaround
-
-
 
 - Access GraphQL IDE and select vtex.b2b-quotes-graphql;
 - Use the query below to get the expiration date:
@@ -46,8 +33,3 @@ B2B Quote settings UI does not update the expiration period value; it is always 
 - Send a mutation to update the expiration date to a different value:
 
     mutation SaveAppSettings($input: AppSettingsInput!) { saveAppSettings(input: $input) { adminSetup { cartLifeSpan } }}{ "input": { "cartLifeSpan": }}
-
-
-
-
-
