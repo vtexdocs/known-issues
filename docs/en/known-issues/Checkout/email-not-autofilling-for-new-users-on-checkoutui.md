@@ -2,8 +2,8 @@
 title: 'Email not auto-filling for new users on checkout-ui'
 slug: email-not-autofilling-for-new-users-on-checkoutui
 status: PUBLISHED
-createdAt: 2023-08-25T00:24:50.000Z
-updatedAt: 2023-08-25T15:27:32.000Z
+createdAt: 2023-08-25T15:29:44.000Z
+updatedAt: 2023-08-29T19:17:25.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,7 +11,7 @@ tag: Checkout
 slugEN: email-not-autofilling-for-new-users-on-checkoutui
 locale: en
 kiStatus: Backlog
-internalReference: 887645
+internalReference: 887949
 ---
 
 ## Summary
