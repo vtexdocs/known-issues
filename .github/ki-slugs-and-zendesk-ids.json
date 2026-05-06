@@ -9731,11 +9731,6 @@
   },
   {
     "locale": "es",
-    "slug": "informacion-del-canal-de-ventas-divergente-entre-la-interfaz-de-usuario-y-la-api",
-    "internalReference": 802560
-  },
-  {
-    "locale": "es",
     "slug": "informacion-indexada-desactualizada-al-realizar-2-cambios-de-producto-seguidos",
     "internalReference": 907428
   },
@@ -9993,6 +9988,11 @@
     "locale": "es",
     "slug": "la-importacion-de-productosskus-no-es-compatible-con-lb",
     "internalReference": 337860
+  },
+  {
+    "locale": "es",
+    "slug": "la-informacion-sobre-los-canales-de-venta-difiere-entre-la-interfaz-de-usuario-y-la-api",
+    "internalReference": 802560
   },
   {
     "locale": "es",
@@ -10851,7 +10851,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-carrito-creado-a-partir-de-un-pedido-antiguo-no-trae-los-archivos-adjuntos",
+    "slug": "el-carrito-creado-a-partir-de-un-pedido-anterior-no-incluye-los-archivos-adjuntos",
     "internalReference": 802464
   },
   {
@@ -19091,13 +19091,13 @@
   },
   {
     "locale": "pt",
-    "slug": "informacoes-do-canal-de-vendas-divergentes-entre-a-interface-do-usuario-e-a-api",
-    "internalReference": 802560
+    "slug": "informacoes-indexadas-desatualizadas-ao-realizar-duas-alteracoes-de-produto-em-uma-linha",
+    "internalReference": 907428
   },
   {
     "locale": "pt",
-    "slug": "informacoes-indexadas-desatualizadas-ao-realizar-duas-alteracoes-de-produto-em-uma-linha",
-    "internalReference": 907428
+    "slug": "informacoes-sobre-o-canal-de-vendas-divergem-entre-a-interface-do-usuario-e-a-api",
+    "internalReference": 802560
   },
   {
     "locale": "pt",
