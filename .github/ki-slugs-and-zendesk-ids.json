@@ -8836,6 +8836,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-busqueda-no-arroja-ningun-resultado-si-el-nombre-del-vendedor-1-que-figura-en-la-gestion-de-vendedores-difiere-del-nombre-comercial-que-aparece-en-la-gestion-de-cuentas-al-utilizar-b2b-suite",
+    "internalReference": 946391
+  },
+  {
+    "locale": "es",
     "slug": "la-busqueda-no-tiene-productos-si-el-nombre-del-vendedor-1-en-la-gestion-de-vendedores-difiere-del-nombre-comercial-en-la-gestion-de-cuentas-al-uti",
     "internalReference": 946391
   },
@@ -10668,6 +10673,11 @@
     "locale": "es",
     "slug": "carga-eterna-en-el-checkout-ui-v5",
     "internalReference": 332740
+  },
+  {
+    "locale": "es",
+    "slug": "carrito-creado-a-partir-de-la-opcion-volver-a-pedir-en-mis-pedidos-el-correo-electronico-del-cliente-no-se-incluye-como-se-esperaba-en-el-formulario-de-pedido",
+    "internalReference": 947563
   },
   {
     "locale": "es",
@@ -16856,11 +16866,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-tabla-de-precios-promocionales-en-carros-de-la-compra-de-gran-tamano-puede-afectar-al-rendimiento-o-provocar-errores-de-tiempo-de-espera",
-    "internalReference": 949389
-  },
-  {
-    "locale": "es",
     "slug": "la-validacion-de-la-promocion-utiliza-el-precio-unitario-en-lugar-del-precio-total-del-articulo",
     "internalReference": 1081841
   },
@@ -16898,6 +16903,11 @@
     "locale": "es",
     "slug": "las-reglas-de-la-tabla-de-precios-no-persisten-al-crear-varias-reglas-sin-actualizar-la-pagina",
     "internalReference": 1256473
+  },
+  {
+    "locale": "es",
+    "slug": "las-tablas-de-precios-promocionales-en-carritos-de-la-compra-de-gran-tamano-pueden-afectar-al-rendimiento-o-provocar-errores-por-tiempo-de-espera-agotado",
+    "internalReference": 949389
   },
   {
     "locale": "es",
@@ -17893,6 +17903,11 @@
     "locale": "pt",
     "slug": "a-pesquisa-na-guia-usuarios-em-detalhes-da-organizacao-b2b-nao-filtra-quando-nao-ha-nenhum-resultado",
     "internalReference": 1079002
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pesquisa-nao-apresenta-resultados-se-o-nome-do-vendedor-1-na-gestao-de-vendedores-for-diferente-do-nome-comercial-na-gestao-de-contas-ao-usar-o-b2b-suite",
+    "internalReference": 946391
   },
   {
     "locale": "pt",
@@ -20243,6 +20258,11 @@
     "locale": "pt",
     "slug": "carrinhos-quebrados-ao-adicionar-a-opcao-de-montagem-indisponivel",
     "internalReference": 1308431
+  },
+  {
+    "locale": "pt",
+    "slug": "cesta-criada-a-partir-da-opcao-encomendar-novamente-em-minhas-encomendas-o-email-do-cliente-nao-esta-sendo-inserido-como-esperado-no-formulario-de-pedido",
+    "internalReference": 947563
   },
   {
     "locale": "pt",
@@ -25846,7 +25866,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-grandes-pode-afetar-o-desempenho-ou-levar-a-erros-de-tempo-limite",
+    "slug": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-de-grande-porte-pode-afetar-o-desempenho-ou-causar-erros-de-tempo-limite",
     "internalReference": 949389
   },
   {
