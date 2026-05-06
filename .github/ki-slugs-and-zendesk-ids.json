@@ -16186,11 +16186,6 @@
   },
   {
     "locale": "es",
-    "slug": "autocompletar-en-la-busqueda-no-siempre-se-actualiza-cuando-se-cambia-varias-veces",
-    "internalReference": 793275
-  },
-  {
-    "locale": "es",
     "slug": "caracteres-especiales-en-el-nombre-de-la-sku-rompe-la-seleccion-de-la-sku-en-las-paginas-del-portal-web-store-pdp-para-la-caja-de-radio-tipo-de-sel",
     "internalReference": 337933
   },
@@ -16318,6 +16313,11 @@
     "locale": "es",
     "slug": "la-funcion-configuracion-de-cms-no-funciona-como-se-esperaba",
     "internalReference": 538706
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-de-autocompletado-en-la-busqueda-no-siempre-se-actualiza-cuando-se-modifica-varias-veces",
+    "internalReference": 793275
   },
   {
     "locale": "es",
@@ -25311,6 +25311,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-funcao-de-preenchimento-automatico-na-pesquisa-nem-sempre-e-atualizada-quando-alterada-varias-vezes",
+    "internalReference": 793275
+  },
+  {
+    "locale": "pt",
     "slug": "a-prevenda-da-colecao-de-cms-herdada-nao-esta-funcionando",
     "internalReference": 885693
   },
@@ -25348,11 +25353,6 @@
     "locale": "pt",
     "slug": "as-configuracoes-do-cms-nao-permitem-retirar-valor-do-campo-unidade-de-massa",
     "internalReference": 540756
-  },
-  {
-    "locale": "pt",
-    "slug": "autocompletar-na-busca-nem-sempre-atualizando-quando-alterado-varias-vezes",
-    "internalReference": 793275
   },
   {
     "locale": "pt",
