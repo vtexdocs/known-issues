@@ -8906,7 +8906,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-opciones-de-envio-se-congelan-al-intentar-seleccionar-una-opcion",
+    "slug": "las-opciones-de-envio-se-bloquean-al-intentar-seleccionar-una-opcion",
     "internalReference": 898888
   },
   {
@@ -17506,6 +17506,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-redirecciones-temporales-caducadas-no-vuelven-a-la-ruta-anterior",
+    "internalReference": 898062
+  },
+  {
+    "locale": "es",
     "slug": "linkid-no-se-esta-registrando-en-rewriter-cuando-se-traduce-con-graphql-catalogo",
     "internalReference": 654951
   },
@@ -17553,11 +17558,6 @@
     "locale": "es",
     "slug": "los-rastreadores-no-leen-la-ruta-de-navegacion-debido-a-un-tiempo-de-espera-de-ssr",
     "internalReference": 460999
-  },
-  {
-    "locale": "es",
-    "slug": "los-redireccionamientos-temporales-caducados-no-apuntan-a-la-ruta-antigua",
-    "internalReference": 898062
   },
   {
     "locale": "es",
@@ -17916,7 +17916,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-opcoes-de-envio-ficam-congeladas-ao-tentar-selecionar-uma-opcao",
+    "slug": "as-opcoes-de-envio-ficam-travadas-ao-tentar-selecionar-uma-opcao",
     "internalReference": 898888
   },
   {
@@ -26841,7 +26841,7 @@
   },
   {
     "locale": "pt",
-    "slug": "redirecionamentos-temporarios-expirados-nao-apontam-de-volta-para-a-rota-antiga",
+    "slug": "redirecionamentos-temporarios-expirados-que-nao-apontam-mais-para-a-rota-antiga",
     "internalReference": 898062
   },
   {
