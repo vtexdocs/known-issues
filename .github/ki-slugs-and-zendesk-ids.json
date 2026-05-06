@@ -9741,11 +9741,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-actualizacion-de-archivos-sku-no-actualiza-las-etiquetas-de-version-v",
-    "internalReference": 852869
-  },
-  {
-    "locale": "es",
     "slug": "la-actualizacion-de-la-ficha-tecnica-del-producto-no-activa-el-sistema-de-notificaciones-ni-la-indexacion",
     "internalReference": 403107
   },
@@ -9753,6 +9748,11 @@
     "locale": "es",
     "slug": "la-actualizacion-de-la-hoja-de-especificaciones-del-producto-no-activa-el-notificador-ni-la-indexacion",
     "internalReference": 403107
+  },
+  {
+    "locale": "es",
+    "slug": "la-actualizacion-del-archivo-sku-no-actualiza-las-etiquetas-de-version-v",
+    "internalReference": 852869
   },
   {
     "locale": "es",
