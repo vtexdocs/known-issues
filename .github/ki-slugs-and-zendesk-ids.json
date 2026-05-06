@@ -11636,7 +11636,7 @@
   },
   {
     "locale": "es",
-    "slug": "posibilidad-de-proceder-al-pago-con-el-codigo-postal-en-blanco-en-la-interfaz-de-usuario-de-pago",
+    "slug": "posibilidad-de-continuar-con-el-pago-sin-introducir-el-codigo-postal-en-la-interfaz-de-pago",
     "internalReference": 334310
   },
   {
@@ -16286,7 +16286,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-descuento-nominal-no-se-distribuye-entre-todos-los-articulos-de-la-cesta",
+    "slug": "el-descuento-nominal-no-se-esta-aplicando-a-todos-los-articulos-del-carrito",
     "internalReference": 334130
   },
   {
@@ -20416,13 +20416,13 @@
   },
   {
     "locale": "pt",
-    "slug": "possibilidade-de-proceder-ao-pagamento-com-codigo-postal-em-branco-na-caixa-ui",
-    "internalReference": 334310
+    "slug": "possibilidade-de-proceder-ao-pagamento-com-endereco-de-numero-em-branco-e-nome-do-destinatario-no-caixa-de-pagamento-ui",
+    "internalReference": 554052
   },
   {
     "locale": "pt",
-    "slug": "possibilidade-de-proceder-ao-pagamento-com-endereco-de-numero-em-branco-e-nome-do-destinatario-no-caixa-de-pagamento-ui",
-    "internalReference": 554052
+    "slug": "possibilidade-de-prosseguir-com-o-pagamento-mesmo-que-o-codigo-postal-esteja-em-branco-na-interface-de-finalizacao-da-compra",
+    "internalReference": 334310
   },
   {
     "locale": "pt",
@@ -25211,7 +25211,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-desconto-nominal-nao-esta-sendo-distribuido-entre-todos-os-itens-do-carrinho",
+    "slug": "o-desconto-nominal-nao-esta-sendo-aplicado-a-todos-os-itens-do-carrinho",
     "internalReference": 334130
   },
   {
