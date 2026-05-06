@@ -2366,6 +2366,11 @@
   },
   {
     "locale": "en",
+    "slug": "inconsistency-in-the-quantity-of-items-with-assembly-options-in-the-cart",
+    "internalReference": 417098
+  },
+  {
+    "locale": "en",
     "slug": "incorrect-data-in-pickupstoreinfo-after-order-creation",
     "internalReference": 347155
   },
@@ -10978,6 +10983,11 @@
     "locale": "es",
     "slug": "fecha-de-envio-estimada-incorrecta-para-el-pedido-fob",
     "internalReference": 269104
+  },
+  {
+    "locale": "es",
+    "slug": "incoherencia-en-la-cantidad-de-articulos-con-opciones-de-montaje-en-el-carrito",
+    "internalReference": 417098
   },
   {
     "locale": "es",
@@ -19913,6 +19923,11 @@
     "locale": "pt",
     "slug": "forma-nao-resiliente-a-mudancas-no-itemaparelhamento-e-ofertas",
     "internalReference": 334191
+  },
+  {
+    "locale": "pt",
+    "slug": "inconsistencia-na-quantidade-de-itens-com-opcoes-de-montagem-no-carrinho",
+    "internalReference": 417098
   },
   {
     "locale": "pt",
