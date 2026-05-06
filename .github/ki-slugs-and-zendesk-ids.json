@@ -17471,7 +17471,7 @@
   },
   {
     "locale": "es",
-    "slug": "productimpression-no-muestra-todos-los-productos-cuando-el-sku-se-muestra-individualmente",
+    "slug": "productimpression-no-muestra-todos-los-productos-cuando-se-muestra-el-sku-de-forma-individual",
     "internalReference": 717617
   },
   {
@@ -26343,6 +26343,11 @@
     "locale": "pt",
     "slug": "o-plp-com-show-more-e-renderizado-em-branco-apos-a-navegacao-de-retorno-do-navegador-a-partir-do-checkout",
     "internalReference": 1301762
+  },
+  {
+    "locale": "pt",
+    "slug": "o-productimpression-nao-exibe-todos-os-produtos-quando-o-sku-e-exibido-individualmente",
+    "internalReference": 717617
   },
   {
     "locale": "pt",
