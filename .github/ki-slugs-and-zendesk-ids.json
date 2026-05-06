@@ -12791,6 +12791,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-metodo-validatecartmutation-falla-cuando-la-carga-util-es-muy-grande",
+    "internalReference": 985867
+  },
+  {
+    "locale": "es",
     "slug": "el-selector-de-cantidad-no-me-permite-cambiar-el-valor-escribiendo",
     "internalReference": 1057544
   },
@@ -12918,11 +12923,6 @@
     "locale": "es",
     "slug": "validatecart-mutacion-devolver-500-cuando-personalizaciones-afecta-a-la-disponibilidad-del-producto",
     "internalReference": 1258650
-  },
-  {
-    "locale": "es",
-    "slug": "validatecartmutation-falla-cuando-la-carga-util-es-grande",
-    "internalReference": 985867
   },
   {
     "locale": "es",
@@ -14546,7 +14546,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-usuarios-con-mas-de-un-pedido-registrado-en-la-entidad-bk-con-diferentes-correos-electronicos-no-pueden-ver-los-pedidos-en-la-pagina-mi-cuenta",
+    "slug": "los-usuarios-que-tengan-mas-de-un-pedido-registrado-en-la-entidad-bk-con-direcciones-de-correo-electronico-diferentes-no-pueden-ver-los-pedidos-en-la-pagina-mi-cuenta",
     "internalReference": 986324
   },
   {
@@ -15106,6 +15106,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-al-crear-una-tarjeta-regalo-a-traves-del-panel-de-administracion",
+    "internalReference": 986327
+  },
+  {
+    "locale": "es",
     "slug": "error-al-exportar-una-gran-cantidad-de-tarjetas-regalo",
     "internalReference": 288436
   },
@@ -15148,11 +15153,6 @@
     "locale": "es",
     "slug": "error-de-consola-solo-informe-se-ha-denegado-la-aplicacion-del-estilo-en-linea-porque-infringe-la-siguiente-seguridad-de-contenido",
     "internalReference": 1017370
-  },
-  {
-    "locale": "es",
-    "slug": "error-de-creacion-de-tarjeta-regalo-via-admin",
-    "internalReference": 986327
   },
   {
     "locale": "es",
@@ -17166,6 +17166,11 @@
   },
   {
     "locale": "es",
+    "slug": "articulos-incluidos-en-las-prestaciones-que-no-se-han-generado-en-promociones-con-colecciones-asociadas",
+    "internalReference": 985850
+  },
+  {
+    "locale": "es",
     "slug": "autocomplete-hover-on-search-suggestion-is-not-working-properly",
     "internalReference": 697406
   },
@@ -17616,11 +17621,6 @@
   },
   {
     "locale": "es",
-    "slug": "partidas-en-beneficios-no-generados-en-promociones-con-cobros-asociados",
-    "internalReference": 985850
-  },
-  {
-    "locale": "es",
     "slug": "pdp-no-carga-cuando-se-pasan-caracteres-especiales-en-el-enlace",
     "internalReference": 770893
   },
@@ -17651,7 +17651,7 @@
   },
   {
     "locale": "es",
-    "slug": "problemas-de-desplazamiento-al-deslizar-en-movil-en-vista-rapida-cuando-hay-un-diseno-deslizante-en-segundo-plano",
+    "slug": "problemas-de-desplazamiento-al-deslizar-el-dedo-en-el-movil-en-la-vista-rapida-cuando-hay-un-diseno-deslizante-en-el-fondo",
     "internalReference": 985097
   },
   {
@@ -21976,7 +21976,7 @@
   },
   {
     "locale": "pt",
-    "slug": "falha-no-validatecartmutation-quando-a-carga-util-e-grande",
+    "slug": "falha-na-validacao-da-mutacao-do-carrinho-quando-a-carga-e-grande",
     "internalReference": 985867
   },
   {
@@ -23811,7 +23811,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-usuarios-com-mais-de-um-pedido-registrado-na-entidade-bk-com-emails-diferentes-nao-conseguem-ver-os-pedidos-na-pagina-my-account",
+    "slug": "os-usuarios-com-mais-de-um-pedido-registrado-na-entidade-bk-com-enderecos-de-email-diferentes-nao-conseguem-visualizar-os-pedidos-na-pagina-minha-conta",
     "internalReference": 986324
   },
   {
@@ -24531,11 +24531,6 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-de-criacao-de-cartaopresente-via-administrador",
-    "internalReference": 986327
-  },
-  {
-    "locale": "pt",
     "slug": "erro-devido-a-existencia-de-um-metodo-de-pagamento-duplicado",
     "internalReference": 929428
   },
@@ -24543,6 +24538,11 @@
     "locale": "pt",
     "slug": "erro-na-criacao-de-pagamentos-personalizados",
     "internalReference": 995110
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-na-criacao-do-cartaopresente-pelo-administrador",
+    "internalReference": 986327
   },
   {
     "locale": "pt",
@@ -26576,7 +26576,7 @@
   },
   {
     "locale": "pt",
-    "slug": "itens-em-beneficios-nao-gerados-em-promocoes-com-colecoes-associadas",
+    "slug": "itens-de-beneficios-nao-gerados-em-promocoes-com-colecoes-associadas",
     "internalReference": 985850
   },
   {
@@ -26886,7 +26886,7 @@
   },
   {
     "locale": "pt",
-    "slug": "problemas-de-rolagem-ao-deslizar-no-celular-na-visualizacao-rapida-quando-ha-um-layout-de-controle-deslizante-em-segundo-plano",
+    "slug": "problemas-de-rolagem-ao-deslizar-no-celular-na-visualizacao-rapida-quando-ha-um-layout-deslizante-no-fundo",
     "internalReference": 985097
   },
   {
