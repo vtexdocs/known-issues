@@ -16556,6 +16556,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-modificacion-de-precios-a-traves-de-la-ruta-de-precios-de-las-publicaciones-de-compatibilidad-provoca-la-perdida-de-datos",
+    "internalReference": 487698
+  },
+  {
+    "locale": "es",
     "slug": "la-promocion-de-envio-gratuito-se-esta-aplicando-en-pedidos-divididos-fuera-de-la-restriccion-de-la-promocion",
     "internalReference": 732302
   },
@@ -25217,6 +25222,11 @@
   {
     "locale": "pt",
     "slug": "a-modificacao-de-precos-atraves-da-rota-de-precos-poscompatibilidade-esta-perdendo-dados",
+    "internalReference": 487698
+  },
+  {
+    "locale": "pt",
+    "slug": "a-modificacao-de-precos-por-meio-da-rota-de-precos-de-postagem-de-compatibilidade-esta-causando-perda-de-dados",
     "internalReference": 487698
   },
   {
