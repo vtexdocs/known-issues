@@ -3141,6 +3141,11 @@
   },
   {
     "locale": "en",
+    "slug": "known-issue-test-for-presentation",
+    "internalReference": 741025
+  },
+  {
+    "locale": "en",
     "slug": ".md",
     "internalReference": 1216327
   },
@@ -11923,6 +11928,11 @@
     "locale": "es",
     "slug": "visualizacion-incorrecta-de-la-cantidad-de-paquetes-en-la-caja",
     "internalReference": 520369
+  },
+  {
+    "locale": "es",
+    "slug": "prueba-de-problemas-conocidos-para-la-presentacion",
+    "internalReference": 741025
   },
   {
     "locale": "es",
@@ -20943,6 +20953,11 @@
     "locale": "pt",
     "slug": "valores-nulos-no-objeto-deliveryslainminutes-para-entrega-programada-para-o-mesmo-dia",
     "internalReference": 1079981
+  },
+  {
+    "locale": "pt",
+    "slug": "teste-de-problemas-conhecidos-para-a-apresentacao",
+    "internalReference": 741025
   },
   {
     "locale": "pt",
