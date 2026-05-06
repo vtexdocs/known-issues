@@ -2,8 +2,8 @@
 title: 'Collections named with special characters cannot be exported'
 slug: collections-named-with-special-characters-cannot-be-exported
 status: PUBLISHED
-createdAt: 2026-03-24T18:10:59.200Z
-updatedAt: 2026-03-24T18:10:59.200Z
+createdAt: 2022-10-21T23:21:10.000Z
+updatedAt: 2026-03-24T21:10:28.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
