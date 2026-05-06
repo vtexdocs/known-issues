@@ -2,8 +2,8 @@
 title: "Collections don't open on subaccounts"
 slug: collections-dont-open-on-subaccounts
 status: PUBLISHED
-createdAt: 2026-02-24T13:57:34.805Z
-updatedAt: 2026-02-24T13:57:34.805Z
+createdAt: 2022-09-01T17:27:40.000Z
+updatedAt: 2026-02-24T16:56:59.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
