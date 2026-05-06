@@ -14031,11 +14031,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-correo-electronico-de-reembolso-de-pedidos-no-se-envia-cuando-se-reembolsa-un-importe-adicional-mediante-la-nueva-interfaz-de-usuario-oms",
-    "internalReference": 563300
-  },
-  {
-    "locale": "es",
     "slug": "el-enlace-de-configuracion-de-sms-en-la-plantilla-de-correo-electronico-redirige-al-usuario-a-la-pagina-404",
     "internalReference": 1054007
   },
@@ -14428,6 +14423,11 @@
     "locale": "es",
     "slug": "no-es-posible-hacer-un-cambio-cambio-v2-para-aumentar-a-la-orden-si-la-cuenta-tiene-modo-defensa-activo-en-pagos-o-cualquier-otro-pago",
     "internalReference": 1155646
+  },
+  {
+    "locale": "es",
+    "slug": "no-se-envia-el-correo-electronico-de-reembolso-del-pedido-cuando-se-devuelve-un-importe-adicional-mediante-la-nueva-interfaz-de-usuario-oms",
+    "internalReference": 563300
   },
   {
     "locale": "es",
@@ -23196,7 +23196,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-email-de-reembolso-do-pedido-nao-e-enviado-quando-o-valor-adicional-e-reembolsado-usando-a-nova-iu-oms",
+    "slug": "o-email-de-reembolso-do-pedido-nao-e-enviado-quando-um-valor-adicional-e-reembolsado-usando-a-nova-interface-do-usuario-oms",
     "internalReference": 563300
   },
   {
