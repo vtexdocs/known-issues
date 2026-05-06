@@ -9071,6 +9071,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-ordenacion-de-las-imagenes-al-subir-una-nueva-version-no-funciona",
+    "internalReference": 739814
+  },
+  {
+    "locale": "es",
     "slug": "la-pagina-de-estilos-de-la-tienda-interfiere-con-la-carga-de-css-del-tema",
     "internalReference": 1280557
   },
@@ -9103,11 +9108,6 @@
     "locale": "es",
     "slug": "no-es-posible-crear-una-ruta-utilizando-el-tipo-de-contenido-a-traves-de-ui",
     "internalReference": 923619
-  },
-  {
-    "locale": "es",
-    "slug": "no-funciona-la-ordenacion-de-imagenes-al-subir-una-nueva-version",
-    "internalReference": 739814
   },
   {
     "locale": "es",
@@ -17326,7 +17326,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-transliteracion-solo-se-guarda-en-vbase-y-no-en-rewriter",
+    "slug": "la-transcripcion-solo-se-guarda-en-vbase-y-no-en-rewriter",
     "internalReference": 738334
   },
   {
@@ -17953,6 +17953,11 @@
     "locale": "pt",
     "slug": "a-listagem-de-tipos-de-conteudo-nao-tem-como-ser-rolada-para-baixo",
     "internalReference": 1271990
+  },
+  {
+    "locale": "pt",
+    "slug": "a-ordenacao-das-imagens-ao-enviar-uma-nova-versao-nao-esta-funcionando",
+    "internalReference": 739814
   },
   {
     "locale": "pt",
@@ -26066,7 +26071,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-transliteracao-so-esta-sendo-salva-no-vbase-e-nao-no-rewriter",
+    "slug": "a-transliteracao-esta-sendo-salva-apenas-no-vbase-e-nao-no-rewriter",
     "internalReference": 738334
   },
   {
