@@ -9206,11 +9206,6 @@
   },
   {
     "locale": "es",
-    "slug": "aparece-un-error-en-la-administracion-del-catalogo",
-    "internalReference": 907567
-  },
-  {
-    "locale": "es",
     "slug": "aplicar-el-descuento-a-los-articulos-mas-caros-ui-no-ahorrar-datos",
     "internalReference": 1011071
   },
@@ -9626,6 +9621,11 @@
   },
   {
     "locale": "es",
+    "slug": "en-el-panel-de-administracion-del-catalogo-aparece-el-error-algo-ha-salido-mal",
+    "internalReference": 907567
+  },
+  {
+    "locale": "es",
     "slug": "enlace-de-texto-creado-con-en-marketplace-tras-su-aprobacion-repeticion",
     "internalReference": 795900
   },
@@ -9748,11 +9748,6 @@
     "locale": "es",
     "slug": "indice-de-exportacion-de-especificaciones-del-producto-fuera-de-rango",
     "internalReference": 481095
-  },
-  {
-    "locale": "es",
-    "slug": "informacion-indexada-desactualizada-al-realizar-2-cambios-de-producto-seguidos",
-    "internalReference": 907428
   },
   {
     "locale": "es",
@@ -10013,6 +10008,11 @@
     "locale": "es",
     "slug": "la-importacion-de-productosskus-no-es-compatible-con-lb",
     "internalReference": 337860
+  },
+  {
+    "locale": "es",
+    "slug": "la-informacion-indexada-queda-desactualizada-cuando-se-realizan-dos-cambios-de-producto-seguidos",
+    "internalReference": 907428
   },
   {
     "locale": "es",
@@ -11351,7 +11351,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-usuario-muestra-puntos-de-recogida-duplicados-cuando-un-articulo-para-entrega-se-encuentra-entre-articulos-para-recogida",
+    "slug": "la-interfaz-de-usuario-muestra-puntos-de-recogida-duplicados-cuando-un-articulo-para-entregar-se-encuentra-entre-articulos-para-recoger",
     "internalReference": 906549
   },
   {
@@ -18996,6 +18996,11 @@
   },
   {
     "locale": "pt",
+    "slug": "e-exibida-a-mensagem-de-erro-algo-deu-errado-no-painel-de-administracao-do-catalogo",
+    "internalReference": 907567
+  },
+  {
+    "locale": "pt",
     "slug": "erro-de-calculo-da-secao-total-do-relatorio-de-indexacao-do-catalogo",
     "internalReference": 499450
   },
@@ -19161,7 +19166,7 @@
   },
   {
     "locale": "pt",
-    "slug": "informacoes-indexadas-desatualizadas-ao-realizar-duas-alteracoes-de-produto-em-uma-linha",
+    "slug": "informacoes-indexadas-desatualizadas-ao-realizar-duas-alteracoes-de-produto-consecutivas",
     "internalReference": 907428
   },
   {
@@ -19338,11 +19343,6 @@
     "locale": "pt",
     "slug": "o-elemento-personalizado-de-banner-do-cms-legado-nao-esta-funcionando",
     "internalReference": 978466
-  },
-  {
-    "locale": "pt",
-    "slug": "o-erro-something-went-wrong-e-exibido-no-administrador-do-catalogo",
-    "internalReference": 907567
   },
   {
     "locale": "pt",
@@ -19926,6 +19926,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-interface-do-usuario-exibe-pontos-de-retirada-duplicados-quando-um-item-a-ser-entregue-esta-entre-itens-a-serem-retirados",
+    "internalReference": 906549
+  },
+  {
+    "locale": "pt",
     "slug": "a-interface-do-usuario-fica-congelada-se-ocorrer-um-erro-no-processo-interno-da-ordem-de-colocacao",
     "internalReference": 943771
   },
@@ -19938,11 +19943,6 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-leva-em-consideracao-apenas-os-itens-disponiveis-para-calcular-o-sla",
     "internalReference": 797028
-  },
-  {
-    "locale": "pt",
-    "slug": "a-interface-do-usuario-mostra-pontos-de-coleta-duplicados-quando-um-item-para-entrega-esta-entre-itens-para-coleta",
-    "internalReference": 906549
   },
   {
     "locale": "pt",
