@@ -2,8 +2,8 @@
 title: 'Attachment Update and Create API validation on field DomainValues not working'
 slug: attachment-update-and-create-api-validation-on-field-domainvalues-not-working
 status: PUBLISHED
-createdAt: 2025-11-14T17:14:34.283Z
-updatedAt: 2025-11-14T17:14:34.283Z
+createdAt: 2023-02-09T16:09:48.000Z
+updatedAt: 2023-02-09T16:09:48.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -15,7 +15,6 @@ internalReference: 751091
 ---
 
 ## Summary
-
 
 Via UI (directly on VTEX admin) is possible to create an attachment without the field **Permitted values** filled:
  ![](https://vtexhelp.zendesk.com/attachments/token/8rFw6593yoVr64CViajezsXW0/?name=image.png)
@@ -29,22 +28,12 @@ Meaning you can't create a attachment like this:
 
     { "Id": 6, "Name": "Test", "IsRequired": false, "IsActive": true, "Domains": [     {          "FieldName": "test",          "MaxCaracters": "20",          "DomainValues": ""      }  ]}
 
-
-
-
-#### Simulation
-
-
+## Simulation
 
 1. Use the following API: https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/attachment
 2. Try to leave it empty the field DomainValues
 3. Check that the error message mentioned above is returned.
 
-
-#### Workaround
-
+## Workaround
 
 Create the attachment via Admin.
-
-
-
