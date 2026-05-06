@@ -10701,6 +10701,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-carrito-con-articulos-muestra-el-mensaje-carrito-vacio-mientras-la-pantalla-sigue-cargandose",
+    "internalReference": 303673
+  },
+  {
+    "locale": "es",
     "slug": "el-carrito-creado-a-partir-de-un-pedido-antiguo-no-trae-los-archivos-adjuntos",
     "internalReference": 802464
   },
@@ -11003,11 +11008,6 @@
     "locale": "es",
     "slug": "la-caja-no-calcula-correctamente-el-valor-del-envio-para-un-solo-articulo-que-tiene-envio-gratuito-y-entrega-programada",
     "internalReference": 529043
-  },
-  {
-    "locale": "es",
-    "slug": "la-cesta-con-articulos-muestra-el-mensaje-cesta-vacia-mientras-la-pantalla-aun-se-esta-cargando",
-    "internalReference": 303673
   },
   {
     "locale": "es",
@@ -15996,7 +15996,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-promocion-comprar-juntos-con-muchas-referencias-puede-hacer-que-los-productos-elegibles-no-se-carguen-en-la-parte-delantera-tiempo-de-espera",
+    "slug": "la-promocion-compra-conjunta-con-muchas-referencias-puede-hacer-que-los-productos-que-cumplen-los-requisitos-no-se-carguen-en-la-pagina-principal-tiempo-de-espera-agotado",
     "internalReference": 301463
   },
   {
@@ -19606,11 +19606,6 @@
   },
   {
     "locale": "pt",
-    "slug": "carrinho-com-itens-exibe-a-mensagem-carrinho-vazio-enquanto-a-tela-ainda-esta-carregando",
-    "internalReference": 303673
-  },
-  {
-    "locale": "pt",
     "slug": "carrinho-criado-a-partir-de-uma-opcao-pedir-novamente-em-meus-pedidos-o-email-do-cliente-nao-esta-sendo-colocado-como-esperado-no-formulario-de-ped",
     "internalReference": 947563
   },
@@ -19943,6 +19938,11 @@
     "locale": "pt",
     "slug": "o-carrinho-com-enderecos-de-varios-paises-perde-o-endereco-de-retirada-se-a-loja-nao-puder-enviar-para-todos-os-paises",
     "internalReference": 1068197
+  },
+  {
+    "locale": "pt",
+    "slug": "o-carrinho-com-itens-exibe-a-mensagem-carrinho-vazio-enquanto-a-tela-ainda-esta-carregando",
+    "internalReference": 303673
   },
   {
     "locale": "pt",
@@ -24606,7 +24606,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-promocao-buy-together-com-muitos-skus-pode-fazer-com-que-os-produtos-qualificados-nao-sejam-carregados-na-frente-tempo-limite",
+    "slug": "a-promocao-compre-junto-com-muitos-skus-pode-fazer-com-que-os-produtos-elegiveis-nao-sejam-carregados-na-pagina-inicial-tempo-de-espera-esgotado",
     "internalReference": 301463
   },
   {
