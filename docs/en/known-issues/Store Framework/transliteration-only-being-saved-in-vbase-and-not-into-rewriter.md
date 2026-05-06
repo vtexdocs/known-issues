@@ -2,8 +2,8 @@
 title: 'Transliteration only being saved in vbase and not into rewriter'
 slug: transliteration-only-being-saved-in-vbase-and-not-into-rewriter
 status: PUBLISHED
-createdAt: 2025-11-17T17:44:15.238Z
-updatedAt: 2025-11-17T17:44:15.238Z
+createdAt: 2023-01-23T15:28:58.000Z
+updatedAt: 2023-12-12T19:53:55.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,14 +16,9 @@ internalReference: 738334
 
 ## Summary
 
-
-
 When transliterating the urls through the catalog rewriter is not storing it, or is not receiving any notification through the broadcaster, we are only storing it in vbase
 
-
-#### Simulation
-
-
+## Simulation
 
 Transl
 
@@ -32,12 +27,7 @@ Check the rewriter with the linkId that you created at admin/graphql-ide and cho
 
     { internal{ get(path: "yourLinkdIdHere"){ id } }}
 
-
-
-
-#### Workaround
-
-
+## Workaround
 
 Run the following query on the rewriter
 
