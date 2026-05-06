@@ -2,8 +2,8 @@
 title: 'Adding a new address on Invoice Address returns null API results'
 slug: adding-a-new-address-on-invoice-address-returns-null-api-results
 status: PUBLISHED
-createdAt: 2025-11-14T19:15:48.743Z
-updatedAt: 2025-11-14T19:15:48.743Z
+createdAt: 2023-02-07T13:15:23.000Z
+updatedAt: 2023-02-07T13:15:41.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,13 +16,9 @@ internalReference: 748668
 
 ## Summary
 
-
 When there is more than one address registered in the Profile System, there is a "null" request to the zip code service if you add a new address on "Invoice Address".
 
-
-#### Simulation
-
-
+## Simulation
 
 - Have more than 1 address registered in the Profile System;
 - Select a pickup point;
@@ -30,10 +26,6 @@ When there is more than one address registered in the Profile System, there is a
 
 The request was `/api/checkout/pub/postal-code/null/postalcodenumber`, so it returns the 500 error. Due to this return, it doesn't autocomplete the address using the zip code service.
 
-
-#### Workaround
-
+## Workaround
 
 Select an option already registered before adding a new address
-
-
