@@ -12961,6 +12961,11 @@
   },
   {
     "locale": "es",
+    "slug": "analisis-de-busqueda-eventos-duplicados",
+    "internalReference": 771986
+  },
+  {
+    "locale": "es",
     "slug": "autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-plp-se-renderiza",
     "internalReference": 1208038
   },
@@ -12978,11 +12983,6 @@
     "locale": "es",
     "slug": "boton-de-guardar-desactivado-al-modificar-los-sinonimos-de-busqueda-importados",
     "internalReference": 508893
-  },
-  {
-    "locale": "es",
-    "slug": "buscar-eventos-duplicados-en-analytics",
-    "internalReference": 771986
   },
   {
     "locale": "es",
@@ -22116,6 +22116,11 @@
   },
   {
     "locale": "pt",
+    "slug": "analise-de-pesquisa-eventos-duplicados",
+    "internalReference": 771986
+  },
+  {
+    "locale": "pt",
     "slug": "arredondamento-incorreto-de-precos-quando-o-multiplicador-de-unidades-e-diferente-de-um",
     "internalReference": 1258875
   },
@@ -22488,11 +22493,6 @@
     "locale": "pt",
     "slug": "pesquisa-de-colecao-o-titulo-nao-exibe-acentos-quando-acessado-atraves-de-mapproductclusternames",
     "internalReference": 439856
-  },
-  {
-    "locale": "pt",
-    "slug": "pesquisar-eventos-duplicados-do-analytics",
-    "internalReference": 771986
   },
   {
     "locale": "pt",
