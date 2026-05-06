@@ -17266,7 +17266,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-usuario-suplantado-no-envia-la-cookie-de-autenticacion-suplantada-en-algunas-llamadas",
+    "slug": "el-usuario-suplantado-no-envia-la-cookie-de-autenticacion-de-suplantacion-en-algunas-llamadas",
     "internalReference": 790185
   },
   {
@@ -26181,6 +26181,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-funcao-de-representacao-de-usuario-nao-esta-enviando-o-cookie-de-autenticacao-de-representacao-em-algumas-chamadas",
+    "internalReference": 790185
+  },
+  {
+    "locale": "pt",
     "slug": "a-gaveta-de-componentes-nao-funciona-quando-implementada-no-resumo-do-produto-para-ios",
     "internalReference": 833338
   },
@@ -26758,11 +26763,6 @@
     "locale": "pt",
     "slug": "urls-de-pdp-malformados-ao-usar-a-string-de-consulta-do-espaco-de-trabalho",
     "internalReference": 1281017
-  },
-  {
-    "locale": "pt",
-    "slug": "usuario-imigrante-nao-envia-cookie-de-autenticacao-imersonalizado-para-algumas-chamadas",
-    "internalReference": 790185
   },
   {
     "locale": "pt",
