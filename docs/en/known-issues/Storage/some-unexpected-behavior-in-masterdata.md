@@ -2,8 +2,8 @@
 title: 'Some unexpected behavior in MasterData'
 slug: some-unexpected-behavior-in-masterdata
 status: PUBLISHED
-createdAt: 2025-10-10T16:12:05.352Z
-updatedAt: 2025-10-10T16:12:05.352Z
+createdAt: 2022-09-30T16:55:02.000Z
+updatedAt: 2025-10-10T19:11:34.000Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,7 +16,6 @@ internalReference: 669048
 
 ## Summary
 
-
 Even with data available (documents), the information is not returned as expected.
 This behavior can impact some of the following functionalities:
 
@@ -25,17 +24,11 @@ This behavior can impact some of the following functionalities:
 - The `_sort` is not respected on Search documents API;
 - No information is returned when using Search Documents API (an empty response, like `[]`), even when they contain documents.
 
-
-#### Simulation
-
+## Simulation
 
 As this is an occasional behavior (cluster-related event), it cannot be simulated.
 
-
-#### Workaround
-
+## Workaround
 
 A possible workaround is to perform the process described in the public documentation "_Customer and Address forms do not exist in multistores_."
 If the problem persists, please open a ticket with VTEX support.
-
-
