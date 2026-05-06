@@ -14146,11 +14146,6 @@
   },
   {
     "locale": "es",
-    "slug": "autorizacion-de-pedido-inferior-a-100-va-con-la-corriente",
-    "internalReference": 983031
-  },
-  {
-    "locale": "es",
     "slug": "bandera-de-entrega-en-mis-pedidos-debido-a-un-error-al-rellenar-la-factura",
     "internalReference": 547053
   },
@@ -14413,6 +14408,11 @@
     "locale": "es",
     "slug": "la-api-de-recuperacion-de-pedidos-del-usuario-no-devuelve-la-paginacion",
     "internalReference": 516699
+  },
+  {
+    "locale": "es",
+    "slug": "la-autorizacion-de-pedidos-inferiores-a-100-se-adapta-a-las-circunstancias",
+    "internalReference": 983031
   },
   {
     "locale": "es",
@@ -14751,7 +14751,7 @@
   },
   {
     "locale": "es",
-    "slug": "sustitucion-de-pedidos-por-otro-canal-de-ventas",
+    "slug": "sustitucion-de-pedidos-con-un-canal-de-venta-diferente",
     "internalReference": 982965
   },
   {
@@ -23336,7 +23336,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-autorizacao-de-pedido-inferior-a-100-segue-o-fluxo",
+    "slug": "a-autorizacao-de-pedidos-inferiores-a-100-segue-o-fluxo",
     "internalReference": 983031
   },
   {
@@ -23951,7 +23951,7 @@
   },
   {
     "locale": "pt",
-    "slug": "substituicao-de-pedidos-por-outro-canal-de-vendas",
+    "slug": "substituicao-de-pedidos-por-meio-de-um-canal-de-vendas-diferente",
     "internalReference": 982965
   },
   {
