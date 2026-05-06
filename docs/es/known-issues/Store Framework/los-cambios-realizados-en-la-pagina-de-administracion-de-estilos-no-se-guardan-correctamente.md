@@ -1,11 +1,9 @@
 ---
-title: 'Los cambios realizados en la página de administración de Estilos no se guardan correctamente'
-id: 4XmBeVMf0yZJElH85mSxC3
+title: 'Los cambios realizados en la página de administración de estilos no se guardan correctamente'
+slug: los-cambios-realizados-en-la-pagina-de-administracion-de-estilos-no-se-guardan-correctamente
 status: PUBLISHED
-createdAt: 2024-01-25T19:13:16.165Z
-updatedAt: 2024-01-25T19:13:16.858Z
-publishedAt: 2024-01-25T19:13:16.858Z
-firstPublishedAt: 2024-01-25T19:13:16.858Z
+createdAt: 2024-01-25T19:12:59.000Z
+updatedAt: 2024-01-25T19:12:59.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,32 +14,20 @@ kiStatus: No Fix
 internalReference: 971948
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-Los cambios que se realizan utilizando la página de estilos de la interfaz de usuario de administración no se están guardando correctamente y no siempre se aplicarán a la página web.
-
-
-##
+Los cambios que se realizan a través de la página de estilos de la interfaz de usuario de administración no se guardan correctamente en este momento y no siempre se aplican al sitio web.
 
 ## Simulación
 
-
-Intente realizar cambios en el estilo del sitio web a través de la página de estilos.
+Intenta realizar cambios en el estilo del sitio web a través de la página de estilos.
 Guarde los cambios.
-Los cambios no se reflejan y no se guardan.
-No se registran errores en la consola y se muestra el mensaje de "Guardado correctamente".
-
-
+Los cambios no se reflejarán y no se guardarán.
+No hay errores registrados en la consola y se muestra el mensaje «Guardado correctamente».
 
 ## Workaround
 
-
-No hay solución.
-
-
-
-
-
+provisional**
+No hay solución provisional.
