@@ -9686,11 +9686,6 @@
   },
   {
     "locale": "es",
-    "slug": "excluir-productos-de-la-coleccion-no-funciona",
-    "internalReference": 923016
-  },
-  {
-    "locale": "es",
     "slug": "exportacion-de-catalogos-para-recortes-de-anexos-50-caracteres",
     "internalReference": 953161
   },
@@ -9973,6 +9968,11 @@
     "locale": "es",
     "slug": "la-funcion-exportar-especificaciones-de-sku-del-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento",
     "internalReference": 465445
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-para-excluir-productos-de-la-seleccion-no-funciona",
+    "internalReference": 923016
   },
   {
     "locale": "es",
@@ -18476,6 +18476,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-funcao-para-excluir-produtos-da-colecao-nao-esta-funcionando",
+    "internalReference": 923016
+  },
+  {
+    "locale": "pt",
     "slug": "a-imagem-do-produto-no-admin-muda-com-mais-de-70-skus",
     "internalReference": 1003966
   },
@@ -19053,11 +19058,6 @@
     "locale": "pt",
     "slug": "especificacoes-obrigatorias-nao-sao-verificadas-ao-criar-um-produto-atraves-de-api",
     "internalReference": 522293
-  },
-  {
-    "locale": "pt",
-    "slug": "excluir-produtos-da-colecao-que-nao-estao-funcionando",
-    "internalReference": 923016
   },
   {
     "locale": "pt",
