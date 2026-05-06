@@ -2,8 +2,8 @@
 title: 'MELI OMS Label Printing'
 slug: meli-oms-label-printing
 status: PUBLISHED
-createdAt: 2025-11-07T11:26:18.313Z
-updatedAt: 2025-11-07T11:26:18.313Z
+createdAt: 2022-03-21T16:13:37.000Z
+updatedAt: 2025-11-07T14:25:36.000Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,23 +16,15 @@ internalReference: 546542
 
 ## Summary
 
-
 We are having some issues when clicking directly inside the button "etiqueta de entrega", for Mercado Livre Orders inside OMS.
 
-
-
-#### Simulation
-
-
+## Simulation
 
 **Open the OMS order link and try to open "Correios" link.**
 
  ![](https://vtexhelp.zendesk.com/attachments/token/0MMTMqtCADHwEFIb5KMcsYQWE/?name=image.png)
 
-
-
-#### Workaround
-
+## Workaround
 
 As a workaround the label can be printed by copying the link and open directly from the browser, or use the label link from bridge.
 
