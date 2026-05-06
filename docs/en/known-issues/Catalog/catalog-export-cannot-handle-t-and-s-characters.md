@@ -1,11 +1,9 @@
 ---
 title: 'Catalog export cannot handle ț and ș characters.'
-id: 1c28limdEHowD4LKDeHAB1
+slug: catalog-export-cannot-handle-t-and-s-characters
 status: PUBLISHED
-createdAt: 2023-12-11T17:40:16.688Z
-updatedAt: 2023-12-11T17:40:17.536Z
-publishedAt: 2023-12-11T17:40:17.536Z
-firstPublishedAt: 2023-12-11T17:40:17.536Z
+createdAt: 2023-12-11T17:39:56.000Z
+updatedAt: 2023-12-11T17:39:56.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,14 +16,9 @@ internalReference: 950933
 
 ## Summary
 
-
 Currently, the catalog import/export cuts our the special characters ț and ș when exporting data.
 
-
-##
-
 ## Simulation
-
 
 1 - Create a product that has ș in its name.
 
@@ -33,15 +26,6 @@ Currently, the catalog import/export cuts our the special characters ț and ș w
 
 3 - this character will not be shown in the exported spreadsheet.
 
-
-##
-
 ## Workaround
 
-
 n/a
-
-
-
-
-
