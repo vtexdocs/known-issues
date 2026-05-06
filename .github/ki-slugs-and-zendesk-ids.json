@@ -12341,11 +12341,6 @@
   },
   {
     "locale": "es",
-    "slug": "las-ad-de-meli-buybox-no-se-pausan-cuando-se-pausa-la-ad-del-mercado",
-    "internalReference": 910371
-  },
-  {
-    "locale": "es",
     "slug": "las-ordenes-meli-no-se-cancelan-en-el-escenario-vtex-oms-para-cuentas-multiples",
     "internalReference": 977453
   },
@@ -12358,6 +12353,11 @@
     "locale": "es",
     "slug": "los-anuncios-de-buybox-de-meli-no-estan-vinculados-a-los-productos-puente",
     "internalReference": 780961
+  },
+  {
+    "locale": "es",
+    "slug": "los-anuncios-de-buybox-de-meli-no-se-pausan-cuando-se-pausa-el-anuncio-del-marketplace",
+    "internalReference": 910371
   },
   {
     "locale": "es",
@@ -21731,13 +21731,13 @@
   },
   {
     "locale": "pt",
-    "slug": "os-ads-do-meli-buybox-nao-estao-sendo-pausados-quando-o-ad-do-marketplace-e-pausado",
-    "internalReference": 910371
+    "slug": "os-anuncios-da-buybox-da-meli-nao-estao-vinculados-aos-produtos-de-transicao",
+    "internalReference": 780961
   },
   {
     "locale": "pt",
-    "slug": "os-anuncios-da-buybox-da-meli-nao-estao-vinculados-aos-produtos-de-transicao",
-    "internalReference": 780961
+    "slug": "os-anuncios-da-buybox-do-meli-nao-sao-pausados-quando-o-anuncio-do-marketplace-e-pausado",
+    "internalReference": 910371
   },
   {
     "locale": "pt",
