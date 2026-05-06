@@ -1,11 +1,9 @@
 ---
 title: 'Outdated Mastercard Debit regex is causing us to misidentify some BINs'
-id: 5gx4dSY2P5gGE0JI661hGL
+slug: outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins
 status: PUBLISHED
-createdAt: 2022-08-20T00:03:11.640Z
-updatedAt: 2024-04-02T19:13:02.839Z
-publishedAt: 2024-04-02T19:13:02.839Z
-firstPublishedAt: 2022-08-20T00:03:12.490Z
+createdAt: 2022-08-19T23:55:49.000Z
+updatedAt: 2024-04-02T19:12:45.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,15 +16,9 @@ internalReference: 642136
 
 ## Summary
 
-
 Some BINs are not being identified correctly at checkout. The card brand is determined by a regex that may eventually be out of date, causing the card brand to be unidentified or misidentified.
 
-
-##
-
 ## Simulation
-
-
 
 1. Configure two Payment Conditions one for Mastercard Debit
 2. Add a random item to your cart in the store and choose to pay it by debit card
@@ -34,14 +26,6 @@ Some BINs are not being identified correctly at checkout. The card brand is dete
 4. Fill the rest card information with fake data
 5. As the card could not be identified, the checkout will ask to confirm the card number and the card brand can be already selected as another card brand
 
-
-##
-
 ## Workaround
 
-
 There's no workaround.
-
-
-
-
