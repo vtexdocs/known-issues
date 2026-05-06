@@ -9096,11 +9096,6 @@
   },
   {
     "locale": "es",
-    "slug": "activar-servicio-al-importar-skuvincularvalorservicoaspx-no-funciona",
-    "internalReference": 339894
-  },
-  {
-    "locale": "es",
     "slug": "actualizacion-de-las-especificaciones-del-producto-inviable-debido-a-la-falta-de-propiedad-en-get-resp-json",
     "internalReference": 301725
   },
@@ -9863,6 +9858,11 @@
     "locale": "es",
     "slug": "la-fecha-de-inicio-de-las-colecciones-no-funciona",
     "internalReference": 667328
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-activar-servicio-al-importar-skuvincularvalorservicoaspx-no-funciona",
+    "internalReference": 339894
   },
   {
     "locale": "es",
@@ -11676,7 +11676,7 @@
   },
   {
     "locale": "es",
-    "slug": "se-pierde-la-informacion-del-cliente-cuando-tiene-algun-pedido-con-profileerroronloading",
+    "slug": "se-pierde-la-informacion-del-cliente-cuando-hay-algun-pedido-con-el-error-profileerroronloading",
     "internalReference": 340036
   },
   {
@@ -14951,11 +14951,6 @@
   },
   {
     "locale": "es",
-    "slug": "importe-a-utilizar-de-la-tarjeta-regalo-no-permite-al-usuario-cambiar-el-valor-cuando-la-moneda-no-tiene-decimales",
-    "internalReference": 339664
-  },
-  {
-    "locale": "es",
     "slug": "importes-negativos-en-los-beneficiarios-de-la-division",
     "internalReference": 388580
   },
@@ -15118,6 +15113,11 @@
     "locale": "es",
     "slug": "la-opcion-guardar-nueva-tarjeta-no-funciona-para-los-proveedores-de-pago-asincronos",
     "internalReference": 308892
+  },
+  {
+    "locale": "es",
+    "slug": "la-opcion-importe-a-utilizar-de-la-tarjeta-regalo-no-permite-al-usuario-modificar-el-valor-cuando-la-moneda-no-admite-decimales",
+    "internalReference": 339664
   },
   {
     "locale": "es",
@@ -18046,6 +18046,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-funcao-ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando",
+    "internalReference": 339894
+  },
+  {
+    "locale": "pt",
     "slug": "a-imagem-do-produto-no-admin-muda-com-mais-de-70-skus",
     "internalReference": 1003966
   },
@@ -18318,11 +18323,6 @@
     "locale": "pt",
     "slug": "as-traducoes-do-catalogo-nao-sao-refletidas-no-frontend",
     "internalReference": 861892
-  },
-  {
-    "locale": "pt",
-    "slug": "ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando",
-    "internalReference": 339894
   },
   {
     "locale": "pt",
@@ -19576,13 +19576,13 @@
   },
   {
     "locale": "pt",
-    "slug": "as-informacoes-do-cliente-estao-sendo-perdidas-quando-ha-algum-pedido-com-profileerroronloading",
-    "internalReference": 340036
+    "slug": "as-informacoes-do-cliente-nao-sao-salvas-no-profile-system",
+    "internalReference": 784763
   },
   {
     "locale": "pt",
-    "slug": "as-informacoes-do-cliente-nao-sao-salvas-no-profile-system",
-    "internalReference": 784763
+    "slug": "as-informacoes-do-cliente-sao-perdidas-quando-ha-algum-pedido-com-o-codigo-profileerroronloading",
+    "internalReference": 340036
   },
   {
     "locale": "pt",
@@ -24061,6 +24061,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-campo-valor-a-ser-utilizado-do-cartaopresente-nao-permite-que-o-usuario-altere-o-valor-quando-a-moeda-nao-possui-casas-decimais",
+    "internalReference": 339664
+  },
+  {
+    "locale": "pt",
     "slug": "o-cartao-de-salvamento-nao-funciona-quando-o-3ds2-esta-ativo",
     "internalReference": 319708
   },
@@ -24213,11 +24218,6 @@
     "locale": "pt",
     "slug": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao",
     "internalReference": 491195
-  },
-  {
-    "locale": "pt",
-    "slug": "o-valor-a-ser-usado-do-cartaopresente-nao-permite-que-o-usuario-altere-o-valor-quando-a-moeda-nao-tem-decimais",
-    "internalReference": 339664
   },
   {
     "locale": "pt",
