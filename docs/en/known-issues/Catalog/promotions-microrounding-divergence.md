@@ -1,11 +1,9 @@
 ---
 title: 'Promotions microrounding divergence'
-id: 603ZTMtdgi9olc6UiWLfmX
+slug: promotions-microrounding-divergence
 status: PUBLISHED
-createdAt: 2023-12-22T18:48:32.438Z
-updatedAt: 2023-12-22T18:48:33.176Z
-publishedAt: 2023-12-22T18:48:33.176Z
-firstPublishedAt: 2023-12-22T18:48:33.176Z
+createdAt: 2023-12-22T18:48:14.000Z
+updatedAt: 2023-12-22T18:48:14.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -17,7 +15,6 @@ internalReference: 957369
 ---
 
 ## Summary
-
 
 The promotions module rounds discounts in up to 3 significative digits, which can, in very specific scenarios, amount to slight divergences in the final price of a cart.
 
@@ -69,27 +66,12 @@ We can see, above, that a "micro" difference was created.
 
 If, several items were added, with distinct prices, to this example cart, this difference could amount to 1 cent (0.01) or more.
 
-
-
-##
-
 ## Simulation
-
 
 There are a multitude of ways to eventually recreate the case Fortunately, all of them are extremely specific.
 
 Given that, it's hard to replicate the issue, but, mostly, it's necesary to create a cart with several (~10+) different items and all of them with 2+ promotions, ideally, one of them being a nominal discount and the other one, a percentual discount.
 
-
-
-##
-
 ## Workaround
 
-
 n/a
-
-
-
-
-
