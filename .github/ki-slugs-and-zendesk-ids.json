@@ -10921,6 +10921,11 @@
   },
   {
     "locale": "es",
+    "slug": "fecha-de-envio-estimada-incorrecta-para-el-pedido-fob",
+    "internalReference": 269104
+  },
+  {
+    "locale": "es",
     "slug": "informacion-de-categoria-de-producto-de-datalayer-con-una-ordenacion-erronea",
     "internalReference": 328415
   },
@@ -11633,11 +11638,6 @@
     "locale": "es",
     "slug": "seleccion-inesperada-de-varios-puntos-de-recogida-para-el-mismo-vendedor-cuando-no-todos-los-articulos-estan-disponibles-a-traves-de-la-misma-opcio",
     "internalReference": 467702
-  },
-  {
-    "locale": "es",
-    "slug": "shippingestimatedate-incorrecto-para-el-pedido-fob",
-    "internalReference": 269104
   },
   {
     "locale": "es",
@@ -19693,6 +19693,11 @@
     "locale": "pt",
     "slug": "data-de-entrega-ficando-vazia-quando-o-item-e-um-presente-adicionado",
     "internalReference": 586143
+  },
+  {
+    "locale": "pt",
+    "slug": "data-estimada-de-envio-incorreta-para-o-pedido-fob",
+    "internalReference": 269104
   },
   {
     "locale": "pt",
