@@ -10956,7 +10956,7 @@
   },
   {
     "locale": "es",
-    "slug": "informacion-de-categoria-de-producto-de-datalayer-con-una-ordenacion-erronea",
+    "slug": "informacion-sobre-la-categoria-de-productos-procedente-de-datalayer-con-un-orden-incorrecto",
     "internalReference": 328415
   },
   {
@@ -16366,7 +16366,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-api-de-uso-de-cupones-get-no-muestra-varios-pedidos-del-mismo-cupon",
+    "slug": "la-api-de-uso-de-cupones-de-get-no-muestra-varios-pedidos-para-el-mismo-cupon",
     "internalReference": 326662
   },
   {
@@ -18776,7 +18776,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-botao-excluir-da-interface-do-usuario-do-catalogo-legado-nao-funciona",
+    "slug": "o-botao-excluir-da-interface-do-usuario-do-catalogo-legado-nao-esta-funcionando",
     "internalReference": 326408
   },
   {
@@ -19841,11 +19841,6 @@
   },
   {
     "locale": "pt",
-    "slug": "informacoes-de-categoria-de-produto-da-datalayer-com-uma-classificacao-errada",
-    "internalReference": 328415
-  },
-  {
-    "locale": "pt",
     "slug": "informacoes-do-cliente-sendo-removidas-do-sistema-de-perfil-sem-razao-clara",
     "internalReference": 469823
   },
@@ -19853,6 +19848,11 @@
     "locale": "pt",
     "slug": "informacoes-incompativeis-na-interface-de-usuario-do-checkout-levam-a-visualizacao-incorreta-de-pacotes",
     "internalReference": 1170509
+  },
+  {
+    "locale": "pt",
+    "slug": "informacoes-sobre-a-categoria-do-produto-provenientes-do-datalayer-com-uma-ordenacao-incorreta",
+    "internalReference": 328415
   },
   {
     "locale": "pt",
@@ -24921,7 +24921,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-get-coupon-usage-nao-lista-varios-pedidos-para-o-mesmo-cupom",
+    "slug": "a-api-de-uso-de-cupons-get-nao-lista-varios-pedidos-para-o-mesmo-cupom",
     "internalReference": 326662
   },
   {
