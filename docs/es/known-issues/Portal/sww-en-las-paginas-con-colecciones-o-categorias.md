@@ -1,11 +1,9 @@
 ---
 title: 'SWW en las páginas con colecciones o categorías'
-id: 2ip0Xv0lzakCou8Hztm1eU
+slug: sww-en-las-paginas-con-colecciones-o-categorias
 status: PUBLISHED
-createdAt: 2023-04-05T18:42:00.801Z
-updatedAt: 2023-04-05T18:42:01.527Z
-publishedAt: 2023-04-05T18:42:01.527Z
-firstPublishedAt: 2023-04-05T18:42:01.527Z
+createdAt: 2023-04-05T18:41:45.000Z
+updatedAt: 2023-04-05T18:41:45.000Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,30 +14,18 @@ kiStatus: Backlog
 internalReference: 785324
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-A veces, cuando cargamos una categoría o colección, ya sea por view-part o desde la propia página de la colección/categoría, se muestra un error SWW en toda la página.
-Generalmente, el error cesa cuando se reindexan los productos de la colección o de la categoría.
-
-
-##
+A veces, al cargar una categoría o una colección, ya sea mediante una vista parcial o desde la propia página de la colección o categoría, aparece un error SWW en toda la página.
+Por lo general, el error desaparece cuando se reindexan los productos de la colección o de la categoría
 
 ## Simulación
 
-
-Abrir una página en el front que cargue una colección o una categoría
-
-
+Abre una página del front-end que cargue una colección o una categoría
 
 ## Workaround
 
-
-Reindexar todos los productos de la colección o las categorías
-
-
-
-
-
+provisional**
+Reindexa todos los productos de la colección o de las categorías
