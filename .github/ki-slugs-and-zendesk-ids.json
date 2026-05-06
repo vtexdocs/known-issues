@@ -13566,11 +13566,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-espacio-en-la-identificacion-del-almacen-hace-que-fallen-las-solicitudes-de-logistica-interna",
-    "internalReference": 654370
-  },
-  {
-    "locale": "es",
     "slug": "el-espacio-en-la-propiedad-street-en-postal-code-json-afecta-a-la-visualizacion-del-campo-de-direccion-en-la-caja",
     "internalReference": 872935
   },
@@ -13763,6 +13758,11 @@
     "locale": "es",
     "slug": "solicitud-incorrecta-al-intentar-acceder-a-un-inventario-con-una-gran-cantidad-de-articulos-reservados",
     "internalReference": 296066
+  },
+  {
+    "locale": "es",
+    "slug": "un-error-en-el-identificador-del-espacio-de-almacen-provoca-que-fallen-las-solicitudes-logisticas-internas",
+    "internalReference": 654370
   },
   {
     "locale": "es",
@@ -22608,6 +22608,11 @@
     "locale": "pt",
     "slug": "erro-de-itens-reservados-de-estoque",
     "internalReference": 347924
+  },
+  {
+    "locale": "pt",
+    "slug": "erros-no-id-do-espaco-no-armazem-causam-falhas-nas-solicitacoes-de-logistica-interna",
+    "internalReference": 654370
   },
   {
     "locale": "pt",
