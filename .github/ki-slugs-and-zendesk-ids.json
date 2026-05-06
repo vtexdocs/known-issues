@@ -12376,7 +12376,7 @@
   },
   {
     "locale": "es",
-    "slug": "mensajes-automaticos-meli-mercado-livre-mensajes",
+    "slug": "mensajes-automaticos-de-meli-en-mercado-livre-mensajes",
     "internalReference": 615164
   },
   {
@@ -16796,6 +16796,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-enlace-de-descarga-de-la-exportacion-de-datos-maestros-no-esta-disponible",
+    "internalReference": 613864
+  },
+  {
+    "locale": "es",
     "slug": "el-filtro-booleano-en-la-aplicacion-de-formularios-no-funciona-correctamente",
     "internalReference": 918537
   },
@@ -16898,11 +16903,6 @@
     "locale": "es",
     "slug": "los-indices-de-clusteres-que-superan-el-limite-de-campos-provocan-que-los-documentos-no-se-indexen",
     "internalReference": 1078027
-  },
-  {
-    "locale": "es",
-    "slug": "masterdata-export-enlace-de-descarga-no-disponible",
-    "internalReference": 613864
   },
   {
     "locale": "es",
@@ -21266,7 +21266,7 @@
   },
   {
     "locale": "pt",
-    "slug": "mensagens-automaticas-do-meli-mercado-livre-mensagens",
+    "slug": "mensagens-automaticas-do-meli-no-mercado-livre-mensagens",
     "internalReference": 615164
   },
   {
@@ -25821,7 +25821,7 @@
   },
   {
     "locale": "pt",
-    "slug": "link-de-download-do-masterdata-export-indisponivel",
+    "slug": "link-para-download-da-exportacao-de-dados-mestres-indisponivel",
     "internalReference": 613864
   },
   {
