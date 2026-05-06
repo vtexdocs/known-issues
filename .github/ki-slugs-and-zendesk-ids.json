@@ -15591,11 +15591,6 @@
   },
   {
     "locale": "es",
-    "slug": "limitaciones-del-campo-isvaluechangeable-para-transacciones-con-valor-minimo-de-001",
-    "internalReference": 825122
-  },
-  {
-    "locale": "es",
     "slug": "liquidacion-automatica-de-pagos-configurada-incorrectamente",
     "internalReference": 1053010
   },
@@ -15913,6 +15908,11 @@
     "locale": "es",
     "slug": "reglas-de-autorizacion-competidoras-generadas-al-recibir-un-valor-delaytocancel",
     "internalReference": 1338614
+  },
+  {
+    "locale": "es",
+    "slug": "restricciones-del-campo-isvaluechangeable-para-transacciones-con-un-minimumvalue-de-001",
+    "internalReference": 825122
   },
   {
     "locale": "es",
@@ -24551,7 +24551,7 @@
   },
   {
     "locale": "pt",
-    "slug": "limitacoes-do-campo-isvaluechangeable-para-transacoes-com-minimumvalue-de-001",
+    "slug": "limitacoes-do-campo-isvaluechangeable-para-transacoes-com-minimumvalue-igual-a-001",
     "internalReference": 825122
   },
   {
