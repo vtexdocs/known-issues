@@ -9176,7 +9176,7 @@
   },
   {
     "locale": "es",
-    "slug": "al-exportar-imagenes-sku-para-cuentas-que-empiezan-por-ht-o-p-se-corta-este-caracter-en-las-filas-url-de-la-imagen",
+    "slug": "al-exportar-imagenes-de-sku-para-cuentas-que-empiezan-por-h-t-o-p-este-caracter-aparece-truncado-en-las-filas-de-url-de-la-imagen",
     "internalReference": 919199
   },
   {
@@ -18441,11 +18441,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-exportacao-de-imagens-de-sku-para-contas-que-comecam-com-h-t-ou-p-recebe-esse-corte-de-caracteres-nas-linhas-de-url-da-imagem",
-    "internalReference": 919199
-  },
-  {
-    "locale": "pt",
     "slug": "a-exportacao-de-muitos-produtosskus-leva-muito-tempo-e-as-vezes-a-solicitacao-nao-pode-ser-concluida",
     "internalReference": 284386
   },
@@ -18658,6 +18653,11 @@
     "locale": "pt",
     "slug": "alterar-a-ordem-de-uma-especificacao-de-sku-no-admin-pode-fazer-a-pagina-nao-funcionar-corretamente",
     "internalReference": 460329
+  },
+  {
+    "locale": "pt",
+    "slug": "ao-exportar-imagens-de-skus-para-contas-que-comecam-com-h-t-ou-p-esse-caractere-e-cortado-nas-linhas-url-da-imagem",
+    "internalReference": 919199
   },
   {
     "locale": "pt",
