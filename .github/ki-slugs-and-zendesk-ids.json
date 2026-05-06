@@ -11546,7 +11546,7 @@
   },
   {
     "locale": "es",
-    "slug": "orderform-chk-api-sugiere-una-entrega-programada-no-valida-que-no-se-puede-utilizar",
+    "slug": "orderform-api-chk-indica-una-entrega-programada-no-valida-que-no-se-puede-utilizar",
     "internalReference": 298665
   },
   {
@@ -20221,7 +20221,7 @@
   },
   {
     "locale": "pt",
-    "slug": "orderform-chk-api-sugerindo-uma-entrega-programada-invalida-que-nao-pode-ser-usada",
+    "slug": "orderform-api-chk-indica-uma-data-de-entrega-programada-invalida-que-nao-pode-ser-utilizada",
     "internalReference": 298665
   },
   {
