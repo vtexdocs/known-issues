@@ -16606,7 +16606,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-al-alcanzar-paginas-superiores-a-333-en-una-lista-de-entidades-mas-de-10000-documentos",
+    "slug": "error-al-acceder-a-paginas-posteriores-a-la-333-en-una-lista-de-entidades-mas-de-10-000-documentos",
     "internalReference": 334407
   },
   {
@@ -25387,6 +25387,11 @@
   {
     "locale": "pt",
     "slug": "erro-ao-acessar-paginas-acima-de-333-em-uma-lista-de-entidades-mais-de-10000-documentos",
+    "internalReference": 334407
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-ao-acessar-paginas-alem-da-333-em-uma-lista-de-entidades-mais-de-10000-documentos",
     "internalReference": 334407
   },
   {
