@@ -1,11 +1,9 @@
 ---
-title: '''Back'' button is not rendered in My Organization'
-id: xzd2JVKP6jcTN0dGWwISB
+title: '"Back" button is not rendered in My Organization'
+slug: back-button-is-not-rendered-in-my-organization
 status: PUBLISHED
-createdAt: 2023-04-25T21:26:35.401Z
-updatedAt: 2023-05-12T20:42:29.822Z
-publishedAt: 2023-05-12T20:42:29.822Z
-firstPublishedAt: 2023-04-25T21:26:36.170Z
+createdAt: 2023-04-25T21:26:20.000Z
+updatedAt: 2023-05-12T20:42:18.000Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,28 +16,14 @@ internalReference: 797003
 
 ## Summary
 
-
 The "Back" button is not rendered in My Organization on mobiles preventing the shopper from accessing other options from My Account.
 
-
-##
-
 ## Simulation
-
-
 
 - Login to the website using a mobile;
 - Access the My Account;
 - Select My Organization; there is no "Back" button.
 
-
-##
-
 ## Workaround
 
-
 Click to go back from the browser.
-
-
-
-
