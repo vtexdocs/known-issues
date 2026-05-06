@@ -11316,6 +11316,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-pago-pasa-a-la-fase-de-pago-aunque-la-direccion-de-facturacion-este-incompleta-en-el-caso-de-los-compradores-cuyo-perfil-este-completo",
+    "internalReference": 937615
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-pago-sobrescribe-el-destinatario-del-envio-cuando-el-nombre-es-diferente-de-los-datos-del-perfil",
     "internalReference": 822670
   },
@@ -11343,11 +11348,6 @@
     "locale": "es",
     "slug": "la-interfaz-de-usuario-de-pago-muestra-inicie-sesion-para-ver-los-creditos-cuando-el-proveedor-devuelve-saldo0",
     "internalReference": 1356257
-  },
-  {
-    "locale": "es",
-    "slug": "la-interfaz-de-usuario-de-pago-pasa-a-pago-con-una-direccion-de-factura-incompleta-para-compradores-con-perfil-completo",
-    "internalReference": 937615
   },
   {
     "locale": "es",
@@ -11651,6 +11651,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-datos-de-marketing-no-se-guardan-en-los-pedidos-cuando-se-utiliza-la-funcion-de-cupones-multiples-y-los-parametros-utm",
+    "internalReference": 936458
+  },
+  {
+    "locale": "es",
     "slug": "los-datos-del-perfil-se-cargan-vacios-en-la-interfaz-de-usuario-para-un-perfil-completo-con-ignoreprofiledata",
     "internalReference": 1016582
   },
@@ -11703,11 +11708,6 @@
     "locale": "es",
     "slug": "los-valores-permitidos-de-los-archivos-adjuntos-no-se-actualizan-cuando-se-anaden-a-los-elementos",
     "internalReference": 920970
-  },
-  {
-    "locale": "es",
-    "slug": "marketingdata-no-se-guarda-en-los-pedidos-cuando-se-utiliza-la-funcion-de-cupones-multiples-y-utms",
-    "internalReference": 936458
   },
   {
     "locale": "es",
@@ -13501,7 +13501,7 @@
   },
   {
     "locale": "es",
-    "slug": "precio-al-contado-incorrecto-para-articulos-con-unitmultiplier-superior-a-1-en-api-de-busqueda-inteligente",
+    "slug": "precio-de-mercado-incorrecto-para-articulos-con-un-multiplicador-de-unidades-superior-a-1-en-las-api-de-busqueda-inteligente",
     "internalReference": 934687
   },
   {
@@ -19886,6 +19886,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-interface-do-checkout-avanca-para-a-pagina-de-pagamento-com-um-endereco-de-faturamento-incompleto-para-compradores-com-perfil-completo",
+    "internalReference": 937615
+  },
+  {
+    "locale": "pt",
     "slug": "a-interface-do-checkout-desmarca-a-opcao-agendar-tudo-apos-a-atualizacao-da-pagina",
     "internalReference": 784693
   },
@@ -19918,11 +19923,6 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-do-checkout-permite-o-pagamento-com-endereco-de-fatura-incompleto-no-fluxo-de-retirada-invoicedata-inconsistente",
     "internalReference": 1333831
-  },
-  {
-    "locale": "pt",
-    "slug": "a-interface-do-usuario-do-checkout-vai-para-pagamento-com-um-endereco-de-fatura-incompleto-para-compradores-com-perfil-completo",
-    "internalReference": 937615
   },
   {
     "locale": "pt",
@@ -20481,11 +20481,6 @@
   },
   {
     "locale": "pt",
-    "slug": "marketingdata-nao-e-salvo-nos-pedidos-ao-usar-o-recurso-de-varios-cupons-e-utms",
-    "internalReference": 936458
-  },
-  {
-    "locale": "pt",
     "slug": "marketingtags-com-valor-nulo-quando-o-publicoalvo-da-campanha-e-correspondido",
     "internalReference": 1052895
   },
@@ -20923,6 +20918,11 @@
     "locale": "pt",
     "slug": "os-custos-de-envio-proporcionais-apresentam-valores-negativos-quando-ha-promocoes-que-dividem-os-itens-e-frete-gratis-aplicado",
     "internalReference": 909925
+  },
+  {
+    "locale": "pt",
+    "slug": "os-dados-de-marketing-nao-sao-salvos-nos-pedidos-ao-usar-o-recurso-de-cupons-multiplos-e-os-parametros-utm",
+    "internalReference": 936458
   },
   {
     "locale": "pt",
@@ -22346,7 +22346,7 @@
   },
   {
     "locale": "pt",
-    "slug": "conflito-entre-especificacoes-com-o-mesmo-nome-na-intelligent-search",
+    "slug": "conflito-entre-especificacoes-com-o-mesmo-nome-na-pesquisa-inteligente",
     "internalReference": 933958
   },
   {
@@ -22631,6 +22631,11 @@
   },
   {
     "locale": "pt",
+    "slug": "preco-de-mercado-incorreto-para-itens-com-unitmultiplier-maior-que-1-nas-apis-de-pesquisa-inteligente",
+    "internalReference": 934687
+  },
+  {
+    "locale": "pt",
     "slug": "preco-indexado-de-um-produto-considerando-o-sku-com-o-preco-mais-alto-em-vez-do-mais-baixo",
     "internalReference": 822120
   },
@@ -22728,11 +22733,6 @@
     "locale": "pt",
     "slug": "sinonimos-nao-exibidos-na-pesquisa-explicada",
     "internalReference": 774307
-  },
-  {
-    "locale": "pt",
-    "slug": "spotprice-incorreto-para-itens-com-unitmultiplier-maior-que-1-nas-apis-de-pesquisa-inteligente",
-    "internalReference": 934687
   },
   {
     "locale": "pt",
