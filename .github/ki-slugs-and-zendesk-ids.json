@@ -11311,11 +11311,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-usuario-muestra-erroneamente-el-precio-del-envio-cuando-los-paquetes-se-dividen-para-una-entrega-programada",
-    "internalReference": 774155
-  },
-  {
-    "locale": "es",
     "slug": "la-interfaz-de-usuario-muestra-puntos-de-recogida-duplicados-cuando-un-articulo-para-entrega-se-encuentra-entre-articulos-para-recogida",
     "internalReference": 906549
   },
@@ -11328,6 +11323,11 @@
     "locale": "es",
     "slug": "la-interfaz-de-usuario-muestra-regalos-elegidos-cuando-se-utiliza-la-funcion-de-sustitucion-de-pedidos",
     "internalReference": 909137
+  },
+  {
+    "locale": "es",
+    "slug": "la-interfaz-de-usuario-muestra-un-precio-de-envio-incorrecto-cuando-los-paquetes-se-dividen-para-su-entrega-programada",
+    "internalReference": 774155
   },
   {
     "locale": "es",
@@ -19811,6 +19811,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-interface-do-usuario-exibe-incorretamente-o-valor-do-frete-quando-as-encomendas-sao-divididas-para-entrega-programada",
+    "internalReference": 774155
+  },
+  {
+    "locale": "pt",
     "slug": "a-interface-do-usuario-fica-congelada-se-ocorrer-um-erro-no-processo-interno-da-ordem-de-colocacao",
     "internalReference": 943771
   },
@@ -20963,11 +20968,6 @@
     "locale": "pt",
     "slug": "ui-duplicando-selecao-de-data-e-hora-para-entrega-programada-quando-ha-divisao-de-entrega",
     "internalReference": 569132
-  },
-  {
-    "locale": "pt",
-    "slug": "ui-exibindo-erroneamente-o-preco-de-envio-quando-os-pacotes-sao-divididos-para-entrega-programada",
-    "internalReference": 774155
   },
   {
     "locale": "pt",
