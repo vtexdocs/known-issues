@@ -1,11 +1,9 @@
 ---
 title: 'File Manager upload with two one more existent files does not update all the files, only the first'
-id: 2LHdzsFFe83E1Tf0Z4j66y
+slug: file-manager-upload-with-two-one-more-existent-files-does-not-update-all-the-files-only-the-first
 status: PUBLISHED
-createdAt: 2022-03-17T00:20:51.454Z
-updatedAt: 2024-02-16T20:23:18.080Z
-publishedAt: 2024-02-16T20:23:18.080Z
-firstPublishedAt: 2022-03-17T00:20:52.317Z
+createdAt: 2021-08-24T14:19:36.000Z
+updatedAt: 2024-01-23T18:32:23.000Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,14 +16,9 @@ internalReference: 418253
 
 ## Summary
 
-
 File Manager upload with two one more existent files does not update all the files, only the first
 
-
-##
-
 ## Simulation
-
 
 - Go to /admin/a, file manager, and add 2 or more files to upload;
 - Now upload two other files with the same name:
@@ -35,11 +28,6 @@ This warning is telling us only about one file, the second one is not being vali
 
 - Both files upload, but only one will replace the older one.
 
-
-##
-
 ## Workaround
 
-
 Update one file per time.
-
