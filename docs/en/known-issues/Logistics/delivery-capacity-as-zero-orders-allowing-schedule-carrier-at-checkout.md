@@ -2,8 +2,8 @@
 title: 'Delivery Capacity as (zero) Orders, allowing schedule Carrier at Checkout'
 slug: delivery-capacity-as-zero-orders-allowing-schedule-carrier-at-checkout
 status: PUBLISHED
-createdAt: 2026-04-28T14:04:02.575Z
-updatedAt: 2026-04-28T14:04:02.575Z
+createdAt: 2021-11-18T22:15:26.000Z
+updatedAt: 2022-05-24T21:01:12.000Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
