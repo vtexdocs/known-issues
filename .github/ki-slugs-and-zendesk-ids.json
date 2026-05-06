@@ -9606,6 +9606,11 @@
   },
   {
     "locale": "es",
+    "slug": "eliminar-la-informacion-del-proveedor-de-un-producto-que-no-funciona-a-traves-de-admin",
+    "internalReference": 796608
+  },
+  {
+    "locale": "es",
     "slug": "enlace-de-texto-creado-con-en-marketplace-tras-su-aprobacion-repeticion",
     "internalReference": 795900
   },
@@ -19148,6 +19153,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-inativar-este-produto-porque-ele-possui-um-ou-mais-skus-ativos-does-not-automatically-translate-on-the-product-admin",
     "internalReference": 768603
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-remover-as-informacoes-do-fornecedor-do-produto-atraves-do-admin",
+    "internalReference": 796608
   },
   {
     "locale": "pt",
