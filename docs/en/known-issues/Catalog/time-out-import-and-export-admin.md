@@ -1,11 +1,9 @@
 ---
 title: 'Time Out - Import and Export Admin'
-id: 5sPtDgOXtiGcYMvZL7aCf8
+slug: time-out-import-and-export-admin
 status: PUBLISHED
-createdAt: 2022-03-10T12:36:57.023Z
-updatedAt: 2024-01-19T15:24:38.444Z
-publishedAt: 2024-01-19T15:24:38.444Z
-firstPublishedAt: 2022-03-10T12:36:57.461Z
+createdAt: 2021-09-03T12:45:15.000Z
+updatedAt: 2024-01-19T15:24:23.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,24 +16,12 @@ internalReference: 424902
 
 ## Summary
 
-
 For some accounts with lots of products, the import and export admin does not load, generating a time out
-
-
-
-##
 
 ## Simulation
 
-
 Go to `/admin/Site/Relatorio_Skus.aspx `
-
-
-
-##
 
 ## Workaround
 
-
 Reloading the page a few times after the error might load the admin.
-
