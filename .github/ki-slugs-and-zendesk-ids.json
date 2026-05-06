@@ -11256,6 +11256,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-funcion-envio-optimizado-no-se-desactiva-tras-eliminar-articulos-del-carrito",
+    "internalReference": 916461
+  },
+  {
+    "locale": "es",
     "slug": "la-funcion-lean-shipping-anula-el-metodo-de-envio-preferido-por-el-usuario-y-aplica-la-opcion-mas-economica-en-diferentes-sesiones-o-navegadores",
     "internalReference": 607411
   },
@@ -11561,7 +11566,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-promociones-de-envio-que-se-aplican-en-distintos-sla-provocan-divergencias-en-el-tax-hub",
+    "slug": "las-promociones-de-envio-aplicables-en-distintos-sla-provocan-discrepancias-en-tax-hub",
     "internalReference": 916423
   },
   {
@@ -11588,11 +11593,6 @@
     "locale": "es",
     "slug": "lean-shipping-muestra-en-ui-el-shippingestimate-mas-alto-de-los-sla-seleccionados",
     "internalReference": 1126188
-  },
-  {
-    "locale": "es",
-    "slug": "lean-shipping-no-se-desactiva-despues-de-quitar-articulos-del-carrito",
-    "internalReference": 916461
   },
   {
     "locale": "es",
@@ -13988,6 +13988,11 @@
     "locale": "es",
     "slug": "la-creacion-de-grupos-de-vendedores-no-anade-los-vendedores-seleccionados",
     "internalReference": 926969
+  },
+  {
+    "locale": "es",
+    "slug": "la-desactivacion-de-un-vendedor-en-la-nueva-interfaz-de-usuario-del-registro-de-vendedores-no-provoca-la-reindexacion-de-los-productos-desfase-en-la-sincronizacion-del-marketplace",
+    "internalReference": 915970
   },
   {
     "locale": "es",
@@ -21036,7 +21041,7 @@
   },
   {
     "locale": "pt",
-    "slug": "promocoes-de-remessa-aplicadas-em-slas-diferentes-causando-divergencia-no-tax-hub",
+    "slug": "promocoes-de-envio-aplicadas-em-diferentes-slas-estao-causando-divergencias-no-tax-hub",
     "internalReference": 916423
   },
   {
@@ -23068,6 +23073,11 @@
     "locale": "pt",
     "slug": "a-criacao-de-um-grupo-de-vendedores-nao-adiciona-os-vendedores-selecionados",
     "internalReference": 926969
+  },
+  {
+    "locale": "pt",
+    "slug": "a-desativacao-do-vendedor-na-nova-interface-do-registro-de-vendedores-nao-aciona-a-reindexacao-dos-produtos-desfasamento-na-sincronizacao-do-marketplace",
+    "internalReference": 915970
   },
   {
     "locale": "pt",
