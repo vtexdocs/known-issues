@@ -2,8 +2,8 @@
 title: 'Promotions by order of payment methods do not appear on the product page'
 slug: promotions-by-order-of-payment-methods-do-not-appear-on-the-product-page
 status: PUBLISHED
-createdAt: 2025-11-14T19:13:25.444Z
-updatedAt: 2025-11-14T19:13:25.444Z
+createdAt: 2023-03-30T20:12:49.000Z
+updatedAt: 2023-03-31T15:44:40.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,30 +16,14 @@ internalReference: 781523
 
 ## Summary
 
-
 The product page shows the SKU price with some promotions only, which does not include the specific conditions for payment methods nor the number of installments. These are only applied during checkout, after the user has explicitly opted for using a certain payment condition.
 
-
-
-#### Simulation
-
-
-
+## Simulation
 
 1. Create a promotion that grants a 5% discount for payment by "boleto" (popular Brazilian offline payment method)
 2. Access the product page
 3. Note that the displayed value do not take the set discount into account. The discount will appear after choosing "boleto" as payment method at checkout.
 
-
-
-#### Workaround
-
-
+## Workaround
 
 This scenario can be easily solved by implementing a front-end Javascript which calculates the price and includes the discount percentage due, thereafter displaying an element with this additional price on the product page.
-
-
-
-
-
-
