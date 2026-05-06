@@ -13806,6 +13806,11 @@
   },
   {
     "locale": "es",
+    "slug": "codigos-de-producto-recibidos-la-funcion-de-exportacion-no-funciona-para-los-administradores-en-otros-idiomas-solo-pt-en-es",
+    "internalReference": 668122
+  },
+  {
+    "locale": "es",
     "slug": "crear-vendedor-con-informacion-adicional-devuelve-un-error",
     "internalReference": 741110
   },
@@ -13958,11 +13963,6 @@
     "locale": "es",
     "slug": "skus-de-un-mismo-producto-creados-por-separado-en-cuentas-con-el-indicador-autoaprobar-activado",
     "internalReference": 962986
-  },
-  {
-    "locale": "es",
-    "slug": "skus-recibidos-la-funcion-de-exportacion-no-funciona-para-los-administradores-en-otros-idiomas-solo-pt-en-es",
-    "internalReference": 668122
   },
   {
     "locale": "es",
@@ -22936,7 +22936,7 @@
   },
   {
     "locale": "pt",
-    "slug": "skus-recebidos-a-funcao-de-exportacao-nao-esta-funcionando-para-administradores-em-outros-idiomas-somente-pt-en-es",
+    "slug": "skus-recebidos-a-funcao-de-exportacao-nao-esta-funcionando-para-administradores-em-outros-idiomas-apenas-pt-en-es",
     "internalReference": 668122
   },
   {
