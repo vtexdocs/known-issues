@@ -2,8 +2,8 @@
 title: "Portal doesn't delete cookies when client logout at checkout"
 slug: portal-doesnt-delete-cookies-when-client-logout-at-checkout
 status: PUBLISHED
-createdAt: 2025-11-14T19:36:35.055Z
-updatedAt: 2025-11-14T19:36:35.055Z
+createdAt: 2021-08-23T15:40:35.000Z
+updatedAt: 2025-05-16T23:06:55.000Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,14 +16,11 @@ internalReference: 417322
 
 ## Summary
 
-
 At a store's checkout, we have an option to log out.
 
 Unfortunately, the request made to the portal application does not delete the user's cookies, which remain on the OrderForm with the client's email, so the client cannot log out using this option. This behavior happens in stores with a storefront solution other than "Legacy CMS Portal".
 
-
-#### Simulation
-
+## Simulation
 
 1. Go to the store's website (`www.store.com`) and login from My Account using email and code;
 2. Once you log in, make a cart and go to checkout;
@@ -33,10 +30,6 @@ Checkout performs the request normally, making the request along with the `order
 
 However, the Portal Application does not delete this user's cookie and thus returns the same user. The email is kept in the order form, and consequently, it is not logged out.
 
-
-#### Workaround
-
+## Workaround
 
 Open a ticket with VTEX asking to enable the logout with VTEX ID.
-
-
