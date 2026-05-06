@@ -2,8 +2,8 @@
 title: 'MELI Promotion Center not linking SKUs to Promotion'
 slug: meli-promotion-center-not-linking-skus-to-promotion
 status: PUBLISHED
-createdAt: 2025-11-14T19:19:54.659Z
-updatedAt: 2025-11-14T19:19:54.659Z
+createdAt: 2023-05-03T15:21:20.000Z
+updatedAt: 2025-06-23T17:22:47.000Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,20 +16,12 @@ internalReference: 801348
 
 ## Summary
 
-
 we finalize adjustments
 
-
-#### Simulation
-
+## Simulation
 
 N/A
 
-
-#### Workaround
-
+## Workaround
 
 N/A
-
-
-
