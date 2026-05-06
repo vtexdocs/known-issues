@@ -1,11 +1,9 @@
 ---
 title: 'CMS Settings Role not working as expected'
-id: 1xAUvtkD2gbvc3yaoYXT2d
+slug: cms-settings-role-not-working-as-expected
 status: PUBLISHED
-createdAt: 2023-06-19T12:31:33.137Z
-updatedAt: 2023-06-19T12:31:33.699Z
-publishedAt: 2023-06-19T12:31:33.699Z
-firstPublishedAt: 2023-06-19T12:31:33.699Z
+createdAt: 2022-03-09T13:13:47.000Z
+updatedAt: 2023-06-19T12:31:18.000Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,37 +16,22 @@ internalReference: 538706
 
 ## Summary
 
-
 CMS Settings Role not working as expected. Sometimes the user can't access the CMS even after is added to the role.
 Another unexpected behavior is that other modules continue to be available for the CMS role even without the necessary permissions.
 
-
-##
-
 ## Simulation
-
-
 
 - Create a role at the License Manager Roles application giving only access to:
   - CMS menu on the top-bar;
   - CMS Settings.
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Portal/cms-settings-role-not-working-as-expected_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/fbpObVoVdnEYGeYjd3GDh9Qqf/?name=image.png)
 
 
 - Associate this role to a user;
 - Log in with this user and try to access the CMS settings menu, you will not be able.
 - Check that other modules continue to be available.
 
-
-##
-
 ## Workaround
 
-
 To access the CMS Menu, the user should be an Admin Super.
-
-
-
-
-
