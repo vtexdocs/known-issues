@@ -8881,7 +8881,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-pagina-colecciones-en-detalles-de-la-organizacion-solo-muestra-20-colecciones",
+    "slug": "la-pagina-colecciones-en-los-detalles-de-la-organizacion-solo-muestra-20-colecciones",
     "internalReference": 891511
   },
   {
@@ -9208,11 +9208,6 @@
     "locale": "es",
     "slug": "aparece-un-error-en-la-administracion-del-catalogo",
     "internalReference": 907567
-  },
-  {
-    "locale": "es",
-    "slug": "api-de-busqueda-en-catalogos-limitada-a-2500-resultados",
-    "internalReference": 891184
   },
   {
     "locale": "es",
@@ -9788,6 +9783,11 @@
     "locale": "es",
     "slug": "la-api-de-attachents-no-permite-domainvalues-nulos-y-deberia",
     "internalReference": 897480
+  },
+  {
+    "locale": "es",
+    "slug": "la-api-de-busqueda-del-catalogo-esta-limitada-a-2500-resultados",
+    "internalReference": 891184
   },
   {
     "locale": "es",
@@ -17881,7 +17881,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-pagina-colecoes-em-detalhes-da-organizacao-mostra-apenas-20-colecoes",
+    "slug": "a-pagina-colecoes-na-secao-detalhes-da-organizacao-mostra-apenas-20-colecoes",
     "internalReference": 891511
   },
   {
@@ -18656,7 +18656,7 @@
   },
   {
     "locale": "pt",
-    "slug": "api-de-pesquisa-de-catalogo-limitada-a-2500-resultados",
+    "slug": "api-de-pesquisa-do-catalogo-limitada-a-2500-resultados",
     "internalReference": 891184
   },
   {
