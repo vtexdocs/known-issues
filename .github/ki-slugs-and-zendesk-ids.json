@@ -13456,6 +13456,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-productos-con-unitmultiplier-se-marcan-erroneamente-como-en-promocion-en-los-filtros-de-busqueda",
+    "internalReference": 982830
+  },
+  {
+    "locale": "es",
     "slug": "los-productos-destacados-no-funcionan-en-una-lista-de-productos",
     "internalReference": 546844
   },
@@ -13573,11 +13578,6 @@
     "locale": "es",
     "slug": "productos-con-precio-cero-mostrados-como-no-disponibles-en-busqueda-inteligente",
     "internalReference": 1045184
-  },
-  {
-    "locale": "es",
-    "slug": "productos-con-unitmultiplier-marcados-erroneamente-como-con-promocion-para-los-filtros-de-busqueda",
-    "internalReference": 982830
   },
   {
     "locale": "es",
@@ -22721,7 +22721,7 @@
   },
   {
     "locale": "pt",
-    "slug": "produtos-com-unitmultiplier-sinalizados-erroneamente-como-com-promocao-para-filtros-de-pesquisa",
+    "slug": "produtos-com-unitmultiplier-erroneamente-marcados-como-em-promocao-nos-filtros-de-pesquisa",
     "internalReference": 982830
   },
   {
