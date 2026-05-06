@@ -21266,11 +21266,6 @@
   },
   {
     "locale": "pt",
-    "slug": "codigos-postais-de-integracao-meli-11111-meli-limaperu",
-    "internalReference": 826566
-  },
-  {
-    "locale": "pt",
     "slug": "cotacao-de-frete-meli-para-multiplos-officialstoreids",
     "internalReference": 978358
   },
@@ -21393,6 +21388,11 @@
     "locale": "pt",
     "slug": "integracao-de-pedido-amazon-quantidade-de-item-invalida",
     "internalReference": 385656
+  },
+  {
+    "locale": "pt",
+    "slug": "integracao-meli-cep-11111-meli-limaperu",
+    "internalReference": 826566
   },
   {
     "locale": "pt",
