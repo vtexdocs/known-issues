@@ -10471,6 +10471,11 @@
   },
   {
     "locale": "es",
+    "slug": "al-finalizar-la-compra-el-nombre-del-destinatario-se-sustituye-por-el-nombre-del-cliente",
+    "internalReference": 324792
+  },
+  {
+    "locale": "es",
     "slug": "al-interactuar-con-el-componente-de-pago-cuando-aun-se-encuentra-en-estado-de-carga-se-envia-la-opcion-de-pago-incorrecta",
     "internalReference": 952086
   },
@@ -11036,11 +11041,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-configuracion-de-la-cantidad-maxima-del-mismo-articulo-en-el-carro-no-puede-ser-modificada-por-las-cuentas-de-franquicia",
-    "internalReference": 325273
-  },
-  {
-    "locale": "es",
     "slug": "la-creacion-de-la-orden-fallo-debido-a-la-divergencia-de-precios-en-la-capa-de-cumplimiento",
     "internalReference": 512393
   },
@@ -11323,6 +11323,11 @@
     "locale": "es",
     "slug": "la-vista-previa-del-envio-muestra-erroneamente-un-mensaje-de-no-disponibilidad-para-la-recogida",
     "internalReference": 764457
+  },
+  {
+    "locale": "es",
+    "slug": "las-cuentas-de-franquicia-no-pueden-modificar-el-limite-maximo-de-unidades-del-mismo-articulo-en-el-carrito",
+    "internalReference": 325273
   },
   {
     "locale": "es",
@@ -19261,7 +19266,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-configuracao-da-quantidade-maxima-do-mesmo-item-no-carrinho-nao-pode-ser-alterada-pelas-contas-de-franquia",
+    "slug": "a-configuracao-da-quantidade-maxima-do-mesmo-item-no-carrinho-nao-pode-ser-alterada-por-contas-de-franquia",
     "internalReference": 325273
   },
   {
@@ -20052,6 +20057,11 @@
   {
     "locale": "pt",
     "slug": "o-checkout-sobregrava-o-nome-do-receptor-com-o-nome-do-cliente",
+    "internalReference": 324792
+  },
+  {
+    "locale": "pt",
+    "slug": "o-checkout-substitui-o-nome-do-destinatario-pelo-nome-do-cliente",
     "internalReference": 324792
   },
   {
