@@ -10221,6 +10221,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-cobros-no-se-registran-en-las-subcuentas",
+    "internalReference": 649948
+  },
+  {
+    "locale": "es",
     "slug": "los-decimales-del-campo-de-la-moneda-en-la-politica-comercial-no-se-reflejan-en-el-pdp-plp",
     "internalReference": 695044
   },
@@ -18468,6 +18473,11 @@
     "locale": "pt",
     "slug": "as-categorias-que-tem-apenas-produtos-configurados-por-categoria-semelhante-nao-aparecem-no-mapa-do-site",
     "internalReference": 1091727
+  },
+  {
+    "locale": "pt",
+    "slug": "as-cobrancas-nao-sao-iniciadas-em-subcontas",
+    "internalReference": 649948
   },
   {
     "locale": "pt",
