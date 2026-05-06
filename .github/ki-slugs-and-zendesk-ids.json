@@ -14516,7 +14516,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-caracteres-especiales-en-invoicenumber-hacen-que-falle-el-flujo-posterior-a-la-compra",
+    "slug": "los-caracteres-especiales-en-el-numero-de-factura-provocan-un-error-en-el-proceso-posterior-a-la-compra",
     "internalReference": 953285
   },
   {
@@ -23451,7 +23451,7 @@
   },
   {
     "locale": "pt",
-    "slug": "caracteres-especiais-no-invoicenumber-causam-falha-no-fluxo-poscompra",
+    "slug": "caracteres-especiais-no-campo-invoicenumber-fazem-com-que-o-fluxo-poscompra-falhe",
     "internalReference": 953285
   },
   {
