@@ -1,11 +1,9 @@
 ---
-title: 'O botão Limpar filtro não lida corretamente com vários filtros'
-id: TVLYkkJXq5bxmFvHZyRS6
+title: 'O botão “Limpar filtro” não lida corretamente com vários filtros'
+slug: o-botao-limpar-filtro-nao-lida-corretamente-com-varios-filtros
 status: PUBLISHED
-createdAt: 2024-01-03T22:35:40.705Z
-updatedAt: 2024-01-03T22:35:41.328Z
-publishedAt: 2024-01-03T22:35:41.328Z
-firstPublishedAt: 2024-01-03T22:35:41.328Z
+createdAt: 2024-01-03T22:35:27.000Z
+updatedAt: 2024-01-03T22:35:27.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,22 +14,16 @@ kiStatus: Backlog
 internalReference: 960905
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
-Em alguns cenários, como páginas de destino e páginas de coleção, os filtros adicionais não são limpos corretamente após clicar no botão "limpar filtro". O URL pode ir para filtros inválidos ou errados e a listagem de produtos pode ficar vazia ou com produtos inesperados.
+Em alguns cenários, como páginas de destino e páginas de coleção, os filtros adicionais não são removidos corretamente após clicar no botão “limpar filtro”. A URL pode direcionar para filtros inválidos ou incorretos, e a lista de produtos pode ficar vazia ou conter produtos inesperados.
 
 ## Simulação
 
-
-Em um tema de loja com o botão "limpar filtros" ativado, experimente-o em uma página de destino ou página de coleção depois de aplicar filtros adicionais.
-
-
+Em um tema de loja com o botão “limpar filtros” ativado, teste-o em uma página de destino ou página de coleção após aplicar filtros adicionais.
 
 ## Workaround
 
-
 N/A
-
