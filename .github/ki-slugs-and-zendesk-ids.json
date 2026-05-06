@@ -10321,6 +10321,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-es-posible-desactivar-este-producto-porque-tiene-uno-o-mas-sku-activos-no-se-traduce-automaticamente-en-la-administracion-de-productos",
+    "internalReference": 768603
+  },
+  {
+    "locale": "es",
     "slug": "no-funciona-la-eliminacion-de-la-informacion-del-proveedor-del-producto-a-traves-de-admin",
     "internalReference": 796608
   },
@@ -10328,11 +10333,6 @@
     "locale": "es",
     "slug": "no-funciona-la-exportacion-de-correo-electronico-de-la-nueva-interfaz-de-colecciones",
     "internalReference": 1218386
-  },
-  {
-    "locale": "es",
-    "slug": "no-puede-desactivar-este-producto-porque-tiene-uno-o-mas-skus-activos-no-se-traduce-automaticamente-en-el-product-admin",
-    "internalReference": 768603
   },
   {
     "locale": "es",
@@ -15268,6 +15268,11 @@
     "locale": "es",
     "slug": "la-api-de-transacciones-de-tarjetas-regalo-devuelve-resultados-vacios-o-incompletos",
     "internalReference": 384430
+  },
+  {
+    "locale": "es",
+    "slug": "la-api-para-crear-o-actualizar-proveedores-de-tarjetas-regalo-siempre-actualiza-el-proveedor-actual-cuando-nunca-se-ha-anadido-un-nuevo-proveedor-anteriormente",
+    "internalReference": 768954
   },
   {
     "locale": "es",
@@ -23818,6 +23823,11 @@
     "locale": "pt",
     "slug": "a-api-de-listagem-de-transacoes-com-cartaopresente-esta-retornando-resultados-vazios-ou-incompletos",
     "internalReference": 384430
+  },
+  {
+    "locale": "pt",
+    "slug": "a-api-para-criaratualizar-fornecedores-de-cartoespresente-esta-sempre-atualizando-o-fornecedor-atual-mesmo-quando-nunca-foi-adicionado-um-novo-fornecedor-anteriormente",
+    "internalReference": 768954
   },
   {
     "locale": "pt",
