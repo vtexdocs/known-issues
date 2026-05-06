@@ -2,8 +2,8 @@
 title: 'Error in Custom Payments creation'
 slug: error-in-custom-payments-creation
 status: PUBLISHED
-createdAt: 2025-11-14T19:27:28.958Z
-updatedAt: 2025-11-14T19:27:28.958Z
+createdAt: 2024-03-06T14:19:36.000Z
+updatedAt: 2024-03-06T14:22:00.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,20 +16,12 @@ internalReference: 995110
 
 ## Summary
 
-
 Merchants can experience a bug when creating a Custom Payment, after filling everything and hit save the message `Custom payment was configured successfully!` appears but the creation actually failed (it doesn't appear in UI).
 
-
-#### Simulation
-
+## Simulation
 
 Go to Custom Payments tab and configure any payment rule, you may experience the issue above.
 
-
-#### Workaround
-
+## Workaround
 
 The only workaround would be retrying the creation until it appears in UI.
-
-
-
