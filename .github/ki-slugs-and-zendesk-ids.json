@@ -11266,6 +11266,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-funcion-usesessionregionatcheckout-no-funciona-correctamente-al-anadir-el-primer-articulo-al-carrito",
+    "internalReference": 925049
+  },
+  {
+    "locale": "es",
     "slug": "la-informacion-de-los-clientes-no-se-guarda-en-el-sistema-de-perfiles",
     "internalReference": 784763
   },
@@ -11931,11 +11936,6 @@
   },
   {
     "locale": "es",
-    "slug": "usesessionregionatcheckout-no-funciona-correctamente-al-anadir-el-primer-articulo-al-carrito",
-    "internalReference": 925049
-  },
-  {
-    "locale": "es",
     "slug": "validacion-de-adjuntos-solo-en-el-mercado-al-anadir-un-articulo-de-un-vendedor-con-adjunto",
     "internalReference": 957343
   },
@@ -12246,7 +12246,7 @@
   },
   {
     "locale": "es",
-    "slug": "facebook-hoy-facebook-mira-sellingprice-y-listprice-para-actualizar-el-precio-en-el-catalogo-de-facebook",
+    "slug": "facebook-hoy-facebook-tiene-en-cuenta-los-campos-sellingprice-y-listprice-para-actualizar-el-precio-en-el-catalogo-de-facebook",
     "internalReference": 924411
   },
   {
@@ -12721,7 +12721,7 @@
   },
   {
     "locale": "es",
-    "slug": "tipos-de-listados-de-integracion-meli-para-peru-venezuela-ecuador-y-uruguai",
+    "slug": "tipos-de-cotizacion-de-meli-para-peru-venezuela-ecuador-y-uruguay",
     "internalReference": 925139
   },
   {
@@ -12951,7 +12951,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-cookies-de-sesion-se-comparten-entre-distintos-enlaces-cuando-no-se-encuentran-en-el-mismo-nivel-de-ruta",
+    "slug": "las-cookies-de-sesion-se-comparten-entre-diferentes-enlaces-cuando-no-se-encuentran-en-el-mismo-nivel-de-ruta",
     "internalReference": 925071
   },
   {
@@ -17111,7 +17111,7 @@
   },
   {
     "locale": "es",
-    "slug": "se-produce-un-error-al-intentar-realizar-una-busqueda-utilizando-el-campo-todos-en-vtex-crm-ui",
+    "slug": "se-produce-un-error-al-intentar-realizar-una-busqueda-utilizando-el-campo-todo-en-la-interfaz-de-usuario-de-vtex-crm",
     "internalReference": 925679
   },
   {
@@ -20866,6 +20866,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-usesessionregionatcheckout-nao-funciona-corretamente-ao-adicionar-o-primeiro-item-ao-carrinho",
+    "internalReference": 925049
+  },
+  {
+    "locale": "pt",
     "slug": "o-valor-da-recompensa-nao-foi-adicionado-ou-foi-adicionado-um-valor-diferente-ao-cartaopresente",
     "internalReference": 844079
   },
@@ -21103,11 +21108,6 @@
     "locale": "pt",
     "slug": "untitled",
     "internalReference": 481402
-  },
-  {
-    "locale": "pt",
-    "slug": "usesessionregionatcheckout-nao-funciona-corretamente-ao-adicionar-o-primeiro-item-ao-carrinho",
-    "internalReference": 925049
   },
   {
     "locale": "pt",
@@ -21411,7 +21411,7 @@
   },
   {
     "locale": "pt",
-    "slug": "facebook-hoje-o-facebook-analisa-o-sellingprice-e-o-listprice-para-atualizar-o-preco-no-catalogo-do-facebook",
+    "slug": "facebook-hoje-o-facebook-analisa-os-campos-sellingprice-e-listprice-para-atualizar-o-preco-no-catalogo-do-facebook",
     "internalReference": 924411
   },
   {
@@ -21876,7 +21876,7 @@
   },
   {
     "locale": "pt",
-    "slug": "tipos-de-listagem-de-integracao-meli-para-peru-venezuela-equador-e-uruguai",
+    "slug": "tipos-de-listagem-de-integracao-meli-para-o-peru-a-venezuela-o-equador-e-o-uruguai",
     "internalReference": 925139
   },
   {
@@ -22106,7 +22106,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-cookies-de-sessao-sao-compartilhados-entre-diferentes-vinculacoes-quando-nao-estao-no-mesmo-nivel-de-caminho",
+    "slug": "os-cookies-de-sessao-sao-compartilhados-entre-diferentes-ligacoes-quando-nao-estao-no-mesmo-nivel-de-caminho",
     "internalReference": 925071
   },
   {
@@ -26271,7 +26271,7 @@
   },
   {
     "locale": "pt",
-    "slug": "ocorre-um-erro-ao-tentar-realizar-uma-pesquisa-usando-o-campo-all-na-interface-do-usuario-do-vtex-crm",
+    "slug": "ocorre-um-erro-ao-tentar-realizar-uma-pesquisa-usando-o-campo-todos-na-interface-do-usuario-do-vtex-crm",
     "internalReference": 925679
   },
   {
