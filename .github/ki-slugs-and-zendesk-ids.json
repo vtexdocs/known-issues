@@ -11296,6 +11296,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-usuario-cambia-automaticamente-el-sla-seleccionado-cuando-el-vendedor-ha-programado-la-recogida-y-el-articulo-no-se-encuentra-en-la-primera-posicion",
+    "internalReference": 843602
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-usuario-de-la-caja-cambia-la-direccion-seleccionada-cuando-hay-mas-de-1-direccion-disponible",
     "internalReference": 1138817
   },
