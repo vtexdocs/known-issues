@@ -9486,6 +9486,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-informe-de-indexacion-del-catalogo-muestra-estadisticas-erroneas",
+    "internalReference": 499450
+  },
+  {
+    "locale": "es",
     "slug": "el-informe-notificame-genera-un-archivo-danado-cuando-no-se-encuentran-skus",
     "internalReference": 956264
   },
@@ -9503,6 +9508,11 @@
     "locale": "es",
     "slug": "el-metodo-webservice-stockkeepingunitinsertupdate-permite-insertar-un-refid-existente",
     "internalReference": 419460
+  },
+  {
+    "locale": "es",
+    "slug": "el-orden-de-la-coleccion-no-funciona-como-se-esperaba",
+    "internalReference": 502409
   },
   {
     "locale": "es",
@@ -10218,11 +10228,6 @@
     "locale": "es",
     "slug": "los-impuestos-nominales-las-promociones-de-regalo-en-el-mismo-articulo-pueden-generar-errores-en-el-proceso-de-pago",
     "internalReference": 1089066
-  },
-  {
-    "locale": "es",
-    "slug": "los-pedidos-de-recogida-no-funcionan-como-se-esperaba",
-    "internalReference": 502409
   },
   {
     "locale": "es",
@@ -14836,6 +14841,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-pedido-con-el-estado-verificando-factura-no-pasa-al-estado-facturado",
+    "internalReference": 500245
+  },
+  {
+    "locale": "es",
     "slug": "el-pedido-con-estado-de-verificacion-de-factura-no-se-actualiza-a-facturado",
     "internalReference": 500245
   },
@@ -18266,6 +18276,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-ordenacao-da-colecao-nao-esta-funcionando-como-esperado",
+    "internalReference": 502409
+  },
+  {
+    "locale": "pt",
     "slug": "a-ordenacao-de-grupos-de-especificacao-da-categoria-raiz-nao-funciona",
     "internalReference": 634129
   },
@@ -19096,11 +19111,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-pedido-de-coleta-nao-esta-funcionando-como-esperado",
-    "internalReference": 502409
-  },
-  {
-    "locale": "pt",
     "slug": "o-peso-do-kit-pode-ser-sobreescrito-por-apiwebservice",
     "internalReference": 429993
   },
@@ -19243,6 +19253,11 @@
     "locale": "pt",
     "slug": "recarregamento-inesperado-ao-registraratualizar-um-produto",
     "internalReference": 863542
+  },
+  {
+    "locale": "pt",
+    "slug": "relatorio-de-indexacao-do-catalogo-esta-apresentando-estatisticas-incorretas",
+    "internalReference": 499450
   },
   {
     "locale": "pt",
@@ -24393,6 +24408,11 @@
     "locale": "pt",
     "slug": "o-paypalplus-nao-respeita-o-valor-minimo-da-parcela",
     "internalReference": 370271
+  },
+  {
+    "locale": "pt",
+    "slug": "o-pedido-com-o-status-verificando-fatura-nao-e-atualizado-para-faturado",
+    "internalReference": 500245
   },
   {
     "locale": "pt",
