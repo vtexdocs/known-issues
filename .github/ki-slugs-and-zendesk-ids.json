@@ -10396,6 +10396,11 @@
   },
   {
     "locale": "es",
+    "slug": "tiempo-de-descanso-administracion-de-importacion-y-exportacion",
+    "internalReference": 424902
+  },
+  {
+    "locale": "es",
     "slug": "tiempo-de-espera-al-editar-especificaciones",
     "internalReference": 1192667
   },
@@ -10443,11 +10448,6 @@
     "locale": "es",
     "slug": "tiempos-de-espera-del-administrador-del-catalogo-relacionados-con-el-numero-de-valores-de-una-unica-especificacion",
     "internalReference": 433664
-  },
-  {
-    "locale": "es",
-    "slug": "time-out-importar-y-exportar-admin",
-    "internalReference": 424902
   },
   {
     "locale": "es",
@@ -11733,6 +11733,11 @@
     "locale": "es",
     "slug": "si-no-se-anaden-los-datos-en-el-paso-entregar-en-otra-direccion-desaparece-el-boton-ir-al-pago",
     "internalReference": 467419
+  },
+  {
+    "locale": "es",
+    "slug": "si-se-interactua-con-el-campo-de-direccion-mientras-algunos-datos-de-la-interfaz-de-usuario-aun-se-estan-cargando-se-cambia-el-modo-de-introduccion-de-la-direccion",
+    "internalReference": 423811
   },
   {
     "locale": "es",
@@ -18781,6 +18786,11 @@
   },
   {
     "locale": "pt",
+    "slug": "intervalo-administracao-de-importacao-e-exportacao",
+    "internalReference": 424902
+  },
+  {
+    "locale": "pt",
     "slug": "link-de-texto-criado-com-no-marketplace-apos-as-aprovacoes-reocorrencia",
     "internalReference": 795900
   },
@@ -19243,11 +19253,6 @@
     "locale": "pt",
     "slug": "texto-indexado-grande-e-texto-indexado-nao-sao-alterados-pela-importacao-de-especificacoes",
     "internalReference": 322657
-  },
-  {
-    "locale": "pt",
-    "slug": "time-out-administracao-de-importacao-e-exportacao",
-    "internalReference": 424902
   },
   {
     "locale": "pt",
@@ -19953,6 +19958,11 @@
     "locale": "pt",
     "slug": "informacoes-sobre-a-categoria-do-produto-provenientes-do-datalayer-com-uma-ordenacao-incorreta",
     "internalReference": 328415
+  },
+  {
+    "locale": "pt",
+    "slug": "interagir-com-o-componente-de-endereco-enquanto-alguns-dados-na-interface-do-usuario-ainda-estao-em-carregamento-altera-o-modo-de-insercao-do-endereco",
+    "internalReference": 423811
   },
   {
     "locale": "pt",
