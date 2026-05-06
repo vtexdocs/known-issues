@@ -1,9 +1,9 @@
 ---
-title: 'Save card doesn''t work when 3DS2 is active'
+title: "Save card doesn't work when 3DS2 is active"
 slug: save-card-doesnt-work-when-3ds2-is-active
 status: PUBLISHED
-createdAt: 2025-10-16T20:06:53.799Z
-updatedAt: 2025-10-16T20:06:53.799Z
+createdAt: 2020-12-28T20:31:10.000Z
+updatedAt: 2025-10-16T23:06:00.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,16 +16,13 @@ internalReference: 319708
 
 ## Summary
 
-
 When customers attempt to add a new credit card in the MyAccount section of stores that utilize 3DS authentication (V1 or V2), they may encounter an error message stating, "There was an error while trying to save the card." This error occurs because the credit card has not yet been validated.
 
 To validate the card, it must be associated with a payment condition. Once this association is established, a charge of 1.50 USD will be made to the card. However, this transaction is subsequently canceled, and the card is validated in the process.
 
 In stores where acquirers employ 3DS authentication, this transaction triggers the authentication process and prompts a request for card validation. However, since it is not an actual purchase, the "challenge" step of the 3DS authentication cannot be completed, resulting in the aforementioned error when attempting to save the card.
 
-
-#### Simulation
-
+## Simulation
 
 To simulate the steps leading to the error, please follow the instructions outlined below:
 
@@ -42,11 +39,6 @@ To simulate the steps leading to the error, please follow the instructions outli
 10. Click on "Save new card" to proceed with saving the card details.
 11. Following this process will result in an error being returned, indicating the issue encountered during the card addition.
 
-
-#### Workaround
-
+## Workaround
 
 You can resolve this error by adding a payment condition for a credit card associated with an acquirer that does not use 3-D Secure (V1 or V2)
-
-
-
