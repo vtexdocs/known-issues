@@ -9501,6 +9501,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-producto-aparece-como-agotado-aunque-haya-existencias-en-un-vendedor-de-marca-blanca",
+    "internalReference": 404499
+  },
+  {
+    "locale": "es",
     "slug": "el-producto-del-portal-del-vendedor-no-se-carga-sin-imagenes",
     "internalReference": 800480
   },
@@ -16361,11 +16366,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-precio-de-venta-sobrescribe-la-logica-del-precio-kit",
-    "internalReference": 404486
-  },
-  {
-    "locale": "es",
     "slug": "el-valor-del-taxpercentage-del-producto-guardado-por-el-searchresolver-es-incorrecto-debido-al-redondeo",
     "internalReference": 470143
   },
@@ -16493,6 +16493,11 @@
     "locale": "es",
     "slug": "la-suscripcion-promocional-con-frecuencia-de-semana-mes-y-dia-no-funciona-en-ciclos-recurrentes",
     "internalReference": 965484
+  },
+  {
+    "locale": "es",
+    "slug": "la-sustitucion-del-precio-anula-la-logica-de-precios-del-kit",
+    "internalReference": 404486
   },
   {
     "locale": "es",
@@ -18978,6 +18983,11 @@
     "locale": "pt",
     "slug": "o-preenchimento-do-catalogo-nao-aciona-uma-nova-indexacao-de-busca-inteligente",
     "internalReference": 449763
+  },
+  {
+    "locale": "pt",
+    "slug": "o-produto-aparece-como-indisponivel-mesmo-havendo-estoque-em-um-vendedor-de-marca-branca",
+    "internalReference": 404499
   },
   {
     "locale": "pt",
@@ -25086,6 +25096,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-substituicao-do-preco-define-a-logica-de-preco-do-kit",
+    "internalReference": 404486
+  },
+  {
+    "locale": "pt",
     "slug": "a-tabela-de-precos-promocionais-em-carrinhos-de-compras-grandes-pode-afetar-o-desempenho-ou-levar-a-erros-de-tempo-limite",
     "internalReference": 949389
   },
@@ -25303,11 +25318,6 @@
     "locale": "pt",
     "slug": "o-numero-de-itens-no-filtro-de-precos-nao-corresponde-ao-numero-correto",
     "internalReference": 371405
-  },
-  {
-    "locale": "pt",
-    "slug": "o-preco-de-venda-substitui-a-logica-de-preco-do-kit",
-    "internalReference": 404486
   },
   {
     "locale": "pt",
