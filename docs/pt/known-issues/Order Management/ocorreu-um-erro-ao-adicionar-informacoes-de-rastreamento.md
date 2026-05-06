@@ -1,11 +1,9 @@
 ---
-title: '''Ocorreu um erro'' ao adicionar informações de rastreamento'
-id: 1gmlrPh9P1KbNI5NNXuImO
+title: '"Ocorreu um erro" ao adicionar informações de rastreamento'
+slug: ocorreu-um-erro-ao-adicionar-informacoes-de-rastreamento
 status: PUBLISHED
-createdAt: 2023-02-08T18:38:55.699Z
-updatedAt: 2023-02-08T18:42:05.822Z
-publishedAt: 2023-02-08T18:42:05.822Z
-firstPublishedAt: 2023-02-08T18:38:56.178Z
+createdAt: 2021-08-06T20:30:17.000Z
+updatedAt: 2023-02-08T18:38:41.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,23 +14,20 @@ kiStatus: Backlog
 internalReference: 409225
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
-Ao inserir as informações de rastreamento quando o número da fatura contém espaços, ocorre o seguinte erro (seja via UI ou API) "`An error has occurred`".
+## Sumário
+
+Ao inserir as informações de rastreamento quando o número da fatura contém espaços, ocorre o seguinte erro (seja pela interface do usuário ou pela API): "`Ocorreu um erro`".
 
 ## Simulação
 
-
-Para simular ou realizar a análise deste cenário, apenas:
+Para simular ou realizar a análise deste cenário, basta:
 
 1. Insira uma fatura (via API) em um pedido com espaços no número da fatura (certifique-se de que a fatura não contenha nenhuma informação de rastreamento);
-2. Adicionar informações de rastreamento via UI ou API:
-3. Observe que você recebe um código de erro 500 junto com a mensagem "`Um erro ocorreu`".
+2. Adicione informações de rastreamento via interface do usuário (UI) ou API:
+3. Observe que você receberá um código de erro 500 junto com a mensagem `Ocorreu um erro`.
 
 ## Workaround
 
-
-Para pedidos que já são faturados com o espaço, e o rastreamento é informado posteriormente, infelizmente não há como inserir dados de rastreamento. Entretanto, para evitar este tipo de problema, o ideal é não enviar espaço na fatura, ou informar os dados de rastreamento ao inserir a fatura.
-
+Para pedidos que já foram faturados com o espaço e cujo rastreamento é informado posteriormente, infelizmente não há como inserir os dados de rastreamento. No entanto, para evitar esse tipo de problema, o ideal é não enviar o espaço na fatura ou informar os dados de rastreamento ao inserir a fatura.
