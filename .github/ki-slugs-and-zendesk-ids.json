@@ -11556,7 +11556,7 @@
   },
   {
     "locale": "es",
-    "slug": "no-es-posible-anadir-un-articulo-con-accesorio-a-la-cesta-si-ya-hay-otra-unidad-de-este-articulo-sin-accesorio-en-la-cesta",
+    "slug": "no-es-posible-anadir-al-carrito-un-articulo-con-accesorio-si-ya-hay-otra-unidad-de-ese-mismo-articulo-sin-accesorio-en-el-carrito",
     "internalReference": 412041
   },
   {
@@ -19996,7 +19996,7 @@
   },
   {
     "locale": "pt",
-    "slug": "nao-e-possivel-adicionar-um-item-com-anexo-ao-carrinho-se-ja-houver-outra-unidade-desse-item-sem-anexo-no-carrinho",
+    "slug": "nao-e-possivel-adicionar-um-item-com-acessorio-ao-carrinho-se-ja-houver-outra-unidade-desse-item-sem-acessorio-no-carrinho",
     "internalReference": 412041
   },
   {
