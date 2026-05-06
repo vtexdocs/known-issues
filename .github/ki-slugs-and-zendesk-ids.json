@@ -14336,7 +14336,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-nueva-interfaz-de-usuario-no-muestra-el-documento-de-identidad-del-cliente-por-ejemplo-el-cpf",
+    "slug": "la-nueva-interfaz-de-usuario-no-muestra-el-documento-de-identidad-de-los-clientes-por-ejemplo-el-cpf",
     "internalReference": 713480
   },
   {
@@ -23028,6 +23028,11 @@
     "locale": "pt",
     "slug": "a-funcao-de-preenchimento-automatico-de-itens-nao-e-exibida-na-marca-branca-do-vendedor-alterar-pedido",
     "internalReference": 348841
+  },
+  {
+    "locale": "pt",
+    "slug": "a-nova-interface-do-usuario-nao-exibe-o-documento-de-identificacao-do-cliente-como-o-cpf",
+    "internalReference": 713480
   },
   {
     "locale": "pt",
