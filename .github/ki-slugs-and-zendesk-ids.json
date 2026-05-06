@@ -11266,11 +11266,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-primera-direccion-de-la-lista-de-direcciones-incompleta-no-rellena-los-datos-de-perfilenvio-en-el-pago",
-    "internalReference": 366975
-  },
-  {
-    "locale": "es",
     "slug": "la-simulacion-de-pago-devuelve-el-valor-0-en-el-campo-slastax-para-los-impuestos-del-porcentaje-de-envio",
     "internalReference": 1012724
   },
@@ -11693,6 +11688,11 @@
     "locale": "es",
     "slug": "seleccion-inesperada-de-varios-puntos-de-recogida-para-el-mismo-vendedor-cuando-no-todos-los-articulos-estan-disponibles-a-traves-de-la-misma-opcio",
     "internalReference": 467702
+  },
+  {
+    "locale": "es",
+    "slug": "si-la-primera-direccion-de-la-lista-de-direcciones-esta-incompleta-no-se-rellenan-los-datos-del-perfil-ni-de-envio-al-finalizar-la-compra",
+    "internalReference": 366975
   },
   {
     "locale": "es",
@@ -20236,7 +20236,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-primeiro-endereco-da-lista-de-enderecos-incompleto-nao-preenche-os-dados-de-perfilenvio-no-checkout",
+    "slug": "o-primeiro-endereco-da-lista-de-enderecos-esta-incompleto-e-nao-preenche-os-dados-do-perfilenvio-no-momento-do-checkout",
     "internalReference": 366975
   },
   {
