@@ -16991,7 +16991,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-busqueda-no-devuelve-el-documento-cuando-el-valor-contiene-un-simbolo-mas",
+    "slug": "la-busqueda-no-devuelve-ningun-documento-cuando-el-valor-contiene-el-simbolo-mas",
     "internalReference": 828170
   },
   {
@@ -26041,7 +26041,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-pesquisa-nao-retorna-o-documento-quando-o-valor-contem-um-simbolo-mais",
+    "slug": "a-pesquisa-nao-retorna-nenhum-documento-quando-o-valor-contem-o-simbolo-mais",
     "internalReference": 828170
   },
   {
