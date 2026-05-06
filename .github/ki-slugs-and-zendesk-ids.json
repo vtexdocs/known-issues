@@ -16221,6 +16221,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-cms-heredado-no-crea-carpetas-cuyo-nombre-tenga-menos-de-tres-caracteres",
+    "internalReference": 825530
+  },
+  {
+    "locale": "es",
     "slug": "el-cms-permite-la-creacion-pero-no-la-edicion-de-carpetas-con-los-mismos-nombres-que-los-predeterminados",
     "internalReference": 566791
   },
@@ -16378,11 +16383,6 @@
     "locale": "es",
     "slug": "las-propiedades-html-booleanas-de-videoaudio-no-se-validan-en-el-cms-heredado",
     "internalReference": 491898
-  },
-  {
-    "locale": "es",
-    "slug": "legacy-cms-no-crea-carpetas-con-menos-de-3-caracteres-en-el-nombre",
-    "internalReference": 825530
   },
   {
     "locale": "es",
@@ -25441,7 +25441,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-cms-legado-nao-cria-pastas-com-menos-de-3-caracteres-no-nome",
+    "slug": "o-cms-antigo-nao-cria-pastas-cujo-nome-tenha-menos-de-3-caracteres",
     "internalReference": 825530
   },
   {
