@@ -2,8 +2,8 @@
 title: "Tax Service doesn't apply free shipping promotions with promotion that splits items"
 slug: tax-service-doesnt-apply-free-shipping-promotions-with-promotion-that-splits-items
 status: PUBLISHED
-createdAt: 2025-11-07T21:44:04.694Z
-updatedAt: 2025-11-07T21:44:04.694Z
+createdAt: 2024-03-06T23:07:42.000Z
+updatedAt: 2025-11-08T00:43:26.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,23 +16,15 @@ internalReference: 995527
 
 ## Summary
 
-
 When using the tax service, if there is a promotion that splits items, for example, a More for Less promotion and a free shipping promotion, the free shipping is not applied correctly for all items in the tax service request, causing a wrong calculation and avoiding the order being created with the message "The requested order could not be created. Please try again."
 
-
-#### Simulation
-
-
+## Simulation
 
 - Configure Tax Service;
 - Create a More for Less promotion with fulfillment as the order origin and limit the promotion to a certain quantity of items;
 - Create a free shipping promotion with fulfillment as order origin;
 - Assemble a cart and try to place the order.
 
-
-#### Workaround
-
+## Workaround
 
 N/A
-
-
