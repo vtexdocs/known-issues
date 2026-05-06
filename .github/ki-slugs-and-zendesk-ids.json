@@ -11371,6 +11371,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-opcion-installmentoptions-de-la-api-de-orderform-no-tiene-en-cuenta-las-promociones-especificas-de-pago-a-plazos",
+    "internalReference": 644563
+  },
+  {
+    "locale": "es",
     "slug": "la-simulacion-de-pago-devuelve-el-valor-0-en-el-campo-slastax-para-los-impuestos-del-porcentaje-de-envio",
     "internalReference": 1012724
   },
@@ -19741,6 +19746,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-opcao-installmentoptions-da-api-orderform-nao-leva-em-consideracao-promocoes-especificas-de-parcelamento",
+    "internalReference": 644563
+  },
+  {
+    "locale": "pt",
     "slug": "a-pesquisa-do-seletor-de-ponto-de-coleta-nao-funciona-com-enterreturn",
     "internalReference": 829955
   },
@@ -20658,11 +20668,6 @@
     "locale": "pt",
     "slug": "os-valores-permitidos-do-anexo-nao-sao-atualizados-quando-ele-e-adicionado-aos-itens",
     "internalReference": 920970
-  },
-  {
-    "locale": "pt",
-    "slug": "parcelamentoopcoes-do-pedidoo-formulario-api-nao-leva-em-conta-promocoes-de-parcelas-especificas",
-    "internalReference": 644563
   },
   {
     "locale": "pt",
