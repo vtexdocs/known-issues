@@ -12046,7 +12046,7 @@
   },
   {
     "locale": "es",
-    "slug": "b2w-pedido-b2w-directo-fob-integrando-con-transportista",
+    "slug": "b2w-pedido-b2w-direct-fob-integrado-con-el-transportista",
     "internalReference": 714879
   },
   {
@@ -21068,6 +21068,11 @@
     "locale": "pt",
     "slug": "atualizacao-do-meli-problema-de-estoquepreco",
     "internalReference": 939329
+  },
+  {
+    "locale": "pt",
+    "slug": "b2w-pedido-b2w-direct-fob-integrado-com-a-transportadora",
+    "internalReference": 714879
   },
   {
     "locale": "pt",
