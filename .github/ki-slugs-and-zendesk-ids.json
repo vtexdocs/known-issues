@@ -10971,6 +10971,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-precio-de-la-entrega-programada-puede-aparecer-incorrecto-al-cambiar-entre-entrega-y-programada",
+    "internalReference": 770250
+  },
+  {
+    "locale": "es",
     "slug": "el-proceso-de-inicio-de-sesion-en-la-caja-permite-cambiar-la-direccion-de-correo-electronico-pero-el-proceso-no-es-compatible",
     "internalReference": 258447
   },
@@ -11193,11 +11198,6 @@
     "locale": "es",
     "slug": "la-edicion-del-correo-electronico-en-la-interfaz-de-pago-hace-que-la-pantalla-se-congele",
     "internalReference": 1211673
-  },
-  {
-    "locale": "es",
-    "slug": "la-entrega-programada-puede-mostrar-un-precio-incorrecto-al-cambiar-entre-entrega-y-programada",
-    "internalReference": 770250
   },
   {
     "locale": "es",
@@ -19716,7 +19716,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-entrega-programada-pode-apresentar-um-preco-incorreto-ao-alternar-entre-a-entrega-e-a-programada",
+    "slug": "a-entrega-programada-pode-exibir-um-preco-incorreto-ao-alternar-entre-entrega-e-programada",
     "internalReference": 770250
   },
   {
