@@ -14961,7 +14961,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-estado-de-autorizacion-se-bloquea-para-transacciones-asincronas-con-2-o-mas-pagos-cuando-se-cancela-el-primero",
+    "slug": "el-estado-de-la-autorizacion-queda-bloqueado-en-las-transacciones-asincronas-con-dos-o-mas-pagos-cuando-se-cancela-el-primero",
     "internalReference": 929517
   },
   {
@@ -15146,11 +15146,6 @@
   },
   {
     "locale": "es",
-    "slug": "error-en-el-metodo-de-pago-duplicado",
-    "internalReference": 929428
-  },
-  {
-    "locale": "es",
     "slug": "error-en-el-proceso-de-cancelacion-erederest-y-erede-v2-solo-permiten-la-cancelacion-cuando-el-returncode-es-359",
     "internalReference": 740084
   },
@@ -15173,6 +15168,11 @@
     "locale": "es",
     "slug": "error-en-las-operaciones-de-reembolso-y-captura-con-payout-split-el-valor-de-los-destinatarios-no-coincide-con-el-valor-de-la-operacion",
     "internalReference": 698005
+  },
+  {
+    "locale": "es",
+    "slug": "error-por-duplicidad-en-el-metodo-de-pago",
+    "internalReference": 929428
   },
   {
     "locale": "es",
@@ -24496,6 +24496,11 @@
   },
   {
     "locale": "pt",
+    "slug": "erro-devido-a-existencia-de-um-metodo-de-pagamento-duplicado",
+    "internalReference": 929428
+  },
+  {
+    "locale": "pt",
     "slug": "erro-na-criacao-de-pagamentos-personalizados",
     "internalReference": 995110
   },
@@ -24518,11 +24523,6 @@
     "locale": "pt",
     "slug": "erro-nas-operacoes-de-reembolso-e-captura-com-divisao-de-pagamento-o-valor-dos-destinatarios-e-diferente-do-valor-da-operacao",
     "internalReference": 698005
-  },
-  {
-    "locale": "pt",
-    "slug": "erro-no-metodo-de-pagamento-duplicado",
-    "internalReference": 929428
   },
   {
     "locale": "pt",
@@ -24956,7 +24956,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-status-da-autorizacao-e-mantido-para-transacoes-assincronas-com-2-ou-mais-pagamentos-quando-o-primeiro-e-cancelado",
+    "slug": "o-status-da-autorizacao-fica-estagnado-em-transacoes-assincronas-com-dois-ou-mais-pagamentos-quando-o-primeiro-e-cancelado",
     "internalReference": 929517
   },
   {
