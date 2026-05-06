@@ -1,11 +1,9 @@
 ---
 title: 'Export the CSV in the sales performance module'
-id: 7qnlFfnImq7N6Nrz0xIT8L
+slug: export-the-csv-in-the-sales-performance-module
 status: PUBLISHED
-createdAt: 2023-05-11T13:42:36.411Z
-updatedAt: 2023-09-13T20:08:40.788Z
-publishedAt: 2023-09-13T20:08:40.788Z
-firstPublishedAt: 2023-05-11T13:42:37.027Z
+createdAt: 2023-05-11T13:42:22.000Z
+updatedAt: 2023-09-13T20:08:18.000Z
 contentType: knownIssue
 productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,27 +16,14 @@ internalReference: 823878
 
 ## Summary
 
-
 We are having issues when trying to export the CSV in the sales performance module.
-
-
-##
 
 ## Simulation
 
-
 Inside Sales performance module, their is a button to export the CSV and it says it will be sent by e-mail, but for some cases it's not being sent.
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Analytics/export-the-csv-in-the-sales-performance-module_1.png)
-
-
-##
+ ![](https://vtexhelp.zendesk.com/attachments/token/3somzO1egT0LfYDZNFaEABpyF/?name=image.png)
 
 ## Workaround
 
-
 N/A
-
-
-
-
