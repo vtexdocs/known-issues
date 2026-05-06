@@ -10526,11 +10526,6 @@
   },
   {
     "locale": "es",
-    "slug": "checkout-login-flow-allows-changing-email-but-flow-is-not-supported",
-    "internalReference": 258447
-  },
-  {
-    "locale": "es",
     "slug": "checkout-no-admite-la-codificacion-de-nombres-de-opciones-de-montaje",
     "internalReference": 378842
   },
@@ -10826,6 +10821,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-proceso-de-inicio-de-sesion-en-la-caja-permite-cambiar-la-direccion-de-correo-electronico-pero-el-proceso-no-es-compatible",
+    "internalReference": 258447
+  },
+  {
+    "locale": "es",
     "slug": "el-proceso-de-pago-no-aclara-las-divergencias-entre-el-cliente-identificado-en-el-carrito-y-el-usuario-que-ha-iniciado-sesion-en-la-tienda",
     "internalReference": 442267
   },
@@ -10841,7 +10841,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-selector-de-entrega-de-la-vista-previa-de-envio-muestra-una-hora-incorrecta-en-caso-de-varios-paquetesfechas-limite",
+    "slug": "el-selector-de-entrega-de-vista-previa-del-envio-muestra-una-hora-incorrecta-en-caso-de-que-haya-varios-paquetes-o-plazos-de-entrega",
     "internalReference": 264441
   },
   {
@@ -14926,11 +14926,6 @@
   },
   {
     "locale": "es",
-    "slug": "incoherencia-de-eventos",
-    "internalReference": 267299
-  },
-  {
-    "locale": "es",
     "slug": "incoherencia-en-el-comportamiento-de-la-condicion-de-pago-unico-a-la-hora-de-finalizar-la-compra",
     "internalReference": 605568
   },
@@ -14948,6 +14943,11 @@
     "locale": "es",
     "slug": "incoherencia-en-la-seleccion-de-las-condiciones-comerciales",
     "internalReference": 1210072
+  },
+  {
+    "locale": "es",
+    "slug": "incoherencia-en-los-eventos",
+    "internalReference": 267299
   },
   {
     "locale": "es",
@@ -20046,7 +20046,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-fluxo-de-login-do-checkout-permite-alterar-o-email-mas-nao-ha-suporte-para-o-fluxo",
+    "slug": "o-fluxo-de-login-no-checkout-permite-alterar-o-email-mas-o-fluxo-nao-e-compativel",
     "internalReference": 258447
   },
   {
@@ -20138,6 +20138,11 @@
     "locale": "pt",
     "slug": "o-recurso-de-substituicao-de-pedidos-nao-funciona-quando-o-carrinho-substituido-e-o-pedido-original-tem-o-mesmo-valor",
     "internalReference": 866622
+  },
+  {
+    "locale": "pt",
+    "slug": "o-seletor-de-entrega-da-visualizacao-de-envio-exibe-uma-hora-incorreta-no-caso-de-varios-pacotes-ou-prazos",
+    "internalReference": 264441
   },
   {
     "locale": "pt",
@@ -20383,11 +20388,6 @@
     "locale": "pt",
     "slug": "selecao-parcial-da-janela-de-entrega-programada-para-o-mesmo-sla-afetando-o-fluxo-de-compra",
     "internalReference": 627261
-  },
-  {
-    "locale": "pt",
-    "slug": "seletor-de-entrega-de-previsualizacao-de-embarque-mostrando-tempo-errado-em-caso-de-multiplos-pacoteslinhas-mortas",
-    "internalReference": 264441
   },
   {
     "locale": "pt",
@@ -23791,11 +23791,6 @@
   },
   {
     "locale": "pt",
-    "slug": "inconsistencia-de-eventos",
-    "internalReference": 267299
-  },
-  {
-    "locale": "pt",
     "slug": "inconsistencia-na-forma-de-pagamento-boleto-bancario-datas-de-expiracao",
     "internalReference": 489460
   },
@@ -23808,6 +23803,11 @@
     "locale": "pt",
     "slug": "inconsistencia-no-comportamento-da-condicao-de-pagamento-em-parcela-unica-no-checkout",
     "internalReference": 605568
+  },
+  {
+    "locale": "pt",
+    "slug": "inconsistencia-no-evento",
+    "internalReference": 267299
   },
   {
     "locale": "pt",
