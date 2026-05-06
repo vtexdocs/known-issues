@@ -14136,7 +14136,7 @@
   },
   {
     "locale": "es",
-    "slug": "calculo-de-la-facturacion-de-pedidos-utilizando-el-valor-de-la-factura-de-entrada-en-la-validacion-de-la-factura-de-salida",
+    "slug": "calculo-de-la-facturacion-de-los-pedidos-utilizando-el-valor-de-la-factura-de-entrada-en-la-validacion-de-la-factura-de-salida",
     "internalReference": 930491
   },
   {
@@ -23416,7 +23416,7 @@
   },
   {
     "locale": "pt",
-    "slug": "calculo-de-faturamento-de-ordens-usando-o-valor-da-fatura-de-entrada-na-validacao-da-fatura-de-saida",
+    "slug": "calculo-da-faturacao-de-pedidos-com-base-no-valor-da-nota-fiscal-de-entrada-na-validacao-da-nota-fiscal-de-saida",
     "internalReference": 930491
   },
   {
