@@ -9461,7 +9461,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-elemento-personalizado-del-banner-del-cms-heredado-no-funciona",
+    "slug": "el-elemento-personalizado-banner-de-legacy-cms-no-funciona",
     "internalReference": 978466
   },
   {
@@ -11291,7 +11291,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-informacion-resumida-se-traduce-al-ingles-despues-de-iniciar-sesion-a-traves-de-la-actualizacion-de-la-informacion-de-la-direccion-seleccionada",
+    "slug": "la-informacion-resumida-se-traducira-al-ingles-tras-iniciar-sesion-y-actualizar-la-informacion-de-la-direccion-seleccionada",
     "internalReference": 978571
   },
   {
@@ -16451,6 +16451,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-plantillas-de-pago-a-plazos-y-los-controles-de-estanteria-heredados-no-tienen-en-cuenta-los-multiplicadores-de-unidades",
+    "internalReference": 979205
+  },
+  {
+    "locale": "es",
     "slug": "las-propiedades-html-booleanas-de-videoaudio-no-se-validan-en-el-cms-heredado",
     "internalReference": 491898
   },
@@ -16458,11 +16463,6 @@
     "locale": "es",
     "slug": "los-archivos-xml-devuelven-un-error-500",
     "internalReference": 268042
-  },
-  {
-    "locale": "es",
-    "slug": "los-controles-heredados-de-plantillas-de-plazos-y-estanterias-no-tienen-en-cuenta-los-multiplicadores-de-unidades",
-    "internalReference": 979205
   },
   {
     "locale": "es",
@@ -19381,7 +19381,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-elemento-personalizado-de-banner-do-cms-legado-nao-esta-funcionando",
+    "slug": "o-elemento-personalizado-de-banner-do-cms-legacy-nao-esta-funcionando",
     "internalReference": 978466
   },
   {
@@ -20166,11 +20166,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-informacoes-de-resumo-sao-traduzidas-para-o-ingles-apos-o-login-por-meio-da-atualizacao-das-informacoes-de-endereco-selecionadas",
-    "internalReference": 978571
-  },
-  {
-    "locale": "pt",
     "slug": "as-informacoes-do-cliente-nao-sao-salvas-no-sistema-de-perfis",
     "internalReference": 784763
   },
@@ -20178,6 +20173,11 @@
     "locale": "pt",
     "slug": "as-informacoes-do-cliente-sao-perdidas-quando-ha-algum-pedido-com-o-codigo-profileerroronloading",
     "internalReference": 340036
+  },
+  {
+    "locale": "pt",
+    "slug": "as-informacoes-resumidas-serao-traduzidas-para-o-ingles-apos-o-login-por-meio-da-atualizacao-das-informacoes-de-endereco-selecionadas",
+    "internalReference": 978571
   },
   {
     "locale": "pt",
@@ -25606,11 +25606,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-modelo-de-parcelamento-legado-e-os-controles-de-prateleira-nao-consideram-os-multiplicadores-de-unidades",
-    "internalReference": 979205
-  },
-  {
-    "locale": "pt",
     "slug": "o-portal-mantem-os-utms-apos-o-log-out-quando-se-utiliza-o-callcenter-operator",
     "internalReference": 534838
   },
@@ -25653,6 +25648,11 @@
     "locale": "pt",
     "slug": "oorderbypriceasc-ou-orderbypricedesc-pode-resultar-em-uma-ordem-incorreta",
     "internalReference": 582861
+  },
+  {
+    "locale": "pt",
+    "slug": "os-modelos-de-parcelamento-e-os-controles-de-estante-legados-nao-levam-em-conta-os-multiplicadores-de-unidades",
+    "internalReference": 979205
   },
   {
     "locale": "pt",
