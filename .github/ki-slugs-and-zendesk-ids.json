@@ -11471,6 +11471,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-solicitud-del-centro-de-impuestos-de-marketplace-no-tiene-en-cuenta-el-precio-manual-para-los-descuentos",
+    "internalReference": 932657
+  },
+  {
+    "locale": "es",
     "slug": "la-solicitud-del-centro-de-impuestos-no-suma-los-descuentos-cuando-se-aplica-el-precio-manual",
     "internalReference": 932667
   },
@@ -11478,11 +11483,6 @@
     "locale": "es",
     "slug": "la-solicitud-del-centro-tributario-del-mercado-no-tiene-en-cuenta-algunos-tipos-de-descuentos",
     "internalReference": 945580
-  },
-  {
-    "locale": "es",
-    "slug": "la-solicitud-del-centro-tributario-del-mercado-no-tiene-en-cuenta-el-precio-manual-para-los-descuentos",
-    "internalReference": 932657
   },
   {
     "locale": "es",
@@ -20056,7 +20056,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-solicitacao-do-hub-de-impostos-do-marketplace-nao-considera-o-preco-manual-para-descontos",
+    "slug": "a-solicitacao-do-hub-de-impostos-do-marketplace-nao-leva-em-consideracao-o-preco-manual-para-descontos",
     "internalReference": 932657
   },
   {
