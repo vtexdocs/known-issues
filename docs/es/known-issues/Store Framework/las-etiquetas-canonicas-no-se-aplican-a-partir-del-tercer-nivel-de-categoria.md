@@ -1,11 +1,9 @@
 ---
-title: 'Las etiquetas canónicas no se aplican a partir del tercer nivel de categoría.'
-id: 6HU8WLT5yVRBqeBmGgYRsi
+title: 'Las etiquetas canónicas no se aplican a partir del tercer nivel de categoría'
+slug: las-etiquetas-canonicas-no-se-aplican-a-partir-del-tercer-nivel-de-categoria
 status: PUBLISHED
-createdAt: 2023-11-08T13:31:23.182Z
-updatedAt: 2024-10-10T14:50:38.058Z
-publishedAt: 2024-10-10T14:50:38.058Z
-firstPublishedAt: 2023-11-08T13:31:24.275Z
+createdAt: 2023-11-08T13:31:07.000Z
+updatedAt: 2024-10-10T14:50:23.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,31 +14,21 @@ kiStatus: Backlog
 internalReference: 932349
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-Las etiquetas canónicas no se aplican después del 3er nivel de categoría cuando se tiene un árbol de categorías con más de 3 niveles (departamento, categoría y subcategoría), los otros niveles por encima no se muestran en canónica. La única excepción es cuando las rutas se almacenan en rewriter.
-
-
-##
+Las etiquetas canónicas no se aplican a partir del tercer nivel de categoría cuando se tiene un árbol de categorías con más de tres niveles (departamento, categoría y subcategoría); los niveles superiores no se muestran en la etiqueta canónica. La única excepción se da cuando las rutas se almacenan en el reescritor.
 
 ## Simulación
 
-
-
-1. Crear cualquier subcategoría de 4º nivel
-2. Acceder a la página creada
-3. Compruebe el Canonical de la misma en la consola, no mostrará nada después del 3er nivel. Sólo el 3º y siguientes.
-
-
+1. Crea cualquier subcategoría de cuarto nivel
+2. Acceda a la página creada
+3. Compruebe la canonical en la consola; no mostrará nada más allá del tercer nivel. Solo el tercero y los inferiores.
 
 ## Workaround
 
+Ejecute la consulta de bootstrap en el rewriter vtex.routes-bootstrap@0.x:
 
-Ejecute la consulta bootstrap en la regrabadora vtex.routes-bootstrap@0.x:
 
-
-    {bootstrap{categories}}
-
+ {bootstrap{categories}}
