@@ -10996,6 +10996,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-valor-del-articulo-del-carrito-se-envia-incorrectamente-durante-el-proceso-de-pago-en-additionaldata",
+    "internalReference": 640386
+  },
+  {
+    "locale": "es",
     "slug": "el-valor-del-documento-del-cliente-no-se-actualiza-correctamente-a-veces-en-la-configuracion-global-checkout",
     "internalReference": 863726
   },
@@ -11073,11 +11078,6 @@
     "locale": "es",
     "slug": "interactuar-con-el-componente-de-direcciones-mientras-algunos-datos-de-la-interfaz-de-usuario-aun-estan-en-estado-de-carga-cambia-el-modo-de-inserc",
     "internalReference": 423811
-  },
-  {
-    "locale": "es",
-    "slug": "itemvalue-del-carrito-es-enviado-incorrectamente-por-el-checkout-en-additionaldata",
-    "internalReference": 640386
   },
   {
     "locale": "es",
@@ -16651,6 +16651,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-promocion-mas-por-menos-no-es-compatible-con-las-promociones-habituales",
+    "internalReference": 637586
+  },
+  {
+    "locale": "es",
     "slug": "la-promocion-se-aplica-a-todos-los-ans-en-lugar-de-solo-al-metodo-de-envio-seleccionado",
     "internalReference": 1265187
   },
@@ -16758,11 +16763,6 @@
     "locale": "es",
     "slug": "productos-que-muestran-una-bandera-y-un-descuento-tras-finalizar-la-promocion",
     "internalReference": 383911
-  },
-  {
-    "locale": "es",
-    "slug": "promocion-mas-por-menos-no-funciona-junto-con-la-promocion-regular",
-    "internalReference": 637586
   },
   {
     "locale": "es",
@@ -20166,11 +20166,6 @@
   },
   {
     "locale": "pt",
-    "slug": "itemvalue-do-carrinho-e-enviado-incorretamente-pelo-checkout-em-additionaldata",
-    "internalReference": 640386
-  },
-  {
-    "locale": "pt",
     "slug": "itens-indisponiveis-que-quebram-o-calculo-do-pedidoformulario-de-calculo-em-um-cenario-especifico-utilizando-vendedores-de-whitelabel",
     "internalReference": 745047
   },
@@ -20578,6 +20573,11 @@
     "locale": "pt",
     "slug": "o-transporte-enxuto-causa-algo-deu-errado-depois-de-mudar-os-pontos-de-coleta",
     "internalReference": 1053609
+  },
+  {
+    "locale": "pt",
+    "slug": "o-valor-do-item-do-carrinho-e-enviado-incorretamente-pelo-checkout-em-additionaldata",
+    "internalReference": 640386
   },
   {
     "locale": "pt",
@@ -25416,6 +25416,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-promocao-mais-por-menos-nao-esta-funcionando-em-conjunto-com-a-promocao-regular",
+    "internalReference": 637586
+  },
+  {
+    "locale": "pt",
     "slug": "a-promocao-se-aplica-a-todos-os-slas-em-vez-de-apenas-ao-metodo-de-envio-selecionado",
     "internalReference": 1265187
   },
@@ -25688,11 +25693,6 @@
     "locale": "pt",
     "slug": "promocao-de-remessa-gratuita-sendo-aplicada-em-pedidos-divididos-fora-da-restricao-de-promocao",
     "internalReference": 732302
-  },
-  {
-    "locale": "pt",
-    "slug": "promocao-mais-por-menos-nao-trabalhar-ao-lado-da-promocao-regular",
-    "internalReference": 637586
   },
   {
     "locale": "pt",
