@@ -10416,6 +10416,11 @@
   },
   {
     "locale": "es",
+    "slug": "tiempo-de-espera-de-las-colecciones",
+    "internalReference": 434026
+  },
+  {
+    "locale": "es",
     "slug": "tiempo-de-espera-de-los-filtros-de-catalogo",
     "internalReference": 922350
   },
@@ -10433,11 +10438,6 @@
     "locale": "es",
     "slug": "tiempo-de-espera-para-importar-sku-y-productos",
     "internalReference": 1201280
-  },
-  {
-    "locale": "es",
-    "slug": "tiempo-limite-de-cobro",
-    "internalReference": 434026
   },
   {
     "locale": "es",
@@ -19216,11 +19216,6 @@
   },
   {
     "locale": "pt",
-    "slug": "tempo-limite-das-colecoes",
-    "internalReference": 434026
-  },
-  {
-    "locale": "pt",
     "slug": "tempo-limite-de-importacao-de-colecoes-legadas",
     "internalReference": 483785
   },
@@ -19253,6 +19248,11 @@
     "locale": "pt",
     "slug": "tempo-limite-em-relatorioindexacaoaspx",
     "internalReference": 547844
+  },
+  {
+    "locale": "pt",
+    "slug": "tempo-limite-para-cobrancas",
+    "internalReference": 434026
   },
   {
     "locale": "pt",
