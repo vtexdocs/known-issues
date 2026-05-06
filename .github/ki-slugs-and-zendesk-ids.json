@@ -16616,7 +16616,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-activador-de-cobros-no-funciona-como-se-esperaba-en-los-descuentos-progresivos",
+    "slug": "el-activador-de-colecciones-no-funciona-como-se-esperaba-en-los-descuentos-progresivos",
     "internalReference": 930849
   },
   {
@@ -26001,11 +26001,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-acionador-de-cobrancas-nao-esta-funcionando-como-esperado-nos-descontos-progressivos",
-    "internalReference": 930849
-  },
-  {
-    "locale": "pt",
     "slug": "o-campaign-audience-nao-salva-as-informacoes-do-cupom",
     "internalReference": 521601
   },
@@ -26048,6 +26043,11 @@
     "locale": "pt",
     "slug": "o-formulario-de-upload-do-produtosku-permite-uploaddownload-do-formato-utf16",
     "internalReference": 493402
+  },
+  {
+    "locale": "pt",
+    "slug": "o-gatilho-de-colecoes-nao-esta-funcionando-como-esperado-nos-descontos-progressivos",
+    "internalReference": 930849
   },
   {
     "locale": "pt",
