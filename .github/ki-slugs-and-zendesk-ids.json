@@ -13721,7 +13721,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-api-obtener-todas-las-sugerencias-de-sku-no-mantiene-el-mismo-orden-de-sku-al-cambiar-los-limites",
+    "slug": "la-api-obtener-todas-las-sugerencias-de-sku-no-mantiene-el-mismo-orden-de-los-sku-al-cambiar-los-limites",
     "internalReference": 367187
   },
   {
@@ -22421,7 +22421,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-obter-todas-as-sugestoes-de-sku-nao-mantem-a-mesma-ordem-de-sku-ao-alterar-os-limites",
+    "slug": "a-api-obter-todas-as-sugestoes-de-sku-nao-mantem-a-mesma-ordem-dos-skus-ao-alterar-os-limites",
     "internalReference": 367187
   },
   {
