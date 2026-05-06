@@ -10541,11 +10541,6 @@
   },
   {
     "locale": "es",
-    "slug": "campo-pais-como-null-en-invoicedata",
-    "internalReference": 382175
-  },
-  {
-    "locale": "es",
     "slug": "carga-eterna-en-el-checkout-ui-v5",
     "internalReference": 332740
   },
@@ -10718,6 +10713,11 @@
     "locale": "es",
     "slug": "el-campo-disponibilidad-es-incorrecto-en-la-simulacion-de-cumplimiento-para-productos-sin-stock-o-precio",
     "internalReference": 773537
+  },
+  {
+    "locale": "es",
+    "slug": "el-campo-pais-esta-en-blanco-en-invoicedata",
+    "internalReference": 382175
   },
   {
     "locale": "es",
@@ -19666,11 +19666,6 @@
   },
   {
     "locale": "pt",
-    "slug": "campo-country-como-nulo-em-invoicedata",
-    "internalReference": 382175
-  },
-  {
-    "locale": "pt",
     "slug": "carregamento-eterno-no-checkout-ui-v5",
     "internalReference": 332740
   },
@@ -20003,6 +19998,11 @@
     "locale": "pt",
     "slug": "o-campo-disponibilidade-esta-incorreto-na-simulacao-de-cumprimento-para-produtos-sem-estoque-ou-preco",
     "internalReference": 773537
+  },
+  {
+    "locale": "pt",
+    "slug": "o-campo-pais-esta-nulo-em-invoicedata",
+    "internalReference": 382175
   },
   {
     "locale": "pt",
