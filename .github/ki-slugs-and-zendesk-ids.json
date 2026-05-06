@@ -14076,6 +14076,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-estan-creando-referencias-del-mismo-producto-de-forma-independiente-en-cuentas-en-las-que-esta-activada-la-opcion-de-aprobacion-automatica",
+    "internalReference": 962986
+  },
+  {
+    "locale": "es",
     "slug": "shopee-listados-duplicados-tras-la-actualizacion-de-la-arquitectura-de-integracion-vtex",
     "internalReference": 1244807
   },
@@ -14083,11 +14088,6 @@
     "locale": "es",
     "slug": "sku-denegado-en-skus-recibidos-despues-de-la-aceleracion-en-el-catalogo-del-mercado",
     "internalReference": 970208
-  },
-  {
-    "locale": "es",
-    "slug": "skus-de-un-mismo-producto-creados-por-separado-en-cuentas-con-el-indicador-autoaprobar-activado",
-    "internalReference": 962986
   },
   {
     "locale": "es",
@@ -23171,6 +23171,11 @@
   },
   {
     "locale": "pt",
+    "slug": "codigos-de-produto-do-mesmo-item-estao-sendo-criados-separadamente-em-contas-com-a-opcao-aprovacao-automatica-ativada",
+    "internalReference": 962986
+  },
+  {
+    "locale": "pt",
     "slug": "codigos-de-produto-do-mesmo-item-sendo-criados-separadamente-contas-com-a-opcao-aprovacao-automatica-ativada",
     "internalReference": 467112
   },
@@ -23278,11 +23283,6 @@
     "locale": "pt",
     "slug": "sku-negado-em-skus-recebidos-apos-limitacao-no-catalogo-do-marketplace",
     "internalReference": 970208
-  },
-  {
-    "locale": "pt",
-    "slug": "skus-do-mesmo-produto-sendo-criados-separadamente-em-contas-com-o-sinalizador-de-aprovacao-automatica-ativado",
-    "internalReference": 962986
   },
   {
     "locale": "pt",
