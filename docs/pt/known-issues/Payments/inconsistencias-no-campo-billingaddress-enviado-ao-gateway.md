@@ -1,9 +1,9 @@
 ---
-title: 'Inconsistências no campo billingAddress enviado ao Gateway'
+title: 'Inconsistências no campo "billingAddress" enviado ao Gateway'
 slug: inconsistencias-no-campo-billingaddress-enviado-ao-gateway
 status: PUBLISHED
-createdAt: 2025-08-07T20:19:54.478Z
-updatedAt: 2025-08-07T20:19:54.478Z
+createdAt: 2020-09-29T21:17:51.000Z
+updatedAt: 2025-07-24T22:27:10.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,30 +18,26 @@ internalReference: 291688
 
 ## Sumário
 
+O gateway utiliza o endereço incorreto em cenários de compras recorrentes quando já existe um cartão salvo no perfil do usuário.
 
-O gateway usa o endereço errado em cenários de compras recorrentes quando já existe um cartão salvo no perfil do usuário.
+O erro ocorre porque o gateway se baseia na caixa de seleção `isBillingAddressDifferent`, que aparece ao lado dos dados do cartão no checkout, para definir se utilizará o endereço de entrega ou o endereço de cobrança nas verificações de afiliação e antifraude. O problema é que essa caixa de seleção em questão nem sequer aparece no checkout após a primeira compra com o cartão, mas seu valor é `false` por padrão. Isso significa que, seja uma compra com entrega ou retirada, o endereço que o gateway utilizará é o endereço de entrega e não o de cobrança, o que causará problemas em cenários de retirada ou mesmo na geração de boletos bancários.
 
-O erro ocorre porque o gateway se baseia na caixa de seleção `isBillingAddressDifferent`, que aparece ao lado dos dados do cartão no checkout, para definir se usará o endereço de entrega ou o endereço de cobrança em afiliações e antifraude. O problema é que essa caixa de seleção em questão nem sequer aparece no checkout após a primeira compra com o cartão, mas seu valor é `false` por padrão. Isso significa que, sendo uma compra para entrega ou retirada, o endereço que o gateway usará é o endereço de entrega e não o endereço de cobrança, e isso trará problemas em cenários de retirada ou mesmo para gerar boletos bancários.
 ## Simulação
 
+Cenário A:
 
-Cena A:
-
-1. Como um novo usuário, vá até o caixa de uma loja e faça uma compra de entrega para gerar um perfil de compra
-2. Ao pagar por esse pedido, use um endereço de cartão diferente do endereço de entrega
-3. Faça uma nova compra com o mesmo e-mail e o mesmo cartão, mas comprando em uma opção de retirada
-4. Observe os objetos `isBillingAddressDifferent` que será falso e o `address` do pagamento que será um endereço específico
+1. Como novo usuário, acesse o checkout de uma loja e faça uma compra com entrega para gerar um perfil de compra
+2. Ao pagar por este pedido, use um endereço de cartão diferente do endereço de entrega
+3. Faça uma nova compra com o mesmo e-mail e o mesmo cartão, mas escolhendo a opção de retirada
+4. Observe que o objeto `isBillingAddressDifferent` será falso e que o `endereço` do pagamento será um endereço específico
 
 Cenário B:
 
-1. Como um novo usuário, vá até o caixa de uma loja e faça uma compra de entrega para gerar um perfil de compra
-2. Ao pagar por esse pedido, use o mesmo endereço como endereço de entrega
-3. Faça uma nova compra com o mesmo e-mail e o mesmo cartão, mas comprando em uma opção de retirada
-4. Observe os objetos `isBillingAddressDifferent` que serão falsos e o `address` do pagamento que não terá um endereço específic
+1. Como novo usuário, vá ao checkout da loja e faça uma compra com entrega para gerar um perfil de compra
+2. Ao pagar por este pedido, use o mesmo endereço como endereço de entrega
+3. Faça uma nova compra com o mesmo e-mail e o mesmo cartão, mas escolhendo a opção de retirada
+4. Observe que o objeto `isBillingAddressDifferent` será falso e que o `address` do pagamento não terá um endereço específico
+
 ## Workaround
 
-
 Envie uma solicitação de suporte ao produto para prosseguir com a transação.
-
-
-
