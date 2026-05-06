@@ -13471,7 +13471,7 @@
   },
   {
     "locale": "es",
-    "slug": "precio-indexado-de-un-producto-considerando-la-sku-con-el-precio-mas-alto-en-lugar-del-mas-bajo",
+    "slug": "precio-indexado-de-un-producto-que-tiene-en-cuenta-la-referencia-con-el-precio-mas-alto-en-lugar-del-mas-bajo",
     "internalReference": 822120
   },
   {
@@ -22546,7 +22546,7 @@
   },
   {
     "locale": "pt",
-    "slug": "preco-indexado-para-um-produto-considerando-a-sku-com-o-preco-mais-alto-em-vez-do-mais-baixo",
+    "slug": "preco-indexado-de-um-produto-considerando-o-sku-com-o-preco-mais-alto-em-vez-do-mais-baixo",
     "internalReference": 822120
   },
   {
