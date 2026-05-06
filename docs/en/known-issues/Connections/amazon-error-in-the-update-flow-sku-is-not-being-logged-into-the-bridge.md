@@ -1,11 +1,9 @@
 ---
-title: '[Amazon] Error in the update flow sku is not being logged into the bridge'
-id: 1oBkaT6GWZfhB4t2Qpn6c0
+title: 'Amazon Error in the update flow sku is not being logged into the bridge'
+slug: amazon-error-in-the-update-flow-sku-is-not-being-logged-into-the-bridge
 status: PUBLISHED
-createdAt: 2024-02-27T19:40:49.825Z
-updatedAt: 2024-02-27T19:40:50.483Z
-publishedAt: 2024-02-27T19:40:50.483Z
-firstPublishedAt: 2024-02-27T19:40:50.483Z
+createdAt: 2024-02-27T19:40:35.000Z
+updatedAt: 2024-02-27T19:40:35.000Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,7 +16,6 @@ internalReference: 990197
 
 ## Summary
 
-
 Error in the update flow sku isn't being logged into the bridge
 
 **Marketplace:** Amazon
@@ -27,24 +24,12 @@ Error in the update flow sku isn't being logged into the bridge
 
 1. doesn't happen with all skus;
 
-
-##
-
 ## Simulation
-
 
 Admin > Marketplace > Products > Amazon
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Connections/amazon-error-in-the-update-flow-sku-is-not-being-logged-into-the-bridge_1.png)
-
-
-##
+ ![](https://vtexhelp.zendesk.com/attachments/token/l7i4mRjrhA0eo5BWd92YCS46m/?name=image.png)
 
 ## Workaround
 
-
 Reprocess SKU
-
-
-
-
