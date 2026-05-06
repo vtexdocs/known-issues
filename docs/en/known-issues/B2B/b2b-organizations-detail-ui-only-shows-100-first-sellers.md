@@ -1,11 +1,9 @@
 ---
 title: 'B2B Organizations Detail UI only shows 100 first sellers'
-id: 6gZm70bIF0p92u6WtDZqdO
+slug: b2b-organizations-detail-ui-only-shows-100-first-sellers
 status: PUBLISHED
-createdAt: 2024-01-15T21:29:19.105Z
-updatedAt: 2024-08-26T13:48:07.233Z
-publishedAt: 2024-08-26T13:48:07.233Z
-firstPublishedAt: 2024-01-15T21:29:19.660Z
+createdAt: 2024-01-15T21:29:01.000Z
+updatedAt: 2024-08-26T13:47:50.000Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,26 +16,15 @@ internalReference: 966450
 
 ## Summary
 
-
 B2B Organizations Detail UI only shows 100 first sellers; the UI doesn't have pagination, making it impossible to select a seller if not in the first page
 
-
-##
-
 ## Simulation
-
-
 
 - Make sure the account has more than 100 sellers registered;
 - Access the seller tab in B2B Organizations Detail UI;
 - Only the 100 first sellers will be shown.
 
-
-##
-
 ## Workaround
-
-
 
 - Perform a getOrganizationById via graphQL using the app:
 
@@ -46,8 +33,3 @@ B2B Organizations Detail UI only shows 100 first sellers; the UI doesn't have pa
 - Perform a mutation using the data from the previous graphQL:
 
     mutation { updateOrganization ( id: "", name: "" tradeName: "" status: "active" collections: [] paymentTerms: [] priceTables: [] customFields: [] salesChannel: null sellers: [{ id: "", name: "" }] ) { id }}
-
-
-
-
-
