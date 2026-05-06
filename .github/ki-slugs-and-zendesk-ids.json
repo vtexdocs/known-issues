@@ -11026,6 +11026,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-usuario-es-redirigido-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder",
+    "internalReference": 786685
+  },
+  {
+    "locale": "es",
     "slug": "el-valor-del-articulo-del-carrito-se-envia-incorrectamente-durante-el-proceso-de-pago-en-additionaldata",
     "internalReference": 640386
   },
@@ -14171,7 +14176,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-informe-de-exportacion-de-pedidos-no-funciona-correctamente-debido-al-doble-espacio-en-el-nombre-de-la-promocion",
+    "slug": "el-informe-de-exportacion-de-pedidos-no-funciona-correctamente-debido-a-un-doble-espacio-en-el-nombre-de-la-promocion",
     "internalReference": 786216
   },
   {
@@ -15676,7 +15681,7 @@
   },
   {
     "locale": "es",
-    "slug": "metodo-de-redondeo-incoherente-del-conector-decidirv1-para-los-campos-csptgrandtotalamount-y-csittotalamount",
+    "slug": "metodo-de-redondeo-inconsistente-del-conector-decidirv1-para-los-campos-csptgrandtotalamount-y-csittotalamount",
     "internalReference": 787367
   },
   {
@@ -17161,7 +17166,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-evento-productclick-considera-el-sku-id-incorrecto",
+    "slug": "el-evento-productclick-tiene-en-cuenta-un-id-de-sku-incorrecto",
     "internalReference": 788145
   },
   {
@@ -20558,6 +20563,11 @@
     "locale": "pt",
     "slug": "o-checkout-substitui-o-nome-do-receptor-pelo-nome-do-cliente",
     "internalReference": 324792
+  },
+  {
+    "locale": "pt",
+    "slug": "o-cliente-e-redirecionado-para-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder",
+    "internalReference": 786685
   },
   {
     "locale": "pt",
@@ -24271,11 +24281,6 @@
   },
   {
     "locale": "pt",
-    "slug": "decidirv1-connectors-inconsistente-metodo-de-arredondamento-para-os-campos-csptgrandtotalamount-e-csittotalamount",
-    "internalReference": 787367
-  },
-  {
-    "locale": "pt",
     "slug": "delaytoautosettleafterantifraud-aciona-a-captura-automatica-mesmo-sem-a-verificacao-antifraude",
     "internalReference": 369633
   },
@@ -24543,6 +24548,11 @@
     "locale": "pt",
     "slug": "marcas-de-cartao-processadas-incorretamente-como-visa",
     "internalReference": 1024823
+  },
+  {
+    "locale": "pt",
+    "slug": "metodo-de-arredondamento-inconsistente-do-conector-decidirv1-para-os-campos-csptgrandtotalamount-e-csittotalamount",
+    "internalReference": 787367
   },
   {
     "locale": "pt",
@@ -26441,6 +26451,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-evento-productclick-considera-o-id-de-sku-incorreto",
+    "internalReference": 788145
+  },
+  {
+    "locale": "pt",
     "slug": "o-evento-viewcart-e-acionado-duas-vezes-de-forma-intermitente-ao-adicionar-itens-ao-minicarro",
     "internalReference": 1265581
   },
@@ -26673,11 +26688,6 @@
     "locale": "pt",
     "slug": "problemas-de-rolagem-ao-deslizar-no-celular-na-visualizacao-rapida-quando-ha-um-layout-de-controle-deslizante-em-segundo-plano",
     "internalReference": 985097
-  },
-  {
-    "locale": "pt",
-    "slug": "productclick-event-considera-o-sku-id-incorreto",
-    "internalReference": 788145
   },
   {
     "locale": "pt",
