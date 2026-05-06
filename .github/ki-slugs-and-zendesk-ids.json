@@ -11016,6 +11016,11 @@
   },
   {
     "locale": "es",
+    "slug": "en-algunos-casos-la-busqueda-de-direcciones-en-google-maps-no-filtra-los-resultados-segun-el-pais-seleccionado",
+    "internalReference": 727408
+  },
+  {
+    "locale": "es",
     "slug": "en-el-proceso-de-pago-no-se-muestra-la-promocion-de-envio-de-inmediato-en-determinadas-circunstancias",
     "internalReference": 280144
   },
@@ -11123,11 +11128,6 @@
     "locale": "es",
     "slug": "la-api-para-listar-los-puntos-de-recogida-no-devuelve-el-campo-additionalinfo",
     "internalReference": 650714
-  },
-  {
-    "locale": "es",
-    "slug": "la-busqueda-de-direcciones-en-google-maps-no-filtra-por-el-pais-seleccionado-en-algunos-casos",
-    "internalReference": 727408
   },
   {
     "locale": "es",
@@ -19811,6 +19811,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-pesquisa-de-enderecos-no-google-maps-nao-filtra-de-acordo-com-o-pais-selecionado-em-alguns-casos",
+    "internalReference": 727408
+  },
+  {
+    "locale": "pt",
     "slug": "a-pesquisa-do-seletor-de-ponto-de-coleta-nao-funciona-com-enterreturn",
     "internalReference": 829955
   },
@@ -20763,11 +20768,6 @@
     "locale": "pt",
     "slug": "pedidos-sem-endereco-de-faturamento-criados-por-meio-da-interface-de-usuario-nativa",
     "internalReference": 306140
-  },
-  {
-    "locale": "pt",
-    "slug": "pesquisa-de-enderecos-do-google-maps-nao-filtrada-pelo-pais-selecionado-em-alguns-cenarios",
-    "internalReference": 727408
   },
   {
     "locale": "pt",
