@@ -15326,6 +15326,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-transaccion-se-ha-quedado-bloqueada-en-el-estado-aprobada-con-el-conector-nps-debido-al-codigo-pspresponsecod-en-la-respuesta-de-liquidacion",
+    "internalReference": 557051
+  },
+  {
+    "locale": "es",
     "slug": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
     "internalReference": 1363196
   },
@@ -15833,11 +15838,6 @@
     "locale": "es",
     "slug": "transaccion-atascada-en-aprobado-mientras-el-pago-permanece-liquidando-cuando-se-utilizan-liquidaciones-parciales",
     "internalReference": 1319395
-  },
-  {
-    "locale": "es",
-    "slug": "transaccion-bloqueada-en-aprobado-con-conector-nps-debido-a-pspresponsecod-en-la-respuesta-de-liquidacion",
-    "internalReference": 557051
   },
   {
     "locale": "es",
@@ -23701,7 +23701,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-transacao-ficou-presa-na-aprovacao-com-o-conector-nps-devido-ao-pspresponsecod-na-resposta-da-liquidacao",
+    "slug": "a-transacao-ficou-parada-na-etapa-aprovada-com-o-conector-nps-devido-ao-codigo-pspresponsecod-na-resposta-de-liquidacao",
     "internalReference": 557051
   },
   {
