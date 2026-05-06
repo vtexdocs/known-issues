@@ -12816,11 +12816,6 @@
   },
   {
     "locale": "es",
-    "slug": "autocompletar-no-responde-al-arranque-en-frio",
-    "internalReference": 418573
-  },
-  {
-    "locale": "es",
     "slug": "autocompletar-trayendo-productos-de-sugerencia-mostrados-con-retraso",
     "internalReference": 615616
   },
@@ -13078,6 +13073,11 @@
     "locale": "es",
     "slug": "la-emisora-no-notifica-todos-los-cambios-de-stock-al-modulo-de-busqueda-inteligente",
     "internalReference": 683345
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-de-autocompletado-no-responde-al-iniciar-el-sistema-en-frio",
+    "internalReference": 418573
   },
   {
     "locale": "es",
@@ -21636,6 +21636,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-funcao-de-preenchimento-automatico-nao-responde-ao-inicializar-o-sistema",
+    "internalReference": 418573
+  },
+  {
+    "locale": "pt",
     "slug": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao",
     "internalReference": 1398224
   },
@@ -21958,11 +21963,6 @@
     "locale": "pt",
     "slug": "o-preenchimento-automatico-nao-exibe-as-sugestoes-de-pesquisa-durante-a-primeira-interacao-apos-a-renderizacao-do-plp",
     "internalReference": 1208038
-  },
-  {
-    "locale": "pt",
-    "slug": "o-preenchimento-automatico-nao-responde-a-partidas-a-frio",
-    "internalReference": 418573
   },
   {
     "locale": "pt",
