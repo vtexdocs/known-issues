@@ -12366,7 +12366,7 @@
   },
   {
     "locale": "es",
-    "slug": "meli-integracion-sku-con-error-object-reference-not-set-to-an-instance-of-an-object",
+    "slug": "meli-integracion-de-sku-con-el-error-la-referencia-al-objeto-no-se-ha-establecido-en-una-instancia-de-un-objeto",
     "internalReference": 657515
   },
   {
@@ -14396,11 +14396,6 @@
   },
   {
     "locale": "es",
-    "slug": "los-pedidos-con-articulos-en-el-array-marketplaceitems-no-se-abren-en-new-ui-admin",
-    "internalReference": 656821
-  },
-  {
-    "locale": "es",
     "slug": "los-pedidos-con-itens-de-modificacion-no-pueden-facturarse-haciendo-referencia-a-los-articulos",
     "internalReference": 784171
   },
@@ -14408,6 +14403,11 @@
     "locale": "es",
     "slug": "los-pedidos-con-un-error-de-creacion-permanecen-atascados-en-estado-cancelado",
     "internalReference": 1089344
+  },
+  {
+    "locale": "es",
+    "slug": "los-pedidos-que-contienen-articulos-del-conjunto-marketplaceitems-no-se-abren-en-la-nueva-interfaz-de-usuario-de-administracion",
+    "internalReference": 656821
   },
   {
     "locale": "es",
@@ -21221,11 +21221,6 @@
   },
   {
     "locale": "pt",
-    "slug": "integracao-do-sku-com-o-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto",
-    "internalReference": 657515
-  },
-  {
-    "locale": "pt",
     "slug": "inventario-incorretamente-atualizado",
     "internalReference": 556514
   },
@@ -21283,6 +21278,11 @@
     "locale": "pt",
     "slug": "meli-erro-de-produto-a-sequencia-nao-contem-elementos",
     "internalReference": 678062
+  },
+  {
+    "locale": "pt",
+    "slug": "meli-integracao-do-sku-com-o-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto",
+    "internalReference": 657515
   },
   {
     "locale": "pt",
@@ -23431,7 +23431,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-pedidos-com-itens-na-matriz-marketplaceitems-nao-estao-abrindo-na-nova-iu-de-administracao",
+    "slug": "os-pedidos-com-itens-na-matriz-marketplaceitems-nao-estao-sendo-exibidos-na-nova-interface-de-administracao",
     "internalReference": 656821
   },
   {
