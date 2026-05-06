@@ -9906,6 +9906,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-funcion-exportar-especificaciones-de-sku-del-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento",
+    "internalReference": 465445
+  },
+  {
+    "locale": "es",
     "slug": "la-hoja-de-calculo-de-imagenes-no-se-exporta-cuando-la-cuenta-tiene-demasiados-skus",
     "internalReference": 623183
   },
@@ -18116,6 +18121,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-exportacao-das-especificacoes-do-sku-do-catalogo-nem-sempre-exporta-todos-os-dados-se-a-categoria-selecionada-for-um-departamento",
+    "internalReference": 465445
+  },
+  {
+    "locale": "pt",
     "slug": "a-exportacao-de-colecoes-mostra-apenas-o-primeiro-sku-do-produto-inativo",
     "internalReference": 1040753
   },
@@ -18123,11 +18133,6 @@
     "locale": "pt",
     "slug": "a-exportacao-de-email-da-interface-do-usuario-das-novas-colecoes-nao-esta-funcionando",
     "internalReference": 1218386
-  },
-  {
-    "locale": "pt",
-    "slug": "a-exportacao-de-especificacoes-de-sku-do-catalogo-nem-sempre-exportara-todos-os-dados-se-a-categoria-selecionada-for-um-departamento",
-    "internalReference": 465445
   },
   {
     "locale": "pt",
