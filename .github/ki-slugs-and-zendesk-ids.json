@@ -2916,6 +2916,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-preview-wrongly-showing-unavailability-message-for-pickup-in-a-cart-with-gift",
+    "internalReference": 764457
+  },
+  {
+    "locale": "en",
     "slug": "shipping-preview-wrongly-showing-unavailability-message-for-pickup",
     "internalReference": 764457
   },
@@ -11471,6 +11476,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-vista-previa-del-envio-muestra-erroneamente-un-mensaje-de-indisponibilidad-para-la-recogida-en-una-cesta-que-contiene-un-regalo",
+    "internalReference": 764457
+  },
+  {
+    "locale": "es",
     "slug": "la-vista-previa-del-envio-muestra-erroneamente-un-mensaje-de-no-disponibilidad-para-la-recogida",
     "internalReference": 764457
   },
@@ -11706,7 +11716,7 @@
   },
   {
     "locale": "es",
-    "slug": "no-se-puede-crear-un-pedido-cuando-el-vendedor-tiene-un-codigo-de-pais-diferente",
+    "slug": "no-se-puede-crear-un-pedido-si-el-vendedor-tiene-un-codigo-de-pais-diferente",
     "internalReference": 763955
   },
   {
@@ -19881,6 +19891,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-previsualizacao-do-envio-exibe-erroneamente-uma-mensagem-de-indisponibilidade-para-retirada-em-um-carrinho-que-contem-um-presente",
+    "internalReference": 764457
+  },
+  {
+    "locale": "pt",
     "slug": "a-previsualizacao-do-envio-exibe-incorretamente-a-data-prevista-para-a-entrega",
     "internalReference": 743774
   },
@@ -20371,6 +20386,11 @@
   },
   {
     "locale": "pt",
+    "slug": "nao-e-possivel-criar-um-pedido-quando-o-vendedor-possui-um-codigo-de-pais-diferente",
+    "internalReference": 763955
+  },
+  {
+    "locale": "pt",
     "slug": "nao-ha-feedback-para-o-usuario-quando-algo-da-errado",
     "internalReference": 339072
   },
@@ -20638,11 +20658,6 @@
     "locale": "pt",
     "slug": "o-pedido-nao-pode-ser-criado-devido-a-um-cartao-de-credito-invalido",
     "internalReference": 607742
-  },
-  {
-    "locale": "pt",
-    "slug": "o-pedido-nao-pode-ser-criado-quando-o-vendedor-tem-um-codigo-de-pais-diferente",
-    "internalReference": 763955
   },
   {
     "locale": "pt",
