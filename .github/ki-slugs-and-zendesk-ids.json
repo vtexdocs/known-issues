@@ -10381,6 +10381,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-ha-agotado-el-tiempo-de-espera-en-relatorioindexacaoaspx",
+    "internalReference": 547844
+  },
+  {
+    "locale": "es",
     "slug": "servicio-obligatorio-que-funciona-como-opcional",
     "internalReference": 872411
   },
@@ -12168,6 +12173,11 @@
     "locale": "es",
     "slug": "implantacion-de-categorias-en-amazon",
     "internalReference": 549924
+  },
+  {
+    "locale": "es",
+    "slug": "impresion-de-etiquetas-meli-oms",
+    "internalReference": 546542
   },
   {
     "locale": "es",
@@ -19357,6 +19367,11 @@
   {
     "locale": "pt",
     "slug": "tempo-limite-em-relatorioindexacaoaspx",
+    "internalReference": 547844
+  },
+  {
+    "locale": "pt",
+    "slug": "tempo-limite-na-pagina-relatorioindexacaoaspx",
     "internalReference": 547844
   },
   {
