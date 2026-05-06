@@ -1,11 +1,9 @@
 ---
 title: 'O comportamento do RefId não é consistente entre a API e a interface do usuário'
-id: 4007iEJ8bCN96PBY0nsIB4
+slug: o-comportamento-do-refid-nao-e-consistente-entre-a-api-e-a-interface-do-usuario
 status: PUBLISHED
-createdAt: 2023-09-29T13:11:04.826Z
-updatedAt: 2023-10-20T13:41:48.679Z
-publishedAt: 2023-10-20T13:41:48.679Z
-firstPublishedAt: 2023-09-29T13:11:05.384Z
+createdAt: 2023-09-29T13:10:51.000Z
+updatedAt: 2023-10-20T13:41:33.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,28 +14,17 @@ kiStatus: Backlog
 internalReference: 910050
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
-
-Atualmente, temos dois comportamentos para o código refid: por meio da API, não é possível ser igual a outros produtos, mas por meio da interface do usuário, é possível inserir o mesmo valor que outros produtos já têm.
+Atualmente, temos dois comportamentos para o código refid: via API, não é possível que ele seja igual ao de outros produtos, mas via interface do usuário (UI), é possível inserir o mesmo valor que outros produtos já possuem.
 
 ## Simulação
 
-
-
-Criar um produto com um código redIf
-Crie outro produto e tente usar o mesmo código refId que o outro; via API não será possível, mas via UI será
+Crie um produto com um código refId
+Crie outro produto e tente usar o mesmo código refId do outro; via API, isso não será possível, mas via interface do usuário (UI), sim.
 
 ## Workaround
 
-
-
-Se você precisar usar os mesmos refIds para produtos diferentes, insira-os por meio da interface do usuário.
-
-
-
-
-
+Se você precisar usar os mesmos refIds para produtos diferentes, insira-os via interface do usuário (UI).
