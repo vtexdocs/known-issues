@@ -11176,7 +11176,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-api-de-la-region-devuelve-la-lista-de-vendedores-debido-a-la-cache",
+    "slug": "la-api-de-la-region-devuelve-una-lista-de-vendedores-debido-a-la-cache",
     "internalReference": 969692
   },
   {
@@ -14081,13 +14081,13 @@
   },
   {
     "locale": "es",
-    "slug": "shopee-listados-duplicados-tras-la-actualizacion-de-la-arquitectura-de-integracion-vtex",
-    "internalReference": 1244807
+    "slug": "se-ha-rechazado-el-sku-en-los-sku-recibidos-tras-la-limitacion-del-catalogo-del-mercado",
+    "internalReference": 970208
   },
   {
     "locale": "es",
-    "slug": "sku-denegado-en-skus-recibidos-despues-de-la-aceleracion-en-el-catalogo-del-mercado",
-    "internalReference": 970208
+    "slug": "shopee-listados-duplicados-tras-la-actualizacion-de-la-arquitectura-de-integracion-vtex",
+    "internalReference": 1244807
   },
   {
     "locale": "es",
@@ -17746,7 +17746,7 @@
   },
   {
     "locale": "pt",
-    "slug": "admin-a-pesquisa-global-nao-reconhece-os-itens-do-menu-de-perfil",
+    "slug": "admin-a-pesquisa-global-nao-reconhece-os-itens-do-menu-do-perfil",
     "internalReference": 969645
   },
   {
@@ -19781,7 +19781,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-da-regiao-retorna-a-lista-de-vendedores-devido-ao-cache",
+    "slug": "a-api-da-regiao-retorna-uma-lista-de-vendedores-devido-ao-cache",
     "internalReference": 969692
   },
   {
@@ -23281,13 +23281,13 @@
   },
   {
     "locale": "pt",
-    "slug": "sku-negado-em-skus-recebidos-apos-limitacao-no-catalogo-do-marketplace",
-    "internalReference": 970208
+    "slug": "skus-recebidos-a-funcao-de-exportacao-nao-esta-funcionando-para-administradores-em-outros-idiomas-apenas-pt-en-es",
+    "internalReference": 668122
   },
   {
     "locale": "pt",
-    "slug": "skus-recebidos-a-funcao-de-exportacao-nao-esta-funcionando-para-administradores-em-outros-idiomas-apenas-pt-en-es",
-    "internalReference": 668122
+    "slug": "skus-rejeitados-nos-skus-recebidos-apos-limitacao-no-catalogo-do-marketplace",
+    "internalReference": 970208
   },
   {
     "locale": "pt",
