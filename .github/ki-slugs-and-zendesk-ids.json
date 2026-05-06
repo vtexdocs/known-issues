@@ -9586,6 +9586,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-servicio-obligatorio-funciona-como-opcional",
+    "internalReference": 872411
+  },
+  {
+    "locale": "es",
     "slug": "el-termino-hace-que-la-api-de-busqueda-no-tenga-retorno",
     "internalReference": 570542
   },
@@ -10428,11 +10433,6 @@
     "locale": "es",
     "slug": "se-produce-una-recarga-inesperada-al-registrar-o-actualizar-un-producto",
     "internalReference": 863542
-  },
-  {
-    "locale": "es",
-    "slug": "servicio-obligatorio-que-funciona-como-opcional",
-    "internalReference": 872411
   },
   {
     "locale": "es",
@@ -17691,7 +17691,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-pedido-no-notificado-al-transportista-deja-incompleto-el-codigo-de-barras-de-la-etiqueta",
+    "slug": "el-transportista-no-ha-sido-informado-del-pedido-y-ha-dejado-el-codigo-de-barras-de-la-etiqueta-incompleto",
     "internalReference": 872530
   },
   {
@@ -26856,7 +26856,7 @@
   },
   {
     "locale": "pt",
-    "slug": "pedido-nao-notificado-transportadora-deixa-etiqueta-com-codigo-de-barras-incompleto",
+    "slug": "encomenda-nao-notificada-a-transportadora-deixa-o-codigo-de-barras-da-etiqueta-incompleto",
     "internalReference": 872530
   }
 ]
