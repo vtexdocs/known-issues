@@ -10146,7 +10146,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-actualizaciones-de-las-comisiones-de-los-vendedores-no-indexan-las-skus-vinculadas",
+    "slug": "las-actualizaciones-de-las-comisiones-de-los-vendedores-no-se-aplican-a-los-sku-vinculados",
     "internalReference": 891162
   },
   {
@@ -12541,7 +12541,7 @@
   },
   {
     "locale": "es",
-    "slug": "mercado-livre-eliminar-validacion-underreview-en-actualizar-sku",
+    "slug": "mercado-livre-eliminar-la-validacion-underreview-en-actualizar-sku",
     "internalReference": 890658
   },
   {
@@ -16506,7 +16506,7 @@
   },
   {
     "locale": "es",
-    "slug": "url-obsoleta-en-la-interfaz-de-usuario-de-actualizacion-de-enlaces",
+    "slug": "url-obsoleta-en-la-interfaz-de-usuario-de-la-vinculacion-de-actualizaciones",
     "internalReference": 890791
   },
   {
@@ -18686,7 +18686,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-atualizacoes-da-comissao-do-vendedor-nao-indexam-os-skus-vinculados",
+    "slug": "as-atualizacoes-da-comissao-do-vendedor-nao-afetam-os-skus-vinculados",
     "internalReference": 891162
   },
   {
@@ -21651,7 +21651,7 @@
   },
   {
     "locale": "pt",
-    "slug": "mercado-livre-remover-a-validacao-underreview-em-atualizar-sku",
+    "slug": "mercado-livre-remover-a-validacao-em-analise-na-atualizacao-do-sku",
     "internalReference": 890658
   },
   {
@@ -25671,7 +25671,7 @@
   },
   {
     "locale": "pt",
-    "slug": "url-desatualizado-na-interface-de-usuario-de-atualizacao-de-vinculacao",
+    "slug": "url-desatualizada-na-interface-de-usuario-de-vinculacao-de-atualizacoes",
     "internalReference": 890791
   },
   {
