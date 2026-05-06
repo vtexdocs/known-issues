@@ -12191,13 +12191,13 @@
   },
   {
     "locale": "es",
-    "slug": "error-de-seguimiento",
-    "internalReference": 514557
+    "slug": "error-de-meli-al-enviar-el-seguimiento-del-pedido",
+    "internalReference": 764885
   },
   {
     "locale": "es",
-    "slug": "error-meli-al-enviar-el-seguimiento-del-pedido",
-    "internalReference": 764885
+    "slug": "error-de-seguimiento",
+    "internalReference": 514557
   },
   {
     "locale": "es",
