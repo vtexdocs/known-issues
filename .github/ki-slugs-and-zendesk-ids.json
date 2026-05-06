@@ -13556,7 +13556,7 @@
   },
   {
     "locale": "es",
-    "slug": "search-resolver-aplicando-traducciones-de-mensajes-sobre-contenido-ya-traducido",
+    "slug": "resolver-de-busqueda-que-aplica-las-traducciones-de-messages-al-contenido-ya-traducido",
     "internalReference": 865918
   },
   {
@@ -22486,7 +22486,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-search-resolver-aplica-traducoes-de-mensagens-sobre-conteudo-ja-traduzido",
+    "slug": "o-search-resolver-aplica-as-traducoes-do-messages-ao-conteudo-ja-traduzido",
     "internalReference": 865918
   },
   {
