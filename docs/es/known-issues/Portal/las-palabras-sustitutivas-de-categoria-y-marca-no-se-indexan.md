@@ -1,11 +1,9 @@
 ---
-title: 'Las palabras sustitutivas de categoría y marca no se indexan'
-id: 4gIrMX8Wd2uW3Nekcbhu7S
+title: 'Las palabras sustitutivas de «categoría» y «marca» no se indexan'
+slug: las-palabras-sustitutivas-de-categoria-y-marca-no-se-indexan
 status: PUBLISHED
-createdAt: 2022-01-23T02:48:06.799Z
-updatedAt: 2024-09-20T14:49:04.436Z
-publishedAt: 2024-09-20T14:49:04.436Z
-firstPublishedAt: 2022-03-16T16:17:28.941Z
+createdAt: 2021-05-27T17:13:01.000Z
+updatedAt: 2024-09-20T14:48:41.000Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,33 +14,18 @@ kiStatus: Backlog
 internalReference: 374204
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-Las palabras sustitutivas de categorías y marcas no se tienen en cuenta en la búsqueda
-
-
-##
+En la búsqueda no se tienen en cuenta los términos alternativos para categorías y marcas
 
 ## Simulación
 
-
-
-- Registrar una palabra sustituta en una marca o categoría
-- Buscar esta palabra
-- Ver los resultados
-
-
-##
+- Introduce un término alternativo en una marca o categoría
+- Busca ese término
+- Observa los resultados obtenidos
 
 ## Workaround
 
-
-Registrar la palabra sustituta en todos los productos de la marca o categoría
-
-
-
-
-
+Introduce el término alternativo en todos los productos de la marca o categoría
