@@ -2,8 +2,8 @@
 title: 'CMS Loyalty Value Settings not Working'
 slug: cms-loyalty-value-settings-not-working
 status: PUBLISHED
-createdAt: 2025-11-17T17:31:41.785Z
-updatedAt: 2025-11-17T17:31:41.785Z
+createdAt: 2023-01-04T14:17:41.000Z
+updatedAt: 2023-01-04T14:18:02.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,15 +16,9 @@ internalReference: 726849
 
 ## Summary
 
-
-
 Currently, the loyalty value under the settings tab of the legacy CMS is not blocking/allowing the usage of such feature on the loyalty module.
 
-
-
-
-#### Simulation
-
+## Simulation
 
 Go to mystore.myvtex.com/admin/Site/ConfigForm.aspx
 
@@ -34,12 +28,6 @@ There's a reward program checkbox under this tab
 
 Even with it unchecked, if you configure a reward promotion or a value directly on a product, the credits will be given to the purchase, ignoring this setting on the admin.
 
-
-
-
-#### Workaround
-
+## Workaround
 
 n/a
-
-
