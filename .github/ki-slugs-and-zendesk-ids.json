@@ -15446,13 +15446,13 @@
   },
   {
     "locale": "es",
-    "slug": "los-pagos-a-debito-que-utilizan-el-conector-firstdata-no-pueden-liquidarse-debido-a-un-error-en-el-campo-transactionstate",
-    "internalReference": 461095
+    "slug": "los-pagos-a-plazos-con-credito-de-cliente-no-se-muestran-como-opcion-en-el-proceso-de-pago",
+    "internalReference": 1078804
   },
   {
     "locale": "es",
-    "slug": "los-pagos-a-plazos-con-credito-de-cliente-no-se-muestran-como-opcion-en-el-proceso-de-pago",
-    "internalReference": 1078804
+    "slug": "los-pagos-con-tarjeta-de-debito-que-utilizan-el-conector-de-firstdata-no-se-pueden-liquidar-debido-a-un-error-en-el-campo-transactionstate",
+    "internalReference": 461095
   },
   {
     "locale": "es",
@@ -24416,7 +24416,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-pagamentos-de-debito-usando-o-conector-firstdata-nao-podem-ser-liquidados-devido-a-um-erro-no-campo-transactionstate",
+    "slug": "os-pagamentos-por-debito-que-utilizam-o-conector-firstdata-nao-podem-ser-liquidados-devido-a-um-erro-no-campo-transactionstate",
     "internalReference": 461095
   },
   {
