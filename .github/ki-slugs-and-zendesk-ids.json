@@ -1921,6 +1921,11 @@
   },
   {
     "locale": "en",
+    "slug": "benefit-with-restricted-number-of-installments-displays-discount-in-other-installments-in-the-combo-box",
+    "internalReference": 323525
+  },
+  {
+    "locale": "en",
     "slug": "broken-carts-when-adding-unavailable-assembly-option",
     "internalReference": 1308431
   },
@@ -11281,6 +11286,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-ventaja-de-un-numero-limitado-de-cuotas-muestra-el-descuento-en-las-demas-cuotas-en-el-cuadro-combinado",
+    "internalReference": 323525
+  },
+  {
+    "locale": "es",
     "slug": "la-vista-previa-de-envio-muestra-erroneamente-la-fecha-en-la-que-esta-programada-la-entrega",
     "internalReference": 743774
   },
@@ -19928,6 +19938,11 @@
     "locale": "pt",
     "slug": "o-algoritmo-de-selecao-do-vendedor-nao-considera-a-disponibilidade-real-do-item-para-escolher-a-melhor-opcao",
     "internalReference": 360097
+  },
+  {
+    "locale": "pt",
+    "slug": "o-beneficio-com-numero-limitado-de-parcelas-exibe-o-desconto-nas-demais-parcelas-na-caixa-de-combinacao",
+    "internalReference": 323525
   },
   {
     "locale": "pt",
