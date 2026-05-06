@@ -13911,11 +13911,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-autocompletado-de-articulos-no-se-muestra-en-la-etiqueta-blanca-del-vendedor-cambiar-orden",
-    "internalReference": 348841
-  },
-  {
-    "locale": "es",
     "slug": "el-campo-judet-county-no-aparece-como-guardado-al-editar-la-direccion-en-romania-my-account",
     "internalReference": 394658
   },
@@ -14168,6 +14163,11 @@
     "locale": "es",
     "slug": "la-factura-introducida-no-activa-el-proceso-de-reembolso-en-la-pasarela",
     "internalReference": 1198829
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-de-autocompletado-de-articulos-no-se-muestra-en-la-marca-blanca-del-vendedor-cambiar-el-orden",
+    "internalReference": 348841
   },
   {
     "locale": "es",
@@ -16191,7 +16191,7 @@
   },
   {
     "locale": "es",
-    "slug": "vtexeventsadddata-anadiendo-el-parametro-pageurl-usando-http-no-https",
+    "slug": "vtexeventsadddata-anadir-el-parametro-pageurl-utilizando-http-no-https",
     "internalReference": 348128
   },
   {
@@ -22651,6 +22651,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-funcao-de-preenchimento-automatico-de-itens-nao-e-exibida-na-marca-branca-do-vendedor-alterar-pedido",
+    "internalReference": 348841
+  },
+  {
+    "locale": "pt",
     "slug": "a-nova-interface-do-usuario-nao-mostra-o-documento-de-identificacao-do-cliente-por-exemplo-o-cpf",
     "internalReference": 713480
   },
@@ -23008,11 +23013,6 @@
     "locale": "pt",
     "slug": "o-plano-de-assinatura-esta-preso-na-importacao-apos-o-carregamento-da-planilha-da-associacao-skus",
     "internalReference": 571080
-  },
-  {
-    "locale": "pt",
-    "slug": "o-preenchimento-automatico-do-item-nao-e-exibido-na-etiqueta-branca-do-vendedor-ordem-de-modificacao",
-    "internalReference": 348841
   },
   {
     "locale": "pt",
@@ -24951,7 +24951,7 @@
   },
   {
     "locale": "pt",
-    "slug": "vtexeventsadddata-adicionando-paginaurl-parametro-usando-http-nao-https",
+    "slug": "vtexeventsadddata-adicionando-o-parametro-pageurl-usando-http-e-nao-https",
     "internalReference": 348128
   },
   {
