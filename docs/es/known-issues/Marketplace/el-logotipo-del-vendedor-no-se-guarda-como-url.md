@@ -1,11 +1,9 @@
 ---
 title: 'El logotipo del vendedor no se guarda como URL'
-id: 2bcjVyapAH9d19w79kOB2b
+slug: el-logotipo-del-vendedor-no-se-guarda-como-url
 status: PUBLISHED
-createdAt: 2023-01-19T14:36:20.412Z
-updatedAt: 2023-04-18T12:16:33.539Z
-publishedAt: 2023-04-18T12:16:33.539Z
-firstPublishedAt: 2023-01-19T14:36:20.904Z
+createdAt: 2023-01-19T14:35:13.000Z
+updatedAt: 2023-04-18T12:16:18.000Z
 contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,40 +14,24 @@ kiStatus: Fixed
 internalReference: 736716
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
+La información del logotipo del vendedor en la base de datos no se guarda como una URL, sino como una imagen.
 
-La información del logo del vendedor en la base de datos no se está guardando como una URL, sino como una Imagen.
-
-Actualmente nuestra documentación de formulario de pedido indica que este campo se supone que es una URL:
+Actualmente, la documentación de nuestro formulario de pedido indica que este campo debe ser una URL:
 https://developers.vtex.com/docs/guides/orderform-fields#sellers
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Marketplace/el-logotipo-del-vendedor-no-se-guarda-como-url_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/SNx3LvZCcZAZHXrEnMaa5EUkh/?name=image.png)
 
-Pero en nuestra base de datos se está guardando en un formato diferente.
-
-
-
-##
+Sin embargo, en nuestra base de datos se guarda en un formato diferente.
 
 ## Simulación
 
-
-
-1. Establecer un logotipo para un vendedor a través de UI o API;
-2. Compruebe a través de GET Seller API (https://developers.vtex.com/docs/api-reference/marketplace-apis#get-/-accountName-.-environment-.com.br/api/seller-register/pvt/sellers/-sellerId-) el formato del campo "UrlLogo".
-3. Compruebe en el formulario de pedido que tampoco sea una URL.
-
-
-##
+1. Establecer un logotipo para un vendedor a través de la interfaz de usuario o la API;
+2. Comprueba mediante la API GET de vendedor (https://developers.vtex.com/docs/api-reference/marketplace-apis#get-/-accountName-.-environment-.com.br/api/seller-register/pvt/sellers/-sellerId-) el formato del campo «UrlLogo».
+3. Compruebe que en el formulario de pedido tampoco sea una URL.
 
 ## Workaround
 
-
-No hay solución.
-
-
-
-
+No hay solución alternativa.
