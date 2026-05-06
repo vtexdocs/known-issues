@@ -13131,6 +13131,11 @@
   },
   {
     "locale": "es",
+    "slug": "explain-search-no-muestra-resultados-cuando-el-idioma-coincide-con-la-configuracion-regional-del-administrador-que-tambien-esta-configurada-en-intelligent-search",
+    "internalReference": 830490
+  },
+  {
+    "locale": "es",
     "slug": "facetas-del-segmento-que-afectan-a-las-migas-de-pan-al-titulo-de-la-pagina-y-a-los-filtros-adicionales",
     "internalReference": 1057254
   },
@@ -17371,7 +17376,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-funcion-addtocart-no-funciona-correctamente-con-los-anexos-y-el-anexo-del-componente-de-opciones-de-montaje",
+    "slug": "la-funcion-addtocart-no-funciona-correctamente-con-los-archivos-adjuntos-y-los-archivos-adjuntos-de-los-componentes-de-las-opciones-de-montaje",
     "internalReference": 830495
   },
   {
@@ -22121,6 +22126,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-pesquisa-explica-nao-apresenta-resultados-quando-o-idioma-corresponde-a-configuracao-regional-do-administrador-tambem-definida-na-pesquisa-inteligente",
+    "internalReference": 830490
+  },
+  {
+    "locale": "pt",
     "slug": "a-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada",
     "internalReference": 1376133
   },
@@ -26206,7 +26216,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-funcao-addtocart-nao-funciona-corretamente-com-anexos-e-com-o-anexo-do-componente-opcoes-de-montagem",
+    "slug": "a-funcao-addtocart-nao-funciona-corretamente-com-anexos-e-com-os-anexos-dos-componentes-das-opcoes-de-montagem",
     "internalReference": 830495
   },
   {
