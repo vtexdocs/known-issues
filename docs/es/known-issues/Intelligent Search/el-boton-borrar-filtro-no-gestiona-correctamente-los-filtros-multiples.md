@@ -1,11 +1,9 @@
 ---
-title: 'El botón Borrar filtro no gestiona correctamente los filtros múltiples'
-id: TVLYkkJXq5bxmFvHZyRS6
+title: 'El botón «Borrar filtro» no gestiona correctamente los filtros múltiples'
+slug: el-boton-borrar-filtro-no-gestiona-correctamente-los-filtros-multiples
 status: PUBLISHED
-createdAt: 2024-01-03T22:35:40.705Z
-updatedAt: 2024-01-03T22:35:41.328Z
-publishedAt: 2024-01-03T22:35:41.328Z
-firstPublishedAt: 2024-01-03T22:35:41.328Z
+createdAt: 2024-01-03T22:35:27.000Z
+updatedAt: 2024-01-03T22:35:27.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,25 +14,17 @@ kiStatus: Backlog
 internalReference: 960905
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-En algunos casos, como en páginas de destino y páginas de colección, los filtros adicionales no se borran correctamente después de hacer clic en el botón "Borrar filtro". La URL puede ir a filtros no válidos o erróneos y el listado de productos puede quedar vacío o con productos inesperados.
-
-
-##
+En algunos casos, como en las páginas de destino y las páginas de colecciones, los filtros adicionales no se borran correctamente tras hacer clic en el botón «Borrar filtros». La URL puede redirigir a filtros no válidos o incorrectos, y la lista de productos puede quedar vacía o mostrar productos inesperados.
 
 ## Simulación
 
-
-En un tema de tienda con el botón "Borrar filtros" activado, pruébalo en una página de destino o de colección después de aplicar filtros adicionales.
-
-
+En un tema de tienda con el botón «Borrar filtros» habilitado, pruébalo en una página de destino o en una página de colección después de aplicar filtros adicionales.
 
 ## Workaround
 
-
+provisional**
 N/A
-
