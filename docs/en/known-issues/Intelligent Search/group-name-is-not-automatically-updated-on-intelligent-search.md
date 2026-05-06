@@ -2,8 +2,8 @@
 title: 'Group name is not automatically updated on Intelligent Search'
 slug: group-name-is-not-automatically-updated-on-intelligent-search
 status: PUBLISHED
-createdAt: 2025-09-24T18:20:23.232Z
-updatedAt: 2025-09-24T18:20:23.232Z
+createdAt: 2023-05-08T22:00:29.000Z
+updatedAt: 2025-09-24T21:19:43.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -15,7 +15,6 @@ internalReference: 821481
 ---
 
 ## Summary
-
 
 Currently, there are 2 distinct collection modules:
 
@@ -34,21 +33,12 @@ However, the new collections module only displays the collection name, not its G
 
 The Intelligent Search results are based on the Group Name, which is why, on cases that updates are done only on the new UI, the results are not reflected on the front end and the search queries.
 
-
-
-#### Simulation
-
+## Simulation
 
 1 - create a collection using either UI
 2 - update the collection on the new application only, making no changes to the legacy.
 3 - check the search results and see it'll not be updated.
 
-
-
-#### Workaround
-
+## Workaround
 
 Manually update the GroupName on the legacy UI and click "Save Group" to reindex the collection.
-
-
-
