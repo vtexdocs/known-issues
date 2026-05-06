@@ -10936,11 +10936,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-paso-de-envio-puede-mostrar-un-mensaje-de-no-disponibilidad-mientras-se-calculan-las-opciones-de-envio",
-    "internalReference": 650038
-  },
-  {
-    "locale": "es",
     "slug": "el-pedido-no-se-crea-y-se-crea-un-pedido-sin-articulos-cuando-el-carrito-contiene-un-vendedor-no-blanco-en-pausa",
     "internalReference": 1350336
   },
@@ -11043,6 +11038,11 @@
     "locale": "es",
     "slug": "errores-al-anadir-una-opcion-de-montaje-no-disponible",
     "internalReference": 1308431
+  },
+  {
+    "locale": "es",
+    "slug": "es-posible-que-mientras-se-calculan-las-opciones-de-envio-aparezca-un-mensaje-indicando-que-el-servicio-no-esta-disponible",
+    "internalReference": 650038
   },
   {
     "locale": "es",
