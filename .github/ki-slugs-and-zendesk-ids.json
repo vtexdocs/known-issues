@@ -9246,6 +9246,11 @@
   },
   {
     "locale": "es",
+    "slug": "catalog-no-elimina-los-caracteres-especiales-al-configurar-el-enlace-de-texto",
+    "internalReference": 940127
+  },
+  {
+    "locale": "es",
     "slug": "catalogo-api-get-product-by-refid-devuelve-no-encontrado-para-algunos-productosrefid",
     "internalReference": 1157371
   },
@@ -11511,7 +11516,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-vista-previa-del-envio-muestra-el-codigo-postal-de-recogida-para-el-envio-cuando-hay-un-paquete-dividido-para-la-recogida-y-el-envio",
+    "slug": "la-vista-previa-del-envio-muestra-el-codigo-postal-de-recogida-cuando-el-paquete-se-divide-entre-recogida-y-envio",
     "internalReference": 938124
   },
   {
@@ -11991,7 +11996,7 @@
   },
   {
     "locale": "es",
-    "slug": "actualizacion-de-meli-emision-de-accionesprecios",
+    "slug": "actualizacion-sobre-meli-problema-con-las-acciones-y-el-precio",
     "internalReference": 939329
   },
   {
@@ -13936,6 +13941,11 @@
   },
   {
     "locale": "es",
+    "slug": "en-la-pestana-revisar-de-los-sku-recibidos-faltan-productos",
+    "internalReference": 939877
+  },
+  {
+    "locale": "es",
     "slug": "error-al-aprobar-skus-rechazados-o-revisados-por-calidad-de-la-oferta",
     "internalReference": 940998
   },
@@ -14043,11 +14053,6 @@
     "locale": "es",
     "slug": "no-se-puede-suspender-al-vendedor",
     "internalReference": 682151
-  },
-  {
-    "locale": "es",
-    "slug": "recibidos-skus-revision-ficha-productos-que-faltan",
-    "internalReference": 939877
   },
   {
     "locale": "es",
@@ -17551,7 +17556,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-mensajes-de-error-de-los-cupones-minicart-solo-aparecen-tras-un-segundo-intento",
+    "slug": "los-mensajes-de-error-de-minicart-solo-aparecen-tras-un-segundo-intento",
     "internalReference": 938379
   },
   {
@@ -20031,6 +20036,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-previsualizacao-do-envio-mostra-o-codigo-postal-para-retirada-quando-ha-divisao-da-encomenda-entre-retirada-e-envio",
+    "internalReference": 938124
+  },
+  {
+    "locale": "pt",
     "slug": "a-previsualizacao-do-frete-exibe-o-preco-incorretamente-quando-se-trata-de-uma-entrega-agendada",
     "internalReference": 532487
   },
@@ -20083,11 +20093,6 @@
     "locale": "pt",
     "slug": "a-visualizacao-da-remessa-exibe-erroneamente-os-itens-como-indisponiveis",
     "internalReference": 1194442
-  },
-  {
-    "locale": "pt",
-    "slug": "a-visualizacao-da-remessa-mostra-o-codigo-postal-de-retirada-para-remessa-quando-ha-divisao-de-pacotes-para-retirada-e-remessa",
-    "internalReference": 938124
   },
   {
     "locale": "pt",
@@ -21291,7 +21296,7 @@
   },
   {
     "locale": "pt",
-    "slug": "atualizacao-do-meli-problema-de-estoquepreco",
+    "slug": "atualizacao-sobre-a-questao-das-acoespreco-da-meli",
     "internalReference": 939329
   },
   {
@@ -23176,6 +23181,11 @@
   },
   {
     "locale": "pt",
+    "slug": "na-guia-revisao-dos-skus-recebidos-faltam-produtos",
+    "internalReference": 939877
+  },
+  {
+    "locale": "pt",
     "slug": "nao-e-possivel-suspender-o-vendedor",
     "internalReference": 682151
   },
@@ -23228,11 +23238,6 @@
     "locale": "pt",
     "slug": "os-skus-do-vendedor-nao-estao-sendo-combinados-com-os-skus-do-marketplace",
     "internalReference": 1100159
-  },
-  {
-    "locale": "pt",
-    "slug": "produtos-ausentes-na-guia-revisao-da-skus-recebida",
-    "internalReference": 939877
   },
   {
     "locale": "pt",
@@ -26416,7 +26421,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-mensagens-de-erro-do-minicart-coupon-so-aparecem-apos-uma-segunda-tentativa",
+    "slug": "as-mensagens-de-erro-de-cupom-do-minicart-so-aparecem-apos-uma-segunda-tentativa",
     "internalReference": 938379
   },
   {
