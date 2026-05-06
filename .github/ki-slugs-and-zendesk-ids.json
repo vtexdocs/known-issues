@@ -16146,6 +16146,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-exportacion-de-redireccionamientos-desde-el-generador-de-url-del-cms-esta-limitada-a-65-536-registros",
+    "internalReference": 492861
+  },
+  {
+    "locale": "es",
     "slug": "la-funcion-getcurrentproductwithvariations-de-vtexjs-trae-los-datos-del-sku-del-componente-y-no-del-sku-del-kit",
     "internalReference": 324416
   },
@@ -24873,6 +24878,11 @@
     "locale": "pt",
     "slug": "a-classificacao-manual-das-colecoes-nao-funciona-como-esperado",
     "internalReference": 295245
+  },
+  {
+    "locale": "pt",
+    "slug": "a-exportacao-de-redirecionamentos-do-cms-url-builder-esta-limitada-a-65536-registros",
+    "internalReference": 492861
   },
   {
     "locale": "pt",
