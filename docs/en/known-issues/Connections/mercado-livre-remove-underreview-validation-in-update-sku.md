@@ -2,8 +2,8 @@
 title: 'Mercado Livre Remove under_review validation in Update SKU'
 slug: mercado-livre-remove-underreview-validation-in-update-sku
 status: PUBLISHED
-createdAt: 2025-11-14T19:20:33.768Z
-updatedAt: 2025-11-14T19:20:33.768Z
+createdAt: 2023-08-30T21:15:10.000Z
+updatedAt: 2025-06-23T17:25:34.000Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,21 +16,13 @@ internalReference: 890658
 
 ## Summary
 
-
 Moderation map updated
 In this case, when the moderation is tagged as DOMAIN, we will redirect to the catalog instead Mapper, this because the ad can not be updated. The seller must create a new ad
 
-
-#### Simulation
-
+## Simulation
 
 Fixed
 
-
-#### Workaround
-
+## Workaround
 
 N/A
-
-
-
