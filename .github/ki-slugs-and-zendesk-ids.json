@@ -9846,11 +9846,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-busqueda-de-gestion-de-inventario-no-funciona-correctamente-en-las-cuentas-del-portal-del-vendedor",
-    "internalReference": 694254
-  },
-  {
-    "locale": "es",
     "slug": "la-busqueda-de-televentas-no-acepta-caracteres-especiales-aparte-de",
     "internalReference": 1072418
   },
@@ -9933,6 +9928,11 @@
     "locale": "es",
     "slug": "la-funcion-activar-servicio-al-importar-skuvincularvalorservicoaspx-no-funciona",
     "internalReference": 339894
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-de-busqueda-de-gestion-de-inventario-no-funciona-correctamente-en-las-cuentas-del-portal-de-vendedores",
+    "internalReference": 694254
   },
   {
     "locale": "es",
@@ -14011,13 +14011,13 @@
   },
   {
     "locale": "es",
-    "slug": "al-acceder-a-mis-pedidos-el-nombre-que-aparece-es-el-nombre-del-productname-sin-la-informacion-del-sku-name",
-    "internalReference": 694809
+    "slug": "al-anadir-una-sku-a-traves-de-nuestra-funcionalidad-cambiar-pedido-el-nombre-del-producto-no-se-muestra-en-el-pedido-ni-en-la-notificacion-por-corr",
+    "internalReference": 557978
   },
   {
     "locale": "es",
-    "slug": "al-anadir-una-sku-a-traves-de-nuestra-funcionalidad-cambiar-pedido-el-nombre-del-producto-no-se-muestra-en-el-pedido-ni-en-la-notificacion-por-corr",
-    "internalReference": 557978
+    "slug": "al-consultar-mis-pedidos-el-nombre-que-aparece-es-el-del-productname-sin-la-informacion-del-sku-name",
+    "internalReference": 694809
   },
   {
     "locale": "es",
@@ -15066,7 +15066,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-en-operaciones-de-reembolso-y-captura-con-payout-split-valor-en-destinatarios-es-diferente-al-valor-de-la-operacion",
+    "slug": "error-en-las-operaciones-de-reembolso-y-captura-con-payout-split-el-valor-de-los-destinatarios-no-coincide-con-el-valor-de-la-operacion",
     "internalReference": 698005
   },
   {
@@ -15401,7 +15401,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-operaciones-no-pueden-realizarse-correctamente-debido-a-que-el-campo-documenttype-es-nulo",
+    "slug": "las-operaciones-no-se-pueden-realizar-correctamente-debido-a-que-el-campo-documenttype-esta-vacio",
     "internalReference": 697107
   },
   {
@@ -18296,6 +18296,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-funcao-de-pesquisa-na-gestao-de-estoque-nao-esta-funcionando-corretamente-nas-contas-do-portal-do-vendedor",
+    "internalReference": 694254
+  },
+  {
+    "locale": "pt",
     "slug": "a-imagem-do-produto-no-admin-muda-com-mais-de-70-skus",
     "internalReference": 1003966
   },
@@ -18893,11 +18898,6 @@
     "locale": "pt",
     "slug": "funcoes-do-usuario-do-catalogv2-nao-sendo-aplicadas",
     "internalReference": 489297
-  },
-  {
-    "locale": "pt",
-    "slug": "gestao-de-estoques-pesquisa-nao-funciona-corretamente-nas-contas-do-portal-do-vendedor",
-    "internalReference": 694254
   },
   {
     "locale": "pt",
@@ -23051,7 +23051,7 @@
   },
   {
     "locale": "pt",
-    "slug": "ao-acessar-meus-pedidos-o-nome-que-aparece-e-o-nome-do-productname-sem-as-informacoes-do-sku-name",
+    "slug": "ao-acessar-meus-pedidos-o-nome-que-aparece-e-o-nome-do-produto-productname-sem-as-informacoes-do-sku",
     "internalReference": 694809
   },
   {
@@ -23891,7 +23891,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-operacoes-nao-podem-ser-executadas-corretamente-devido-ao-campo-documenttype-nulo",
+    "slug": "as-operacoes-nao-podem-ser-executadas-corretamente-devido-ao-campo-documenttype-estar-vazio",
     "internalReference": 697107
   },
   {
@@ -24196,7 +24196,7 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-nas-operacoes-de-reembolso-e-captura-com-divisao-de-pagamento-o-valor-nos-destinatarios-e-diferente-do-valor-da-operacao",
+    "slug": "erro-nas-operacoes-de-reembolso-e-captura-com-divisao-de-pagamento-o-valor-dos-destinatarios-e-diferente-do-valor-da-operacao",
     "internalReference": 698005
   },
   {
