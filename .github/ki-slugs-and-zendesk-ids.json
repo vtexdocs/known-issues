@@ -14641,13 +14641,13 @@
   },
   {
     "locale": "es",
-    "slug": "retraso-en-la-cancelacion-del-pedido-en-marketplace",
-    "internalReference": 1242813
+    "slug": "retraso-en-el-registro-de-cancelreason-en-el-json-del-pedido",
+    "internalReference": 792650
   },
   {
     "locale": "es",
-    "slug": "retraso-para-registrar-cancelreason-en-el-json-del-pedido",
-    "internalReference": 792650
+    "slug": "retraso-en-la-cancelacion-del-pedido-en-marketplace",
+    "internalReference": 1242813
   },
   {
     "locale": "es",
@@ -23281,7 +23281,7 @@
   },
   {
     "locale": "pt",
-    "slug": "atraso-no-registro-cancelreason-na-ordem-json",
+    "slug": "atraso-no-registro-do-cancelreason-no-json-do-pedido",
     "internalReference": 792650
   },
   {
