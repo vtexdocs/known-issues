@@ -9106,7 +9106,7 @@
   },
   {
     "locale": "es",
-    "slug": "al-mover-las-categorias-no-se-actualiza-el-id-del-departamento-en-los-productos",
+    "slug": "al-mover-categorias-no-se-actualiza-el-id-del-departamento-en-los-productos",
     "internalReference": 316694
   },
   {
@@ -10816,11 +10816,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-paso-de-envio-con-codigo-postal-no-funciona-para-algunos-paises-emiratos-arabes-unidos",
-    "internalReference": 312132
-  },
-  {
-    "locale": "es",
     "slug": "el-paso-de-envio-puede-mostrar-un-mensaje-de-no-disponibilidad-mientras-se-calculan-las-opciones-de-envio",
     "internalReference": 650038
   },
@@ -11228,6 +11223,11 @@
     "locale": "es",
     "slug": "la-opcion-de-entrega-programada-no-aparece-en-el-carrito-si-el-envio-magro-esta-desactivado-y-el-articulo-tiene-ambos-tipos-de-entregas",
     "internalReference": 394943
+  },
+  {
+    "locale": "es",
+    "slug": "la-opcion-de-envio-con-codigo-postal-no-funciona-en-algunos-paises-emiratos-arabes-unidos",
+    "internalReference": 312132
   },
   {
     "locale": "es",
@@ -14726,7 +14726,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-sistema-no-permite-la-cancelacion-multiple-con-giftcard",
+    "slug": "el-sistema-no-permite-realizar-cancelaciones-multiples-con-tarjetas-regalo",
     "internalReference": 309117
   },
   {
@@ -14871,7 +14871,7 @@
   },
   {
     "locale": "es",
-    "slug": "estado-divergente-en-la-lista-de-transacciones-y-en-la-transaccion",
+    "slug": "estado-diferente-en-la-lista-de-transacciones-y-en-la-transaccion",
     "internalReference": 308919
   },
   {
@@ -18041,13 +18041,13 @@
   },
   {
     "locale": "pt",
-    "slug": "a-movimentacao-de-categorias-nao-atualiza-o-id-do-departamento-nos-produtos",
-    "internalReference": 316694
+    "slug": "a-mudanca-de-acessorios-nao-esta-acionando-a-indexacao",
+    "internalReference": 1037800
   },
   {
     "locale": "pt",
-    "slug": "a-mudanca-de-acessorios-nao-esta-acionando-a-indexacao",
-    "internalReference": 1037800
+    "slug": "a-mudanca-de-categorias-nao-atualiza-o-id-do-departamento-nos-produtos",
+    "internalReference": 316694
   },
   {
     "locale": "pt",
@@ -19261,7 +19261,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-etapa-de-envio-com-codigo-postal-nao-funciona-em-alguns-paises-emirados-arabes-unidos",
+    "slug": "a-etapa-de-envio-com-codigo-postal-nao-funciona-para-alguns-paises-emirados-arabes-unidos",
     "internalReference": 312132
   },
   {
@@ -24121,7 +24121,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-sistema-nao-permite-o-cancelamento-multiplo-com-giftcard",
+    "slug": "o-sistema-nao-permite-o-cancelamento-multiplo-com-cartaopresente",
     "internalReference": 309117
   },
   {
