@@ -1,11 +1,9 @@
 ---
-title: 'GET Coupon Usage API doesn''t list multiple orders for the same coupon'
-id: 7B9Qlcx2XMGxWj9OB5Xl8n
+title: "GET Coupon Usage API doesn't list multiple orders for the same coupon"
+slug: get-coupon-usage-api-doesnt-list-multiple-orders-for-the-same-coupon
 status: PUBLISHED
-createdAt: 2023-09-08T17:54:13.642Z
-updatedAt: 2023-09-08T17:54:14.220Z
-publishedAt: 2023-09-08T17:54:14.220Z
-firstPublishedAt: 2023-09-08T17:54:14.220Z
+createdAt: 2021-01-21T18:14:35.000Z
+updatedAt: 2023-09-08T17:54:02.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,16 +16,9 @@ internalReference: 326662
 
 ## Summary
 
-
-
 The GET Coupon Usage API https://developers.vtex.com/vtex-rest-api/reference/catalog-api-overview is currently not listing all the order closed in which this coupon was used on, is listing total-1
 
-
-
-##
-
 ## Simulation
-
 
 1) Close two distinct orders with the same coupon.
 
@@ -35,12 +26,6 @@ The GET Coupon Usage API https://developers.vtex.com/vtex-rest-api/reference/cat
 
 3) It will be listed the total minus one order.
 
-
-
-##
-
 ## Workaround
 
-
 n/a
-
