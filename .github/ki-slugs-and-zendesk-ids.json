@@ -16691,11 +16691,6 @@
   },
   {
     "locale": "es",
-    "slug": "interfaz-de-usuario-de-la-audiencia-de-la-campana-cambiando-diferente-de-a-igual-a-con-una-coleccion",
-    "internalReference": 881131
-  },
-  {
-    "locale": "es",
     "slug": "la-api-de-promocion-de-varios-sku-no-funciona",
     "internalReference": 729990
   },
@@ -16873,6 +16868,11 @@
     "locale": "es",
     "slug": "max-shipping-discount-no-actualiza-pricetags",
     "internalReference": 904190
+  },
+  {
+    "locale": "es",
+    "slug": "modificacion-de-la-interfaz-de-usuario-de-la-audiencia-de-la-campana-cambiar-diferente-de-por-igual-a-con-una-coleccion",
+    "internalReference": 881131
   },
   {
     "locale": "es",
@@ -25806,6 +25806,11 @@
   },
   {
     "locale": "pt",
+    "slug": "alteracao-da-interface-do-usuario-do-publicoalvo-da-campanha-de-diferente-de-para-igual-a-com-uma-colecao",
+    "internalReference": 881131
+  },
+  {
+    "locale": "pt",
     "slug": "as-condicoes-do-catalogo-de-promocoes-se-aplicam-ao-skucomponent-mesmo-quando-apenas-o-skukit-e-adicionado-ao-carrinho",
     "internalReference": 1085500
   },
@@ -25928,11 +25933,6 @@
     "locale": "pt",
     "slug": "informacoes-incorretas-nos-campos-de-datas-de-expiracao-das-promocoes",
     "internalReference": 611284
-  },
-  {
-    "locale": "pt",
-    "slug": "iu-do-publicoalvo-da-campanha-alterando-diferente-de-para-igual-a-com-uma-colecao",
-    "internalReference": 881131
   },
   {
     "locale": "pt",
