@@ -16011,6 +16011,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-archivos-xml-devuelven-un-error-500",
+    "internalReference": 268042
+  },
+  {
+    "locale": "es",
     "slug": "los-controles-heredados-de-plantillas-de-plazos-y-estanterias-no-tienen-en-cuenta-los-multiplicadores-de-unidades",
     "internalReference": 979205
   },
@@ -16023,11 +16028,6 @@
     "locale": "es",
     "slug": "los-textos-de-los-controladores-de-let-me-know-no-se-traducen",
     "internalReference": 517165
-  },
-  {
-    "locale": "es",
-    "slug": "los-xml-devuelven-un-error-500",
-    "internalReference": 268042
   },
   {
     "locale": "es",
@@ -24591,6 +24591,11 @@
   },
   {
     "locale": "pt",
+    "slug": "arquivos-xml-que-retornam-erro-500",
+    "internalReference": 268042
+  },
+  {
+    "locale": "pt",
     "slug": "as-configuracoes-de-espaco-reservado-no-cms-nao-exibem-todo-o-conteudo",
     "internalReference": 547555
   },
@@ -24828,11 +24833,6 @@
     "locale": "pt",
     "slug": "webanalytics-viewpart-mostra-o-sucesso-mesmo-quando-nao-esta-funcionando",
     "internalReference": 768059
-  },
-  {
-    "locale": "pt",
-    "slug": "xmls-que-retornam-erro-500",
-    "internalReference": 268042
   },
   {
     "locale": "pt",
