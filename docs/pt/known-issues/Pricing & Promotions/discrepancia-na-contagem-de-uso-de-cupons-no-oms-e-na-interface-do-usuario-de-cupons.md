@@ -2,8 +2,8 @@
 title: 'Discrepância na contagem de uso de cupons no OMS e na interface do usuário de cupons'
 slug: discrepancia-na-contagem-de-uso-de-cupons-no-oms-e-na-interface-do-usuario-de-cupons
 status: PUBLISHED
-createdAt: 2025-11-14T19:37:45.476Z
-updatedAt: 2025-11-14T19:37:45.476Z
+createdAt: 2023-12-18T21:53:10.000Z
+updatedAt: 2023-12-18T21:53:10.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,17 +18,12 @@ internalReference: 954959
 
 ## Sumário
 
+Algumas encomendas não estão sendo registradas no uso dos cupons; identificamos que algumas delas não estavam sendo contabilizadas pelo administrador de cupons.
 
-Alguns pedidos não estão sendo recuperados no uso dos cupons, identificamos que alguns pedidos não estavam sendo contados pelo administrador de cupons.
 ## Simulação
 
+Verifique se, entre 10/09 e 13/09, há alguma discrepância entre os usos dos cupons
 
-Verificar se entre 10/09 e 13/09 há alguma discrepância entre os usos dos cupon
 ## Workaround
 
-
-
 n/a
-
-
-
