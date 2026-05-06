@@ -8921,7 +8921,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-compradores-no-pueden-iniciar-sesion-si-hay-una-configuracion-incorrecta-en-las-organizacionescentros-de-costes",
+    "slug": "los-compradores-no-pueden-iniciar-sesion-si-hay-una-configuracion-incorrecta-en-las-organizaciones-o-centros-de-coste",
     "internalReference": 945609
   },
   {
@@ -11481,13 +11481,13 @@
   },
   {
     "locale": "es",
-    "slug": "la-solicitud-del-centro-fiscal-no-suma-los-descuentos-cuando-se-aplica-un-precio-manual",
-    "internalReference": 932667
+    "slug": "la-solicitud-del-centro-fiscal-de-marketplace-no-tiene-en-cuenta-algunos-tipos-de-descuento",
+    "internalReference": 945580
   },
   {
     "locale": "es",
-    "slug": "la-solicitud-del-centro-tributario-del-mercado-no-tiene-en-cuenta-algunos-tipos-de-descuentos",
-    "internalReference": 945580
+    "slug": "la-solicitud-del-centro-fiscal-no-suma-los-descuentos-cuando-se-aplica-un-precio-manual",
+    "internalReference": 932667
   },
   {
     "locale": "es",
@@ -16251,6 +16251,11 @@
   },
   {
     "locale": "es",
+    "slug": "aparece-un-mensaje-de-error-al-acceder-a-las-rutas-a-y-p-en-las-tiendas-del-portal",
+    "internalReference": 945226
+  },
+  {
+    "locale": "es",
     "slug": "caracteres-especiales-en-el-nombre-de-la-sku-rompe-la-seleccion-de-la-sku-en-las-paginas-del-portal-web-store-pdp-para-la-caja-de-radio-tipo-de-sel",
     "internalReference": 337933
   },
@@ -16453,11 +16458,6 @@
     "locale": "es",
     "slug": "los-textos-de-los-controladores-de-let-me-know-no-se-traducen",
     "internalReference": 517165
-  },
-  {
-    "locale": "es",
-    "slug": "mensaje-algo-ha-ido-mal-al-acceder-a-las-rutas-a-y-p-en-los-almacenes-de-portal",
-    "internalReference": 945226
   },
   {
     "locale": "es",
@@ -18056,7 +18056,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-compradores-nao-podem-fazer-login-se-houver-uma-configuracao-incorreta-nas-organizacoescentros-de-custo",
+    "slug": "os-compradores-nao-conseguem-fazer-login-se-houver-uma-configuracao-incorreta-nas-organizacoescentros-de-custo",
     "internalReference": 945609
   },
   {
@@ -20066,13 +20066,13 @@
   },
   {
     "locale": "pt",
-    "slug": "a-solicitacao-do-hub-de-impostos-do-marketplace-nao-leva-em-consideracao-o-preco-manual-para-descontos",
-    "internalReference": 932657
+    "slug": "a-solicitacao-do-hub-de-impostos-do-marketplace-nao-leva-em-consideracao-alguns-tipos-de-desconto",
+    "internalReference": 945580
   },
   {
     "locale": "pt",
-    "slug": "a-solicitacao-do-hub-fiscal-do-marketplace-nao-considera-alguns-tipos-de-desconto",
-    "internalReference": 945580
+    "slug": "a-solicitacao-do-hub-de-impostos-do-marketplace-nao-leva-em-consideracao-o-preco-manual-para-descontos",
+    "internalReference": 932657
   },
   {
     "locale": "pt",
@@ -25551,7 +25551,7 @@
   },
   {
     "locale": "pt",
-    "slug": "mensagem-de-que-algo-deu-errado-ao-acessar-as-rotas-a-e-p-nos-repositorios-do-portal",
+    "slug": "mensagem-de-erro-ao-acessar-as-rotas-a-e-p-nas-lojas-do-portal",
     "internalReference": 945226
   },
   {
