@@ -12796,7 +12796,7 @@
   },
   {
     "locale": "es",
-    "slug": "faststores-no-funciona-correctamente-en-el-modo-privado-de-firefox",
+    "slug": "faststores-no-funciona-correctamente-en-el-modo-de-navegacion-privada-de-firefox",
     "internalReference": 828685
   },
   {
@@ -21871,11 +21871,6 @@
   },
   {
     "locale": "pt",
-    "slug": "faststores-nao-esta-funcionando-corretamente-no-modo-privado-do-firefox",
-    "internalReference": 828685
-  },
-  {
-    "locale": "pt",
     "slug": "implantacoes-de-webops-sendo-acionadas-repetidamente",
     "internalReference": 1179703
   },
@@ -21908,6 +21903,11 @@
     "locale": "pt",
     "slug": "o-faststore-v1-nao-retorna-informacoes-de-seo-na-consulta-graphql",
     "internalReference": 929029
+  },
+  {
+    "locale": "pt",
+    "slug": "o-faststores-nao-esta-funcionando-corretamente-no-modo-de-navegacao-privada-do-firefox",
+    "internalReference": 828685
   },
   {
     "locale": "pt",
