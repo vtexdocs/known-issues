@@ -11306,6 +11306,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-opciones-de-entrega-no-se-actualizan-al-cambiar-la-direccion-o-el-vendedor",
+    "internalReference": 288574
+  },
+  {
+    "locale": "es",
     "slug": "las-opciones-de-entrega-programadas-no-se-actualizan-al-cambiar-de-direccion",
     "internalReference": 288574
   },
@@ -14966,6 +14971,11 @@
   },
   {
     "locale": "es",
+    "slug": "incoherencias-en-el-campo-fakturierungsadresse-enviado-a-la-pasarela",
+    "internalReference": 291688
+  },
+  {
+    "locale": "es",
     "slug": "incomplete-billingaddress-despite-isbillingaddressdifferent-false",
     "internalReference": 1252301
   },
@@ -14973,11 +14983,6 @@
     "locale": "es",
     "slug": "incongruencia-en-las-fechas-de-vencimiento-del-boleto-bancario",
     "internalReference": 489460
-  },
-  {
-    "locale": "es",
-    "slug": "inconsistencias-en-el-campo-billingaddress-enviado-a-gateway",
-    "internalReference": 291688
   },
   {
     "locale": "es",
@@ -19528,6 +19533,11 @@
     "locale": "pt",
     "slug": "as-opcoes-de-assinatura-de-traducao-nao-funcionam-corretamente-para-alguns-idiomas",
     "internalReference": 561186
+  },
+  {
+    "locale": "pt",
+    "slug": "as-opcoes-de-entrega-nao-sao-atualizadas-ao-alterar-o-endereco-ou-o-vendedor",
+    "internalReference": 288574
   },
   {
     "locale": "pt",
