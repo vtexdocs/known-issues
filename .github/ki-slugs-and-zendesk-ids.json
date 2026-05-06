@@ -10521,7 +10521,7 @@
   },
   {
     "locale": "es",
-    "slug": "tiempo-de-espera-de-los-filtros-de-catalogo",
+    "slug": "tiempo-de-espera-de-los-filtros-del-catalogo",
     "internalReference": 922350
   },
   {
@@ -10658,11 +10658,6 @@
     "locale": "es",
     "slug": "cambio-de-la-ventana-de-entrega-programada-para-todos-los-articulos-al-seleccionar-uno-comun-en-el-carrito-con-varios-vendedores",
     "internalReference": 1089806
-  },
-  {
-    "locale": "es",
-    "slug": "campo-de-numero-de-documento-rut-se-borra-aleatoriamente-el-ultimo-digito-en-ios",
-    "internalReference": 921944
   },
   {
     "locale": "es",
@@ -11068,6 +11063,11 @@
     "locale": "es",
     "slug": "en-el-proceso-de-pago-no-se-muestra-la-promocion-de-envio-de-inmediato-en-determinadas-circunstancias",
     "internalReference": 280144
+  },
+  {
+    "locale": "es",
+    "slug": "en-ios-el-ultimo-digito-del-campo-numero-de-documento-rut-se-borra-aleatoriamente",
+    "internalReference": 921944
   },
   {
     "locale": "es",
@@ -14016,7 +14016,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-limpieza-completa-de-vendedores-no-funciona-si-la-cuenta-tiene-grupos-de-vendedores-en-gestion-de-vendedores",
+    "slug": "la-limpieza-completa-de-los-vendedores-no-funciona-si-la-cuenta-tiene-grupos-de-vendedores-en-la-gestion-de-vendedores",
     "internalReference": 922541
   },
   {
@@ -20551,11 +20551,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-campo-de-numero-de-documento-rut-esta-tendo-o-ultimo-digito-excluido-aleatoriamente-no-ios",
-    "internalReference": 921944
-  },
-  {
-    "locale": "pt",
     "slug": "o-campo-disponibilidade-esta-incorreto-na-simulacao-de-atendimento-para-produtos-sem-estoque-ou-sem-preco",
     "internalReference": 773537
   },
@@ -20863,6 +20858,11 @@
     "locale": "pt",
     "slug": "o-transporte-enxuto-causa-algo-deu-errado-depois-de-mudar-os-pontos-de-coleta",
     "internalReference": 1053609
+  },
+  {
+    "locale": "pt",
+    "slug": "o-ultimo-digito-do-campo-de-numero-do-documento-rut-e-apagado-aleatoriamente-no-ios",
+    "internalReference": 921944
   },
   {
     "locale": "pt",
@@ -23098,6 +23098,11 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-do-catalog-mapping-esta-demorando-muito-para-carregar",
     "internalReference": 823218
+  },
+  {
+    "locale": "pt",
+    "slug": "a-limpeza-completa-dos-vendedores-nao-funciona-se-a-conta-tiver-grupos-de-vendedores-na-gestao-de-vendedores",
+    "internalReference": 922541
   },
   {
     "locale": "pt",
