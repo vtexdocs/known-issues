@@ -10426,7 +10426,7 @@
   },
   {
     "locale": "es",
-    "slug": "tiempo-de-espera-de-importacion-de-colecciones-heredadas",
+    "slug": "tiempo-de-espera-de-importacion-de-la-coleccion-legacy",
     "internalReference": 483785
   },
   {
@@ -10541,7 +10541,7 @@
   },
   {
     "locale": "es",
-    "slug": "al-pegar-el-codigo-postal-en-la-vista-previa-del-envio-a-veces-el-resultado-de-la-api-es-nulo",
+    "slug": "al-pegar-el-codigo-postal-en-la-vista-previa-de-envio-del-carrito-a-veces-se-obtiene-un-resultado-nulo-de-la-api",
     "internalReference": 481878
   },
   {
@@ -10928,11 +10928,6 @@
     "locale": "es",
     "slug": "el-proceso-de-pago-no-permite-eliminar-un-articulo-de-regalo-cuando-este-no-esta-disponible-tras-seleccionar-un-punto-de-recogida",
     "internalReference": 363885
-  },
-  {
-    "locale": "es",
-    "slug": "el-punto-de-recogida-y-la-entrega-programada-en-el-mismo-carro-no-funcionan-correctamente",
-    "internalReference": 482256
   },
   {
     "locale": "es",
@@ -11323,6 +11318,11 @@
     "locale": "es",
     "slug": "la-opcion-de-envio-con-codigo-postal-no-funciona-en-algunos-paises-emiratos-arabes-unidos",
     "internalReference": 312132
+  },
+  {
+    "locale": "es",
+    "slug": "la-opcion-de-recogida-en-tienda-y-la-de-entrega-a-domicilio-en-el-mismo-carrito-no-funcionan-correctamente",
+    "internalReference": 482256
   },
   {
     "locale": "es",
@@ -19261,7 +19261,7 @@
   },
   {
     "locale": "pt",
-    "slug": "tempo-limite-de-importacao-de-colecoes-legadas",
+    "slug": "tempo-limite-de-importacao-da-colecao-legada",
     "internalReference": 483785
   },
   {
@@ -19701,6 +19701,11 @@
   },
   {
     "locale": "pt",
+    "slug": "ao-inserir-o-cep-na-visualizacao-de-envio-do-carrinho-as-vezes-o-resultado-da-api-e-nulo",
+    "internalReference": 481878
+  },
+  {
+    "locale": "pt",
     "slug": "ao-selecionar-pickups-nao-destacados-na-lista-de-pickups-no-carrinho-a-ui-faz-solicitacao-incorreta-ao-api",
     "internalReference": 529850
   },
@@ -19758,6 +19763,11 @@
     "locale": "pt",
     "slug": "as-opcoes-de-pup-nao-mudam-ao-trocar-o-codigo-postal-nas-lojas-sem-configuracao-de-geoposicionamento",
     "internalReference": 648604
+  },
+  {
+    "locale": "pt",
+    "slug": "as-opcoes-de-retirada-no-ponto-de-retirada-e-entrega-programada-no-mesmo-carrinho-nao-estao-funcionando-corretamente",
+    "internalReference": 482256
   },
   {
     "locale": "pt",
@@ -19853,11 +19863,6 @@
     "locale": "pt",
     "slug": "clientprofiledata-fica-vazio-se-a-solicitacao-add-client-profile-for-executada-duas-vezes",
     "internalReference": 911203
-  },
-  {
-    "locale": "pt",
-    "slug": "colar-o-codigo-postal-no-carrinho-de-visualizacao-de-remessa-as-vezes-retorna-um-resultado-de-api-nulo",
-    "internalReference": 481878
   },
   {
     "locale": "pt",
@@ -20363,11 +20368,6 @@
     "locale": "pt",
     "slug": "o-pipeline-de-checkout-nao-atualiza-os-impostos-considerando-o-vendedor-correto-ao-mesclar-as-informacoes-do-carrinho",
     "internalReference": 759842
-  },
-  {
-    "locale": "pt",
-    "slug": "o-ponto-de-coleta-e-a-programacao-de-entrega-no-mesmo-carrinho-nao-estao-funcionando-corretamente",
-    "internalReference": 482256
   },
   {
     "locale": "pt",
