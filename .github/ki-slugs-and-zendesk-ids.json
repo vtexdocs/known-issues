@@ -9231,11 +9231,6 @@
   },
   {
     "locale": "es",
-    "slug": "campos-de-texto-de-dimension-no-seleccionados-durante-la-creacion-de-sku",
-    "internalReference": 786048
-  },
-  {
-    "locale": "es",
     "slug": "catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return",
     "internalReference": 388869
   },
@@ -10233,6 +10228,11 @@
     "locale": "es",
     "slug": "los-cambios-de-roundingmode-no-funcionan-para-los-descuentos-porcentuales",
     "internalReference": 1192809
+  },
+  {
+    "locale": "es",
+    "slug": "los-campos-de-texto-de-las-dimensiones-quedan-deseleccionados-durante-la-creacion-de-sku",
+    "internalReference": 786048
   },
   {
     "locale": "es",
@@ -18761,11 +18761,6 @@
   },
   {
     "locale": "pt",
-    "slug": "campos-de-texto-de-dimensao-nao-sendo-selecionados-durante-a-criacao-da-sku",
-    "internalReference": 786048
-  },
-  {
-    "locale": "pt",
     "slug": "caracteres-especiais-podem-ser-quebrados-nos-resultados-do-portal-para-valores-de-campo",
     "internalReference": 1289146
   },
@@ -19383,6 +19378,11 @@
     "locale": "pt",
     "slug": "os-calculos-de-componentes-do-kit-nao-atualizam-automaticamente-seu-preco-final",
     "internalReference": 1217509
+  },
+  {
+    "locale": "pt",
+    "slug": "os-campos-de-texto-de-dimensao-ficam-desmarcados-durante-a-criacao-do-sku",
+    "internalReference": 786048
   },
   {
     "locale": "pt",
