@@ -1,11 +1,9 @@
 ---
 title: 'XML <price> related tags do not load contents for unavailable items'
-id: 7u2WDGV9FJl4fXwfOhRx8N
+slug: xml-price-related-tags-do-not-load-contents-for-unavailable-items
 status: PUBLISHED
-createdAt: 2024-01-31T19:11:20.119Z
-updatedAt: 2024-01-31T19:11:20.846Z
-publishedAt: 2024-01-31T19:11:20.846Z
-firstPublishedAt: 2024-01-31T19:11:20.846Z
+createdAt: 2024-01-31T19:11:06.000Z
+updatedAt: 2024-01-31T19:11:06.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,14 +16,9 @@ internalReference: 974722
 
 ## Summary
 
-
 The XML integration loads any tag related to price, such as minPrice, maxPrice, currentPrice, are loaded as a null value tag (<![CDATA[]]>) when the item is not available and also set to show if unavailable.
 
-
-##
-
 ## Simulation
-
 
 1 - Configure an unavailable SKU in your store to "show even if unavailable".
 2 - for a valid XML integration config https://myaccountname.myvtex.com/admin/Site/XmlForm.aspx, set up the "Availability" tag and any availability tag to show.
@@ -33,17 +26,8 @@ The XML integration loads any tag related to price, such as minPrice, maxPrice, 
 
 The result will be an unavailable item, still showing in the XML, but without any price tags:
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/en/known-issues/Catalog/xml-price-related-tags-do-not-load-contents-for-unavailable-items_1.png)
-
-
-##
+ ![](https://vtexhelp.zendesk.com/attachments/token/1CzUarsM3O05aG9z5otDZZ1Yg/?name=image.png)
 
 ## Workaround
 
-
 There is no workaround. The only option to not integrate items without price is to turn off the "showIfNotAvailable" option.
-
-
-
-
-
