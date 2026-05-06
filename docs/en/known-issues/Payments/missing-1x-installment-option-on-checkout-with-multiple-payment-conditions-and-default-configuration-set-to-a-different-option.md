@@ -1,11 +1,9 @@
 ---
 title: 'Missing 1x installment option on Checkout with multiple payment conditions and default configuration set to a different option'
-id: 6xzCd4cSKl7ygcptvqwZs9
+slug: missing-1x-installment-option-on-checkout-with-multiple-payment-conditions-and-default-configuration-set-to-a-different-option
 status: PUBLISHED
-createdAt: 2023-05-11T17:23:35.529Z
-updatedAt: 2023-05-11T17:23:36.035Z
-publishedAt: 2023-05-11T17:23:36.035Z
-firstPublishedAt: 2023-05-11T17:23:36.035Z
+createdAt: 2022-12-02T20:24:04.000Z
+updatedAt: 2023-05-11T17:23:23.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,14 +16,9 @@ internalReference: 709971
 
 ## Summary
 
-
 When there is more than one payment condition configured for a payment system, and one payment condition other than the one with the 1x installment option is configured as the default, the 1x installment option does not appear on the checkout page. In such cases, only the 1x installment option is removed from checkout.
 
-
-##
-
 ## Simulation
-
 
 To simulate this issue, follow these steps:
 
@@ -37,11 +30,6 @@ To simulate this issue, follow these steps:
 
 4. However, if you set payment condition A as the default again, the 1x installment option will reappear on the checkout page.
 
-
-##
-
 ## Workaround
 
-
 To resolve this issue, you can set the lowest installment payment rule option to default or remove the default configuration by deleting the payment condition with this configuration and configuring a new payment condition without the default flag.
-
