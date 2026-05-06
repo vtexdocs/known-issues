@@ -1,11 +1,9 @@
 ---
 title: 'La API de precios permite valores negativos'
-id: 64gkWnDs5pvv8Ny1TJtTI0
+slug: la-api-de-precios-permite-valores-negativos
 status: PUBLISHED
-createdAt: 2023-03-20T20:09:54.998Z
-updatedAt: 2023-03-20T20:09:55.649Z
-publishedAt: 2023-03-20T20:09:55.649Z
-firstPublishedAt: 2023-03-20T20:09:55.649Z
+createdAt: 2023-03-20T20:09:40.000Z
+updatedAt: 2023-03-20T20:09:40.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,49 +14,33 @@ kiStatus: Backlog
 internalReference: 774548
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-Actualmente, la API de precio PUT permite la entrada de valores negativos a través de la carga útil de la API PUT, si establece el margen y el precio base en valores negativos, establecerá el producto como no disponible.
-
-
-
-
-##
+Actualmente, la API de precios PUT permite introducir valores negativos a través de la carga útil de la API PUT; si se establecen el margen de beneficio y el precio base en valores negativos, el producto se marcará como no disponible.
 
 ## Simulación
 
-
 En la API https://api.vtex.com/account/pricing/prices/1
 
-Fije el siguiente precio:
+Establece el siguiente precio:
 
 `{`
-` "itemId": "1",`
-` "listPrice": null,`
-` "costPrice": 11.9,`
-` "markup": -100,`
-"precio base": null,`
-` "fixedPrices": [ ]`
+`  "itemId": "1",`
+`  "listPrice": null,`
+`  "costPrice": 11.9,`
+`  "markup": -100,`
+`  "basePrice": null,`
+`  "fixedPrices": [ ]`
 `}`
 
 La respuesta será:
 
- ![](https://raw.githubusercontent.com/vtexdocs/known-issues/refs/heads/main/docs/es/known-issues/Catalog/la-api-de-precios-permite-valores-negativos_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/P3rVVQbx6nfqtX2W1UMAbb0V8/?name=image.png)
 
-Lo que rompe la lógica de precios y hace que el producto no esté disponible, ya que las aplicaciones de pago y catálogo no son capaces de tratar con valores de precio negativos.
-
-
-
+Esto rompe la lógica de precios y hace que el producto no esté disponible, ya que las aplicaciones de caja y catálogo no pueden gestionar valores de precio negativos.
 
 ## Workaround
 
-
 n/a
-
-
-
-
-
