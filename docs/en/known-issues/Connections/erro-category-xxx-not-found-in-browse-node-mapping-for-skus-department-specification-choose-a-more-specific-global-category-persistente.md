@@ -2,8 +2,8 @@
 title: "Erro \"Category XXX not found in browse node mapping for SKU's department specification, choose a more specific global category\" persistente"
 slug: erro-category-xxx-not-found-in-browse-node-mapping-for-skus-department-specification-choose-a-more-specific-global-category-persistente
 status: PUBLISHED
-createdAt: 2025-11-14T19:19:40.565Z
-updatedAt: 2025-11-14T19:19:40.565Z
+createdAt: 2021-08-23T20:13:33.000Z
+updatedAt: 2025-06-23T15:57:35.000Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,22 +16,16 @@ internalReference: 417639
 
 ## Summary
 
-
 We are having below errors when trying to integrate some SKUs, we have tested with global categories: 166, 167 e 169 none of them are working, but these categories should be available in Amazon.
 
 Erro "Category 169 not found in browse node mapping for SKU's department specification, choose a more specific global category" persistente
+
 ## Simulation
-
-
 
 Inside bridge products we can see below error:
 
 Erro "Category 169 not found in browse node mapping for SKU's department specification, choose a more specific global category" persistente
 
-
-
-#### Workaround
-
-
+## Workaround
 
 Change global category, until we fix this one.
