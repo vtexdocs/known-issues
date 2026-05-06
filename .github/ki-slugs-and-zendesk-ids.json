@@ -17586,6 +17586,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-produce-un-error-bad-request-al-buscar-terminos-que-contienen-directamente-en-la-url",
+    "internalReference": 775524
+  },
+  {
+    "locale": "es",
     "slug": "selector-de-sku-con-contextos-multilpe",
     "internalReference": 341322
   },
@@ -17593,11 +17598,6 @@
     "locale": "es",
     "slug": "sliderlayout-bug-when-using-prop-infinite-as-always-on-mobile",
     "internalReference": 920725
-  },
-  {
-    "locale": "es",
-    "slug": "solicitud-incorrecta-al-buscar-terminos-con-directamente-a-traves-de-la-url",
-    "internalReference": 775524
   },
   {
     "locale": "es",
@@ -26316,6 +26316,11 @@
   },
   {
     "locale": "pt",
+    "slug": "erro-bad-request-ao-pesquisar-termos-com-diretamente-na-url",
+    "internalReference": 775524
+  },
+  {
+    "locale": "pt",
     "slug": "erro-de-minicart-ao-atualizar-a-promocao",
     "internalReference": 552633
   },
@@ -26698,11 +26703,6 @@
     "locale": "pt",
     "slug": "sinalizador-de-desempenho-que-afeta-a-grade-de-produtos-no-plp",
     "internalReference": 1251266
-  },
-  {
-    "locale": "pt",
-    "slug": "solicitacao-incorreta-ao-pesquisar-termos-com-diretamente-via-url",
-    "internalReference": 775524
   },
   {
     "locale": "pt",
