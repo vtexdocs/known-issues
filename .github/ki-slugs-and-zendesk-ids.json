@@ -9581,11 +9581,6 @@
   },
   {
     "locale": "es",
-    "slug": "exportar-muchos-productossku-lleva-mucho-tiempo-y-a-veces-no-se-puede-completar-la-solicitud",
-    "internalReference": 284386
-  },
-  {
-    "locale": "es",
     "slug": "fallo-de-traslado-de-sku-error-de-transaccion-distribuida",
     "internalReference": 1297799
   },
@@ -9828,6 +9823,11 @@
     "locale": "es",
     "slug": "la-exportacion-de-los-valores-de-adjuntos-de-sku-no-funciona-correctamente-en-los-sistemas-operativos-en-espanol",
     "internalReference": 566393
+  },
+  {
+    "locale": "es",
+    "slug": "la-exportacion-de-muchos-productos-o-referencias-lleva-mucho-tiempo-y-en-ocasiones-la-solicitud-no-se-puede-completar",
+    "internalReference": 284386
   },
   {
     "locale": "es",
