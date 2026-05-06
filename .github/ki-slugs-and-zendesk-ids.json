@@ -10606,7 +10606,7 @@
   },
   {
     "locale": "es",
-    "slug": "xml-no-se-aplica-la-moneda-a-plazos",
+    "slug": "xml-no-se-aplica-la-moneda-de-pago-a-plazos",
     "internalReference": 976295
   },
   {
@@ -19761,7 +19761,7 @@
   },
   {
     "locale": "pt",
-    "slug": "xml-a-moeda-da-prestacao-nao-se-aplica",
+    "slug": "xml-a-moeda-de-parcelamento-nao-se-aplica",
     "internalReference": 976295
   },
   {
