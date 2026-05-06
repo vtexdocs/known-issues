@@ -11086,6 +11086,11 @@
   },
   {
     "locale": "es",
+    "slug": "es-posible-que-la-api-de-checkout-no-agrupe-los-paquetes-cuando-dos-o-mas-vendedores-pueden-encargarse-del-envio",
+    "internalReference": 802156
+  },
+  {
+    "locale": "es",
     "slug": "es-posible-que-mientras-se-calculan-las-opciones-de-envio-aparezca-un-mensaje-indicando-que-el-servicio-no-esta-disponible",
     "internalReference": 650038
   },
@@ -11148,11 +11153,6 @@
     "locale": "es",
     "slug": "la-api-de-orderform-impide-seleccionar-el-metodo-de-envio-para-el-mismo-articulo-cuando-se-trata-de-vendedores-diferentes",
     "internalReference": 742139
-  },
-  {
-    "locale": "es",
-    "slug": "la-api-de-pago-puede-no-agrupar-paquetes-cuando-dos-o-mas-vendedores-pueden-cumplir",
-    "internalReference": 802156
   },
   {
     "locale": "es",
@@ -19691,7 +19691,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-de-checkout-pode-nao-agrupar-pacotes-quando-dois-ou-mais-vendedores-podem-atender",
+    "slug": "a-api-de-checkout-pode-nao-agrupar-pacotes-quando-dois-ou-mais-vendedores-podem-realizar-o-envio",
     "internalReference": 802156
   },
   {
