@@ -15101,7 +15101,7 @@
   },
   {
     "locale": "es",
-    "slug": "falta-la-opcion-1x-installment-en-checkout-con-multiples-condiciones-de-pago-y-configuracion-por-defecto-establecida-en-una-opcion-diferente",
+    "slug": "falta-la-opcion-de-pago-en-una-sola-cuota-en-la-pagina-de-pago-cuando-hay-varias-condiciones-de-pago-y-la-configuracion-predeterminada-esta-establecida-en-una-opcion-diferente",
     "internalReference": 709971
   },
   {
@@ -24226,6 +24226,11 @@
   },
   {
     "locale": "pt",
+    "slug": "falta-a-opcao-de-pagamento-em-1-parcela-no-checkout-quando-ha-varias-condicoes-de-pagamento-e-a-configuracao-padrao-esta-definida-para-uma-opcao-diferente",
+    "internalReference": 709971
+  },
+  {
+    "locale": "pt",
     "slug": "falta-de-validacao-no-codigo-postal-billingaddress",
     "internalReference": 375481
   },
@@ -24628,11 +24633,6 @@
     "locale": "pt",
     "slug": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao",
     "internalReference": 491195
-  },
-  {
-    "locale": "pt",
-    "slug": "opcao-de-parcelamento-de-1x-ausente-no-checkout-com-varias-condicoes-de-pagamento-e-configuracao-padrao-definida-para-uma-opcao-diferente",
-    "internalReference": 709971
   },
   {
     "locale": "pt",
