@@ -13971,7 +13971,7 @@
   },
   {
     "locale": "es",
-    "slug": "sugerencias-transformar-unitmultiplier-menor-que-1-a-0",
+    "slug": "sugerencias-para-convertir-el-valor-de-unitmultiplier-inferior-a-1-en-0",
     "internalReference": 702056
   },
   {
@@ -16911,7 +16911,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-usuario-de-crmmasterdata-no-elimina-los-documentos-incluso-con-el-mensaje-de-exito",
+    "slug": "la-interfaz-de-usuario-de-crmdatos-maestros-no-elimina-los-documentos-aunque-aparezca-un-mensaje-de-exito",
     "internalReference": 699374
   },
   {
@@ -22956,7 +22956,7 @@
   },
   {
     "locale": "pt",
-    "slug": "sugestoes-para-transformar-unidademultiplicador-menos-de-1-a-0",
+    "slug": "sugestoes-para-definir-o-unitmultiplier-menor-que-1-como-0",
     "internalReference": 702056
   },
   {
@@ -25796,7 +25796,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-iu-crmmasterdata-nao-esta-apagando-documentos-mesmo-com-a-mensagem-de-sucesso",
+    "slug": "a-interface-do-usuario-do-crmdados-mestre-nao-esta-excluindo-documentos-mesmo-quando-aparece-a-mensagem-de-sucesso",
     "internalReference": 699374
   },
   {
