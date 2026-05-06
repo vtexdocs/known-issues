@@ -1,14 +1,12 @@
 ---
 title: 'Schedule delivery options are not updated when changing address or seller'
-id: z1sjFNyZVUJAR7G95itfT
+slug: schedule-delivery-options-are-not-updated-when-changing-address-or-seller
 status: PUBLISHED
-createdAt: 2023-06-12T12:07:06.920Z
-updatedAt: 2023-06-12T12:14:23.384Z
-publishedAt: 2023-06-12T12:14:23.384Z
-firstPublishedAt: 2023-06-12T12:12:13.214Z
+createdAt: 2020-09-18T00:59:05.000Z
+updatedAt: 2023-06-22T19:53:34.000Z
 contentType: knownIssue
 productTeam: Checkout
-author: 3iOk6R6XYZ9O18JHFLPk43
+author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slugEN: schedule-delivery-options-are-not-updated-when-changing-address-or-seller
 locale: en
@@ -18,21 +16,22 @@ internalReference: 288574
 
 ## Summary
 
-__Scenario 1:__ In an identified cart (but not logged), with a masked address in the shipping step, when changing between available addresses, the window delivery options are not recalculated in the UI. 
+**Scenario 1**: In an identified cart (but not logged), with a masked address in the shipping step, when changing between available addresses, the window delivery options are not recalculated in the UI.
 
-__Scenario 2:__ In a cart where two white-label sellers are configured with the same SLA Id, but different delivery window options. After changing the selected delivery option and the seller is changed, the delivery window options are not recalculated in the UI.
+**Scenario 2**: In a cart where two white-label sellers are configured with the same SLA Id, but different delivery window options. After changing the selected delivery option and the seller is changed, the delivery window options are not recalculated in the UI.
 
 There is a request to the API, which returns with the "deliveryWindow", but the UI doesn't update the component. When selecting an invalid delivery window, going to the payment step is not possible to finish the purchase.
 
 ## Simulation
 
-__Scenario 1:__
+### Scenario 1
 
 - Register a shopper with two addresses;
 - Assemble a cart and change between the available addresses in the shipping step;
 - Select the delivery window.
 
-__Scenario 2:__
+
+### Scenario 2
 
 - Configure two different white-label sellers with the same SLA Id for scheduled delivery but with different delivery windows;
 - Each of the white-label sellers must also have their own scheduled delivery option;
@@ -41,7 +40,5 @@ __Scenario 2:__
 
 ## Workaround
 
-__Scenario 1:__ N/A
-
-__Scenario 2:__ Configure the same delivery window for all white-label sellers or change the SLA Id.
-
+**Scenario 1**: N/A
+**Scenario 2**: Configure the same delivery window for all white-label sellers or change the SLA Id.
