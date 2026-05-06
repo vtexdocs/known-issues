@@ -9256,7 +9256,7 @@
   },
   {
     "locale": "es",
-    "slug": "catalogo-myvtex-iframe-html-select-breaking-para-chrome-108",
+    "slug": "catalogo-myvtex-iframe-html-seleccion-de-breaking-para-chrome-108",
     "internalReference": 711637
   },
   {
@@ -9426,11 +9426,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-desplegable-de-seleccion-de-especificaciones-del-portal-del-vendedor-no-funciona-correctamente",
-    "internalReference": 711303
-  },
-  {
-    "locale": "es",
     "slug": "el-elemento-personalizado-del-banner-del-cms-heredado-no-funciona",
     "internalReference": 978466
   },
@@ -9538,6 +9533,11 @@
     "locale": "es",
     "slug": "el-peso-del-kit-puede-ser-sobrescrito-por-la-apiservicio-web",
     "internalReference": 429993
+  },
+  {
+    "locale": "es",
+    "slug": "el-portal-no-respeta-la-etiqueta-principal-de-la-imagen-del-sku",
+    "internalReference": 712443
   },
   {
     "locale": "es",
@@ -10101,11 +10101,6 @@
   },
   {
     "locale": "es",
-    "slug": "las-api-quien-vio-tambien-vio-quien-vio-tambien-compro-y-quien-compro-tambien-compro-no-siempre-funcionan-como-se-esperaba",
-    "internalReference": 712015
-  },
-  {
-    "locale": "es",
     "slug": "las-categorias-que-solo-tienen-productos-configurados-por-categoria-similar-no-aparecen-en-el-mapa-del-sitio",
     "internalReference": 1091727
   },
@@ -10168,6 +10163,11 @@
     "locale": "es",
     "slug": "las-funciones-de-usuario-de-catalogv2-no-se-aplican",
     "internalReference": 489297
+  },
+  {
+    "locale": "es",
+    "slug": "las-funciones-los-que-vieron-esto-tambien-vieron-los-que-vieron-esto-tambien-compraron-y-los-que-compraron-esto-tambien-compraron-no-siempre-funcionan-como-se-espera",
+    "internalReference": 712015
   },
   {
     "locale": "es",
@@ -10336,8 +10336,8 @@
   },
   {
     "locale": "es",
-    "slug": "portal-no-respeta-la-etiqueta-principal-de-skus-imagen",
-    "internalReference": 712443
+    "slug": "portal-del-vendedor-fallo-en-el-menu-desplegable-de-seleccion-de-especificaciones",
+    "internalReference": 711303
   },
   {
     "locale": "es",
@@ -18481,6 +18481,11 @@
   },
   {
     "locale": "pt",
+    "slug": "as-apis-quem-viu-tambem-viu-quem-viu-tambem-comprou-e-quem-comprou-tambem-comprou-nem-sempre-funcionam-como-esperado",
+    "internalReference": 712015
+  },
+  {
+    "locale": "pt",
     "slug": "as-apis-who-saw-also-saw-who-saw-also-bought-who-bought-also-bought-nem-sempre-funcionam-como-esperado",
     "internalReference": 712015
   },
@@ -18701,7 +18706,7 @@
   },
   {
     "locale": "pt",
-    "slug": "catalogo-myvtex-iframe-html-select-breaking-para-cromo-108",
+    "slug": "catalogo-myvtex-iframe-html-select-breaking-para-o-chrome-108",
     "internalReference": 711637
   },
   {
@@ -19196,11 +19201,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-menu-suspenso-selecionar-especificacoes-do-portal-do-vendedor-nao-esta-funcionando-corretamente",
-    "internalReference": 711303
-  },
-  {
-    "locale": "pt",
     "slug": "o-metodo-do-servico-web-stockkeepingunitinsertupdate-permite-inserir-um-refid-ja-existente",
     "internalReference": 419460
   },
@@ -19226,7 +19226,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-portal-nao-respeita-a-etiqueta-principal-da-imagem-da-sku",
+    "slug": "o-portal-nao-respeita-a-tag-principal-da-imagem-do-sku",
     "internalReference": 712443
   },
   {
@@ -19308,6 +19308,11 @@
     "locale": "pt",
     "slug": "planilha-de-imagens-nao-exportadas-quando-a-conta-tem-muitos-skus",
     "internalReference": 623183
+  },
+  {
+    "locale": "pt",
+    "slug": "portal-do-vendedor-problema-no-menu-suspenso-de-selecao-de-especificacoes",
+    "internalReference": 711303
   },
   {
     "locale": "pt",
