@@ -10956,11 +10956,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-pago-y-la-division-de-transacciones-no-funcionan-en-el-mismo-orden-para-el-inventario-omnicanal-multinivel",
-    "internalReference": 777201
-  },
-  {
-    "locale": "es",
     "slug": "el-parametro-ignoreprofiledata-del-carrito-vuelve-a-establecerse-en-false-despues-de-que-el-comprador-cierre-sesion-durante-el-proceso-de-pago",
     "internalReference": 1401421
   },
@@ -11188,6 +11183,11 @@
     "locale": "es",
     "slug": "la-disponibilidad-del-producto-se-muestra-incorrectamente-en-el-modo-de-visualizacion-de-las-recogidas-en-el-carro",
     "internalReference": 552875
+  },
+  {
+    "locale": "es",
+    "slug": "la-distribucion-de-pagos-y-la-division-de-transacciones-no-funcionan-en-el-mismo-orden-en-el-inventario-omnicanal-multinivel",
+    "internalReference": 777201
   },
   {
     "locale": "es",
@@ -12366,6 +12366,11 @@
   },
   {
     "locale": "es",
+    "slug": "magazine-luiza-pedido-con-el-error-la-referencia-al-objeto-no-se-ha-establecido-en-una-instancia-de-un-objeto",
+    "internalReference": 777298
+  },
+  {
+    "locale": "es",
     "slug": "magazine-luiza-pedido-fob-integrado-con-entrega-convencional",
     "internalReference": 721951
   },
@@ -12603,11 +12608,6 @@
     "locale": "es",
     "slug": "revista-luiza-pedido-cancelado-en-marketplace-no-cancelado-en-vtex",
     "internalReference": 792618
-  },
-  {
-    "locale": "es",
-    "slug": "revista-luiza-pedido-con-error-referencia-de-objeto-no-establecida-a-una-instancia-de-un-objeto",
-    "internalReference": 777298
   },
   {
     "locale": "es",
@@ -15746,13 +15746,13 @@
   },
   {
     "locale": "es",
-    "slug": "no-se-puede-cambiar-el-estado-en-la-pasarela-cuando-el-objeto-de-carro-de-la-transaccion-en-transaccion-es-desconocido",
-    "internalReference": 776837
+    "slug": "no-se-puede-exportar-la-lista-de-facturas-del-credito-del-cliente",
+    "internalReference": 327219
   },
   {
     "locale": "es",
-    "slug": "no-se-puede-exportar-la-lista-de-facturas-del-credito-del-cliente",
-    "internalReference": 327219
+    "slug": "no-se-puede-modificar-el-estado-en-la-pasarela-cuando-el-objeto-cart-de-la-transaccion-en-transaction-es-desconocido",
+    "internalReference": 776837
   },
   {
     "locale": "es",
@@ -19706,6 +19706,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-divisao-de-pagamentos-e-transacoes-nao-funciona-na-mesma-ordem-no-inventario-omnicanal-multinivel",
+    "internalReference": 777201
+  },
+  {
+    "locale": "pt",
     "slug": "a-divisao-do-pagamento-no-checkout-pode-gerar-informacoes-incorretas-no-campo-paymentdata-dos-pedidos-nopayment",
     "internalReference": 330802
   },
@@ -21391,6 +21396,11 @@
   },
   {
     "locale": "pt",
+    "slug": "magazine-luiza-erro-no-pedido-referencia-de-objeto-nao-definida-para-uma-instancia-de-objeto",
+    "internalReference": 777298
+  },
+  {
+    "locale": "pt",
     "slug": "magazine-luiza-pedido-cancelado-no-marketplace-nao-atualizou-o-status-na-vtex",
     "internalReference": 865926
   },
@@ -21598,11 +21608,6 @@
     "locale": "pt",
     "slug": "o-status-do-pedido-da-amazon-nao-e-revisado-ao-reprocessar-o-pedido-na-ponte",
     "internalReference": 1119618
-  },
-  {
-    "locale": "pt",
-    "slug": "ordem-com-erro-referencia-do-objeto-nao-definida-para-uma-instancia-de-um-objeto",
-    "internalReference": 707113
   },
   {
     "locale": "pt",
@@ -24451,11 +24456,6 @@
   },
   {
     "locale": "pt",
-    "slug": "incapaz-de-mudar-o-status-no-gateway-quando-a-transacao-cart-objeto-em-transacao-e-desconhecido",
-    "internalReference": 776837
-  },
-  {
-    "locale": "pt",
     "slug": "inconsistencia-na-forma-de-pagamento-boleto-bancario-datas-de-expiracao",
     "internalReference": 489460
   },
@@ -24573,6 +24573,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-acessar-my-credits-ocorreu-um-erro-em-sua-conta",
     "internalReference": 1287291
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-alterar-o-status-no-gateway-quando-o-objeto-cart-da-transacao-em-transaction-e-desconhecido",
+    "internalReference": 776837
   },
   {
     "locale": "pt",
