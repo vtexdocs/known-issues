@@ -12181,6 +12181,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-sku-eliminado-de-amazon-sc-no-se-desactiva-en-el-portal-de-amazon",
+    "internalReference": 827760
+  },
+  {
+    "locale": "es",
     "slug": "erro-sqlerrm-no-tracking-brinox-b2w",
     "internalReference": 643287
   },
@@ -12683,11 +12688,6 @@
     "locale": "es",
     "slug": "shopee-sku-desactivado-en-el-mercado-shopeeskuhelper-actualizacion-de-sku-fallida",
     "internalReference": 685137
-  },
-  {
-    "locale": "es",
-    "slug": "sku-eliminado-de-amazon-sc-no-se-desactiva-en-el-portal-de-amazon",
-    "internalReference": 827760
   },
   {
     "locale": "es",
@@ -21096,11 +21096,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-sku-removida-do-amazon-sc-nao-esta-sendo-desabilitada-no-amazon-portal",
-    "internalReference": 827760
-  },
-  {
-    "locale": "pt",
     "slug": "a-tabela-de-tamanhos-meli-nao-esta-funcionando-para-tamanhos-com-letras",
     "internalReference": 867262
   },
@@ -21643,6 +21638,11 @@
     "locale": "pt",
     "slug": "o-pedido-nao-atualiza-o-status-no-oms",
     "internalReference": 421529
+  },
+  {
+    "locale": "pt",
+    "slug": "o-sku-removido-do-amazon-sc-nao-esta-sendo-desativado-no-portal-da-amazon",
+    "internalReference": 827760
   },
   {
     "locale": "pt",
