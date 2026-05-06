@@ -11921,7 +11921,7 @@
   },
   {
     "locale": "es",
-    "slug": "valor-divergente-al-mezclar-la-configuracion-paymentsystemtocheckfirstinstallment-y-partidas-divididas",
+    "slug": "valor-divergente-al-combinar-la-configuracion-paymentsystemtocheckfirstinstallment-con-partidas-divididas",
     "internalReference": 766454
   },
   {
@@ -20996,7 +20996,7 @@
   },
   {
     "locale": "pt",
-    "slug": "valor-divergente-ao-misturar-a-configuracao-paymentsystemtocheckfirstinstallment-e-itens-divididos",
+    "slug": "valor-divergente-ao-combinar-a-configuracao-paymentsystemtocheckfirstinstallment-com-itens-fracionados",
     "internalReference": 766454
   },
   {
