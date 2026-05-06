@@ -2,8 +2,8 @@
 title: 'O MDv2 retorna o erro "504 Gateway Timeout" quando tentamos atualizar um documento passando um símbolo ou caractere especial.'
 slug: o-mdv2-retorna-o-erro-504-gateway-timeout-quando-tentamos-atualizar-um-documento-passando-um-simbolo-ou-caractere-especial
 status: PUBLISHED
-createdAt: 2025-10-24T22:00:16.099Z
-updatedAt: 2025-10-24T22:00:16.099Z
+createdAt: 2023-06-29T19:33:28.000Z
+updatedAt: 2025-10-21T22:13:47.000Z
 contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,16 +18,14 @@ internalReference: 852966
 
 ## Sumário
 
+O comportamento da API ao tentar atualizar um documento que contenha um símbolo em um campo do tipo string, como `"name": "Product1 14€"`, retornará o erro 504 (Tempo limite do gateway) e não atualizará o documento.
 
-O comportamento da API ao tentar atualizar um documento que contém um símbolo em um campo do tipo string, como `"name": "Product1 14€"`, retornará o erro 504 Gateway timeout e não atualizará o documento.
 ## Simulação
 
+1. Faça uma solicitação PUT para atualizar um documento por meio da API; no corpo, inclua o caractere especial em um campo do tipo string.
 
+ { "name": "Product1 14€", ...}2.  Observe a resposta da API e verifique se ela retorna o erro 504 Gateway timeout.
 
-1. Faça uma solicitação PUT para atualizar um documento por meio da API e, no corpo, inclua o caractere especial em um campo do tipo string.
-
-    { "name": "Product1 14€", ...}2.  Observe a resposta da API e verifique se ela retorna o erro 504 Gateway timeout
 ## Workaround
 
-
-Exclua o caractere especial e digite o nome do símbolo. Por exemplo: "`14 euros`"
+Exclua o caractere especial e insira o nome do símbolo. Por exemplo: "`14 euros`"
