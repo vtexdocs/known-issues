@@ -13986,7 +13986,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-pedido-con-intereses-tiene-problemas-al-intentar-devolver-todos-los-articulos-y-reembolsar-el-pago-total",
+    "slug": "el-pedido-con-interes-presenta-problemas-al-intentar-devolver-todos-los-articulos-y-reembolsar-el-importe-total-del-pago",
     "internalReference": 376077
   },
   {
@@ -14356,7 +14356,7 @@
   },
   {
     "locale": "es",
-    "slug": "pedido-del-vendedor-facturado-con-problema-en-la-captura-del-pago",
+    "slug": "pedido-del-vendedor-facturado-con-un-problema-en-el-cobro-del-pago",
     "internalReference": 376646
   },
   {
@@ -23006,7 +23006,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-pedido-com-juros-tem-problemas-ao-tentar-devolver-todos-os-itens-e-reembolsar-o-pagamento-total",
+    "slug": "o-pedido-com-juros-apresenta-problemas-ao-tentar-devolver-todos-os-itens-e-reembolsar-o-valor-total-pago",
     "internalReference": 376077
   },
   {
