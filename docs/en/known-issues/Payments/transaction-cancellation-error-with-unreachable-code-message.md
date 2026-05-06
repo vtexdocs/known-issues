@@ -2,8 +2,8 @@
 title: 'Transaction cancellation error with "Unreachable code" message'
 slug: transaction-cancellation-error-with-unreachable-code-message
 status: PUBLISHED
-createdAt: 2026-01-22T20:15:36.129Z
-updatedAt: 2026-01-22T20:15:36.129Z
+createdAt: 2024-03-12T19:33:54.000Z
+updatedAt: 2026-01-22T23:15:11.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -15,7 +15,6 @@ internalReference: 998435
 ---
 
 ## Summary
-
 
 Transaction cancellation requests may fail with the message “Unreachable code” (visible only via API) when a cancellation is sent to the Payments gateway.
 
@@ -37,15 +36,11 @@ The transaction is not captured;
 
 No payment split exists yet.
 
-
-#### Simulation
-
+## Simulation
 
 We were not able to simulate this error.
 
-
-#### Workaround
-
+## Workaround
 
 Scenario 1
 Cancel the payments separately, starting with the lowest value.
@@ -53,5 +48,3 @@ Cancel the payments separately, starting with the lowest value.
 Scenario 2
 Open a ticket with the Product/Payments team requesting the transaction to be finalized (captured).
 Once the transaction is finalized, proceed with a refund for the required amount.
-
-
