@@ -10031,7 +10031,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-logica-de-redondeo-de-precios-de-coste-diverge-en-la-api-de-precios-calculados",
+    "slug": "la-logica-de-redondeo-del-precio-de-coste-difiere-en-la-api-de-precios-calculados",
     "internalReference": 842336
   },
   {
@@ -10806,13 +10806,13 @@
   },
   {
     "locale": "es",
-    "slug": "el-articulo-de-promocion-no-se-mostrara-dividido-despues-de-anadir-los-datos-de-preferencias-del-cliente",
-    "internalReference": 842575
+    "slug": "el-articulo-deja-de-estar-disponible-si-las-opciones-de-montaje-posibles-no-coinciden-con-el-canal-de-venta-del-carrito",
+    "internalReference": 1083848
   },
   {
     "locale": "es",
-    "slug": "el-articulo-deja-de-estar-disponible-si-las-opciones-de-montaje-posibles-no-coinciden-con-el-canal-de-venta-del-carrito",
-    "internalReference": 1083848
+    "slug": "el-articulo-en-promocion-no-aparecera-dividido-tras-anadir-los-datos-de-las-preferencias-del-cliente",
+    "internalReference": 842575
   },
   {
     "locale": "es",
@@ -10883,6 +10883,11 @@
     "locale": "es",
     "slug": "el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-usuarios-en-el-checkoutui",
     "internalReference": 887645
+  },
+  {
+    "locale": "es",
+    "slug": "el-envio-lean-no-permite-seleccionar-la-entrega-estandar-cuando-la-entrega-programada-es-la-mas-barata-y-rapida",
+    "internalReference": 842018
   },
   {
     "locale": "es",
@@ -11558,11 +11563,6 @@
     "locale": "es",
     "slug": "lean-shipping-muestra-en-ui-el-shippingestimate-mas-alto-de-los-sla-seleccionados",
     "internalReference": 1126188
-  },
-  {
-    "locale": "es",
-    "slug": "lean-shipping-no-permite-seleccionar-la-entrega-regular-cuando-la-entrega-programada-es-la-mas-barata-y-rapida",
-    "internalReference": 842018
   },
   {
     "locale": "es",
@@ -13217,6 +13217,11 @@
   {
     "locale": "es",
     "slug": "la-busqueda-inteligente-multilingue-no-admite-dos-variantes-del-mismo-idioma-o-dialecto",
+    "internalReference": 841704
+  },
+  {
+    "locale": "es",
+    "slug": "la-busqueda-inteligente-multilingue-no-admite-dos-variantes-del-mismo-idioma-o-jerga",
     "internalReference": 841704
   },
   {
@@ -20646,7 +20651,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-envio-enxuto-nao-permite-selecionar-a-entrega-regular-quando-a-entrega-programada-e-a-mais-barata-e-mais-rapida",
+    "slug": "o-envio-enxuto-nao-permite-selecionar-a-entrega-padrao-quando-a-entrega-programada-e-a-mais-barata-e-a-mais-rapida",
     "internalReference": 842018
   },
   {
@@ -20676,7 +20681,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-item-de-promocao-nao-sera-exibido-dividido-apos-a-adicao-de-dados-de-preferencias-do-cliente",
+    "slug": "o-item-em-promocao-nao-sera-exibido-como-dividido-apos-a-adicao-dos-dados-de-preferencias-do-cliente",
     "internalReference": 842575
   },
   {
@@ -22138,6 +22143,11 @@
     "locale": "pt",
     "slug": "a-pesquisa-explicativa-nao-apresenta-resultados-quando-o-idioma-corresponde-a-localidade-do-administrador-tambem-configurada-na-pesquisa-inteligent",
     "internalReference": 830490
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pesquisa-inteligente-multilingue-nao-suporta-duas-variacoes-do-mesmo-idioma",
+    "internalReference": 841704
   },
   {
     "locale": "pt",
