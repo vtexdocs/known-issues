@@ -8861,6 +8861,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-opcion-volver-a-pedir-del-historial-de-pedidos-b2b-no-funciona",
+    "internalReference": 819920
+  },
+  {
+    "locale": "es",
     "slug": "la-organizacion-b2b-no-tiene-en-cuenta-las-cuentas-que-utilizan-la-geolocalizacion-al-registrar-la-direccion",
     "internalReference": 904907
   },
@@ -8953,11 +8958,6 @@
     "locale": "es",
     "slug": "valores-incorrectos-en-las-comillas-de-los-articulos-con-configuracion-de-multiplicador-unitario",
     "internalReference": 1271492
-  },
-  {
-    "locale": "es",
-    "slug": "volver-a-pedir-desde-el-historial-de-pedidos-b2b-no-funciona",
-    "internalReference": 819920
   },
   {
     "locale": "es",
@@ -17816,6 +17816,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-opcao-fazer-novo-pedido-no-historico-de-pedidos-b2b-nao-funciona",
+    "internalReference": 819920
+  },
+  {
+    "locale": "pt",
     "slug": "a-organizacao-b2b-nao-considera-as-contas-que-usam-geolocalizacao-ao-registrar-o-endereco",
     "internalReference": 904907
   },
@@ -17938,11 +17943,6 @@
     "locale": "pt",
     "slug": "o-menu-suspenso-do-centro-de-custo-mostra-apenas-25-opcoes-nos-clientes-do-b2b-admin",
     "internalReference": 921115
-  },
-  {
-    "locale": "pt",
-    "slug": "o-pedido-novamente-do-historico-de-pedidos-b2b-nao-funciona",
-    "internalReference": 819920
   },
   {
     "locale": "pt",
