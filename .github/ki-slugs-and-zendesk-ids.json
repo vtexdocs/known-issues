@@ -11166,7 +11166,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-usuario-lanza-solicitudes-separadas-para-cada-clavecampo-de-un-archivo-adjunto",
+    "slug": "la-interfaz-de-usuario-genera-solicitudes-independientes-para-cada-clave-o-campo-de-un-archivo-adjunto",
     "internalReference": 336371
   },
   {
@@ -19381,11 +19381,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-interface-do-usuario-aciona-solicitacoes-separadas-para-cada-chavecampo-de-um-anexo",
-    "internalReference": 336371
-  },
-  {
-    "locale": "pt",
     "slug": "a-interface-do-usuario-altera-automaticamente-o-sla-selecionado-quando-o-vendedor-agendou-a-retirada-e-o-item-nao-esta-na-primeira-posicao",
     "internalReference": 843602
   },
@@ -19413,6 +19408,11 @@
     "locale": "pt",
     "slug": "a-interface-do-usuario-fica-congelada-se-ocorrer-um-erro-no-processo-interno-da-ordem-de-colocacao",
     "internalReference": 943771
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-do-usuario-gera-solicitacoes-separadas-para-cada-chavecampo-de-um-anexo",
+    "internalReference": 336371
   },
   {
     "locale": "pt",
