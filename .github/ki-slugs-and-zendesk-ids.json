@@ -9271,11 +9271,6 @@
   },
   {
     "locale": "es",
-    "slug": "catalogo-filtro-para-vendedor-1-trae-resultados-vacios",
-    "internalReference": 801538
-  },
-  {
-    "locale": "es",
     "slug": "catalogo-la-hoja-de-calculo-de-importacion-de-imagenes-no-sustituye-a-la-etiqueta",
     "internalReference": 1147627
   },
@@ -9488,6 +9483,11 @@
     "locale": "es",
     "slug": "el-filtro-de-las-nuevas-colecciones-recien-estrenadas-no-funciona-en-las-exportaciones",
     "internalReference": 576760
+  },
+  {
+    "locale": "es",
+    "slug": "el-filtro-del-catalogo-para-el-vendedor-1-no-arroja-ningun-resultado",
+    "internalReference": 801538
   },
   {
     "locale": "es",
@@ -19296,7 +19296,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-filtro-do-catalogo-para-o-vendedor-1-traz-resultados-vazios",
+    "slug": "o-filtro-do-catalogo-para-o-vendedor-1-nao-apresenta-resultados",
     "internalReference": 801538
   },
   {
