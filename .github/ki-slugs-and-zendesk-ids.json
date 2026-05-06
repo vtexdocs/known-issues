@@ -9476,7 +9476,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-filtro-de-especificacion-de-productos-del-modulo-de-recogida-no-enumera-la-categoria-raiz",
+    "slug": "el-filtro-de-especificaciones-del-producto-del-modulo-de-colecciones-no-muestra-la-categoria-principal",
     "internalReference": 918687
   },
   {
@@ -19356,7 +19356,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-filtro-de-especificacao-do-produto-no-collection-module-nao-lista-a-categoria-raiz",
+    "slug": "o-filtro-de-especificacoes-do-produto-no-modulo-de-colecao-nao-exibe-a-categoria-principal",
     "internalReference": 918687
   },
   {
