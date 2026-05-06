@@ -13161,7 +13161,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-busqueda-inteligente-no-devuelve-el-pedido-sku-correcto",
+    "slug": "la-busqueda-inteligente-no-muestra-el-orden-correcto-de-los-sku",
     "internalReference": 677937
   },
   {
@@ -21281,6 +21281,11 @@
   },
   {
     "locale": "pt",
+    "slug": "meli-erro-no-produto-a-sequencia-nao-contem-elementos",
+    "internalReference": 678062
+  },
+  {
+    "locale": "pt",
     "slug": "meli-integracao-do-sku-com-o-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto",
     "internalReference": 657515
   },
@@ -21936,6 +21941,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-pesquisa-inteligente-nao-esta-exibindo-a-ordem-correta-de-skus",
+    "internalReference": 677937
+  },
+  {
+    "locale": "pt",
     "slug": "a-primeira-busca-em-uma-loja-nao-e-considerada-na-ui-ultimas-buscas",
     "internalReference": 570971
   },
@@ -22188,11 +22198,6 @@
     "locale": "pt",
     "slug": "o-intelligent-search-nao-esta-capturando-eventos-de-vendas-para-o-faststore",
     "internalReference": 1045163
-  },
-  {
-    "locale": "pt",
-    "slug": "o-intelligent-search-nao-retorna-o-pedido-de-sku-correto",
-    "internalReference": 677937
   },
   {
     "locale": "pt",
