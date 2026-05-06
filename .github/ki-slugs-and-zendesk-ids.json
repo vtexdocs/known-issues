@@ -11361,6 +11361,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-usuario-indica-que-se-ha-seleccionado-la-recogida-en-tienda-en-el-carrito-de-la-compra-con-suscripciones-pero-no-asi-en-la-api",
+    "internalReference": 996976
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-usuario-muestra-el-mensaje-regalos-seleccionados-al-utilizar-la-funcion-de-sustitucion-de-pedidos",
     "internalReference": 909137
   },
@@ -11368,11 +11373,6 @@
     "locale": "es",
     "slug": "la-interfaz-de-usuario-muestra-puntos-de-recogida-duplicados-cuando-un-articulo-para-entregar-se-encuentra-entre-articulos-para-recoger",
     "internalReference": 906549
-  },
-  {
-    "locale": "es",
-    "slug": "la-interfaz-de-usuario-muestra-que-se-ha-seleccionado-una-recogida-en-el-carro-con-suscripciones-pero-no-en-la-api",
-    "internalReference": 996976
   },
   {
     "locale": "es",
@@ -19981,7 +19981,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-interface-do-usuario-mostra-que-uma-retirada-foi-selecionada-no-carrinho-com-assinaturas-mas-nao-foi-na-api",
+    "slug": "a-interface-do-usuario-mostra-que-uma-opcao-de-retirada-foi-selecionada-no-carrinho-com-assinaturas-mas-isso-nao-constava-na-api",
     "internalReference": 996976
   },
   {
