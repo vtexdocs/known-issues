@@ -2,8 +2,8 @@
 title: 'Link "Why fill VTEX Global Category?" on category setup only works opening in a new tab'
 slug: link-why-fill-vtex-global-category-on-category-setup-only-works-opening-in-a-new-tab
 status: PUBLISHED
-createdAt: 2025-11-14T19:12:29.482Z
-updatedAt: 2025-11-14T19:12:29.482Z
+createdAt: 2022-03-16T17:58:12.000Z
+updatedAt: 2022-12-20T16:36:34.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,15 +16,11 @@ internalReference: 544034
 
 ## Summary
 
-
 Link "Why fill VTEX Global Category?" on category setup only works opening in a new tab. trying to open by just clicking on the link will redirect to an Error Page.
 
  ![](https://vtexhelp.zendesk.com/attachments/token/Hhun8gyXHxWgk1qnUHWreWIBo/?name=image.png)
 
-
-#### Simulation
-
-
+## Simulation
 
 1. Go to an existing category or create a new category
 2. Try to click on this link "Why fill VTEX Global Category?"
@@ -32,8 +28,6 @@ Link "Why fill VTEX Global Category?" on category setup only works opening in a 
 4. Try to open in a new tab or window
 5. The correct link will appear
 
-
-#### Workaround
-
+## Workaround
 
 Open in a new tab.
