@@ -15946,7 +15946,7 @@
   },
   {
     "locale": "es",
-    "slug": "tarjeta-guardada-de-marca-compartida-con-identificador-de-sistema-de-pago-incorrecto",
+    "slug": "tarjeta-guardada-de-marca-compartida-con-un-identificador-de-sistema-de-pago-incorrecto",
     "internalReference": 833400
   },
   {
@@ -24266,7 +24266,7 @@
   },
   {
     "locale": "pt",
-    "slug": "cartao-salvo-de-marca-compartilhada-com-identificacao-incorreta-do-sistema-de-pagamento",
+    "slug": "cartao-salvo-em-cobranding-com-id-incorreta-do-sistema-de-pagamento",
     "internalReference": 833400
   },
   {
