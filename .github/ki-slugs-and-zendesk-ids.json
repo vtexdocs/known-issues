@@ -10841,7 +10841,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-campo-referencia-siempre-se-establece-como-null",
+    "slug": "el-campo-referencia-siempre-esta-establecido-como-nulo",
     "internalReference": 797989
   },
   {
@@ -20486,7 +20486,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-campo-reference-sempre-e-definido-como-nulo",
+    "slug": "o-campo-referencia-esta-sempre-definido-como-nulo",
     "internalReference": 797989
   },
   {
