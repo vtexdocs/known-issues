@@ -1,11 +1,9 @@
 ---
 title: 'Diferencia de precios entre PDP, PLP y Checkout Cart'
-id: 3Oo5ccYOG7hcEXYaROxXMV
+slug: diferencia-de-precios-entre-pdp-plp-y-checkout-cart
 status: PUBLISHED
-createdAt: 2023-06-29T20:02:13.485Z
-updatedAt: 2023-06-29T20:02:14.572Z
-publishedAt: 2023-06-29T20:02:14.572Z
-firstPublishedAt: 2023-06-29T20:02:14.572Z
+createdAt: 2023-06-29T20:01:56.000Z
+updatedAt: 2023-06-29T20:01:56.000Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,32 +14,18 @@ kiStatus: Backlog
 internalReference: 853175
 ---
 
-## Sumario
-
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
+## Sumario
 
-
-El portal está entregando el mismo contenido en los PDPs y PLPs incluso después de algunas actualizaciones como promociones.
-
-
+El portal sigue mostrando el mismo contenido en las páginas de producto (PDP) y en las páginas de lista de productos (PLP) incluso después de algunas actualizaciones, como las promociones.
 
 ## Simulación
 
+Con una caché caducada, la CDN consulta al sistema del portal si la página ha cambiado. Si es así, el portal envía la nueva página para que se muestre; de lo contrario, la CDN vuelve a generar la página que ya tiene.
 
-
-Con una caché caducada, el CDN pregunta al sistema del portal si se ha modificado la página. Si es así, el portal entrega la nueva página para ser renderizada, de lo contrario, el CDN redibuja la página que ya tiene.
-
-En este caso, vimos que aunque la página había presentado algunos cambios, la inclusión de una promoción, el portal devolvía al CDN que no había ningún cambio en comparación con la página en caché y, por lo tanto, la capa de borde estaba renderizando la página sin promoción.
-
-
+En este caso, observamos que, aunque la página había enviado algunos cambios (la inclusión de una promoción), el portal respondió a la CDN que no había cambios con respecto a la página almacenada en caché y, por lo tanto, la capa periférica renderizaba la página sin la promoción.
 
 ## Workaround
 
-
-
-Una forma de solucionarlo era **cambiar la plantilla de la página del producto (como incluir un comentario**), de forma que el portal informara de que había un cambio en la estructura, y el CDN obtuviera la nueva página para almacenarla en caché.
-
-
-
-
+Una forma de solucionarlo era **modificar la plantilla de la página del producto (por ejemplo, incluyendo un comentario**), de modo que el portal informara de que se había producido un cambio en la estructura y el CDN obtuviera la nueva página para almacenarla en caché.
