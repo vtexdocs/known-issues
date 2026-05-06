@@ -16336,6 +16336,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-vista-viewpart-de-webanalytics-muestra-un-resultado-positivo-incluso-cuando-no-funciona",
+    "internalReference": 768059
+  },
+  {
+    "locale": "es",
     "slug": "las-palabras-sustitutivas-de-categoria-y-marca-no-se-indexan",
     "internalReference": 374204
   },
@@ -16453,11 +16458,6 @@
     "locale": "es",
     "slug": "vtexeventsadddata-anadir-el-parametro-pageurl-utilizando-http-no-https",
     "internalReference": 348128
-  },
-  {
-    "locale": "es",
-    "slug": "webanalytics-viewpart-muestra-el-exito-incluso-cuando-no-esta-funcionando",
-    "internalReference": 768059
   },
   {
     "locale": "es",
@@ -25286,6 +25286,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-viewpart-do-webanalytics-indica-sucesso-mesmo-quando-nao-esta-funcionando",
+    "internalReference": 768059
+  },
+  {
+    "locale": "pt",
     "slug": "ao-fazer-upload-no-gerenciador-de-arquivos-com-dois-arquivos-sendo-que-um-deles-ja-existe-nem-todos-os-arquivos-sao-atualizados-apenas-o-primeiro",
     "internalReference": 418253
   },
@@ -25533,11 +25538,6 @@
     "locale": "pt",
     "slug": "vtexeventsadddata-adicionando-o-parametro-pageurl-usando-http-e-nao-https",
     "internalReference": 348128
-  },
-  {
-    "locale": "pt",
-    "slug": "webanalytics-viewpart-mostra-o-sucesso-mesmo-quando-nao-esta-funcionando",
-    "internalReference": 768059
   },
   {
     "locale": "pt",
