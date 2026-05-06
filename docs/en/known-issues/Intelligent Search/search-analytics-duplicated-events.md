@@ -1,11 +1,9 @@
 ---
 title: 'Search Analytics duplicated events'
-id: 48h3ObR7qqRHvU36weCvjC
+slug: search-analytics-duplicated-events
 status: PUBLISHED
-createdAt: 2023-03-15T19:40:23.229Z
-updatedAt: 2024-08-05T16:28:52.160Z
-publishedAt: 2024-08-05T16:28:52.160Z
-firstPublishedAt: 2023-03-15T19:40:23.835Z
+createdAt: 2023-03-15T19:38:51.000Z
+updatedAt: 2024-08-05T16:28:34.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -17,7 +15,6 @@ internalReference: 771986
 ---
 
 ## Summary
-
 
 Some events of the Intelligent Search reports are duplicated, which can impact the analytics view on the search admin module.
 
@@ -42,19 +39,10 @@ Yes, data exported to CSV is also impacted by the over-computed data.
 
 No, although the search relevance algorithm also uses the analytics events to calculate the product popularity score, it does not use the aggregated metrics.
 
-
-##
-
 ## Simulation
-
 
 The scenario can be seen when checking the search admin page for the reports/analytics.
 
-
-##
-
 ## Workaround
 
-
 N/A
-
