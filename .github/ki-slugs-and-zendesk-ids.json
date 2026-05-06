@@ -2312,7 +2312,7 @@
   {
     "locale": "en",
     "slug": "email-not-autofilling-for-new-users-on-checkoutui",
-    "internalReference": 887645
+    "internalReference": 887949
   },
   {
     "locale": "en",
@@ -7676,6 +7676,11 @@
   },
   {
     "locale": "en",
+    "slug": "nominal-discount-based-on-formula-not-working-as-expected-with-subtraction-operations",
+    "internalReference": 886980
+  },
+  {
+    "locale": "en",
     "slug": "nominal-discount-is-not-being-distributed-among-all-items-in-the-cart",
     "internalReference": 334130
   },
@@ -9721,6 +9726,11 @@
   },
   {
     "locale": "es",
+    "slug": "hoja-de-calculo-link-service-values-to-skus-que-solo-muestra-los-servicios-activos",
+    "internalReference": 886486
+  },
+  {
+    "locale": "es",
     "slug": "incoherencia-al-buscar-facetas-que-contengan-resultados-con-valores-de-especificacion-elevados",
     "internalReference": 824198
   },
@@ -10571,11 +10581,6 @@
   },
   {
     "locale": "es",
-    "slug": "vincular-los-valores-de-los-servicios-a-la-hoja-de-calculo-skus-solo-devuelve-los-servicios-activos",
-    "internalReference": 886486
-  },
-  {
-    "locale": "es",
     "slug": "vtexcmc-regalosproducto-no-funciona-antes-de-acceder-a-la-caja",
     "internalReference": 1029719
   },
@@ -10876,8 +10881,8 @@
   },
   {
     "locale": "es",
-    "slug": "el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-usuarios-en-el-checkoutui",
-    "internalReference": 887645
+    "slug": "el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-usuarios-en-la-interfaz-de-pago",
+    "internalReference": 887949
   },
   {
     "locale": "es",
@@ -15406,6 +15411,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensa-o-el-desencadenante-sospechoso",
+    "internalReference": 887866
+  },
+  {
+    "locale": "es",
     "slug": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensaactivador-sospechoso",
     "internalReference": 887866
   },
@@ -16611,6 +16621,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-descuento-nominal-calculado-segun-la-formula-no-funciona-como-se-esperaba-en-las-operaciones-de-resta",
+    "internalReference": 886980
+  },
+  {
+    "locale": "es",
     "slug": "el-descuento-nominal-mas-el-multiplicador-unitario-pueden-dar-lugar-a-valores-negativos",
     "internalReference": 867838
   },
@@ -17491,11 +17506,6 @@
   },
   {
     "locale": "es",
-    "slug": "los-activadores-de-paginas-en-g4a-se-duplican-en-las-paginas-de-busqueda-personalizadas",
-    "internalReference": 888042
-  },
-  {
-    "locale": "es",
     "slug": "los-cambios-realizados-en-la-pagina-de-administracion-de-estilos-no-se-guardan-correctamente",
     "internalReference": 971948
   },
@@ -17513,6 +17523,11 @@
     "locale": "es",
     "slug": "los-clics-en-el-numericstepper-no-funcionan",
     "internalReference": 537245
+  },
+  {
+    "locale": "es",
+    "slug": "los-eventos-de-visualizacion-de-pagina-en-g4a-se-estan-duplicando-en-las-paginas-de-busqueda-personalizadas",
+    "internalReference": 888042
   },
   {
     "locale": "es",
@@ -19166,11 +19181,6 @@
   },
   {
     "locale": "pt",
-    "slug": "link-service-values-to-skus-planilha-que-retorna-apenas-os-servicos-ativos",
-    "internalReference": 886486
-  },
-  {
-    "locale": "pt",
     "slug": "links-de-paginacao-nos-resultados-da-pesquisa-que-nao-funcionam-nas-paginas-da-giftlist",
     "internalReference": 481330
   },
@@ -19498,6 +19508,11 @@
     "locale": "pt",
     "slug": "planilha-de-imagens-nao-exportadas-quando-a-conta-tem-muitos-skus",
     "internalReference": 623183
+  },
+  {
+    "locale": "pt",
+    "slug": "planilha-link-service-values-to-skus-que-exibe-apenas-os-servicos-ativos",
+    "internalReference": 886486
   },
   {
     "locale": "pt",
@@ -20666,8 +20681,8 @@
   },
   {
     "locale": "pt",
-    "slug": "o-email-nao-e-preenchido-automaticamente-para-novos-usuarios-no-checkoutui",
-    "internalReference": 887645
+    "slug": "o-email-nao-e-preenchido-automaticamente-para-novos-usuarios-na-interface-de-checkout",
+    "internalReference": 887949
   },
   {
     "locale": "pt",
@@ -24026,6 +24041,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-pagina-de-redirecionamento-nao-abre-para-pagamentos-com-cartao-de-credito-ao-usar-o-modo-de-defesaalerta-suspeito",
+    "internalReference": 887866
+  },
+  {
+    "locale": "pt",
     "slug": "a-pagina-de-redirecionamento-nao-abre-para-pagamentos-com-cartao-de-credito-ao-usar-o-modo-de-defesagatilho-suspeito",
     "internalReference": 887866
   },
@@ -25971,6 +25991,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-desconto-nominal-calculado-com-base-na-formula-nao-esta-funcionando-como-esperado-nas-operacoes-de-subtracao",
+    "internalReference": 886980
+  },
+  {
+    "locale": "pt",
     "slug": "o-desconto-nominal-nao-esta-sendo-aplicado-a-todos-os-itens-do-carrinho",
     "internalReference": 334130
   },
@@ -26741,13 +26766,13 @@
   },
   {
     "locale": "pt",
-    "slug": "os-acionadores-de-exibicao-de-pagina-no-g4a-estao-sendo-duplicados-em-paginas-de-pesquisa-personalizadas",
-    "internalReference": 888042
+    "slug": "os-cabecalhos-personalizados-nao-sao-aplicados-a-todas-as-paginas",
+    "internalReference": 1170580
   },
   {
     "locale": "pt",
-    "slug": "os-cabecalhos-personalizados-nao-sao-aplicados-a-todas-as-paginas",
-    "internalReference": 1170580
+    "slug": "os-gatilhos-de-visualizacao-de-pagina-no-g4a-estao-sendo-duplicados-nas-paginas-de-pesquisa-personalizadas",
+    "internalReference": 888042
   },
   {
     "locale": "pt",
