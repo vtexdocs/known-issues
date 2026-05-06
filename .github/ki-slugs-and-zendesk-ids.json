@@ -11756,7 +11756,7 @@
   },
   {
     "locale": "es",
-    "slug": "placeorder-generando-valores-de-descuento-y-envio-erroneos-entre-articulos-que-aparecen-mas-de-una-vez",
+    "slug": "placeorder-genera-valores-erroneos-de-descuento-y-gastos-de-envio-entre-los-articulos-que-aparecen-mas-de-una-vez",
     "internalReference": 732529
   },
   {
@@ -20581,6 +20581,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-placeorder-esta-gerando-valores-incorretos-de-desconto-e-frete-entre-itens-que-aparecem-mais-de-uma-vez",
+    "internalReference": 732529
+  },
+  {
+    "locale": "pt",
     "slug": "o-ponto-de-retirada-nao-pode-ser-selecionado-em-marketplaces-com-vendedores-de-varios-niveis",
     "internalReference": 524073
   },
@@ -20773,11 +20778,6 @@
     "locale": "pt",
     "slug": "pedidos-sem-endereco-de-faturamento-criados-por-meio-da-interface-de-usuario-nativa",
     "internalReference": 306140
-  },
-  {
-    "locale": "pt",
-    "slug": "placeorder-gerando-desconto-errado-e-valores-de-envio-entre-itens-que-aparecem-mais-de-uma-vez",
-    "internalReference": 732529
   },
   {
     "locale": "pt",
