@@ -9416,11 +9416,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-campo-del-nombre-del-tipo-de-servicio-se-devuelve-erroneamente-a-traves-de-la-api",
-    "internalReference": 961278
-  },
-  {
-    "locale": "es",
     "slug": "el-campo-lastmodifiedby-siempre-devuelve-null-en-la-api-de-busqueda",
     "internalReference": 1211438
   },
@@ -9428,6 +9423,11 @@
     "locale": "es",
     "slug": "el-campo-metatagdescription-no-se-puede-eliminar-a-traves-de-admin",
     "internalReference": 979691
+  },
+  {
+    "locale": "es",
+    "slug": "el-campo-nombre-del-tipo-de-servicio-se-ha-devuelto-incorrectamente-a-traves-de-la-api",
+    "internalReference": 961278
   },
   {
     "locale": "es",
@@ -18871,11 +18871,6 @@
   },
   {
     "locale": "pt",
-    "slug": "campo-de-nome-do-tipo-de-servico-retornado-incorretamente-via-api",
-    "internalReference": 961278
-  },
-  {
-    "locale": "pt",
     "slug": "campo-nome-do-produto-em-xml-retorna-nome-do-produto-nome-do-sku-quando-o-produto-tem-apenas-1-sku",
     "internalReference": 661089
   },
@@ -19338,6 +19333,11 @@
     "locale": "pt",
     "slug": "o-campo-nome-do-produto-do-xml-nao-esta-funcionando-corretamente",
     "internalReference": 925965
+  },
+  {
+    "locale": "pt",
+    "slug": "o-campo-nome-do-tipo-de-servico-foi-retornado-incorretamente-pela-api",
+    "internalReference": 961278
   },
   {
     "locale": "pt",
