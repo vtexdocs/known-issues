@@ -2026,6 +2026,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-api-handle-cart-items-misbehaviors-when-sending-attachments-for-already-added-items",
+    "internalReference": 452053
+  },
+  {
+    "locale": "en",
     "slug": "checkout-api-may-not-group-packages-when-two-or-more-sellers-can-fulfill",
     "internalReference": 802156
   },
@@ -2518,11 +2523,6 @@
     "locale": "en",
     "slug": "message-freight-value-has-changed-is-shown-incorrectly",
     "internalReference": 775515
-  },
-  {
-    "locale": "en",
-    "slug": "misbehaviors-for-addtocart-mutation-from-checkoutgraphql-while-sending-options-for-already-added-items",
-    "internalReference": 452053
   },
   {
     "locale": "en",
@@ -10546,6 +10546,11 @@
   },
   {
     "locale": "es",
+    "slug": "api-de-pago-gestionar-los-comportamientos-anomalos-de-los-articulos-del-carrito-al-enviar-archivos-adjuntos-para-articulos-ya-anadidos",
+    "internalReference": 452053
+  },
+  {
+    "locale": "es",
     "slug": "articulo-disponible-cuando-la-ubicacion-del-cliente-no-esta-definida-sin-existencias",
     "internalReference": 1073363
   },
@@ -10798,6 +10803,11 @@
     "locale": "es",
     "slug": "el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-usuarios-en-el-checkoutui",
     "internalReference": 887645
+  },
+  {
+    "locale": "es",
+    "slug": "el-envio-lean-se-aplica-de-forma-obligatoria-incluso-cuando-los-articulos-tienen-los-mismos-sla-pero-en-un-orden-diferente",
+    "internalReference": 455218
   },
   {
     "locale": "es",
@@ -11438,11 +11448,6 @@
     "locale": "es",
     "slug": "las-traducciones-de-las-opciones-de-suscripcion-no-funcionan-correctamente-en-algunos-idiomas",
     "internalReference": 561186
-  },
-  {
-    "locale": "es",
-    "slug": "lean-shipping-forzado-incluso-cuando-los-articulos-tienen-los-mismos-ans-pero-en-una-ordenacion-diferente",
-    "internalReference": 455218
   },
   {
     "locale": "es",
@@ -16141,6 +16146,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-redireccion-de-url-con-caracteres-especiales-no-ascii-genera-errores",
+    "internalReference": 457047
+  },
+  {
+    "locale": "es",
     "slug": "las-palabras-sustitutivas-de-categoria-y-marca-no-se-indexan",
     "internalReference": 374204
   },
@@ -16218,11 +16228,6 @@
     "locale": "es",
     "slug": "pubportalpagetype-no-se-mapea-correctamente-cuando-2-categorias-tienen-el-mismo-nombre",
     "internalReference": 314551
-  },
-  {
-    "locale": "es",
-    "slug": "redireccion-de-url-con-caracteres-especiales-no-ascii-errores-de-retorno",
-    "internalReference": 457047
   },
   {
     "locale": "es",
@@ -19681,6 +19686,11 @@
   },
   {
     "locale": "pt",
+    "slug": "api-de-checkout-tratar-comportamentos-indesejados-dos-itens-do-carrinho-ao-enviar-anexos-para-itens-ja-adicionados",
+    "internalReference": 452053
+  },
+  {
+    "locale": "pt",
     "slug": "api-para-listar-pontos-de-coleta-nao-retorna-campo-de-informacoes-adicionais",
     "internalReference": 650714
   },
@@ -20246,7 +20256,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-envio-enxuto-e-forcado-mesmo-quando-os-itens-tem-os-mesmos-slas-mas-em-uma-ordenacao-diferente",
+    "slug": "o-envio-enxuto-e-aplicado-mesmo-quando-os-itens-tem-os-mesmos-slas-mas-estao-em-uma-ordem-diferente",
     "internalReference": 455218
   },
   {
@@ -24966,6 +24976,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-redirecionamento-de-url-com-caracteres-especiais-nao-ascii-gera-erros",
+    "internalReference": 457047
+  },
+  {
+    "locale": "pt",
     "slug": "o-upload-de-arquivo-nao-esta-funcionando-em-adminportalsitesdefaultcode",
     "internalReference": 897956
   },
@@ -25063,11 +25078,6 @@
     "locale": "pt",
     "slug": "url-desatualizado-na-interface-de-usuario-de-atualizacao-de-vinculacao",
     "internalReference": 890791
-  },
-  {
-    "locale": "pt",
-    "slug": "url-redirecionar-com-caracteres-especiais-erros-de-nao-retorno-ascii",
-    "internalReference": 457047
   },
   {
     "locale": "pt",
