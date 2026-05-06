@@ -1,11 +1,9 @@
 ---
 title: 'A API de pesquisa não aceita caracteres especiais'
-id: 4wBStygR6YPA6g5lgvPGqa
+slug: a-api-de-pesquisa-nao-aceita-caracteres-especiais
 status: PUBLISHED
-createdAt: 2023-02-15T12:39:13.771Z
-updatedAt: 2023-02-28T18:20:34.738Z
-publishedAt: 2023-02-28T18:20:34.738Z
-firstPublishedAt: 2023-02-15T12:39:14.210Z
+createdAt: 2023-02-15T12:39:00.000Z
+updatedAt: 2023-02-28T18:19:04.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,34 +14,19 @@ kiStatus: Backlog
 internalReference: 754363
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
-A API de pesquisa de catálogo, documentada aqui: https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search- , não aceita termos com caracteres especiais como "apóstrofo" ou "aspas".
+A API de pesquisa do catálogo, documentada aqui: https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search-, não aceita termos com caracteres especiais, como apóstrofo ' ou aspas ".
 
-O retorno do erro em consultas como esta é: `Mal pedido! Scripts não são permitidos!`
-
-
-##
+O erro retornado em consultas como essa é: `Bad Request! Scripts are not allowed!`
 
 ## Simulação
 
-
-
-1. Tente usar a API de busca com um termo que use ' , por exemplo: GET https://{accountName}.{environment}.com.br/api/catalog_system/pub/products/search?ft=anyterm'
-2. Verifique se a mensagem de erro aparece.
-
-
-##
+1. Tente usar a API de pesquisa com um termo que contenha ', por exemplo: GET https://{accountName}.{environment}.com.br/api/catalog_system/pub/products/search?ft=anyterm'
+2. Verifique se a mensagem de erro é exibida.
 
 ## Workaround
 
-
-Nenhuma solução.
-
-
-
-
-
+Não há solução alternativa.
