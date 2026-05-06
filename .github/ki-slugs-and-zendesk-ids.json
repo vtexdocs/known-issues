@@ -11231,7 +11231,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-funcion-de-sustitucion-de-pedidos-no-funciona-cuando-el-carro-sustituido-y-el-pedido-original-tienen-el-mismo-valor",
+    "slug": "la-funcion-de-sustitucion-de-pedidos-no-funciona-cuando-el-carrito-sustituido-y-el-pedido-original-tienen-el-mismo-valor",
     "internalReference": 866622
   },
   {
@@ -12321,7 +12321,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-tabla-de-tallas-meli-no-funciona-para-las-tallas-con-letras",
+    "slug": "la-tabla-de-tallas-de-meli-no-funciona-con-las-tallas-que-incluyen-letras",
     "internalReference": 867262
   },
   {
@@ -12371,6 +12371,11 @@
   },
   {
     "locale": "es",
+    "slug": "magazine-luiza-el-estado-de-un-pedido-cancelado-en-el-marketplace-no-se-ha-actualizado-en-vtex",
+    "internalReference": 865926
+  },
+  {
+    "locale": "es",
     "slug": "magazine-luiza-el-pedido-cancelado-en-marketplace-no-se-ha-cancelado-en-vtex",
     "internalReference": 792618
   },
@@ -12388,11 +12393,6 @@
     "locale": "es",
     "slug": "magazine-luiza-modificar-la-especificacion-de-plaintextdescription",
     "internalReference": 754022
-  },
-  {
-    "locale": "es",
-    "slug": "magazine-luiza-pedido-cancelado-en-marketplace-no-actualiza-estado-en-vtex",
-    "internalReference": 865926
   },
   {
     "locale": "es",
@@ -14871,11 +14871,6 @@
   },
   {
     "locale": "es",
-    "slug": "early-capture-compite-injustamente-con-automatic-capture-en-authorizedotnet",
-    "internalReference": 866068
-  },
-  {
-    "locale": "es",
     "slug": "el-analisis-de-riesgos-se-cancela-antes-de-lo-previsto-debido-al-limite-fijo-de-reintentos",
     "internalReference": 1282965
   },
@@ -15363,6 +15358,11 @@
     "locale": "es",
     "slug": "la-fecha-de-caducidad-de-la-tarjeta-regalo-no-coincide-con-la-fecha-elegida-al-crearla",
     "internalReference": 378436
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-early-capture-compite-indebidamente-con-la-funcion-automatic-capture-en-authorizedotnet",
+    "internalReference": 866068
   },
   {
     "locale": "es",
@@ -16603,6 +16603,11 @@
     "locale": "es",
     "slug": "el-cupon-no-funciona-y-aparece-el-mensaje-el-cupon-ha-caducado",
     "internalReference": 1379679
+  },
+  {
+    "locale": "es",
+    "slug": "el-descuento-nominal-mas-el-multiplicador-unitario-pueden-dar-lugar-a-valores-negativos",
+    "internalReference": 867838
   },
   {
     "locale": "es",
@@ -19806,6 +19811,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-funcao-de-substituicao-de-pedidos-nao-funciona-quando-o-carrinho-substituido-e-o-pedido-original-tem-o-mesmo-valor",
+    "internalReference": 866622
+  },
+  {
+    "locale": "pt",
     "slug": "a-incompatibilidade-de-addressid-causa-o-erro-endereco-invalido-para-um-item",
     "internalReference": 992503
   },
@@ -20771,11 +20781,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-recurso-de-substituicao-de-pedidos-nao-funciona-quando-o-carrinho-substituido-e-o-pedido-original-tem-o-mesmo-valor",
-    "internalReference": 866622
-  },
-  {
-    "locale": "pt",
     "slug": "o-seletor-de-entrega-da-visualizacao-de-envio-exibe-uma-hora-incorreta-no-caso-de-varios-pacotes-ou-prazos",
     "internalReference": 264441
   },
@@ -21126,7 +21131,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-tabela-de-tamanhos-meli-nao-esta-funcionando-para-tamanhos-com-letras",
+    "slug": "a-tabela-de-tamanhos-da-meli-nao-funciona-para-tamanhos-com-letras",
     "internalReference": 867262
   },
   {
@@ -21461,6 +21466,11 @@
   },
   {
     "locale": "pt",
+    "slug": "magazine-luiza-o-pedido-cancelado-no-marketplace-nao-atualizou-o-status-no-vtex",
+    "internalReference": 865926
+  },
+  {
+    "locale": "pt",
     "slug": "magazine-luiza-os-pedidos-com-o-status-aprovado-no-marketplace-nao-estao-sendo-aprovados-no-vtex",
     "internalReference": 823443
   },
@@ -21468,11 +21478,6 @@
     "locale": "pt",
     "slug": "magazine-luiza-pedido-cancelado-no-marketplace-mas-nao-no-vtex",
     "internalReference": 792618
-  },
-  {
-    "locale": "pt",
-    "slug": "magazine-luiza-pedido-cancelado-no-marketplace-nao-atualizou-o-status-na-vtex",
-    "internalReference": 865926
   },
   {
     "locale": "pt",
@@ -23961,7 +23966,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-early-capture-esta-competindo-indevidamente-com-a-automatic-capture-na-authorizedotnet",
+    "slug": "a-funcao-captura-antecipada-esta-competindo-indevidamente-com-a-funcao-captura-automatica-no-authorizedotnet",
     "internalReference": 866068
   },
   {
@@ -25958,6 +25963,11 @@
     "locale": "pt",
     "slug": "o-desconto-nominal-nao-esta-sendo-aplicado-a-todos-os-itens-do-carrinho",
     "internalReference": 334130
+  },
+  {
+    "locale": "pt",
+    "slug": "o-desconto-nominal-o-multiplicador-unitario-podem-gerar-valores-negativos",
+    "internalReference": 867838
   },
   {
     "locale": "pt",
