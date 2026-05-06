@@ -12356,6 +12356,11 @@
   },
   {
     "locale": "es",
+    "slug": "magazine-luiza-el-pedido-cancelado-en-marketplace-no-se-ha-cancelado-en-vtex",
+    "internalReference": 792618
+  },
+  {
+    "locale": "es",
     "slug": "magazine-luiza-la-creacion-de-sku-falla-con-un-error-enganoso-que-indica-ya-existe-cuando-los-datos-no-han-cambiado",
     "internalReference": 1351096
   },
@@ -12401,7 +12406,7 @@
   },
   {
     "locale": "es",
-    "slug": "meli-el-atributo-se-envia-a-meli-sin-que-el-vendedor-lo-asigne",
+    "slug": "meli-el-atributo-se-envia-a-meli-sin-que-el-vendedor-lo-haya-asignado",
     "internalReference": 791380
   },
   {
@@ -12608,11 +12613,6 @@
     "locale": "es",
     "slug": "revista-luiza-los-pedidos-con-estado-aprobado-en-el-marketplace-no-se-estan-aprobando-en-vtex",
     "internalReference": 823443
-  },
-  {
-    "locale": "es",
-    "slug": "revista-luiza-pedido-cancelado-en-marketplace-no-cancelado-en-vtex",
-    "internalReference": 792618
   },
   {
     "locale": "es",
@@ -13951,7 +13951,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-exportacion-de-hojas-de-calculo-no-funciona-en-la-pestana-de-procesamiento-de-sku-recibido",
+    "slug": "la-exportacion-de-la-hoja-de-calculo-no-funciona-en-la-pestana-procesamiento-de-sku-recibidos",
     "internalReference": 792511
   },
   {
@@ -21416,6 +21416,11 @@
   },
   {
     "locale": "pt",
+    "slug": "magazine-luiza-pedido-cancelado-no-marketplace-mas-nao-no-vtex",
+    "internalReference": 792618
+  },
+  {
+    "locale": "pt",
     "slug": "magazine-luiza-pedido-cancelado-no-marketplace-nao-atualizou-o-status-na-vtex",
     "internalReference": 865926
   },
@@ -21471,7 +21476,7 @@
   },
   {
     "locale": "pt",
-    "slug": "meli-o-atributo-esta-sendo-enviado-para-o-meli-sem-ser-mapeado-pelo-vendedor",
+    "slug": "meli-o-atributo-esta-sendo-enviado-para-o-meli-sem-ter-sido-mapeado-pelo-vendedor",
     "internalReference": 791380
   },
   {
@@ -21708,11 +21713,6 @@
     "locale": "pt",
     "slug": "reservas-de-estoque-de-integracao-da-amazon-para-kits",
     "internalReference": 829583
-  },
-  {
-    "locale": "pt",
-    "slug": "revista-luiza-ordem-cancelada-no-marketplace-nao-foi-cancelada-na-vtex",
-    "internalReference": 792618
   },
   {
     "locale": "pt",
@@ -22961,6 +22961,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-exportacao-da-planilha-nao-esta-funcionando-na-guia-processamento-de-skus-recebidos",
+    "internalReference": 792511
+  },
+  {
+    "locale": "pt",
     "slug": "a-funcao-criar-vendedor-com-informacoes-adicionais-esta-apresentando-um-erro",
     "internalReference": 741110
   },
@@ -23038,11 +23043,6 @@
     "locale": "pt",
     "slug": "especificacoes-multiplicadas-pelo-catalogo",
     "internalReference": 919761
-  },
-  {
-    "locale": "pt",
-    "slug": "exportacao-de-planilhas-que-nao-funcionam-na-guia-de-processamento-da-sku-recebida",
-    "internalReference": 792511
   },
   {
     "locale": "pt",
@@ -24431,7 +24431,7 @@
   },
   {
     "locale": "pt",
-    "slug": "formato-incorreto-do-endereco-nos-enderecos-de-cobranca-meus-cartoes",
+    "slug": "formato-incorreto-do-endereco-nos-enderecos-de-cobranca-da-secao-meus-cartoes",
     "internalReference": 791779
   },
   {
