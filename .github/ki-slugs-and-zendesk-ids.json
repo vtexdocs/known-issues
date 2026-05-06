@@ -5171,6 +5171,11 @@
   },
   {
     "locale": "en",
+    "slug": ".md",
+    "internalReference": 631970
+  },
+  {
+    "locale": "en",
     "slug": "allow-in-the-new-order-admin-ui-return-values-without-relating-an-item",
     "internalReference": 519576
   },
@@ -13973,6 +13978,11 @@
     "locale": "es",
     "slug": "simulacion-de-envio-en-la-caja",
     "internalReference": 1204287
+  },
+  {
+    "locale": "es",
+    "slug": ".md",
+    "internalReference": 631970
   },
   {
     "locale": "es",
@@ -22923,6 +22933,11 @@
     "locale": "pt",
     "slug": "os-valores-minimo-e-maximo-da-logistica-afetam-o-fluxo-de-alocacao",
     "internalReference": 1227934
+  },
+  {
+    "locale": "pt",
+    "slug": ".md",
+    "internalReference": 631970
   },
   {
     "locale": "pt",
