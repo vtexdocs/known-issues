@@ -13286,6 +13286,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-configuracion-de-idioma-de-la-busqueda-inteligente-no-esta-sincronizada-con-la-configuracion-de-la-tienda",
+    "internalReference": 990343
+  },
+  {
+    "locale": "es",
     "slug": "la-emisora-no-notifica-todos-los-cambios-de-stock-al-modulo-de-busqueda-inteligente",
     "internalReference": 683345
   },
@@ -13398,11 +13403,6 @@
     "locale": "es",
     "slug": "las-variaciones-de-sku-no-vuelven-en-el-plp",
     "internalReference": 569563
-  },
-  {
-    "locale": "es",
-    "slug": "los-ajustes-de-idioma-de-la-busqueda-inteligente-no-estan-sincronizados-con-las-configuraciones-de-las-tiendas",
-    "internalReference": 990343
   },
   {
     "locale": "es",
@@ -22301,7 +22301,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-configuracoes-de-idioma-do-intelligent-search-nao-estao-sincronizadas-com-as-configuracoes-da-loja",
+    "slug": "as-configuracoes-de-idioma-da-pesquisa-inteligente-nao-estao-sincronizadas-com-as-configuracoes-da-loja",
     "internalReference": 990343
   },
   {
