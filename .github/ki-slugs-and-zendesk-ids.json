@@ -11386,6 +11386,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-vista-previa-de-los-gastos-de-envio-muestra-un-precio-incorrecto-cuando-se-trata-de-una-entrega-programada",
+    "internalReference": 532487
+  },
+  {
+    "locale": "es",
     "slug": "la-vista-previa-del-envio-informa-erroneamente-de-la-seleccion-de-la-recogida",
     "internalReference": 552912
   },
@@ -11393,11 +11398,6 @@
     "locale": "es",
     "slug": "la-vista-previa-del-envio-muestra-el-codigo-postal-de-recogida-para-el-envio-cuando-hay-un-paquete-dividido-para-la-recogida-y-el-envio",
     "internalReference": 938124
-  },
-  {
-    "locale": "es",
-    "slug": "la-vista-previa-del-envio-muestra-erroneamente-el-precio-cuando-se-trata-de-una-entrega-programada",
-    "internalReference": 532487
   },
   {
     "locale": "es",
@@ -16051,11 +16051,6 @@
   },
   {
     "locale": "es",
-    "slug": "cms-settings-role-no-funciona-como-se-esperaba",
-    "internalReference": 538706
-  },
-  {
-    "locale": "es",
     "slug": "cuando-un-componente-del-conjunto-esta-agotado-el-conjunto-aparece-como-agotado-en-los-resultados-de-busqueda",
     "internalReference": 342720
   },
@@ -16163,6 +16158,11 @@
     "locale": "es",
     "slug": "la-exportacion-de-redireccionamientos-desde-el-generador-de-url-del-cms-esta-limitada-a-65-536-registros",
     "internalReference": 492861
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-configuracion-de-cms-no-funciona-como-se-esperaba",
+    "internalReference": 538706
   },
   {
     "locale": "es",
@@ -17246,6 +17246,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-redirecciones-de-exportacion-no-funcionan-como-deberian",
+    "internalReference": 537962
+  },
+  {
+    "locale": "es",
     "slug": "linkid-no-se-esta-registrando-en-rewriter-cuando-se-traduce-con-graphql-catalogo",
     "internalReference": 654951
   },
@@ -17293,11 +17298,6 @@
     "locale": "es",
     "slug": "los-rastreadores-no-leen-la-ruta-de-navegacion-debido-a-un-tiempo-de-espera-de-ssr",
     "internalReference": 460999
-  },
-  {
-    "locale": "es",
-    "slug": "los-redireccionamientos-de-exportacion-no-funcionan-correctamente",
-    "internalReference": 537962
   },
   {
     "locale": "es",
@@ -19671,6 +19671,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-previsualizacao-do-frete-exibe-o-preco-incorretamente-quando-se-trata-de-uma-entrega-agendada",
+    "internalReference": 532487
+  },
+  {
+    "locale": "pt",
     "slug": "a-simulacao-de-checkout-retorna-o-valor-0-no-campo-slastax-para-impostos-de-porcentagem-de-frete",
     "internalReference": 1012724
   },
@@ -19713,11 +19718,6 @@
     "locale": "pt",
     "slug": "a-visualizacao-da-remessa-mostra-o-codigo-postal-de-retirada-para-remessa-quando-ha-divisao-de-pacotes-para-retirada-e-remessa",
     "internalReference": 938124
-  },
-  {
-    "locale": "pt",
-    "slug": "a-visualizacao-do-frete-esta-exibindo-erroneamente-o-preco-quando-a-entrega-esta-programada",
-    "internalReference": 532487
   },
   {
     "locale": "pt",
@@ -20417,6 +20417,11 @@
   {
     "locale": "pt",
     "slug": "o-ponto-de-retirada-nao-pode-ser-selecionado-em-marketplaces-com-vendedores-de-varios-niveis",
+    "internalReference": 524073
+  },
+  {
+    "locale": "pt",
+    "slug": "o-ponto-de-retirada-nao-pode-ser-selecionado-em-marketplaces-com-vendedores-em-varios-niveis",
     "internalReference": 524073
   },
   {
@@ -24926,7 +24931,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-funcao-de-configuracoes-do-cms-nao-esta-funcionando-como-esperado",
+    "slug": "a-funcao-configuracoes-do-cms-nao-esta-funcionando-como-esperado",
     "internalReference": 538706
   },
   {
@@ -26246,7 +26251,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-redirecionamentos-de-exportacao-nao-estao-funcionando-como-esperado",
+    "slug": "os-redirecionamentos-de-exportacao-nao-estao-funcionando-como-deveriam",
     "internalReference": 537962
   },
   {
