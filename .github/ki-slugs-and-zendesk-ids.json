@@ -6061,6 +6061,11 @@
   },
   {
     "locale": "en",
+    "slug": "error-exporting-large-amount-of-giftcards",
+    "internalReference": 288436
+  },
+  {
+    "locale": "en",
     "slug": "error-in-checkout-error-message",
     "internalReference": 409895
   },
@@ -10626,7 +10631,7 @@
   },
   {
     "locale": "es",
-    "slug": "direccion-en-orderform-con-tamano-excesivo-para-multiples-ciudades-separadas-por",
+    "slug": "direccion-en-el-formulario-de-pedido-con-un-tamano-excesivo-para-varias-ciudades-separadas-por",
     "internalReference": 287854
   },
   {
@@ -14761,7 +14766,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-al-exportar-una-gran-cantidad-de-giftcards",
+    "slug": "error-al-exportar-una-gran-cantidad-de-tarjetas-regalo",
     "internalReference": 288436
   },
   {
@@ -19726,7 +19731,7 @@
   },
   {
     "locale": "pt",
-    "slug": "endereco-em-ordemforma-com-tamanho-excessivo-para-multiplas-cidades-separadas-por",
+    "slug": "endereco-no-formulario-de-pedido-com-tamanho-excessivo-para-varias-cidades-separadas-por",
     "internalReference": 287854
   },
   {
@@ -23641,7 +23646,7 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-ao-exportar-uma-grande-quantidade-de-giftcards",
+    "slug": "erro-ao-exportar-uma-grande-quantidade-de-cartoespresente",
     "internalReference": 288436
   },
   {
