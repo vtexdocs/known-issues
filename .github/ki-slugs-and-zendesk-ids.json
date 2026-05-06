@@ -13121,7 +13121,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-actualizacion-del-banner-de-busqueda-inteligente-a-traves-de-la-url-de-la-imagen-no-funciona-correctamente",
+    "slug": "la-actualizacion-del-banner-de-busqueda-inteligente-mediante-la-url-de-la-imagen-no-funciona-correctamente",
     "internalReference": 734833
   },
   {
@@ -17576,7 +17576,7 @@
   },
   {
     "locale": "es",
-    "slug": "version-de-escritorio-del-sitio-cuando-se-accede-a-traves-de-ipad-en-safari",
+    "slug": "visualizacion-del-sitio-en-version-de-escritorio-al-acceder-desde-un-ipad-con-safari",
     "internalReference": 735208
   },
   {
@@ -21926,7 +21926,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-atualizacao-do-banner-do-intelligent-search-por-meio-do-url-da-imagem-nao-funciona-corretamente",
+    "slug": "a-atualizacao-do-banner-de-pesquisa-inteligente-por-meio-do-url-da-imagem-nao-funciona-corretamente",
     "internalReference": 734833
   },
   {
@@ -26208,6 +26208,11 @@
     "locale": "pt",
     "slug": "erros-de-tempo-limite-da-plataforma",
     "internalReference": 1051070
+  },
+  {
+    "locale": "pt",
+    "slug": "exibicao-do-site-na-versao-para-desktop-ao-acessar-pelo-ipad-no-safari",
+    "internalReference": 735208
   },
   {
     "locale": "pt",
