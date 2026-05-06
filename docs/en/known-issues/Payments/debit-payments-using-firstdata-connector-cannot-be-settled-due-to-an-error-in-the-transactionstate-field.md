@@ -2,8 +2,8 @@
 title: 'Debit payments using Firstdata connector cannot be settled due to an error in the TransactionState field'
 slug: debit-payments-using-firstdata-connector-cannot-be-settled-due-to-an-error-in-the-transactionstate-field
 status: PUBLISHED
-createdAt: 2025-11-14T19:27:00.170Z
-updatedAt: 2025-11-14T19:27:00.170Z
+createdAt: 2021-11-02T17:34:01.000Z
+updatedAt: 2023-06-23T17:24:36.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,24 +16,15 @@ internalReference: 461095
 
 ## Summary
 
-
 When utilizing the Firstdata connector for processing debit payments, our code is designed to expect the field TransactionState to be set as "CAPTURED." However, we have encountered an issue where the provider is sending both "CAPTURED" and "SETTLED" values, which is causing an error to occur:
 
 
     Error Message: Unknown Error on AutoSettle. There is an error in the XML document (1, 745). & Error executing the Settlement operation. Please refer to the inner exception. Connector: Firstdata. Message: Input string was not in the correct format.
 
-
-
-#### Simulation
-
+## Simulation
 
 It is not possible to simulate since it is an intermittent behavior that depends on the payment provider's response.
 
-
-#### Workaround
-
+## Workaround
 
 N/A
-
-
-
