@@ -2,8 +2,8 @@
 title: 'CatalogV2 User Roles not Applying'
 slug: catalogv2-user-roles-not-applying
 status: PUBLISHED
-createdAt: 2026-03-06T19:25:33.473Z
-updatedAt: 2026-03-06T19:25:33.473Z
+createdAt: 2021-12-16T18:28:26.000Z
+updatedAt: 2026-03-06T22:25:04.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
