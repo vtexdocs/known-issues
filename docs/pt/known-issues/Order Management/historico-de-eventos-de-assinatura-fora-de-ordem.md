@@ -1,11 +1,9 @@
 ---
 title: 'Histórico de eventos de assinatura fora de ordem'
-id: 5w78uE60pzjfOagGnRA2d5
+slug: historico-de-eventos-de-assinatura-fora-de-ordem
 status: PUBLISHED
-createdAt: 2023-08-01T18:53:21.754Z
-updatedAt: 2023-08-01T18:53:22.303Z
-publishedAt: 2023-08-01T18:53:22.303Z
-firstPublishedAt: 2023-08-01T18:53:22.303Z
+createdAt: 2023-08-01T18:53:08.000Z
+updatedAt: 2023-08-01T18:53:08.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,29 +14,21 @@ kiStatus: Backlog
 internalReference: 872697
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
-Atualmente, o Histórico de assinatura na área Minha assinatura não exibe os eventos em uma ordem predefinida, portanto, pode mostrar os eventos em ordem não cronológica;
+Atualmente, o Histórico de assinaturas na área Minhas assinaturas não exibe os eventos em uma ordem predefinida, podendo, portanto, mostrá-los em ordem não cronológica;
 
 ## Simulação
 
+Utilizando uma assinatura que tenha gerado mais de um pedido;
 
-Usando uma assinatura que teve mais de um pedido gerado;
-
-1- Entre na área de histórico;
+1-  Acesse a área de histórico;
 2- A lista de eventos exibida não estará em ordem cronológica;
 
-OBSERVAÇÃO: Em alguns casos, o cenário pode não ser percebido porque apenas alguns eventos estão fora da ordem cronológica
+NOTA: Em alguns casos, o cenário pode passar despercebido, pois apenas alguns eventos estão fora da ordem cronológica.
 
 ## Workaround
 
-
-
-Atualmente, não há nenhuma solução alternativa para esse comportamento
-
-
-
-
+Atualmente, não há solução alternativa para esse comportamento
