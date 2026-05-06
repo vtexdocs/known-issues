@@ -14956,11 +14956,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-hub-de-la-tarjeta-regalo-acepta-un-id-no-validovacio-como-respuesta-para-crear-una-transaccion",
-    "internalReference": 855864
-  },
-  {
-    "locale": "es",
     "slug": "el-hub-de-tarjetas-de-regalo-establece-r-como-moneda-automatica-en-la-interfaz-de-usuario",
     "internalReference": 690794
   },
@@ -15208,6 +15203,11 @@
     "locale": "es",
     "slug": "formato-de-direccion-incorrecto-en-las-direcciones-de-facturacion-de-mis-tarjetas",
     "internalReference": 791779
+  },
+  {
+    "locale": "es",
+    "slug": "gift-card-hub-acepta-un-identificador-no-valido-o-vacio-al-intentar-crear-una-transaccion",
+    "internalReference": 855864
   },
   {
     "locale": "es",
@@ -17076,6 +17076,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-produce-un-error-al-modificar-un-indice-si-los-campos-son-identicos",
+    "internalReference": 854634
+  },
+  {
+    "locale": "es",
     "slug": "al-desactivar-el-service-worker-nativo-no-es-posible-utilizar-uno-personalizado",
     "internalReference": 770949
   },
@@ -17346,6 +17351,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-accion-pageview-se-activa-dos-veces-al-acceder-a-mi-cuenta",
+    "internalReference": 854480
+  },
+  {
+    "locale": "es",
     "slug": "la-aplicacion-ab-tester-muestra-informacion-erronea-sobre-sesiones-y-conversion",
     "internalReference": 865727
   },
@@ -17543,11 +17553,6 @@
     "locale": "es",
     "slug": "ogtitle-no-tiene-en-cuenta-la-bandera-removestorenametitle-en-las-paginas-de-producto",
     "internalReference": 1242243
-  },
-  {
-    "locale": "es",
-    "slug": "pageview-se-activa-dos-veces-al-acceder-a-mi-cuenta",
-    "internalReference": 854480
   },
   {
     "locale": "es",
@@ -24811,13 +24816,13 @@
   },
   {
     "locale": "pt",
-    "slug": "o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao",
-    "internalReference": 491195
+    "slug": "o-gift-card-hub-aceita-um-id-invalidovazio-ao-criar-uma-transacao",
+    "internalReference": 855864
   },
   {
     "locale": "pt",
-    "slug": "o-hub-do-gift-card-aceita-id-invalidavazia-em-resposta-a-criacao-da-transacao",
-    "internalReference": 855864
+    "slug": "o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao",
+    "internalReference": 491195
   },
   {
     "locale": "pt",
@@ -26516,6 +26521,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-evento-pageview-e-acionado-duas-vezes-ao-acessar-minha-conta",
+    "internalReference": 854480
+  },
+  {
+    "locale": "pt",
     "slug": "o-evento-productclick-considera-o-id-de-sku-incorreto",
     "internalReference": 788145
   },
@@ -26603,11 +26613,6 @@
     "locale": "pt",
     "slug": "o-modulo-cms-redirects-abre-paginas-de-redirecionamento-quando-elas-tem-uma-string-de-consulta-bindingaddress",
     "internalReference": 1115321
-  },
-  {
-    "locale": "pt",
-    "slug": "o-pageview-e-acionado-duas-vezes-ao-acessar-o-my-account",
-    "internalReference": 854480
   },
   {
     "locale": "pt",
