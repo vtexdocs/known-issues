@@ -3,7 +3,7 @@ title: 'A opção "Selecionar um bloco" não funciona corretamente quando as ext
 slug: a-opcao-selecionar-um-bloco-nao-funciona-corretamente-quando-as-extensoes-de-pagina-sao-carregadas-de-forma-diferida-no-editor-do-site
 status: PUBLISHED
 createdAt: 2026-05-07T17:22:03.000Z
-updatedAt: 2026-05-07T17:22:03.000Z
+updatedAt: 2026-05-07T17:26:54.000Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
@@ -25,7 +25,7 @@ O recurso "Selecionar um bloco" no Editor do Site não funciona corretamente em 
 1. Acesse o Editor do Site de uma loja com uma página que tenha um grande número de blocos ou com o sinalizador “Ativar execução diferida” ativo.
 2. Navegue até a página afetada por meio da URL do Editor do Site.
 3. Clique no botão “Selecionar um bloco” na barra superior.
-4. Passe o mouse sobre os elementos no iframe da loja.
+4. Passe o mouse sobre os elementos no iframe da vitrine.
 5. Observe que nenhum bloco é destacado e que clicar nos elementos não tem efeito.
 
 Para confirmar se o problema está relacionado ao carregamento diferido de extensões, verifique se o problema persiste ao recarregar a página e se ocorre com mais frequência em páginas mais pesadas.
