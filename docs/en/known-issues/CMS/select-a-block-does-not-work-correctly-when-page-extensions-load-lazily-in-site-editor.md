@@ -3,7 +3,7 @@ title: '"Select a Block" Does Not Work Correctly When Page Extensions Load Lazil
 slug: select-a-block-does-not-work-correctly-when-page-extensions-load-lazily-in-site-editor
 status: PUBLISHED
 createdAt: 2026-05-07T17:22:03.000Z
-updatedAt: 2026-05-07T17:22:03.000Z
+updatedAt: 2026-05-07T17:26:54.000Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
