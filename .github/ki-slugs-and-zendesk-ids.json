@@ -3691,6 +3691,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
+    "internalReference": 1403557
+  },
+  {
+    "locale": "en",
     "slug": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
     "internalReference": 1325344
   },
@@ -12613,6 +12618,11 @@
     "locale": "es",
     "slug": "mercado-livre-la-interfaz-de-usuario-de-promociones-muestra-el-mensaje-lo-sentimos-se-ha-producido-un-error-debido-a-los-limites-de-solicitudes-de-mercado-livre-modulo-promociones",
     "internalReference": 797143
+  },
+  {
+    "locale": "es",
+    "slug": "mercado-livre-origenes-multiples-pedidos-asignados-a-existencias-inactivas",
+    "internalReference": 1403557
   },
   {
     "locale": "es",
@@ -21698,6 +21708,11 @@
     "locale": "pt",
     "slug": "mercado-livre-menu-bridge-orders-nao-mostra-as-informacoes-de-shippingid",
     "internalReference": 1001903
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-multiorigem-pedidos-alocados-ao-estoque-inativo",
+    "internalReference": 1403557
   },
   {
     "locale": "pt",
