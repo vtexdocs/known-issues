@@ -5006,6 +5006,11 @@
   },
   {
     "locale": "en",
+    "slug": "category-mapping-spreadsheet-does-not-include-offers-in-waitingreview",
+    "internalReference": 1401046
+  },
+  {
+    "locale": "en",
     "slug": "create-seller-with-additional-information-is-returning-an-error",
     "internalReference": 741110
   },
@@ -14028,6 +14033,11 @@
     "locale": "es",
     "slug": "la-exportacion-de-la-hoja-de-calculo-no-funciona-en-la-pestana-procesamiento-de-sku-recibidos",
     "internalReference": 792511
+  },
+  {
+    "locale": "es",
+    "slug": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-las-ofertas-en-en-espera-de-revision",
+    "internalReference": 1401046
   },
   {
     "locale": "es",
@@ -23158,6 +23168,11 @@
     "locale": "pt",
     "slug": "a-pesquisa-por-ean-nao-esta-funcionando-nos-skus-recebidos",
     "internalReference": 510907
+  },
+  {
+    "locale": "pt",
+    "slug": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-aguardando-revisao",
+    "internalReference": 1401046
   },
   {
     "locale": "pt",
