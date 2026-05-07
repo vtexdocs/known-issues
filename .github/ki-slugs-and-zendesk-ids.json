@@ -486,6 +486,11 @@
   },
   {
     "locale": "en",
+    "slug": "select-a-block-does-not-work-correctly-when-page-extensions-load-lazily-in-site-editor",
+    "internalReference": 1403234
+  },
+  {
+    "locale": "en",
     "slug": "site-editor-content-set-to-apply-to-specific-categories-isnt-displayed-if-the-category-is-not-accessed-using-its-direct-link",
     "internalReference": 371994
   },
@@ -9108,6 +9113,11 @@
     "locale": "es",
     "slug": "la-imagen-en-miniatura-del-video-personalizado-no-se-muestra-en-la-version-movil",
     "internalReference": 412632
+  },
+  {
+    "locale": "es",
+    "slug": "la-opcion-seleccionar-un-bloque-no-funciona-correctamente-cuando-las-extensiones-de-pagina-se-cargan-de-forma-diferida-en-el-editor-del-sitio",
+    "internalReference": 1403234
   },
   {
     "locale": "es",
@@ -18143,6 +18153,11 @@
     "locale": "pt",
     "slug": "a-listagem-de-tipos-de-conteudo-nao-tem-como-ser-rolada-para-baixo",
     "internalReference": 1271990
+  },
+  {
+    "locale": "pt",
+    "slug": "a-opcao-selecionar-um-bloco-nao-funciona-corretamente-quando-as-extensoes-de-pagina-sao-carregadas-de-forma-diferida-no-editor-do-site",
+    "internalReference": 1403234
   },
   {
     "locale": "pt",
