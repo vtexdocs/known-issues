@@ -3,7 +3,7 @@ title: 'La opción «Seleccionar un bloque» no funciona correctamente cuando la
 slug: la-opcion-seleccionar-un-bloque-no-funciona-correctamente-cuando-las-extensiones-de-pagina-se-cargan-de-forma-diferida-en-el-editor-del-sitio
 status: PUBLISHED
 createdAt: 2026-05-07T17:22:03.000Z
-updatedAt: 2026-05-07T17:22:03.000Z
+updatedAt: 2026-05-07T17:26:54.000Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
@@ -24,7 +24,7 @@ La función «Seleccionar un bloque» del Editor del sitio no funciona correctam
 
 1. Accede al Editor del sitio de una tienda con una página que tenga un gran número de bloques o con el indicador «Habilitar tiempo de ejecución diferido» activo.
 2. Navega hasta la página afectada a través de la URL del Editor del sitio.
-3. Haga clic en el botón «Seleccionar un bloque» en la barra superior.
+3. Haga clic en el botón «Seleccionar un bloque» de la barra superior.
 4. Pase el cursor por encima de los elementos del iframe de la tienda.
 5. Observe que no aparece ningún bloque resaltado y que al hacer clic en los elementos no ocurre nada.
 
