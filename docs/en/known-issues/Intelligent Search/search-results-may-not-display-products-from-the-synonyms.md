@@ -2,8 +2,8 @@
 title: 'Search results may not display products from the synonyms'
 slug: search-results-may-not-display-products-from-the-synonyms
 status: PUBLISHED
-createdAt: 2026-04-14T19:22:38.216Z
-updatedAt: 2026-04-14T19:22:38.216Z
+createdAt: 2024-09-06T21:15:38.000Z
+updatedAt: 2026-05-07T16:18:32.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -29,6 +29,7 @@ To ensure that this issue is happening, be aware of the following evidence:
 - On **Admin > Storefront > Intelligent Search > Synonyms**, create or update an unidirectional synonym.
 - Then, on **Admin > Storefront > Intelligent Search >  Explained Search**, compare the results when searching for the original term and the synonym.
 - When comparing the results, the results when searching for the synonym don't include all the products when searching for the original specific term.
+
 
 2 - The last re-index date of a product is older than the date of the synonym creation.
 
