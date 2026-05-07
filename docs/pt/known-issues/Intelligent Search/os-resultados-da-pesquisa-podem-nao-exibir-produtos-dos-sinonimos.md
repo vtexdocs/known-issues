@@ -2,8 +2,8 @@
 title: 'Os resultados da pesquisa podem não exibir produtos dos sinônimos'
 slug: os-resultados-da-pesquisa-podem-nao-exibir-produtos-dos-sinonimos
 status: PUBLISHED
-createdAt: 2026-04-14T19:22:41.321Z
-updatedAt: 2026-04-14T19:22:41.321Z
+createdAt: 2024-09-06T21:15:38.000Z
+updatedAt: 2026-05-07T16:18:32.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -28,9 +28,10 @@ Para confirmar se esse problema está ocorrendo, observe as seguintes evidência
 
 1 - O número de resultados difere entre si.
 
-- Em **Admin > Loja > Pesquisa Inteligente > Sinônimos**, crie ou atualize um sinônimo unidirecional.
+- Em **Admin > Loja virtual > Pesquisa Inteligente > Sinônimos**, crie ou atualize um sinônimo unidirecional.
 - Em seguida, em **Admin > Loja > Pesquisa Inteligente >  Pesquisa Explicada**, compare os resultados ao pesquisar o termo original e o sinônimo.
-- Ao comparar os resultados, os resultados da pesquisa pelo sinônimo não incluem todos os produtos encontrados na pesquisa pelo termo específico original.
+- Ao comparar os resultados, os resultados da pesquisa pelo sinônimo não incluem todos os produtos que aparecem na pesquisa pelo termo específico original.
+
 
 2 - A data da última reindexação de um produto é anterior à data de criação do sinônimo.
 
