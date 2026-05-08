@@ -2341,6 +2341,11 @@
   },
   {
     "locale": "en",
+    "slug": "extra-gifts-remain-in-cart-when-main-item-exceeds-available-stock",
+    "internalReference": 1404248
+  },
+  {
+    "locale": "en",
     "slug": "failure-to-add-data-in-the-deliver-to-another-address-step-causes-the-go-to-payment-button-to-disappear",
     "internalReference": 467419
   },
@@ -11726,6 +11731,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-regalos-adicionales-permanecen-en-el-carrito-cuando-el-articulo-principal-supera-las-existencias-disponibles",
+    "internalReference": 1404248
+  },
+  {
+    "locale": "es",
     "slug": "los-usuarios-registrados-que-no-han-iniciado-sesion-no-pueden-finalizar-el-proceso-de-pago-cuando-cambian-de-entrega-a-recogida-en-la-pagina-de-pag",
     "internalReference": 870845
   },
@@ -21043,6 +21053,11 @@
     "locale": "pt",
     "slug": "os-precos-dos-servicos-nao-sao-atualizados-quando-adicionados-aos-itens",
     "internalReference": 822107
+  },
+  {
+    "locale": "pt",
+    "slug": "os-presentes-adicionais-permanecem-no-carrinho-quando-o-item-principal-excede-o-estoque-disponivel",
+    "internalReference": 1404248
   },
   {
     "locale": "pt",
