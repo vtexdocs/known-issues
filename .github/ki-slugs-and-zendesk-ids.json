@@ -1911,6 +1911,11 @@
   },
   {
     "locale": "en",
+    "slug": "attachments-lost-after-item-split-when-using-checkoutgraphql-addtocart",
+    "internalReference": 1404093
+  },
+  {
+    "locale": "en",
     "slug": "attachments-permitted-values-are-not-updated-when-its-added-to-items",
     "internalReference": 920970
   },
@@ -11901,6 +11906,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-pierden-los-archivos-adjuntos-tras-dividir-un-articulo-al-utilizar-checkoutgraphql-addtocart",
+    "internalReference": 1404093
+  },
+  {
+    "locale": "es",
     "slug": "seleccion-de-ventana-de-entrega-programada-parcial-para-el-mismo-sla-que-afecta-al-flujo-de-compra",
     "internalReference": 627261
   },
@@ -20183,6 +20193,11 @@
     "locale": "pt",
     "slug": "alteracao-da-janela-de-entrega-programada-para-todos-os-itens-ao-selecionar-um-item-comum-no-carrinho-com-varios-vendedores",
     "internalReference": 1089806
+  },
+  {
+    "locale": "pt",
+    "slug": "anexos-perdidos-apos-a-divisao-do-item-ao-usar-o-checkoutgraphql-addtocart",
+    "internalReference": 1404093
   },
   {
     "locale": "pt",
