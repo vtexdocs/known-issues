@@ -3,7 +3,7 @@ title: 'A função "Pesquisa inteligente de sinônimos" não recria sinônimos e
 slug: a-funcao-pesquisa-inteligente-de-sinonimos-nao-recria-sinonimos-excluidos
 status: PUBLISHED
 createdAt: 2025-04-15T17:30:12.000Z
-updatedAt: 2026-05-11T17:51:45.000Z
+updatedAt: 2026-05-11T17:54:35.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
