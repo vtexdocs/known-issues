@@ -2,8 +2,8 @@
 title: 'A ação “Novo usuário” está desativada em “Minha organização” no domínio público'
 slug: a-acao-novo-usuario-esta-desativada-em-minha-organizacao-no-dominio-publico
 status: PUBLISHED
-createdAt: 2026-03-25T20:05:51.136Z
-updatedAt: 2026-03-25T20:05:51.136Z
+createdAt: 2026-03-25T22:04:15.000Z
+updatedAt: 2026-05-11T18:52:34.000Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -34,4 +34,4 @@ Na versão mais recente do aplicativo `vtex.b2b-organizations` (v3.x), os usuár
 
 ## Workaround
 
-Realize o gerenciamento de usuários (adição de usuários) a partir do domínio myvtex, onde o botão “NOVO” está habilitado, ou por meio da mutação `AddUser` do GraphQL do aplicativo `vtex.b2b-organizations-graphql`.
+Realize o gerenciamento de usuários (adição de usuários) a partir do domínio myvtex, onde o botão “NOVO” está habilitado, ou por meio da mutação GraphQL `AddUser` do aplicativo `vtex.b2b-organizations-graphql`.
