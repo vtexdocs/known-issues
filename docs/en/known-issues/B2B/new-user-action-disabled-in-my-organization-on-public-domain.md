@@ -2,8 +2,8 @@
 title: '“New user” action disabled in My Organization on public domain'
 slug: new-user-action-disabled-in-my-organization-on-public-domain
 status: PUBLISHED
-createdAt: 2026-03-25T20:05:46.710Z
-updatedAt: 2026-03-25T20:05:46.710Z
+createdAt: 2026-03-25T22:04:15.000Z
+updatedAt: 2026-05-11T18:52:34.000Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
