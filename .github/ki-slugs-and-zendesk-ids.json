@@ -13296,11 +13296,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-busqueda-inteligente-de-sinonimos-no-vuelve-a-crear-los-sinonimos-eliminados",
-    "internalReference": 1211321
-  },
-  {
-    "locale": "es",
     "slug": "la-busqueda-inteligente-multilingue-no-admite-dos-variantes-del-mismo-idioma-o-dialecto",
     "internalReference": 841704
   },
@@ -13338,6 +13333,11 @@
     "locale": "es",
     "slug": "la-emisora-no-notifica-todos-los-cambios-de-stock-al-modulo-de-busqueda-inteligente",
     "internalReference": 683345
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-busqueda-inteligente-de-sinonimos-no-vuelve-a-crear-los-sinonimos-eliminados",
+    "internalReference": 1211321
   },
   {
     "locale": "es",
@@ -22296,6 +22296,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-funcao-pesquisa-inteligente-de-sinonimos-nao-recria-sinonimos-excluidos",
+    "internalReference": 1211321
+  },
+  {
+    "locale": "pt",
     "slug": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao",
     "internalReference": 1398224
   },
@@ -22603,11 +22608,6 @@
     "locale": "pt",
     "slug": "o-intelligent-search-pode-gerar-um-erro-quando-um-produtosku-tem-uma-especificacao-com-o-mesmo-nome-de-um-campo-nativo",
     "internalReference": 1336576
-  },
-  {
-    "locale": "pt",
-    "slug": "o-intelligent-search-synonyms-nao-recria-sinonimos-excluidos",
-    "internalReference": 1211321
   },
   {
     "locale": "pt",
