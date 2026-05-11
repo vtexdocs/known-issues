@@ -3,7 +3,7 @@ title: 'Intelligent Search Synonyms does not re-create deleted synonyms'
 slug: intelligent-search-synonyms-does-not-recreate-deleted-synonyms
 status: PUBLISHED
 createdAt: 2025-04-15T17:30:12.000Z
-updatedAt: 2026-05-11T17:51:45.000Z
+updatedAt: 2026-05-11T17:54:35.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
