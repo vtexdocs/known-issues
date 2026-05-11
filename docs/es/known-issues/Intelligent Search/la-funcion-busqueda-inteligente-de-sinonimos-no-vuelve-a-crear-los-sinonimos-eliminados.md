@@ -3,7 +3,7 @@ title: 'La función «Búsqueda inteligente de sinónimos» no vuelve a crear lo
 slug: la-funcion-busqueda-inteligente-de-sinonimos-no-vuelve-a-crear-los-sinonimos-eliminados
 status: PUBLISHED
 createdAt: 2025-04-15T17:30:12.000Z
-updatedAt: 2026-05-11T17:51:45.000Z
+updatedAt: 2026-05-11T17:54:35.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,7 +18,7 @@ internalReference: 1211321
 
 ## Sumario
 
-La función «Búsqueda inteligente de sinónimos» no vuelve a crear un sinónimo tras haberlo eliminado.
+La función «Búsqueda inteligente de sinónimos» no vuelve a crear un sinónimo tras eliminarlo.
 
 Este comportamiento se produce al crear o importar un sinónimo que ya ha sido eliminado.
 
