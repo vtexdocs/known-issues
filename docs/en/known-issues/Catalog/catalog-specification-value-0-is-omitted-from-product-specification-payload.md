@@ -3,7 +3,7 @@ title: 'Catalog specification value 0 is omitted from product specification payl
 slug: catalog-specification-value-0-is-omitted-from-product-specification-payload
 status: PUBLISHED
 createdAt: 2026-05-12T17:13:15.000Z
-updatedAt: 2026-05-12T17:13:15.000Z
+updatedAt: 2026-05-12T18:46:21.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -30,4 +30,8 @@ When a numeric type specification contains the number "0" within it as its sole 
 
 ## Workaround
 
-fetch the data by other menas (ex: sheets)
+Change the specification type
+
+or
+
+ fetch the data by other menas (ex: sheets)
