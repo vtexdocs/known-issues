@@ -6196,6 +6196,11 @@
   },
   {
     "locale": "en",
+    "slug": "error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first",
+    "internalReference": 1118560
+  },
+  {
+    "locale": "en",
     "slug": "error-when-settling-transaction-with-2-cards-mercadopagov1",
     "internalReference": 395943
   },
@@ -16046,6 +16051,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-ha-producido-un-error-al-procesar-el-segundo-reembolso-o-la-segunda-cancelacion-con-el-mismo-importe-que-el-primero",
+    "internalReference": 1118560
+  },
+  {
+    "locale": "es",
     "slug": "se-muestran-marcadores-de-posicion-en-lugar-de-los-datos-correctos",
     "internalReference": 371183
   },
@@ -24597,6 +24607,11 @@
   {
     "locale": "pt",
     "slug": "erro-ao-processar-o-segundo-reembolso-do-mesmo-valor-que-o-primeiro-o-cartaopresente-ja-foi-reembolsado",
+    "internalReference": 1118560
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-ao-processar-o-segundo-reembolso-ou-cancelamento-com-o-mesmo-valor-do-primeiro",
     "internalReference": 1118560
   },
   {
