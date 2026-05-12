@@ -3,7 +3,7 @@ title: 'El valor 0 de la especificación del catálogo se omite en la carga úti
 slug: el-valor-0-de-la-especificacion-del-catalogo-se-omite-en-la-carga-util-de-la-especificacion-del-producto
 status: PUBLISHED
 createdAt: 2026-05-12T17:13:15.000Z
-updatedAt: 2026-05-12T17:13:15.000Z
+updatedAt: 2026-05-12T18:46:21.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -32,4 +32,8 @@ Cuando una especificación de tipo numérico contiene el número «0» como úni
 
 ## Workaround
 
-Recuperar los datos por otros medios (p. ej.: hojas de cálculo)
+Cambiar el tipo de especificación
+
+o
+
+ recuperar los datos por otros medios (p. ej.: hojas)
