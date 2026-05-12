@@ -4156,6 +4156,11 @@
   },
   {
     "locale": "en",
+    "slug": "autocomplete-history-searches-with-the-character-are-breaking-the-search-result-page",
+    "internalReference": 1405490
+  },
+  {
+    "locale": "en",
     "slug": "autocomplete-not-answering-to-cold-starts",
     "internalReference": 418573
   },
@@ -13406,6 +13411,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-busquedas-en-el-historial-de-autocompletado-con-el-caracter-estan-provocando-errores-en-la-pagina-de-resultados-de-busqueda",
+    "internalReference": 1405490
+  },
+  {
+    "locale": "es",
     "slug": "las-cuentas-con-en-el-nombre-no-tienen-metricas-en-el-informe-de-busqueda",
     "internalReference": 1344531
   },
@@ -22418,6 +22428,11 @@
     "locale": "pt",
     "slug": "as-facetas-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-depois-de-clicar-em-mostrar-mais",
     "internalReference": 1341077
+  },
+  {
+    "locale": "pt",
+    "slug": "as-pesquisas-no-historico-de-autocompletar-com-o-caractere-estao-prejudicando-a-pagina-de-resultados-da-pesquisa",
+    "internalReference": 1405490
   },
   {
     "locale": "pt",
