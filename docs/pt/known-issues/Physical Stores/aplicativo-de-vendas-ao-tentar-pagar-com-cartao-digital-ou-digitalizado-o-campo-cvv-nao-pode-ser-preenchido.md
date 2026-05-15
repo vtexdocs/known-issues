@@ -3,7 +3,7 @@ title: 'Aplicativo de vendas Ao tentar pagar com cartão digital ou digitalizado
 slug: aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-o-campo-cvv-nao-pode-ser-preenchido
 status: PUBLISHED
 createdAt: 2026-03-18T23:07:59.000Z
-updatedAt: 2026-05-15T19:48:05.000Z
+updatedAt: 2026-05-15T19:48:20.000Z
 contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
@@ -23,7 +23,7 @@ No método de pagamento em que o cliente pode inserir ou digitalizar os dados do
 ## Simulação
 
 Pelo menos um método de pagamento com cartão de crédito deve estar ativo no aplicativo de vendas
-Crie um carrinho e vá para a etapa final (pagamento)
+Monte um carrinho e vá para a etapa final (pagamento)
  - Para simular com o recurso de leitura do cartão, acesse pelo aplicativo móvel.
 
 ## Workaround
