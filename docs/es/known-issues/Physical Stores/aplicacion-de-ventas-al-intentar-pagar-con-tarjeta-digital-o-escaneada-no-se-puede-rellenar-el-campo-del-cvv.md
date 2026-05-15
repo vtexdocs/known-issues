@@ -2,15 +2,15 @@
 title: 'Aplicación de ventas Al intentar pagar con tarjeta digital o escaneada, no se puede rellenar el campo del CVV'
 slug: aplicacion-de-ventas-al-intentar-pagar-con-tarjeta-digital-o-escaneada-no-se-puede-rellenar-el-campo-del-cvv
 status: PUBLISHED
-createdAt: 2026-03-18T20:08:33.287Z
-updatedAt: 2026-03-18T20:08:33.287Z
+createdAt: 2026-03-18T23:07:59.000Z
+updatedAt: 2026-05-15T19:48:05.000Z
 contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
 tag: Physical Stores
 slugEN: sales-app-when-attempting-to-pay-with-digit-or-scan-card-the-cvv-field-cant-be-filled
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1380651
 ---
 
@@ -28,4 +28,4 @@ Crea un carrito y ve al paso final (pago).
 
 ## Workaround
 
-n/a
+N/A
