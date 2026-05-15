@@ -3,7 +3,7 @@ title: 'Aplicación de ventas Al intentar pagar con tarjeta digital o escaneada,
 slug: aplicacion-de-ventas-al-intentar-pagar-con-tarjeta-digital-o-escaneada-no-se-puede-rellenar-el-campo-del-cvv
 status: PUBLISHED
 createdAt: 2026-03-18T23:07:59.000Z
-updatedAt: 2026-05-15T19:48:05.000Z
+updatedAt: 2026-05-15T19:48:20.000Z
 contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
@@ -24,8 +24,8 @@ En el método de pago en el que el cliente puede introducir o escanear los datos
 
 Debe haber al menos un método de pago con tarjeta de crédito activo en la aplicación de ventas.
 Crea un carrito y ve al paso final (pago).
- - Para simularlo con la función de escaneo de tarjetas, accede a través de la aplicación móvil.
+ - Para simularlo con la función de escanear la tarjeta, accede a través de la aplicación móvil.
 
 ## Workaround
 
-N/A
+n/a
