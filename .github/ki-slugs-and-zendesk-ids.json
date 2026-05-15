@@ -1876,6 +1876,11 @@
   },
   {
     "locale": "en",
+    "slug": "address-forms-map-marker-component-does-not-update-the-complete-address",
+    "internalReference": 1407777
+  },
+  {
+    "locale": "en",
     "slug": "address-in-orderform-with-excessive-size-for-multiples-cities-separated-by",
     "internalReference": 287854
   },
@@ -10928,6 +10933,11 @@
     "locale": "es",
     "slug": "el-componente-de-envio-se-encuentra-bloqueado-en-el-estado-a-la-espera-de-mas-informacion",
     "internalReference": 780673
+  },
+  {
+    "locale": "es",
+    "slug": "el-componente-marcador-de-mapa-del-formulario-de-direcciones-no-actualiza-la-direccion-completa",
+    "internalReference": 1407777
   },
   {
     "locale": "es",
@@ -20823,6 +20833,11 @@
     "locale": "pt",
     "slug": "o-componente-de-envio-esta-bloqueado-no-estado-aguardando-mais-informacoes",
     "internalReference": 780673
+  },
+  {
+    "locale": "pt",
+    "slug": "o-componente-marcador-no-mapa-do-formulario-de-endereco-nao-atualiza-o-endereco-completo",
+    "internalReference": 1407777
   },
   {
     "locale": "pt",
