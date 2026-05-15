@@ -7181,6 +7181,11 @@
   },
   {
     "locale": "en",
+    "slug": "sales-app-redirects-to-payment-after-entering-salesperson-code-ignores-current-step-in-checkout",
+    "internalReference": 1407771
+  },
+  {
+    "locale": "en",
     "slug": "sales-app-when-attempting-to-pay-with-digit-or-scan-card-the-cvv-field-cant-be-filled",
     "internalReference": 1380651
   },
@@ -16293,6 +16298,11 @@
     "locale": "es",
     "slug": "instore-no-lee-correctamente-el-html-registrado-en-la-informacion-del-producto",
     "internalReference": 718136
+  },
+  {
+    "locale": "es",
+    "slug": "la-aplicacion-de-ventas-redirige-a-payment-tras-introducir-el-codigo-del-comercial-sin-tener-en-cuenta-el-paso-actual-del-proceso-de-pago",
+    "internalReference": 1407771
   },
   {
     "locale": "es",
@@ -25533,6 +25543,11 @@
     "locale": "pt",
     "slug": "motivos-de-perda-nao-solicitados-na-pagina-do-indeva",
     "internalReference": 1293176
+  },
+  {
+    "locale": "pt",
+    "slug": "o-aplicativo-de-vendas-redireciona-para-payment-apos-a-insercao-do-codigo-do-vendedor-ignorando-a-etapa-atual-do-checkout",
+    "internalReference": 1407771
   },
   {
     "locale": "pt",
