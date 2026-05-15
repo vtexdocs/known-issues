@@ -25551,6 +25551,11 @@
   },
   {
     "locale": "pt",
+    "slug": "aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-o-campo-cvv-nao-pode-ser-preenchido",
+    "internalReference": 1380651
+  },
+  {
+    "locale": "pt",
     "slug": "configuracao-de-digitos-decimais-ignorados",
     "internalReference": 1191382
   },
