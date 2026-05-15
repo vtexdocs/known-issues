@@ -3,7 +3,7 @@ title: "Sales App When attempting to pay with digit or scan card, the CVV field 
 slug: sales-app-when-attempting-to-pay-with-digit-or-scan-card-the-cvv-field-cant-be-filled
 status: PUBLISHED
 createdAt: 2026-03-18T23:07:59.000Z
-updatedAt: 2026-05-15T19:48:05.000Z
+updatedAt: 2026-05-15T19:48:20.000Z
 contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
