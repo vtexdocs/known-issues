@@ -5706,6 +5706,11 @@
   },
   {
     "locale": "en",
+    "slug": "scenarios-involving-goodwill-following-an-order-modification",
+    "internalReference": 1409506
+  },
+  {
+    "locale": "en",
     "slug": "sellers-order-invoiced-with-problem-in-the-payment-capture",
     "internalReference": 376646
   },
@@ -14831,6 +14836,11 @@
   },
   {
     "locale": "es",
+    "slug": "situaciones-relacionadas-con-el-fondo-de-comercio-tras-una-modificacion-de-la-orden",
+    "internalReference": 1409506
+  },
+  {
+    "locale": "es",
     "slug": "split-items-order-with-value-as-0-zero-on-the-invoice",
     "internalReference": 387933
   },
@@ -23628,6 +23638,11 @@
     "locale": "pt",
     "slug": "caracteres-especiais-no-campo-invoicenumber-fazem-com-que-o-fluxo-poscompra-falhe",
     "internalReference": 953285
+  },
+  {
+    "locale": "pt",
+    "slug": "cenarios-envolvendo-agio-apos-uma-modificacao-de-pedido",
+    "internalReference": 1409506
   },
   {
     "locale": "pt",
