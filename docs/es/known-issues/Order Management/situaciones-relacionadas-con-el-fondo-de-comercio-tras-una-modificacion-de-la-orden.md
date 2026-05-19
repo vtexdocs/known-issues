@@ -3,7 +3,7 @@ title: 'Situaciones relacionadas con el fondo de comercio tras una modificación
 slug: situaciones-relacionadas-con-el-fondo-de-comercio-tras-una-modificacion-de-la-orden
 status: PUBLISHED
 createdAt: 2026-05-19T22:54:03.000Z
-updatedAt: 2026-05-19T22:54:03.000Z
+updatedAt: 2026-05-19T22:54:46.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,7 +18,7 @@ internalReference: 1409506
 
 ## Sumario
 
-Hemos detectado un problema en el escenario «Goodwill» —concretamente en los casos relacionados con «modificaciones de pedidos»— en el que los importes de los reembolsos se calculan sumando *todos* los recibos `refundPayment` asociados al pedido, sin distinguir entre los que se derivan de una «modificación de pedido» y los que proceden de un reembolso independiente.
+Hemos identificado un problema en el escenario «Goodwill» —concretamente en los casos relacionados con «modificaciones de pedidos»— en el que los importes de los reembolsos se calculan sumando *todos* los recibos `refundPayment` asociados al pedido, sin distinguir entre los que se derivan de una «modificación de pedido» y los que proceden de un reembolso independiente.
 El problema radica en que el `orderValueProportionalToTransaction` ya se calcula en función del valor posterior a la modificación (es decir, el valor *después* del cambio), que ya incorpora el descuento aplicado durante la modificación del pedido. En consecuencia, el recibo de reembolso generado por la modificación del pedido se resta por segunda vez, lo que da lugar a una doble contabilización.
 
 Este comportamiento impide que las cuentas envíen una factura de entrada/de buena voluntad, lo que provoca el siguiente error:
