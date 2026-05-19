@@ -3,7 +3,7 @@ title: 'Scenarios Involving Goodwill Following an Order Modification'
 slug: scenarios-involving-goodwill-following-an-order-modification
 status: PUBLISHED
 createdAt: 2026-05-19T22:54:03.000Z
-updatedAt: 2026-05-19T22:54:03.000Z
+updatedAt: 2026-05-19T22:54:46.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
