@@ -8521,6 +8521,11 @@
   },
   {
     "locale": "en",
+    "slug": "sitemap-retains-ghost-products-from-categories-removed-via-full-cleanup",
+    "internalReference": 1409701
+  },
+  {
+    "locale": "en",
     "slug": "sitemap-returns-error-fetching-sitemap-data",
     "internalReference": 1319643
   },
@@ -17413,6 +17418,11 @@
     "locale": "es",
     "slug": "el-iframe-del-componente-opiniones-de-clientes-de-google-presenta-un-problema-de-visualizacion",
     "internalReference": 578443
+  },
+  {
+    "locale": "es",
+    "slug": "el-mapa-del-sitio-conserva-los-productos-fantasma-de-las-categorias-eliminadas-mediante-una-limpieza-completa",
+    "internalReference": 1409701
   },
   {
     "locale": "es",
@@ -26913,6 +26923,11 @@
     "locale": "pt",
     "slug": "o-locale-switcher-nao-funciona-no-ambiente-myvtex",
     "internalReference": 778306
+  },
+  {
+    "locale": "pt",
+    "slug": "o-mapa-do-site-mantem-produtos-fantasmas-de-categorias-removidas-por-meio-de-uma-limpeza-completa",
+    "internalReference": 1409701
   },
   {
     "locale": "pt",
