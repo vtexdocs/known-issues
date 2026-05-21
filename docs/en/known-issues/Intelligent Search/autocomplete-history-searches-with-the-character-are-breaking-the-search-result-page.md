@@ -3,7 +3,7 @@ title: 'Autocomplete history searches with the "/" character are breaking the se
 slug: autocomplete-history-searches-with-the-character-are-breaking-the-search-result-page
 status: PUBLISHED
 createdAt: 2026-05-12T21:29:15.000Z
-updatedAt: 2026-05-21T17:19:46.000Z
+updatedAt: 2026-05-21T17:35:08.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
