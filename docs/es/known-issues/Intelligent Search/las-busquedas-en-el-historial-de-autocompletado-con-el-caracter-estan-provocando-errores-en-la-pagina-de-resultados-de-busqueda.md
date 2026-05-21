@@ -3,7 +3,7 @@ title: 'Las búsquedas en el historial de autocompletado con el carácter «/» 
 slug: las-busquedas-en-el-historial-de-autocompletado-con-el-caracter-estan-provocando-errores-en-la-pagina-de-resultados-de-busqueda
 status: PUBLISHED
 createdAt: 2026-05-12T21:29:15.000Z
-updatedAt: 2026-05-21T17:19:46.000Z
+updatedAt: 2026-05-21T17:35:08.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
