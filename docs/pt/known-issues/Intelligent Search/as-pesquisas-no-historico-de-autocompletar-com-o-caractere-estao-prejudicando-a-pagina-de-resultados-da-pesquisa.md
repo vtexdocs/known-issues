@@ -3,14 +3,14 @@ title: 'As pesquisas no histórico de autocompletar com o caractere "/" estão p
 slug: as-pesquisas-no-historico-de-autocompletar-com-o-caractere-estao-prejudicando-a-pagina-de-resultados-da-pesquisa
 status: PUBLISHED
 createdAt: 2026-05-12T21:29:15.000Z
-updatedAt: 2026-05-12T21:29:15.000Z
+updatedAt: 2026-05-21T17:19:46.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: autocomplete-history-searches-with-the-character-are-breaking-the-search-result-page
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1405490
 ---
 
@@ -23,8 +23,8 @@ Ao realizar pesquisas em lojas do Store Framework, o componente de preenchimento
 ## Simulação
 
 1. Pesquise produtos em uma loja do Store Framework com termos que contenham o caractere "/". Por exemplo: `sapatos azuis 1/2`.
-2. Verifique se o resultado é o esperado de acordo com o que foi pesquisado e se a URL codifica o caractere "/".
-3. Volte à página inicial (ou simplesmente apague o texto pesquisado da barra de pesquisa). O histórico de autocompletar aparecerá contendo o termo de pesquisa com o caractere "/".
+2. Verifique se o resultado é o esperado de acordo com o que foi pesquisado e se a URL codificará o caractere "/".
+3. Volte para a página inicial (ou simplesmente apague o texto pesquisado da barra de pesquisa). O histórico de autocompletar aparecerá contendo o termo de pesquisa com o caractere "/".
 4. Clique nele para pesquisar o termo novamente. A página de resultados pode exibir resultados fora do contexto ou levar a uma página de pesquisa vazia.
 
 ## Workaround
