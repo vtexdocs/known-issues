@@ -6676,6 +6676,11 @@
   },
   {
     "locale": "en",
+    "slug": "payment-rule-not-applied-due-to-bin-issuer-mismatch",
+    "internalReference": 1410739
+  },
+  {
+    "locale": "en",
     "slug": "payment-rule-requiresauthentication-attribute-is-ignored-by-gateway-cannot-be-enforcedoverridden-via-api",
     "internalReference": 1301482
   },
@@ -15938,6 +15943,11 @@
     "locale": "es",
     "slug": "no-es-posible-utilizar-el-filtro-del-canal-de-ventas-en-la-pagina-de-transacciones",
     "internalReference": 1348924
+  },
+  {
+    "locale": "es",
+    "slug": "no-se-ha-aplicado-la-regla-de-pago-debido-a-una-discrepancia-en-el-codigo-bin-del-emisor",
+    "internalReference": 1410739
   },
   {
     "locale": "es",
@@ -25393,6 +25403,11 @@
     "locale": "pt",
     "slug": "registros-declarando-que-houve-um-reembolso-mas-devido-a-um-erro-por-parte-do-comprador-a-reversao-nao-ocorre-de-fato",
     "internalReference": 545331
+  },
+  {
+    "locale": "pt",
+    "slug": "regra-de-pagamento-nao-aplicada-devido-a-incompatibilidade-do-bin-do-emissor",
+    "internalReference": 1410739
   },
   {
     "locale": "pt",
