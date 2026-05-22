@@ -3,14 +3,14 @@ title: 'Las transacciones siguen bloqueadas en «Autorizadas» a pesar de que el
 slug: las-transacciones-siguen-bloqueadas-en-autorizadas-a-pesar-de-que-el-conector-las-ha-aprobado
 status: PUBLISHED
 createdAt: 2025-12-26T17:37:00.000Z
-updatedAt: 2026-05-22T17:44:43.000Z
+updatedAt: 2026-05-22T17:50:56.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transactions-remain-stuck-in-authorized-despite-connector-approval
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1344357
 ---
 
@@ -33,5 +33,4 @@ No es posible simularlo.
 
 ## Workaround
 
-provisional**
 Abre un ticket para el equipo de soporte técnico del producto.
