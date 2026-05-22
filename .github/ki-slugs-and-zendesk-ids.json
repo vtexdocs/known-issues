@@ -15776,6 +15776,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-siguen-bloqueadas-en-autorizadas-a-pesar-de-que-el-conector-las-ha-aprobado",
+    "internalReference": 1344357
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-siguen-bloqueadas-en-autorizado-a-pesar-de-la-aprobacion-del-conector",
     "internalReference": 1344357
   },
@@ -24543,6 +24548,11 @@
     "locale": "pt",
     "slug": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizados",
     "internalReference": 1309418
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-permanecem-no-status-autorizado-apesar-da-aprovacao-do-conector",
+    "internalReference": 1344357
   },
   {
     "locale": "pt",
