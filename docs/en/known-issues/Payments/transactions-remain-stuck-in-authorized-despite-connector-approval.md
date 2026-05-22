@@ -3,14 +3,14 @@ title: 'Transactions remain stuck in Authorized despite connector approval'
 slug: transactions-remain-stuck-in-authorized-despite-connector-approval
 status: PUBLISHED
 createdAt: 2025-12-26T17:37:00.000Z
-updatedAt: 2026-05-22T17:44:43.000Z
+updatedAt: 2026-05-22T17:50:56.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transactions-remain-stuck-in-authorized-despite-connector-approval
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1344357
 ---
 
