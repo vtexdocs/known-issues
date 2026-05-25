@@ -6696,6 +6696,11 @@
   },
   {
     "locale": "en",
+    "slug": "payment-stuck-in-received-status-transaction-does-not-progress-to-approved-status",
+    "internalReference": 1411012
+  },
+  {
+    "locale": "en",
     "slug": "payments-admin-defense-mode-settings-page-fails-to-load-permissions-and-get-adminiframetransactionssettings-500",
     "internalReference": 1348945
   },
@@ -15143,6 +15148,11 @@
     "locale": "es",
     "slug": "el-pago-creado-sin-conector-provoca-la-cancelacion-de-la-transaccion",
     "internalReference": 1323547
+  },
+  {
+    "locale": "es",
+    "slug": "el-pago-se-ha-quedado-en-el-estado-recibido-la-transaccion-no-pasa-al-estado-aprobado",
+    "internalReference": 1411012
   },
   {
     "locale": "es",
@@ -25298,6 +25308,11 @@
     "locale": "pt",
     "slug": "pagamento-bloqueado-apos-solicitacao-de-cancelamento-antecipado-durante-a-liquidacao",
     "internalReference": 1309799
+  },
+  {
+    "locale": "pt",
+    "slug": "pagamento-preso-no-status-recebido-a-transacao-nao-avanca-para-o-status-aprovado",
+    "internalReference": 1411012
   },
   {
     "locale": "pt",
