@@ -2876,6 +2876,11 @@
   },
   {
     "locale": "en",
+    "slug": "security-code-persistence-in-ui-form-when-changing-from-a-saved-card-to-a-new-card",
+    "internalReference": 1412484
+  },
+  {
+    "locale": "en",
     "slug": "seller-selection-algorithm-doesnt-consider-the-real-availability-of-the-item-to-choose-the-best-option",
     "internalReference": 360097
   },
@@ -10948,6 +10953,11 @@
     "locale": "es",
     "slug": "el-carro-creado-a-partir-de-un-pedido-antiguo-no-trae-las-opciones-de-montaje",
     "internalReference": 1020278
+  },
+  {
+    "locale": "es",
+    "slug": "el-codigo-de-seguridad-permanece-en-el-formulario-de-la-interfaz-de-usuario-al-cambiar-de-una-tarjeta-guardada-a-una-nueva",
+    "internalReference": 1412484
   },
   {
     "locale": "es",
@@ -21223,6 +21233,11 @@
     "locale": "pt",
     "slug": "pedidos-sem-endereco-de-faturamento-criados-por-meio-da-interface-de-usuario-nativa",
     "internalReference": 306140
+  },
+  {
+    "locale": "pt",
+    "slug": "persistencia-do-codigo-de-seguranca-no-formulario-da-interface-do-usuario-ao-mudar-de-um-cartao-salvo-para-um-novo-cartao",
+    "internalReference": 1412484
   },
   {
     "locale": "pt",
