@@ -6246,6 +6246,11 @@
   },
   {
     "locale": "en",
+    "slug": "event-inconsistency-in-legacy-connectors",
+    "internalReference": 1028677
+  },
+  {
+    "locale": "en",
     "slug": "event-inconsistency",
     "internalReference": 267299
   },
@@ -15438,6 +15443,11 @@
     "locale": "es",
     "slug": "incoherencia-en-la-seleccion-de-las-condiciones-comerciales",
     "internalReference": 1210072
+  },
+  {
+    "locale": "es",
+    "slug": "incoherencia-en-los-eventos-de-los-conectores-heredados",
+    "internalReference": 1028677
   },
   {
     "locale": "es",
@@ -24888,6 +24898,11 @@
     "locale": "pt",
     "slug": "incapaz-de-cancelar-transacoes-que-tiveram-mudanca-de-configuracao-de-pagamento-dividido",
     "internalReference": 364382
+  },
+  {
+    "locale": "pt",
+    "slug": "inconsistencia-de-eventos-em-conectores-legados",
+    "internalReference": 1028677
   },
   {
     "locale": "pt",
