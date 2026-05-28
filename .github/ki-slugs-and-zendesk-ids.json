@@ -6981,6 +6981,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-stuck-in-canceling-status",
+    "internalReference": 327248
+  },
+  {
+    "locale": "en",
     "slug": "transaction-stuck-in-canceling-when-one-of-the-card-is-denied",
     "internalReference": 429082
   },
@@ -15683,6 +15688,11 @@
     "locale": "es",
     "slug": "la-transaccion-se-ha-quedado-bloqueada-en-el-estado-aprobada-con-el-conector-nps-debido-al-codigo-pspresponsecod-en-la-respuesta-de-liquidacion",
     "internalReference": 557051
+  },
+  {
+    "locale": "es",
+    "slug": "la-transaccion-se-ha-quedado-bloqueada-en-el-estado-en-proceso-de-cancelacion",
+    "internalReference": 327248
   },
   {
     "locale": "es",
@@ -25558,6 +25568,11 @@
     "locale": "pt",
     "slug": "transacao-travada-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto",
     "internalReference": 1376434
+  },
+  {
+    "locale": "pt",
+    "slug": "transacao-travada-no-status-cancelando",
+    "internalReference": 327248
   },
   {
     "locale": "pt",
