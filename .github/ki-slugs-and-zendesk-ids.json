@@ -15191,6 +15191,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-pedido-sigue-en-pago-pendiente-a-pesar-de-que-la-transaccion-ha-sido-aprobada",
+    "internalReference": 1343830
+  },
+  {
+    "locale": "es",
     "slug": "el-perfil-de-acceso-al-catalogo-da-acceso-al-modulo-de-la-tarjeta-regalo",
     "internalReference": 362165
   },
@@ -25253,6 +25258,11 @@
     "locale": "pt",
     "slug": "o-pedido-com-o-status-verificando-fatura-nao-e-atualizado-para-faturado",
     "internalReference": 500245
+  },
+  {
+    "locale": "pt",
+    "slug": "o-pedido-permanece-no-status-pagamento-pendente-apesar-de-a-transacao-ter-sido-aprovada",
+    "internalReference": 1343830
   },
   {
     "locale": "pt",
