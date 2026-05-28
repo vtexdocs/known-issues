@@ -16321,6 +16321,11 @@
   },
   {
     "locale": "es",
+    "slug": "transacciones-que-quedan-bloqueadas-en-autorizadas-tras-su-aprobacion",
+    "internalReference": 1344363
+  },
+  {
+    "locale": "es",
     "slug": "transaction-stuck-in-canceling-when-one-of-the-card-is-denied",
     "internalReference": 429082
   },
@@ -25613,6 +25618,11 @@
     "locale": "pt",
     "slug": "transacoes-presas-em-autorizado-ou-autorizacao-pendente-apos-a-aprovacao",
     "internalReference": 1304667
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-que-ficam-no-status-autorizado-apos-a-aprovacao",
+    "internalReference": 1344363
   },
   {
     "locale": "pt",
