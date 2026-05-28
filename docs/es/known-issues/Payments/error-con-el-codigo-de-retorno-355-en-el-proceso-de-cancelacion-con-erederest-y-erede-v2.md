@@ -2,15 +2,15 @@
 title: 'Error con el código de retorno 355 en el proceso de cancelación con ERedeRest y E-Rede V2'
 slug: error-con-el-codigo-de-retorno-355-en-el-proceso-de-cancelacion-con-erederest-y-erede-v2
 status: PUBLISHED
-createdAt: 2023-01-25T13:35:02.000Z
-updatedAt: 2024-11-26T19:46:33.000Z
+createdAt: 2023-01-25T16:35:02.000Z
+updatedAt: 2026-05-28T19:47:34.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: error-with-returncode-355-in-cancellation-process-with-erederest-and-erede-v2
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 740084
 ---
 
