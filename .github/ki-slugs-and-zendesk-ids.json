@@ -24571,11 +24571,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-transacoes-continuam-travadas-apesar-da-aprovacao-do-conector",
-    "internalReference": 1302349
-  },
-  {
-    "locale": "pt",
     "slug": "as-transacoes-criadas-sem-nenhum-pagamento-ficam-presas-em-cancelamento",
     "internalReference": 1314444
   },
