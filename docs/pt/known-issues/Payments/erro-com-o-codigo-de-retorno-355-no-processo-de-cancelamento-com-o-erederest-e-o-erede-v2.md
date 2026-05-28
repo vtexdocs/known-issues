@@ -2,15 +2,15 @@
 title: 'Erro com o código de retorno 355 no processo de cancelamento com o ERedeRest e o E-Rede V2'
 slug: erro-com-o-codigo-de-retorno-355-no-processo-de-cancelamento-com-o-erederest-e-o-erede-v2
 status: PUBLISHED
-createdAt: 2023-01-25T13:35:02.000Z
-updatedAt: 2024-11-26T19:46:33.000Z
+createdAt: 2023-01-25T16:35:02.000Z
+updatedAt: 2026-05-28T19:47:34.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: error-with-returncode-355-in-cancellation-process-with-erederest-and-erede-v2
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 740084
 ---
 
@@ -32,4 +32,4 @@ Se o pagamento do lado do provedor já estiver cancelado
 
 A equipe de suporte ao produto tem a opção de utilizar uma API interna, '`force-cancel-status`', para atualizar o status do pagamento e da transação para 'cancelado'.
 
-Isso pode não funcionar em transações com vários pagamentos, dependendo da consistência do status de suas liquidações.
+Isso pode não funcionar em transações com pagamentos múltiplos, dependendo da consistência do status de suas liquidações.
