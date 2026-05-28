@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transactions-remain-stuck-despite-connector-approval
 locale: es
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 1302349
 ---
 
