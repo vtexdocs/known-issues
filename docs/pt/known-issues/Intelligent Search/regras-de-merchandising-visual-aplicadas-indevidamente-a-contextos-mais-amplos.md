@@ -3,14 +3,14 @@ title: 'Regras de merchandising visual aplicadas indevidamente a contextos mais 
 slug: regras-de-merchandising-visual-aplicadas-indevidamente-a-contextos-mais-amplos
 status: PUBLISHED
 createdAt: 2024-09-14T01:19:19.000Z
-updatedAt: 2026-05-29T19:06:46.000Z
+updatedAt: 2026-05-29T19:26:34.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: visual-merchandising-rules-wrongly-extended-to-broader-contexts
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1098688
 ---
 
@@ -18,11 +18,11 @@ internalReference: 1098688
 
 ## Sumário
 
-As regras de merchandising visual são definidas para contextos específicos por meio da definição de filtros com base em atributos ou termos de pesquisa; no entanto, esses filtros não se limitam exclusivamente ao seu contexto, gerando resultados de pesquisa inesperados e entrando em conflito com regras de merchandising diferentes aplicadas a outras páginas.
+As regras de merchandising visual são definidas para contextos específicos por meio da definição de filtros com base em atributos ou termos de pesquisa; no entanto, esses filtros não se limitam exclusivamente ao seu contexto, gerando resultados de pesquisa inesperados e entrando em conflito com regras de merchandising diferentes em outras páginas.
 
 Para contextualizar, os produtos fixados e ocultos realizam a mesma ação que as ações “promover” e “remover por ID” de uma regra de merchandising manual.
 
-O exemplo mais simples é que, ao configurá-la para uma categoria, os modificadores também serão aplicados às suas subcategorias.
+O exemplo mais simples é que configurá-la para uma categoria também aplicará modificadores às suas subcategorias.
 
 ## Simulação
 
