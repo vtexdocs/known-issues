@@ -2531,6 +2531,11 @@
   },
   {
     "locale": "en",
+    "slug": "marketplace-price-override-applies-to-all-cart-items-regardless-of-the-seller",
+    "internalReference": 1414414
+  },
+  {
+    "locale": "en",
     "slug": "marketplace-tax-hub-request-doesnt-consider-manual-price-for-discounts",
     "internalReference": 932657
   },
@@ -11551,6 +11556,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-modificacion-del-precio-del-marketplace-se-aplica-a-todos-los-articulos-del-carrito-independientemente-del-vendedor",
+    "internalReference": 1414414
+  },
+  {
+    "locale": "es",
     "slug": "la-opcion-de-entrega-programada-no-aparece-en-el-carrito-si-el-envio-lean-esta-desactivado-y-el-articulo-ofrece-ambos-tipos-de-entrega",
     "internalReference": 394943
   },
@@ -20323,6 +20333,11 @@
     "locale": "pt",
     "slug": "a-solicitacao-no-tax-hub-nao-soma-os-descontos-quando-e-aplicado-um-preco-manual",
     "internalReference": 932667
+  },
+  {
+    "locale": "pt",
+    "slug": "a-substituicao-do-preco-do-marketplace-se-aplica-a-todos-os-itens-do-carrinho-independentemente-do-vendedor",
+    "internalReference": 1414414
   },
   {
     "locale": "pt",
