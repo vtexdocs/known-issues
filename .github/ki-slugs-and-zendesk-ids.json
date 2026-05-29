@@ -2631,6 +2631,11 @@
   },
   {
     "locale": "en",
+    "slug": "orderplaced-page-returns-404-for-orders-with-no-payment-null-payment-id",
+    "internalReference": 1414430
+  },
+  {
+    "locale": "en",
     "slug": "orders-for-gift-items-arent-canceled-if-the-payment-is-refused-for-the-regular-items-order",
     "internalReference": 679598
   },
@@ -11586,6 +11591,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-pagina-orderplaced-devuelve-un-error-404-para-los-pedidos-sin-pago-id-de-pago-nulo",
+    "internalReference": 1414430
+  },
+  {
+    "locale": "es",
     "slug": "la-simulacion-de-pago-devuelve-el-valor-0-en-el-campo-slastax-para-los-impuestos-del-porcentaje-de-envio",
     "internalReference": 1012724
   },
@@ -20268,6 +20278,11 @@
     "locale": "pt",
     "slug": "a-opcao-installmentoptions-da-api-orderform-nao-leva-em-consideracao-promocoes-especificas-de-parcelamento",
     "internalReference": 644563
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pagina-orderplaced-retorna-um-erro-404-para-pedidos-sem-pagamento-id-de-pagamento-nulo",
+    "internalReference": 1414430
   },
   {
     "locale": "pt",
