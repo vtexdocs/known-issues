@@ -3,14 +3,14 @@ title: 'Visual merchandising rules wrongly extended to broader contexts'
 slug: visual-merchandising-rules-wrongly-extended-to-broader-contexts
 status: PUBLISHED
 createdAt: 2024-09-14T01:19:19.000Z
-updatedAt: 2026-05-29T19:06:46.000Z
+updatedAt: 2026-05-29T19:26:34.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: visual-merchandising-rules-wrongly-extended-to-broader-contexts
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1098688
 ---
 
