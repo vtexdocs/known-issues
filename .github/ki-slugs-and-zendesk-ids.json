@@ -2606,7 +2606,7 @@
   },
   {
     "locale": "en",
-    "slug": "orderplaced-page-returns-404-for-orders-with-no-payment-null-payment-id-test",
+    "slug": "orderplaced-page-returns-404-for-orders-with-no-payment-null-payment-id",
     "internalReference": 1414430
   },
   {
@@ -11291,7 +11291,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-pagina-orderplaced-devuelve-un-error-404-para-los-pedidos-sin-pago-id-de-pago-nulo-prueba",
+    "slug": "la-pagina-orderplaced-devuelve-un-error-404-para-los-pedidos-sin-pago-id-de-pago-nulo",
     "internalReference": 1414430
   },
   {
@@ -19386,7 +19386,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-pagina-orderplaced-retorna-um-erro-404-para-pedidos-sem-pagamento-id-de-pagamento-nulo-teste",
+    "slug": "a-pagina-orderplaced-retorna-um-erro-404-para-pedidos-sem-pagamento-id-de-pagamento-nulo",
     "internalReference": 1414430
   },
   {
