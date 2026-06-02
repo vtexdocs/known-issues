@@ -18,7 +18,7 @@ internalReference: 1414430
 
 ## Sumario
 
-La página `orderPlaced` devuelve un error 404 cuando un pedido tiene un valor total de 0 $, como es el caso de los pedidos que contienen únicamente artículos de regalo o promocionales. En este caso, la plataforma crea una transacción ficticia identificada como `"NO-PAYMENT"` sin ningún registro de pago asociado, lo que significa que el `paymentId` del pedido es nulo.
+La página `orderPlaced` devuelve un error 404 cuando un pedido tiene un valor total de 0 $, como es el caso de los pedidos que solo contienen artículos de regalo o promocionales. En este caso, la plataforma crea una transacción ficticia identificada como `"NO-PAYMENT"` sin ningún registro de pago asociado, lo que significa que el `paymentId` del pedido es nulo.
 
 Cuando se carga la página `orderPlaced`, se activa una consulta GraphQL `getOrderGroup`. Dado que el campo `Payment.id` en el esquema `order-placed-graphql` está definido como no nulo, devolver un valor nulo para este campo provoca que toda la consulta falle con el siguiente error:
 
