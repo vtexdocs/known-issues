@@ -3126,11 +3126,6 @@
   },
   {
     "locale": "en",
-    "slug": "untitled",
-    "internalReference": 481402
-  },
-  {
-    "locale": "en",
     "slug": "usesessionregionatcheckout-doesnt-work-properly-when-adding-the-first-item-to-the-cart",
     "internalReference": 925049
   },
@@ -3163,11 +3158,6 @@
     "locale": "en",
     "slug": "this-is-a-test",
     "internalReference": 741722
-  },
-  {
-    "locale": "en",
-    "slug": ".md",
-    "internalReference": 1216327
   },
   {
     "locale": "en",
@@ -5808,11 +5798,6 @@
     "locale": "en",
     "slug": "two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull",
     "internalReference": 680919
-  },
-  {
-    "locale": "en",
-    "slug": "untitled",
-    "internalReference": 631970
   },
   {
     "locale": "en",
@@ -11756,11 +11741,6 @@
   },
   {
     "locale": "es",
-    "slug": "untitled",
-    "internalReference": 481402
-  },
-  {
-    "locale": "es",
     "slug": "validacion-de-archivos-adjuntos-solo-en-el-marketplace-al-anadir-un-articulo-de-un-vendedor-que-incluya-archivos-adjuntos",
     "internalReference": 957343
   },
@@ -11803,11 +11783,6 @@
     "locale": "es",
     "slug": "prueba-de-problemas-conocidos-para-la-presentacion",
     "internalReference": 741025
-  },
-  {
-    "locale": "es",
-    "slug": ".md",
-    "internalReference": 1216327
   },
   {
     "locale": "es",
@@ -14473,11 +14448,6 @@
     "locale": "es",
     "slug": "un-error-en-el-sistema-de-eventos-al-final-de-una-transaccion-provoca-que-un-pedido-quede-incompleto",
     "internalReference": 421137
-  },
-  {
-    "locale": "es",
-    "slug": "untitled",
-    "internalReference": 631970
   },
   {
     "locale": "es",
@@ -20421,11 +20391,6 @@
   },
   {
     "locale": "pt",
-    "slug": "untitled",
-    "internalReference": 481402
-  },
-  {
-    "locale": "pt",
     "slug": "validacao-de-anexos-apenas-na-loja-virtual-ao-adicionar-um-item-de-um-vendedor-que-inclua-um-anexo",
     "internalReference": 957343
   },
@@ -20453,11 +20418,6 @@
     "locale": "pt",
     "slug": "teste-de-problemas-conhecidos-para-a-apresentacao",
     "internalReference": 741025
-  },
-  {
-    "locale": "pt",
-    "slug": ".md",
-    "internalReference": 1216327
   },
   {
     "locale": "pt",
@@ -23113,11 +23073,6 @@
     "locale": "pt",
     "slug": "um-erro-no-sistema-de-eventos-no-final-de-uma-transacao-faz-com-que-um-pedido-fique-incompleto",
     "internalReference": 421137
-  },
-  {
-    "locale": "pt",
-    "slug": "untitled",
-    "internalReference": 631970
   },
   {
     "locale": "pt",
