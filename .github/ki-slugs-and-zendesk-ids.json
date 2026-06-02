@@ -1256,6 +1256,11 @@
   },
   {
     "locale": "en",
+    "slug": "legacy-stores-redirect-to-empty-category-when-there-are-only-similars",
+    "internalReference": 1413684
+  },
+  {
+    "locale": "en",
     "slug": "license-manager-access-for-sales-channel-management-is-not-working",
     "internalReference": 380904
   },
@@ -10176,6 +10181,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-tiendas-heredadas-redirigen-a-una-categoria-vacia-cuando-solo-hay-productos-similares",
+    "internalReference": 1413684
+  },
+  {
+    "locale": "es",
     "slug": "las-traducciones-del-catalogo-no-se-muestran-en-la-interfaz-de-usuario",
     "internalReference": 861892
   },
@@ -18248,6 +18258,11 @@
     "locale": "pt",
     "slug": "as-inconsistencias-da-pesquisa-de-catalogo-podem-nao-retornar-produtos-devido-a-um-problema-de-indexacao",
     "internalReference": 1330325
+  },
+  {
+    "locale": "pt",
+    "slug": "as-lojas-antigas-redirecionam-para-uma-categoria-vazia-quando-ha-apenas-produtos-semelhantes",
+    "internalReference": 1413684
   },
   {
     "locale": "pt",
