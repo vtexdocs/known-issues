@@ -18,13 +18,13 @@ internalReference: 1414430
 
 ## Sumário
 
-A página `orderPlaced` retorna um erro 404 quando um pedido tem valor total de $0, como pedidos que contêm apenas itens de presente ou brindes. Nesse cenário, a plataforma cria uma transação fictícia identificada como `"NO-PAYMENT"` sem nenhum registro de pagamento associado, o que significa que o `paymentId` do pedido é nulo.
+A página `orderPlaced` retorna um erro 404 quando um pedido tem valor total de $0, como pedidos que contêm apenas itens de presente ou brindes. Nesse cenário, a plataforma cria uma transação fictícia identificada como `"NO-PAYMENT"`, sem nenhum registro de pagamento associado, o que significa que o `paymentId` do pedido é nulo.
 
 Quando a página `orderPlaced` é carregada, ela aciona uma consulta GraphQL `getOrderGroup`. Como o campo `Payment.id` no esquema `order-placed-graphql` é definido como não nulo, retornar um valor nulo para esse campo faz com que toda a consulta falhe com o seguinte erro:
 
 > `Não é possível retornar nulo para o campo não nulo Payment.id.`
 
-Isso faz com que a página `orderPlaced` não consiga ser renderizada, retornando um erro 404 ao cliente.
+Isso faz com que a página `orderPlaced` não consiga ser renderizada, retornando um erro 404 para o cliente.
 
 Observação: os status da transação e do pagamento não são afetados; o pedido em si é criado e processado corretamente. O problema está isolado à página de confirmação `orderPlaced`.
 
