@@ -1,0 +1,45 @@
+name: Deduplicate Known Issues by Zendesk ID
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Every Monday at 09:00 UTC
+  workflow_dispatch:
+
+jobs:
+  dedupe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest changes
+        run: git pull
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Set Git identity
+        run: |
+          git config user.name "vtex-known-issues[bot]"
+          git config user.email "213649991+vtex-known-issues[bot]@users.noreply.github.com"
+
+      - name: Run deduplication script
+        run: node .github/scripts/dedupe-by-zendesk-id.js
+
+      - name: Commit and push if there are changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "chore: remove duplicate known issues with same Zendesk ID"
+            git push origin main
+          else
+            echo "No duplicates found, nothing to commit."
+          fi
