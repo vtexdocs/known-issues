@@ -82,4 +82,5 @@ jobs:
             --title "fix: remove known issues with invalid filenames" \
             --body "$(printf 'This PR was automatically generated.\n\nThe following files have invalid names (`.md` or `untitled.md`) and are proposed for deletion. Please review before merging.\n\n%s' "$FILE_LIST")" \
             --base main \
-            --head "${{ steps.branch.outputs.branch }}"
+            --head "${{ steps.branch.outputs.branch }}" \
+            --reviewer julia-rabello
