@@ -6271,6 +6271,11 @@
   },
   {
     "locale": "en",
+    "slug": "giftcard-hub-timeout-returned-as-401-unauthorized",
+    "internalReference": 1416045
+  },
+  {
+    "locale": "en",
     "slug": "giftcard-not-getting-refund-after-transaction-cancellation",
     "internalReference": 491195
   },
@@ -14753,6 +14758,11 @@
     "locale": "es",
     "slug": "el-temporizador-de-la-cuenta-atras-del-pago-pix-se-detiene-cuando-se-minimiza-la-pestana-de-pago",
     "internalReference": 1308205
+  },
+  {
+    "locale": "es",
+    "slug": "el-tiempo-de-espera-de-giftcard-hub-ha-devuelto-el-codigo-de-error-401-no-autorizado",
+    "internalReference": 1416045
   },
   {
     "locale": "es",
@@ -24063,6 +24073,11 @@
     "locale": "pt",
     "slug": "o-status-na-lista-de-transacoes-nao-corresponde-ao-estado-real",
     "internalReference": 1004883
+  },
+  {
+    "locale": "pt",
+    "slug": "o-tempo-limite-do-giftcard-hub-resultou-no-codigo-de-erro-401-nao-autorizado",
+    "internalReference": 1416045
   },
   {
     "locale": "pt",
