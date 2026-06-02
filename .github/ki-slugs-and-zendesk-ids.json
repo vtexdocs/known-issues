@@ -3266,6 +3266,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-tracking-number",
+    "internalReference": 1216327
+  },
+  {
+    "locale": "en",
     "slug": "amazoncasacaso-erros-de-rastreamento",
     "internalReference": 360564
   },
@@ -5678,6 +5683,11 @@
     "locale": "en",
     "slug": "some-addresses-autocompleted-by-google-are-not-able-to-be-saved-on-my-account",
     "internalReference": 415388
+  },
+  {
+    "locale": "en",
+    "slug": "space-in-invoicenumber-causes-failure-in-postpurchase-flow",
+    "internalReference": 631970
   },
   {
     "locale": "en",
@@ -11851,6 +11861,11 @@
   },
   {
     "locale": "es",
+    "slug": "amazon-numero-de-seguimiento",
+    "internalReference": 1216327
+  },
+  {
+    "locale": "es",
     "slug": "amazon-proceso-de-cancelacion-de-pedidos",
     "internalReference": 588456
   },
@@ -13888,6 +13903,11 @@
     "locale": "es",
     "slug": "el-enlace-de-configuracion-de-sms-en-la-plantilla-de-correo-electronico-redirige-al-usuario-a-la-pagina-404",
     "internalReference": 1054007
+  },
+  {
+    "locale": "es",
+    "slug": "el-espacio-en-invoicenumber-provoca-un-error-en-el-flujo-posterior-a-la-compra",
+    "internalReference": 631970
   },
   {
     "locale": "es",
@@ -20496,6 +20516,11 @@
   },
   {
     "locale": "pt",
+    "slug": "amazon-numero-de-rastreamento",
+    "internalReference": 1216327
+  },
+  {
+    "locale": "pt",
     "slug": "amazon-os-skus-do-mesmo-produto-nao-foram-agrupados-na-amazon",
     "internalReference": 1240446
   },
@@ -22788,6 +22813,11 @@
     "locale": "pt",
     "slug": "o-email-de-reembolso-do-pedido-nao-e-enviado-quando-um-valor-adicional-e-reembolsado-usando-a-nova-interface-do-usuario-oms",
     "internalReference": 563300
+  },
+  {
+    "locale": "pt",
+    "slug": "o-espaco-no-campo-invoicenumber-causa-uma-falha-no-fluxo-poscompra",
+    "internalReference": 631970
   },
   {
     "locale": "pt",
