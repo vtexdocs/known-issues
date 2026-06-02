@@ -1,11 +1,6 @@
 name: Flag Invalid Filenames
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'docs/**/untitled.md'
-      - 'docs/**/.md'
   workflow_dispatch:
 
 jobs:
