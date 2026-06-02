@@ -6226,11 +6226,6 @@
   },
   {
     "locale": "en",
-    "slug": "error-when-processing-the-second-refund-of-the-same-value-as-the-first-gift-card-has-been-already-refunded",
-    "internalReference": 1118560
-  },
-  {
-    "locale": "en",
     "slug": "error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first",
     "internalReference": 1118560
   },
@@ -15313,11 +15308,6 @@
     "locale": "es",
     "slug": "error-al-liquidar-la-transaccion-con-2-tarjetas-mercadopagov1",
     "internalReference": 395943
-  },
-  {
-    "locale": "es",
-    "slug": "error-al-procesar-el-segundo-reembolso-del-mismo-valor-que-el-primero-la-tarjeta-regalo-ya-ha-sido-reembolsada",
-    "internalReference": 1118560
   },
   {
     "locale": "es",
@@ -24798,11 +24788,6 @@
     "locale": "pt",
     "slug": "erro-ao-liquidar-transacao-com-2-cartoes-mercadopagov1",
     "internalReference": 395943
-  },
-  {
-    "locale": "pt",
-    "slug": "erro-ao-processar-o-segundo-reembolso-do-mesmo-valor-que-o-primeiro-o-cartaopresente-ja-foi-reembolsado",
-    "internalReference": 1118560
   },
   {
     "locale": "pt",
