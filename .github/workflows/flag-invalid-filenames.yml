@@ -55,16 +55,18 @@ jobs:
           git checkout -b "$BRANCH"
 
           FILES=$(node .github/scripts/find-invalid-filenames.js)
-          PR_BODY="The following files have invalid names (\`.md\` or \`untitled.md\`) and should be reviewed and deleted:\n\n"
 
+          # Save relative paths for the PR body before deleting
+          FILE_LIST=""
           while IFS= read -r FILE; do
             RELATIVE=$(realpath --relative-to="$GITHUB_WORKSPACE" "$FILE")
             echo "Deleting: $RELATIVE"
             git rm -f "$FILE"
-            PR_BODY+="- \`$RELATIVE\`\n"
+            FILE_LIST+="- \`$RELATIVE\`"$'\n'
           done <<< "$FILES"
 
-          echo -e "pr_body=$PR_BODY" >> $GITHUB_OUTPUT
+          # Write file list to a temp file so the next step can read it
+          echo "$FILE_LIST" > /tmp/invalid-files.txt
 
           git commit -m "fix: remove known issues with invalid filenames (.md or untitled.md)"
           git push origin "$BRANCH"
@@ -74,8 +76,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          FILE_LIST=$(cat /tmp/invalid-files.txt)
+
           gh pr create \
             --title "fix: remove known issues with invalid filenames" \
-            --body "$(printf 'This PR was automatically generated.\n\nThe following files have invalid names (`.md` or `untitled.md`) and are proposed for deletion. Please review before merging.\n\n'"$(node .github/scripts/find-invalid-filenames.js | sed 's|'"$GITHUB_WORKSPACE"'/||g' | sed 's/^/- `/' | sed 's/$/`/')"'\n')" \
+            --body "$(printf 'This PR was automatically generated.\n\nThe following files have invalid names (`.md` or `untitled.md`) and are proposed for deletion. Please review before merging.\n\n%s' "$FILE_LIST")" \
             --base main \
             --head "${{ steps.branch.outputs.branch }}"
