@@ -1,0 +1,81 @@
+name: Flag Invalid Filenames
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**/untitled.md'
+      - 'docs/**/.md'
+  workflow_dispatch:
+
+jobs:
+  flag-invalid-filenames:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Find invalid filenames
+        id: find
+        run: |
+          OUTPUT=$(node .github/scripts/find-invalid-filenames.js)
+          echo "$OUTPUT"
+          if echo "$OUTPUT" | grep -q "No invalid filenames found"; then
+            echo "found=false" >> $GITHUB_OUTPUT
+          else
+            echo "found=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Set Git identity
+        if: steps.find.outputs.found == 'true'
+        run: |
+          git config user.name "vtex-known-issues[bot]"
+          git config user.email "213649991+vtex-known-issues[bot]@users.noreply.github.com"
+
+      - name: Create branch and delete invalid files
+        if: steps.find.outputs.found == 'true'
+        id: branch
+        run: |
+          BRANCH="fix/remove-invalid-filenames-$(date +%Y%m%d%H%M%S)"
+          echo "branch=$BRANCH" >> $GITHUB_OUTPUT
+          git checkout -b "$BRANCH"
+
+          FILES=$(node .github/scripts/find-invalid-filenames.js)
+          PR_BODY="The following files have invalid names (\`.md\` or \`untitled.md\`) and should be reviewed and deleted:\n\n"
+
+          while IFS= read -r FILE; do
+            RELATIVE=$(realpath --relative-to="$GITHUB_WORKSPACE" "$FILE")
+            echo "Deleting: $RELATIVE"
+            git rm -f "$FILE"
+            PR_BODY+="- \`$RELATIVE\`\n"
+          done <<< "$FILES"
+
+          echo -e "pr_body=$PR_BODY" >> $GITHUB_OUTPUT
+
+          git commit -m "fix: remove known issues with invalid filenames (.md or untitled.md)"
+          git push origin "$BRANCH"
+
+      - name: Open pull request
+        if: steps.find.outputs.found == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr create \
+            --title "fix: remove known issues with invalid filenames" \
+            --body "$(printf 'This PR was automatically generated.\n\nThe following files have invalid names (`.md` or `untitled.md`) and are proposed for deletion. Please review before merging.\n\n'"$(node .github/scripts/find-invalid-filenames.js | sed 's|'"$GITHUB_WORKSPACE"'/||g' | sed 's/^/- `/' | sed 's/$/`/')"'\n')" \
+            --base main \
+            --head "${{ steps.branch.outputs.branch }}"
