@@ -3,9 +3,13 @@ name: Map Known Issue slugs and Zendesk IDs
 on:
   push:
     branches: [main]
+    paths:
+      - 'docs/**'
   pull_request:
     types: [closed]
     branches: [main]
+    paths:
+      - 'docs/**'
   workflow_dispatch:
 
 jobs:
