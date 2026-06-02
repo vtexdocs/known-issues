@@ -28,31 +28,27 @@ function getMarkdownFiles(dir) {
     return results;
 }
 
-function extractInternalReference(filePath) {
+function extractFrontmatter(filePath) {
     const content = fs.readFileSync(filePath, 'utf8');
-    // Extract YAML frontmatter block
     const frontmatterMatch = content.match(/^---([\s\S]*?)---/);
     if (!frontmatterMatch) {
-        console.log(`[extractInternalReference] No frontmatter found in: ${filePath}`);
+        console.log(`[extractFrontmatter] No frontmatter found in: ${filePath}`);
         return null;
     }
-    let frontmatter;
     try {
-        frontmatter = yaml.load(frontmatterMatch[1]);
+        return yaml.load(frontmatterMatch[1]);
     } catch (e) {
-        console.log(`[extractInternalReference] YAML parse error in: ${filePath}`);
+        console.log(`[extractFrontmatter] YAML parse error in: ${filePath}`);
         return null;
     }
-    if (!frontmatter || !frontmatter.internalReference) {
-        console.log(`[extractInternalReference] No internalReference found in: ${filePath}`);
-        return null;
-    }
-    return frontmatter.internalReference;
 }
 
 function main() {
     console.log('[main] Starting mapping process...');
-    const output = [];
+
+    // Map of "locale:internalReference" -> best entry so far
+    const best = {};
+
     LOCALES.forEach(locale => {
         const localeDir = path.join(DOCS_DIR, locale);
         if (!fs.existsSync(localeDir)) {
@@ -64,17 +60,24 @@ function main() {
             const categoryDir = path.join(localeDir, category);
             const files = getMarkdownFiles(categoryDir);
             files.forEach(file => {
-                const internalReference = extractInternalReference(file);
-                if (internalReference) {
-                    output.push({
-                        locale,
-                        slug: path.basename(file, '.md'),
-                        internalReference
-                    });
+                const fm = extractFrontmatter(file);
+                if (!fm || !fm.internalReference) return;
+
+                const key = `${locale}:${fm.internalReference}`;
+                const updatedAt = fm.updatedAt ? new Date(fm.updatedAt) : new Date(0);
+                const candidate = { locale, slug: path.basename(file, '.md'), internalReference: fm.internalReference, updatedAt };
+
+                if (!best[key] || updatedAt > best[key].updatedAt) {
+                    if (best[key]) {
+                        console.log(`[main] Duplicate Zendesk ID ${fm.internalReference} (${locale}): preferring ${candidate.slug} over ${best[key].slug}`);
+                    }
+                    best[key] = candidate;
                 }
             });
         });
     });
+
+    const output = Object.values(best).map(({ locale, slug, internalReference }) => ({ locale, slug, internalReference }));
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2));
     console.log(`[main] Output written to ${OUTPUT_FILE}`);
 }
