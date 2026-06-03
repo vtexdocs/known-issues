@@ -7861,6 +7861,11 @@
   },
   {
     "locale": "en",
+    "slug": "subscription-promotions-with-defined-periodicity-may-not-apply-to-recurring-orders",
+    "internalReference": 1416445
+  },
+  {
+    "locale": "en",
     "slug": "tax-apportionment-divergence",
     "internalReference": 561466
   },
@@ -16298,6 +16303,11 @@
     "locale": "es",
     "slug": "error-no-se-pueden-crear-criterios-de-busqueda-error-el-filtro-ya-existe-brandid-al-crear-una-promocion-que-excluye-mas-de-1-marca",
     "internalReference": 663698
+  },
+  {
+    "locale": "es",
+    "slug": "es-posible-que-las-promociones-de-suscripcion-con-una-periodicidad-definida-no-se-apliquen-a-los-pedidos-recurrentes",
+    "internalReference": 1416445
   },
   {
     "locale": "es",
@@ -24938,6 +24948,11 @@
     "locale": "pt",
     "slug": "as-condicoes-do-catalogo-de-promocoes-se-aplicam-ao-skucomponent-mesmo-quando-apenas-o-skukit-e-adicionado-ao-carrinho",
     "internalReference": 1085500
+  },
+  {
+    "locale": "pt",
+    "slug": "as-promocoes-de-assinatura-com-periodicidade-definida-podem-nao-se-aplicar-a-pedidos-recorrentes",
+    "internalReference": 1416445
   },
   {
     "locale": "pt",
