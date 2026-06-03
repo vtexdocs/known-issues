@@ -176,6 +176,11 @@
   },
   {
     "locale": "en",
+    "slug": "b2b-organizations-does-not-limit-the-number-of-collections-set-for-an-organization-which-may-lead-to-the-filter-not-working",
+    "internalReference": 1416519
+  },
+  {
+    "locale": "en",
     "slug": "b2b-organizations-impersonate-feature-doesnt-register-information-in-orders",
     "internalReference": 1056736
   },
@@ -8773,6 +8778,11 @@
     "locale": "es",
     "slug": "b2b-checkout-settings-esta-considerando-la-direccion-de-recogida-para-las-entregas",
     "internalReference": 1186568
+  },
+  {
+    "locale": "es",
+    "slug": "b2b-organizations-no-limita-el-numero-de-colecciones-que-se-pueden-configurar-para-una-organizacion-lo-que-puede-hacer-que-el-filtro-no-funcione",
+    "internalReference": 1416519
   },
   {
     "locale": "es",
@@ -17533,6 +17543,11 @@
     "locale": "pt",
     "slug": "o-b2b-bulk-import-nao-valida-a-id-ja-em-uso",
     "internalReference": 1128764
+  },
+  {
+    "locale": "pt",
+    "slug": "o-b2b-organizations-nao-limita-o-numero-de-colecoes-definidas-para-uma-organizacao-o-que-pode-fazer-com-que-o-filtro-nao-funcione",
+    "internalReference": 1416519
   },
   {
     "locale": "pt",
