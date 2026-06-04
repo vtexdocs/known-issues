@@ -176,7 +176,7 @@
   },
   {
     "locale": "en",
-    "slug": "b2b-organizations-does-not-limit-the-number-of-collections-set-for-an-organization-which-may-lead-to-search-filter-not-working",
+    "slug": "b2b-organizations-does-not-limit-the-number-of-collections-set-for-an-organization-which-may-lead-to-segmentbased-filters-not-working",
     "internalReference": 1416519
   },
   {
@@ -8781,7 +8781,7 @@
   },
   {
     "locale": "es",
-    "slug": "b2b-organizations-no-limita-el-numero-de-colecciones-que-se-pueden-configurar-para-una-organizacion-lo-que-puede-provocar-que-el-filtro-de-busqueda-no-funcione",
+    "slug": "b2b-organizations-no-limita-el-numero-de-colecciones-que-se-pueden-configurar-para-una-organizacion-lo-que-puede-provocar-que-los-filtros-basados-en-segmentos-no-funcionen",
     "internalReference": 1416519
   },
   {
@@ -17546,7 +17546,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-b2b-organizations-nao-limita-o-numero-de-colecoes-definidas-para-uma-organizacao-o-que-pode-fazer-com-que-o-filtro-de-pesquisa-nao-funcione",
+    "slug": "o-b2b-organizations-nao-limita-o-numero-de-colecoes-definidas-para-uma-organizacao-o-que-pode-fazer-com-que-os-filtros-baseados-em-segmentos-nao-funcionem",
     "internalReference": 1416519
   },
   {
