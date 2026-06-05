@@ -6766,6 +6766,11 @@
   },
   {
     "locale": "en",
+    "slug": "save-card-doesnt-work-for-payu-due-to-the-amount-of-validation",
+    "internalReference": 334891
+  },
+  {
+    "locale": "en",
     "slug": "save-card-doesnt-work-when-3ds2-is-active",
     "internalReference": 319708
   },
@@ -15228,6 +15233,11 @@
     "locale": "es",
     "slug": "la-tarjeta-regalo-de-native-esta-recargandose-aunque-devuelve-500",
     "internalReference": 760896
+  },
+  {
+    "locale": "es",
+    "slug": "la-tarjeta-save-no-funciona-con-payu-debido-al-importe-de-la-validacion",
+    "internalReference": 334891
   },
   {
     "locale": "es",
@@ -24053,6 +24063,11 @@
     "locale": "pt",
     "slug": "o-cartao-de-salvamento-nao-funciona-quando-o-3ds2-esta-ativo",
     "internalReference": 319708
+  },
+  {
+    "locale": "pt",
+    "slug": "o-cartao-salvar-nao-funciona-com-o-payu-devido-ao-valor-da-transacao",
+    "internalReference": 334891
   },
   {
     "locale": "pt",
