@@ -1,39 +1,31 @@
 ---
 title: 'Transactions made with PayU do not change from cancelling status'
-id: 5pyv7cj5LHOuPAiCXv7MO0
+slug: transactions-made-with-payu-do-not-change-from-cancelling-status
 status: PUBLISHED
-createdAt: 2022-03-03T18:45:17.651Z
-updatedAt: 2022-11-25T22:06:50.141Z
-publishedAt: 2022-11-25T22:06:50.141Z
-firstPublishedAt: 2022-03-03T18:45:17.994Z
+createdAt: 2021-02-25T15:56:28.000Z
+updatedAt: 2026-06-05T21:12:59.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transactions-made-with-payu-do-not-change-from-cancelling-status
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 338124
 ---
 
 ## Summary
 
-
-When the transaction enters a **canceling** status it's not possible to recognize therefore it does not change to **canceled**.
-The PayU connector send the following error: Response code: PENDING_TRANSACTION_REVIEW - AcquirerMessage : PENDING_REVIEW
-
-
+When a transaction using the **PayU** connector enters **"Canceling"** status, it fails to progress to **"Canceled"**. This happens because the PayU connector returns the response code `PENDING_TRANSACTION_REVIEW` with the message `PENDING_REVIEW`, which VTEX Gateway does not recognize as a valid cancellation response — leaving the transaction permanently stuck in "Canceling".
 
 ## Simulation
 
-
-This error does not happen in all accounts, but it's possible to find filtering the transaction with canceling status.
-
-
-
+Unable to reproduce in a controlled environment. The issue does not occur on all accounts and manifests intermittently in production. Transactions stuck in "Canceling" can be identified by filtering by status in the Gateway admin panel.
 
 ## Workaround
 
+Manually trigger the transaction cancellation via API:
 
-The workaround is to call manually the API: https://developers.vtex.com/vtex-developer-docs/reference/transaction-flow#cancelthetransaction
+    POST /api/payments/pvt/transactions/{transactionId}/cancellation-request
 
+Reference: https://developers.vtex.com/vtex-developer-docs/reference/transaction-flow#cancelthetransaction
