@@ -6721,6 +6721,11 @@
   },
   {
     "locale": "en",
+    "slug": "problems-to-cancel-a-transactions-with-sitef-connector",
+    "internalReference": 351783
+  },
+  {
+    "locale": "en",
     "slug": "problems-with-payment-condition-storage",
     "internalReference": 377684
   },
@@ -15631,6 +15636,11 @@
   },
   {
     "locale": "es",
+    "slug": "problemas-al-cancelar-una-transaccion-con-el-conector-sitef",
+    "internalReference": 351783
+  },
+  {
+    "locale": "es",
     "slug": "problemas-al-introducir-valores-en-la-tarjeta-regalo-de-fidelidad-al-finalizar-la-compra",
     "internalReference": 943629
   },
@@ -24333,6 +24343,11 @@
     "locale": "pt",
     "slug": "problema-para-pagar-com-giftcard-opcao-de-dois-cartoes",
     "internalReference": 393958
+  },
+  {
+    "locale": "pt",
+    "slug": "problemas-ao-cancelar-transacoes-com-o-conector-sitef",
+    "internalReference": 351783
   },
   {
     "locale": "pt",
