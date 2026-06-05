@@ -2,15 +2,15 @@
 title: 'When an error occurs after Firstdata approves a settlement, the transaction cannot be completed.'
 slug: when-an-error-occurs-after-firstdata-approves-a-settlement-the-transaction-cannot-be-completed
 status: PUBLISHED
-createdAt: 2023-02-27T15:48:16.000Z
-updatedAt: 2023-02-27T15:48:16.000Z
+createdAt: 2023-02-27T18:48:16.000Z
+updatedAt: 2026-06-05T20:47:13.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: when-an-error-occurs-after-firstdata-approves-a-settlement-the-transaction-cannot-be-completed
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 760458
 ---
 
