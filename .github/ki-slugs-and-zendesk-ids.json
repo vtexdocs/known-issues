@@ -14796,7 +14796,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-sistema-no-funciona-con-mas-de-una-afiliacion-de-pago-de-extension-para-el-metodo-de-debito-en-linea",
+    "slug": "el-sistema-no-admite-mas-de-una-afiliacion-de-pago-aplazado-para-el-metodo-de-pago-con-tarjeta-de-debito-en-linea",
     "internalReference": 319750
   },
   {
@@ -24141,7 +24141,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-sistema-nao-funciona-com-mais-de-uma-filiacao-de-pagamento-de-extensao-para-debito-online",
+    "slug": "o-sistema-nao-aceita-mais-de-uma-afiliacao-de-pagamento-por-extensao-para-o-metodo-de-debito-online",
     "internalReference": 319750
   },
   {
