@@ -6821,6 +6821,11 @@
   },
   {
     "locale": "en",
+    "slug": "the-functionality-of-save-card-in-my-account-do-not-work-for-payuglobal",
+    "internalReference": 309354
+  },
+  {
+    "locale": "en",
     "slug": "the-installments-request-at-the-gateway-to-a-merchant-other-than-the-marketplace-is-always-done-with-saleschannel-1",
     "internalReference": 391197
   },
@@ -15121,6 +15126,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-funcion-guardar-tarjeta-de-mi-cuenta-no-funciona-con-payuglobal",
+    "internalReference": 309354
+  },
+  {
+    "locale": "es",
     "slug": "la-funcion-mis-tarjetas-no-funciona-con-algunos-conectores-antiguos",
     "internalReference": 373636
   },
@@ -23288,6 +23298,11 @@
     "locale": "pt",
     "slug": "a-funcao-captura-antecipada-esta-competindo-indevidamente-com-a-funcao-captura-automatica-no-authorizedotnet",
     "internalReference": 866068
+  },
+  {
+    "locale": "pt",
+    "slug": "a-funcionalidade-salvar-cartao-em-minha-conta-nao-funciona-para-o-payuglobal",
+    "internalReference": 309354
   },
   {
     "locale": "pt",
