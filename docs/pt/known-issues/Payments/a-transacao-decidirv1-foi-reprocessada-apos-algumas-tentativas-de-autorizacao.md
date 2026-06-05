@@ -1,39 +1,29 @@
 ---
-title: 'A transação DecidirV1 foi ''reprocessada'' após algumas tentativas de autorização'
-id: 2fxfg1IlnFUxAjo9E47HPq
+title: 'A transação DecidirV1 foi "reprocessada" após algumas tentativas de autorização'
+slug: a-transacao-decidirv1-foi-reprocessada-apos-algumas-tentativas-de-autorizacao
 status: PUBLISHED
-createdAt: 2022-03-03T21:19:22.471Z
-updatedAt: 2022-11-25T22:04:50.821Z
-publishedAt: 2022-11-25T22:04:50.821Z
-firstPublishedAt: 2022-03-03T21:19:23.075Z
+createdAt: 2021-06-18T21:35:54.000Z
+updatedAt: 2026-06-05T20:41:09.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: decidirv1-transaction-got-reprocessed-after-some-retries-to-authorization
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 384009
 ---
 
-## Sumário
-
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
+## Sumário
 
-Isto acontece quando uma transação recebe o status 480 que significa "REVIEW", e começa a tentar novamente até receber uma carga útil nula. Então, depois disso, "reprocessamos" a transação que causa uma falha e um cancelamento.
-
-
+Isso ocorre quando uma transação recebe o status 480, que significa "REVISÃO", e começa a tentar novamente até receber uma carga nula. Assim, depois disso, "reprocessamos" a transação, o que causa uma falha e o cancelamento.
 
 ## Simulação
 
-
-Não há como simular isto.
-
-
+Não há como simular isso.
 
 ## Workaround
 
-
-Não há nenhuma solução disponível no momento.
-
+Não há solução alternativa disponível no momento
