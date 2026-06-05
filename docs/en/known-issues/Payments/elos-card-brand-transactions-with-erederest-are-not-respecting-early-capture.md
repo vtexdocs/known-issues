@@ -2,25 +2,25 @@
 title: "Elo's card brand transactions with ERedeRest are not respecting early capture"
 slug: elos-card-brand-transactions-with-erederest-are-not-respecting-early-capture
 status: PUBLISHED
-createdAt: 2021-03-30T20:57:36.000Z
-updatedAt: 2023-05-08T20:36:07.000Z
+createdAt: 2021-03-30T23:57:36.000Z
+updatedAt: 2026-06-05T21:25:49.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: elos-card-brand-transactions-with-erederest-are-not-respecting-early-capture
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 350814
 ---
 
 ## Summary
 
-For transactions with the Elo card brand, the early capture configuration is not being respected, and the transaction is being captured immediately after the approval.
+For transactions processed through the **ERedeRest** connector using the **Elo** card brand, the **early capture** configuration is not respected. The transaction is captured **immediately after authorization**, regardless of the delay configured for early capture.
 
 ## Simulation
 
-Create an Elo transaction with an affiliation that has early capture configured.
+Create a transaction using the ERedeRest affiliation with early capture configured and process a payment with an **Elo** card. The capture will occur immediately after authorization instead of waiting for the configured delay.
 
 ## Workaround
 
