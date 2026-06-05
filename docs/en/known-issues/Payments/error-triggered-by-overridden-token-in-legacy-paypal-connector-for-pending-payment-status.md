@@ -2,15 +2,15 @@
 title: 'Error triggered by overridden TOKEN in legacy PayPal connector for pending payment status'
 slug: error-triggered-by-overridden-token-in-legacy-paypal-connector-for-pending-payment-status
 status: PUBLISHED
-createdAt: 2020-11-21T05:11:02.000Z
-updatedAt: 2023-06-13T20:01:14.000Z
+createdAt: 2020-11-21T08:11:02.000Z
+updatedAt: 2026-06-05T21:02:01.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: error-triggered-by-overridden-token-in-legacy-paypal-connector-for-pending-payment-status
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 308214
 ---
 
