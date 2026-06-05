@@ -6116,6 +6116,11 @@
   },
   {
     "locale": "en",
+    "slug": "erederest-connector-doesnt-capture-payment-from-get-request-when-its-amount-is-lower-than-the-total-value-of-the-payment",
+    "internalReference": 664081
+  },
+  {
+    "locale": "en",
     "slug": "error-cancelling-customer-credit-invoices",
     "internalReference": 926563
   },
@@ -14678,6 +14683,11 @@
     "locale": "es",
     "slug": "el-conector-antifraude-clearsale-esta-enviando-los-articulos-del-carrito-equivocados-en-los-casos-en-los-que-dos-o-mas-articulos-comparten-el-mismo",
     "internalReference": 799396
+  },
+  {
+    "locale": "es",
+    "slug": "el-conector-eredrest-no-registra-el-pago-de-una-solicitud-get-cuando-su-importe-es-inferior-al-valor-total-del-pago",
+    "internalReference": 664081
   },
   {
     "locale": "es",
@@ -24018,6 +24028,11 @@
     "locale": "pt",
     "slug": "o-conector-de-terminal-faz-um-loop-em-vez-de-mostrar-um-erro-quando-um-codigo-de-terminal-invalido-e-inserido-sales-app-pos",
     "internalReference": 1303282
+  },
+  {
+    "locale": "pt",
+    "slug": "o-conector-erederest-nao-captura-o-pagamento-de-uma-solicitacao-get-quando-o-valor-e-inferior-ao-valor-total-do-pagamento",
+    "internalReference": 664081
   },
   {
     "locale": "pt",
