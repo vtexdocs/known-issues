@@ -2,15 +2,15 @@
 title: 'Alterar o número de caracteres no boleto Braspag'
 slug: alterar-o-numero-de-caracteres-no-boleto-braspag
 status: PUBLISHED
-createdAt: 2023-03-14T19:01:30.000Z
-updatedAt: 2023-03-20T19:12:46.000Z
+createdAt: 2023-03-14T22:01:30.000Z
+updatedAt: 2026-06-05T20:23:27.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: change-the-number-of-characters-in-the-braspag-slip
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 771045
 ---
 
