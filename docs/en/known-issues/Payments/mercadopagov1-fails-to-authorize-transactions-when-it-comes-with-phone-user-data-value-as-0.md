@@ -2,15 +2,15 @@
 title: 'MercadoPagoV1 fails to authorize transactions when it comes with phone user data value as 0.'
 slug: mercadopagov1-fails-to-authorize-transactions-when-it-comes-with-phone-user-data-value-as-0
 status: PUBLISHED
-createdAt: 2023-03-27T15:34:56.000Z
-updatedAt: 2023-03-27T15:34:56.000Z
+createdAt: 2023-03-27T18:34:56.000Z
+updatedAt: 2026-06-05T20:47:37.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: mercadopagov1-fails-to-authorize-transactions-when-it-comes-with-phone-user-data-value-as-0
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 778611
 ---
 
