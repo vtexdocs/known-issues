@@ -5926,6 +5926,11 @@
   },
   {
     "locale": "en",
+    "slug": "boleto-transaction-cancelled-after-retry-limit-expires-over-weekend-despite-still-being-valid-for-payment",
+    "internalReference": 374288
+  },
+  {
+    "locale": "en",
     "slug": "braspag-error-when-capturing-or-canceling-due-to-an-error-with-code-bp901",
     "internalReference": 490428
   },
@@ -15186,6 +15191,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-transaccion-del-boleto-se-ha-cancelado-tras-agotarse-el-limite-de-reintentos-durante-el-fin-de-semana-a-pesar-de-que-seguia-siendo-valida-para-el-pago",
+    "internalReference": 374288
+  },
+  {
+    "locale": "es",
     "slug": "la-transaccion-se-cancela-tras-pasar-de-autorizada-a-iniciada",
     "internalReference": 1341471
   },
@@ -24403,6 +24413,11 @@
     "locale": "pt",
     "slug": "transacao-travada-no-status-cancelando",
     "internalReference": 327248
+  },
+  {
+    "locale": "pt",
+    "slug": "transacao-via-boleto-cancelada-apos-o-limite-de-tentativas-expirar-no-fim-de-semana-apesar-de-ainda-estar-valida-para-pagamento",
+    "internalReference": 374288
   },
   {
     "locale": "pt",
