@@ -6996,6 +6996,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-stuck-on-capturing-value-sent-to-connector-yami-different-from-order-value",
+    "internalReference": 317833
+  },
+  {
+    "locale": "en",
     "slug": "transaction-with-antifraud-doesnt-update-to-settling-when-riskapproved-log-is-missing",
     "internalReference": 1184723
   },
@@ -15266,6 +15271,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-transaccion-se-ha-quedado-bloqueada-en-la-fase-de-captura-el-valor-enviado-al-conector-yami-difiere-del-valor-del-pedido",
+    "internalReference": 317833
+  },
+  {
+    "locale": "es",
     "slug": "la-transaccion-se-procesa-mediante-autorizacion-y-liquidacion-a-pesar-de-haber-sido-cancelada",
     "internalReference": 1417330
   },
@@ -23408,6 +23418,11 @@
     "locale": "pt",
     "slug": "a-transacao-esta-sendo-liquidada-mas-o-pagamento-com-cartaopresente-permanece-no-status-autorizado-apos-um-erro-na-liquidacao-automatica",
     "internalReference": 1201336
+  },
+  {
+    "locale": "pt",
+    "slug": "a-transacao-esta-travada-na-fase-de-captura-o-valor-enviado-ao-conector-yami-difere-do-valor-do-pedido",
+    "internalReference": 317833
   },
   {
     "locale": "pt",
