@@ -2,15 +2,15 @@
 title: 'AdyenV1 does not correctly send the paymentMethod.type for Amex when using Apple Pay.'
 slug: adyenv1-does-not-correctly-send-the-paymentmethodtype-for-amex-when-using-apple-pay
 status: PUBLISHED
-createdAt: 2023-10-17T14:58:13.000Z
-updatedAt: 2023-10-17T14:58:13.000Z
+createdAt: 2023-10-17T17:58:13.000Z
+updatedAt: 2026-06-05T20:09:07.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: adyenv1-does-not-correctly-send-the-paymentmethodtype-for-amex-when-using-apple-pay
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 920563
 ---
 
