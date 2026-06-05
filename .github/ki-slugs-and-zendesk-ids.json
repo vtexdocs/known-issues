@@ -6901,6 +6901,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-proceeds-through-authorization-and-settlement-despite-being-cancelled",
+    "internalReference": 1417330
+  },
+  {
+    "locale": "en",
     "slug": "transaction-settling-while-giftcard-payment-stuck-in-authorized-status-after-autosettle-error",
     "internalReference": 1201336
   },
@@ -15196,6 +15201,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-transaccion-se-procesa-mediante-autorizacion-y-liquidacion-a-pesar-de-haber-sido-cancelada",
+    "internalReference": 1417330
+  },
+  {
+    "locale": "es",
     "slug": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
     "internalReference": 1363196
   },
@@ -23333,6 +23343,11 @@
     "locale": "pt",
     "slug": "a-transacao-nao-esta-sendo-carregada-tela-em-branco",
     "internalReference": 1157426
+  },
+  {
+    "locale": "pt",
+    "slug": "a-transacao-segue-adiante-com-a-autorizacao-e-a-liquidacao-apesar-de-ter-sido-cancelada",
+    "internalReference": 1417330
   },
   {
     "locale": "pt",
