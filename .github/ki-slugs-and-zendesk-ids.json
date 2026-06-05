@@ -14876,7 +14876,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-de-braspag-al-capturar-o-cancelar-debido-a-un-error-con-el-codigo-bp901",
+    "slug": "error-de-braspag-al-registrar-o-cancelar-debido-a-un-error-con-el-codigo-bp901",
     "internalReference": 490428
   },
   {
@@ -23681,7 +23681,7 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-da-braspag-ao-capturar-ou-cancelar-devido-a-um-erro-com-o-codigo-bp901",
+    "slug": "erro-no-braspag-ao-registrar-ou-cancelar-devido-a-um-erro-com-o-codigo-bp901",
     "internalReference": 490428
   },
   {
