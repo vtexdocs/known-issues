@@ -15311,7 +15311,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-transacciones-realizadas-con-payu-no-cambian-de-estado-de-cancelacion",
+    "slug": "las-transacciones-realizadas-con-payu-no-pasan-del-estado-de-cancelacion",
     "internalReference": 338124
   },
   {
@@ -23511,7 +23511,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-transacoes-feitas-com-payu-nao-mudam-do-status-de-cancelamento",
+    "slug": "as-transacoes-realizadas-com-o-payu-nao-mudam-de-status-apos-o-cancelamento",
     "internalReference": 338124
   },
   {
