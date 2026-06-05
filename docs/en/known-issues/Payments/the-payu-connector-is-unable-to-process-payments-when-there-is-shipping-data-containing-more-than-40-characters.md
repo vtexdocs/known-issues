@@ -2,15 +2,15 @@
 title: 'The PayU connector is unable to process payments when there is shipping data containing more than 40 characters.'
 slug: the-payu-connector-is-unable-to-process-payments-when-there-is-shipping-data-containing-more-than-40-characters
 status: PUBLISHED
-createdAt: 2023-09-18T21:02:18.000Z
-updatedAt: 2023-09-18T21:02:18.000Z
+createdAt: 2023-09-19T00:02:18.000Z
+updatedAt: 2026-06-05T21:10:27.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: the-payu-connector-is-unable-to-process-payments-when-there-is-shipping-data-containing-more-than-40-characters
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 902539
 ---
 
