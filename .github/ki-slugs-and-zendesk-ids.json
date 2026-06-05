@@ -6161,6 +6161,11 @@
   },
   {
     "locale": "en",
+    "slug": "error-to-cancel-private-label-transactions-with-sitef",
+    "internalReference": 451735
+  },
+  {
+    "locale": "en",
     "slug": "error-triggered-by-overridden-token-in-legacy-paypal-connector-for-pending-payment-status",
     "internalReference": 308214
   },
@@ -14848,6 +14853,11 @@
     "locale": "es",
     "slug": "error-al-cancelar-facturas-de-credito-de-clientes",
     "internalReference": 926563
+  },
+  {
+    "locale": "es",
+    "slug": "error-al-cancelar-transacciones-de-marca-blanca-con-sitef",
+    "internalReference": 451735
   },
   {
     "locale": "es",
@@ -23673,6 +23683,11 @@
     "locale": "pt",
     "slug": "erro-ao-cancelar-faturas-de-credito-do-cliente",
     "internalReference": 926563
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-ao-cancelar-transacoes-de-marca-propria-com-o-sitef",
+    "internalReference": 451735
   },
   {
     "locale": "pt",
