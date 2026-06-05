@@ -14656,11 +14656,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-conector-adyen-heredado-es-incapaz-de-denegar-de-forma-asincrona-la-captura-de-pagos",
-    "internalReference": 976005
-  },
-  {
-    "locale": "es",
     "slug": "el-conector-adyenv1-no-envia-el-campo-pspreference-en-algunas-operaciones-lo-que-provoca-un-error",
     "internalReference": 758411
   },
@@ -14668,6 +14663,11 @@
     "locale": "es",
     "slug": "el-conector-antifraude-clearsale-esta-enviando-los-articulos-del-carrito-equivocados-en-los-casos-en-los-que-dos-o-mas-articulos-comparten-el-mismo",
     "internalReference": 799396
+  },
+  {
+    "locale": "es",
+    "slug": "el-conector-heredado-de-adyen-no-permite-rechazar-de-forma-asincrona-el-procesamiento-de-un-pago",
+    "internalReference": 976005
   },
   {
     "locale": "es",
@@ -23986,13 +23986,13 @@
   },
   {
     "locale": "pt",
-    "slug": "o-conector-de-terminal-faz-um-loop-em-vez-de-mostrar-um-erro-quando-um-codigo-de-terminal-invalido-e-inserido-sales-app-pos",
-    "internalReference": 1303282
+    "slug": "o-conector-antigo-da-adyen-nao-e-capaz-de-recusar-a-captura-de-pagamentos-de-forma-assincrona",
+    "internalReference": 976005
   },
   {
     "locale": "pt",
-    "slug": "o-conector-legado-da-adyen-nao-consegue-recusar-de-forma-assincrona-a-captura-de-pagamentos",
-    "internalReference": 976005
+    "slug": "o-conector-de-terminal-faz-um-loop-em-vez-de-mostrar-um-erro-quando-um-codigo-de-terminal-invalido-e-inserido-sales-app-pos",
+    "internalReference": 1303282
   },
   {
     "locale": "pt",
