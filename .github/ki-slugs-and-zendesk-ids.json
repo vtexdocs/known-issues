@@ -15116,6 +15116,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-funcion-mis-tarjetas-no-funciona-con-algunos-conectores-antiguos",
+    "internalReference": 373636
+  },
+  {
+    "locale": "es",
     "slug": "la-integracion-de-mercadopago-v1-y-v2-no-funciona-con-la-funcion-de-guardar-tarjetas",
     "internalReference": 283727
   },
@@ -15438,11 +15443,6 @@
     "locale": "es",
     "slug": "mis-creditos-no-muestran-la-factura-de-paymentlink-aunque-el-campo-este-configurado",
     "internalReference": 546267
-  },
-  {
-    "locale": "es",
-    "slug": "mis-tarjetas-no-funcionan-para-algunos-conectores-heredados",
-    "internalReference": 373636
   },
   {
     "locale": "es",
@@ -23866,7 +23866,7 @@
   },
   {
     "locale": "pt",
-    "slug": "meus-cartoes-nao-estao-funcionando-para-alguns-conectores-legados",
+    "slug": "o-recurso-meus-cartoes-nao-esta-funcionando-com-alguns-conectores-antigos",
     "internalReference": 373636
   },
   {
