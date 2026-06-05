@@ -6676,6 +6676,11 @@
   },
   {
     "locale": "en",
+    "slug": "paypal-plus-transacoes-nao-sao-canceladas-com-sucesso",
+    "internalReference": 316713
+  },
+  {
+    "locale": "en",
     "slug": "paypalplus-does-not-respect-the-minimum-installment-amount",
     "internalReference": 370271
   },
@@ -15566,6 +15571,11 @@
   },
   {
     "locale": "es",
+    "slug": "paypal-plus-las-transacciones-no-se-cancelan-correctamente",
+    "internalReference": 316713
+  },
+  {
+    "locale": "es",
     "slug": "paypalplus-no-respeta-el-importe-minimo-de-la-cuota",
     "internalReference": 370271
   },
@@ -24243,6 +24253,11 @@
     "locale": "pt",
     "slug": "para-a-divida-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta",
     "internalReference": 367284
+  },
+  {
+    "locale": "pt",
+    "slug": "paypal-plus-transacoes-nao-sao-canceladas-com-sucesso",
+    "internalReference": 316713
   },
   {
     "locale": "pt",
