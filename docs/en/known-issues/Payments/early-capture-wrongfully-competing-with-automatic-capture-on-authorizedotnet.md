@@ -2,15 +2,15 @@
 title: 'Early Capture wrongfully competing with Automatic Capture on AuthorizeDotNet'
 slug: early-capture-wrongfully-competing-with-automatic-capture-on-authorizedotnet
 status: PUBLISHED
-createdAt: 2023-07-20T18:08:14.000Z
-updatedAt: 2023-07-20T18:08:14.000Z
+createdAt: 2023-07-20T21:08:14.000Z
+updatedAt: 2026-06-05T20:48:23.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: early-capture-wrongfully-competing-with-automatic-capture-on-authorizedotnet
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 866068
 ---
 
