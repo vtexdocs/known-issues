@@ -2,15 +2,15 @@
 title: 'AdyenV1 no envía correctamente el valor de «paymentMethod.type» para Amex cuando se utiliza Apple Pay.'
 slug: adyenv1-no-envia-correctamente-el-valor-de-paymentmethodtype-para-amex-cuando-se-utiliza-apple-pay
 status: PUBLISHED
-createdAt: 2023-10-17T14:58:13.000Z
-updatedAt: 2023-10-17T14:58:13.000Z
+createdAt: 2023-10-17T17:58:13.000Z
+updatedAt: 2026-06-05T20:09:07.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: adyenv1-does-not-correctly-send-the-paymentmethodtype-for-amex-when-using-apple-pay
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 920563
 ---
 
@@ -20,7 +20,7 @@ internalReference: 920563
 
 Aunque Apple Pay permite al usuario realizar un pedido con una tarjeta Amex, nuestro conector heredado AdyenV1 no es compatible con esta marca.
 
-En los registros de interacción, se observa que el campo `paymentMethod.type` está rellenado con «scheme», lo que provoca un error de Adyen.
+En los registros de interacción, se observa que el campo `paymentMethod.type` contiene el valor «scheme», lo que provoca un error de Adyen.
 
 ## Simulación
 
