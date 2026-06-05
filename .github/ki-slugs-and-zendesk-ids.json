@@ -15441,7 +15441,7 @@
   },
   {
     "locale": "es",
-    "slug": "no-es-posible-liquidar-una-transaccion-con-el-metodo-del-boleto-utilizando-braspag",
+    "slug": "no-es-posible-pagar-una-transaccion-mediante-el-metodo-boleto-con-braspag",
     "internalReference": 558065
   },
   {
@@ -23876,7 +23876,7 @@
   },
   {
     "locale": "pt",
-    "slug": "nao-e-possivel-liquidar-uma-transacao-com-o-metodo-boleto-utilizando-a-braspag",
+    "slug": "nao-e-possivel-efetuar-o-pagamento-de-uma-transacao-pelo-metodo-do-boleto-utilizando-o-braspag",
     "internalReference": 558065
   },
   {
