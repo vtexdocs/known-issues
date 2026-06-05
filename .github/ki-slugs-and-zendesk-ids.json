@@ -15526,7 +15526,7 @@
   },
   {
     "locale": "es",
-    "slug": "nps-no-aceptamos-respuestas-con-mas-de-65536-caracteres",
+    "slug": "nps-no-aceptamos-respuestas-con-mas-de-65-536-caracteres",
     "internalReference": 317389
   },
   {
@@ -23946,7 +23946,7 @@
   },
   {
     "locale": "pt",
-    "slug": "nps-nao-estamos-aceitando-resposta-com-mais-de-65536-caracteres",
+    "slug": "nps-nao-aceitamos-respostas-com-mais-de-65536-caracteres",
     "internalReference": 317389
   },
   {
