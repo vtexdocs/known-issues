@@ -2,33 +2,32 @@
 title: 'Transactions with the TNSPay connector being denied by error: Card not ENROLLED in 3DS'
 slug: transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds
 status: PUBLISHED
-createdAt: 2022-03-14T13:21:44.000Z
-updatedAt: 2023-04-10T16:10:35.000Z
+createdAt: 2022-03-14T16:21:44.000Z
+updatedAt: 2026-06-05T21:21:11.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 541687
 ---
 
 ## Summary
 
-The default is that they are canceled and we send two Authorize 3Ds Requests, and you still haven't received the Authorize Request response.
-The second response only appears after it has already entered the cancellation flow.
+When using the **TNSPay** connector with **3DS authentication** configured, a race condition causes the authorization method to be called **twice within 2 seconds**. The second authorization response only arrives after the transaction has already entered the cancellation flow, resulting in the transaction being denied with the error:
 
-The issue is due to a race condition, and this causes the payout fields to be inconsistent.
-At the beginning of the process, the first log is
+> `Card not ENROLLED in 3DS`
 
-`Authorize using 3DS given the configurations 3DS: always MinimumValue`
+The payout fields also end up in an inconsistent state as a consequence of the duplicate authorization attempt.
+The issue is identifiable by the following log appearing twice at the start of the transaction:
 
-The authorization method was called 2 times within 2 seconds.
+> `Authorize using 3DS given the configurations 3DS: always MinimumValue`
 
 ## Simulation
 
-Cannot simulate
+Unable to reproduce in a controlled environment. The race condition occurs intermittently in production.
 
 ## Workaround
 
