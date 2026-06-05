@@ -5866,7 +5866,7 @@
   },
   {
     "locale": "en",
-    "slug": ".md",
+    "slug": "change-order-to-higher-value-not-captured-automatically-in-braspag-leaving-order-stuck",
     "internalReference": 351786
   },
   {
@@ -14571,7 +14571,7 @@
   },
   {
     "locale": "es",
-    "slug": ".md",
+    "slug": "el-cambio-de-un-pedido-a-un-importe-superior-no-se-registra-automaticamente-en-braspag-lo-que-provoca-que-el-pedido-quede-bloqueado",
     "internalReference": 351786
   },
   {
@@ -23286,7 +23286,7 @@
   },
   {
     "locale": "pt",
-    "slug": ".md",
+    "slug": "a-alteracao-do-valor-do-pedido-para-um-valor-mais-alto-nao-e-registrada-automaticamente-no-braspag-deixando-o-pedido-em-espera",
     "internalReference": 351786
   },
   {
