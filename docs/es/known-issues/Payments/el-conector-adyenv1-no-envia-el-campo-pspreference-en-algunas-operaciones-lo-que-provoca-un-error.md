@@ -2,15 +2,15 @@
 title: 'El conector AdyenV1 no envía el campo «pspReference» en algunas operaciones, lo que provoca un error'
 slug: el-conector-adyenv1-no-envia-el-campo-pspreference-en-algunas-operaciones-lo-que-provoca-un-error
 status: PUBLISHED
-createdAt: 2023-02-23T13:51:46.000Z
-updatedAt: 2023-05-11T16:44:08.000Z
+createdAt: 2023-02-23T16:51:46.000Z
+updatedAt: 2026-06-05T20:15:50.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: adyenv1-connector-is-not-sending-pspreference-on-some-operations-and-thus-causing-error
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 758411
 ---
 
@@ -24,7 +24,7 @@ Se está investigando el motivo de la ausencia de este campo.
 
 ## Simulación
 
-Realiza un pedido con el conector de Adyen e intenta cancelarlo.
+Realice un pedido con el conector de Adyen e intente cancelarlo.
 
 ## Workaround
 
