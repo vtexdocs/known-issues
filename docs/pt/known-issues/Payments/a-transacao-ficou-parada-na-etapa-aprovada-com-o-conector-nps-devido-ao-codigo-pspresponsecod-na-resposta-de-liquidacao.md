@@ -2,15 +2,15 @@
 title: 'A transação ficou parada na etapa "aprovada" com o conector NPS devido ao código psp_ResponseCod na resposta de liquidação'
 slug: a-transacao-ficou-parada-na-etapa-aprovada-com-o-conector-nps-devido-ao-codigo-pspresponsecod-na-resposta-de-liquidacao
 status: PUBLISHED
-createdAt: 2022-04-06T14:06:46.000Z
-updatedAt: 2023-05-12T22:37:46.000Z
+createdAt: 2022-04-06T17:06:46.000Z
+updatedAt: 2026-06-05T21:01:31.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transaction-stuck-on-approved-with-nps-connector-due-to-pspresponsecod-in-settlement-response
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 557051
 ---
 
