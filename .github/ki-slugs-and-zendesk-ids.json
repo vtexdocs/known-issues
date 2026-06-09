@@ -3686,6 +3686,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
+    "internalReference": 1399947
+  },
+  {
+    "locale": "en",
     "slug": "mercado-livre-firstload-failure-in-mercado-libre-promotions-admin-data-only-loads-after-navigating-awayback",
     "internalReference": 1327218
   },
@@ -3708,11 +3713,6 @@
     "locale": "en",
     "slug": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
     "internalReference": 1325344
-  },
-  {
-    "locale": "en",
-    "slug": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand",
-    "internalReference": 1399947
   },
   {
     "locale": "en",
@@ -5866,11 +5866,6 @@
   },
   {
     "locale": "en",
-    "slug": "change-order-to-higher-value-not-captured-automatically-in-braspag-leaving-order-stuck",
-    "internalReference": 351786
-  },
-  {
-    "locale": "en",
     "slug": "12-digits-cardnumber-being-accepted-in-checkout-and-causing-stuck-transactions",
     "internalReference": 452392
   },
@@ -5988,6 +5983,11 @@
     "locale": "en",
     "slug": "catalog-access-profile-gives-access-to-the-gift-card-module",
     "internalReference": 362165
+  },
+  {
+    "locale": "en",
+    "slug": "change-order-to-higher-value-not-captured-automatically-in-braspag-leaving-order-stuck",
+    "internalReference": 351786
   },
   {
     "locale": "en",
@@ -12356,11 +12356,6 @@
   },
   {
     "locale": "es",
-    "slug": "mercado-libre-es-necesario-crear-los-siguientes-atributos-para-configurar-me2-brand",
-    "internalReference": 1399947
-  },
-  {
-    "locale": "es",
     "slug": "mercado-libre-los-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-y-sellerpackageweight-son-obligatorios",
     "internalReference": 1325344
   },
@@ -12398,6 +12393,11 @@
     "locale": "es",
     "slug": "mercado-livre-error-40000-40007-despues-de-hacer-clic-en-el-boton-para-publicar-en-el-catalogo-buybox",
     "internalReference": 1122911
+  },
+  {
+    "locale": "es",
+    "slug": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
+    "internalReference": 1399947
   },
   {
     "locale": "es",
@@ -14571,11 +14571,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-cambio-de-un-pedido-a-un-importe-superior-no-se-registra-automaticamente-en-braspag-lo-que-provoca-que-el-pedido-quede-bloqueado",
-    "internalReference": 351786
-  },
-  {
-    "locale": "es",
     "slug": "12-digitos-cardnumber-siendo-aceptados-en-la-caja-y-causando-transacciones-atascadas",
     "internalReference": 452392
   },
@@ -14698,6 +14693,11 @@
     "locale": "es",
     "slug": "el-boton-giratorio-de-mycards-no-funciona-correctamente",
     "internalReference": 780667
+  },
+  {
+    "locale": "es",
+    "slug": "el-cambio-de-un-pedido-a-un-importe-superior-no-se-registra-automaticamente-en-braspag-lo-que-provoca-que-el-pedido-quede-bloqueado",
+    "internalReference": 351786
   },
   {
     "locale": "es",
@@ -15028,11 +15028,6 @@
     "locale": "es",
     "slug": "imposibilidad-de-cancelar-transacciones-con-adyen-por-falta-de-pspreference",
     "internalReference": 506914
-  },
-  {
-    "locale": "es",
-    "slug": "no-es-posible-realizar-una-cancelacion-parcial-con-mercadopagov1",
-    "internalReference": 286738
   },
   {
     "locale": "es",
@@ -15523,6 +15518,11 @@
     "locale": "es",
     "slug": "no-es-posible-pagar-una-transaccion-mediante-el-metodo-boleto-con-braspag",
     "internalReference": 558065
+  },
+  {
+    "locale": "es",
+    "slug": "no-es-posible-realizar-una-cancelacion-parcial-con-mercadopagov1",
+    "internalReference": 286738
   },
   {
     "locale": "es",
@@ -21021,6 +21021,11 @@
   },
   {
     "locale": "pt",
+    "slug": "mercado-livre-erro-ao-aceitar-a-sugestao-da-buyboxme2-atributo-brand-obrigatorio",
+    "internalReference": 1399947
+  },
+  {
+    "locale": "pt",
     "slug": "mercado-livre-erro-ao-baixar-faturas-no-modulo-faturas",
     "internalReference": 1087545
   },
@@ -21058,11 +21063,6 @@
     "locale": "pt",
     "slug": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
     "internalReference": 1325344
-  },
-  {
-    "locale": "pt",
-    "slug": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-brand",
-    "internalReference": 1399947
   },
   {
     "locale": "pt",
@@ -23541,11 +23541,6 @@
   },
   {
     "locale": "pt",
-    "slug": "transacoes-com-o-conector-tnspay-estao-sendo-recusadas-devido-a-um-erro-cartao-nao-registrado-no-3ds",
-    "internalReference": 541687
-  },
-  {
-    "locale": "pt",
     "slug": "as-transacoes-continuam-bloqueadas-apesar-da-aprovacao-do-conector",
     "internalReference": 1302349
   },
@@ -23571,11 +23566,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-transacoes-realizadas-com-o-payu-nao-mudam-de-status-apos-o-cancelamento",
-    "internalReference": 338124
-  },
-  {
-    "locale": "pt",
     "slug": "as-transacoes-ficam-presas-em-cancelamento-e-os-pagamentos-permanecem-em-liquidacao",
     "internalReference": 1317866
   },
@@ -23598,6 +23588,11 @@
     "locale": "pt",
     "slug": "as-transacoes-permanecem-presas-na-analise-de-risco-apesar-da-aprovacao-do-conector-afpp",
     "internalReference": 1344361
+  },
+  {
+    "locale": "pt",
+    "slug": "as-transacoes-realizadas-com-o-payu-nao-mudam-de-status-apos-o-cancelamento",
+    "internalReference": 338124
   },
   {
     "locale": "pt",
@@ -23766,11 +23761,6 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-no-braspag-ao-registrar-ou-cancelar-devido-a-um-erro-com-o-codigo-bp901",
-    "internalReference": 490428
-  },
-  {
-    "locale": "pt",
     "slug": "erro-de-console-report-only-recusouse-a-aplicar-o-estilo-inline-porque-ele-viola-a-seguinte-seguranca-de-conteudo",
     "internalReference": 1017370
   },
@@ -23808,6 +23798,11 @@
     "locale": "pt",
     "slug": "erro-nas-operacoes-de-reembolso-e-captura-com-divisao-de-pagamento-o-valor-dos-destinatarios-e-diferente-do-valor-da-operacao",
     "internalReference": 698005
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-no-braspag-ao-registrar-ou-cancelar-devido-a-um-erro-com-o-codigo-bp901",
+    "internalReference": 490428
   },
   {
     "locale": "pt",
@@ -23938,11 +23933,6 @@
     "locale": "pt",
     "slug": "metodo-de-arredondamento-inconsistente-do-conector-decidirv1-para-os-campos-csptgrandtotalamount-e-csittotalamount",
     "internalReference": 787367
-  },
-  {
-    "locale": "pt",
-    "slug": "o-recurso-meus-cartoes-nao-esta-funcionando-com-alguns-conectores-antigos",
-    "internalReference": 373636
   },
   {
     "locale": "pt",
@@ -24193,6 +24183,11 @@
     "locale": "pt",
     "slug": "o-pedido-permanece-no-status-pagamento-pendente-apesar-de-a-transacao-ter-sido-aprovada",
     "internalReference": 1343830
+  },
+  {
+    "locale": "pt",
+    "slug": "o-recurso-meus-cartoes-nao-esta-funcionando-com-alguns-conectores-antigos",
+    "internalReference": 373636
   },
   {
     "locale": "pt",
@@ -24528,6 +24523,11 @@
     "locale": "pt",
     "slug": "transacoes-bloqueadas-apos-a-rejeicao-do-risco",
     "internalReference": 1092563
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-com-o-conector-tnspay-estao-sendo-recusadas-devido-a-um-erro-cartao-nao-registrado-no-3ds",
+    "internalReference": 541687
   },
   {
     "locale": "pt",
