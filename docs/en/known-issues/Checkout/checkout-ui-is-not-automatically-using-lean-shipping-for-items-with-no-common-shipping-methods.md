@@ -2,8 +2,8 @@
 title: 'Checkout UI is not automatically using "lean shipping" for items with no common shipping methods'
 slug: checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods
 status: PUBLISHED
-createdAt: 2021-02-01T16:11:48.000Z
-updatedAt: 2024-04-02T15:27:09.000Z
+createdAt: 2021-02-01T19:11:48.000Z
+updatedAt: 2026-06-10T00:10:56.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
