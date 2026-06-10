@@ -426,6 +426,11 @@
   },
   {
     "locale": "en",
+    "slug": "hcms-page-becomes-inaccessible-after-contenttype-schema-changes",
+    "internalReference": 1419597
+  },
+  {
+    "locale": "en",
     "slug": "hcms-presents-issues-when-trying-to-publish-huge-amount-of-content",
     "internalReference": 1262405
   },
@@ -9196,6 +9201,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-pagina-de-hcms-deja-de-estar-disponible-tras-los-cambios-en-el-esquema-del-tipo-de-contenido",
+    "internalReference": 1419597
+  },
+  {
+    "locale": "es",
     "slug": "los-banners-programados-no-funcionan-correctamente",
     "internalReference": 400194
   },
@@ -17943,6 +17953,11 @@
     "locale": "pt",
     "slug": "pagina-de-estilos-da-vitrine-interferindo-no-carregamento-do-css-do-tema",
     "internalReference": 1280557
+  },
+  {
+    "locale": "pt",
+    "slug": "pagina-do-hcms-fica-inacessivel-apos-alteracoes-no-esquema-de-tipo-de-conteudo",
+    "internalReference": 1419597
   },
   {
     "locale": "pt",
