@@ -4356,6 +4356,11 @@
   },
   {
     "locale": "en",
+    "slug": "indexing-history-page-shows-high-volume-of-products-with-indexing-delay",
+    "internalReference": 1398224
+  },
+  {
+    "locale": "en",
     "slug": "intelligent-search-banner-update-via-image-url-does-not-work-correctly",
     "internalReference": 734833
   },
@@ -4483,11 +4488,6 @@
     "locale": "en",
     "slug": "product-image-sorting-doesnt-respect-the-catalog-order",
     "internalReference": 682177
-  },
-  {
-    "locale": "en",
-    "slug": "product-indexing-may-show-a-high-delay-in-indexing-history",
-    "internalReference": 1398224
   },
   {
     "locale": "en",
@@ -13141,11 +13141,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-indexacion-de-productos-puede-mostrar-un-retraso-considerable-en-el-historial-de-indexacion",
-    "internalReference": 1398224
-  },
-  {
-    "locale": "es",
     "slug": "la-limpieza-de-la-busqueda-inteligente-falla-intermitentemente",
     "internalReference": 1225644
   },
@@ -13158,6 +13153,11 @@
     "locale": "es",
     "slug": "la-ordenacion-por-nombre-funciona-de-forma-diferente-en-las-tiendas-integradas-antes-de-una-fecha",
     "internalReference": 600468
+  },
+  {
+    "locale": "es",
+    "slug": "la-pagina-historial-de-indexacion-muestra-un-gran-volumen-de-productos-con-retrasos-en-la-indexacion",
+    "internalReference": 1398224
   },
   {
     "locale": "es",
@@ -21631,7 +21631,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-indexacao-de-produtos-pode-apresentar-um-grande-atraso-no-historico-de-indexacao",
+    "slug": "a-pagina-historico-de-indexacao-mostra-um-grande-volume-de-produtos-com-atraso-na-indexacao",
     "internalReference": 1398224
   },
   {
