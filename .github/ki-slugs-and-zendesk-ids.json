@@ -566,6 +566,11 @@
   },
   {
     "locale": "en",
+    "slug": "activateifpossible-overwritten-by-new-catalog-ui",
+    "internalReference": 1420981
+  },
+  {
+    "locale": "en",
     "slug": "admin-collection-brand-list-timeout",
     "internalReference": 639905
   },
@@ -9253,6 +9258,11 @@
     "locale": "es",
     "slug": "problemas-con-los-componentes-de-renderizado-en-el-editor-de-sitios",
     "internalReference": 415674
+  },
+  {
+    "locale": "es",
+    "slug": "activateifpossible-ha-sido-sustituido-por-la-nueva-interfaz-de-usuario-del-catalogo",
+    "internalReference": 1420981
   },
   {
     "locale": "es",
@@ -18318,6 +18328,11 @@
     "locale": "pt",
     "slug": "a-validacao-da-api-attachment-update-e-create-no-campo-domainvalues-nao-esta-funcionando",
     "internalReference": 751091
+  },
+  {
+    "locale": "pt",
+    "slug": "activateifpossible-substituido-pela-nova-interface-do-usuario-do-catalogo",
+    "internalReference": 1420981
   },
   {
     "locale": "pt",
