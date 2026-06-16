@@ -271,6 +271,11 @@
   },
   {
     "locale": "en",
+    "slug": "malformed-button-in-b2b-suite-organizations-custom-fields-admin-ui",
+    "internalReference": 1421975
+  },
+  {
+    "locale": "en",
     "slug": "new-user-action-disabled-in-my-organization-on-public-domain",
     "internalReference": 1383616
   },
@@ -8863,6 +8868,11 @@
     "locale": "es",
     "slug": "b2b-suite-no-utiliza-geocoordenadas-para-calcular-el-id-de-region",
     "internalReference": 1055033
+  },
+  {
+    "locale": "es",
+    "slug": "boton-con-un-formato-incorrecto-en-la-interfaz-de-administracion-de-campos-personalizados-de-las-organizaciones-de-b2b-suite",
+    "internalReference": 1421975
   },
   {
     "locale": "es",
@@ -17643,6 +17653,11 @@
     "locale": "pt",
     "slug": "b2b-checkout-settings-esta-considerando-o-endereco-de-coleta-para-entregas",
     "internalReference": 1186568
+  },
+  {
+    "locale": "pt",
+    "slug": "botao-com-formato-incorreto-na-interface-de-administracao-de-campos-personalizados-das-organizacoes-do-b2b-suite",
+    "internalReference": 1421975
   },
   {
     "locale": "pt",
