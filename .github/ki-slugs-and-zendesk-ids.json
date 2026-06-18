@@ -546,6 +546,11 @@
   },
   {
     "locale": "en",
+    "slug": "updatethemeids-mutation-returns-504-but-content-migration-completes-successfully-in-background",
+    "internalReference": 1423324
+  },
+  {
+    "locale": "en",
     "slug": "user-can-still-see-and-access-cms-features-even-without-the-correct-permission",
     "internalReference": 1046263
   },
@@ -9201,6 +9206,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-mutacion-updatethemeids-devuelve-un-error-504-pero-la-migracion-de-contenido-se-completa-con-exito-en-segundo-plano",
+    "internalReference": 1423324
+  },
+  {
+    "locale": "es",
     "slug": "la-opcion-seleccionar-un-bloque-no-funciona-correctamente-cuando-las-extensiones-de-pagina-se-cargan-de-forma-diferida-en-el-editor-del-sitio",
     "internalReference": 1403234
   },
@@ -17828,6 +17838,11 @@
     "locale": "pt",
     "slug": "a-listagem-de-tipos-de-conteudo-nao-tem-como-ser-rolada-para-baixo",
     "internalReference": 1271990
+  },
+  {
+    "locale": "pt",
+    "slug": "a-mutacao-updatethemeids-retorna-um-erro-504-mas-a-migracao-de-conteudo-e-concluida-com-sucesso-em-segundo-plano",
+    "internalReference": 1423324
   },
   {
     "locale": "pt",
