@@ -6586,6 +6586,11 @@
   },
   {
     "locale": "en",
+    "slug": "null-payment-when-converting-payment-rules-during-the-transaction-creation-process",
+    "internalReference": 1424049
+  },
+  {
+    "locale": "en",
     "slug": "operations-cannot-be-performed-correctly-due-to-null-documenttype-field",
     "internalReference": 697107
   },
@@ -15631,6 +15636,11 @@
   },
   {
     "locale": "es",
+    "slug": "pago-null-al-convertir-las-reglas-de-pago-durante-el-proceso-de-creacion-de-la-transaccion",
+    "internalReference": 1424049
+  },
+  {
+    "locale": "es",
     "slug": "pago-recibido-con-transaccion-aprobada",
     "internalReference": 1174379
   },
@@ -24368,6 +24378,11 @@
     "locale": "pt",
     "slug": "pagamento-bloqueado-apos-solicitacao-de-cancelamento-antecipado-durante-a-liquidacao",
     "internalReference": 1309799
+  },
+  {
+    "locale": "pt",
+    "slug": "pagamento-null-ao-converter-regras-de-pagamento-durante-o-processo-de-criacao-da-transacao",
+    "internalReference": 1424049
   },
   {
     "locale": "pt",
