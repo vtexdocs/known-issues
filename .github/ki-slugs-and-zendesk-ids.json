@@ -6001,6 +6001,11 @@
   },
   {
     "locale": "en",
+    "slug": "card-security-code-null-after-switching-payment-methods-in-checkout",
+    "internalReference": 442772
+  },
+  {
+    "locale": "en",
     "slug": "cardholderdocument-is-not-sent-to-antifraud",
     "internalReference": 829864
   },
@@ -6428,11 +6433,6 @@
     "locale": "en",
     "slug": "installments-using-customer-credit-are-not-displayed-as-an-option-at-checkout",
     "internalReference": 1078804
-  },
-  {
-    "locale": "en",
-    "slug": "invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true",
-    "internalReference": 442772
   },
   {
     "locale": "en",
@@ -14691,7 +14691,7 @@
   },
   {
     "locale": "es",
-    "slug": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
+    "slug": "el-codigo-de-seguridad-de-la-tarjeta-aparece-como-nulo-tras-cambiar-de-metodo-de-pago-durante-el-proceso-de-pago",
     "internalReference": 442772
   },
   {
@@ -23701,7 +23701,7 @@
   },
   {
     "locale": "pt",
-    "slug": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true",
+    "slug": "codigo-de-seguranca-do-cartao-nulo-apos-a-alteracao-do-metodo-de-pagamento-na-finalizacao-da-compra",
     "internalReference": 442772
   },
   {
