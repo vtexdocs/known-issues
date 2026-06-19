@@ -15416,7 +15416,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
+    "slug": "las-transacciones-se-quedan-en-cancelando-y-los-pagos-siguen-en-autorizados",
     "internalReference": 1309418
   },
   {
@@ -23656,11 +23656,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizado",
-    "internalReference": 1309418
-  },
-  {
-    "locale": "pt",
     "slug": "as-transacoes-permanecem-no-status-autorizado-apesar-da-aprovacao-do-conector",
     "internalReference": 1344357
   },
@@ -24628,6 +24623,11 @@
     "locale": "pt",
     "slug": "transacoes-incompletas-que-aparecem-com-a-moeda-brasileira",
     "internalReference": 1007953
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-presas-no-status-cancelando-e-pagamentos-permanecem-no-status-autorizado",
+    "internalReference": 1309418
   },
   {
     "locale": "pt",
