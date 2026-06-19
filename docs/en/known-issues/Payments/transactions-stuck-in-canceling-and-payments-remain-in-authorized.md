@@ -2,8 +2,8 @@
 title: 'Transactions stuck in "Canceling" and payments remain in "Authorized"'
 slug: transactions-stuck-in-canceling-and-payments-remain-in-authorized
 status: PUBLISHED
-createdAt: 2026-02-12T18:03:22.050Z
-updatedAt: 2026-02-12T18:03:22.050Z
+createdAt: 2025-10-17T15:42:19.000Z
+updatedAt: 2026-06-19T22:52:39.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,19 +16,12 @@ internalReference: 1309418
 
 ## Summary
 
+Some transactions remain in the Canceling status while their corresponding payments stay in Authorized, without progressing to the final Finished or Canceled state. The issue occurs when the Payments Worker fails to update the payment status after receiving the cancellation request, which can be caused by internal or external factors.
 
-Some transactions remain in the Canceling status while their corresponding payments stay in Authorized, without progressing to the final Finished or Canceled state. The issue occurs when the Payments Worker fails to update the payment status after receiving the cancellation request.
-
-
-#### Simulation
-
+## Simulation
 
 It is not possible to simulate.
 
-
-#### Workaround
-
+## Workaround
 
 Cancel the order manually on the OMS to prevent any issues with inventory management.
-
-
