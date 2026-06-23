@@ -12606,7 +12606,7 @@
   },
   {
     "locale": "es",
-    "slug": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
+    "slug": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
     "internalReference": 1227978
   },
   {
@@ -14696,11 +14696,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-codigo-de-seguridad-de-la-tarjeta-aparece-como-nulo-tras-cambiar-de-metodo-de-pago-durante-el-proceso-de-pago",
-    "internalReference": 442772
-  },
-  {
-    "locale": "es",
     "slug": "collection-functionality-doesnt-work-on-giftcard",
     "internalReference": 319349
   },
@@ -14753,6 +14748,11 @@
     "locale": "es",
     "slug": "el-cambio-de-un-pedido-a-un-importe-superior-no-se-registra-automaticamente-en-braspag-lo-que-provoca-que-el-pedido-quede-bloqueado",
     "internalReference": 351786
+  },
+  {
+    "locale": "es",
+    "slug": "el-codigo-de-seguridad-de-la-tarjeta-aparece-como-nulo-tras-cambiar-de-metodo-de-pago-durante-el-proceso-de-pago",
+    "internalReference": 442772
   },
   {
     "locale": "es",
@@ -21351,7 +21351,7 @@
   },
   {
     "locale": "pt",
-    "slug": "shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao",
+    "slug": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao",
     "internalReference": 1227978
   },
   {
@@ -23706,11 +23706,6 @@
   },
   {
     "locale": "pt",
-    "slug": "codigo-de-seguranca-do-cartao-nulo-apos-a-alteracao-do-metodo-de-pagamento-na-finalizacao-da-compra",
-    "internalReference": 442772
-  },
-  {
-    "locale": "pt",
     "slug": "cartao-salvo-em-cobranding-com-id-incorreta-do-sistema-de-pagamento",
     "internalReference": 833400
   },
@@ -23728,6 +23723,11 @@
     "locale": "pt",
     "slug": "chamada-do-giftcard-hub-recebe-erro-500",
     "internalReference": 1286257
+  },
+  {
+    "locale": "pt",
+    "slug": "codigo-de-seguranca-do-cartao-nulo-apos-a-alteracao-do-metodo-de-pagamento-na-finalizacao-da-compra",
+    "internalReference": 442772
   },
   {
     "locale": "pt",
