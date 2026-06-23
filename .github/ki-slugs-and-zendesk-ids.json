@@ -5211,6 +5211,11 @@
   },
   {
     "locale": "en",
+    "slug": "magazine-luiza-main-image-not-respected",
+    "internalReference": 1221096
+  },
+  {
+    "locale": "en",
     "slug": "disqualification-of-seller-at-pickup-point-due-to-divergent-quantity-between-slas-at-checkout",
     "internalReference": 1228333
   },
@@ -13943,6 +13948,11 @@
     "locale": "es",
     "slug": "vendedor-invitar-ruta-no-se-encuentra-despues-de-la-creacion-de-la-cuenta",
     "internalReference": 1167493
+  },
+  {
+    "locale": "es",
+    "slug": "revista-luiza-imagen-principal-no-respetada",
+    "internalReference": 1221096
   },
   {
     "locale": "es",
@@ -22688,6 +22698,11 @@
     "locale": "pt",
     "slug": "sugestoes-para-definir-o-unitmultiplier-menor-que-1-como-0",
     "internalReference": 702056
+  },
+  {
+    "locale": "pt",
+    "slug": "revista-luiza-imagem-principal-nao-respeitada",
+    "internalReference": 1221096
   },
   {
     "locale": "pt",
