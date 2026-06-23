@@ -1651,6 +1651,11 @@
   },
   {
     "locale": "en",
+    "slug": "sku-insert-file-api-may-generate-duplicate-images-if-it-fails",
+    "internalReference": 1425160
+  },
+  {
+    "locale": "en",
     "slug": "sku-move-failure-distributed-transaction-error",
     "internalReference": 1297799
   },
@@ -9906,6 +9911,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-api-de-insercion-de-archivos-sku-puede-generar-imagenes-duplicadas-si-falla",
+    "internalReference": 1425160
+  },
+  {
+    "locale": "es",
     "slug": "la-api-de-insercionactualizacion-de-productos-permite-n-en-el-campo-textlink",
     "internalReference": 486459
   },
@@ -18058,6 +18068,11 @@
     "locale": "pt",
     "slug": "a-api-de-criacao-de-produtos-nao-envia-nulos-como-valores-de-data-de-lancamento",
     "internalReference": 1024207
+  },
+  {
+    "locale": "pt",
+    "slug": "a-api-de-insercao-de-arquivos-sku-pode-gerar-imagens-duplicadas-se-falhar",
+    "internalReference": 1425160
   },
   {
     "locale": "pt",
