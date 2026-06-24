@@ -1,9 +1,9 @@
 ---
-title: 'Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente'
+title: 'Los carritos creados a partir de la sustitución de un pedido no reciben las promociones correctamente.'
 slug: los-carritos-creados-a-partir-de-la-sustitucion-de-un-pedido-no-reciben-las-promociones-correctamente
 status: PUBLISHED
-createdAt: 2021-11-22T20:31:57.000Z
-updatedAt: 2023-10-20T17:47:24.000Z
+createdAt: 2021-11-22T23:31:57.000Z
+updatedAt: 2026-06-24T23:48:41.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,15 +18,17 @@ internalReference: 473424
 
 ## Sumario
 
-Los carritos creados a partir de pedidos existentes mediante la función «sustituir pedidos» que aparece en la página «mis pedidos» están limitados a la promoción original, pero sin tener en cuenta que esa misma promoción puede aplicarse a diferentes contextos, como distintos métodos de pago u opciones de envío.
+Los carritos creados mediante la opción "Reemplazar pedido" en la página "Mis pedidos" conservan la promoción del pedido original. Sin embargo, el sistema no reevalúa la elegibilidad para la promoción cuando el comprador cambia el método de pago o la dirección de envío, aunque las reglas de la promoción puedan variar según estos factores.
+
+Esto se ha observado durante el proceso de reemplazo de pedidos cuando los compradores actualizan su dirección o método de pago. Como resultado, el descuento desaparece del carrito.
 
 ## Simulación
 
-- Disponer de una promoción para varios métodos de pago
-- Cerrar el pedido pagando con «A», que debe tener un descuento
-- En la pantalla «Mis pedidos», elegir cambiar el método de pago del pedido
-- Volver al carrito y elegir pagar con «B»
-- El descuento no se mostrará
+- Tener una promoción para métodos de pago o envío gratuito.
+- Cerrar el pedido, que debe tener un descuento de dichas promociones.
+- En la pantalla "Mis pedidos", seleccionar "Modificar pedido".
+- Volver al carrito, seleccionar "Pagar con un método de pago diferente" o cambiar la dirección de envío o el plazo de entrega.
+- El descuento no se mostrará.
 
 ## Workaround
 
