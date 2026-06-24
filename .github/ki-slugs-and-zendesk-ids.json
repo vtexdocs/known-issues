@@ -19876,6 +19876,11 @@
   },
   {
     "locale": "pt",
+    "slug": "carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-promocoes-corretamente",
+    "internalReference": 473424
+  },
+  {
+    "locale": "pt",
     "slug": "checkout-dispara-os-eventos-de-pageview-do-google-analytics-multiplicados-por-rastreador",
     "internalReference": 350780
   },
@@ -20493,11 +20498,6 @@
     "locale": "pt",
     "slug": "os-campos-rua-bairro-complemento-e-referencia-nao-sao-solicitados-na-etapa-de-endereco-no-checkout",
     "internalReference": 563507
-  },
-  {
-    "locale": "pt",
-    "slug": "os-carrinhos-criados-a-partir-da-substituicao-de-pedidos-nao-recebem-as-promocoes-corretamente",
-    "internalReference": 473424
   },
   {
     "locale": "pt",
