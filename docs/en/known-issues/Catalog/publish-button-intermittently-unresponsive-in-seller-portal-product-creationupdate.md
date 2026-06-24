@@ -2,8 +2,8 @@
 title: 'Publish button intermittently unresponsive in Seller Portal product creation/update'
 slug: publish-button-intermittently-unresponsive-in-seller-portal-product-creationupdate
 status: PUBLISHED
-createdAt: 2026-03-25T17:03:24.648Z
-updatedAt: 2026-03-25T17:03:24.648Z
+createdAt: 2026-03-25T20:02:23.000Z
+updatedAt: 2026-06-24T20:19:58.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,7 +16,7 @@ internalReference: 1383511
 
 ## Summary
 
-In some Seller Portal accounts, clicking the Publish button during product creation or update intermittently does nothing, and the confirmation modal does not appear. Sometimes, the modal appears, but the next "Update" button performs no action. The issue reproduces across multiple sellers and browsers, but not deterministically, and seems related to a frontend flow where the change is sent but the UI gets stuck. Affected scenarios include creating new products and updating existing ones via the Seller Portal.
+In some Seller Portal accounts, clicking the Publish button during product creation or update intermittently does nothing, and the confirmation modal does not appear. Sometimes, the modal appears, but the next "Update" button performs no action. Affected scenarios include creating new products and updating existing ones via the Seller Portal.
 
 ## Simulation
 
