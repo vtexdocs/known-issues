@@ -9516,13 +9516,13 @@
   },
   {
     "locale": "es",
-    "slug": "el-boton-eliminar-de-la-interfaz-de-usuario-del-catalogo-heredado-no-funciona",
-    "internalReference": 326408
+    "slug": "el-boton-de-publicacion-no-responde-de-forma-intermitente-en-la-creacionactualizacion-de-productos-en-el-portal-del-vendedor",
+    "internalReference": 1383511
   },
   {
     "locale": "es",
-    "slug": "el-boton-publicar-no-responde-de-forma-intermitente-al-crear-o-actualizar-productos-en-el-portal-del-vendedor",
-    "internalReference": 1383511
+    "slug": "el-boton-eliminar-de-la-interfaz-de-usuario-del-catalogo-heredado-no-funciona",
+    "internalReference": 326408
   },
   {
     "locale": "es",
@@ -19001,7 +19001,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-botao-publicar-nao-responde-ocasionalmente-durante-a-criacaoatualizacao-de-produtos-no-portal-do-vendedor",
+    "slug": "o-botao-publicar-apresenta-falhas-intermitentes-na-criacaoatualizacao-de-produtos-no-seller-portal",
     "internalReference": 1383511
   },
   {
