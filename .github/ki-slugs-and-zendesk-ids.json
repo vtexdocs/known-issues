@@ -781,6 +781,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-kit-insertion-allows-circular-reference",
+    "internalReference": 1425901
+  },
+  {
+    "locale": "en",
     "slug": "catalog-myvtex-iframe-html-select-breaking-for-chrome-108",
     "internalReference": 711637
   },
@@ -10126,6 +10131,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-insercion-del-kit-de-catalogo-permite-una-referencia-circular",
+    "internalReference": 1425901
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-las-colecciones-no-permite-buscar-productos-con-caracteres-especiales",
     "internalReference": 344451
   },
@@ -18283,6 +18293,11 @@
     "locale": "pt",
     "slug": "a-insercao-de-varios-valores-de-especificacao-nao-esta-funcionando-no-catalogo-legado",
     "internalReference": 1246453
+  },
+  {
+    "locale": "pt",
+    "slug": "a-insercao-do-kit-de-catalogo-permite-referencia-circular",
+    "internalReference": 1425901
   },
   {
     "locale": "pt",
