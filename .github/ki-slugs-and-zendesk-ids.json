@@ -5216,6 +5216,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-order-code-001-invalid-email",
+    "internalReference": 1425788
+  },
+  {
+    "locale": "en",
     "slug": "magazine-luiza-main-image-not-respected",
     "internalReference": 1221096
   },
@@ -13958,6 +13963,11 @@
     "locale": "es",
     "slug": "vendedor-invitar-ruta-no-se-encuentra-despues-de-la-creacion-de-la-cuenta",
     "internalReference": 1167493
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
+    "internalReference": 1425788
   },
   {
     "locale": "es",
@@ -22713,6 +22723,11 @@
     "locale": "pt",
     "slug": "sugestoes-para-definir-o-unitmultiplier-menor-que-1-como-0",
     "internalReference": 702056
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-codigo-do-pedido-001-email-invalido",
+    "internalReference": 1425788
   },
   {
     "locale": "pt",
