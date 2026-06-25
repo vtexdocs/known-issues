@@ -8866,7 +8866,7 @@
   },
   {
     "locale": "es",
-    "slug": "problema-de-compatibilidad-con-la-version-de-node",
+    "slug": "problema-de-compatibilidad-de-versiones-de-node",
     "internalReference": 1256617
   },
   {
@@ -17636,7 +17636,7 @@
   },
   {
     "locale": "pt",
-    "slug": "problema-com-a-compatibilidade-de-versao-do-node",
+    "slug": "problema-de-compatibilidade-de-versao-do-nodejs",
     "internalReference": 1256617
   },
   {
