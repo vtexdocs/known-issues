@@ -3,7 +3,7 @@ title: 'Problema de compatibilidad de versiones de Node.'
 slug: problema-de-compatibilidad-de-versiones-de-node
 status: PUBLISHED
 createdAt: 2025-07-08T17:31:55.000Z
-updatedAt: 2026-06-26T00:25:36.000Z
+updatedAt: 2026-06-26T17:13:56.000Z
 contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
