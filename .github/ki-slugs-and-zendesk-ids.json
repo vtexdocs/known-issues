@@ -3786,11 +3786,6 @@
   },
   {
     "locale": "en",
-    "slug": "netshoes-main-image-not-respected",
-    "internalReference": 1220978
-  },
-  {
-    "locale": "en",
     "slug": "order-approved-in-the-marketplace-but-not-integrated-into-vtex",
     "internalReference": 547809
   },
@@ -3828,11 +3823,6 @@
     "locale": "en",
     "slug": "shopee-cannot-update-price-because-the-product-has-shopeeexclusive-promotions",
     "internalReference": 1294478
-  },
-  {
-    "locale": "en",
-    "slug": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
-    "internalReference": 1227978
   },
   {
     "locale": "en",
@@ -4503,6 +4493,11 @@
     "locale": "en",
     "slug": "prioritization-by-products-keyword-not-considering-stopwords",
     "internalReference": 1041743
+  },
+  {
+    "locale": "en",
+    "slug": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
+    "internalReference": 1427405
   },
   {
     "locale": "en",
@@ -5228,6 +5223,16 @@
     "locale": "en",
     "slug": "magazine-luiza-main-image-not-respected",
     "internalReference": 1221096
+  },
+  {
+    "locale": "en",
+    "slug": "netshoes-main-image-not-respected",
+    "internalReference": 1220978
+  },
+  {
+    "locale": "en",
+    "slug": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
+    "internalReference": 1227978
   },
   {
     "locale": "en",
@@ -12236,11 +12241,6 @@
   },
   {
     "locale": "es",
-    "slug": "netshoes-imagen-principal-no-respetada",
-    "internalReference": 1220978
-  },
-  {
-    "locale": "es",
     "slug": "implementacion-de-categorias-en-amazon",
     "internalReference": 549924
   },
@@ -12633,11 +12633,6 @@
     "locale": "es",
     "slug": "shopee-no-se-puede-actualizar-el-precio-porque-el-producto-tiene-promociones-exclusivas-de-shopee",
     "internalReference": 1294478
-  },
-  {
-    "locale": "es",
-    "slug": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
-    "internalReference": 1227978
   },
   {
     "locale": "es",
@@ -13203,6 +13198,11 @@
     "locale": "es",
     "slug": "la-funcion-de-autocompletado-no-responde-al-iniciar-el-sistema-en-frio",
     "internalReference": 418573
+  },
+  {
+    "locale": "es",
+    "slug": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
+    "internalReference": 1427405
   },
   {
     "locale": "es",
@@ -13983,6 +13983,16 @@
     "locale": "es",
     "slug": "magazine-luiza-imagen-principal-no-respetada",
     "internalReference": 1221096
+  },
+  {
+    "locale": "es",
+    "slug": "netshoes-imagen-principal-no-respetada",
+    "internalReference": 1220978
+  },
+  {
+    "locale": "es",
+    "slug": "sincronizacion-del-catalogo-bloqueada-debido-a-un-exceso-de-atributos-de-variacion",
+    "internalReference": 1227978
   },
   {
     "locale": "es",
@@ -21231,11 +21241,6 @@
   },
   {
     "locale": "pt",
-    "slug": "netshoes-imagem-principal-nao-respeitada",
-    "internalReference": 1220978
-  },
-  {
-    "locale": "pt",
     "slug": "o-atributo-melishippingmode-nao-esta-sendo-atualizado-na-integracao-com-o-meli",
     "internalReference": 873993
   },
@@ -21398,11 +21403,6 @@
     "locale": "pt",
     "slug": "shopee-o-nivel-de-variacao-de-nivel-nao-muda",
     "internalReference": 1262367
-  },
-  {
-    "locale": "pt",
-    "slug": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao",
-    "internalReference": 1227978
   },
   {
     "locale": "pt",
@@ -21733,6 +21733,11 @@
     "locale": "pt",
     "slug": "a-funcao-pesquisa-inteligente-de-sinonimos-nao-recria-sinonimos-excluidos",
     "internalReference": 1211321
+  },
+  {
+    "locale": "pt",
+    "slug": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha",
+    "internalReference": 1427405
   },
   {
     "locale": "pt",
@@ -22748,6 +22753,16 @@
     "locale": "pt",
     "slug": "magazine-luiza-imagem-principal-nao-respeitada",
     "internalReference": 1221096
+  },
+  {
+    "locale": "pt",
+    "slug": "netshoes-imagem-principal-nao-respeitada",
+    "internalReference": 1220978
+  },
+  {
+    "locale": "pt",
+    "slug": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao",
+    "internalReference": 1227978
   },
   {
     "locale": "pt",
