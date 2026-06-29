@@ -5236,6 +5236,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-mapper-does-not-support-dynamic-categories-attributes-that-unlock-additional-required-subcategories",
+    "internalReference": 1427436
+  },
+  {
+    "locale": "en",
     "slug": "disqualification-of-seller-at-pickup-point-due-to-divergent-quantity-between-slas-at-checkout",
     "internalReference": 1228333
   },
@@ -13988,6 +13993,11 @@
     "locale": "es",
     "slug": "netshoes-imagen-principal-no-respetada",
     "internalReference": 1220978
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-mapper-no-admite-categorias-dinamicas-atributos-que-desbloquean-subcategorias-adicionales-requeridas",
+    "internalReference": 1427436
   },
   {
     "locale": "es",
@@ -22758,6 +22768,11 @@
     "locale": "pt",
     "slug": "netshoes-imagem-principal-nao-respeitada",
     "internalReference": 1220978
+  },
+  {
+    "locale": "pt",
+    "slug": "o-shopee-mapper-nao-suporta-categorias-dinamicas-atributos-que-desbloqueiam-subcategorias-adicionais-obrigatorias",
+    "internalReference": 1427436
   },
   {
     "locale": "pt",
