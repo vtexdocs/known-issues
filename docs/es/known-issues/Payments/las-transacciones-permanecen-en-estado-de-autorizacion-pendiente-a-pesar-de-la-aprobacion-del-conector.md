@@ -3,12 +3,12 @@ title: 'Las transacciones permanecen en estado de autorización pendiente a pesa
 slug: las-transacciones-permanecen-en-estado-de-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector
 status: PUBLISHED
 createdAt: 2026-06-30T19:14:21.000Z
-updatedAt: 2026-06-30T19:14:21.000Z
+updatedAt: 2026-06-30T22:24:04.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: transactions-remain-stuck-in-pending-authorization-despite-connector-approval
+slugEN: transactions-stuck-in-pending-authorization-despite-connector-approval
 locale: es
 kiStatus: Backlog
 internalReference: 1427794
@@ -18,11 +18,11 @@ internalReference: 1427794
 
 ## Sumario
 
-Algunas transacciones de pago se quedan atascadas en "Autorización pendiente" incluso después de que el conector haya devuelto "Aprobado" (200 OK), y los pedidos correspondientes permanecen en "Pago pendiente". El síntoma visible es que el estado de la transacción no avanza y no se registra ninguna interacción de "Inicio de reintento de autorización para el pago" en la línea de tiempo de la transacción. Esto afecta a los flujos de pago en la pasarela de pagos VTEX, donde el proceso responsable de procesar la transacción falla antes de la ejecución o nunca se llama, lo que provoca el bloqueo del flujo de pedidos.
+Some payment transactions remain stuck in Pending Authorization even after the connector has returned Approved (200 OK) and the corresponding orders stay in "Payment Pending". The visible symptom is that the transaction status does not move forward and no “Started authorization retry for payment” interaction is recorded in the transaction timeline. This affects payment flows in the VTEX Payments Gateway where the worker responsible for progressing the transaction either errors before execution or is never called, leaving the order flow blocked.
 
 ## Simulación
 
-No es posible realizar una simulación.
+It is not possible to simulate.
 
 ## Workaround
 
