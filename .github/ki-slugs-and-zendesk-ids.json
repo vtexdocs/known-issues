@@ -12601,7 +12601,7 @@
   },
   {
     "locale": "es",
-    "slug": "shopee-discrepancia-en-el-importe-de-los-gastos-de-envio-en-los-pedidos-gestionados-por-el-vendedor",
+    "slug": "shopee-discrepancia-en-el-valor-del-flete-en-los-pedidos-de-logistica-del-vendedor",
     "internalReference": 1391278
   },
   {
@@ -21391,7 +21391,7 @@
   },
   {
     "locale": "pt",
-    "slug": "shopee-discrepancia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor",
+    "slug": "shopee-divergencia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor",
     "internalReference": 1391278
   },
   {
