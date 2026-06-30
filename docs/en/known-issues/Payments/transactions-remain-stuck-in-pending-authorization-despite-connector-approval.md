@@ -2,21 +2,21 @@
 title: 'Transactions remain stuck in Pending Authorization despite connector approval'
 slug: transactions-remain-stuck-in-pending-authorization-despite-connector-approval
 status: PUBLISHED
-createdAt: 2026-03-09T12:53:35.365Z
-updatedAt: 2026-03-09T12:53:35.365Z
+createdAt: 2026-06-30T19:14:21.000Z
+updatedAt: 2026-06-30T19:14:21.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transactions-remain-stuck-in-pending-authorization-despite-connector-approval
 locale: en
-kiStatus: Fixed
-internalReference: 1344356
+kiStatus: Backlog
+internalReference: 1427794
 ---
 
 ## Summary
 
-In some cases, the Transaction Worker fails to advance the transaction to the expected status, even after receiving a successful response (200 OK) from the connector. As a result, transactions may remain stuck in Pending Authorization and the corresponding orders stay in **"Payment Pending"**. This behavior can occur when the connector correctly returns an approved response, but the internal process that updates the transaction status does not execute properly.
+Some payment transactions remain stuck in Pending Authorization even after the connector has returned Approved (200 OK) and the corresponding orders stay in "Payment Pending". The visible symptom is that the transaction status does not move forward and no “Started authorization retry for payment” interaction is recorded in the transaction timeline. This affects payment flows in the VTEX Payments Gateway where the worker responsible for progressing the transaction either errors before execution or is never called, leaving the order flow blocked.
 
 ## Simulation
 
