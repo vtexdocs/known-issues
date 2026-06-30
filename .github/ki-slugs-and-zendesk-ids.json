@@ -7111,11 +7111,6 @@
   },
   {
     "locale": "en",
-    "slug": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
-    "internalReference": 1427794
-  },
-  {
-    "locale": "en",
     "slug": "transactions-stuck-in-analysing-risk",
     "internalReference": 541149
   },
@@ -7143,6 +7138,11 @@
     "locale": "en",
     "slug": "transactions-stuck-in-pending-authorization-after-approval",
     "internalReference": 1344365
+  },
+  {
+    "locale": "en",
+    "slug": "transactions-stuck-in-pending-authorization-despite-connector-approval",
+    "internalReference": 1427794
   },
   {
     "locale": "en",
@@ -23766,11 +23766,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-transacoes-permanecem-presas-no-status-autorizacao-pendente-apesar-da-aprovacao-do-conector",
-    "internalReference": 1427794
-  },
-  {
-    "locale": "pt",
     "slug": "as-transacoes-realizadas-com-o-payu-nao-mudam-de-status-apos-o-cancelamento",
     "internalReference": 338124
   },
@@ -24723,6 +24718,11 @@
     "locale": "pt",
     "slug": "transacoes-incompletas-que-aparecem-com-a-moeda-brasileira",
     "internalReference": 1007953
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector",
+    "internalReference": 1427794
   },
   {
     "locale": "pt",
