@@ -12961,11 +12961,6 @@
   },
   {
     "locale": "es",
-    "slug": "campos-no-admitidos-por-la-api-de-busqueda-inteligente-que-se-devuelven-vacios",
-    "internalReference": 1032531
-  },
-  {
-    "locale": "es",
     "slug": "capa-de-cache-de-5-minutos-al-crear-o-eliminar-reglas-de-merchandising",
     "internalReference": 841197
   },
@@ -13323,6 +13318,11 @@
     "locale": "es",
     "slug": "los-campos-de-traduccion-de-las-categorias-se-sobrescriben-en-el-graphql-del-catalogo",
     "internalReference": 654896
+  },
+  {
+    "locale": "es",
+    "slug": "los-campos-no-compatibles-con-la-api-de-busqueda-inteligente-devuelven-un-valor-vacio",
+    "internalReference": 1032531
   },
   {
     "locale": "es",
@@ -21891,7 +21891,7 @@
   },
   {
     "locale": "pt",
-    "slug": "campos-nao-suportados-pela-intelligent-search-api-retornando-vazios",
+    "slug": "campos-nao-suportados-pela-api-de-busca-inteligente-retornando-vazios",
     "internalReference": 1032531
   },
   {
