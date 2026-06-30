@@ -561,6 +561,11 @@
   },
   {
     "locale": "en",
+    "slug": ".md",
+    "internalReference": 1428072
+  },
+  {
+    "locale": "en",
     "slug": "a-sku-can-be-active-and-have-the-activate-if-possible-flag-unchecked",
     "internalReference": 931324
   },
@@ -9318,6 +9323,11 @@
     "locale": "es",
     "slug": "problemas-con-los-componentes-de-renderizado-en-el-editor-de-sitios",
     "internalReference": 415674
+  },
+  {
+    "locale": "es",
+    "slug": ".md",
+    "internalReference": 1428072
   },
   {
     "locale": "es",
@@ -18093,6 +18103,11 @@
     "locale": "pt",
     "slug": "selecionador-de-blocos-que-nao-funciona-na-pagina-inicial-do-editor-do-site",
     "internalReference": 431941
+  },
+  {
+    "locale": "pt",
+    "slug": ".md",
+    "internalReference": 1428072
   },
   {
     "locale": "pt",
