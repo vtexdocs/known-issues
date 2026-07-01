@@ -3,7 +3,7 @@ title: 'Dafiti O cálculo de juros parcelados aumenta incorretamente o preço de
 slug: dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti
 status: PUBLISHED
 createdAt: 2026-07-01T18:24:46.000Z
-updatedAt: 2026-07-01T18:24:46.000Z
+updatedAt: 2026-07-01T18:26:25.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
