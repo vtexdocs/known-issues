@@ -3,7 +3,7 @@ title: 'Dafiti El interés de las cuotas aumenta incorrectamente el precio de ve
 slug: dafiti-el-interes-de-las-cuotas-aumenta-incorrectamente-el-precio-de-venta-del-articulo-en-los-pedidos-de-dafiti
 status: PUBLISHED
 createdAt: 2026-07-01T18:24:46.000Z
-updatedAt: 2026-07-01T18:24:46.000Z
+updatedAt: 2026-07-01T18:26:25.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
