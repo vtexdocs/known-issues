@@ -1,0 +1,37 @@
+---
+title: 'Tax UI no muestra datos de exclusión de política comercial'
+slug: tax-ui-no-muestra-datos-de-exclusion-de-politica-comercial
+status: PUBLISHED
+createdAt: 2026-06-30T23:38:38.000Z
+updatedAt: 2026-07-01T18:36:45.000Z
+contentType: knownIssue
+productTeam: Pricing & Promotions
+author: 2mXZkbi0oi061KicTExNjo
+tag: Pricing & Promotions
+slugEN: tax-ui-not-showing-trade-policy-exclusion-data
+locale: es
+kiStatus: Backlog
+internalReference: 1428072
+---
+
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+
+## Sumario
+
+Actualmente, en la interfaz de Impuestos (https://account.myvtex.com/admin/rnb#/tax/taxID), al intentar usar la opción "Diferente de" en la barra lateral que muestra las políticas comerciales, al seleccionar una opción y guardar, los datos no se muestran al volver a acceder a la pantalla (aunque se guardan correctamente en segundo plano).
+
+## Simulación
+
+1 - Acceda a la interfaz de impuestos
+
+2 - Configure los ajustes de impuestos y, en la barra lateral, intente establecer una exclusión de política comercial seleccionando manualmente al menos una:
+
+![](https://vtexhelp.zendesk.com/attachments/token/yNG7lWZQ0QBkYuhjKN89WuflA/?name=image.png)
+
+3 - Guarde y acceda de nuevo a la interfaz; no se mostrará nada.
+
+4 - A pesar de esto, si consulta los mismos datos mediante la API GET, la información se guardará correctamente en segundo plano: https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api#get-/api/rnb/pvt/calculatorconfiguration/-idCalculatorConfiguration-
+
+## Workaround
+
+Gestione los datos únicamente mediante la API
