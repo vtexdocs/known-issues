@@ -5226,6 +5226,11 @@
   },
   {
     "locale": "en",
+    "slug": "dafiti-installment-interest-incorrectly-increases-item-sellingprice-in-dafiti-orders",
+    "internalReference": 1428531
+  },
+  {
+    "locale": "en",
     "slug": "magazine-luiza-main-image-not-respected",
     "internalReference": 1221096
   },
@@ -13998,6 +14003,11 @@
     "locale": "es",
     "slug": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
     "internalReference": 1425788
+  },
+  {
+    "locale": "es",
+    "slug": "dafiti-el-interes-de-las-cuotas-aumenta-incorrectamente-el-precio-de-venta-del-articulo-en-los-pedidos-de-dafiti",
+    "internalReference": 1428531
   },
   {
     "locale": "es",
@@ -22778,6 +22788,11 @@
     "locale": "pt",
     "slug": "shopee-codigo-do-pedido-001-email-invalido",
     "internalReference": 1425788
+  },
+  {
+    "locale": "pt",
+    "slug": "dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti",
+    "internalReference": 1428531
   },
   {
     "locale": "pt",
