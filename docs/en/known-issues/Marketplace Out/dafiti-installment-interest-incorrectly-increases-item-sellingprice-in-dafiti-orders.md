@@ -3,7 +3,7 @@ title: 'Dafiti Installment interest incorrectly increases item sellingPrice in D
 slug: dafiti-installment-interest-incorrectly-increases-item-sellingprice-in-dafiti-orders
 status: PUBLISHED
 createdAt: 2026-07-01T18:24:46.000Z
-updatedAt: 2026-07-01T18:24:46.000Z
+updatedAt: 2026-07-01T18:26:25.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
