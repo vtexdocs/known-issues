@@ -6431,6 +6431,11 @@
   },
   {
     "locale": "en",
+    "slug": "inconsistency-in-creating-transactions-when-the-affiliation-processing-the-pse-payment-method-is-switched",
+    "internalReference": 658378
+  },
+  {
+    "locale": "en",
     "slug": "inconsistency-in-payment-method-boleto-bancario-expiration-dates",
     "internalReference": 489460
   },
@@ -15218,6 +15223,11 @@
     "locale": "es",
     "slug": "inconsistencia-en-el-orden-de-los-registros-cuando-el-campo-tid-aparece-duplicado-en-el-campo-connectorresponses-de-la-api-get-de-detalles-de-pago",
     "internalReference": 895664
+  },
+  {
+    "locale": "es",
+    "slug": "inconsistencia-en-la-creacion-de-transacciones-cuando-se-cambia-la-afiliacion-que-procesa-el-metodo-de-pago-pse",
+    "internalReference": 658378
   },
   {
     "locale": "es",
@@ -24083,6 +24093,11 @@
     "locale": "pt",
     "slug": "inconsistencia-de-eventos-em-conectores-legados",
     "internalReference": 1028677
+  },
+  {
+    "locale": "pt",
+    "slug": "inconsistencia-na-criacao-de-transacoes-quando-a-afiliacao-que-processa-o-metodo-de-pagamento-pse-e-alterada",
+    "internalReference": 658378
   },
   {
     "locale": "pt",
