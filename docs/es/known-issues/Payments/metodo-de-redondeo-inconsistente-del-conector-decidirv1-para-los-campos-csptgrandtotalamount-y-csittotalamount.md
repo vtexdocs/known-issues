@@ -2,15 +2,15 @@
 title: 'Método de redondeo inconsistente del conector DecidirV1 para los campos CSPTGRANDTOTALAMOUNT y CSITTOTALAMOUNT.'
 slug: metodo-de-redondeo-inconsistente-del-conector-decidirv1-para-los-campos-csptgrandtotalamount-y-csittotalamount
 status: PUBLISHED
-createdAt: 2023-04-10T20:32:15.000Z
-updatedAt: 2023-04-10T20:32:14.000Z
+createdAt: 2023-04-10T23:32:15.000Z
+updatedAt: 2026-07-02T15:43:08.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: decidirv1-connectors-inconsistent-rounding-method-for-csptgrandtotalamount-and-csittotalamount-fields
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 787367
 ---
 
@@ -18,12 +18,16 @@ internalReference: 787367
 
 ## Sumario
 
-El conector heredado DecidirV1 utiliza un método interno para calcular los campos `CSPTGRANDTOTALAMOUNT` y `CSITTOTALAMOUNT`, que es el producto entre el valor del producto y la cantidad. Este enfoque da como resultado una cadena con dos decimales. Por consiguiente, cuando el precio del producto contiene más de dos decimales, el valor del campo `CSPTGRANDTOTALAMOUNT` difiere, ya que se trata del propio importe del pago.
+Al usar el conector DecidirV1 con productos cuyos precios tienen más de dos decimales, el total del pedido que se informa al sistema de prevención de fraude de Decidir no coincide con el valor real del pago. Esta discrepancia puede provocar fallos en la validación antifraude o inconsistencias entre el registro de la transacción y el importe cobrado.
 
 ## Simulación
 
-Realice un pedido utilizando DecidirV1 con un producto en el carrito cuyo precio tenga más de 3 decimales.
+1. Configure un producto con un precio unitario que contenga más de dos decimales (p. ej., $10.999).
+
+2. Añada el producto al carrito y complete el proceso de compra con el conector DecidirV1.
+
+3. Observe que el importe total de la transacción de Decidir difiere del total del carrito.
 
 ## Workaround
 
-Para evitar estas discrepancias, recomendamos utilizar productos con un máximo de dos decimales o modificar el carrito de la compra para eliminar el uso de decimales.
+Evite configurar productos con precios que superen los dos decimales. Ajuste el catálogo para que todos los precios unitarios tengan un máximo de dos decimales y así evitar la discrepancia.
