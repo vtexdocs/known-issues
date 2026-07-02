@@ -1,30 +1,27 @@
 ---
 title: 'For debt with CieloV3 we are not respecting the status of the response'
-id: SkcIYYJc8VGHS25qP9tKG
+slug: for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response
 status: PUBLISHED
-createdAt: 2022-03-03T18:40:36.990Z
-updatedAt: 2022-11-25T22:06:29.101Z
-publishedAt: 2022-11-25T22:06:29.101Z
-firstPublishedAt: 2022-03-03T18:40:37.500Z
+createdAt: 2021-05-11T23:59:02.000Z
+updatedAt: 2026-07-02T15:58:20.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 367284
 ---
 
 ## Summary
 
-## **Summary**
+When a debit transaction is processed through CieloV3 and Cielo returns a "waiting for response" status in the second authorization callback, VTEX incorrectly interprets it as a denial and cancels the transaction. As a result, the customer's payment is rejected even though it may still be in processing on Cielo's side.
 
 ## Simulation
 
-
+Unable to reproduce on demand. The behavior depends on Cielo returning a specific interim status during the authorization flow, which cannot be forced externally.
 
 ## Workaround
 
-
-
+Not available.
