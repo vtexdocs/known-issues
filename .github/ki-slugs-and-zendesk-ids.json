@@ -14736,6 +14736,11 @@
   },
   {
     "locale": "es",
+    "slug": "adyen-3ds2-genera-una-solicitud-doble-que-deniega-la-autorizacion-de-pago",
+    "internalReference": 884154
+  },
+  {
+    "locale": "es",
     "slug": "adyenv1-no-envia-correctamente-el-valor-de-paymentmethodtype-para-amex-cuando-se-utiliza-apple-pay",
     "internalReference": 920563
   },
@@ -15998,11 +16003,6 @@
     "locale": "es",
     "slug": "una-regex-de-elo-obsoleta-nos-hace-identificar-erroneamente-algunos-bins",
     "internalReference": 1015043
-  },
-  {
-    "locale": "es",
-    "slug": "una-solicitud-doble-de-adyen-3ds2-provoca-el-rechazo-de-la-autorizacion-de-pago",
-    "internalReference": 884154
   },
   {
     "locale": "es",
@@ -23611,6 +23611,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-solicitacao-dupla-do-adyen-3ds2-gera-uma-recusa-de-autorizacao-de-pagamento",
+    "internalReference": 884154
+  },
+  {
+    "locale": "pt",
     "slug": "a-transacao-capturada-permanece-no-status-aprovada-devido-a-falta-de-registro-de-liquidacao-nas-solicitacoes",
     "internalReference": 1349246
   },
@@ -24783,11 +24788,6 @@
     "locale": "pt",
     "slug": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins",
     "internalReference": 642136
-  },
-  {
-    "locale": "pt",
-    "slug": "uma-solicitacao-dupla-do-adyen-3ds2-gera-uma-recusa-na-autorizacao-de-pagamento",
-    "internalReference": 884154
   },
   {
     "locale": "pt",
