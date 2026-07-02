@@ -5936,6 +5936,11 @@
   },
   {
     "locale": "en",
+    "slug": "3ds2-parameters-not-being-validated",
+    "internalReference": 349166
+  },
+  {
+    "locale": "en",
     "slug": "504-timeout-when-creating-gift-cards-in-bulk-via-admin-large-batch-size",
     "internalReference": 1348204
   },
@@ -15606,6 +15611,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-parametros-de-3ds2-no-se-estan-validando",
+    "internalReference": 349166
+  },
+  {
+    "locale": "es",
     "slug": "los-pedidos-permanecen-en-pago-pendiente-incluso-despues-de-que-la-transaccion-haya-sido-aprobada-o-finalizada",
     "internalReference": 1349138
   },
@@ -24563,6 +24573,11 @@
     "locale": "pt",
     "slug": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta",
     "internalReference": 367284
+  },
+  {
+    "locale": "pt",
+    "slug": "parametros-3ds2-nao-estao-sendo-validados",
+    "internalReference": 349166
   },
   {
     "locale": "pt",
