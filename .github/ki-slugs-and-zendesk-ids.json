@@ -15756,13 +15756,13 @@
   },
   {
     "locale": "es",
-    "slug": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
-    "internalReference": 292781
+    "slug": "para-deudas-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
+    "internalReference": 367284
   },
   {
     "locale": "es",
-    "slug": "para-la-deuda-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
-    "internalReference": 367284
+    "slug": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
+    "internalReference": 292781
   },
   {
     "locale": "es",
@@ -24546,7 +24546,7 @@
   },
   {
     "locale": "pt",
-    "slug": "para-a-divida-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta",
+    "slug": "para-dividas-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta",
     "internalReference": 367284
   },
   {
