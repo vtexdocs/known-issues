@@ -2,15 +2,15 @@
 title: 'Método de arredondamento inconsistente do conector DecidirV1 para os campos CSPTGRANDTOTALAMOUNT e CSITTOTALAMOUNT.'
 slug: metodo-de-arredondamento-inconsistente-do-conector-decidirv1-para-os-campos-csptgrandtotalamount-e-csittotalamount
 status: PUBLISHED
-createdAt: 2023-04-10T20:32:15.000Z
-updatedAt: 2023-04-10T20:32:14.000Z
+createdAt: 2023-04-10T23:32:15.000Z
+updatedAt: 2026-07-02T15:43:08.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: decidirv1-connectors-inconsistent-rounding-method-for-csptgrandtotalamount-and-csittotalamount-fields
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 787367
 ---
 
@@ -18,12 +18,16 @@ internalReference: 787367
 
 ## Sumário
 
-O conector DecidirV1 legado utiliza um método interno para calcular os campos `CSPTGRANDTOTALAMOUNT` e `CSITTOTALAMOUNT`, que correspondem ao produto entre o valor do produto e a quantidade. Essa abordagem resulta em uma string com duas casas decimais. Consequentemente, quando o preço do produto contém mais de duas casas decimais, o valor do campo `CSPTGRANDTOTALAMOUNT` diverge, uma vez que se trata do próprio valor do pagamento.
+Ao usar o conector DecidirV1 com produtos cujos preços têm mais de duas casas decimais, o valor total do pedido relatado ao sistema de prevenção de fraudes do Decidir não corresponde ao valor real do pagamento. Essa divergência pode causar falhas na validação antifraude ou inconsistências entre o registro da transação e o valor cobrado.
 
 ## Simulação
 
-Faça um pedido usando o DecidirV1 com um produto no carrinho cujo preço tenha mais de 3 casas decimais.
+1. Configure um produto com um preço unitário contendo mais de duas casas decimais (por exemplo, R$ 10,99).
+
+2. Adicione o produto ao carrinho e finalize a compra usando o conector DecidirV1.
+
+3. Observe que o valor total na transação do Decidir difere do total do carrinho.
 
 ## Workaround
 
-Para evitar tais discrepâncias, recomendamos usar produtos com no máximo duas casas decimais ou modificar o carrinho de checkout para eliminar o uso de casas decimais.
+Evite configurar produtos com preços que excedam duas casas decimais. Ajuste o catálogo para que todos os preços unitários tenham no máximo duas casas decimais para evitar a discrepância.
