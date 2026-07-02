@@ -2,21 +2,21 @@
 title: 'Adyen 3DS2 double request generates payment authorization denial'
 slug: adyen-3ds2-double-request-generates-payment-authorization-denial
 status: PUBLISHED
-createdAt: 2023-08-18T20:12:05.000Z
-updatedAt: 2023-08-18T20:12:05.000Z
+createdAt: 2023-08-18T23:12:05.000Z
+updatedAt: 2026-07-02T15:40:28.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: adyen-3ds2-double-request-generates-payment-authorization-denial
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 884154
 ---
 
 ## Summary
 
-When Adyen's 3DS2 request is sent twice it retrieves an error in the response and the payment is automatically denied.
+When a 3DS2 payment is processed through the Adyen connector, a duplicate authorization request is occasionally sent. This causes the payment to be automatically denied by Adyen, and the order gets stuck in a failed state, even in cases where the charge was already processed on Adyen's side.
 
 Authorization response:
 
@@ -26,12 +26,12 @@ Following the message:
 
 `Not expected Response [].`
 
-This is an issue when the payment is actually authorized on Adyen's end but since there is no settlement on our side we can't send a refund request.
+Because VTEX does not receive a successful authorization response, no settlement is triggered, and an automated refund cannot be issued.
 
 ## Simulation
 
-We were not able to reproduce this scenario or find a pattern so far.
+Unable to reproduce. No consistent pattern has been identified to trigger the duplicate request.
 
 ## Workaround
 
-NA
+Not available.
