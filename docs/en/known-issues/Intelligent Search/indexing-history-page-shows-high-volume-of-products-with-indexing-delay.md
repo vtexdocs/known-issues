@@ -3,7 +3,7 @@ title: 'Indexing History page shows high volume of products with indexing delay'
 slug: indexing-history-page-shows-high-volume-of-products-with-indexing-delay
 status: PUBLISHED
 createdAt: 2026-04-27T19:51:12.000Z
-updatedAt: 2026-06-11T20:25:25.000Z
+updatedAt: 2026-07-02T15:48:31.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -25,4 +25,4 @@ Indexing History page in the Admin may show a high volume of products with a hig
 
 ## Workaround
 
-N/A
+Open a ticket to request a full reindex.
