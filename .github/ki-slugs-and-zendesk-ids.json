@@ -6141,6 +6141,11 @@
   },
   {
     "locale": "en",
+    "slug": "decidir-partial-refunds-wrong-amount-is-being-refunded-to-the-customers",
+    "internalReference": 290981
+  },
+  {
+    "locale": "en",
     "slug": "decidirv1-connectors-inconsistent-rounding-method-for-csptgrandtotalamount-and-csittotalamount-fields",
     "internalReference": 787367
   },
@@ -14813,6 +14818,11 @@
     "locale": "es",
     "slug": "cvv-sin-validacion-del-tipo-de-caracteres",
     "internalReference": 425204
+  },
+  {
+    "locale": "es",
+    "slug": "decidir-reembolsos-parciales-se-esta-reembolsando-una-cantidad-incorrecta-a-los-clientes",
+    "internalReference": 290981
   },
   {
     "locale": "es",
@@ -23898,6 +23908,11 @@
     "locale": "pt",
     "slug": "data-de-expiracao-da-condicao-especial-nao-e-apagada",
     "internalReference": 547046
+  },
+  {
+    "locale": "pt",
+    "slug": "decisao-reembolsos-parciais-o-valor-reembolsado-aos-clientes-esta-incorreto",
+    "internalReference": 290981
   },
   {
     "locale": "pt",
