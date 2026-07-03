@@ -6996,6 +6996,11 @@
   },
   {
     "locale": "en",
+    "slug": "transacoes-canceladas-no-mercadopago-nao-cancelam-na-vtex",
+    "internalReference": 360653
+  },
+  {
+    "locale": "en",
     "slug": "transaction-canceled-by-timeout-timeout-no-request-para-o-sistema-de-parcelamento",
     "internalReference": 533844
   },
@@ -16001,6 +16006,11 @@
   },
   {
     "locale": "es",
+    "slug": "transacciones-canceladas-en-mercadopago-no-canceladas-en-vtex",
+    "internalReference": 360653
+  },
+  {
+    "locale": "es",
     "slug": "transacciones-incompletas-que-aparecen-con-moneda-brasilena",
     "internalReference": 1007953
   },
@@ -24783,6 +24793,11 @@
     "locale": "pt",
     "slug": "transacoes-bloqueadas-apos-a-rejeicao-do-risco",
     "internalReference": 1092563
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-canceladas-no-mercadopago-nao-canceladas-na-vtex",
+    "internalReference": 360653
   },
   {
     "locale": "pt",
