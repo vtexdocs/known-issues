@@ -14551,7 +14551,7 @@
   },
   {
     "locale": "es",
-    "slug": "orden-de-compracolocada-boleto-factura-bancaria-moip",
+    "slug": "orden-de-pago-factura-bancaria-boleto-realizada-moip",
     "internalReference": 376951
   },
   {
@@ -23371,7 +23371,7 @@
   },
   {
     "locale": "pt",
-    "slug": "pedido-de-checkoutfatura-de-boleto-bancario",
+    "slug": "pedido-de-checkoutcolocado-boleto-fatura-bancaria-moip",
     "internalReference": 376951
   },
   {
