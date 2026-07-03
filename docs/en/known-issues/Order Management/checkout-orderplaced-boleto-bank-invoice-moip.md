@@ -3,7 +3,7 @@ title: 'Checkout orderPlaced Boleto Bank Invoice MOIP'
 slug: checkout-orderplaced-boleto-bank-invoice-moip
 status: PUBLISHED
 createdAt: 2021-06-02T23:18:59.000Z
-updatedAt: 2026-07-03T16:06:43.000Z
+updatedAt: 2026-07-03T16:09:21.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
