@@ -3,7 +3,7 @@ title: 'Orden de pago Factura bancaria Boleto realizada MOIP'
 slug: orden-de-pago-factura-bancaria-boleto-realizada-moip
 status: PUBLISHED
 createdAt: 2021-06-02T23:18:59.000Z
-updatedAt: 2026-07-03T16:06:43.000Z
+updatedAt: 2026-07-03T16:09:21.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
