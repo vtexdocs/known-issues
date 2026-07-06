@@ -3,7 +3,7 @@ title: 'Item quantity duplicated when trying to edit quotes qith items split by 
 slug: item-quantity-duplicated-when-trying-to-edit-quotes-qith-items-split-by-promotions
 status: PUBLISHED
 createdAt: 2026-07-06T22:36:55.000Z
-updatedAt: 2026-07-06T22:36:55.000Z
+updatedAt: 2026-07-06T22:40:14.000Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -29,4 +29,4 @@ When editing the item's quantity of a quote that contains items split by promoti
 
 ## Workaround
 
-Do not update quotes with items split by promotion, create new ones.
+Do not update the item quantities of quotes with items split by promotion, create new ones from the cart.
