@@ -3,7 +3,7 @@ title: 'A quantidade de itens foi duplicada ao tentar editar orçamentos com ite
 slug: a-quantidade-de-itens-foi-duplicada-ao-tentar-editar-orcamentos-com-itens-divididos-por-promocoes
 status: PUBLISHED
 createdAt: 2026-07-06T22:36:55.000Z
-updatedAt: 2026-07-06T22:36:55.000Z
+updatedAt: 2026-07-06T22:40:14.000Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
@@ -26,10 +26,12 @@ Ao editar a quantidade de itens em um orçamento que contém itens divididos por
 - Tente editar a quantidade de itens do orçamento; Na interface do usuário, duas coisas acontecerão:
 
 - O primeiro dígito não será atualizado, permanecerá como 1.
-- A quantidade adicionada para uma das entradas do item dividido será duplicada para a outra entrada (ex.: adicionar 12 para a entrada com preço normal e a interface do usuário replicará 12 para a entrada gratuita).
+- A quantidade adicionada para um dos itens divididos por promoção será duplicada para o outro item (ex.: adicionar 12 para o item com preço normal e a interface do usuário replicará 12 para o item gratuito).
 
-- Ao salvar o orçamento e usá-lo, a quantidade total será adicionada ao formulário de pedido e a promoção será calculada conforme o esperado (ex.: se 12 unidades foram adicionadas para cada entrada, 24 unidades do item serão adicionadas ao formulário de pedido; então, 18 unidades serão cobradas integralmente e 6 serão adicionadas gratuitamente, conforme a regra da promoção "compre 3 e leve 1").
+- Ao salvar o orçamento e usá-lo, a quantidade total será adicionada ao formulário de pedido e a promoção será calculada conforme o esperado (ex.: se 12 unidades foram adicionadas para cada item, 24 unidades do item serão adicionadas ao formulário de pedido; então, 18 unidades serão cobradas integralmente e 6 serão adicionadas gratuitamente, conforme a regra da promoção "compre 3 e leve 1").
 
 ## Workaround
 
-Não atualize orçamentos com itens divididos por promoção; crie novos orçamentos.
+Não atualize as quantidades de itens em orçamentos com itens divididos por promoção; crie novos orçamentos a partir do carrinho.
+
+-
