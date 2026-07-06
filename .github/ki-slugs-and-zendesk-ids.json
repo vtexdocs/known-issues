@@ -271,6 +271,11 @@
   },
   {
     "locale": "en",
+    "slug": "item-quantity-duplicated-when-trying-to-edit-quotes-qith-items-split-by-promotions",
+    "internalReference": 1430768
+  },
+  {
+    "locale": "en",
     "slug": "malformed-button-in-b2b-suite-organizations-custom-fields-admin-ui",
     "internalReference": 1421975
   },
@@ -9146,6 +9151,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-duplica-la-cantidad-de-articulos-al-intentar-editar-cotizaciones-con-articulos-divididos-por-promociones",
+    "internalReference": 1430768
+  },
+  {
+    "locale": "es",
     "slug": "si-corporatedocument-empieza-por-letras-se-elimina-el-primer-digito",
     "internalReference": 920703
   },
@@ -17783,6 +17793,11 @@
     "locale": "pt",
     "slug": "a-pesquisa-nao-tem-produtos-se-o-nome-do-vendedor-1-no-gerenciamento-de-vendedores-for-diferente-do-nome-comercial-no-gerenciamento-de-contas-ao-us",
     "internalReference": 946391
+  },
+  {
+    "locale": "pt",
+    "slug": "a-quantidade-de-itens-foi-duplicada-ao-tentar-editar-orcamentos-com-itens-divididos-por-promocoes",
+    "internalReference": 1430768
   },
   {
     "locale": "pt",
