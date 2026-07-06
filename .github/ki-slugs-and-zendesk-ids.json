@@ -476,6 +476,11 @@
   },
   {
     "locale": "en",
+    "slug": "oneof-variant-switch-erases-field-data-and-defaults-to-first-variant-on-load",
+    "internalReference": 1430638
+  },
+  {
+    "locale": "en",
     "slug": "ordination-of-images-when-uploading-a-new-version-not-working",
     "internalReference": 739814
   },
@@ -563,11 +568,6 @@
     "locale": "en",
     "slug": "when-deleting-routes-from-the-routesjson-file-they-are-not-deleted-from-the-ui",
     "internalReference": 1172460
-  },
-  {
-    "locale": "en",
-    "slug": "tax-ui-not-showing-trade-policy-exclusion-data",
-    "internalReference": 1428072
   },
   {
     "locale": "en",
@@ -3291,11 +3291,6 @@
   },
   {
     "locale": "en",
-    "slug": "amazon-order-cancellation-flow",
-    "internalReference": 588456
-  },
-  {
-    "locale": "en",
     "slug": "amazon-order-does-not-integrate-correctly",
     "internalReference": 1109828
   },
@@ -3858,11 +3853,6 @@
     "locale": "en",
     "slug": "shopee-failed-to-create-product-variations",
     "internalReference": 685160
-  },
-  {
-    "locale": "en",
-    "slug": "shopee-freight-value-mismatch-on-seller-logistics-orders",
-    "internalReference": 1391278
   },
   {
     "locale": "en",
@@ -5226,8 +5216,8 @@
   },
   {
     "locale": "en",
-    "slug": "shopee-order-code-001-invalid-email",
-    "internalReference": 1425788
+    "slug": "amazon-order-cancellation-flow",
+    "internalReference": 588456
   },
   {
     "locale": "en",
@@ -5251,8 +5241,18 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-freight-value-mismatch-on-seller-logistics-orders",
+    "internalReference": 1391278
+  },
+  {
+    "locale": "en",
     "slug": "shopee-mapper-does-not-support-dynamic-categories-attributes-that-unlock-additional-required-subcategories",
     "internalReference": 1427436
+  },
+  {
+    "locale": "en",
+    "slug": "shopee-order-code-001-invalid-email",
+    "internalReference": 1425788
   },
   {
     "locale": "en",
@@ -8031,6 +8031,11 @@
   },
   {
     "locale": "en",
+    "slug": "tax-ui-not-showing-trade-policy-exclusion-data",
+    "internalReference": 1428072
+  },
+  {
+    "locale": "en",
     "slug": "timeout-api-get-accounts-approval-settings",
     "internalReference": 772840
   },
@@ -9196,6 +9201,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-interruptor-de-variante-oneof-borra-los-datos-del-campo-y-toma-por-defecto-la-primera-variante-al-cargar",
+    "internalReference": 1430638
+  },
+  {
+    "locale": "es",
     "slug": "el-listado-de-tipos-de-contenido-no-permite-desplazarse-hacia-abajo",
     "internalReference": 1271990
   },
@@ -9358,11 +9368,6 @@
     "locale": "es",
     "slug": "problemas-con-los-componentes-de-renderizado-en-el-editor-de-sitios",
     "internalReference": 415674
-  },
-  {
-    "locale": "es",
-    "slug": "tax-ui-no-muestra-datos-de-exclusion-de-politica-comercial",
-    "internalReference": 1428072
   },
   {
     "locale": "es",
@@ -12091,11 +12096,6 @@
   },
   {
     "locale": "es",
-    "slug": "amazon-proceso-de-cancelacion-de-pedidos",
-    "internalReference": 588456
-  },
-  {
-    "locale": "es",
     "slug": "amazon-seleccion-de-transportistas",
     "internalReference": 1186908
   },
@@ -12648,11 +12648,6 @@
     "locale": "es",
     "slug": "shopee-atributo-de-marca-no-enviado-o-sobrescrito-durante-la-sincronizacion-del-producto",
     "internalReference": 1323634
-  },
-  {
-    "locale": "es",
-    "slug": "shopee-discrepancia-en-el-valor-del-flete-en-los-pedidos-de-logistica-del-vendedor",
-    "internalReference": 1391278
   },
   {
     "locale": "es",
@@ -14031,8 +14026,8 @@
   },
   {
     "locale": "es",
-    "slug": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
-    "internalReference": 1425788
+    "slug": "amazon-proceso-de-cancelacion-de-pedidos",
+    "internalReference": 588456
   },
   {
     "locale": "es",
@@ -14048,6 +14043,16 @@
     "locale": "es",
     "slug": "netshoes-imagen-principal-no-respetada",
     "internalReference": 1220978
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-codigo-de-pedido-001-correo-electronico-no-valido",
+    "internalReference": 1425788
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-discrepancia-en-el-valor-del-flete-en-los-pedidos-de-logistica-del-vendedor",
+    "internalReference": 1391278
   },
   {
     "locale": "es",
@@ -16846,6 +16851,11 @@
   },
   {
     "locale": "es",
+    "slug": "tax-ui-no-muestra-datos-de-exclusion-de-politica-comercial",
+    "internalReference": 1428072
+  },
+  {
+    "locale": "es",
     "slug": "algunos-comportamientos-inesperados-en-masterdata",
     "internalReference": 669048
   },
@@ -17991,6 +18001,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-opcao-oneofvariant-apaga-os-dados-do-campo-e-retorna-a-primeira-variante-como-padrao-ao-carregar-o-jogo",
+    "internalReference": 1430638
+  },
+  {
+    "locale": "pt",
     "slug": "a-opcao-selecionar-um-bloco-nao-funciona-corretamente-quando-as-extensoes-de-pagina-sao-carregadas-de-forma-diferida-no-editor-do-site",
     "internalReference": 1403234
   },
@@ -18168,11 +18183,6 @@
     "locale": "pt",
     "slug": "selecionador-de-blocos-que-nao-funciona-na-pagina-inicial-do-editor-do-site",
     "internalReference": 431941
-  },
-  {
-    "locale": "pt",
-    "slug": "a-interface-de-impostos-nao-esta-exibindo-os-dados-de-exclusao-da-politica-comercial",
-    "internalReference": 1428072
   },
   {
     "locale": "pt",
@@ -20916,11 +20926,6 @@
   },
   {
     "locale": "pt",
-    "slug": "amazon-fluxo-de-cancelamento-de-pedidos",
-    "internalReference": 588456
-  },
-  {
-    "locale": "pt",
     "slug": "amazoncasacaso-erros-de-rastreamento",
     "internalReference": 360564
   },
@@ -21468,11 +21473,6 @@
     "locale": "pt",
     "slug": "shopee-atributo-de-marca-nao-enviado-ou-sobrescrito-durante-a-sincronizacao-do-produto",
     "internalReference": 1323634
-  },
-  {
-    "locale": "pt",
-    "slug": "shopee-divergencia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor",
-    "internalReference": 1391278
   },
   {
     "locale": "pt",
@@ -22841,8 +22841,8 @@
   },
   {
     "locale": "pt",
-    "slug": "shopee-codigo-do-pedido-001-email-invalido",
-    "internalReference": 1425788
+    "slug": "amazon-fluxo-de-cancelamento-de-pedidos",
+    "internalReference": 588456
   },
   {
     "locale": "pt",
@@ -22863,6 +22863,16 @@
     "locale": "pt",
     "slug": "o-shopee-mapper-nao-suporta-categorias-dinamicas-atributos-que-desbloqueiam-subcategorias-adicionais-obrigatorias",
     "internalReference": 1427436
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-codigo-do-pedido-001-email-invalido",
+    "internalReference": 1425788
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-divergencia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor",
+    "internalReference": 1391278
   },
   {
     "locale": "pt",
@@ -25323,6 +25333,11 @@
     "locale": "pt",
     "slug": "a-hierarquia-de-categorias-nao-e-exibida-no-novo-formulario-de-promocao-regular",
     "internalReference": 1317779
+  },
+  {
+    "locale": "pt",
+    "slug": "a-interface-de-impostos-nao-esta-exibindo-os-dados-de-exclusao-da-politica-comercial",
+    "internalReference": 1428072
   },
   {
     "locale": "pt",
