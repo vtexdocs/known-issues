@@ -491,6 +491,11 @@
   },
   {
     "locale": "en",
+    "slug": "removing-an-update-from-a-release-can-create-a-draft-with-incomplete-content",
+    "internalReference": 1430344
+  },
+  {
+    "locale": "en",
     "slug": "render-component-issues-on-site-editor",
     "internalReference": 415674
   },
@@ -9218,6 +9223,11 @@
     "locale": "es",
     "slug": "el-usuario-puede-ver-y-acceder-a-las-funciones-del-cms-incluso-sin-el-permiso-correcto",
     "internalReference": 1046263
+  },
+  {
+    "locale": "es",
+    "slug": "eliminar-una-actualizacion-de-una-version-puede-crear-un-borrador-con-contenido-incompleto",
+    "internalReference": 1430344
   },
   {
     "locale": "es",
@@ -18148,6 +18158,11 @@
     "locale": "pt",
     "slug": "problemas-com-o-componente-de-renderizacao-no-editor-de-sites",
     "internalReference": 415674
+  },
+  {
+    "locale": "pt",
+    "slug": "remover-uma-atualizacao-de-uma-versao-pode-criar-um-rascunho-com-conteudo-incompleto",
+    "internalReference": 1430344
   },
   {
     "locale": "pt",
