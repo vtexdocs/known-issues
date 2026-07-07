@@ -5221,6 +5221,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-in-some-cases-a-sku-may-be-published-successfully-on-amazon-but-the-stock-is-not-updated-and-remains-at-zero",
+    "internalReference": 1431243
+  },
+  {
+    "locale": "en",
     "slug": "amazon-order-cancellation-flow",
     "internalReference": 588456
   },
@@ -14033,6 +14038,11 @@
     "locale": "es",
     "slug": "vendedor-invitar-ruta-no-se-encuentra-despues-de-la-creacion-de-la-cuenta",
     "internalReference": 1167493
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-en-algunos-casos-un-sku-puede-publicarse-correctamente-en-amazon-pero-el-stock-no-se-actualiza-y-permanece-en-cero",
+    "internalReference": 1431243
   },
   {
     "locale": "es",
@@ -22853,6 +22863,11 @@
     "locale": "pt",
     "slug": "sugestoes-para-definir-o-unitmultiplier-menor-que-1-como-0",
     "internalReference": 702056
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-em-alguns-casos-um-sku-pode-ser-publicado-com-sucesso-na-amazon-mas-o-estoque-nao-e-atualizado-e-permanece-zerado",
+    "internalReference": 1431243
   },
   {
     "locale": "pt",
