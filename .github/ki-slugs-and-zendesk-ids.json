@@ -11171,7 +11171,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-en-el-campo-de-cantidad-maxima-de-la-misma-sku-en-la-cesta",
+    "slug": "error-en-el-campo-de-cantidad-maxima-del-mismo-sku-en-el-carrito",
     "internalReference": 587394
   },
   {
@@ -20136,7 +20136,7 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-no-campo-de-quantidade-maxima-da-mesma-sku-no-carrinho",
+    "slug": "erro-no-campo-de-quantidade-maxima-do-mesmo-sku-no-carrinho",
     "internalReference": 587394
   },
   {
