@@ -4491,6 +4491,11 @@
   },
   {
     "locale": "en",
+    "slug": "pricebased-filters-ignore-sales-channel-and-regionalization-context",
+    "internalReference": 1431340
+  },
+  {
+    "locale": "en",
     "slug": "prices-from-specific-price-tables-are-not-considered-when-sorting-or-filtering-products",
     "internalReference": 1085895
   },
@@ -13396,6 +13401,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-filtros-basados-en-precios-ignoran-el-contexto-del-canal-de-ventas-y-la-regionalizacion",
+    "internalReference": 1431340
+  },
+  {
+    "locale": "es",
     "slug": "los-filtros-de-busqueda-desaparecen-intermitentemente",
     "internalReference": 734221
   },
@@ -22238,6 +22248,11 @@
     "locale": "pt",
     "slug": "os-destaques-de-produtos-nao-funcionam-em-uma-lista-de-produtos",
     "internalReference": 546844
+  },
+  {
+    "locale": "pt",
+    "slug": "os-filtros-baseados-em-preco-ignoram-o-contexto-de-canal-de-vendas-e-regionalizacao",
+    "internalReference": 1431340
   },
   {
     "locale": "pt",
