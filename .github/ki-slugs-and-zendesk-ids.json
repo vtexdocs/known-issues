@@ -4671,6 +4671,11 @@
   },
   {
     "locale": "en",
+    "slug": "sorting-by-discount-ignores-sales-channel-context",
+    "internalReference": 1431337
+  },
+  {
+    "locale": "en",
     "slug": "specific-characters-removed-from-the-filtered-search-url",
     "internalReference": 1196131
   },
@@ -13276,6 +13281,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-ordenacion-por-descuento-ignora-el-contexto-del-canal-de-ventas",
+    "internalReference": 1431337
+  },
+  {
+    "locale": "es",
     "slug": "la-ordenacion-por-nombre-funciona-de-forma-diferente-en-las-tiendas-integradas-antes-de-una-fecha",
     "internalReference": 600468
   },
@@ -21858,6 +21868,11 @@
     "locale": "pt",
     "slug": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha",
     "internalReference": 1427405
+  },
+  {
+    "locale": "pt",
+    "slug": "a-ordenacao-por-desconto-ignora-o-contexto-do-canal-de-vendas",
+    "internalReference": 1431337
   },
   {
     "locale": "pt",
