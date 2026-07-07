@@ -4566,11 +4566,6 @@
   },
   {
     "locale": "en",
-    "slug": "regionalization-or-trade-policies-arent-considered-while-filtering-or-sorting-items-by-price-or-discount",
-    "internalReference": 571101
-  },
-  {
-    "locale": "en",
     "slug": "same-option-id-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
     "internalReference": 1328394
   },
@@ -4678,6 +4673,11 @@
     "locale": "en",
     "slug": "sorting-by-discount-ignores-sales-channel-context",
     "internalReference": 1431337
+  },
+  {
+    "locale": "en",
+    "slug": "sorting-intelligent-search-by-price-ignores-sales-channel-and-regionalization-context",
+    "internalReference": 571101
   },
   {
     "locale": "en",
@@ -13281,6 +13281,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-ordenacion-de-la-busqueda-inteligente-por-precio-ignora-el-contexto-del-canal-de-ventas-y-la-regionalizacion",
+    "internalReference": 571101
+  },
+  {
+    "locale": "es",
     "slug": "la-ordenacion-de-las-imagenes-de-los-productos-no-respeta-el-orden-del-catalogo",
     "internalReference": 682177
   },
@@ -13343,11 +13348,6 @@
     "locale": "es",
     "slug": "las-normas-del-merchandising-visual-se-han-extrapolado-erroneamente-a-contextos-mas-amplios",
     "internalReference": 1098688
-  },
-  {
-    "locale": "es",
-    "slug": "las-politicas-de-regionalizacion-o-comerciales-no-se-tienen-en-cuenta-al-filtrar-u-ordenar-los-articulos-por-precio-o-descuento",
-    "internalReference": 571101
   },
   {
     "locale": "es",
@@ -21846,6 +21846,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-classificacao-da-busca-inteligente-por-preco-ignora-o-canal-de-vendas-e-o-contexto-de-regionalizacao",
+    "internalReference": 571101
+  },
+  {
+    "locale": "pt",
     "slug": "a-classificacao-da-imagem-do-produto-nao-respeita-a-ordem-do-catalogo",
     "internalReference": 682177
   },
@@ -21968,11 +21973,6 @@
     "locale": "pt",
     "slug": "as-pesquisas-no-historico-de-autocompletar-com-o-caractere-estao-prejudicando-a-pagina-de-resultados-da-pesquisa",
     "internalReference": 1405490
-  },
-  {
-    "locale": "pt",
-    "slug": "as-politicas-de-regionalizacao-ou-comerciais-nao-sao-levadas-em-conta-ao-filtrar-ou-classificar-itens-por-preco-ou-desconto",
-    "internalReference": 571101
   },
   {
     "locale": "pt",
