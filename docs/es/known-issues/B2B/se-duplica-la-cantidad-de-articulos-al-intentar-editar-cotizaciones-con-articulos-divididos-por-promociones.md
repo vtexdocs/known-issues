@@ -3,12 +3,12 @@ title: 'Se duplica la cantidad de artículos al intentar editar cotizaciones con
 slug: se-duplica-la-cantidad-de-articulos-al-intentar-editar-cotizaciones-con-articulos-divididos-por-promociones
 status: PUBLISHED
 createdAt: 2026-07-06T22:36:55.000Z
-updatedAt: 2026-07-06T22:40:14.000Z
+updatedAt: 2026-07-07T16:07:47.000Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: item-quantity-duplicated-when-trying-to-edit-quotes-qith-items-split-by-promotions
+slugEN: item-quantity-duplicated-when-trying-to-edit-quotes-with-items-split-by-promotions
 locale: es
 kiStatus: Backlog
 internalReference: 1430768
