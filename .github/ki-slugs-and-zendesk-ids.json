@@ -4396,6 +4396,11 @@
   },
   {
     "locale": "en",
+    "slug": "intelligent-search-facets-hides-selected-parent-facet-in-multiselect-drilldown",
+    "internalReference": 1432016
+  },
+  {
+    "locale": "en",
     "slug": "intelligent-search-language-settings-not-in-sync-with-store-configurations",
     "internalReference": 990343
   },
@@ -13271,6 +13276,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-funcion-de-busqueda-inteligente-oculta-la-faceta-principal-seleccionada-en-la-exploracion-en-profundidad-de-seleccion-multiple",
+    "internalReference": 1432016
+  },
+  {
+    "locale": "es",
     "slug": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
     "internalReference": 1427405
   },
@@ -21913,6 +21923,11 @@
     "locale": "pt",
     "slug": "a-pesquisa-explicativa-nao-apresenta-resultados-quando-o-idioma-corresponde-a-localidade-do-administrador-tambem-configurada-na-pesquisa-inteligent",
     "internalReference": 830490
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pesquisa-inteligente-de-facetas-oculta-a-faceta-principal-selecionada-na-selecao-multipla-com-detalhamento",
+    "internalReference": 1432016
   },
   {
     "locale": "pt",
