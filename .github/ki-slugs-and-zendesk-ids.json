@@ -11251,6 +11251,11 @@
   },
   {
     "locale": "es",
+    "slug": "interactuar-con-el-componente-de-pago-mientras-aun-se-encuentra-en-estado-de-carga-envia-la-opcion-de-pago-incorrecta",
+    "internalReference": 952086
+  },
+  {
+    "locale": "es",
     "slug": "la-agencia-tributaria-no-tiene-en-cuenta-las-promociones-simbolicas-a-la-hora-de-realizar-pedidos",
     "internalReference": 900120
   },
@@ -11968,11 +11973,6 @@
     "locale": "es",
     "slug": "si-no-se-introducen-los-datos-en-el-paso-enviar-a-otra-direccion-el-boton-pasar-al-pago-desaparece",
     "internalReference": 467419
-  },
-  {
-    "locale": "es",
-    "slug": "si-se-interactua-con-el-componente-de-pago-mientras-aun-se-esta-cargando-se-envia-una-opcion-de-pago-incorrecta",
-    "internalReference": 952086
   },
   {
     "locale": "es",
@@ -20236,7 +20236,7 @@
   },
   {
     "locale": "pt",
-    "slug": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-carregando-faz-com-que-seja-enviada-a-opcao-de-pagamento-errada",
+    "slug": "interagir-com-o-componente-de-pagamento-enquanto-ele-ainda-esta-em-estado-de-carregamento-envia-a-opcao-de-pagamento-incorreta",
     "internalReference": 952086
   },
   {
