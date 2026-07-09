@@ -14916,6 +14916,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-bin-enviado-no-coincide-con-la-marca-de-tarjeta-asociada",
+    "internalReference": 308896
+  },
+  {
+    "locale": "es",
     "slug": "el-boton-de-compra-se-mantiene-activo-incluso-con-un-credito-insuficiente-del-metodo-de-pago-credito-del-cliente",
     "internalReference": 309820
   },
@@ -15438,11 +15443,6 @@
     "locale": "es",
     "slug": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensa-o-el-desencadenante-sospechoso",
     "internalReference": 887866
-  },
-  {
-    "locale": "es",
-    "slug": "la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada",
-    "internalReference": 308896
   },
   {
     "locale": "es",
@@ -24281,7 +24281,7 @@
   },
   {
     "locale": "pt",
-    "slug": "lixeira-enviada-nao-corresponde-a-uma-marca-de-cartao-associada",
+    "slug": "o-endereco-enviado-nao-corresponde-a-nenhuma-bandeira-de-cartao-associada",
     "internalReference": 308896
   },
   {
