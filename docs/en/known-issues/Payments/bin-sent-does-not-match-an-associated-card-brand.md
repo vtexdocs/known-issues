@@ -1,11 +1,9 @@
 ---
 title: 'Bin sent does not match an associated Card brand'
-id: 4GvoMVXIVOdFueGiNfcTvk
+slug: bin-sent-does-not-match-an-associated-card-brand
 status: PUBLISHED
-createdAt: 2022-03-26T14:46:51.930Z
-updatedAt: 2022-11-25T22:09:12.062Z
-publishedAt: 2022-11-25T22:09:12.062Z
-firstPublishedAt: 2022-03-26T14:46:52.370Z
+createdAt: 2020-11-24T17:29:48.000Z
+updatedAt: 2026-07-09T14:25:08.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,26 +16,26 @@ internalReference: 308896
 
 ## Summary
 
+During checkout, customers can manually change the card brand displayed next to the card number field, overriding the brand automatically identified from the BIN. When the purchase is completed with the wrong brand selected, the transaction is processed with the incorrect card brand, creating a mismatch between VTEX records and what the payment provider identifies.
+This divergence causes:
 
-The platform allows you to send a BIN with another card brand flag. For example: A VISA BIN can be informed, but you can mark the Mastercard card brand flag.
-However, clients may not have configured the card brand on the acquirer platform, causing an operational cost.
+- **Financial reconciliation issues**, since different card brands have different transaction fees
+- **Failed change orders** when the value difference exceeds 10%, as the brand mismatch is detected during the additional charge attempt
 
-
+> **Closing note:** This Known Issue is being closed. The primarily affected payment providers (Cielo, MaxiPago, Moip, Redecard) are officially deprecated legacy connectors, and no code changes are planned.
 
 ## Simulation
 
-
-
-1. Go to checkout with a random item
-2. buy it by Credit Card and fill in a Visa BIN in the card number field and then complete the card number with random numbers
-3. fill the rest of card fields with random informations
-4. change the card brand flag that appear in the card number field and close the purchase
-5. Go to transaction admin and see the transaction already created with a wrong card brand information
-
-
+1. Add an item to the cart and proceed to checkout.
+2. Enter a credit card number, note the card brand automatically identified from the BIN.
+3. Click on the card brand logo and manually select a different brand.
+4. Complete the purchase.
+5. Check the transaction in the admin; the brand recorded in VTEX will differ from the actual card brand identified by the payment provider.
 
 ## Workaround
 
+To prevent customers from manually changing the card brand, add the following CSS to the checkout customization file (`checkout-custom.css`):
 
-N/A
+    .card-flags .card-flag-label { pointer-events: none;}
 
+This disables click events on the card brand logo, making the field read-only and preventing brand overrides.
