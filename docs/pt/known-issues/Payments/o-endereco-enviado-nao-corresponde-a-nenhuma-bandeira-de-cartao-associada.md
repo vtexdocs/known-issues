@@ -3,14 +3,14 @@ title: 'O endereço enviado não corresponde a nenhuma bandeira de cartão assoc
 slug: o-endereco-enviado-nao-corresponde-a-nenhuma-bandeira-de-cartao-associada
 status: PUBLISHED
 createdAt: 2020-11-24T17:29:48.000Z
-updatedAt: 2026-07-09T14:25:08.000Z
+updatedAt: 2026-07-09T14:39:17.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: bin-sent-does-not-match-an-associated-card-brand
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 308896
 ---
 
