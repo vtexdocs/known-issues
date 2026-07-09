@@ -2,26 +2,30 @@
 title: 'The Cielo 3DS2 app is returning an "approved" status even in scenarios when the authentication has failed.'
 slug: the-cielo-3ds2-app-is-returning-an-approved-status-even-in-scenarios-when-the-authentication-has-failed
 status: PUBLISHED
-createdAt: 2023-05-05T14:48:42.000Z
-updatedAt: 2023-05-05T14:48:42.000Z
+createdAt: 2023-05-05T17:48:42.000Z
+updatedAt: 2026-07-09T14:37:45.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: the-cielo-3ds2-app-is-returning-an-approved-status-even-in-scenarios-when-the-authentication-has-failed
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 820060
 ---
 
 ## Summary
 
-Today, our cielo-authentication-app v1.2.1 is returning an "approved" status in the final step of the flow when calling the authorization step that evaluates whether the authentication has failed or not. However, the app only triggers the fail step when there is an error thrown in the this step. As a result, even if the status is "failed" in the previous step, but there is no error thrown in the current /authorize step, the status is still considered "approved," allowing us to make a request to the acquirer. This is not the expected behavior, as we should be denying the payment authorization and changing the transaction to "authorization denied" in this scenario.
+When the 3DS2 authentication step fails (e.g., the customer cannot be authenticated), the Cielo authentication app incorrectly continues the flow and sends an `approved` status to the authorization step. As a result, the transaction proceeds to the acquirer even though the 3DS2 check was not completed.
+This creates a security gap: fraudulent transactions can bypass 3DS2 protection and get authorized by Cielo. Cielo may later flag those transactions as fraud indicators, putting the merchant at risk of disputes and chargebacks.
 
 ## Simulation
 
-Place an order with the app enabled and use a valid card that will fail the enrollment step. You can then check the developer tools and observe that even though the call to /authorization fails, the status is still being sent as "approved."
+1. Enable 3DS2 in a store using the CieloV3 connector.
+2. Attempt a purchase with a card that will fail the 3DS2 enrollment step.
+3. Observe in the transaction interaction logs that the authentication returned a failure status (`Customer cannot be authenticated` or similar).
+4. Note that despite the failure, VTEX sent `Authenticate: true` to Cielo, and the transaction was authorized.
 
 ## Workaround
 
-N/A
+Migrate to the **Cielo Ecommerce** connector (CieloV4). The bug is specific to `cielo-authentication-app v1.2.1` used by CieloV3. Cielo has officially recommended this migration, and the 3DS2 flow behaves correctly in the newer connector.
