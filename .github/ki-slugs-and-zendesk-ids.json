@@ -5031,6 +5031,11 @@
   },
   {
     "locale": "en",
+    "slug": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+    "internalReference": 1433311
+  },
+  {
+    "locale": "en",
     "slug": "error-importing-product-image-spreadsheet",
     "internalReference": 697200
   },
@@ -13831,6 +13836,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+    "internalReference": 1433311
+  },
+  {
+    "locale": "es",
     "slug": "se-esta-estudiando-una-politica-de-envios-que-no-entregue-los-fines-de-semana",
     "internalReference": 594828
   },
@@ -22518,6 +22528,11 @@
     "locale": "pt",
     "slug": "armazem-api-demonstra-o-ponto-de-retirada-eliminado-instore-warehouse",
     "internalReference": 573017
+  },
+  {
+    "locale": "pt",
+    "slug": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica",
+    "internalReference": 1433311
   },
   {
     "locale": "pt",
