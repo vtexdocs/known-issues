@@ -2376,11 +2376,6 @@
   },
   {
     "locale": "en",
-    "slug": "error-in-the-maximum-quantity-field-of-the-same-sku-in-the-cart",
-    "internalReference": 587394
-  },
-  {
-    "locale": "en",
     "slug": "error-when-changing-delivery-type-when-seller-has-recursion",
     "internalReference": 597915
   },
@@ -2773,6 +2768,11 @@
     "locale": "en",
     "slug": "pickups-inherited-between-whitelabel-sellers-are-treated-as-differentindependent-pickups-on-the-purchase-flow",
     "internalReference": 438630
+  },
+  {
+    "locale": "en",
+    "slug": "place-order-apis-dont-respect-the-maximum-quantity-of-the-same-sku-in-the-cart-configuration",
+    "internalReference": 587394
   },
   {
     "locale": "en",
@@ -11196,7 +11196,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-en-el-campo-de-cantidad-maxima-del-mismo-sku-en-el-carrito",
+    "slug": "las-api-para-realizar-pedidos-no-respetan-la-cantidad-maxima-del-mismo-sku-en-la-configuracion-del-carrito",
     "internalReference": 587394
   },
   {
@@ -19966,6 +19966,11 @@
   },
   {
     "locale": "pt",
+    "slug": "as-apis-de-finalizar-pedido-nao-respeitam-a-quantidade-maxima-do-mesmo-sku-na-configuracao-do-carrinho",
+    "internalReference": 587394
+  },
+  {
+    "locale": "pt",
     "slug": "as-informacoes-do-cliente-nao-sao-salvas-no-sistema-de-perfis",
     "internalReference": 784763
   },
@@ -20183,11 +20188,6 @@
     "locale": "pt",
     "slug": "erro-de-incompatibilidade-do-valor-do-pagamento-apos-a-troca-de-parcelas-com-o-recaptcha-v2-no-checkout",
     "internalReference": 1320840
-  },
-  {
-    "locale": "pt",
-    "slug": "erro-no-campo-de-quantidade-maxima-do-mesmo-sku-no-carrinho",
-    "internalReference": 587394
   },
   {
     "locale": "pt",
