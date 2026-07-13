@@ -11196,11 +11196,6 @@
   },
   {
     "locale": "es",
-    "slug": "las-api-para-realizar-pedidos-no-respetan-la-cantidad-maxima-del-mismo-sku-en-la-configuracion-del-carrito",
-    "internalReference": 587394
-  },
-  {
-    "locale": "es",
     "slug": "errores-al-anadir-una-opcion-de-montaje-no-disponible",
     "internalReference": 1308431
   },
@@ -11628,6 +11623,11 @@
     "locale": "es",
     "slug": "la-vista-previa-del-envio-muestra-erroneamente-un-mensaje-de-indisponibilidad-para-la-recogida-en-una-cesta-que-contiene-un-regalo",
     "internalReference": 764457
+  },
+  {
+    "locale": "es",
+    "slug": "las-api-para-realizar-pedidos-no-respetan-la-cantidad-maxima-del-mismo-sku-en-la-configuracion-del-carrito",
+    "internalReference": 587394
   },
   {
     "locale": "es",
@@ -24296,11 +24296,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-endereco-enviado-nao-corresponde-a-nenhuma-bandeira-de-cartao-associada",
-    "internalReference": 308896
-  },
-  {
-    "locale": "pt",
     "slug": "marcas-de-cartao-processadas-incorretamente-como-visa",
     "internalReference": 1024823
   },
@@ -24503,6 +24498,11 @@
     "locale": "pt",
     "slug": "o-documento-do-titular-do-cartao-nao-e-enviado-ao-sistema-antifraude",
     "internalReference": 829864
+  },
+  {
+    "locale": "pt",
+    "slug": "o-endereco-enviado-nao-corresponde-a-nenhuma-bandeira-de-cartao-associada",
+    "internalReference": 308896
   },
   {
     "locale": "pt",
