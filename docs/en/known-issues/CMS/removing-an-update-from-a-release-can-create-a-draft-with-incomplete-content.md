@@ -3,14 +3,14 @@ title: 'Removing an update from a release can create a draft with incomplete con
 slug: removing-an-update-from-a-release-can-create-a-draft-with-incomplete-content
 status: PUBLISHED
 createdAt: 2026-07-06T15:30:21.000Z
-updatedAt: 2026-07-06T15:30:21.000Z
+updatedAt: 2026-07-13T21:40:39.000Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slugEN: removing-an-update-from-a-release-can-create-a-draft-with-incomplete-content
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1430344
 ---
 
