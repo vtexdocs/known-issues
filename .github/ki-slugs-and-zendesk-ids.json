@@ -7871,6 +7871,11 @@
   },
   {
     "locale": "en",
+    "slug": "missing-checkout-usage-notifications-may-lead-to-inconsistent-promotion-usage-counters",
+    "internalReference": 1435307
+  },
+  {
+    "locale": "en",
     "slug": "more-for-less-promotions-incorrectly-applying-to-overlapping-quantities",
     "internalReference": 1149846
   },
@@ -16756,6 +16761,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-falta-de-notificaciones-de-uso-de-checkout-puede-provocar-que-los-contadores-de-uso-de-las-promociones-sean-inconsistentes",
+    "internalReference": 1435307
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-usuario-de-la-promocion-cambia-incorrectamente-el-caracter-del-apostrofo",
     "internalReference": 1353323
   },
@@ -25383,6 +25393,11 @@
     "locale": "pt",
     "slug": "a-assinatura-promocional-com-frequencia-semanal-mensal-e-diaria-nao-esta-funcionando-nos-ciclos-recorrentes",
     "internalReference": 965484
+  },
+  {
+    "locale": "pt",
+    "slug": "a-ausencia-de-notificacoes-de-utilizacao-do-checkout-pode-levar-a-contadores-de-utilizacao-de-promocoes-inconsistentes",
+    "internalReference": 1435307
   },
   {
     "locale": "pt",
