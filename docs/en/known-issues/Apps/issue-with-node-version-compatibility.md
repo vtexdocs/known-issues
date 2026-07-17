@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Apps
 slugEN: issue-with-node-version-compatibility
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1256617
 ---
 
