@@ -7216,6 +7216,11 @@
   },
   {
     "locale": "en",
+    "slug": "transactions-with-2-credit-card-payments-stuck-when-multiple-settlement-attempts-occur-in-total-capture-mode",
+    "internalReference": 1436981
+  },
+  {
+    "locale": "en",
     "slug": "transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds",
     "internalReference": 541687
   },
@@ -15573,6 +15578,11 @@
     "locale": "es",
     "slug": "las-tarjetas-regalo-no-se-devuelven-en-checkout-cuando-se-envian-tanto-cpf-como-cnpj-la-busqueda-de-tarjetas-regalo-da-prioridad-a-corporatedocument",
     "internalReference": 1335218
+  },
+  {
+    "locale": "es",
+    "slug": "las-transacciones-con-2-pagos-con-tarjeta-de-credito-se-bloquean-cuando-se-producen-varios-intentos-de-liquidacion-en-el-modo-de-captura-total",
+    "internalReference": 1436981
   },
   {
     "locale": "es",
@@ -24923,6 +24933,11 @@
     "locale": "pt",
     "slug": "transacoes-canceladas-no-mercadopago-nao-canceladas-na-vtex",
     "internalReference": 360653
+  },
+  {
+    "locale": "pt",
+    "slug": "transacoes-com-2-pagamentos-com-cartao-de-credito-ficam-travadas-quando-ocorrem-varias-tentativas-de-liquidacao-no-modo-de-captura-total",
+    "internalReference": 1436981
   },
   {
     "locale": "pt",
