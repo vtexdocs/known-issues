@@ -13701,11 +13701,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-tiempo-de-espera-en-la-consulta-de-analytics-puede-impedir-que-se-cargue-el-registro-de-inventario",
-    "internalReference": 1159693
-  },
-  {
-    "locale": "es",
     "slug": "elemento-de-reserva-total-con-valor-negativo-en-la-interfaz-de-usuario-del-inventario",
     "internalReference": 991735
   },
@@ -13868,6 +13863,11 @@
     "locale": "es",
     "slug": "un-error-en-el-identificador-del-espacio-de-almacen-provoca-que-fallen-las-solicitudes-logisticas-internas",
     "internalReference": 654370
+  },
+  {
+    "locale": "es",
+    "slug": "un-tiempo-de-espera-agotado-en-una-consulta-de-analisis-puede-impedir-que-se-cargue-el-registro-de-inventario",
+    "internalReference": 1159693
   },
   {
     "locale": "es",
@@ -22671,11 +22671,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-tempo-limite-na-consulta-do-analytics-pode-impedir-o-carregamento-do-registro-de-inventario",
-    "internalReference": 1159693
-  },
-  {
-    "locale": "pt",
     "slug": "oferta-de-sla-flutuante-entre-diferentes-politicas-de-envio-devido-ao-cache-na-data-estimada-de-30-segundos",
     "internalReference": 1036916
   },
@@ -22728,6 +22723,11 @@
     "locale": "pt",
     "slug": "total-de-itens-de-reserva-com-valor-negativo-na-interface-do-usuario-do-inventario",
     "internalReference": 991735
+  },
+  {
+    "locale": "pt",
+    "slug": "um-tempo-limite-excedido-na-consulta-de-analise-pode-impedir-o-carregamento-do-log-de-inventario",
+    "internalReference": 1159693
   },
   {
     "locale": "pt",
