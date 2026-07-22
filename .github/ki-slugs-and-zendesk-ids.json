@@ -5246,6 +5246,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-category-mapping-via-xls-not-reprocessed-for-accounts-with-more-than-10000-pending-suggestions",
+    "internalReference": 1438301
+  },
+  {
+    "locale": "en",
     "slug": "amazon-in-some-cases-a-sku-may-be-published-successfully-on-amazon-but-the-stock-is-not-updated-and-remains-at-zero",
     "internalReference": 1431243
   },
@@ -14103,6 +14108,11 @@
     "locale": "es",
     "slug": "amazon-en-algunos-casos-un-sku-puede-publicarse-correctamente-en-amazon-pero-el-stock-no-se-actualiza-y-permanece-en-cero",
     "internalReference": 1431243
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-la-asignacion-de-categorias-mediante-xls-no-se-vuelve-a-procesar-para-cuentas-con-mas-de-10-000-sugerencias-pendientes",
+    "internalReference": 1438301
   },
   {
     "locale": "es",
@@ -22968,6 +22978,11 @@
     "locale": "pt",
     "slug": "amazon-fluxo-de-cancelamento-de-pedidos",
     "internalReference": 588456
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-mais-de-10000-sugestoes-pendentes",
+    "internalReference": 1438301
   },
   {
     "locale": "pt",
