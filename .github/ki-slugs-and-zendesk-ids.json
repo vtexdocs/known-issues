@@ -281,6 +281,11 @@
   },
   {
     "locale": "en",
+    "slug": "my-quotes-organization-and-cost-center-filter-doesnt-work-for-users-with-access-all-quotes-and-carts-permission",
+    "internalReference": 1438245
+  },
+  {
+    "locale": "en",
     "slug": "new-user-action-disabled-in-my-organization-on-public-domain",
     "internalReference": 1383616
   },
@@ -9166,6 +9171,11 @@
   },
   {
     "locale": "es",
+    "slug": "mi-filtro-de-organizacion-y-centro-de-costos-de-cotizaciones-no-funciona-para-los-usuarios-con-permiso-de-acceso-a-todas-las-cotizaciones-y-carritos",
+    "internalReference": 1438245
+  },
+  {
+    "locale": "es",
     "slug": "no-se-permite-a-las-direcciones-de-correo-electronico-con-funciones-comerciales-suplantar-la-identidad-de-otras-personas-mediante-la-funcion-organizaciones-b2b",
     "internalReference": 910328
   },
@@ -17848,6 +17858,11 @@
     "locale": "pt",
     "slug": "a-opcao-fazer-novo-pedido-no-historico-de-pedidos-b2b-nao-funciona",
     "internalReference": 819920
+  },
+  {
+    "locale": "pt",
+    "slug": "a-organizacao-minhas-cotacoes-e-o-filtro-de-centro-de-custos-nao-funcionam-para-usuarios-com-permissao-de-acesso-a-todas-as-cotacoes-e-carrinhos",
+    "internalReference": 1438245
   },
   {
     "locale": "pt",
