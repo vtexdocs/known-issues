@@ -5246,11 +5246,6 @@
   },
   {
     "locale": "en",
-    "slug": "amazon-category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
-    "internalReference": 1438301
-  },
-  {
-    "locale": "en",
     "slug": "amazon-in-some-cases-a-sku-may-be-published-successfully-on-amazon-but-the-stock-is-not-updated-and-remains-at-zero",
     "internalReference": 1431243
   },
@@ -5258,6 +5253,11 @@
     "locale": "en",
     "slug": "amazon-order-cancellation-flow",
     "internalReference": 588456
+  },
+  {
+    "locale": "en",
+    "slug": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
+    "internalReference": 1438301
   },
   {
     "locale": "en",
@@ -14111,11 +14111,6 @@
   },
   {
     "locale": "es",
-    "slug": "amazon-la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
-    "internalReference": 1438301
-  },
-  {
-    "locale": "es",
     "slug": "amazon-proceso-de-cancelacion-de-pedidos",
     "internalReference": 588456
   },
@@ -14123,6 +14118,11 @@
     "locale": "es",
     "slug": "dafiti-el-interes-de-las-cuotas-aumenta-incorrectamente-el-precio-de-venta-del-articulo-en-los-pedidos-de-dafiti",
     "internalReference": 1428531
+  },
+  {
+    "locale": "es",
+    "slug": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
+    "internalReference": 1438301
   },
   {
     "locale": "es",
@@ -22981,11 +22981,6 @@
   },
   {
     "locale": "pt",
-    "slug": "amazon-o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes",
-    "internalReference": 1438301
-  },
-  {
-    "locale": "pt",
     "slug": "dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti",
     "internalReference": 1428531
   },
@@ -22998,6 +22993,11 @@
     "locale": "pt",
     "slug": "netshoes-imagem-principal-nao-respeitada",
     "internalReference": 1220978
+  },
+  {
+    "locale": "pt",
+    "slug": "o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes",
+    "internalReference": 1438301
   },
   {
     "locale": "pt",
