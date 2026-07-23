@@ -3,7 +3,7 @@ title: 'Un tiempo de espera agotado en una consulta de análisis puede impedir q
 slug: un-tiempo-de-espera-agotado-en-una-consulta-de-analisis-puede-impedir-que-se-cargue-el-registro-de-inventario
 status: PUBLISHED
 createdAt: 2025-01-08T16:01:46.000Z
-updatedAt: 2026-07-22T00:00:47.000Z
+updatedAt: 2026-07-23T17:01:21.000Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
