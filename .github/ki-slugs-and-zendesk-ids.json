@@ -1631,6 +1631,11 @@
   },
   {
     "locale": "en",
+    "slug": "seller-portal-image-upload-vtexcatalogimages-returns-404-for-certain-filename-patterns",
+    "internalReference": 1438867
+  },
+  {
+    "locale": "en",
     "slug": "seller-portal-product-doesnt-load-when-without-images",
     "internalReference": 800480
   },
@@ -10118,6 +10123,11 @@
     "locale": "es",
     "slug": "la-busqueda-el-nombre-del-producto-contiene-con-mas-de-un-termino-no-funciona-en-la-interfaz-de-usuario-redisenada-del-catalogo",
     "internalReference": 1044571
+  },
+  {
+    "locale": "es",
+    "slug": "la-carga-de-imagenes-del-portal-del-vendedor-vtexcatalogimages-devuelve-un-error-404-para-ciertos-patrones-de-nombres-de-archivo",
+    "internalReference": 1438867
   },
   {
     "locale": "es",
@@ -19368,6 +19378,11 @@
     "locale": "pt",
     "slug": "o-produto-no-portal-do-vendedor-nao-carrega-quando-nao-ha-imagens",
     "internalReference": 800480
+  },
+  {
+    "locale": "pt",
+    "slug": "o-recurso-de-upload-de-imagens-no-seller-portal-vtexcatalogimages-retorna-o-erro-404-para-determinados-padroes-de-nome-de-arquivo",
+    "internalReference": 1438867
   },
   {
     "locale": "pt",
