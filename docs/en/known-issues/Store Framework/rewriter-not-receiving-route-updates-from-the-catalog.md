@@ -3,7 +3,7 @@ title: 'Rewriter not receiving route updates from the catalog'
 slug: rewriter-not-receiving-route-updates-from-the-catalog
 status: PUBLISHED
 createdAt: 2024-07-16T22:24:41.000Z
-updatedAt: 2026-07-24T23:48:54.000Z
+updatedAt: 2026-07-25T00:00:05.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -35,12 +35,8 @@ A useful signal for the second case: compare the path on `pageType` and on the r
 
     { internal { get(path: "/path") { from declarer id query disableSitemapEntry } }}
 
-A `null` response means the rewriter never received the update: run bootstrap and, if that fails, use the `internal.save`
-
-## Workaround
-
-.
-A response carrying the old `query`/`type` means the rewriter kept a stale entry: use the `internal.delete` workaround.
+A `null` response means the rewriter never received the update: run bootstrap and, if that fails, use the `internal.save` guidance below.
+A response carrying the old `query`/`type` means the rewriter kept a stale entry: use the `internal.delete` guidance below.
 
 3. Try the bootstrap query first:
 
@@ -48,8 +44,8 @@ A response carrying the old `query`/`type` means the rewriter kept a stale entry
 
 If the route is still missing or still stale after the bootstrap, apply the workarounds below.
 
+## Workaround
 
-## **Workaround**
 For routes that were removed or changed in the catalog but persist in the rewriter, delete the route manually:
 
     mutation { internal { delete(path: "/path") { from id resolveAs } }}
