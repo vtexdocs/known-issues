@@ -8636,7 +8636,7 @@
   },
   {
     "locale": "en",
-    "slug": "rewriter-is-not-receiving-url-updates",
+    "slug": "rewriter-not-receiving-route-updates-from-the-catalog",
     "internalReference": 1066527
   },
   {
@@ -17291,7 +17291,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-reescribidor-no-recibe-actualizaciones-de-url",
+    "slug": "el-reescritor-no-recibe-actualizaciones-de-ruta-del-catalogo",
     "internalReference": 1066527
   },
   {
@@ -26401,7 +26401,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-reescritor-nao-esta-recebendo-atualizacoes-de-url",
+    "slug": "o-reescritor-nao-esta-recebendo-atualizacoes-de-rota-do-catalogo",
     "internalReference": 1066527
   },
   {
