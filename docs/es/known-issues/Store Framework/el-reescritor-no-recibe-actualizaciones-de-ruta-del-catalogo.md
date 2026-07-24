@@ -3,7 +3,7 @@ title: 'El reescritor no recibe actualizaciones de ruta del catálogo.'
 slug: el-reescritor-no-recibe-actualizaciones-de-ruta-del-catalogo
 status: PUBLISHED
 createdAt: 2024-07-16T22:24:41.000Z
-updatedAt: 2026-07-24T23:48:54.000Z
+updatedAt: 2026-07-25T00:00:05.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -34,17 +34,13 @@ Una señal útil para el segundo caso: compare la ruta en `pageType` y en el ree
 
 - _Eliminación/modificación:_ elimine una marca existente del catálogo y luego búsquela en la tienda en línea.
 
-2. Verifique qué ruta tiene el reescritor:
+2. Verifique la ruta que tiene el reescritor:
 
 { internal { get(path: "/path") { from declarer id query disableSitemapEntry } }}
 
-Una respuesta `null` significa que el reescritor nunca recibió la actualización: ejecute bootstrap y, si falla, use la
+Una respuesta `null` significa que el reescritor nunca recibió la actualización: ejecute bootstrap y, si falla, siga las instrucciones de `internal.save` a continuación.
 
-## Workaround
-
-`internal.save`.
-
-Una respuesta con la `query`/`type` anterior significa que el reescritor conservó una entrada obsoleta: use la solución alternativa `internal.delete`.
+Una respuesta con la `query`/`type` anterior significa que el reescritor conservó una entrada obsoleta: siga las instrucciones de `internal.delete` a continuación.
 
 3. Prueba primero con la consulta de Bootstrap:
 
@@ -52,7 +48,8 @@ Una respuesta con la `query`/`type` anterior significa que el reescritor conserv
 
 Si la ruta sigue sin aparecer o no funciona después de Bootstrap, aplica las soluciones alternativas que se indican a continuación.
 
-## **Solución alternativa**
+## Workaround
+
 Para las rutas que se eliminaron o modificaron en el catálogo pero persisten en el reescritor, elimine la ruta manualmente:
 
 mutación { internal { delete(path: "/path") { from id resolveAs } }}
