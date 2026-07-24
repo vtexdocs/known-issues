@@ -3,7 +3,7 @@ title: 'O reescritor não está recebendo atualizações de rota do catálogo.'
 slug: o-reescritor-nao-esta-recebendo-atualizacoes-de-rota-do-catalogo
 status: PUBLISHED
 createdAt: 2024-07-16T22:24:41.000Z
-updatedAt: 2026-07-24T23:48:54.000Z
+updatedAt: 2026-07-25T00:00:05.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -40,13 +40,9 @@ Um sinal útil para o segundo caso: compare o caminho em `pageType` e no reescri
 
 { internal { get(path: "/path") { from declarer id query disableSitemapEntry } }}
 
-Uma resposta `null` significa que o reescritor nunca recebeu a atualização: execute o bootstrap e, se isso falhar, use a
+Uma resposta `null` significa que o reescritor nunca recebeu a atualização: execute o bootstrap e, se isso falhar, use as orientações para `internal.save` abaixo.
 
-## Workaround
-
-`internal.save`.
-
-Uma resposta contendo a `query`/`type` antiga significa que o reescritor manteve uma entrada obsoleta: use a solução alternativa `internal.delete`.
+Uma resposta contendo a `query`/`type` antiga significa que o reescritor manteve uma entrada obsoleta: use as orientações para `internal.delete` abaixo.
 
 3. Primeiro, tente a consulta do Bootstrap:
 
@@ -54,7 +50,8 @@ Uma resposta contendo a `query`/`type` antiga significa que o reescritor manteve
 
 Se a rota ainda estiver ausente ou desatualizada após o Bootstrap, aplique as soluções alternativas abaixo.
 
-## **Solução alternativa**
+## Workaround
+
 Para rotas que foram removidas ou alteradas no catálogo, mas persistem no reescritor, exclua a rota manualmente:
 
 mutation { internal { delete(path: "/path") { from id resolveAs } }}
