@@ -66,7 +66,7 @@
   },
   {
     "locale": "en",
-    "slug": "cold-start-requests-failing-with-timeout-and-courier-retries-not-working-as-expected",
+    "slug": "requests-failing-with-timeout-during-app-cold-start",
     "internalReference": 789499
   },
   {
@@ -8921,7 +8921,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-solicitudes-de-arranque-en-frio-fallan-con-el-tiempo-de-espera-y-los-reintentos-de-mensajeria-no-funcionan-como-se-esperaba",
+    "slug": "las-solicitudes-fallan-por-tiempo-de-espera-durante-el-inicio-en-frio-de-la-aplicacion",
     "internalReference": 789499
   },
   {
@@ -17791,7 +17791,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-solicitacoes-de-cold-start-falham-com-o-tempo-limite-e-as-novas-tentativas-de-entrega-nao-funcionam-como-esperado",
+    "slug": "as-solicitacoes-falham-com-erro-de-tempo-limite-durante-a-inicializacao-a-frio-do-aplicativo",
     "internalReference": 789499
   },
   {
