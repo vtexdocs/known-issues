@@ -66,11 +66,6 @@
   },
   {
     "locale": "en",
-    "slug": "requests-failing-with-timeout-during-app-cold-start",
-    "internalReference": 789499
-  },
-  {
-    "locale": "en",
     "slug": "app-settings-are-not-erased-when-you-delete-the-app",
     "internalReference": 1065954
   },
@@ -113,6 +108,11 @@
     "locale": "en",
     "slug": "issue-with-node-version-compatibility",
     "internalReference": 1256617
+  },
+  {
+    "locale": "en",
+    "slug": "requests-failing-with-timeout-during-app-cold-start",
+    "internalReference": 789499
   },
   {
     "locale": "en",
@@ -5041,11 +5041,6 @@
   },
   {
     "locale": "en",
-    "slug": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
-    "internalReference": 1433311
-  },
-  {
-    "locale": "en",
     "slug": "error-importing-product-image-spreadsheet",
     "internalReference": 697200
   },
@@ -5253,6 +5248,11 @@
     "locale": "en",
     "slug": "amazon-in-some-cases-a-sku-may-be-published-successfully-on-amazon-but-the-stock-is-not-updated-and-remains-at-zero",
     "internalReference": 1431243
+  },
+  {
+    "locale": "en",
+    "slug": "amazon-inactive-or-outofcommercialpolicy-skus-remain-published-matchnew-listing-on-amazon-after-the-connector-sends-them",
+    "internalReference": 1440366
   },
   {
     "locale": "en",
@@ -5973,6 +5973,11 @@
     "locale": "en",
     "slug": "wrong-value-for-pricedefinition-in-the-chain-order-for-a-multilevel-marketplace",
     "internalReference": 663203
+  },
+  {
+    "locale": "en",
+    "slug": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+    "internalReference": 1433311
   },
   {
     "locale": "en",
@@ -8921,11 +8926,6 @@
   },
   {
     "locale": "es",
-    "slug": "las-solicitudes-fallan-por-tiempo-de-espera-durante-el-inicio-en-frio-de-la-aplicacion",
-    "internalReference": 789499
-  },
-  {
-    "locale": "es",
     "slug": "arranque-en-frio-al-publicar-una-aplicacion",
     "internalReference": 1088942
   },
@@ -8968,6 +8968,11 @@
     "locale": "es",
     "slug": "la-configuracion-de-la-aplicacion-no-se-borra-al-eliminarla",
     "internalReference": 1065954
+  },
+  {
+    "locale": "es",
+    "slug": "las-solicitudes-fallan-por-tiempo-de-espera-durante-el-inicio-en-frio-de-la-aplicacion",
+    "internalReference": 789499
   },
   {
     "locale": "es",
@@ -13866,11 +13871,6 @@
   },
   {
     "locale": "es",
-    "slug": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
-    "internalReference": 1433311
-  },
-  {
-    "locale": "es",
     "slug": "se-esta-estudiando-una-politica-de-envios-que-no-entregue-los-fines-de-semana",
     "internalReference": 594828
   },
@@ -14118,6 +14118,11 @@
     "locale": "es",
     "slug": "amazon-en-algunos-casos-un-sku-puede-publicarse-correctamente-en-amazon-pero-el-stock-no-se-actualiza-y-permanece-en-cero",
     "internalReference": 1431243
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-los-sku-inactivos-o-que-no-cumplen-con-la-politica-comercial-permanecen-publicados-coincidencianuevo-listado-en-amazon-despues-de-que-el-conector-los-envia",
+    "internalReference": 1440366
   },
   {
     "locale": "es",
@@ -14773,6 +14778,11 @@
     "locale": "es",
     "slug": "retraso-en-la-cancelacion-del-pedido-en-marketplace",
     "internalReference": 1242813
+  },
+  {
+    "locale": "es",
+    "slug": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+    "internalReference": 1433311
   },
   {
     "locale": "es",
@@ -17791,13 +17801,13 @@
   },
   {
     "locale": "pt",
-    "slug": "as-solicitacoes-falham-com-erro-de-tempo-limite-durante-a-inicializacao-a-frio-do-aplicativo",
-    "internalReference": 789499
+    "slug": "as-configuracoes-do-aplicativo-nao-sao-apagadas-quando-voce-exclui-o-aplicativo",
+    "internalReference": 1065954
   },
   {
     "locale": "pt",
-    "slug": "as-configuracoes-do-aplicativo-nao-sao-apagadas-quando-voce-exclui-o-aplicativo",
-    "internalReference": 1065954
+    "slug": "as-solicitacoes-falham-com-erro-de-tempo-limite-durante-a-inicializacao-a-frio-do-aplicativo",
+    "internalReference": 789499
   },
   {
     "locale": "pt",
@@ -22591,11 +22601,6 @@
   },
   {
     "locale": "pt",
-    "slug": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica",
-    "internalReference": 1433311
-  },
-  {
-    "locale": "pt",
     "slug": "as-tags-de-ponto-de-coleta-continuam-a-ser-exibidas-na-politica-de-remessa-apos-a-exclusao",
     "internalReference": 1015158
   },
@@ -22996,6 +23001,11 @@
   },
   {
     "locale": "pt",
+    "slug": "amazon-os-skus-inativos-ou-fora-da-politica-comercial-permanecem-publicados-correspondencianovo-anuncio-na-amazon-apos-o-conector-envialos",
+    "internalReference": 1440366
+  },
+  {
+    "locale": "pt",
     "slug": "dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti",
     "internalReference": 1428531
   },
@@ -23138,6 +23148,11 @@
     "locale": "pt",
     "slug": "ao-adicionar-um-sku-atraves-de-nossa-funcionalidade-change-order-o-nome-do-produto-nao-e-exibido-no-pedido-e-na-notificacao-por-email",
     "internalReference": 557978
+  },
+  {
+    "locale": "pt",
+    "slug": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica",
+    "internalReference": 1433311
   },
   {
     "locale": "pt",
