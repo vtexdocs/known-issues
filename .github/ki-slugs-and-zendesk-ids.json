@@ -5276,6 +5276,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-ads-incorrectly-recreated-as-crossdocking-for-full-skus-with-zero-stock",
+    "internalReference": 1440697
+  },
+  {
+    "locale": "en",
     "slug": "netshoes-main-image-not-respected",
     "internalReference": 1220978
   },
@@ -14146,6 +14151,11 @@
   },
   {
     "locale": "es",
+    "slug": "mercado-livre-anuncios-recreados-incorrectamente-como-crossdocking-para-sku-completos-con-stock-cero",
+    "internalReference": 1440697
+  },
+  {
+    "locale": "es",
     "slug": "netshoes-imagen-principal-no-respetada",
     "internalReference": 1220978
   },
@@ -23013,6 +23023,11 @@
     "locale": "pt",
     "slug": "magazine-luiza-imagem-principal-nao-respeitada",
     "internalReference": 1221096
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-anuncios-recriados-incorretamente-como-crossdocking-para-skus-completos-com-estoque-zero",
+    "internalReference": 1440697
   },
   {
     "locale": "pt",
