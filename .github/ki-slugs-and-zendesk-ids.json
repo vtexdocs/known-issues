@@ -8651,11 +8651,6 @@
   },
   {
     "locale": "en",
-    "slug": "rewriter-not-receiving-routes-updated-from-the-catalog",
-    "internalReference": 1172080
-  },
-  {
-    "locale": "en",
     "slug": "scroll-issues-when-swiping-in-mobile-in-quick-view-when-theres-a-slider-layout-on-background",
     "internalReference": 985097
   },
@@ -17313,11 +17308,6 @@
     "locale": "es",
     "slug": "el-reescritor-no-recibe-actualizaciones-de-ruta-del-catalogo",
     "internalReference": 1066527
-  },
-  {
-    "locale": "es",
-    "slug": "el-reescritor-no-recibe-las-rutas-actualizadas-desde-el-catalogo",
-    "internalReference": 1172080
   },
   {
     "locale": "es",
@@ -26433,11 +26423,6 @@
     "locale": "pt",
     "slug": "o-reescritor-nao-esta-recebendo-atualizacoes-de-rota-do-catalogo",
     "internalReference": 1066527
-  },
-  {
-    "locale": "pt",
-    "slug": "o-reescritor-nao-esta-recebendo-rotas-atualizadas-do-catalogo",
-    "internalReference": 1172080
   },
   {
     "locale": "pt",
