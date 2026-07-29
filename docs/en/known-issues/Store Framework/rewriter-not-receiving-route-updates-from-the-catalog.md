@@ -33,14 +33,20 @@ A useful signal for the second case: compare the path on `pageType` and on the r
 
 2. Check what the rewriter has for the path:
 
-    { internal { get(path: "/path") { from declarer id query disableSitemapEntry } }}
+```
+{ internal { get(path: "/path") { from declarer id query disableSitemapEntry } }}
+```
+
 
 A `null` response means the rewriter never received the update: run bootstrap and, if that fails, use the `internal.save` guidance below.
 A response carrying the old `query`/`type` means the rewriter kept a stale entry: use the `internal.delete` guidance below.
 
 3. Try the bootstrap query first:
 
-    { bootstrap { brands categories }}
+```
+{ bootstrap { brands categories }}
+```
+
 
 If the route is still missing or still stale after the bootstrap, apply the workarounds below.
 
@@ -48,15 +54,24 @@ If the route is still missing or still stale after the bootstrap, apply the work
 
 For routes that were removed or changed in the catalog but persist in the rewriter, delete the route manually:
 
-    mutation { internal { delete(path: "/path") { from id resolveAs } }}
+```
+mutation { internal { delete(path: "/path") { from id resolveAs } }}
+```
+
 
 
 For routes that were created or edited but never arrived, add the route manually:
 
-    mutation saveInternal($route: InternalInput!) { internal { save(route: $route) { from declarer type id query endDate binding resolveAs origin disableSitemapEntry } }}
+```
+mutation saveInternal($route: InternalInput!) { internal { save(route: $route) { from declarer type id query endDate binding resolveAs origin disableSitemapEntry } }}
+```
 
 
 
-    { "route": { "from": "", "query": { "map": "" // "b" for brands, for example }, "declarer": "vtex.store@2.x", "binding": "", "type": "", "id": "{{id}}", "origin": "vtex.routes-bootstrap@0.4.3:brand-bootstrap" }}
+
+```
+{ "route": { "from": "", "query": { "map": "" // "b" for brands, for example }, "declarer": "vtex.store@2.x", "binding": "", "type": "", "id": "{{id}}", "origin": "vtex.routes-bootstrap@0.4.3:brand-bootstrap" }}
+```
+
 
 After either mutation, re-run the `internal.get` query to confirm the path is resolving as expected.
