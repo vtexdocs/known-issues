@@ -7936,6 +7936,11 @@
   },
   {
     "locale": "en",
+    "slug": "overwrite-all-fixed-prices-import-option-does-not-function-to-delete-all-prices",
+    "internalReference": 1441146
+  },
+  {
+    "locale": "en",
     "slug": "payment-method-from-marketplace-matches-with-swl-when-using-identical-typesids",
     "internalReference": 402140
   },
@@ -16846,6 +16851,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-opcion-de-importacion-sobrescribir-todos-los-precios-fijos-no-funciona-para-eliminar-todos-los-precios",
+    "internalReference": 1441146
+  },
+  {
+    "locale": "es",
     "slug": "la-promocion-de-envio-gratuito-se-esta-aplicando-en-pedidos-divididos-fuera-de-la-restriccion-de-la-promocion",
     "internalReference": 732302
   },
@@ -25553,6 +25563,11 @@
     "locale": "pt",
     "slug": "a-modificacao-de-precos-por-meio-da-rota-de-precos-de-postagem-de-compatibilidade-esta-causando-perda-de-dados",
     "internalReference": 487698
+  },
+  {
+    "locale": "pt",
+    "slug": "a-opcao-de-importacao-substituir-todos-os-precos-fixos-nao-funciona-para-excluir-todos-os-precos",
+    "internalReference": 1441146
   },
   {
     "locale": "pt",
