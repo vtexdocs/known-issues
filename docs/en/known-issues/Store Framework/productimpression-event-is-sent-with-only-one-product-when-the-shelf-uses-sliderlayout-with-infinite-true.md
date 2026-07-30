@@ -3,7 +3,7 @@ title: 'productImpression event is sent with only one product when the shelf use
 slug: productimpression-event-is-sent-with-only-one-product-when-the-shelf-uses-sliderlayout-with-infinite-true
 status: PUBLISHED
 createdAt: 2026-07-30T20:41:19.000Z
-updatedAt: 2026-07-30T20:41:19.000Z
+updatedAt: 2026-07-30T20:42:22.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
