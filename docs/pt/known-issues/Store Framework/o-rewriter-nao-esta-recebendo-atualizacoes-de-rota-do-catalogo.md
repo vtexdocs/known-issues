@@ -38,7 +38,19 @@ Um sinal útil para o segundo caso: compare o caminho em `pageType` e no Rewrite
 
 2. Verifique o que o Rewriter tem para o caminho:
 
-{ internal { get(path: "/path") { from declarer id query disableSitemapEntry } }}
+```
+{
+  internal {
+    get(path: "/path") {
+      from
+      declarer
+      id
+      query
+      disableSitemapEntry
+    }
+  }
+}
+```
 
 Uma resposta `null` significa que o Rewriter nunca recebeu a atualização: execute o bootstrap e, se isso falhar, use as orientações para `internal.save` abaixo.
 
@@ -46,7 +58,14 @@ Uma resposta contendo a `query`/`type` antiga significa que o Rewriter manteve u
 
 3. Primeiro, tente a consulta do Bootstrap:
 
-{ bootstrap { marcas categorias }}
+```
+{
+  bootstrap {
+    brands
+    categories
+  }
+}
+```
 
 Se a rota ainda estiver ausente ou desatualizada após o Bootstrap, aplique as soluções alternativas abaixo.
 
@@ -54,12 +73,53 @@ Se a rota ainda estiver ausente ou desatualizada após o Bootstrap, aplique as s
 
 Para rotas que foram removidas ou alteradas no catálogo, mas persistem no Rewriter, exclua a rota manualmente:
 
-mutation { internal { delete(path: "/path") { from id resolveAs } }}
+```
+mutation {
+  internal {
+    delete(path: "/path") {
+      from
+      id
+      resolveAs
+    }
+  }
+}
+```
 
 Para rotas que foram criadas ou editadas, mas nunca chegaram ao destino, adicione a rota manualmente:
 
-mutation saveInternal($route: InternalInput!) { internal { save(route: $route) { from declarer type id query endDate binding resolveAs origin disableSitemapEntry } }}
+```
+mutation saveInternal($route: InternalInput!) {
+  internal {
+    save(route: $route) {
+      from
+      declarer
+      type
+      id
+      query
+      endDate
+      binding
+      resolveAs
+      origin
+      disableSitemapEntry
+    }
+  }
+}
+```
 
-{ "route": { "from": "", "query": { "map": "" // "b" para marcas, por exemplo }, "declarer": "vtex.store@2.x", "binding": "", "type": "", "id": "{{id}}", "origin": "vtex.routes-bootstrap@0.4.3:brand-bootstrap" }}
+```json
+{
+  "route": {
+    "from": "",
+    "query": {
+      "map": "" // "b" para marcas, por exemplo
+    },
+    "declarer": "vtex.store@2.x",
+    "binding": "",
+    "type": "",
+    "id": "{{id}}",
+    "origin": "vtex.routes-bootstrap@0.4.3:brand-bootstrap"
+  }
+}
+```
 
 Após qualquer uma das mutações, Execute novamente a consulta `internal.get` para confirmar se o caminho está sendo resolvido conforme o esperado.

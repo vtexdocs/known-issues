@@ -36,7 +36,19 @@ Una señal útil para el segundo caso: compare la ruta en `pageType` y en el Rew
 
 2. Verifique la ruta que tiene el Rewriter:
 
-{ internal { get(path: "/path") { from declarer id query disableSitemapEntry } }}
+```
+{
+  internal {
+    get(path: "/path") {
+      from
+      declarer
+      id
+      query
+      disableSitemapEntry
+    }
+  }
+}
+```
 
 Una respuesta `null` significa que el Rewriter nunca recibió la actualización: ejecute bootstrap y, si falla, siga las instrucciones de `internal.save` a continuación.
 
@@ -44,7 +56,14 @@ Una respuesta con la `query`/`type` anterior significa que el Rewriter conservó
 
 3. Prueba primero con la consulta de Bootstrap:
 
-{ bootstrap { brands categories }}
+```
+{
+  bootstrap {
+    brands
+    categories
+  }
+}
+```
 
 Si la ruta sigue sin aparecer o no funciona después de Bootstrap, aplica las soluciones alternativas que se indican a continuación.
 
@@ -52,12 +71,53 @@ Si la ruta sigue sin aparecer o no funciona después de Bootstrap, aplica las so
 
 Para las rutas que se eliminaron o modificaron en el catálogo pero persisten en el Rewriter, elimine la ruta manualmente:
 
-mutación { internal { delete(path: "/path") { from id resolveAs } }}
+```
+mutation {
+  internal {
+    delete(path: "/path") {
+      from
+      id
+      resolveAs
+    }
+  }
+}
+```
 
 Para las rutas que se crearon o editaron pero nunca llegaron, agréguelas manualmente:
 
-mutación saveInternal($route: InternalInput!) { internal { save(route: $route) { from declarer type id query endDate binding resolveAs origin disableSitemapEntry } }}
+```
+mutation saveInternal($route: InternalInput!) {
+  internal {
+    save(route: $route) {
+      from
+      declarer
+      type
+      id
+      query
+      endDate
+      binding
+      resolveAs
+      origin
+      disableSitemapEntry
+    }
+  }
+}
+```
 
-{ "route": { "from": "", "query": { "map": "" // "b" para marcas, por ejemplo }, "declarer": "vtex.store@2.x", "binding": "", "type": "", "id": "{{id}}", "origin": "vtex.routes-bootstrap@0.4.3:brand-bootstrap" }}
+```json
+{
+  "route": {
+    "from": "",
+    "query": {
+      "map": "" // "b" para marcas, por ejemplo
+    },
+    "declarer": "vtex.store@2.x",
+    "binding": "",
+    "type": "",
+    "id": "{{id}}",
+    "origin": "vtex.routes-bootstrap@0.4.3:brand-bootstrap"
+  }
+}
+```
 
 Después de cualquiera de las mutaciones, vuelva a ejecutar el Rewriter. Se realiza una consulta `internal.get` para confirmar que la ruta se resuelve correctamente.
