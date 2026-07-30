@@ -3,7 +3,7 @@ title: 'El evento productImpression se envía con un solo producto cuando el est
 slug: el-evento-productimpression-se-envia-con-un-solo-producto-cuando-el-estante-utiliza-sliderlayout-con-infinite-true
 status: PUBLISHED
 createdAt: 2026-07-30T20:41:19.000Z
-updatedAt: 2026-07-30T20:41:19.000Z
+updatedAt: 2026-07-30T20:42:22.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
