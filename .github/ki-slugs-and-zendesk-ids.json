@@ -8621,6 +8621,11 @@
   },
   {
     "locale": "en",
+    "slug": "productimpression-event-is-sent-with-only-one-product-when-the-shelf-uses-sliderlayout-with-infinite-true",
+    "internalReference": 1441580
+  },
+  {
+    "locale": "en",
     "slug": "products-in-the-productlist-that-have-an-itemattachment-duplicate-when-the-quantity-is-increased",
     "internalReference": 337069
   },
@@ -17268,6 +17273,11 @@
     "locale": "es",
     "slug": "el-evento-productclick-tiene-en-cuenta-un-id-de-sku-incorrecto",
     "internalReference": 788145
+  },
+  {
+    "locale": "es",
+    "slug": "el-evento-productimpression-se-envia-con-un-solo-producto-cuando-el-estante-utiliza-sliderlayout-con-infinite-true",
+    "internalReference": 1441580
   },
   {
     "locale": "es",
@@ -26323,6 +26333,11 @@
     "locale": "pt",
     "slug": "o-evento-productclick-considera-o-id-de-sku-incorreto",
     "internalReference": 788145
+  },
+  {
+    "locale": "pt",
+    "slug": "o-evento-productimpression-e-enviado-com-apenas-um-produto-quando-a-prateleira-usa-layout-deslizante-com-infinite-true",
+    "internalReference": 1441580
   },
   {
     "locale": "pt",
