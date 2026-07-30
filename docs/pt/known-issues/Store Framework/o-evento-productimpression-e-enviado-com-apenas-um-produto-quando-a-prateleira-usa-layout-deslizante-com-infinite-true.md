@@ -3,7 +3,7 @@ title: 'O evento productImpression é enviado com apenas um produto quando a pra
 slug: o-evento-productimpression-e-enviado-com-apenas-um-produto-quando-a-prateleira-usa-layout-deslizante-com-infinite-true
 status: PUBLISHED
 createdAt: 2026-07-30T20:41:19.000Z
-updatedAt: 2026-07-30T20:41:19.000Z
+updatedAt: 2026-07-30T20:42:22.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
