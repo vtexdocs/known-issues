@@ -981,6 +981,11 @@
   },
   {
     "locale": "en",
+    "slug": "creating-a-mandatory-active-sku-specification-is-not-inactivating-category-skus",
+    "internalReference": 1441624
+  },
+  {
+    "locale": "en",
     "slug": "creating-a-regionalized-sales-channel-with-an-already-used-binding-does-not-update-the-items-stockbalance",
     "internalReference": 1005112
   },
@@ -10161,6 +10166,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-creacion-de-una-especificacion-de-sku-obligatoria-y-activa-no-desactiva-las-sku-de-categoria",
+    "internalReference": 1441624
+  },
+  {
+    "locale": "es",
     "slug": "la-creacion-de-una-subcategoria-a-traves-de-la-ruta-de-la-categoria-con-el-mismo-nombre-que-otra-subcategoria-falla",
     "internalReference": 1087069
   },
@@ -18983,6 +18993,11 @@
     "locale": "pt",
     "slug": "cor-vermelha-incorreta-na-tag-de-disponibilidade-do-administrador-do-catalogo-para-itens-fora-de-sc1",
     "internalReference": 1212652
+  },
+  {
+    "locale": "pt",
+    "slug": "criar-uma-especificacao-de-sku-obrigatoria-e-ativa-nao-desativa-as-skus-da-categoria",
+    "internalReference": 1441624
   },
   {
     "locale": "pt",
