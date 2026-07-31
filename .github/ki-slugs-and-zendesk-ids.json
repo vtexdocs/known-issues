@@ -7981,6 +7981,11 @@
   },
   {
     "locale": "en",
+    "slug": "pricing-search-error-error-undefined-on-subaccounts-due-to-missing-cms-configuration-folders",
+    "internalReference": 1441865
+  },
+  {
+    "locale": "en",
     "slug": "product-taxpercentage-value-saved-by-searchresolver-is-incorrect-due-to-rounding",
     "internalReference": 470143
   },
@@ -16743,6 +16748,11 @@
     "locale": "es",
     "slug": "error-al-exportar-precios-con-metadatos",
     "internalReference": 860290
+  },
+  {
+    "locale": "es",
+    "slug": "error-de-busqueda-de-precios-error-indefinido-en-subcuentas-debido-a-la-falta-de-carpetas-de-configuracion-de-cms",
+    "internalReference": 1441865
   },
   {
     "locale": "es",
@@ -25738,6 +25748,11 @@
     "locale": "pt",
     "slug": "erro-data-ate-deve-ser-maior-que-data-de-ao-criar-regras-de-precos",
     "internalReference": 1114921
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-na-pesquisa-de-precos-erro-indefinido-em-subcontas-devido-a-ausencia-de-pastas-de-configuracao-do-cms",
+    "internalReference": 1441865
   },
   {
     "locale": "pt",
