@@ -5286,6 +5286,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-order-fails-to-reprocess-when-shipment-is-cancelled-errunavailablesla",
+    "internalReference": 1442735
+  },
+  {
+    "locale": "en",
     "slug": "netshoes-main-image-not-respected",
     "internalReference": 1220978
   },
@@ -14176,6 +14181,11 @@
   },
   {
     "locale": "es",
+    "slug": "mercado-livre-el-pedido-no-se-puede-reprocesar-cuando-se-cancela-el-envio-errunavailablesla",
+    "internalReference": 1442735
+  },
+  {
+    "locale": "es",
     "slug": "netshoes-imagen-principal-no-respetada",
     "internalReference": 1220978
   },
@@ -23063,6 +23073,11 @@
     "locale": "pt",
     "slug": "mercado-livre-anuncios-recriados-incorretamente-como-crossdocking-para-skus-completos-com-estoque-zero",
     "internalReference": 1440697
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-o-pedido-nao-pode-ser-reprocessado-quando-o-envio-e-cancelado-errunavailablesla",
+    "internalReference": 1442735
   },
   {
     "locale": "pt",
