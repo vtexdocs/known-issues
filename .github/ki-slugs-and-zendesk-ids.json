@@ -6126,6 +6126,11 @@
   },
   {
     "locale": "en",
+    "slug": "cash-1x-transactions-may-be-recorded-under-a-payment-rule-that-does-not-offer-the-1x-installment-option",
+    "internalReference": 292781
+  },
+  {
+    "locale": "en",
     "slug": "catalog-access-profile-gives-access-to-the-gift-card-module",
     "internalReference": 362165
   },
@@ -6388,11 +6393,6 @@
     "locale": "en",
     "slug": "for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response",
     "internalReference": 367284
-  },
-  {
-    "locale": "en",
-    "slug": "for-in-cash-payment-1-installment-is-being-processed-by-payment-conditions-that-have-not-1-installment-option",
-    "internalReference": 292781
   },
   {
     "locale": "en",
@@ -15691,6 +15691,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-transacciones-en-efectivo-1x-pueden-registrarse-bajo-una-regla-de-pago-que-no-ofrece-la-opcion-de-pago-a-plazos-1x",
+    "internalReference": 292781
+  },
+  {
+    "locale": "es",
     "slug": "las-transacciones-permanecen-en-estado-de-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
     "internalReference": 1344356
   },
@@ -15953,11 +15958,6 @@
     "locale": "es",
     "slug": "para-deudas-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta",
     "internalReference": 367284
-  },
-  {
-    "locale": "es",
-    "slug": "para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo",
-    "internalReference": 292781
   },
   {
     "locale": "es",
@@ -24876,7 +24876,7 @@
   },
   {
     "locale": "pt",
-    "slug": "pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela",
+    "slug": "transacoes-em-dinheiro-1x-podem-ser-registradas-sob-uma-regra-de-pagamento-que-nao-oferece-a-opcao-de-parcelamento-em-1x",
     "internalReference": 292781
   },
   {
