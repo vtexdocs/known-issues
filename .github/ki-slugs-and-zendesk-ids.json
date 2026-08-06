@@ -14296,6 +14296,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-campo-nombre-del-destinatario-de-mi-cuenta-no-reconoce-la-entrada",
+    "internalReference": 568527
+  },
+  {
+    "locale": "es",
     "slug": "el-contador-de-uso-de-promociones-no-funciona-como-se-esperaba-en-el-caso-de-las-divisiones-de-pedidos-y-los-pedidos-incompletos",
     "internalReference": 1289805
   },
@@ -14653,11 +14658,6 @@
     "locale": "es",
     "slug": "los-usuarios-registrados-a-traves-de-la-pantalla-de-reglas-de-usuario-guardan-el-campo-nombre-como-nulo",
     "internalReference": 1117274
-  },
-  {
-    "locale": "es",
-    "slug": "mi-cuenta-el-campo-nombre-del-receptor-no-reconoce-la-entrada",
-    "internalReference": 568527
   },
   {
     "locale": "es",
@@ -23381,7 +23381,7 @@
   },
   {
     "locale": "pt",
-    "slug": "minha-conta-o-campo-nome-do-receptor-nao-reconhece-a-entrada",
+    "slug": "o-campo-nome-do-destinatario-em-minha-conta-nao-reconhece-a-entrada-de-dados",
     "internalReference": 568527
   },
   {
