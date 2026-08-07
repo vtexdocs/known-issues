@@ -2,8 +2,8 @@
 title: 'Some custom pages are not returning in Custom Routes API causing missing entries in the sitemap'
 slug: some-custom-pages-are-not-returning-in-custom-routes-api-causing-missing-entries-in-the-sitemap
 status: PUBLISHED
-createdAt: 2025-11-05T17:24:28.686Z
-updatedAt: 2025-11-05T17:24:28.686Z
+createdAt: 2025-11-05T20:23:46.000Z
+updatedAt: 2026-08-07T16:55:08.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,25 +16,14 @@ internalReference: 1319581
 
 ## Summary
 
+In stores with a high volume of routes registered in the Rewriter, some custom pages don't appear in the Custom Routes API (`/_v/public/sitemap/custom-routes`) response and are missing from the generated sitemap. The generation process has a scan limit and can stop before reading all routes when the account has a large number of stale/expired entries, causing some valid pages to be silently skipped.
 
-In stores with a high number of custom pages, some of them do not appear in the Custom Routes API, which prevents them from being included in the store's sitemap.
+## Simulation
 
+- Identify an account with a high volume of routes registered in the Rewriter.
+- Call the Custom Routes API and confirm some known custom pages are missing from the response.
+- Access the sitemap generated for the store and confirm the same pages are also absent there.
 
-#### Simulation
-
-
-
-- Identify an account that has a high volume of custom routes.
-- Make a call to the Custom Routes API to list the routes.
-- Check the response and observe that some custom pages created are not listed in the return.
-- Access the new sitemap generated for the store.
-- Verify that the pages missing from the API response are also not present in the sitemap.
-
-
-#### Workaround
-
+## Workaround
 
 N/A
-
-
-
