@@ -17206,7 +17206,7 @@
   },
   {
     "locale": "es",
-    "slug": "algunas-paginas-personalizadas-no-aparecen-en-la-api-de-rutas-personalizadas-por-lo-que-faltan-entradas-en-el-mapa-del-sitio",
+    "slug": "algunas-paginas-personalizadas-no-se-devuelven-en-la-api-de-rutas-personalizadas-lo-que-provoca-que-falten-entradas-en-el-mapa-del-sitio",
     "internalReference": 1319581
   },
   {
@@ -26171,7 +26171,7 @@
   },
   {
     "locale": "pt",
-    "slug": "algumas-paginas-personalizadas-nao-estao-retornando-na-api-de-rotas-personalizadas-causando-a-falta-de-entradas-no-mapa-do-site",
+    "slug": "algumas-paginas-personalizadas-nao-estao-sendo-retornadas-na-api-de-rotas-personalizadas-o-que-causa-a-ausencia-de-entradas-no-mapa-do-site",
     "internalReference": 1319581
   },
   {
