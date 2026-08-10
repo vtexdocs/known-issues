@@ -6761,6 +6761,11 @@
   },
   {
     "locale": "en",
+    "slug": "outdated-card-brand-regex-causes-brand-misidentification-at-checkout",
+    "internalReference": 642136
+  },
+  {
+    "locale": "en",
     "slug": "outdated-elo-regex-is-causing-us-to-misidentify-some-bins",
     "internalReference": 1015043
   },
@@ -6768,11 +6773,6 @@
     "locale": "en",
     "slug": "outdated-locale-zones-in-guatemalas-billing-address-on-the-checkout-page",
     "internalReference": 373603
-  },
-  {
-    "locale": "en",
-    "slug": "outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins",
-    "internalReference": 642136
   },
   {
     "locale": "en",
@@ -15486,6 +15486,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-expresion-regular-de-marca-de-tarjeta-obsoleta-provoca-una-identificacion-erronea-de-la-marca-en-el-momento-del-pago",
+    "internalReference": 642136
+  },
+  {
+    "locale": "es",
     "slug": "la-fecha-de-caducidad-de-la-condicion-especial-no-se-elimina",
     "internalReference": 547046
   },
@@ -16213,11 +16218,6 @@
     "locale": "es",
     "slug": "un-conflicto-de-regex-hace-que-identifiquemos-erroneamente-mastercard-como-visa",
     "internalReference": 893588
-  },
-  {
-    "locale": "es",
-    "slug": "una-expresion-regular-obsoleta-para-tarjetas-de-debito-mastercard-nos-esta-llevando-a-identificar-erroneamente-algunos-bin",
-    "internalReference": 642136
   },
   {
     "locale": "es",
@@ -23396,11 +23396,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-campo-nome-do-destinatario-em-minha-conta-nao-reconhece-a-entrada-de-dados",
-    "internalReference": 568527
-  },
-  {
-    "locale": "pt",
     "slug": "minhas-assinaturas-ao-entrar-na-linha-de-endereco-2-isto-aparece-como-nulo",
     "internalReference": 588046
   },
@@ -23478,6 +23473,11 @@
     "locale": "pt",
     "slug": "o-campo-condado-de-judet-nao-aparece-como-salvo-ao-editar-o-endereco-na-secao-minha-conta-da-romenia",
     "internalReference": 394658
+  },
+  {
+    "locale": "pt",
+    "slug": "o-campo-nome-do-destinatario-em-minha-conta-nao-reconhece-a-entrada-de-dados",
+    "internalReference": 568527
   },
   {
     "locale": "pt",
@@ -24346,6 +24346,11 @@
   },
   {
     "locale": "pt",
+    "slug": "expressoes-regulares-desatualizadas-para-marcas-de-cartoes-causam-identificacao-incorreta-da-marca-no-caixa",
+    "internalReference": 642136
+  },
+  {
+    "locale": "pt",
     "slug": "falha-no-cancelamento-ppp-quando-o-cancelamentoidnulo",
     "internalReference": 333897
   },
@@ -24891,11 +24896,6 @@
   },
   {
     "locale": "pt",
-    "slug": "transacoes-em-dinheiro-1x-podem-ser-registradas-sob-uma-regra-de-pagamento-que-nao-oferece-a-opcao-de-parcelamento-em-1x",
-    "internalReference": 292781
-  },
-  {
-    "locale": "pt",
     "slug": "problema-ao-validar-o-campo-de-valor-ao-comprar-com-dois-cartoes",
     "internalReference": 460683
   },
@@ -25086,6 +25086,11 @@
   },
   {
     "locale": "pt",
+    "slug": "transacoes-em-dinheiro-1x-podem-ser-registradas-sob-uma-regra-de-pagamento-que-nao-oferece-a-opcao-de-parcelamento-em-1x",
+    "internalReference": 292781
+  },
+  {
+    "locale": "pt",
     "slug": "transacoes-em-espera-na-analise-de-risco",
     "internalReference": 541149
   },
@@ -25123,11 +25128,6 @@
     "locale": "pt",
     "slug": "transacoes-retidas-em-autorizacao-pendente-apos-aprovacao",
     "internalReference": 1344365
-  },
-  {
-    "locale": "pt",
-    "slug": "uma-expressao-regular-desatualizada-para-cartoes-de-debito-mastercard-esta-fazendo-com-que-identifiquemos-erroneamente-alguns-bins",
-    "internalReference": 642136
   },
   {
     "locale": "pt",
