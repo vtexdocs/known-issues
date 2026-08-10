@@ -15776,7 +15776,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglas-o-condiciones-de-pago-activas",
+    "slug": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglascondiciones-de-pago-activas",
     "internalReference": 1380926
   },
   {
@@ -24801,7 +24801,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-metodos-de-pagamento-removidos-ainda-aparecem-na-pagina-de-finalizacao-da-compra-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas",
+    "slug": "os-metodos-de-pagamento-removidos-ainda-sao-exibidos-no-checkout-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas",
     "internalReference": 1380926
   },
   {
