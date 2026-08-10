@@ -5271,6 +5271,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-sku-matching-status-reverts-to-pending-review-after-manual-confirmation",
+    "internalReference": 1446100
+  },
+  {
+    "locale": "en",
     "slug": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
     "internalReference": 1438301
   },
@@ -14153,6 +14158,11 @@
     "locale": "es",
     "slug": "vendedor-invitar-ruta-no-se-encuentra-despues-de-la-creacion-de-la-cuenta",
     "internalReference": 1167493
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-el-estado-de-coincidencia-de-sku-vuelve-a-pendiente-de-revision-despues-de-la-confirmacion-manual",
+    "internalReference": 1446100
   },
   {
     "locale": "es",
@@ -23068,6 +23078,11 @@
     "locale": "pt",
     "slug": "amazon-fluxo-de-cancelamento-de-pedidos",
     "internalReference": 588456
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual",
+    "internalReference": 1446100
   },
   {
     "locale": "pt",
