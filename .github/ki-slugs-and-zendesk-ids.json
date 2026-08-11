@@ -15296,6 +15296,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-de-transaccion-causado-por-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
+    "internalReference": 1398229
+  },
+  {
+    "locale": "es",
     "slug": "error-en-el-mensaje-de-error-de-la-compra",
     "internalReference": 409895
   },
@@ -15303,11 +15308,6 @@
     "locale": "es",
     "slug": "error-en-el-reembolso-el-valor-no-puede-ser-nulo-nombre-del-parametro-valor",
     "internalReference": 1049494
-  },
-  {
-    "locale": "es",
-    "slug": "error-en-la-transaccion-debido-a-una-discrepancia-en-la-validacion-del-bin-en-las-reglas-de-pago",
-    "internalReference": 1398229
   },
   {
     "locale": "es",
@@ -24311,6 +24311,11 @@
   },
   {
     "locale": "pt",
+    "slug": "erro-de-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento",
+    "internalReference": 1398229
+  },
+  {
+    "locale": "pt",
     "slug": "erro-devido-a-existencia-de-um-metodo-de-pagamento-duplicado",
     "internalReference": 929428
   },
@@ -24333,11 +24338,6 @@
     "locale": "pt",
     "slug": "erro-na-mensagem-errada-ao-usar-um-cartao-presente-inexistente",
     "internalReference": 584102
-  },
-  {
-    "locale": "pt",
-    "slug": "erro-na-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento",
-    "internalReference": 1398229
   },
   {
     "locale": "pt",
