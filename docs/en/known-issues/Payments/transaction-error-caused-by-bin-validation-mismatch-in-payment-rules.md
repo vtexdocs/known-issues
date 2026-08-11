@@ -2,8 +2,8 @@
 title: 'Transaction error caused by BIN validation mismatch in payment rules'
 slug: transaction-error-caused-by-bin-validation-mismatch-in-payment-rules
 status: PUBLISHED
-createdAt: 2026-04-27T20:31:14.759Z
-updatedAt: 2026-04-27T20:31:14.759Z
+createdAt: 2026-04-27T20:02:46.000Z
+updatedAt: 2026-08-11T19:34:48.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
