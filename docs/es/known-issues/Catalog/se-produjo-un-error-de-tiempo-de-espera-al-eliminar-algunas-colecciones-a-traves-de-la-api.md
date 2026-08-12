@@ -3,7 +3,7 @@ title: 'Se produjo un error de tiempo de espera al eliminar algunas colecciones 
 slug: se-produjo-un-error-de-tiempo-de-espera-al-eliminar-algunas-colecciones-a-traves-de-la-api
 status: PUBLISHED
 createdAt: 2026-08-13T00:42:15.000Z
-updatedAt: 2026-08-13T00:42:15.000Z
+updatedAt: 2026-08-13T00:50:49.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
