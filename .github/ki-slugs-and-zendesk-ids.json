@@ -8966,7 +8966,7 @@
   },
   {
     "locale": "es",
-    "slug": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-el-terminal",
+    "slug": "bucle-infinito-de-inicio-de-sesion-al-abrir-un-enlace-privado-de-graphiql-desde-la-terminal",
     "internalReference": 1418910
   },
   {
@@ -17911,7 +17911,7 @@
   },
   {
     "locale": "pt",
-    "slug": "loop-infinito-de-login-ao-abrir-um-link-privado-do-graphiql-no-terminal",
+    "slug": "loop-infinito-de-login-ao-abrir-um-link-graphiql-privado-a-partir-do-terminal",
     "internalReference": 1418910
   },
   {
