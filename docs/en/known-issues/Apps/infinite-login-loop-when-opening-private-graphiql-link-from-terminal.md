@@ -3,7 +3,7 @@ title: 'Infinite login loop when opening private GraphiQL link from terminal'
 slug: infinite-login-loop-when-opening-private-graphiql-link-from-terminal
 status: PUBLISHED
 createdAt: 2026-06-09T22:02:59.000Z
-updatedAt: 2026-06-09T22:02:59.000Z
+updatedAt: 2026-08-12T15:31:07.000Z
 contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
