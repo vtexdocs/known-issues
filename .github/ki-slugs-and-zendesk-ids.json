@@ -4936,7 +4936,7 @@
   },
   {
     "locale": "en",
-    "slug": "pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api",
+    "slug": "pickup-points-do-not-work-in-the-shipping-simulator-in-countries-that-do-not-use-our-postal-code-api",
     "internalReference": 1262007
   },
   {
@@ -13881,7 +13881,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-entrega-en-los-paises-que-no-utilizan-nuestra-api-de-codigo-postal",
+    "slug": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-envios-en-los-paises-que-no-utilizan-nuestra-api-de-codigos-postales",
     "internalReference": 1262007
   },
   {
@@ -22806,7 +22806,7 @@
   },
   {
     "locale": "pt",
-    "slug": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-entrega-em-paises-que-nao-usam-nossa-api-de-codigo-postal",
+    "slug": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-envios-em-paises-que-nao-utilizam-nossa-api-de-codigo-postal",
     "internalReference": 1262007
   },
   {
