@@ -1821,6 +1821,11 @@
   },
   {
     "locale": "en",
+    "slug": "timeout-returned-when-deleting-some-collections-through-api",
+    "internalReference": 1447421
+  },
+  {
+    "locale": "en",
     "slug": "timeout-when-editing-specifications",
     "internalReference": 1192667
   },
@@ -10711,6 +10716,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-produjo-un-error-de-tiempo-de-espera-al-eliminar-algunas-colecciones-a-traves-de-la-api",
+    "internalReference": 1447421
+  },
+  {
+    "locale": "es",
     "slug": "sku-binding-no-se-muestran-todas-las-columnas-en-la-hoja-de-calculo",
     "internalReference": 1163100
   },
@@ -19513,6 +19523,11 @@
     "locale": "pt",
     "slug": "ocorre-uma-atualizacao-inesperada-ao-registraratualizar-um-produto",
     "internalReference": 863542
+  },
+  {
+    "locale": "pt",
+    "slug": "ocorreu-um-erro-de-tempo-limite-ao-excluir-algumas-colecoes-por-meio-da-api",
+    "internalReference": 1447421
   },
   {
     "locale": "pt",
