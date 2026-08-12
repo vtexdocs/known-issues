@@ -3,7 +3,7 @@ title: 'Ocorreu um erro de tempo limite ao excluir algumas coleções por meio d
 slug: ocorreu-um-erro-de-tempo-limite-ao-excluir-algumas-colecoes-por-meio-da-api
 status: PUBLISHED
 createdAt: 2026-08-13T00:42:15.000Z
-updatedAt: 2026-08-13T00:42:15.000Z
+updatedAt: 2026-08-13T00:50:49.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
