@@ -2,15 +2,15 @@
 title: 'Stock export does not work for a very large sku base (StatusCode: 429)'
 slug: stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429
 status: PUBLISHED
-createdAt: 2026-04-24T18:26:36.827Z
-updatedAt: 2026-04-24T18:26:36.827Z
+createdAt: 2025-02-12T21:05:36.000Z
+updatedAt: 2026-08-12T20:47:08.000Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slugEN: stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429
 locale: en
-kiStatus: Backlog
+kiStatus: Scheduled
 internalReference: 1178575
 ---
 
