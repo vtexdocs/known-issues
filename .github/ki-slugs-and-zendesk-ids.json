@@ -5311,6 +5311,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-error-when-updating-commercial-policy-in-the-integration-card-setup",
+    "internalReference": 1236034
+  },
+  {
+    "locale": "en",
     "slug": "shopee-freight-value-mismatch-on-seller-logistics-orders",
     "internalReference": 1391278
   },
@@ -14218,6 +14223,11 @@
     "locale": "es",
     "slug": "shopee-discrepancia-en-el-valor-del-flete-en-los-pedidos-de-logistica-del-vendedor",
     "internalReference": 1391278
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-error-al-actualizar-la-politica-comercial-en-la-configuracion-de-la-tarjeta-de-integracion",
+    "internalReference": 1236034
   },
   {
     "locale": "es",
@@ -23133,6 +23143,11 @@
     "locale": "pt",
     "slug": "shopee-divergencia-no-valor-do-frete-em-pedidos-de-logistica-do-vendedor",
     "internalReference": 1391278
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-erro-ao-atualizar-a-politica-comercial-na-configuracao-do-cartao-de-integracao",
+    "internalReference": 1236034
   },
   {
     "locale": "pt",
