@@ -13841,7 +13841,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-politica-de-envio-con-un-maxvolume-incorrecto-en-la-hoja-de-calculo-no-muestra-el-error-del-mensaje-en-la-simulacion",
+    "slug": "la-politica-de-envio-con-un-volumen-maximo-incorrecto-en-la-hoja-de-calculo-no-muestra-el-mensaje-de-error-en-la-simulacion",
     "internalReference": 380471
   },
   {
@@ -22646,6 +22646,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-exibe-a-mensagem-de-erro-na-simulacao",
+    "internalReference": 380471
+  },
+  {
+    "locale": "pt",
     "slug": "a-politica-de-envio-que-esta-no-status-em-processamento-e-exibida-como-ativa-na-nova-interface-de-logistica",
     "internalReference": 925914
   },
@@ -22813,11 +22818,6 @@
     "locale": "pt",
     "slug": "politica-de-embarque-nao-priorizada-devido-ao-motivo-dispensada-como-prioridade-mesmo-com-melhor-custo",
     "internalReference": 379685
-  },
-  {
-    "locale": "pt",
-    "slug": "politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-mostra-erro-de-mensagem-na-simulacao",
-    "internalReference": 380471
   },
   {
     "locale": "pt",
