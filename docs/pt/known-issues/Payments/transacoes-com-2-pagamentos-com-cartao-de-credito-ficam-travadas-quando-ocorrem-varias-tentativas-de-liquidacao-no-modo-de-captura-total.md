@@ -3,7 +3,7 @@ title: 'Transações com 2 pagamentos com cartão de crédito ficam travadas qua
 slug: transacoes-com-2-pagamentos-com-cartao-de-credito-ficam-travadas-quando-ocorrem-varias-tentativas-de-liquidacao-no-modo-de-captura-total
 status: PUBLISHED
 createdAt: 2026-07-20T20:37:30.000Z
-updatedAt: 2026-07-20T20:37:30.000Z
+updatedAt: 2026-08-13T16:27:05.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -24,7 +24,7 @@ As transações podem ficar travadas nos estados "Aprovado" ou "Em Liquidação"
 
 - Os pagamentos são processados ​​no modelo de liquidação total;
 
-- Os pagamentos recebem mais de uma tentativa de liquidação, não acionada pela liquidação automática.
+- Os pagamentos recebem mais de uma tentativa de liquidação mediante solicitação (não acionada pela liquidação automática).
 
 A primeira tentativa de liquidação liquida o valor total da transação em ambos os pagamentos. As tentativas subsequentes não falham visivelmente, mas como não há valor restante para capturar, o fluxo da transação permanece travado.
 
@@ -34,4 +34,4 @@ Não é possível simular.
 
 ## Workaround
 
-Nenhuma solução alternativa disponível.
+Abra um chamado para o Suporte ao Produto VTEX.
