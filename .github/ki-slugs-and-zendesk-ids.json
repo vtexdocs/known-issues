@@ -5271,6 +5271,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-nfe-for-amazon-dba-easy-ship-orders-rejected-when-a-promotional-discount-is-applied-by-the-buyer",
+    "internalReference": 1447551
+  },
+  {
+    "locale": "en",
     "slug": "amazon-order-cancellation-flow",
     "internalReference": 588456
   },
@@ -14183,6 +14188,11 @@
     "locale": "es",
     "slug": "amazon-en-algunos-casos-un-sku-puede-publicarse-correctamente-en-amazon-pero-el-stock-no-se-actualiza-y-permanece-en-cero",
     "internalReference": 1431243
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-los-pedidos-nfe-para-amazon-dba-easy-ship-son-rechazados-cuando-el-comprador-aplica-un-descuento-promocional",
+    "internalReference": 1447551
   },
   {
     "locale": "es",
@@ -23103,6 +23113,11 @@
     "locale": "pt",
     "slug": "amazon-fluxo-de-cancelamento-de-pedidos",
     "internalReference": 588456
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-nfe-para-pedidos-amazon-dba-easy-ship-rejeitados-quando-um-desconto-promocional-e-aplicado-pelo-comprador",
+    "internalReference": 1447551
   },
   {
     "locale": "pt",
