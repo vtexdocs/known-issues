@@ -7666,6 +7666,11 @@
   },
   {
     "locale": "en",
+    "slug": "sitemap-returns-null-for-all-entries",
+    "internalReference": 407007
+  },
+  {
+    "locale": "en",
     "slug": "something-went-wrong-message-when-accessing-a-and-p-routes-in-portal-stores",
     "internalReference": 945226
   },
@@ -16438,6 +16443,11 @@
     "locale": "es",
     "slug": "el-horario-de-recogida-del-legado-no-respeta-la-zona-horaria-de-sc",
     "internalReference": 316054
+  },
+  {
+    "locale": "es",
+    "slug": "el-mapa-del-sitio-devuelve-null-para-todas-las-entradas",
+    "internalReference": 407007
   },
   {
     "locale": "es",
@@ -25483,6 +25493,11 @@
     "locale": "pt",
     "slug": "o-redirecionamento-de-url-com-caracteres-especiais-nao-ascii-gera-erros",
     "internalReference": 457047
+  },
+  {
+    "locale": "pt",
+    "slug": "o-sitemap-retorna-null-para-todas-as-entradas",
+    "internalReference": 407007
   },
   {
     "locale": "pt",
