@@ -2981,6 +2981,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-preview-loops-when-an-item-has-multiple-delivery-options-and-the-freight-price-changes-between-simulations",
+    "internalReference": 1448353
+  },
+  {
+    "locale": "en",
     "slug": "shipping-preview-showing-unavailability-message-for-delivery",
     "internalReference": 1170877
   },
@@ -11731,6 +11736,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-vista-previa-del-envio-se-repite-cuando-un-articulo-tiene-varias-opciones-de-entrega-y-el-precio-del-flete-cambia-entre-simulaciones",
+    "internalReference": 1448353
+  },
+  {
+    "locale": "es",
     "slug": "las-api-para-realizar-pedidos-no-respetan-la-cantidad-maxima-del-mismo-sku-en-la-configuracion-del-carrito",
     "internalReference": 587394
   },
@@ -20043,6 +20053,11 @@
     "locale": "pt",
     "slug": "a-previsualizacao-do-envio-mostra-o-codigo-postal-para-retirada-quando-ha-divisao-da-encomenda-entre-retirada-e-envio",
     "internalReference": 938124
+  },
+  {
+    "locale": "pt",
+    "slug": "a-previsualizacao-do-frete-entra-em-loop-quando-um-item-possui-varias-opcoes-de-entrega-e-o-preco-do-frete-muda-entre-as-simulacoes",
+    "internalReference": 1448353
   },
   {
     "locale": "pt",
