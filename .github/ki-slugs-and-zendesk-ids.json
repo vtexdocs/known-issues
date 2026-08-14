@@ -17601,11 +17601,6 @@
   },
   {
     "locale": "es",
-    "slug": "las-cabeceras-personalizadas-no-se-aplican-a-todas-las-paginas",
-    "internalReference": 1170580
-  },
-  {
-    "locale": "es",
     "slug": "las-etiquetas-canonicas-no-se-aplican-a-partir-del-tercer-nivel-de-categoria",
     "internalReference": 932349
   },
@@ -17653,6 +17648,11 @@
     "locale": "es",
     "slug": "los-clics-en-el-numericstepper-no-funcionan",
     "internalReference": 537245
+  },
+  {
+    "locale": "es",
+    "slug": "los-encabezados-personalizados-no-se-aplican-a-todas-las-paginas",
+    "internalReference": 1170580
   },
   {
     "locale": "es",
