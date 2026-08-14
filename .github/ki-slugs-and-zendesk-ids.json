@@ -7486,6 +7486,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-database-cannot-handle-cyrillic-characters-on-sitemap",
+    "internalReference": 715686
+  },
+  {
+    "locale": "en",
     "slug": "category-and-brand-substitute-words-not-being-indexed",
     "internalReference": 374204
   },
@@ -16506,6 +16511,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-base-de-datos-del-catalogo-no-admite-caracteres-cirilicos-en-el-mapa-del-sitio",
+    "internalReference": 715686
+  },
+  {
+    "locale": "es",
     "slug": "la-busqueda-de-autocompletar-no-funciona-con-el-espacio",
     "internalReference": 568821
   },
@@ -25468,6 +25478,11 @@
     "locale": "pt",
     "slug": "mensagem-de-erro-ao-acessar-as-rotas-a-e-p-nas-lojas-do-portal",
     "internalReference": 945226
+  },
+  {
+    "locale": "pt",
+    "slug": "o-banco-de-dados-do-catalogo-nao-consegue-lidar-com-caracteres-cirilicos-no-mapa-do-site",
+    "internalReference": 715686
   },
   {
     "locale": "pt",
