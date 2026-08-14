@@ -7666,6 +7666,11 @@
   },
   {
     "locale": "en",
+    "slug": "sitemap-generation-does-not-consider-products-from-account-and-subaccount",
+    "internalReference": 471748
+  },
+  {
+    "locale": "en",
     "slug": "sitemap-returns-null-for-all-entries",
     "internalReference": 407007
   },
@@ -16551,6 +16556,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-generacion-del-mapa-del-sitio-no-tiene-en-cuenta-los-productos-de-cuenta-y-subcuenta",
+    "internalReference": 471748
+  },
+  {
+    "locale": "es",
     "slug": "la-preventa-de-la-coleccion-del-cms-antiguo-no-funciona",
     "internalReference": 885693
   },
@@ -25358,6 +25368,11 @@
     "locale": "pt",
     "slug": "a-funcao-de-preenchimento-automatico-na-pesquisa-nem-sempre-e-atualizada-quando-alterada-varias-vezes",
     "internalReference": 793275
+  },
+  {
+    "locale": "pt",
+    "slug": "a-geracao-do-sitemap-nao-considera-produtos-da-conta-e-da-subconta",
+    "internalReference": 471748
   },
   {
     "locale": "pt",
