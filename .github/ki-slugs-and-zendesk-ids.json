@@ -1601,11 +1601,6 @@
   },
   {
     "locale": "en",
-    "slug": "roundingmode-changes-do-not-work-for-percentual-discounts",
-    "internalReference": 1192809
-  },
-  {
-    "locale": "en",
     "slug": "sales-channel-info-divergent-between-ui-and-api",
     "internalReference": 802560
   },
@@ -1658,11 +1653,6 @@
     "locale": "en",
     "slug": "similar-products-ui-brokes-with-too-many-products",
     "internalReference": 868425
-  },
-  {
-    "locale": "en",
-    "slug": "sitemap-from-subaccounts-including-products-from-other-subaccounts-and-mainaccount",
-    "internalReference": 617974
   },
   {
     "locale": "en",
@@ -5266,6 +5256,11 @@
   },
   {
     "locale": "en",
+    "slug": "markeplacein-suggestions-api-cursor-pagination-next-only-covers-pending-suggestions-and-may-look-like-it-stopped-early",
+    "internalReference": 1448547
+  },
+  {
+    "locale": "en",
     "slug": "amazon-in-some-cases-a-sku-may-be-published-successfully-on-amazon-but-the-stock-is-not-updated-and-remains-at-zero",
     "internalReference": 1431243
   },
@@ -7671,6 +7666,11 @@
   },
   {
     "locale": "en",
+    "slug": "sitemap-from-subaccounts-including-products-from-other-subaccounts-and-mainaccount",
+    "internalReference": 617974
+  },
+  {
+    "locale": "en",
     "slug": "sitemap-generation-does-not-consider-products-from-account-and-subaccount",
     "internalReference": 471748
   },
@@ -8118,6 +8118,11 @@
     "locale": "en",
     "slug": "roundingmode-ceilingfloor-not-working-properly-among-items-with-unitmultiplier-other-than-1",
     "internalReference": 968349
+  },
+  {
+    "locale": "en",
+    "slug": "roundingmode-changes-do-not-work-for-percentual-discounts",
+    "internalReference": 1192809
   },
   {
     "locale": "en",
@@ -10561,11 +10566,6 @@
   },
   {
     "locale": "es",
-    "slug": "los-cambios-en-roundingmode-no-funcionan-para-los-descuentos-porcentuales",
-    "internalReference": 1192809
-  },
-  {
-    "locale": "es",
     "slug": "los-campos-de-texto-de-las-dimensiones-quedan-deseleccionados-durante-la-creacion-de-sku",
     "internalReference": 786048
   },
@@ -10638,11 +10638,6 @@
     "locale": "es",
     "slug": "los-slugs-y-los-enlaces-devueltos-por-la-api-de-facetas-del-catalogo-tienen-formatos-diferentes",
     "internalReference": 998397
-  },
-  {
-    "locale": "es",
-    "slug": "mapa-del-sitio-desde-subcuentas-que-incluye-productos-de-otras-subcuentas-y-de-la-cuenta-principal",
-    "internalReference": 617974
   },
   {
     "locale": "es",
@@ -14206,6 +14201,11 @@
   },
   {
     "locale": "es",
+    "slug": "markeplacein-la-paginacion-del-cursor-de-la-api-de-sugerencias-next-solo-cubre-las-sugerencias-pendientes-y-puede-parecer-que-se-detuvo-antes-de-tiempo",
+    "internalReference": 1448547
+  },
+  {
+    "locale": "es",
     "slug": "amazon-el-estado-de-coincidencia-de-sku-vuelve-a-pendiente-de-revision-despues-de-la-confirmacion-manual",
     "internalReference": 1446100
   },
@@ -16631,6 +16631,11 @@
   },
   {
     "locale": "es",
+    "slug": "mapa-del-sitio-desde-subcuentas-que-incluye-productos-de-otras-subcuentas-y-de-la-cuenta-principal",
+    "internalReference": 617974
+  },
+  {
+    "locale": "es",
     "slug": "no-se-puede-crear-el-elemento-personalizado-productos-relacionados",
     "internalReference": 326899
   },
@@ -17048,6 +17053,11 @@
     "locale": "es",
     "slug": "las-tablas-de-precios-promocionales-en-carritos-de-la-compra-de-gran-tamano-pueden-afectar-al-rendimiento-o-provocar-errores-por-tiempo-de-espera-agotado",
     "internalReference": 949389
+  },
+  {
+    "locale": "es",
+    "slug": "los-cambios-en-roundingmode-no-funcionan-para-los-descuentos-porcentuales",
+    "internalReference": 1192809
   },
   {
     "locale": "es",
@@ -18851,11 +18861,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-alteracoes-no-modo-de-arredondamento-nao-funcionam-para-descontos-percentuais",
-    "internalReference": 1192809
-  },
-  {
-    "locale": "pt",
     "slug": "as-apis-quem-viu-tambem-viu-quem-viu-tambem-comprou-e-quem-comprou-tambem-comprou-nem-sempre-funcionam-como-esperado",
     "internalReference": 712015
   },
@@ -19318,11 +19323,6 @@
     "locale": "pt",
     "slug": "links-de-paginacao-nos-resultados-da-pesquisa-que-nao-funcionam-nas-paginas-da-giftlist",
     "internalReference": 481330
-  },
-  {
-    "locale": "pt",
-    "slug": "mapa-do-site-das-subcontas-incluindo-produtos-de-outras-subcontas-e-da-conta-principal",
-    "internalReference": 617974
   },
   {
     "locale": "pt",
@@ -23151,6 +23151,11 @@
   },
   {
     "locale": "pt",
+    "slug": "markeplacein-a-paginacao-do-cursor-da-api-de-sugestoes-next-abrange-apenas-sugestoes-pendentes-e-pode-parecer-que-parou-antes-do-tempo",
+    "internalReference": 1448547
+  },
+  {
+    "locale": "pt",
     "slug": "amazon-em-alguns-casos-um-sku-pode-ser-publicado-com-sucesso-na-amazon-mas-o-estoque-nao-e-atualizado-e-permanece-zerado",
     "internalReference": 1431243
   },
@@ -25476,6 +25481,11 @@
   },
   {
     "locale": "pt",
+    "slug": "mapa-do-site-das-subcontas-incluindo-produtos-de-outras-subcontas-e-da-conta-principal",
+    "internalReference": 617974
+  },
+  {
+    "locale": "pt",
     "slug": "mensagem-de-erro-ao-acessar-as-rotas-a-e-p-nas-lojas-do-portal",
     "internalReference": 945226
   },
@@ -25803,6 +25813,11 @@
     "locale": "pt",
     "slug": "alteracao-da-interface-do-usuario-do-publicoalvo-da-campanha-de-diferente-de-para-igual-a-com-uma-colecao",
     "internalReference": 881131
+  },
+  {
+    "locale": "pt",
+    "slug": "as-alteracoes-no-modo-de-arredondamento-nao-funcionam-para-descontos-percentuais",
+    "internalReference": 1192809
   },
   {
     "locale": "pt",
