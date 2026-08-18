@@ -4951,6 +4951,11 @@
   },
   {
     "locale": "en",
+    "slug": "search-item-field-does-not-return-anything-in-logistics-simulation",
+    "internalReference": 697628
+  },
+  {
+    "locale": "en",
     "slug": "shipping-policy-not-prioritized-due-reason-dismissed-as-a-matter-of-priority-even-with-better-cost",
     "internalReference": 379685
   },
@@ -13788,6 +13793,11 @@
     "locale": "es",
     "slug": "el-cambio-de-stock-se-completa-incluso-despues-de-recibir-el-error-500",
     "internalReference": 388176
+  },
+  {
+    "locale": "es",
+    "slug": "el-campo-de-busqueda-de-elementos-no-devuelve-ningun-resultado-en-la-simulacion-logistica",
+    "internalReference": 697628
   },
   {
     "locale": "es",
@@ -22848,6 +22858,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-criar-um-intervalo-de-entrega-devido-a-uma-inconsistencia-entre-estimatedate-e-lastdeliveryday-o-que-implica-um-custo-de-tempo-elevado",
     "internalReference": 995491
+  },
+  {
+    "locale": "pt",
+    "slug": "o-campo-de-pesquisa-nao-retorna-nenhum-resultado-na-simulacao-logistica",
+    "internalReference": 697628
   },
   {
     "locale": "pt",
