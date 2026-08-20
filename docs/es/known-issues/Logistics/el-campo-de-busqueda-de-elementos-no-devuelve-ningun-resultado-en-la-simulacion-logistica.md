@@ -3,7 +3,7 @@ title: 'El campo de búsqueda de elementos no devuelve ningún resultado en la s
 slug: el-campo-de-busqueda-de-elementos-no-devuelve-ningun-resultado-en-la-simulacion-logistica
 status: PUBLISHED
 createdAt: 2022-11-14T18:06:22.000Z
-updatedAt: 2026-08-18T16:36:08.000Z
+updatedAt: 2026-08-18T16:36:13.000Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
