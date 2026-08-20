@@ -3,7 +3,7 @@ title: 'O campo de pesquisa não retorna nenhum resultado na simulação logíst
 slug: o-campo-de-pesquisa-nao-retorna-nenhum-resultado-na-simulacao-logistica
 status: PUBLISHED
 createdAt: 2022-11-14T18:06:22.000Z
-updatedAt: 2026-08-18T16:36:08.000Z
+updatedAt: 2026-08-18T16:36:13.000Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
