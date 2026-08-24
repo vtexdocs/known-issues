@@ -66,13 +66,13 @@
   },
   {
     "locale": "en",
-    "slug": "app-settings-are-not-erased-when-you-delete-the-app",
-    "internalReference": 1065954
+    "slug": ".md",
+    "internalReference": 1262332
   },
   {
     "locale": "en",
-    "slug": "builderhub-error-when-trying-to-publish-an-app",
-    "internalReference": 1262332
+    "slug": "app-settings-are-not-erased-when-you-delete-the-app",
+    "internalReference": 1065954
   },
   {
     "locale": "en",
@@ -9011,6 +9011,11 @@
   },
   {
     "locale": "es",
+    "slug": ".md",
+    "internalReference": 1262332
+  },
+  {
+    "locale": "es",
     "slug": "arranque-en-frio-al-publicar-una-aplicacion",
     "internalReference": 1088942
   },
@@ -9038,11 +9043,6 @@
     "locale": "es",
     "slug": "error-al-listar-las-dependencias-del-espacio-de-trabajo-al-intentar-acceder-a-una-cuenta",
     "internalReference": 1260934
-  },
-  {
-    "locale": "es",
-    "slug": "error-de-builderhub-al-intentar-publicar-una-aplicacion",
-    "internalReference": 1262332
   },
   {
     "locale": "es",
@@ -17971,6 +17971,11 @@
   },
   {
     "locale": "pt",
+    "slug": ".md",
+    "internalReference": 1262332
+  },
+  {
+    "locale": "pt",
     "slug": "as-configuracoes-do-aplicativo-nao-sao-apagadas-quando-voce-exclui-o-aplicativo",
     "internalReference": 1065954
   },
@@ -17993,11 +17998,6 @@
     "locale": "pt",
     "slug": "erro-ao-tentar-publicar-ou-vincular-um-aplicativo",
     "internalReference": 1056882
-  },
-  {
-    "locale": "pt",
-    "slug": "erro-do-builderhub-ao-tentar-publicar-um-aplicativo",
-    "internalReference": 1262332
   },
   {
     "locale": "pt",
