@@ -8781,6 +8781,11 @@
   },
   {
     "locale": "en",
+    "slug": "sitemap-returns-account-not-found-on-public-domains-for-stores-split-between-store-framework-and-faststore",
+    "internalReference": 1451253
+  },
+  {
+    "locale": "en",
     "slug": "sitemap-returns-error-fetching-sitemap-data",
     "internalReference": 1319643
   },
@@ -17453,6 +17458,11 @@
     "locale": "es",
     "slug": "el-mapa-del-sitio-conserva-los-productos-fantasma-de-las-categorias-eliminadas-mediante-una-limpieza-completa",
     "internalReference": 1409701
+  },
+  {
+    "locale": "es",
+    "slug": "el-mapa-del-sitio-devuelve-cuenta-no-encontrada-en-dominios-publicos-para-tiendas-divididas-entre-store-framework-y-faststore",
+    "internalReference": 1451253
   },
   {
     "locale": "es",
@@ -26713,6 +26723,11 @@
     "locale": "pt",
     "slug": "o-sitemap-nao-esta-sendo-geradoatualizado",
     "internalReference": 827104
+  },
+  {
+    "locale": "pt",
+    "slug": "o-sitemap-retorna-conta-nao-encontrada-em-dominios-publicos-para-lojas-divididas-entre-store-framework-e-faststore",
+    "internalReference": 1451253
   },
   {
     "locale": "pt",
