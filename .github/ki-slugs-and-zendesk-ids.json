@@ -2271,6 +2271,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkoutorderformownership-cookie-shipping-information-loss",
+    "internalReference": 1452215
+  },
+  {
+    "locale": "en",
     "slug": "checkoutorderformownership-is-lostdoesnt-exist-in-some-purchase-flows",
     "internalReference": 1038692
   },
@@ -12041,6 +12046,11 @@
   },
   {
     "locale": "es",
+    "slug": "perdida-de-informacion-de-envio-de-cookies-del-formulario-de-pedido-de-pago",
+    "internalReference": 1452215
+  },
+  {
+    "locale": "es",
     "slug": "place-order-from-exisiting-cart-ignora-la-validacion-de-la-respuesta-del-servicio-de-impuestos-cuando-la-bandera-ismarketplaceresponsiblefortaxes-es-verdadera-en-taxconfiguration",
     "internalReference": 1334135
   },
@@ -21023,6 +21033,11 @@
     "locale": "pt",
     "slug": "pedidos-sem-endereco-de-faturamento-criados-por-meio-da-interface-de-usuario-nativa",
     "internalReference": 306140
+  },
+  {
+    "locale": "pt",
+    "slug": "perda-de-informacoes-de-envio-do-cookie-checkoutorderformownship",
+    "internalReference": 1452215
   },
   {
     "locale": "pt",
