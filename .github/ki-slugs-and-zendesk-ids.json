@@ -8681,6 +8681,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-specification-field-is-not-displayed-on-pdp-when-its-name-matches-the-specification-group-name",
+    "internalReference": 1452333
+  },
+  {
+    "locale": "en",
     "slug": "product-summary-quantity-does-not-work-in-regionalized-stores",
     "internalReference": 1313686
   },
@@ -17393,6 +17398,11 @@
     "locale": "es",
     "slug": "el-autocompletado-de-styleguide-presenta-un-error-al-eliminar-el-termino-de-busqueda",
     "internalReference": 1170343
+  },
+  {
+    "locale": "es",
+    "slug": "el-campo-de-especificacion-del-producto-no-se-muestra-en-pdp-cuando-su-nombre-coincide-con-el-nombre-del-grupo-de-especificacion",
+    "internalReference": 1452333
   },
   {
     "locale": "es",
@@ -26533,6 +26543,11 @@
     "locale": "pt",
     "slug": "o-breadcrumb-nao-esta-sendo-lido-pelos-rastreadores-devido-ao-tempo-limite-do-ssr",
     "internalReference": 460999
+  },
+  {
+    "locale": "pt",
+    "slug": "o-campo-de-especificacao-do-produto-nao-e-exibido-na-pagina-de-detalhes-do-produto-pdp-quando-seu-nome-corresponde-ao-nome-do-grupo-de-especificacoes",
+    "internalReference": 1452333
   },
   {
     "locale": "pt",
