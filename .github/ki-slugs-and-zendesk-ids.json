@@ -5296,6 +5296,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-silent-error-when-connecting-amazon-integration",
+    "internalReference": 1454182
+  },
+  {
+    "locale": "en",
     "slug": "amazon-sku-matching-status-reverts-to-pending-review-after-manual-confirmation",
     "internalReference": 1446100
   },
@@ -14253,6 +14258,11 @@
     "locale": "es",
     "slug": "amazon-en-algunos-casos-un-sku-puede-publicarse-correctamente-en-amazon-pero-el-stock-no-se-actualiza-y-permanece-en-cero",
     "internalReference": 1431243
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-error-silencioso-al-conectar-la-integracion-de-amazon",
+    "internalReference": 1454182
   },
   {
     "locale": "es",
@@ -23223,6 +23233,11 @@
     "locale": "pt",
     "slug": "amazon-em-alguns-casos-um-sku-pode-ser-publicado-com-sucesso-na-amazon-mas-o-estoque-nao-e-atualizado-e-permanece-zerado",
     "internalReference": 1431243
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-erro-silencioso-ao-conectar-a-integracao-com-a-amazon",
+    "internalReference": 1454182
   },
   {
     "locale": "pt",
