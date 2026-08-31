@@ -2326,6 +2326,11 @@
   },
   {
     "locale": "en",
+    "slug": "coupon-code-is-not-recorded-in-the-order-when-applied-with-different-letter-case",
+    "internalReference": 1454466
+  },
+  {
+    "locale": "en",
     "slug": "customer-information-being-lost-when-it-has-some-order-with-profileerroronloading",
     "internalReference": 340036
   },
@@ -11128,6 +11133,11 @@
     "locale": "es",
     "slug": "el-codigo-de-seguridad-permanece-en-el-formulario-de-la-interfaz-de-usuario-al-cambiar-de-una-tarjeta-guardada-a-una-nueva",
     "internalReference": 1412484
+  },
+  {
+    "locale": "es",
+    "slug": "el-codigo-del-cupon-no-se-registra-en-el-pedido-cuando-se-aplica-con-mayusculas-o-minusculas-diferentes",
+    "internalReference": 1454466
   },
   {
     "locale": "es",
@@ -20758,6 +20768,11 @@
     "locale": "pt",
     "slug": "o-cliente-e-redirecionado-para-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder",
     "internalReference": 786685
+  },
+  {
+    "locale": "pt",
+    "slug": "o-codigo-do-cupom-nao-e-registrado-no-pedido-quando-aplicado-com-letras-maiusculas-e-minusculas-diferentes",
+    "internalReference": 1454466
   },
   {
     "locale": "pt",
