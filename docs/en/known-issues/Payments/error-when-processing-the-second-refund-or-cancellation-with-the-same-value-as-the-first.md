@@ -3,7 +3,7 @@ title: 'Error when processing the second refund or cancellation with the same va
 slug: error-when-processing-the-second-refund-or-cancellation-with-the-same-value-as-the-first
 status: PUBLISHED
 createdAt: 2024-10-16T23:27:18.000Z
-updatedAt: 2026-05-12T17:35:41.000Z
+updatedAt: 2026-09-01T01:03:24.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,12 +18,18 @@ internalReference: 1118560
 
 When requesting a second partial refund of the same value as the first, the gateway returns the following message:
 
-    Message: Gift card has been already refunded.
+```
+Message: Gift card has been already refunded.
+```
 
 
-Or if requesting a second partial cancellation with the same value as the first, the gateway returns:
 
-    Message: "Gift card has been already cancelled"
+Or, if requesting a second partial cancellation with the same value as the first, the gateway returns:
+
+```
+Message: "Gift card has been already cancelled"
+```
+
 
 
 Although this is logged in the interaction, the second refund/cancellation is not actually processed.
