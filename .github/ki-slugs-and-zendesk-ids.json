@@ -6986,6 +6986,11 @@
   },
   {
     "locale": "en",
+    "slug": "split-refund-recorded-but-never-sent-to-the-provider-external-tax",
+    "internalReference": 1454215
+  },
+  {
+    "locale": "en",
     "slug": "status-on-transactions-list-doesnt-match-actual-state",
     "internalReference": 1004883
   },
@@ -16171,6 +16176,11 @@
   },
   {
     "locale": "es",
+    "slug": "reembolso-parcial-registrado-pero-nunca-enviado-al-proveedor-impuesto-externo",
+    "internalReference": 1454215
+  },
+  {
+    "locale": "es",
     "slug": "registros-que-indican-que-hubo-un-reembolso-pero-debido-a-un-error-por-parte-del-adquirente-la-anulacion-no-se-produce-realmente",
     "internalReference": 545331
   },
@@ -24918,6 +24928,11 @@
     "locale": "pt",
     "slug": "o-recurso-meus-cartoes-nao-esta-funcionando-com-alguns-conectores-antigos",
     "internalReference": 373636
+  },
+  {
+    "locale": "pt",
+    "slug": "o-reembolso-dividido-foi-registrado-mas-nunca-enviado-ao-fornecedor-imposto-externo",
+    "internalReference": 1454215
   },
   {
     "locale": "pt",
