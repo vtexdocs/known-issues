@@ -321,6 +321,11 @@
   },
   {
     "locale": "en",
+    "slug": "quickorder-app-concurrency-issues-when-adding-items",
+    "internalReference": 1450887
+  },
+  {
+    "locale": "en",
     "slug": "sales-channel-configured-in-b2b-settings-is-not-assigned-after-approving-organizations",
     "internalReference": 866933
   },
@@ -2893,11 +2898,6 @@
     "locale": "en",
     "slug": "purchase-cant-be-finished-and-returns-the-error-receiver-name-field-is-invalid",
     "internalReference": 313945
-  },
-  {
-    "locale": "en",
-    "slug": "quickorder-app-concurrency-issues-when-adding-items",
-    "internalReference": 1450887
   },
   {
     "locale": "en",
@@ -9321,6 +9321,11 @@
   },
   {
     "locale": "es",
+    "slug": "problemas-de-concurrencia-en-la-aplicacion-quickorder-al-agregar-articulos",
+    "internalReference": 1450887
+  },
+  {
+    "locale": "es",
     "slug": "se-duplica-la-cantidad-de-articulos-al-intentar-editar-cotizaciones-con-articulos-divididos-por-promociones",
     "internalReference": 1430768
   },
@@ -12093,11 +12098,6 @@
     "locale": "es",
     "slug": "problema-con-la-validacion-del-numero-de-telefono-en-dispositivos-moviles",
     "internalReference": 964802
-  },
-  {
-    "locale": "es",
-    "slug": "problemas-de-concurrencia-en-la-aplicacion-quickorder-al-agregar-articulos",
-    "internalReference": 1450887
   },
   {
     "locale": "es",
@@ -18321,6 +18321,11 @@
   },
   {
     "locale": "pt",
+    "slug": "problemas-de-concorrencia-no-aplicativo-quickorder-ao-adicionar-itens",
+    "internalReference": 1450887
+  },
+  {
+    "locale": "pt",
     "slug": "valores-incorretos-em-cotacoes-de-itens-com-configuracao-de-multiplicador-de-unidade",
     "internalReference": 1271492
   },
@@ -21113,11 +21118,6 @@
     "locale": "pt",
     "slug": "problema-com-a-validacao-do-numero-de-telefone-em-dispositivos-moveis",
     "internalReference": 964802
-  },
-  {
-    "locale": "pt",
-    "slug": "problemas-de-concorrencia-no-aplicativo-quickorder-ao-adicionar-itens",
-    "internalReference": 1450887
   },
   {
     "locale": "pt",
