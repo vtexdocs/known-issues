@@ -15401,6 +15401,11 @@
   },
   {
     "locale": "es",
+    "slug": "error-al-procesar-el-segundo-reembolso-o-cancelacion-con-el-mismo-valor-que-el-primero",
+    "internalReference": 1118560
+  },
+  {
+    "locale": "es",
     "slug": "error-con-el-codigo-de-retorno-355-en-el-proceso-de-cancelacion-con-erederest-y-erede-v2",
     "internalReference": 740084
   },
@@ -16213,11 +16218,6 @@
     "locale": "es",
     "slug": "se-devuelve-una-transaccion-no-relacionada-cuando-se-utiliza-el-numero-de-secuencia-para-obtener-una-transaccion-en-la-interfaz-de-administracion",
     "internalReference": 503446
-  },
-  {
-    "locale": "es",
-    "slug": "se-ha-producido-un-error-al-procesar-el-segundo-reembolso-o-la-segunda-cancelacion-con-el-mismo-importe-que-el-primero",
-    "internalReference": 1118560
   },
   {
     "locale": "es",
