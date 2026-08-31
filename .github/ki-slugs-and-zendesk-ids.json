@@ -7916,6 +7916,11 @@
   },
   {
     "locale": "en",
+    "slug": "fixed-prices-import-may-incorrectly-report-success-when-sku-column-is-formatted-as-a-number",
+    "internalReference": 1454505
+  },
+  {
+    "locale": "en",
     "slug": "flag-only-apply-discount-to-the-cheapest-shipping-option-not-working-as-expected",
     "internalReference": 672567
   },
@@ -17026,6 +17031,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-importacion-de-precios-fijos-puede-informar-incorrectamente-que-se-realizo-correctamente-cuando-la-columna-sku-esta-formateada-como-un-numero",
+    "internalReference": 1454505
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-usuario-de-la-promocion-cambia-incorrectamente-el-caracter-del-apostrofo",
     "internalReference": 1353323
   },
@@ -25833,6 +25843,11 @@
     "locale": "pt",
     "slug": "a-hierarquia-de-categorias-nao-e-exibida-no-novo-formulario-de-promocao-regular",
     "internalReference": 1317779
+  },
+  {
+    "locale": "pt",
+    "slug": "a-importacao-de-precos-fixos-pode-reportar-incorretamente-sucesso-quando-a-coluna-sku-estiver-formatada-como-um-numero",
+    "internalReference": 1454505
   },
   {
     "locale": "pt",
