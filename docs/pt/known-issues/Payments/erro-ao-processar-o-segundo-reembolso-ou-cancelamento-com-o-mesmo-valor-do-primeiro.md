@@ -1,9 +1,9 @@
 ---
-title: 'Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro'
+title: 'Erro ao processar o segundo reembolso ou cancelamento com o mesmo valor do primeiro.'
 slug: erro-ao-processar-o-segundo-reembolso-ou-cancelamento-com-o-mesmo-valor-do-primeiro
 status: PUBLISHED
 createdAt: 2024-10-16T23:27:18.000Z
-updatedAt: 2026-05-12T17:35:41.000Z
+updatedAt: 2026-09-01T01:03:24.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,27 +18,30 @@ internalReference: 1118560
 
 ## Sumário
 
-Ao solicitar um segundo reembolso parcial com o mesmo valor do primeiro, o gateway retorna a seguinte mensagem:
+Ao solicitar um segundo reembolso parcial do mesmo valor do primeiro, o gateway retorna a seguinte mensagem:
 
- Mensagem: O cartão-presente já foi reembolsado.
+Mensagem: O vale-presente já foi reembolsado.
 
+Ou, se a solicitação for um segundo cancelamento parcial do mesmo valor do primeiro, o gateway retorna:
 
-Ou, ao solicitar um segundo cancelamento parcial com o mesmo valor do primeiro, o gateway retorna:
+Mensagem: "O vale-presente já foi cancelado".
 
- Mensagem: "O cartão-presente já foi cancelado"
+Embora isso seja registrado na interação, o segundo reembolso/cancelamento não é processado.
 
-
-Embora isso seja registrado na interação, o segundo reembolso/cancelamento não é efetivamente processado.
 Esse cenário é muito mais comum para o segundo reembolso/cancelamento com o mesmo valor, mas também pode ocorrer em reembolsos subsequentes, desde que o valor solicitado seja igual à soma dos reembolsos já processados.
 
 ## Simulação
 
-1. Faça uma compra exclusivamente com um cartão-presente (CP);
+1. Faça uma compra exclusivamente com um Vale-Presente (VP);
+
 2. Conclua a transação;
-3. Emita um reembolso parcial por um valor inferior à metade do pagamento total;
-4. Solicite outro reembolso pelo mesmo valor do primeiro.
+
+3. Emita um reembolso parcial de valor inferior à metade do pagamento total;
+
+4. Solicite outro reembolso do mesmo valor do primeiro.
 
 ## Workaround
 
-Para casos de reembolso, abra um ticket com o suporte para aplicar a solução alternativa interna.
+Para casos de reembolso, abra um chamado com o suporte para aplicar a solução alternativa interna.
+
 Para casos de cancelamento, cancele manualmente com seu provedor.
