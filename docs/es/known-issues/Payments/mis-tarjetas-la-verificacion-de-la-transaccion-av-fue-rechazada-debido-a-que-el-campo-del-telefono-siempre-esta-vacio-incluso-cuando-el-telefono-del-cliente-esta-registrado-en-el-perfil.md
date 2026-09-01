@@ -3,7 +3,7 @@ title: 'Mis Tarjetas - La verificación de la transacción (AV) fue rechazada de
 slug: mis-tarjetas-la-verificacion-de-la-transaccion-av-fue-rechazada-debido-a-que-el-campo-del-telefono-siempre-esta-vacio-incluso-cuando-el-telefono-del-cliente-esta-registrado-en-el-perfil
 status: PUBLISHED
 createdAt: 2026-09-01T22:33:47.000Z
-updatedAt: 2026-09-01T22:33:47.000Z
+updatedAt: 2026-09-01T22:36:41.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
