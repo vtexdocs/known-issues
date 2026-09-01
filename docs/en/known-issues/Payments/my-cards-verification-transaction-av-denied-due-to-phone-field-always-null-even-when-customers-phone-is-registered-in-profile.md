@@ -3,7 +3,7 @@ title: "My Cards - Verification transaction (AV) denied due to phone field alway
 slug: my-cards-verification-transaction-av-denied-due-to-phone-field-always-null-even-when-customers-phone-is-registered-in-profile
 status: PUBLISHED
 createdAt: 2026-09-01T22:33:47.000Z
-updatedAt: 2026-09-01T22:33:47.000Z
+updatedAt: 2026-09-01T22:36:41.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
