@@ -3,7 +3,7 @@ title: 'Meus Cartões - Transação de verificação (AV) negada devido ao campo
 slug: meus-cartoes-transacao-de-verificacao-av-negada-devido-ao-campo-de-telefone-estar-sempre-vazio-mesmo-quando-o-telefone-do-cliente-esta-cadastrado-no-perfil
 status: PUBLISHED
 createdAt: 2026-09-01T22:33:47.000Z
-updatedAt: 2026-09-01T22:33:47.000Z
+updatedAt: 2026-09-01T22:36:41.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
