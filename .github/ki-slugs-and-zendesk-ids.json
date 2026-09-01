@@ -6721,6 +6721,11 @@
   },
   {
     "locale": "en",
+    "slug": "my-cards-verification-transaction-av-denied-due-to-phone-field-always-null-even-when-customers-phone-is-registered-in-profile",
+    "internalReference": 1455107
+  },
+  {
+    "locale": "en",
     "slug": "my-credits-displays-agents-balance-not-customers-during-telesales-impersonation",
     "internalReference": 1301293
   },
@@ -16001,6 +16006,11 @@
   },
   {
     "locale": "es",
+    "slug": "mis-tarjetas-la-verificacion-de-la-transaccion-av-fue-rechazada-debido-a-que-el-campo-del-telefono-siempre-esta-vacio-incluso-cuando-el-telefono-del-cliente-esta-registrado-en-el-perfil",
+    "internalReference": 1455107
+  },
+  {
+    "locale": "es",
     "slug": "modificar-el-numero-de-caracteres-del-albaran-de-braspag",
     "internalReference": 771045
   },
@@ -24693,6 +24703,11 @@
     "locale": "pt",
     "slug": "metodo-de-arredondamento-inconsistente-do-conector-decidirv1-para-os-campos-csptgrandtotalamount-e-csittotalamount",
     "internalReference": 787367
+  },
+  {
+    "locale": "pt",
+    "slug": "meus-cartoes-transacao-de-verificacao-av-negada-devido-ao-campo-de-telefone-estar-sempre-vazio-mesmo-quando-o-telefone-do-cliente-esta-cadastrado-no-perfil",
+    "internalReference": 1455107
   },
   {
     "locale": "pt",
