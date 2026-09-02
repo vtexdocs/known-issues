@@ -5316,6 +5316,11 @@
   },
   {
     "locale": "en",
+    "slug": "dafiti-error-orders-a-task-was-canceled",
+    "internalReference": 514599
+  },
+  {
+    "locale": "en",
     "slug": "dafiti-installment-interest-incorrectly-increases-item-sellingprice-in-dafiti-orders",
     "internalReference": 1428531
   },
@@ -14308,6 +14313,11 @@
     "locale": "es",
     "slug": "dafiti-el-interes-de-las-cuotas-aumenta-incorrectamente-el-precio-de-venta-del-articulo-en-los-pedidos-de-dafiti",
     "internalReference": 1428531
+  },
+  {
+    "locale": "es",
+    "slug": "dafiti-error-en-las-ordenes-se-cancelo-una-tarea",
+    "internalReference": 514599
   },
   {
     "locale": "es",
@@ -23308,6 +23318,11 @@
     "locale": "pt",
     "slug": "dafiti-o-calculo-de-juros-parcelados-aumenta-incorretamente-o-preco-de-venda-dos-itens-em-pedidos-da-dafiti",
     "internalReference": 1428531
+  },
+  {
+    "locale": "pt",
+    "slug": "dafiti-ordens-com-erro-uma-tarefa-foi-cancelada",
+    "internalReference": 514599
   },
   {
     "locale": "pt",
