@@ -2476,6 +2476,11 @@
   },
   {
     "locale": "en",
+    "slug": "incorrect-reward-value-in-the-orderform-when-a-promotion-splits-an-item",
+    "internalReference": 1456081
+  },
+  {
+    "locale": "en",
     "slug": "incorrect-shippingestimatedate-for-order-fob",
     "internalReference": 269104
   },
@@ -12221,6 +12226,11 @@
   },
   {
     "locale": "es",
+    "slug": "valor-de-recompensa-incorrecto-en-el-formulario-de-pedido-cuando-una-promocion-divide-un-articulo",
+    "internalReference": 1456081
+  },
+  {
+    "locale": "es",
     "slug": "valor-divergente-al-combinar-la-configuracion-paymentsystemtocheckfirstinstallment-con-partidas-divididas",
     "internalReference": 766454
   },
@@ -21238,6 +21248,11 @@
     "locale": "pt",
     "slug": "valor-de-pagamento-diferente-ao-misturar-os-tipos-de-vendedores-para-o-mesmo-vendedor-em-um-carrinho",
     "internalReference": 821741
+  },
+  {
+    "locale": "pt",
+    "slug": "valor-de-recompensa-incorreto-no-formulario-de-pedido-quando-uma-promocao-divide-um-item",
+    "internalReference": 1456081
   },
   {
     "locale": "pt",
