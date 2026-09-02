@@ -52,14 +52,18 @@ function main() {
             if (!fm || !fm.internalReference) continue;
             const id = String(fm.internalReference);
             if (!groups[id]) groups[id] = [];
-            groups[id].push({ filePath, updatedAt: fm.updatedAt ? new Date(fm.updatedAt) : new Date(0) });
+            groups[id].push({
+                filePath,
+                updatedAt: fm.updatedAt ? new Date(fm.updatedAt) : new Date(0),
+                hasTitle: Boolean(fm.title && String(fm.title).trim()),
+            });
         }
 
         for (const [id, entries] of Object.entries(groups)) {
             if (entries.length <= 1) continue;
 
-            // Sort descending by updatedAt — newest first
-            entries.sort((a, b) => b.updatedAt - a.updatedAt);
+            // Prefer entries with a real title over blank ones, then sort descending by updatedAt — newest first
+            entries.sort((a, b) => (b.hasTitle - a.hasTitle) || (b.updatedAt - a.updatedAt));
 
             const [keeper, ...duplicates] = entries;
             console.log(`[${locale}] Zendesk ID ${id}: keeping ${path.relative(DOCS_DIR, keeper.filePath)}`);
