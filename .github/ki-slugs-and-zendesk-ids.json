@@ -4466,6 +4466,11 @@
   },
   {
     "locale": "en",
+    "slug": "intelligent-search-returns-products-generated-by-sku-split-with-incorrect-availability",
+    "internalReference": 1456597
+  },
+  {
+    "locale": "en",
     "slug": "intelligent-search-synonyms-does-not-recreate-deleted-synonyms",
     "internalReference": 1211321
   },
@@ -13441,6 +13446,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-busqueda-inteligente-devuelve-productos-generados-por-division-de-sku-con-disponibilidad-incorrecta",
+    "internalReference": 1456597
+  },
+  {
+    "locale": "es",
     "slug": "la-busqueda-inteligente-multilingue-no-admite-dos-variantes-del-mismo-idioma-o-jerga",
     "internalReference": 841704
   },
@@ -22243,6 +22253,11 @@
     "locale": "pt",
     "slug": "a-barra-de-pesquisa-das-configuracoes-de-redirecionamento-inteligente-da-pesquisa-diferencia-maiusculas-de-minusculas",
     "internalReference": 361894
+  },
+  {
+    "locale": "pt",
+    "slug": "a-busca-inteligente-retorna-produtos-gerados-pela-divisao-de-sku-com-disponibilidade-incorreta",
+    "internalReference": 1456597
   },
   {
     "locale": "pt",
