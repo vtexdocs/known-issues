@@ -3,7 +3,7 @@ title: 'El pedido se queda atascado en estado de pago pendiente a pesar de que l
 slug: el-pedido-se-queda-atascado-en-estado-de-pago-pendiente-a-pesar-de-que-la-transaccion-fue-aprobada-el-sistema-de-gestion-de-pedidos-muestra-un-estado-obsoleto-al-procesar-el-pago-aprobado
 status: PUBLISHED
 createdAt: 2026-09-03T16:57:14.000Z
-updatedAt: 2026-09-03T17:23:45.000Z
+updatedAt: 2026-09-03T18:24:22.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -28,4 +28,4 @@ No es posible realizar la simulación.
 
 ## Workaround
 
-Abra una incidencia con VTEX solicitando que se vuelva a enviar la notificación de pago aprobado a OMS.
+Abra una incidencia con el **Soporte Técnico**.
