@@ -3,7 +3,7 @@ title: 'Order Stuck in Payment Pending Despite Approved Transaction (OMS Reads S
 slug: order-stuck-in-payment-pending-despite-approved-transaction-oms-reads-stale-status-when-processing-paymentapproved
 status: PUBLISHED
 createdAt: 2026-09-03T16:57:14.000Z
-updatedAt: 2026-09-03T16:57:14.000Z
+updatedAt: 2026-09-03T17:04:54.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
