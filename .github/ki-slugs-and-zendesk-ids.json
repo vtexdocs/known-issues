@@ -5321,6 +5321,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazonmatch-in-some-cases-sku-reverts-to-pending-review-after-match-confirmation-with-no-indication-of-amazons-rejection-reason",
+    "internalReference": 1456640
+  },
+  {
+    "locale": "en",
     "slug": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
     "internalReference": 1438301
   },
@@ -14333,6 +14338,11 @@
     "locale": "es",
     "slug": "amazon-proceso-de-cancelacion-de-pedidos",
     "internalReference": 588456
+  },
+  {
+    "locale": "es",
+    "slug": "amazoncoincidencia-en-algunos-casos-el-sku-vuelve-a-estar-en-pendiente-de-revision-despues-de-la-confirmacion-de-la-coincidencia-sin-ninguna-indicacion-del-motivo-del-rechazo-de-amazon",
+    "internalReference": 1456640
   },
   {
     "locale": "es",
@@ -23353,6 +23363,11 @@
     "locale": "pt",
     "slug": "amazon-os-skus-inativos-ou-fora-da-politica-comercial-permanecem-publicados-correspondencianovo-anuncio-na-amazon-apos-o-conector-envialos",
     "internalReference": 1440366
+  },
+  {
+    "locale": "pt",
+    "slug": "amazonmatch-em-alguns-casos-o-sku-volta-para-aguardando-revisao-apos-a-confirmacao-da-correspondencia-sem-nenhuma-indicacao-do-motivo-da-rejeicao-da-amazon",
+    "internalReference": 1456640
   },
   {
     "locale": "pt",
