@@ -6791,6 +6791,11 @@
   },
   {
     "locale": "en",
+    "slug": "order-stuck-in-payment-pending-despite-approved-transaction-oms-reads-stale-status-when-processing-paymentapproved",
+    "internalReference": 1456295
+  },
+  {
+    "locale": "en",
     "slug": "order-stuck-in-payment-pending-despite-approved-transaction",
     "internalReference": 1343830
   },
@@ -15308,6 +15313,11 @@
     "locale": "es",
     "slug": "el-pedido-con-el-estado-verificando-factura-no-pasa-al-estado-facturado",
     "internalReference": 500245
+  },
+  {
+    "locale": "es",
+    "slug": "el-pedido-se-queda-atascado-en-estado-de-pago-pendiente-a-pesar-de-que-la-transaccion-fue-aprobada-el-sistema-de-gestion-de-pedidos-muestra-un-estado-obsoleto-al-procesar-el-pago-aprobado",
+    "internalReference": 1456295
   },
   {
     "locale": "es",
@@ -25158,6 +25168,11 @@
     "locale": "pt",
     "slug": "pedido-preso-em-verificacao-da-fatura-apos-solicitacao-de-liquidacao-com-valor-0",
     "internalReference": 1349027
+  },
+  {
+    "locale": "pt",
+    "slug": "pedido-travado-em-pagamento-pendente-apesar-da-transacao-ter-sido-aprovada-oms-le-status-obsoleto-ao-processar-pagamento-aprovado",
+    "internalReference": 1456295
   },
   {
     "locale": "pt",
