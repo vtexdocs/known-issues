@@ -3,7 +3,7 @@ title: 'Pedido travado em "Pagamento pendente" apesar da transação ter sido ap
 slug: pedido-travado-em-pagamento-pendente-apesar-da-transacao-ter-sido-aprovada-oms-le-status-obsoleto-ao-processar-pagamento-aprovado
 status: PUBLISHED
 createdAt: 2026-09-03T16:57:14.000Z
-updatedAt: 2026-09-03T17:23:45.000Z
+updatedAt: 2026-09-03T18:24:22.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -28,4 +28,4 @@ Não é possível simular.
 
 ## Workaround
 
-Abra um chamado com a VTEX solicitando que a notificação de pagamento aprovado seja reenviada para a OMS.
+Abra um chamado com o **Suporte ao Produto**.
