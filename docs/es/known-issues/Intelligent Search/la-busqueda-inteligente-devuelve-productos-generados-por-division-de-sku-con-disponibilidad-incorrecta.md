@@ -3,7 +3,7 @@ title: 'La búsqueda inteligente devuelve productos generados por división de S
 slug: la-busqueda-inteligente-devuelve-productos-generados-por-division-de-sku-con-disponibilidad-incorrecta
 status: PUBLISHED
 createdAt: 2026-09-03T23:18:59.000Z
-updatedAt: 2026-09-03T23:19:41.000Z
+updatedAt: 2026-09-03T23:18:59.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
