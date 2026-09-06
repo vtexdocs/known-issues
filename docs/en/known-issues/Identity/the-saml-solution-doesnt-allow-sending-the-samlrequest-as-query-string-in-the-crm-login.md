@@ -38,7 +38,7 @@ An error message is shown informing the SAMLRequest parameter is necessary.
 ## Workaround
 
 
-The user needs to select another kind of authentication, such as login and password or access code.
+The user must create an app in the “My Apps” section within Microsoft; this app does send the query as a string. And access it through that section, not directly in VTEX.
 
 
 
