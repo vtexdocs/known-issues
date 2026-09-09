@@ -7946,6 +7946,11 @@
   },
   {
     "locale": "en",
+    "slug": "fixed-price-updates-may-overwrite-concurrent-changes",
+    "internalReference": 1458558
+  },
+  {
+    "locale": "en",
     "slug": "fixed-prices-import-may-incorrectly-report-success-when-sku-column-is-formatted-as-a-number",
     "internalReference": 1454505
   },
@@ -17161,6 +17166,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-actualizaciones-de-precio-fijo-pueden-sobrescribir-los-cambios-simultaneos",
+    "internalReference": 1458558
+  },
+  {
+    "locale": "es",
     "slug": "las-condiciones-del-catalogo-de-promociones-se-aplican-a-skucomponent-aunque-solo-anada-skukit-a-la-cesta",
     "internalReference": 1085500
   },
@@ -26033,6 +26043,11 @@
     "locale": "pt",
     "slug": "as-alteracoes-no-modo-de-arredondamento-nao-funcionam-para-descontos-percentuais",
     "internalReference": 1192809
+  },
+  {
+    "locale": "pt",
+    "slug": "as-atualizacoes-de-preco-fixo-podem-sobrescrever-alteracoes-simultaneas",
+    "internalReference": 1458558
   },
   {
     "locale": "pt",
