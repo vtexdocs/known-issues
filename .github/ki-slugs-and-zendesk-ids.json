@@ -5331,6 +5331,11 @@
   },
   {
     "locale": "en",
+    "slug": "centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads",
+    "internalReference": 1459896
+  },
+  {
+    "locale": "en",
     "slug": "dafiti-error-orders-a-task-was-canceled",
     "internalReference": 514599
   },
@@ -14348,6 +14353,11 @@
     "locale": "es",
     "slug": "amazoncoincidencia-en-algunos-casos-el-sku-vuelve-a-estar-en-pendiente-de-revision-despues-de-la-confirmacion-de-la-coincidencia-sin-ninguna-indicacion-del-motivo-del-rechazo-de-amazon",
     "internalReference": 1456640
+  },
+  {
+    "locale": "es",
+    "slug": "centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api",
+    "internalReference": 1459896
   },
   {
     "locale": "es",
@@ -23378,6 +23388,11 @@
     "locale": "pt",
     "slug": "amazonmatch-em-alguns-casos-o-sku-volta-para-aguardando-revisao-apos-a-confirmacao-da-correspondencia-sem-nenhuma-indicacao-do-motivo-da-rejeicao-da-amazon",
     "internalReference": 1456640
+  },
+  {
+    "locale": "pt",
+    "slug": "centauroki-o-mapeador-de-arquivos-tem-um-limite-de-tamanho-de-arquivo-de-1-mb-para-uploads-via-api",
+    "internalReference": 1459896
   },
   {
     "locale": "pt",
