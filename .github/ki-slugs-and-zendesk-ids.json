@@ -5461,6 +5461,11 @@
   },
   {
     "locale": "en",
+    "slug": "delayed-paymentapproved-transition-for-fastautoapproval-payment-methods-workflow-not-ready-when-authorization-notification-arrives",
+    "internalReference": 1460238
+  },
+  {
+    "locale": "en",
     "slug": "delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice",
     "internalReference": 547053
   },
@@ -15076,6 +15081,11 @@
   },
   {
     "locale": "es",
+    "slug": "transicion-retrasada-a-pago-aprobado-para-metodos-de-pago-de-aprobacion-rapidaautomatica-el-flujo-de-trabajo-no-esta-listo-cuando-llega-la-notificacion-de-autorizacion",
+    "internalReference": 1460238
+  },
+  {
+    "locale": "es",
     "slug": "two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull",
     "internalReference": 680919
   },
@@ -24098,6 +24108,11 @@
     "locale": "pt",
     "slug": "transacao-de-compartilhamento-de-ordens-divididas-com-o-change-seller-o-fluxo-de-status-e-interrompido",
     "internalReference": 1082298
+  },
+  {
+    "locale": "pt",
+    "slug": "transicao-de-pagamento-aprovado-atrasada-para-metodos-de-pagamento-com-aprovacao-rapidaautomatica-fluxo-de-trabalho-nao-esta-pronto-quando-a-notificacao-de-autorizacao-chega",
+    "internalReference": 1460238
   },
   {
     "locale": "pt",
