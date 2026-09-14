@@ -3,7 +3,7 @@ title: 'Assinaturas quando o vendedor é um Ponto de Coleta e não possui um dos
 slug: assinaturas-quando-o-vendedor-e-um-ponto-de-coleta-e-nao-possui-um-dos-skus
 status: PUBLISHED
 createdAt: 2022-09-27T22:17:38.000Z
-updatedAt: 2026-09-14T22:36:24.000Z
+updatedAt: 2026-09-14T22:37:11.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
