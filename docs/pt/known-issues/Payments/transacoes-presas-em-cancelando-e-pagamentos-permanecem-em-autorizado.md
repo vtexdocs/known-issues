@@ -3,7 +3,7 @@ title: 'Transações presas em "Cancelando" e pagamentos permanecem em "Autoriza
 slug: transacoes-presas-em-cancelando-e-pagamentos-permanecem-em-autorizado
 status: PUBLISHED
 createdAt: 2025-10-17T15:42:19.000Z
-updatedAt: 2026-09-14T22:02:49.000Z
+updatedAt: 2026-09-14T22:07:42.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
