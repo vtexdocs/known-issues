@@ -3,7 +3,7 @@ title: 'Reembolso parcial registrado pero nunca enviado al proveedor (impuesto e
 slug: reembolso-parcial-registrado-pero-nunca-enviado-al-proveedor-impuesto-externo
 status: PUBLISHED
 createdAt: 2026-08-31T19:20:00.000Z
-updatedAt: 2026-08-31T19:20:00.000Z
+updatedAt: 2026-09-15T00:50:19.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,44 +18,41 @@ internalReference: 1454215
 
 ## Sumario
 
-En las tiendas que utilizan un proveedor de impuestos externo, el reembolso de un subpedido del vendedor ya facturado falla dentro de la pasarela de pago y nunca llega al conector. El comprador no recibe el reembolso; la transacción puede permanecer en estado de «Liquidación», y se registra un reembolso por el valor total como una «notificación por correo electrónico», mientras que el total de reembolsos permanece en «0», por lo que parece que el reembolso se realizó.
+En las tiendas que utilizan un proveedor de impuestos externo, el reembolso de un subpedido ya facturado a un vendedor falla dentro de la pasarela de pago. No se recibe ninguna información del proveedor de pagos y el comprador no recibe el reembolso; sin embargo, se registra un reembolso por el importe total como notificación por correo electrónico, con un total reembolsado de cero, por lo que parece que la transacción se realizó correctamente. La transacción puede permanecer en estado de «Liquidación».
 
-En lugar de reutilizar la distribución de destinatarios acordada en la autorización, la pasarela de pago la reconstruye para el reembolso a partir de la suma de las líneas del carrito, que excluye el impuesto proporcionado externamente. Dado que esta suma es menor que el importe reembolsado, las participaciones se incrementan; en la práctica, solo la del vendedor, ya que la participación del mercado es simplemente el resto y se reduce en la misma cantidad. El vendedor vuelve entonces a su importe acordado, el mercado nunca se recalcula y la diferencia queda sin destinatario.
+Causa: la pasarela de pago recalcula cómo dividir el reembolso entre la plataforma y el vendedor, y este recálculo no tiene en cuenta el impuesto externo. Abona un importe superior al del vendedor y luego lo corrige, pero no a la plataforma, por lo que las partes ya no suman el importe a reembolsar y la pasarela rechaza su propia solicitud: «El valor en destinatarios (xx.xx) es diferente del valor de la operación (xx.xx)».
 
-**Resultado esperado:** El array de destinatarios totaliza el importe reembolsado y el reembolso se envía al conector. **Real:** El total es menor y la pasarela rechaza su propia solicitud con `ValidationException: El valor en destinatarios (xx.xx) es diferente del valor de la operación (xx.xx)`.
-
-El mismo subpedido reembolsado mediante una cancelación, antes de la facturación, genera una matriz correcta y se procesa con normalidad; la factura no es la causa, sino que simplemente redirige la operación a la ruta de reembolso, la única que escala las participaciones.
+Cancelar el pedido antes de facturarlo permite realizar el reembolso normalmente.
 
 ## Simulación
 
-**Requisitos previos**
+### Cómo reconocerlo
 
-- Cuenta de Marketplace con `nativeSplitEnabled: True` en la transacción y un conector que utilice el Protocolo de Proveedor de Pagos con división.
+- El reembolso de un pedido dividido nunca llegó al comprador, y el conector indica que no se recibió ninguna solicitud.
 
-- Campo de transacción `postPurchaseOperationMode` = `Total` o `Retained` (ambos se corresponden con la estrategia afectada). `Partial` utiliza una estrategia diferente.
+- La transacción muestra un reembolso por el importe total como **notificación por correo electrónico**, pero el total reembolsado sigue siendo cero.
 
-- Tienda configurada con un **proveedor de impuestos externo**, de modo que los artículos del carrito tengan `"tax": 0` y el impuesto aparezca solo en las entradas de `priceTags` (por ejemplo, `TAXHUB@STATE | ... | Impuesto General sobre Ventas y Uso`). El artículo no debe tener la **clave** `totalTax` en el campo `cart` de la transacción.
+- El impuesto de la tienda proviene de un proveedor externo, y el importe faltante es similar al impuesto del subpedido.
 
-- Al menos un artículo del vendedor con una `commission` distinta de cero.
+###
 
-**Pasos**
+### Pasos
+Se necesita una cuenta de marketplace habilitada para pedidos divididos, una tienda con un proveedor de impuestos externo y un artículo de vendedor externo con comisión.
 
-1. En una tienda cuyos impuestos provienen de un proveedor externo, realice un pedido que combine un artículo vendido por la propia plataforma con otro vendido por un tercero con un acuerdo de comisión. El impuesto debe aparecer en la etiqueta de precio del artículo, no en el precio del artículo, por lo que el total del subpedido del vendedor será superior al precio del artículo más los gastos de envío.
+1. Realice un pedido que combine un artículo del marketplace con un artículo de un vendedor externo, con una comisión.
 
-2. Permita que se procese el pago del pedido para que el subpedido del vendedor sea facturable. La división acordada en este punto se guarda en la transacción y sirve como referencia para la posterior verificación del reembolso.
+2. Permita que se procese el pago.
 
-3. En la gestión de pedidos de la cuenta del vendedor, inicie el procesamiento del subpedido.
+3. En la cuenta del vendedor, inicie el procesamiento del subpedido.
 
-4. Facture el subpedido del vendedor por su valor total (factura de venta, tipo: Salida).
+4. Facture el importe total (factura de venta).
 
-5. Espere hasta que el subpedido del vendedor aparezca como facturado. Los pasos 3 y 5 son importantes: facturar mientras el subpedido aún está en estado "listo para procesar" adjunta el paquete sin avanzar el pedido, y la devolución en el siguiente paso se rechaza con el mensaje "pedido sin valor facturado".
+5. Espere a que aparezca como facturada. Facturar antes de iniciar el procesamiento provoca que la devolución sea rechazada con el mensaje "pedido sin valor facturado".
 
-6. Registrar la devolución del subpedido del vendedor por el mismo valor: una factura de devolución, tipo: Entrada. Esta es la acción que activa el reembolso y donde se produce el error.
+6. Registre la devolución por el mismo importe (factura de devolución). El reembolso falla en este punto.
 
-**Resultado esperado:** Se envía un reembolso del valor total del subpedido del vendedor al conector y `totalRefunds` aumenta.
-
-**Resultado real:** El valor en destinatarios (<A>) es diferente del valor de la operación (<B>) con `<A> < <B>`, `totalRefunds` permanece en `0`, y el reembolso se registra con `tipo: "notificación por correo electrónico"` y `connectorResponse: null`. La diferencia `<B> − <A>` es la parte que se le descontó al vendedor y que nunca se devolvió al mercado.
+**Resultado:** El reembolso se rechaza, el total reembolsado permanece en cero y solo se registra una notificación por correo electrónico.
 
 ## Workaround
 
-No hay ninguna solución alternativa disponible.
+No existe ninguna solución alternativa.
