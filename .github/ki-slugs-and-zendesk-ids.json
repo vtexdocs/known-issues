@@ -15106,7 +15106,7 @@
   },
   {
     "locale": "es",
-    "slug": "valor-incorrecto-en-la-definicion-de-pricedefinition-en-la-cadena-de-pedidos-de-un-mercado-multinivel",
+    "slug": "valor-incorrecto-para-pricedefinition-en-el-orden-de-la-cadena-para-un-mercado-multinivel",
     "internalReference": 663203
   },
   {
@@ -24146,7 +24146,7 @@
   },
   {
     "locale": "pt",
-    "slug": "valor-incorreto-para-a-definicao-de-preco-na-ordem-da-cadeia-de-um-marketplace-multinivel",
+    "slug": "valor-incorreto-para-a-definicao-de-preco-na-ordem-em-cadeia-para-um-marketplace-multinivel",
     "internalReference": 663203
   },
   {
