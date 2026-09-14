@@ -5936,6 +5936,11 @@
   },
   {
     "locale": "en",
+    "slug": "subscription-dashboard-gets-refreshed-repeatedly",
+    "internalReference": 570688
+  },
+  {
+    "locale": "en",
     "slug": "subscription-event-history-out-of-order",
     "internalReference": 872697
   },
@@ -14568,6 +14573,11 @@
     "locale": "es",
     "slug": "el-informe-de-suscriptores-no-muestra-correctamente-las-suscripciones-activas",
     "internalReference": 587556
+  },
+  {
+    "locale": "es",
+    "slug": "el-panel-de-suscripcion-se-actualiza-repetidamente",
+    "internalReference": 570688
   },
   {
     "locale": "es",
@@ -23858,6 +23868,11 @@
     "locale": "pt",
     "slug": "o-modelo-vtexcommerceorderchangedv2-nao-pode-enviar-o-campo-reason-como-na-versao-1-de-changeorders",
     "internalReference": 1290946
+  },
+  {
+    "locale": "pt",
+    "slug": "o-painel-de-controle-de-assinaturas-e-atualizado-repetidamente",
+    "internalReference": 570688
   },
   {
     "locale": "pt",
