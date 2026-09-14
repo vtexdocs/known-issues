@@ -3,7 +3,7 @@ title: 'Transactions stuck in "Canceling" and payments remain in "Authorized"'
 slug: transactions-stuck-in-canceling-and-payments-remain-in-authorized
 status: PUBLISHED
 createdAt: 2025-10-17T15:42:19.000Z
-updatedAt: 2026-09-14T22:02:49.000Z
+updatedAt: 2026-09-14T22:07:42.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
