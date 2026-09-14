@@ -2,15 +2,15 @@
 title: 'Subscription event history out of order'
 slug: subscription-event-history-out-of-order
 status: PUBLISHED
-createdAt: 2023-08-01T18:53:08.000Z
-updatedAt: 2023-08-01T18:53:08.000Z
+createdAt: 2023-08-01T21:53:08.000Z
+updatedAt: 2026-09-14T22:47:37.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: subscription-event-history-out-of-order
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 872697
 ---
 
