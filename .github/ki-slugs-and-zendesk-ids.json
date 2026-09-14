@@ -15916,7 +15916,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-transacciones-se-quedan-en-cancelando-y-los-pagos-siguen-en-autorizados",
+    "slug": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizados",
     "internalReference": 1309418
   },
   {
@@ -25421,7 +25421,7 @@
   },
   {
     "locale": "pt",
-    "slug": "transacoes-presas-no-status-cancelando-e-pagamentos-permanecem-no-status-autorizado",
+    "slug": "transacoes-presas-em-cancelando-e-pagamentos-permanecem-em-autorizado",
     "internalReference": 1309418
   },
   {
