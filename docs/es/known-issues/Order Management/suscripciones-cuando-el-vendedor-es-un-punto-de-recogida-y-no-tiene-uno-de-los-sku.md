@@ -3,7 +3,7 @@ title: 'Suscripciones cuando el vendedor es un punto de recogida y no tiene uno 
 slug: suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-uno-de-los-sku
 status: PUBLISHED
 createdAt: 2022-09-27T22:17:38.000Z
-updatedAt: 2026-09-14T22:36:24.000Z
+updatedAt: 2026-09-14T22:37:11.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
