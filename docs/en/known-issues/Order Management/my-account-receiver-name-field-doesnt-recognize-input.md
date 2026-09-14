@@ -3,14 +3,14 @@ title: "My Account - Receiver Name field doesn't recognize input."
 slug: my-account-receiver-name-field-doesnt-recognize-input
 status: PUBLISHED
 createdAt: 2022-04-28T15:54:57.000Z
-updatedAt: 2026-08-06T15:14:55.000Z
+updatedAt: 2026-09-14T23:01:11.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: my-account-receiver-name-field-doesnt-recognize-input
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 568527
 ---
 
