@@ -2,15 +2,15 @@
 title: 'Issues with My Account links'
 slug: issues-with-my-account-links
 status: PUBLISHED
-createdAt: 2022-02-11T13:39:51.000Z
-updatedAt: 2023-07-03T17:26:37.000Z
+createdAt: 2022-02-11T16:39:51.000Z
+updatedAt: 2026-09-14T23:00:34.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: issues-with-my-account-links
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 522514
 ---
 
