@@ -15026,6 +15026,11 @@
   },
   {
     "locale": "es",
+    "slug": "reemplazar-pedidos-con-diferentes-canales-de-venta",
+    "internalReference": 982965
+  },
+  {
+    "locale": "es",
     "slug": "retraso-en-el-registro-de-cancelreason-en-el-json-del-pedido",
     "internalReference": 792650
   },
@@ -15073,11 +15078,6 @@
     "locale": "es",
     "slug": "suscripciones-no-ejecutadas-debido-a-un-error-en-la-indexacion-de-datos-o-a-un-error-en-la-consulta-de-datos-maestros",
     "internalReference": 961526
-  },
-  {
-    "locale": "es",
-    "slug": "sustitucion-de-pedidos-con-un-canal-de-venta-diferente",
-    "internalReference": 982965
   },
   {
     "locale": "es",
@@ -24106,7 +24106,7 @@
   },
   {
     "locale": "pt",
-    "slug": "substituicao-de-pedidos-por-meio-de-um-canal-de-vendas-diferente",
+    "slug": "substituicao-de-pedidos-com-canal-de-vendas-diferente",
     "internalReference": 982965
   },
   {
