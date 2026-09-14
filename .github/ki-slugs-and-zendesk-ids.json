@@ -15046,7 +15046,7 @@
   },
   {
     "locale": "es",
-    "slug": "suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-una-de-las-sku",
+    "slug": "suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-uno-de-los-sku",
     "internalReference": 666701
   },
   {
@@ -23561,7 +23561,7 @@
   },
   {
     "locale": "pt",
-    "slug": "assinaturas-quando-o-vendedor-e-um-pickup-point-e-nao-tem-um-dos-skus",
+    "slug": "assinaturas-quando-o-vendedor-e-um-ponto-de-coleta-e-nao-possui-um-dos-skus",
     "internalReference": 666701
   },
   {
