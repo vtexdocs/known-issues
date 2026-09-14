@@ -14606,7 +14606,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-valor-del-precio-sku-se-muestra-incorrectamente-en-el-detalle-de-mi-pedido",
+    "slug": "el-valor-del-precio-del-sku-se-muestra-incorrectamente-en-los-detalles-de-mi-pedido",
     "internalReference": 1171863
   },
   {
@@ -23901,6 +23901,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-valor-do-preco-do-sku-esta-sendo-exibido-incorretamente-nos-detalhes-do-meu-pedido",
+    "internalReference": 1171863
+  },
+  {
+    "locale": "pt",
     "slug": "ocorreu-um-erro-ao-adicionar-informacoes-de-rastreamento",
     "internalReference": 409225
   },
@@ -24103,11 +24108,6 @@
     "locale": "pt",
     "slug": "valor-divergente-do-pedido-entre-o-marketplace-e-o-vendedor-ao-usar-substituicao-de-preco-e-promocoes",
     "internalReference": 756629
-  },
-  {
-    "locale": "pt",
-    "slug": "valor-do-preco-da-sku-sendo-exibido-incorretamente-nos-detalhes-do-meu-pedido",
-    "internalReference": 1171863
   },
   {
     "locale": "pt",
