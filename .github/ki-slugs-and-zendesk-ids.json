@@ -521,6 +521,11 @@
   },
   {
     "locale": "en",
+    "slug": "saving-cms-content-in-a-nondefault-binding-locale-can-silently-overwrite-the-defaultlocale-content-and-hide-the-correct-translation",
+    "internalReference": 1460967
+  },
+  {
+    "locale": "en",
     "slug": "scheduled-banners-doesnt-work-properly",
     "internalReference": 400194
   },
@@ -9478,6 +9483,11 @@
     "locale": "es",
     "slug": "fallo-de-validacion-de-esquema-para-tipos-personalizados-en-headless-cms",
     "internalReference": 903687
+  },
+  {
+    "locale": "es",
+    "slug": "guardar-el-contenido-del-cms-en-una-configuracion-regional-de-enlace-distinta-a-la-predeterminada-puede-sobrescribir-silenciosamente-el-contenido-de-la-configuracion-regional-predeterminada-y-ocultar-la-traduccion-correcta",
+    "internalReference": 1460967
   },
   {
     "locale": "es",
@@ -18613,6 +18623,11 @@
     "locale": "pt",
     "slug": "remover-uma-atualizacao-de-uma-versao-pode-criar-um-rascunho-com-conteudo-incompleto",
     "internalReference": 1430344
+  },
+  {
+    "locale": "pt",
+    "slug": "salvar-conteudo-do-cms-em-uma-localidade-de-vinculacao-diferente-da-padrao-pode-sobrescrever-silenciosamente-o-conteudo-da-localidade-padrao-e-ocultar-a-traducao-correta",
+    "internalReference": 1460967
   },
   {
     "locale": "pt",
