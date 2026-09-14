@@ -14446,6 +14446,11 @@
   },
   {
     "locale": "es",
+    "slug": "al-compartir-la-transaccion-de-ordenes-divididas-con-el-cambio-de-vendedor-el-flujo-de-estado-esta-roto",
+    "internalReference": 1082298
+  },
+  {
+    "locale": "es",
     "slug": "al-consultar-mis-pedidos-el-nombre-que-aparece-es-el-del-productname-sin-la-informacion-del-sku-name",
     "internalReference": 694809
   },
@@ -14928,11 +14933,6 @@
     "locale": "es",
     "slug": "orden-de-pago-factura-bancaria-boleto-realizada-moip",
     "internalReference": 376951
-  },
-  {
-    "locale": "es",
-    "slug": "ordenes-divididas-compartiendo-transaccion-con-vendedor-de-cambios-el-flujo-de-estado-esta-roto",
-    "internalReference": 1082298
   },
   {
     "locale": "es",
@@ -23566,6 +23566,11 @@
   },
   {
     "locale": "pt",
+    "slug": "ao-dividir-pedidos-compartilhando-transacoes-com-a-alteracao-do-vendedor-o-fluxo-de-status-esta-interrompido",
+    "internalReference": 1082298
+  },
+  {
+    "locale": "pt",
     "slug": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica",
     "internalReference": 1433311
   },
@@ -24108,11 +24113,6 @@
     "locale": "pt",
     "slug": "substituicao-de-pedidos-com-canal-de-vendas-diferente",
     "internalReference": 982965
-  },
-  {
-    "locale": "pt",
-    "slug": "transacao-de-compartilhamento-de-ordens-divididas-com-o-change-seller-o-fluxo-de-status-e-interrompido",
-    "internalReference": 1082298
   },
   {
     "locale": "pt",
