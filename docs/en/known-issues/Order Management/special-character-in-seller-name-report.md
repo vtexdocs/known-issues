@@ -2,15 +2,15 @@
 title: 'Special character in Seller name Report'
 slug: special-character-in-seller-name-report
 status: PUBLISHED
-createdAt: 2023-02-17T13:18:06.000Z
-updatedAt: 2023-02-17T13:18:06.000Z
+createdAt: 2023-02-17T16:18:06.000Z
+updatedAt: 2026-09-14T22:45:30.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: special-character-in-seller-name-report
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 756243
 ---
 
