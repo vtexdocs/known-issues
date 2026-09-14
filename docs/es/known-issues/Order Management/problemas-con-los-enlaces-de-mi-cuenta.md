@@ -1,16 +1,16 @@
 ---
-title: 'Problemas con los enlaces de «Mi cuenta»'
+title: 'Problemas con los enlaces de Mi cuenta'
 slug: problemas-con-los-enlaces-de-mi-cuenta
 status: PUBLISHED
-createdAt: 2022-02-11T13:39:51.000Z
-updatedAt: 2023-07-03T17:26:37.000Z
+createdAt: 2022-02-11T16:39:51.000Z
+updatedAt: 2026-09-14T23:00:34.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: issues-with-my-account-links
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 522514
 ---
 
@@ -18,15 +18,14 @@ internalReference: 522514
 
 ## Sumario
 
-Los enlaces de «Mi cuenta» (menú de cabecera) no funcionan si el usuario ya se encuentra en la sección «Mi cuenta»
+Los enlaces en Mi Cuenta (menú superior) no funcionan si el usuario ya se encuentra en la sección Mi Cuenta.
 
 ## Simulación
 
-Acceder a la página «Mi cuenta»
-Hacer clic en el enlace del menú de cabecera (por ejemplo, la opción «Pedidos»)
-Comprobar que la URL cambia, pero la página no se carga
+Acceso a la página Mi Cuenta
+Haga clic en el enlace del menú superior (por ejemplo, la opción Pedidos).
+Verifique que la URL se modifica, pero la página no carga.
 
 ## Workaround
 
-provisional**
-No hay ninguna solución provisional.
+No existe ninguna solución alternativa.
