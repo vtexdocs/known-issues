@@ -14546,7 +14546,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-historial-de-eventos-de-la-suscripcion-no-esta-en-orden",
+    "slug": "el-historial-de-eventos-de-la-suscripcion-esta-fuera-de-orden",
     "internalReference": 872697
   },
   {
@@ -23666,11 +23666,6 @@
   },
   {
     "locale": "pt",
-    "slug": "historico-de-eventos-de-assinatura-fora-de-ordem",
-    "internalReference": 872697
-  },
-  {
-    "locale": "pt",
     "slug": "inconsistencia-na-exibicao-da-origem-dos-cancelamentos-de-pedidos-na-api-get-orders",
     "internalReference": 1249934
   },
@@ -23823,6 +23818,11 @@
     "locale": "pt",
     "slug": "o-fluxo-de-pedidos-do-fulfillmentvendedor-progride-independentemente-de-ter-o-sinalizador-de-pedido-incompleto-iscompletedfalse-no-pedido-do-market",
     "internalReference": 345526
+  },
+  {
+    "locale": "pt",
+    "slug": "o-historico-de-eventos-da-assinatura-esta-fora-de-ordem",
+    "internalReference": 872697
   },
   {
     "locale": "pt",
