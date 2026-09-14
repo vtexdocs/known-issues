@@ -2,15 +2,15 @@
 title: 'Wrong value for priceDefinition in the chain order for a multilevel marketplace'
 slug: wrong-value-for-pricedefinition-in-the-chain-order-for-a-multilevel-marketplace
 status: PUBLISHED
-createdAt: 2022-09-22T00:13:24.000Z
-updatedAt: 2023-11-27T13:51:29.000Z
+createdAt: 2022-09-22T03:13:24.000Z
+updatedAt: 2026-09-14T22:58:06.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: wrong-value-for-pricedefinition-in-the-chain-order-for-a-multilevel-marketplace
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 663203
 ---
 
