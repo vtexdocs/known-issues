@@ -5971,6 +5971,11 @@
   },
   {
     "locale": "en",
+    "slug": "the-automatic-tracking-update-is-not-working-properly",
+    "internalReference": 301423
+  },
+  {
+    "locale": "en",
     "slug": "the-delivery-split-will-not-be-displayed-in-the-ui-or-in-my-orders-when-the-order-has-the-same-shipping-method",
     "internalReference": 495352
   },
@@ -14698,6 +14703,11 @@
     "locale": "es",
     "slug": "itens-devueltos-con-el-mismo-skuid-en-diferentes-arrays-uniqueid-no-es-visible-correctamente",
     "internalReference": 1050294
+  },
+  {
+    "locale": "es",
+    "slug": "la-actualizacion-automatica-del-seguimiento-no-funciona-correctamente",
+    "internalReference": 301423
   },
   {
     "locale": "es",
@@ -23458,6 +23468,11 @@
     "locale": "pt",
     "slug": "os-valores-minimo-e-maximo-da-logistica-afetam-o-fluxo-de-alocacao",
     "internalReference": 1227934
+  },
+  {
+    "locale": "pt",
+    "slug": "a-atualizacao-automatica-do-rastreamento-nao-esta-funcionando-corretamente",
+    "internalReference": 301423
   },
   {
     "locale": "pt",
