@@ -2,15 +2,15 @@
 title: 'Order Authorization lessThan 100 goes with the flow'
 slug: order-authorization-lessthan-100-goes-with-the-flow
 status: PUBLISHED
-createdAt: 2024-02-16T13:43:49.000Z
-updatedAt: 2024-02-16T13:43:48.000Z
+createdAt: 2024-02-16T16:43:49.000Z
+updatedAt: 2026-09-14T22:48:29.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: order-authorization-lessthan-100-goes-with-the-flow
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 983031
 ---
 
