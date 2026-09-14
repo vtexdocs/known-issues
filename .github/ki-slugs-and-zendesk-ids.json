@@ -4931,18 +4931,8 @@
   },
   {
     "locale": "en",
-    "slug": "minimum-of-items-can-be-sent-as-0-through-the-field-numberofitemspershipment-in-api",
-    "internalReference": 1149818
-  },
-  {
-    "locale": "en",
     "slug": "modal-as-generic-reason-even-this-type-of-modal-are-configured-ok",
     "internalReference": 488339
-  },
-  {
-    "locale": "en",
-    "slug": "modal-values-with-different-texts-between-api-and-logistics-ui",
-    "internalReference": 775800
   },
   {
     "locale": "en",
@@ -4988,11 +4978,6 @@
     "locale": "en",
     "slug": "shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui",
     "internalReference": 925914
-  },
-  {
-    "locale": "en",
-    "slug": "shipping-policy-that-does-not-deliver-on-weekends-is-being-considered",
-    "internalReference": 594828
   },
   {
     "locale": "en",
@@ -13921,11 +13906,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-minimo-de-articulos-se-puede-enviar-como-0-a-traves-del-campo-numberofitemspershipment-en-api",
-    "internalReference": 1149818
-  },
-  {
-    "locale": "es",
     "slug": "el-permiso-de-acceso-total-al-inventario-de-logistica-no-funciono-como-se-esperaba",
     "internalReference": 482353
   },
@@ -14076,11 +14056,6 @@
   },
   {
     "locale": "es",
-    "slug": "se-esta-estudiando-una-politica-de-envios-que-no-entregue-los-fines-de-semana",
-    "internalReference": 594828
-  },
-  {
-    "locale": "es",
     "slug": "simulacion-no-es-posible-encontrar-productos-del-catalogo-v2-en-la-pagina-de-simulacion-de-envio",
     "internalReference": 488362
   },
@@ -14108,11 +14083,6 @@
     "locale": "es",
     "slug": "valor-de-availablequantity-incoherente-debido-al-gran-numero-de-rutas-creadas-para-entregar-el-articulo",
     "internalReference": 1034211
-  },
-  {
-    "locale": "es",
-    "slug": "valores-de-los-cuadros-de-dialogo-con-textos-diferentes-entre-la-api-y-la-interfaz-de-usuario-de-logistica",
-    "internalReference": 775800
   },
   {
     "locale": "es",
@@ -22941,11 +22911,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-politica-de-remessa-que-nao-entrega-nos-finais-de-semana-esta-sendo-considerada",
-    "internalReference": 594828
-  },
-  {
-    "locale": "pt",
     "slug": "a-priorizacao-de-rotas-nao-oferece-a-melhor-opcao-em-termos-de-quantidade-de-pacotes-e-itens",
     "internalReference": 927747
   },
@@ -23076,11 +23041,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-minimo-de-itens-pode-ser-enviado-como-0-por-meio-do-campo-numberofitemspershipment-na-api",
-    "internalReference": 1149818
-  },
-  {
-    "locale": "pt",
     "slug": "o-modelo-relatoriodeimportacaodeestoque-nao-suporta-multilinguagem",
     "internalReference": 585906
   },
@@ -23148,11 +23108,6 @@
     "locale": "pt",
     "slug": "valor-de-availablequantity-inconsistente-devido-ao-grande-numero-de-rotas-criadas-para-entregar-o-item",
     "internalReference": 1034211
-  },
-  {
-    "locale": "pt",
-    "slug": "valores-de-modais-com-textos-diferentes-entre-a-api-e-a-interface-de-usuario-de-logistica",
-    "internalReference": 775800
   },
   {
     "locale": "pt",
