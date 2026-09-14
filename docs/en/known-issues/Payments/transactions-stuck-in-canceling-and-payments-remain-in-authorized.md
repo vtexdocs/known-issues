@@ -3,7 +3,7 @@ title: 'Transactions stuck in "Canceling" and payments remain in "Authorized"'
 slug: transactions-stuck-in-canceling-and-payments-remain-in-authorized
 status: PUBLISHED
 createdAt: 2025-10-17T15:42:19.000Z
-updatedAt: 2026-06-19T22:52:39.000Z
+updatedAt: 2026-09-14T22:02:49.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -24,4 +24,4 @@ It is not possible to simulate.
 
 ## Workaround
 
-Cancel the order manually on the OMS to prevent any issues with inventory management.
+There is no workaround.
