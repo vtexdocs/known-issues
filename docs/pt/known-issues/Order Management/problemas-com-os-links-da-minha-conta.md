@@ -1,16 +1,16 @@
 ---
-title: 'Problemas com os links da minha conta'
+title: 'Problemas com os links da Minha Conta'
 slug: problemas-com-os-links-da-minha-conta
 status: PUBLISHED
-createdAt: 2022-02-11T13:39:51.000Z
-updatedAt: 2023-07-03T17:26:37.000Z
+createdAt: 2022-02-11T16:39:51.000Z
+updatedAt: 2026-09-14T23:00:34.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: issues-with-my-account-links
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 522514
 ---
 
@@ -18,13 +18,13 @@ internalReference: 522514
 
 ## Sumário
 
-Os links em “Minha conta” (menu do cabeçalho) não funcionam se o usuário já estiver na seção “Minha conta”
+Os links em Minha Conta (menu de cabeçalho) não funcionam se o usuário já estiver na seção Minha Conta.
 
 ## Simulação
 
-Acessar a página “Minha conta”
-Clicar no link do menu do cabeçalho (como a opção “Pedidos”, por exemplo)
-Verificar se a URL é alterada, mas a página não carrega
+Acessando a página Minha conta
+Clicar no link do menu de cabeçalho (como a opção Pedidos, por exemplo)
+Verificar se a URL é modificada, mas a página não carrega.
 
 ## Workaround
 
