@@ -2,15 +2,15 @@
 title: 'Replacing orders with different Sales Channel'
 slug: replacing-orders-with-different-sales-channel
 status: PUBLISHED
-createdAt: 2024-02-16T13:02:01.000Z
-updatedAt: 2024-02-16T13:05:06.000Z
+createdAt: 2024-02-16T16:02:01.000Z
+updatedAt: 2026-09-14T23:01:50.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: replacing-orders-with-different-sales-channel
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 982965
 ---
 
