@@ -3506,7 +3506,7 @@
   },
   {
     "locale": "en",
-    "slug": "fbe-plppdp-images-intermittently-fail-to-load-when-meta-facebook-business-extension-fbe-is-enabled",
+    "slug": "fbe-plppdp-images-intermittently-fail-to-load-when-meta",
     "internalReference": 1382819
   },
   {
@@ -12546,7 +12546,7 @@
   },
   {
     "locale": "es",
-    "slug": "fbe-las-imagenes-plppdp-a-veces-no-se-cargan-cuando-esta-activada-la-extension-meta-facebook-business-fbe",
+    "slug": "fbe-las-imagenes-plppdp-fallan-intermitentemente-al-cargarse-cuando-meta",
     "internalReference": 1382819
   },
   {
@@ -21566,7 +21566,7 @@
   },
   {
     "locale": "pt",
-    "slug": "fbe-as-imagens-do-plppdp-nao-carregam-ocasionalmente-quando-a-meta-facebook-business-extension-fbe-esta-ativada",
+    "slug": "fbe-imagens-plppdp-falham-intermitentemente-ao-carregar-o-meta",
     "internalReference": 1382819
   },
   {
