@@ -7216,6 +7216,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-stuck-in-approved-with-settled-payments-blocking-invoicing",
+    "internalReference": 1461229
+  },
+  {
+    "locale": "en",
     "slug": "transaction-stuck-in-authorized-or-pending-authorization-status-after-being-approved",
     "internalReference": 1037765
   },
@@ -16361,6 +16366,11 @@
   },
   {
     "locale": "es",
+    "slug": "transaccion-atascada-en-estado-aprobado-con-pagos-liquidados-se-bloquea-la-facturacion",
+    "internalReference": 1461229
+  },
+  {
+    "locale": "es",
     "slug": "transaccion-bloqueada-en-estado-aprobado-con-pago-cancelado",
     "internalReference": 1046365
   },
@@ -25413,6 +25423,11 @@
     "locale": "pt",
     "slug": "transacao-presa-no-status-aprovado-com-pagamento-cancelado",
     "internalReference": 1046365
+  },
+  {
+    "locale": "pt",
+    "slug": "transacao-travada-em-aprovada-com-pagamentos-liquidados-bloqueando-a-emissao-de-faturas",
+    "internalReference": 1461229
   },
   {
     "locale": "pt",
