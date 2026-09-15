@@ -3,7 +3,7 @@ title: 'O pagamento não é transferido para o número cancelado após uma chama
 slug: o-pagamento-nao-e-transferido-para-o-numero-cancelado-apos-uma-chamada-de-cancelamento-bemsucedida
 status: PUBLISHED
 createdAt: 2020-12-14T22:45:27.000Z
-updatedAt: 2026-09-15T17:37:40.000Z
+updatedAt: 2026-09-15T17:46:33.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
