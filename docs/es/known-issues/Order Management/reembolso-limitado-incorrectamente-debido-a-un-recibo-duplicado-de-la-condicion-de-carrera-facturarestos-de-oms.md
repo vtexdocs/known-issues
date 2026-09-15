@@ -3,7 +3,7 @@ title: 'Reembolso limitado incorrectamente debido a un recibo duplicado de la co
 slug: reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-de-la-condicion-de-carrera-facturarestos-de-oms
 status: PUBLISHED
 createdAt: 2026-03-19T17:05:01.000Z
-updatedAt: 2026-09-15T21:02:31.000Z
+updatedAt: 2026-09-15T21:04:41.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
