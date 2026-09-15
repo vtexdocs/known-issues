@@ -3,7 +3,7 @@ title: 'Refund limited incorrectly due to duplicated receipt from race condition
 slug: refund-limited-incorrectly-due-to-duplicated-receipt-from-race-condition-oms-invoicerestutions
 status: PUBLISHED
 createdAt: 2026-03-19T17:05:01.000Z
-updatedAt: 2026-09-15T21:02:31.000Z
+updatedAt: 2026-09-15T21:04:41.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
