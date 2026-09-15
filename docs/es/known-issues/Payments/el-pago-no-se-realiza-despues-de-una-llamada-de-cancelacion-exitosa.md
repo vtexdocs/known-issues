@@ -3,7 +3,7 @@ title: 'El pago no se realiza después de una llamada de cancelación exitosa.'
 slug: el-pago-no-se-realiza-despues-de-una-llamada-de-cancelacion-exitosa
 status: PUBLISHED
 createdAt: 2020-12-14T22:45:27.000Z
-updatedAt: 2026-09-15T17:37:40.000Z
+updatedAt: 2026-09-15T17:46:33.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
