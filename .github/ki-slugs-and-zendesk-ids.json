@@ -2206,6 +2206,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-shipping-step-does-not-advance-to-payments-step-in-argentina",
+    "internalReference": 324775
+  },
+  {
+    "locale": "en",
     "slug": "checkout-shows-payment-methods-without-eligible-installment-options",
     "internalReference": 1305022
   },
@@ -11388,6 +11393,11 @@
     "locale": "es",
     "slug": "en-algunos-casos-la-busqueda-de-direcciones-en-google-maps-no-filtra-los-resultados-segun-el-pais-seleccionado",
     "internalReference": 727408
+  },
+  {
+    "locale": "es",
+    "slug": "en-argentina-el-paso-de-envio-al-finalizar-la-compra-no-avanza-al-paso-de-pago",
+    "internalReference": 324775
   },
   {
     "locale": "es",
@@ -20733,6 +20743,11 @@
     "locale": "pt",
     "slug": "mensagem-de-erro-incorreta-na-api-de-realizacao-de-pedidos-quando-a-solicitacao-de-carga-util-e-invalida",
     "internalReference": 709180
+  },
+  {
+    "locale": "pt",
+    "slug": "na-argentina-a-etapa-de-finalizacao-da-compra-relacionada-ao-envio-nao-avanca-para-a-etapa-de-pagamento",
+    "internalReference": 324775
   },
   {
     "locale": "pt",
