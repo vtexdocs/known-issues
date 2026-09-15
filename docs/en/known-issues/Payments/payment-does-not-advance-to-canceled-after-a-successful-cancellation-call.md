@@ -3,7 +3,7 @@ title: 'Payment does not advance to Canceled after a successful cancellation cal
 slug: payment-does-not-advance-to-canceled-after-a-successful-cancellation-call
 status: PUBLISHED
 createdAt: 2020-12-14T22:45:27.000Z
-updatedAt: 2026-09-15T17:37:40.000Z
+updatedAt: 2026-09-15T17:46:33.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
