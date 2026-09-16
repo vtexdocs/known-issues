@@ -7997,7 +7997,7 @@
   {
     "locale": "en",
     "slug": "free-shipping-promotion-being-applied-on-split-orders-outside-promotion-restriction",
-    "internalReference": 732302
+    "internalReference": 1462228
   },
   {
     "locale": "en",
@@ -17191,6 +17191,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-promocion-de-envio-gratuito-se-aplica-a-pedidos-divididos-fuera-de-las-restricciones-de-la-promocion",
+    "internalReference": 1462228
+  },
+  {
+    "locale": "es",
     "slug": "la-promocion-de-envio-gratuito-se-esta-aplicando-en-pedidos-divididos-fuera-de-la-restriccion-de-la-promocion",
     "internalReference": 732302
   },
@@ -26083,6 +26088,11 @@
     "locale": "pt",
     "slug": "a-pesquisa-de-varios-produtos-no-modulo-de-precos-nao-funciona",
     "internalReference": 1222033
+  },
+  {
+    "locale": "pt",
+    "slug": "a-promocao-de-frete-gratis-sera-aplicada-a-pedidos-divididos-fora-das-restricoes-da-promocao",
+    "internalReference": 1462228
   },
   {
     "locale": "pt",
