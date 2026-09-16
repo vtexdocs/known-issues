@@ -1486,6 +1486,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-form-displays-outdated-user-information-in-the-admin-for-last-edit-across-catalog",
+    "internalReference": 1462086
+  },
+  {
+    "locale": "en",
     "slug": "product-image-on-admin-changes-with-more-than-70-skus",
     "internalReference": 1003966
   },
@@ -9968,6 +9973,11 @@
     "locale": "es",
     "slug": "el-filtro-por-vendedor-no-funciona-en-la-interfaz-de-usuario-redisenada-de-la-lista-de-catalogos-para-cuentas-con-muchos-vendedores",
     "internalReference": 1075106
+  },
+  {
+    "locale": "es",
+    "slug": "el-formulario-del-producto-muestra-informacion-de-usuario-desactualizada-en-el-panel-de-administracion-para-la-ultima-edicion-en-todo-el-catalogo",
+    "internalReference": 1462086
   },
   {
     "locale": "es",
@@ -19703,6 +19713,11 @@
     "locale": "pt",
     "slug": "o-formato-de-imagem-como-jpg-ou-png-nao-funciona-no-catalogo-do-portal-do-vendedor",
     "internalReference": 1020505
+  },
+  {
+    "locale": "pt",
+    "slug": "o-formulario-do-produto-exibe-informacoes-de-usuario-desatualizadas-no-painel-de-administracao-referentes-a-ultima-edicao-em-todo-o-catalogo",
+    "internalReference": 1462086
   },
   {
     "locale": "pt",
