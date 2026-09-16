@@ -1,5 +1,5 @@
 ---
-title: 'A criação de ''custom fields'' para ''custom data'' converte os IDs para letras minúsculas'
+title: "A criação de 'custom fields' para 'custom data' converte os IDs para letras minúsculas"
 id: 6oCXPldEYkC9HG1fw3G3RL
 status: PUBLISHED
 createdAt: 2019-02-19T18:52:45.049Z
@@ -29,4 +29,3 @@ Ao criar "custom fields" na seção de "custom data" através da API do checkout
 ## Workaround
 
 Atualmente é uma restrição da API, não sendo possível contornar ester cenário. Os Custom Fields do Custom Data devem ser usados com letras minúsculas.
-

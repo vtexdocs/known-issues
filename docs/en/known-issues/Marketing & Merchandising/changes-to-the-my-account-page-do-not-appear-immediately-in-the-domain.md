@@ -1,5 +1,5 @@
 ---
-title: 'Changes to the ''my account'' page do not appear immediately in the domain ''vtexcommercestable.com.br'''
+title: "Changes to the 'my account' page do not appear immediately in the domain 'vtexcommercestable.com.br'"
 id: iUmuXOYVj97sTpqQnJqAU
 status: PUBLISHED
 createdAt: 2019-03-19T13:23:11.941Z
@@ -38,4 +38,3 @@ To work around the browser cache, simply refresh the page with `Ctrl/Cmd + Shift
 This happens only in "vtexcommercestable.com.br" environment and although it's related to the store's production version, it will not happen in your final domain.
 
 The scenario in question is permanently fixed in the new "My Account" App that will replace the legacy version soon.
-

@@ -1,5 +1,5 @@
 ---
-title: 'Creating ''custom fields'' for ''custom data'' converts the IDs to lowercase letters'
+title: "Creating 'custom fields' for 'custom data' converts the IDs to lowercase letters"
 id: 6oCXPldEYkC9HG1fw3G3RL
 status: PUBLISHED
 createdAt: 2019-02-19T18:52:45.049Z
@@ -29,4 +29,3 @@ By creating "custom fields" in the "custom data" section through the checkout AP
 ## Workaround
 
 Currently this is an API restriction. It's not possible to get around this scenario. Custom Data Custom Fields must be used with lowercase letters.
-

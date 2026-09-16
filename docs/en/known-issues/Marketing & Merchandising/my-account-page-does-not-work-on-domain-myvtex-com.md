@@ -1,5 +1,5 @@
 ---
-title: 'My Account'' page does not work on domain ''myvtex.com'
+title: "My Account' page does not work on domain 'myvtex.com"
 id: 1EW2Fuwbt3vO9uF8b9zRz4
 status: PUBLISHED
 createdAt: 2019-03-19T13:18:13.540Z
@@ -37,4 +37,3 @@ This happens only in "myvtex.com" environment and can be bypassed by using "vtex
 Since the store's final domain is based on "vtexcommercestable", this problem will not happen in production.
 
 This scenario is permanently fixed in the new "My Account" App that will replace the legacy version soon.
-
