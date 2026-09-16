@@ -1,5 +1,5 @@
 ---
-title: 'Página ''Mi Cuenta'' no funciona en el dominio ''myvtex.com'''
+title: "Página 'Mi Cuenta' no funciona en el dominio 'myvtex.com'"
 id: 1EW2Fuwbt3vO9uF8b9zRz4
 status: PUBLISHED
 createdAt: 2019-03-19T13:18:13.540Z
@@ -37,4 +37,3 @@ Este escenario se produce solamente en el ambiente "myvtex.com" y se puede evita
 Como el dominio final de la tienda se basa en el "vtexcommercestable", este problema no va a ocurrir en producción.
 
 El escenario en cuestión ya está corregido definitivamente en la nueva App de "My Account" que pronto reemplazará la versión de legado.
-

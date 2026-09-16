@@ -1,5 +1,5 @@
 ---
-title: 'Cambios en la página de ''mi cuenta'' no aparecen inmediatamente en el dominio ''vtexcommercestable.com.br'''
+title: "Cambios en la página de 'mi cuenta' no aparecen inmediatamente en el dominio 'vtexcommercestable.com.br'"
 id: iUmuXOYVj97sTpqQnJqAU
 status: PUBLISHED
 createdAt: 2019-03-19T13:23:11.941Z
@@ -38,4 +38,3 @@ Para evitar la caché del navegador, basta con actualizar la página con `Ctrl/C
 Esto ocurre sólo en el ambiente "vtexcommercestable.com.br" y, aunque se refiere a la versión en producción de la tienda, este escenario no ocurrirá en su dominio final.
 
 El escenario en cuestión ya está corregido definitivamente en la nueva App de "My Account" que reemplazará la versión de legado pronto.
-

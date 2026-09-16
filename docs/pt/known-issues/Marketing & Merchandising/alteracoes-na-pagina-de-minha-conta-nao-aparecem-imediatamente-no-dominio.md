@@ -1,5 +1,5 @@
 ---
-title: 'Alterações na página de ''minha conta'' não aparecem imediatamente no domínio ''vtexcommercestable.com.br'''
+title: "Alterações na página de 'minha conta' não aparecem imediatamente no domínio 'vtexcommercestable.com.br'"
 id: iUmuXOYVj97sTpqQnJqAU
 status: PUBLISHED
 createdAt: 2019-03-19T13:23:11.941Z
@@ -38,5 +38,3 @@ Para contornar o cache do navegador, basta atualizar a página com `Ctrl/Cmd + S
 O cenário acontece apenas no ambiente "vtexcommercestable.com.br" e, embora seja relativo à versão em produção da loja, este cenário não irá acontecer em seu domínio final.
 
 O cenário em questão já está corrigido definitivamente na nova App de "My Account" que substituirá a versão de legado em breve.
-
-
