@@ -3246,6 +3246,11 @@
   },
   {
     "locale": "en",
+    "slug": "valid-ecuadorian-documents-are-rejected-at-checkout",
+    "internalReference": 479564
+  },
+  {
+    "locale": "en",
     "slug": "when-selecting-pickup-not-highlighted-in-the-list-of-pickups-in-the-cart-ui-makes-incorrect-request-to-api",
     "internalReference": 529850
   },
@@ -12011,6 +12016,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-documentos-ecuatorianos-validos-son-rechazados-en-el-momento-de-la-salida",
+    "internalReference": 479564
+  },
+  {
+    "locale": "es",
     "slug": "los-gastos-de-envio-proporcionales-muestran-valores-negativos-cuando-hay-promociones-que-dividen-los-articulos-y-se-aplica-el-envio-gratuito",
     "internalReference": 909925
   },
@@ -20623,6 +20633,11 @@
     "locale": "pt",
     "slug": "divisao-da-entrega-com-a-lean-shipping-apresenta-um-sla-invalido",
     "internalReference": 990155
+  },
+  {
+    "locale": "pt",
+    "slug": "documentos-equatorianos-validos-sao-rejeitados-no-caixa",
+    "internalReference": 479564
   },
   {
     "locale": "pt",
