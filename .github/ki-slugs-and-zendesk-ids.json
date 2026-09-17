@@ -2396,6 +2396,11 @@
   },
   {
     "locale": "en",
+    "slug": "delivery-options-and-prices-are-not-always-shown-in-shopping-gift-list",
+    "internalReference": 334500
+  },
+  {
+    "locale": "en",
     "slug": "delivery-schedule-date-getting-empty-when-item-is-a-gift-added",
     "internalReference": 586143
   },
@@ -11981,6 +11986,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-opciones-y-los-precios-de-envio-no-siempre-se-muestran-en-la-lista-de-regalos-de-la-compra",
+    "internalReference": 334500
+  },
+  {
+    "locale": "es",
     "slug": "las-promociones-de-envio-aplicables-en-distintos-sla-provocan-discrepancias-en-tax-hub",
     "internalReference": 916423
   },
@@ -20568,6 +20578,11 @@
     "locale": "pt",
     "slug": "as-opcoes-de-retirada-no-ponto-de-retirada-e-entrega-programada-no-mesmo-carrinho-nao-estao-funcionando-corretamente",
     "internalReference": 482256
+  },
+  {
+    "locale": "pt",
+    "slug": "as-opcoes-e-os-precos-de-entrega-nem-sempre-sao-exibidos-na-lista-de-presentes",
+    "internalReference": 334500
   },
   {
     "locale": "pt",
