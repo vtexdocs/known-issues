@@ -8636,6 +8636,11 @@
   },
   {
     "locale": "en",
+    "slug": "custom-sitemap-saveindex-returns-entity-not-found-on-the-final-domain",
+    "internalReference": 1462938
+  },
+  {
+    "locale": "en",
     "slug": "disablesitemapentry-flag-not-respected-by-sitemap-generation",
     "internalReference": 1351681
   },
@@ -8933,11 +8938,6 @@
     "locale": "en",
     "slug": "site-rendering-desktop-version-when-accessing-via-ipad-on-safari",
     "internalReference": 735208
-  },
-  {
-    "locale": "en",
-    "slug": "sitemap-customizado-saveindex-retorna-entity-not-found-no-dominio-final",
-    "internalReference": 1462938
   },
   {
     "locale": "en",
@@ -17956,7 +17956,7 @@
   },
   {
     "locale": "es",
-    "slug": "ki-mapa-del-sitio-personalizado-saveindex-retorna-entidad-no-encontrada-en-el-dominio-final",
+    "slug": "ki-el-mapa-del-sitio-personalizado-saveindex-devuelve-entidad-no-encontrada-en-el-dominio-final",
     "internalReference": 1462938
   },
   {
@@ -27041,7 +27041,7 @@
   },
   {
     "locale": "pt",
-    "slug": "ki-sitemap-customizado-saveindex-retorna-entidade-nao-encontrada-no-dominio-final",
+    "slug": "ki-o-sitemap-personalizado-saveindex-retorna-entidade-nao-encontrada-no-dominio-final",
     "internalReference": 1462938
   },
   {
