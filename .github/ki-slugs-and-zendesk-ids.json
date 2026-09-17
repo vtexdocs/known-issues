@@ -8936,6 +8936,11 @@
   },
   {
     "locale": "en",
+    "slug": "sitemap-customizado-saveindex-retorna-entity-not-found-no-dominio-final",
+    "internalReference": 1462938
+  },
+  {
+    "locale": "en",
     "slug": "sitemap-does-not-index-departments-brands-andor-categories-pages",
     "internalReference": 1076965
   },
@@ -17948,6 +17953,11 @@
     "locale": "es",
     "slug": "itemname-del-evento-de-compra-es-diferente-de-itemname-del-evento-de-anadir-al-carrito-en-google-analytics",
     "internalReference": 878629
+  },
+  {
+    "locale": "es",
+    "slug": "ki-mapa-del-sitio-personalizado-saveindex-retorna-entidad-no-encontrada-en-el-dominio-final",
+    "internalReference": 1462938
   },
   {
     "locale": "es",
@@ -27028,6 +27038,11 @@
     "locale": "pt",
     "slug": "itens-de-beneficios-nao-gerados-em-promocoes-com-colecoes-associadas",
     "internalReference": 985850
+  },
+  {
+    "locale": "pt",
+    "slug": "ki-sitemap-customizado-saveindex-retorna-entidade-nao-encontrada-no-dominio-final",
+    "internalReference": 1462938
   },
   {
     "locale": "pt",
