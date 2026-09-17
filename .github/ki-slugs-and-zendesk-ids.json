@@ -3031,6 +3031,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-cost-calculation-button-has-to-be-clicked-twice",
+    "internalReference": 372268
+  },
+  {
+    "locale": "en",
     "slug": "shipping-options-are-not-shown-in-the-cart-when-there-is-scheduled-delivery-and-lean-shipping-activated",
     "internalReference": 362685
   },
@@ -11223,6 +11228,11 @@
     "locale": "es",
     "slug": "el-articulo-en-promocion-no-aparecera-dividido-tras-anadir-los-datos-de-las-preferencias-del-cliente",
     "internalReference": 842575
+  },
+  {
+    "locale": "es",
+    "slug": "el-boton-de-calculo-del-costo-de-envio-debe-pulsarse-dos-veces",
+    "internalReference": 372268
   },
   {
     "locale": "es",
@@ -20978,6 +20988,11 @@
     "locale": "pt",
     "slug": "o-beneficio-com-numero-limitado-de-parcelas-exibe-o-desconto-nas-demais-parcelas-na-caixa-de-combinacao",
     "internalReference": 323525
+  },
+  {
+    "locale": "pt",
+    "slug": "o-botao-de-calculo-do-custo-de-envio-precisa-ser-clicado-duas-vezes",
+    "internalReference": 372268
   },
   {
     "locale": "pt",
