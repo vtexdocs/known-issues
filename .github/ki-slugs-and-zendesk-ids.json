@@ -1981,6 +1981,11 @@
   },
   {
     "locale": "en",
+    "slug": "alert-freight-value-has-changed-appears-even-when-the-value-remains-the-same",
+    "internalReference": 336928
+  },
+  {
+    "locale": "en",
     "slug": "api-to-list-pickup-points-does-not-return-additionalinfo-field",
     "internalReference": 650714
   },
@@ -11556,6 +11561,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-alerta-el-valor-del-flete-ha-cambiado-aparece-incluso-cuando-el-valor-permanece-igual",
+    "internalReference": 336928
+  },
+  {
+    "locale": "es",
     "slug": "la-alerta-para-llenar-la-seleccion-de-entrega-programada-aparece-solo-una-vez",
     "internalReference": 565982
   },
@@ -20898,6 +20908,11 @@
     "locale": "pt",
     "slug": "novos-pedidos-de-assinatura-nao-sao-criados-com-cartao-de-credito-salvo-e-savepersonaldataasoptin",
     "internalReference": 1087876
+  },
+  {
+    "locale": "pt",
+    "slug": "o-alerta-o-valor-do-frete-foi-alterado-aparece-mesmo-quando-o-valor-permanece-o-mesmo",
+    "internalReference": 336928
   },
   {
     "locale": "pt",
