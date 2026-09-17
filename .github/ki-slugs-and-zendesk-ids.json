@@ -1986,6 +1986,11 @@
   },
   {
     "locale": "en",
+    "slug": "argentine-mobile-phone-numbers-are-shown-and-saved-incorrectly",
+    "internalReference": 338214
+  },
+  {
+    "locale": "en",
     "slug": "assembly-options-attachments-lose-binding-if-items-are-available-in-different-whitelabel-sellers",
     "internalReference": 1074856
   },
@@ -12076,6 +12081,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-numeros-de-telefono-movil-argentinos-se-muestran-y-guardan-incorrectamente",
+    "internalReference": 338214
+  },
+  {
+    "locale": "es",
     "slug": "los-pedidos-de-articulos-de-regalo-no-se-cancelan-si-se-rechaza-el-pago-del-pedido-del-articulo-normal",
     "internalReference": 679598
   },
@@ -21268,6 +21278,11 @@
     "locale": "pt",
     "slug": "os-itens-do-carrinho-sao-mantidos-em-ordens-com-valor-total-zero",
     "internalReference": 1054999
+  },
+  {
+    "locale": "pt",
+    "slug": "os-numeros-de-telefone-celular-argentinos-sao-exibidos-e-salvos-incorretamente",
+    "internalReference": 338214
   },
   {
     "locale": "pt",
