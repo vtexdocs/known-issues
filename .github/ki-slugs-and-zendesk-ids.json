@@ -2081,6 +2081,11 @@
   },
   {
     "locale": "en",
+    "slug": "cart-shows-an-error-after-items-are-added-and-removed-repeatedly-cart-data-out-of-sync",
+    "internalReference": 478063
+  },
+  {
+    "locale": "en",
     "slug": "cart-with-items-displays-empty-cart-message-while-screen-is-still-loading",
     "internalReference": 303673
   },
@@ -11208,6 +11213,11 @@
     "locale": "es",
     "slug": "el-carrito-creado-a-partir-de-un-pedido-anterior-no-incluye-los-archivos-adjuntos",
     "internalReference": 802464
+  },
+  {
+    "locale": "es",
+    "slug": "el-carrito-muestra-un-error-despues-de-agregar-y-eliminar-articulos-repetidamente-los-datos-del-carrito-no-estan-sincronizados",
+    "internalReference": 478063
   },
   {
     "locale": "es",
@@ -20878,6 +20888,11 @@
     "locale": "pt",
     "slug": "o-carrinho-criado-a-partir-de-um-pedido-antigo-nao-traz-os-anexos",
     "internalReference": 802464
+  },
+  {
+    "locale": "pt",
+    "slug": "o-carrinho-exibe-um-erro-apos-itens-serem-adicionados-e-removidos-repetidamente-dados-do-carrinho-dessincronizados",
+    "internalReference": 478063
   },
   {
     "locale": "pt",
