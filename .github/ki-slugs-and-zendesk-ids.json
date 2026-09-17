@@ -3296,6 +3296,11 @@
   },
   {
     "locale": "en",
+    "slug": "vtex-id-login-box-is-barely-visible-in-checkout-when-the-page-is-scrolled-down",
+    "internalReference": 296905
+  },
+  {
+    "locale": "en",
     "slug": "when-selecting-pickup-not-highlighted-in-the-list-of-pickups-in-the-cart-ui-makes-incorrect-request-to-api",
     "internalReference": 529850
   },
@@ -11303,6 +11308,11 @@
     "locale": "es",
     "slug": "el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-usuarios-en-la-interfaz-de-pago",
     "internalReference": 887949
+  },
+  {
+    "locale": "es",
+    "slug": "el-cuadro-de-inicio-de-sesion-de-vtex-id-apenas-es-visible-en-la-pagina-de-pago-cuando-se-desplaza-hacia-abajo",
+    "internalReference": 296905
   },
   {
     "locale": "es",
@@ -20168,6 +20178,11 @@
     "locale": "pt",
     "slug": "a-api-do-formulario-de-pedido-impede-a-selecao-do-metodo-de-envio-para-o-mesmo-item-em-diferentes-vendedores",
     "internalReference": 742139
+  },
+  {
+    "locale": "pt",
+    "slug": "a-caixa-de-login-do-id-vtex-fica-quase-invisivel-na-pagina-de-finalizacao-da-compra-quando-a-pagina-e-rolada-para-baixo",
+    "internalReference": 296905
   },
   {
     "locale": "pt",
