@@ -3041,6 +3041,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-preview-does-not-work-when-standard-and-scheduled-delivery-items-are-mixed",
+    "internalReference": 317654
+  },
+  {
+    "locale": "en",
     "slug": "shipping-preview-loops-when-an-item-has-multiple-delivery-options-and-the-freight-price-changes-between-simulations",
     "internalReference": 1448353
   },
@@ -11946,6 +11951,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-vista-previa-del-envio-no-funciona-cuando-se-combinan-articulos-de-entrega-estandar-y-programada",
+    "internalReference": 317654
+  },
+  {
+    "locale": "es",
     "slug": "la-vista-previa-del-envio-se-repite-cuando-un-articulo-tiene-varias-opciones-de-entrega-y-el-precio-del-flete-cambia-entre-simulaciones",
     "internalReference": 1448353
   },
@@ -20413,6 +20423,11 @@
     "locale": "pt",
     "slug": "a-previsualizacao-do-envio-mostra-o-codigo-postal-para-retirada-quando-ha-divisao-da-encomenda-entre-retirada-e-envio",
     "internalReference": 938124
+  },
+  {
+    "locale": "pt",
+    "slug": "a-previsualizacao-do-envio-nao-funciona-quando-itens-com-entrega-padrao-e-agendada-sao-combinados",
+    "internalReference": 317654
   },
   {
     "locale": "pt",
