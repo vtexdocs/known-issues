@@ -2086,6 +2086,11 @@
   },
   {
     "locale": "en",
+    "slug": "cart-shipping-preview-stops-working-after-items-are-removed-and-added-back-by-the-storefront",
+    "internalReference": 348152
+  },
+  {
+    "locale": "en",
     "slug": "cart-shows-an-error-after-items-are-added-and-removed-repeatedly-cart-data-out-of-sync",
     "internalReference": 478063
   },
@@ -11886,6 +11891,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-vista-previa-del-envio-del-carrito-deja-de-funcionar-despues-de-que-la-tienda-elimina-y-vuelve-a-agregar-articulos",
+    "internalReference": 348152
+  },
+  {
+    "locale": "es",
     "slug": "la-vista-previa-del-envio-informa-erroneamente-de-la-seleccion-de-la-recogida",
     "internalReference": 552912
   },
@@ -20363,6 +20373,11 @@
     "locale": "pt",
     "slug": "a-previsualizacao-do-envio-mostra-o-codigo-postal-para-retirada-quando-ha-divisao-da-encomenda-entre-retirada-e-envio",
     "internalReference": 938124
+  },
+  {
+    "locale": "pt",
+    "slug": "a-previsualizacao-do-frete-do-carrinho-para-de-funcionar-depois-que-os-itens-sao-removidos-e-adicionados-novamente-pela-loja",
+    "internalReference": 348152
   },
   {
     "locale": "pt",
