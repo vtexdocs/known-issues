@@ -2041,6 +2041,11 @@
   },
   {
     "locale": "en",
+    "slug": "buyer-sees-a-generic-error-instead-of-the-order-confirmation-screen-and-the-order-was-created",
+    "internalReference": 425142
+  },
+  {
+    "locale": "en",
     "slug": "buyer-unintentionally-purchases-from-two-different-pickup-points",
     "internalReference": 381546
   },
@@ -11293,6 +11298,11 @@
     "locale": "es",
     "slug": "el-comprador-realiza-compras-involuntariamente-en-dos-puntos-de-recogida-diferentes",
     "internalReference": 381546
+  },
+  {
+    "locale": "es",
+    "slug": "el-comprador-ve-un-error-generico-en-lugar-de-la-pantalla-de-confirmacion-del-pedido-y-el-pedido-se-creo",
+    "internalReference": 425142
   },
   {
     "locale": "es",
@@ -21103,6 +21113,11 @@
     "locale": "pt",
     "slug": "o-comprador-sem-intencao-efetua-compras-em-dois-pontos-de-coleta-diferentes",
     "internalReference": 381546
+  },
+  {
+    "locale": "pt",
+    "slug": "o-comprador-ve-uma-mensagem-de-erro-generica-em-vez-da-tela-de-confirmacao-do-pedido-e-o-pedido-foi-criado",
+    "internalReference": 425142
   },
   {
     "locale": "pt",
