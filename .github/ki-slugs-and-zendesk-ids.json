@@ -2031,6 +2031,11 @@
   },
   {
     "locale": "en",
+    "slug": "buyer-unintentionally-purchases-from-two-different-pickup-points",
+    "internalReference": 381546
+  },
+  {
+    "locale": "en",
     "slug": "calendar-in-english-for-stores-in-spanish",
     "internalReference": 412426
   },
@@ -11248,6 +11253,11 @@
     "locale": "es",
     "slug": "el-componente-marcador-de-mapa-del-formulario-de-direcciones-no-actualiza-la-direccion-completa",
     "internalReference": 1407777
+  },
+  {
+    "locale": "es",
+    "slug": "el-comprador-realiza-compras-involuntariamente-en-dos-puntos-de-recogida-diferentes",
+    "internalReference": 381546
   },
   {
     "locale": "es",
@@ -20988,6 +20998,11 @@
     "locale": "pt",
     "slug": "o-componente-marcador-no-mapa-do-formulario-de-endereco-nao-atualiza-o-endereco-completo",
     "internalReference": 1407777
+  },
+  {
+    "locale": "pt",
+    "slug": "o-comprador-sem-intencao-efetua-compras-em-dois-pontos-de-coleta-diferentes",
+    "internalReference": 381546
   },
   {
     "locale": "pt",
