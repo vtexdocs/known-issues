@@ -131,6 +131,11 @@
   },
   {
     "locale": "en",
+    "slug": "vtex-settings-set-cli-returns-403-even-for-account-admins-no-license-manager-resource-grants-the-required-permission",
+    "internalReference": 1462810
+  },
+  {
+    "locale": "en",
     "slug": "addresses-are-shown-in-the-checkout-when-buyer-has-can-add-shipping-permission",
     "internalReference": 1037067
   },
@@ -9236,6 +9241,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-configuracion-de-vtex-cli-devuelve-un-error-403-incluso-para-los-administradores-de-cuenta-ningun-recurso-del-administrador-de-licencias-otorga-el-permiso-requerido",
+    "internalReference": 1462810
+  },
+  {
+    "locale": "es",
     "slug": "las-solicitudes-fallan-por-tiempo-de-espera-durante-el-inicio-en-frio-de-la-aplicacion",
     "internalReference": 789499
   },
@@ -18333,6 +18343,11 @@
     "locale": "pt",
     "slug": "o-recurso-produto-visitado-nao-funciona-corretamente",
     "internalReference": 701169
+  },
+  {
+    "locale": "pt",
+    "slug": "a-configuracao-de-vtex-cli-retorna-403-mesmo-para-administradores-de-conta-nenhum-recurso-do-gerenciador-de-licencas-concede-a-permissao-necessaria",
+    "internalReference": 1462810
   },
   {
     "locale": "pt",
