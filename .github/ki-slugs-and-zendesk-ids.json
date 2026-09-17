@@ -3111,6 +3111,11 @@
   },
   {
     "locale": "en",
+    "slug": "special-characters-in-the-delivery-receiver-field-block-the-purchase-with-a-wrong-error-message",
+    "internalReference": 342759
+  },
+  {
+    "locale": "en",
     "slug": "street-neighborhood-complement-and-reference-fields-are-not-requested-in-the-address-step-at-checkout",
     "internalReference": 563507
   },
@@ -12021,6 +12026,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-caracteres-especiales-en-el-campo-del-destinatario-bloquean-la-compra-con-un-mensaje-de-error-incorrecto",
+    "internalReference": 342759
+  },
+  {
+    "locale": "es",
     "slug": "los-carritos-con-direcciones-de-varios-paises-pierden-la-direccion-de-recogida-si-la-tienda-no-puede-enviar-a-todos-los-paises",
     "internalReference": 1068197
   },
@@ -20573,6 +20583,11 @@
     "locale": "pt",
     "slug": "calendario-em-ingles-para-lojas-em-espanhol",
     "internalReference": 412426
+  },
+  {
+    "locale": "pt",
+    "slug": "caracteres-especiais-no-campo-do-destinatario-da-entrega-bloqueiam-a-compra-com-uma-mensagem-de-erro-incorreta",
+    "internalReference": 342759
   },
   {
     "locale": "pt",
