@@ -2656,6 +2656,11 @@
   },
   {
     "locale": "en",
+    "slug": "no-stores-shown-on-the-pickup-map-when-searching-by-street-name-only",
+    "internalReference": 395867
+  },
+  {
+    "locale": "en",
     "slug": "null-values-in-deliveryslainminutes-object-for-same-day-scheduled-delivery",
     "internalReference": 1079981
   },
@@ -12111,6 +12116,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-se-muestran-tiendas-en-el-mapa-de-recogida-al-buscar-solo-por-nombre-de-calle",
+    "internalReference": 395867
+  },
+  {
+    "locale": "es",
     "slug": "no-se-puede-completar-la-compra-y-se-queda-bloqueada-en-el-tipo-de-envio-ha-cambiado",
     "internalReference": 449341
   },
@@ -20828,6 +20838,11 @@
     "locale": "pt",
     "slug": "nao-pode-criar-pedidos-com-promocoes-aplicadas-na-camada-de-mercado-a-um-vendedor-sob-o-comportamento-multinivel",
     "internalReference": 446938
+  },
+  {
+    "locale": "pt",
+    "slug": "nenhuma-loja-e-exibida-no-mapa-de-retirada-ao-pesquisar-apenas-pelo-nome-da-rua",
+    "internalReference": 395867
   },
   {
     "locale": "pt",
