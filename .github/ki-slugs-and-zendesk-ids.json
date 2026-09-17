@@ -9101,6 +9101,11 @@
   },
   {
     "locale": "en",
+    "slug": "vtexstore-advanced-settings-persisted-inconsistently-root-vs-nested-depending-on-which-admin-page-is-used",
+    "internalReference": 1462792
+  },
+  {
+    "locale": "en",
     "slug": "when-disabling-native-service-worker-its-not-possible-to-use-a-custom-one",
     "internalReference": 770949
   },
@@ -17963,6 +17968,11 @@
     "locale": "es",
     "slug": "la-cantidad-del-resumen-del-producto-no-funciona-en-las-tiendas-regionalizadas",
     "internalReference": 1313686
+  },
+  {
+    "locale": "es",
+    "slug": "la-configuracion-avanzada-de-vtexstore-persistia-de-forma-inconsistente-raiz-frente-a-anidada-dependiendo-de-la-pagina-de-administracion-que-se-utilizara",
+    "internalReference": 1462792
   },
   {
     "locale": "es",
@@ -26883,6 +26893,11 @@
     "locale": "pt",
     "slug": "as-alteracoes-feitas-na-pagina-de-administracao-de-estilos-nao-sao-salvas-corretamente",
     "internalReference": 971948
+  },
+  {
+    "locale": "pt",
+    "slug": "as-configuracoes-avancadas-do-vtexstore-persistiam-de-forma-inconsistente-raiz-vs-aninhadas-dependendo-da-pagina-de-administracao-utilizada",
+    "internalReference": 1462792
   },
   {
     "locale": "pt",
