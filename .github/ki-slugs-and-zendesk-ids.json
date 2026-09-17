@@ -3326,6 +3326,11 @@
   },
   {
     "locale": "en",
+    "slug": "wrong-delivery-date-shown-when-editing-scheduled-delivery-of-distinct-items",
+    "internalReference": 328873
+  },
+  {
+    "locale": "en",
     "slug": "wrong-error-message-for-place-order-api-when-the-payload-request-is-invalid",
     "internalReference": 709180
   },
@@ -12346,6 +12351,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-muestra-una-fecha-de-entrega-incorrecta-al-editar-la-entrega-programada-de-articulos-distintos",
+    "internalReference": 328873
+  },
+  {
+    "locale": "es",
     "slug": "se-pierde-la-informacion-del-cliente-cuando-hay-algun-pedido-con-el-error-profileerroronloading",
     "internalReference": 340036
   },
@@ -20233,6 +20243,11 @@
     "locale": "pt",
     "slug": "a-criacao-do-pedido-falha-e-e-criado-um-pedido-sem-itens-quando-o-carrinho-contem-um-vendedor-nao-white-label-em-pausa",
     "internalReference": 1350336
+  },
+  {
+    "locale": "pt",
+    "slug": "a-data-de-entrega-exibida-esta-incorreta-ao-editar-a-entrega-agendada-de-itens-distintos",
+    "internalReference": 328873
   },
   {
     "locale": "pt",
