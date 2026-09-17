@@ -2331,6 +2331,11 @@
   },
   {
     "locale": "en",
+    "slug": "choose-products-button-on-the-empty-cart-page-ignores-the-stores-rootpath",
+    "internalReference": 323515
+  },
+  {
+    "locale": "en",
     "slug": "city-and-state-are-not-sent-to-paypalplus-when-there-is-only-pickup-address-available",
     "internalReference": 836025
   },
@@ -11238,6 +11243,11 @@
     "locale": "es",
     "slug": "el-boton-de-calculo-del-costo-de-envio-debe-pulsarse-dos-veces",
     "internalReference": 372268
+  },
+  {
+    "locale": "es",
+    "slug": "el-boton-elegir-productos-en-la-pagina-del-carrito-vacio-ignora-la-ruta-raiz-de-la-tienda",
+    "internalReference": 323515
   },
   {
     "locale": "es",
@@ -21008,6 +21018,11 @@
     "locale": "pt",
     "slug": "o-botao-de-calculo-do-custo-de-envio-precisa-ser-clicado-duas-vezes",
     "internalReference": 372268
+  },
+  {
+    "locale": "pt",
+    "slug": "o-botao-escolher-produtos-na-pagina-do-carrinho-vazio-ignora-o-caminho-raiz-da-loja",
+    "internalReference": 323515
   },
   {
     "locale": "pt",
