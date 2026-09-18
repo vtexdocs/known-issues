@@ -3,7 +3,7 @@ title: 'Custom sitemap (saveIndex) returns "Entity not found" on the final domai
 slug: custom-sitemap-saveindex-returns-entity-not-found-on-the-final-domain
 status: PUBLISHED
 createdAt: 2026-09-17T23:26:22.000Z
-updatedAt: 2026-09-17T23:31:38.000Z
+updatedAt: 2026-09-18T21:13:21.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
