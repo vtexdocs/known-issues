@@ -17836,6 +17836,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-mapa-del-sitio-personalizado-saveindex-devuelve-entidad-no-encontrada-en-el-dominio-final",
+    "internalReference": 1462938
+  },
+  {
+    "locale": "es",
     "slug": "el-modo-de-visualizacion-select-del-selector-sku-no-funciona-en-las-estanterias",
     "internalReference": 682152
   },
@@ -17953,11 +17958,6 @@
     "locale": "es",
     "slug": "itemname-del-evento-de-compra-es-diferente-de-itemname-del-evento-de-anadir-al-carrito-en-google-analytics",
     "internalReference": 878629
-  },
-  {
-    "locale": "es",
-    "slug": "ki-el-mapa-del-sitio-personalizado-saveindex-devuelve-entidad-no-encontrada-en-el-dominio-final",
-    "internalReference": 1462938
   },
   {
     "locale": "es",
@@ -27041,11 +27041,6 @@
   },
   {
     "locale": "pt",
-    "slug": "ki-o-sitemap-personalizado-saveindex-retorna-entidade-nao-encontrada-no-dominio-final",
-    "internalReference": 1462938
-  },
-  {
-    "locale": "pt",
     "slug": "links-de-imagem-incompletos-em-otimizacao-critica-de-css",
     "internalReference": 1110160
   },
@@ -27288,6 +27283,11 @@
     "locale": "pt",
     "slug": "o-sitemap-nao-esta-sendo-geradoatualizado",
     "internalReference": 827104
+  },
+  {
+    "locale": "pt",
+    "slug": "o-sitemap-personalizado-saveindex-retorna-entidade-nao-encontrada-no-dominio-final",
+    "internalReference": 1462938
   },
   {
     "locale": "pt",
