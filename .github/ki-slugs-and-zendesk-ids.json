@@ -6286,6 +6286,11 @@
   },
   {
     "locale": "en",
+    "slug": "cannot-save-card-in-mycards-when-the-payment-method-has-a-special-condition-with-subaccount",
+    "internalReference": 1283953
+  },
+  {
+    "locale": "en",
     "slug": "captured-transaction-remains-in-approved-status-due-to-missing-settlement-registration-in-requests",
     "internalReference": 1349246
   },
@@ -16376,6 +16381,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-se-puede-guardar-la-tarjeta-en-mis-tarjetas-cuando-el-metodo-de-pago-tiene-una-condicion-especial-con-la-subcuenta",
+    "internalReference": 1283953
+  },
+  {
+    "locale": "es",
     "slug": "no-se-puede-modificar-el-estado-en-la-pasarela-cuando-el-objeto-cart-de-la-transaccion-en-transaction-es-desconocido",
     "internalReference": 776837
   },
@@ -25208,6 +25218,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-efetuar-o-pagamento-de-uma-transacao-pelo-metodo-do-boleto-utilizando-o-braspag",
     "internalReference": 558065
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-salvar-o-cartao-em-meus-cartoes-quando-o-metodo-de-pagamento-possui-uma-condicao-especial-com-subconta",
+    "internalReference": 1283953
   },
   {
     "locale": "pt",
