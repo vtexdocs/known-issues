@@ -14796,11 +14796,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-reembolso-no-se-ha-activado-tras-la-factura-de-entrada-debido-a-datos-de-factura-incoherentes-oms-pagos",
-    "internalReference": 1351358
-  },
-  {
-    "locale": "es",
     "slug": "el-simbolo-de-moneda-no-sigue-el-lenguaje-admin",
     "internalReference": 1000915
   },
@@ -15118,6 +15113,11 @@
     "locale": "es",
     "slug": "no-es-posible-hacer-un-cambio-cambio-v2-para-aumentar-a-la-orden-si-la-cuenta-tiene-modo-defensa-activo-en-pagos-o-cualquier-otro-pago",
     "internalReference": 1155646
+  },
+  {
+    "locale": "es",
+    "slug": "no-se-activo-el-reembolso-despues-de-ingresar-la-factura-debido-a-datos-de-factura-inconsistentes-oms-pagos",
+    "internalReference": 1351358
   },
   {
     "locale": "es",
@@ -24216,6 +24216,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-reembolso-nao-foi-processado-apos-a-entrada-da-fatura-devido-a-dados-de-fatura-inconsistentes-oms-pagamentos",
+    "internalReference": 1351358
+  },
+  {
+    "locale": "pt",
     "slug": "o-relatorio-de-exportacao-de-pedidos-nao-esta-funcionando-corretamente-devido-ao-espaco-duplo-no-nome-da-promocao",
     "internalReference": 786216
   },
@@ -24403,11 +24408,6 @@
     "locale": "pt",
     "slug": "recurso-de-indexacao-do-feed-hook-que-ignora-eventos-nos-filtros-fromorders",
     "internalReference": 832400
-  },
-  {
-    "locale": "pt",
-    "slug": "reembolso-nao-acionado-apos-a-entrada-da-fatura-devido-a-dados-inconsistentes-da-fatura-oms-pagamentos",
-    "internalReference": 1351358
   },
   {
     "locale": "pt",
