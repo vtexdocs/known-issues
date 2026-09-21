@@ -2281,6 +2281,11 @@
   },
   {
     "locale": "en",
+    "slug": "checkout-ui-fails-to-update-orderform-when-a-cart-has-packages-that-share-the-same-delivery-window",
+    "internalReference": 1463913
+  },
+  {
+    "locale": "en",
     "slug": "checkout-ui-goes-to-payment-with-an-incomplete-invoice-address-for-shoppers-with-complete-profile",
     "internalReference": 937615
   },
@@ -2706,11 +2711,6 @@
   },
   {
     "locale": "en",
-    "slug": "order-cannot-be-created-when-seller-has-a-different-country-code",
-    "internalReference": 763955
-  },
-  {
-    "locale": "en",
     "slug": "order-cant-be-created-due-to-invalid-credit-card",
     "internalReference": 607742
   },
@@ -3023,11 +3023,6 @@
     "locale": "en",
     "slug": "security-code-persistence-in-ui-form-when-changing-from-a-saved-card-to-a-new-card",
     "internalReference": 1412484
-  },
-  {
-    "locale": "en",
-    "slug": "seller-selection-algorithm-doesnt-consider-the-real-availability-of-the-item-to-choose-the-best-option",
-    "internalReference": 360097
   },
   {
     "locale": "en",
@@ -3596,11 +3591,6 @@
   },
   {
     "locale": "en",
-    "slug": "fbe-plppdp-images-intermittently-fail-to-load-when-meta",
-    "internalReference": 1382819
-  },
-  {
-    "locale": "en",
     "slug": "findmarketplaces-error-5xx-sorry-something-went-wrong-on-our-side",
     "internalReference": 1235339
   },
@@ -3958,11 +3948,6 @@
     "locale": "en",
     "slug": "review-flow-for-updatestock-netshoes",
     "internalReference": 646869
-  },
-  {
-    "locale": "en",
-    "slug": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
-    "internalReference": 1323634
   },
   {
     "locale": "en",
@@ -5426,6 +5411,11 @@
   },
   {
     "locale": "en",
+    "slug": "fbe-plppdp-images-intermittently-fail-to-load-when-meta",
+    "internalReference": 1382819
+  },
+  {
+    "locale": "en",
     "slug": "magazine-luiza-main-image-not-respected",
     "internalReference": 1221096
   },
@@ -5443,6 +5433,11 @@
     "locale": "en",
     "slug": "netshoes-main-image-not-respected",
     "internalReference": 1220978
+  },
+  {
+    "locale": "en",
+    "slug": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
+    "internalReference": 1323634
   },
   {
     "locale": "en",
@@ -5478,6 +5473,11 @@
     "locale": "en",
     "slug": "item-unavailability-in-sales-app-allocation-with-pickup-point-inadequate-heuristic-in-selecting-sellers",
     "internalReference": 1234534
+  },
+  {
+    "locale": "en",
+    "slug": "seller-selection-algorithm-doesnt-consider-the-real-availability-of-the-item-to-choose-the-best-option",
+    "internalReference": 360097
   },
   {
     "locale": "en",
@@ -5788,6 +5788,11 @@
     "locale": "en",
     "slug": "order-authorization-lessthan-100-goes-with-the-flow",
     "internalReference": 983031
+  },
+  {
+    "locale": "en",
+    "slug": "order-cannot-be-created-when-seller-has-a-different-country-code",
+    "internalReference": 763955
   },
   {
     "locale": "en",
@@ -11251,11 +11256,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-algoritmo-de-seleccion-de-vendedores-no-tiene-en-cuenta-la-disponibilidad-real-del-articulo-para-elegir-la-mejor-opcion",
-    "internalReference": 360097
-  },
-  {
-    "locale": "es",
     "slug": "el-articulo-deja-de-estar-disponible-si-las-opciones-de-montaje-posibles-no-coinciden-con-el-canal-de-venta-del-carrito",
     "internalReference": 1083848
   },
@@ -11776,6 +11776,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-interfaz-de-pago-no-actualiza-el-formulario-de-pedido-cuando-un-carrito-contiene-paquetes-que-comparten-el-mismo-plazo-de-entrega",
+    "internalReference": 1463913
+  },
+  {
+    "locale": "es",
     "slug": "la-interfaz-de-pago-no-aplica-automaticamente-la-opcion-envio-economico-a-los-articulos-que-no-tienen-metodos-de-envio-comunes",
     "internalReference": 329846
   },
@@ -12271,11 +12276,6 @@
   },
   {
     "locale": "es",
-    "slug": "no-se-puede-crear-un-pedido-si-el-vendedor-tiene-un-codigo-de-pais-diferente",
-    "internalReference": 763955
-  },
-  {
-    "locale": "es",
     "slug": "no-se-puede-seleccionar-el-punto-de-recogida-en-los-mercados-con-vendedores-de-varios-niveles",
     "internalReference": 524073
   },
@@ -12761,11 +12761,6 @@
   },
   {
     "locale": "es",
-    "slug": "fbe-las-imagenes-plppdp-fallan-intermitentemente-al-cargarse-cuando-meta",
-    "internalReference": 1382819
-  },
-  {
-    "locale": "es",
     "slug": "findmarketplaces-error-5xx-lo-sentimos-algo-ha-ido-mal-por-nuestra-parte",
     "internalReference": 1235339
   },
@@ -13123,11 +13118,6 @@
     "locale": "es",
     "slug": "revista-luiza-pedidos-pendientes-de-autorizacion-de-envio-aunque-esten-aprobados-por-marketplace",
     "internalReference": 1200833
-  },
-  {
-    "locale": "es",
-    "slug": "shopee-el-atributo-de-marca-no-se-envio-o-se-sobrescribio-durante-la-sincronizacion-del-producto",
-    "internalReference": 1323634
   },
   {
     "locale": "es",
@@ -14571,6 +14561,11 @@
   },
   {
     "locale": "es",
+    "slug": "fbe-las-imagenes-plppdp-fallan-intermitentemente-al-cargarse-cuando-meta",
+    "internalReference": 1382819
+  },
+  {
+    "locale": "es",
     "slug": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
     "internalReference": 1438301
   },
@@ -14606,6 +14601,11 @@
   },
   {
     "locale": "es",
+    "slug": "shopee-el-atributo-de-marca-no-se-envio-o-se-sobrescribio-durante-la-sincronizacion-del-producto",
+    "internalReference": 1323634
+  },
+  {
+    "locale": "es",
     "slug": "shopee-error-al-actualizar-la-politica-comercial-en-la-configuracion-de-la-tarjeta-de-integracion",
     "internalReference": 1236034
   },
@@ -14623,6 +14623,11 @@
     "locale": "es",
     "slug": "descalificacion-del-vendedor-en-el-punto-de-recogida-debido-a-una-cantidad-divergente-entre-los-ans-en-la-caja",
     "internalReference": 1228333
+  },
+  {
+    "locale": "es",
+    "slug": "el-algoritmo-de-seleccion-de-vendedores-no-tiene-en-cuenta-la-disponibilidad-real-del-articulo-para-elegir-la-mejor-opcion",
+    "internalReference": 360097
   },
   {
     "locale": "es",
@@ -15133,6 +15138,11 @@
     "locale": "es",
     "slug": "no-se-envia-el-correo-electronico-de-reembolso-del-pedido-cuando-se-devuelve-un-importe-adicional-mediante-la-nueva-interfaz-de-usuario-oms",
     "internalReference": 563300
+  },
+  {
+    "locale": "es",
+    "slug": "no-se-puede-crear-un-pedido-si-el-vendedor-tiene-un-codigo-de-pais-diferente",
+    "internalReference": 763955
   },
   {
     "locale": "es",
@@ -20361,6 +20371,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-interface-de-finalizacao-da-compra-nao-atualiza-o-formulario-de-pedido-quando-um-carrinho-contem-pacotes-que-compartilham-a-mesma-janela-de-entrega",
+    "internalReference": 1463913
+  },
+  {
+    "locale": "pt",
     "slug": "a-interface-de-usuario-do-checkout-altera-o-endereco-selecionado-quando-ha-mais-de-um-endereco-disponivel",
     "internalReference": 1138817
   },
@@ -21021,11 +21036,6 @@
   },
   {
     "locale": "pt",
-    "slug": "nao-e-possivel-criar-um-pedido-quando-o-vendedor-possui-um-codigo-de-pais-diferente",
-    "internalReference": 763955
-  },
-  {
-    "locale": "pt",
     "slug": "nao-ha-feedback-para-o-usuario-quando-algo-da-errado",
     "internalReference": 339072
   },
@@ -21048,11 +21058,6 @@
     "locale": "pt",
     "slug": "o-alerta-o-valor-do-frete-foi-alterado-aparece-mesmo-quando-o-valor-permanece-o-mesmo",
     "internalReference": 336928
-  },
-  {
-    "locale": "pt",
-    "slug": "o-algoritmo-de-selecao-de-vendedores-nao-leva-em-consideracao-a-disponibilidade-real-do-item-para-escolher-a-melhor-opcao",
-    "internalReference": 360097
   },
   {
     "locale": "pt",
@@ -21911,11 +21916,6 @@
   },
   {
     "locale": "pt",
-    "slug": "fbe-imagens-plppdp-falham-intermitentemente-ao-carregar-o-meta",
-    "internalReference": 1382819
-  },
-  {
-    "locale": "pt",
     "slug": "findmarketplaces-erro-5xx-desculpe-algo-deu-errado-do-nosso-lado",
     "internalReference": 1235339
   },
@@ -22293,11 +22293,6 @@
     "locale": "pt",
     "slug": "selecao-de-transportadora-amazon",
     "internalReference": 1186908
-  },
-  {
-    "locale": "pt",
-    "slug": "shopee-o-atributo-da-marca-nao-foi-enviado-ou-foi-sobrescrito-durante-a-sincronizacao-do-produto",
-    "internalReference": 1323634
   },
   {
     "locale": "pt",
@@ -23731,6 +23726,11 @@
   },
   {
     "locale": "pt",
+    "slug": "fbe-imagens-plppdp-falham-intermitentemente-ao-carregar-o-meta",
+    "internalReference": 1382819
+  },
+  {
+    "locale": "pt",
     "slug": "magazine-luiza-imagem-principal-nao-respeitada",
     "internalReference": 1221096
   },
@@ -23776,6 +23776,11 @@
   },
   {
     "locale": "pt",
+    "slug": "shopee-o-atributo-da-marca-nao-foi-enviado-ou-foi-sobrescrito-durante-a-sincronizacao-do-produto",
+    "internalReference": 1323634
+  },
+  {
+    "locale": "pt",
     "slug": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao",
     "internalReference": 1227978
   },
@@ -23806,6 +23811,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-algoritmo-de-selecao-de-vendedores-nao-leva-em-consideracao-a-disponibilidade-real-do-item-para-escolher-a-melhor-opcao",
+    "internalReference": 360097
+  },
+  {
+    "locale": "pt",
     "slug": "os-valores-minimo-e-maximo-da-logistica-afetam-o-fluxo-de-alocacao",
     "internalReference": 1227934
   },
@@ -23818,11 +23828,6 @@
     "locale": "pt",
     "slug": "a-atualizacao-do-rastreamento-falha-quando-o-invoicenumber-contem-rotas-de-faturas-omsorders",
     "internalReference": 1302085
-  },
-  {
-    "locale": "pt",
-    "slug": "autorizacao-de-pedido-inferior-a-100-segue-o-fluxo-normal",
-    "internalReference": 983031
   },
   {
     "locale": "pt",
@@ -23933,6 +23938,11 @@
     "locale": "pt",
     "slug": "atraso-no-registro-do-cancelreason-no-json-do-pedido",
     "internalReference": 792650
+  },
+  {
+    "locale": "pt",
+    "slug": "autorizacao-de-pedido-inferior-a-100-segue-o-fluxo-normal",
+    "internalReference": 983031
   },
   {
     "locale": "pt",
@@ -24088,6 +24098,11 @@
     "locale": "pt",
     "slug": "nao-e-possivel-criar-pedidos-de-assinatura-depois-que-o-sku-for-associado-a-um-presente-indisponivel",
     "internalReference": 395965
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-criar-um-pedido-quando-o-vendedor-possui-um-codigo-de-pais-diferente",
+    "internalReference": 763955
   },
   {
     "locale": "pt",
