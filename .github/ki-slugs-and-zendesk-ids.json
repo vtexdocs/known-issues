@@ -5496,6 +5496,11 @@
   },
   {
     "locale": "en",
+    "slug": "whitelabel-seller-selection-does-not-rule-out-priceless-sellers",
+    "internalReference": 327853
+  },
+  {
+    "locale": "en",
     "slug": "allow-in-the-new-order-admin-ui-return-values-without-relating-an-item",
     "internalReference": 519576
   },
@@ -14623,6 +14628,11 @@
     "locale": "es",
     "slug": "indisponibilidad-de-articulos-en-la-asignacion-de-la-aplicacion-de-ventas-con-punto-de-recogida-heuristica-inadecuada-en-la-seleccion-de-vendedores",
     "internalReference": 1234534
+  },
+  {
+    "locale": "es",
+    "slug": "la-seleccion-de-vendedores-de-marca-blanca-no-excluye-a-los-vendedores-de-valor-incalculable",
+    "internalReference": 327853
   },
   {
     "locale": "es",
@@ -23768,6 +23778,11 @@
     "locale": "pt",
     "slug": "sincronizacao-do-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao",
     "internalReference": 1227978
+  },
+  {
+    "locale": "pt",
+    "slug": "a-selecao-de-vendedores-de-marca-branca-nao-exclui-vendedores-de-valor-inestimavel",
+    "internalReference": 327853
   },
   {
     "locale": "pt",
