@@ -3,7 +3,7 @@ title: 'La llamada a datos adicionales de la transacción falla con el error "el
 slug: la-llamada-a-datos-adicionales-de-la-transaccion-falla-con-el-error-el-id-de-perfil-no-puede-ser-nulo-en-cuentas-con-rectificacion-de-correo-electronico-habilitada
 status: PUBLISHED
 createdAt: 2026-09-22T21:46:41.000Z
-updatedAt: 2026-09-22T21:46:41.000Z
+updatedAt: 2026-09-22T21:47:59.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
