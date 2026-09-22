@@ -3,7 +3,7 @@ title: 'Missing Checkout usage notifications may lead to inconsistent promotion 
 slug: missing-checkout-usage-notifications-may-lead-to-inconsistent-promotion-usage-counters
 status: PUBLISHED
 createdAt: 2026-07-16T05:03:17.000Z
-updatedAt: 2026-07-16T05:03:17.000Z
+updatedAt: 2026-09-22T21:48:49.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
