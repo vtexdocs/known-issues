@@ -3,7 +3,7 @@ title: 'Intelligent Search Facets hides selected parent facet in multiselect dri
 slug: intelligent-search-facets-hides-selected-parent-facet-in-multiselect-drilldown
 status: PUBLISHED
 createdAt: 2026-07-08T21:55:44.000Z
-updatedAt: 2026-07-08T21:55:44.000Z
+updatedAt: 2026-09-22T16:16:22.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
