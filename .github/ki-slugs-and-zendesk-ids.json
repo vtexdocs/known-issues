@@ -10211,13 +10211,13 @@
   },
   {
     "locale": "es",
-    "slug": "error-al-importar-un-producto-con-un-archivo-sin-modificar",
-    "internalReference": 1400586
+    "slug": "error-de-bloqueo-al-utilizar-las-api-de-catalog",
+    "internalReference": 862626
   },
   {
     "locale": "es",
-    "slug": "error-de-bloqueo-al-utilizar-las-api-de-catalog",
-    "internalReference": 862626
+    "slug": "error-de-importacion-del-producto-con-archivo-sin-modificar",
+    "internalReference": 1400586
   },
   {
     "locale": "es",
