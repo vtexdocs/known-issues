@@ -3,7 +3,7 @@ title: 'CentauroKI Mapper filer have 1MB file size limit on API uploads'
 slug: centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads
 status: PUBLISHED
 createdAt: 2026-09-10T23:30:29.000Z
-updatedAt: 2026-09-10T23:30:41.000Z
+updatedAt: 2026-09-22T18:15:52.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
