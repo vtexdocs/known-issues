@@ -3,7 +3,7 @@ title: 'Subscription promotions with defined periodicity may not apply to recurr
 slug: subscription-promotions-with-defined-periodicity-may-not-apply-to-recurring-orders
 status: PUBLISHED
 createdAt: 2026-06-03T18:38:50.000Z
-updatedAt: 2026-06-03T18:38:50.000Z
+updatedAt: 2026-09-22T21:50:24.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
