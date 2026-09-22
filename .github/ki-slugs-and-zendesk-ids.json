@@ -13471,7 +13471,7 @@
   },
   {
     "locale": "es",
-    "slug": "autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-plp-se-renderiza",
+    "slug": "la-funcion-de-autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-se-renderiza-la-pagina-de-perfil-de-usuario-plp",
     "internalReference": 1208038
   },
   {
@@ -23006,7 +23006,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-preenchimento-automatico-nao-exibe-as-sugestoes-de-pesquisa-durante-a-primeira-interacao-apos-a-renderizacao-do-plp",
+    "slug": "o-recurso-de-autocompletar-nao-exibe-sugestoes-de-pesquisa-durante-a-primeira-interacao-apos-a-renderizacao-do-plp",
     "internalReference": 1208038
   },
   {
