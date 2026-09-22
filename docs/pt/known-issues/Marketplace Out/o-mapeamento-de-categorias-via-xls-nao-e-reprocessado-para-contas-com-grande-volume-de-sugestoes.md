@@ -3,7 +3,7 @@ title: 'O mapeamento de categorias via XLS não é reprocessado para contas com 
 slug: o-mapeamento-de-categorias-via-xls-nao-e-reprocessado-para-contas-com-grande-volume-de-sugestoes
 status: PUBLISHED
 createdAt: 2026-07-22T20:14:59.000Z
-updatedAt: 2026-07-22T20:24:59.000Z
+updatedAt: 2026-09-22T18:12:56.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
