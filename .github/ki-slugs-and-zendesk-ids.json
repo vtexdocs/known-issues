@@ -7121,6 +7121,11 @@
   },
   {
     "locale": "en",
+    "slug": "same-boleto-number-generated-for-two-distinct-transactions-itau-shopline",
+    "internalReference": 288549
+  },
+  {
+    "locale": "en",
     "slug": "save-card-doesnt-work-for-payu-due-to-the-amount-of-validation",
     "internalReference": 334891
   },
@@ -16541,6 +16546,11 @@
   },
   {
     "locale": "es",
+    "slug": "se-genero-el-mismo-numero-de-boleto-para-dos-transacciones-distintas-itau-shopline",
+    "internalReference": 288549
+  },
+  {
+    "locale": "es",
     "slug": "se-muestran-marcadores-de-posicion-en-lugar-de-los-datos-correctos",
     "internalReference": 371183
   },
@@ -25408,6 +25418,11 @@
     "locale": "pt",
     "slug": "o-mercadopagov1-nao-consegue-autorizar-transacoes-quando-o-valor-do-dado-do-numero-de-telefone-do-usuario-e-0",
     "internalReference": 778611
+  },
+  {
+    "locale": "pt",
+    "slug": "o-mesmo-numero-de-boleto-foi-gerado-para-duas-transacoes-distintas-itau-shopline",
+    "internalReference": 288549
   },
   {
     "locale": "pt",
