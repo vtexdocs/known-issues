@@ -5396,7 +5396,7 @@
   },
   {
     "locale": "en",
-    "slug": "centauroki-mapper-filer-have-1mb-file-size-limit-on-api-uploads",
+    "slug": "centauro-mapper-file-have-1mb-file-size-limit-on-api-uploads",
     "internalReference": 1459896
   },
   {
@@ -14556,7 +14556,7 @@
   },
   {
     "locale": "es",
-    "slug": "centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api",
+    "slug": "centauro-los-archivos-del-mapeador-tienen-un-limite-de-tamano-de-1-mb-para-las-cargas-a-traves-de-la-api",
     "internalReference": 1459896
   },
   {
@@ -23731,7 +23731,7 @@
   },
   {
     "locale": "pt",
-    "slug": "centauroki-o-mapeador-de-arquivos-tem-um-limite-de-tamanho-de-arquivo-de-1-mb-para-uploads-via-api",
+    "slug": "centauro-o-arquivo-de-mapeamento-tem-um-limite-de-tamanho-de-1-mb-para-uploads-via-api",
     "internalReference": 1459896
   },
   {
