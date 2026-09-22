@@ -3,7 +3,7 @@ title: 'La importación de precios fijos puede informar incorrectamente que se r
 slug: la-importacion-de-precios-fijos-puede-informar-incorrectamente-que-se-realizo-correctamente-cuando-la-columna-sku-esta-formateada-como-un-numero
 status: PUBLISHED
 createdAt: 2026-09-01T00:05:14.000Z
-updatedAt: 2026-09-01T00:05:14.000Z
+updatedAt: 2026-09-22T21:45:46.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
