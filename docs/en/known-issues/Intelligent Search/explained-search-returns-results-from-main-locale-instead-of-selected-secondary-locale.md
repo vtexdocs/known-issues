@@ -2,8 +2,8 @@
 title: 'Explained Search returns results from main locale instead of selected secondary locale'
 slug: explained-search-returns-results-from-main-locale-instead-of-selected-secondary-locale
 status: PUBLISHED
-createdAt: 2026-03-10T14:16:57.176Z
-updatedAt: 2026-03-10T14:16:57.176Z
+createdAt: 2026-03-10T17:16:30.000Z
+updatedAt: 2026-09-22T16:51:07.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -25,6 +25,7 @@ In **Admin > Storefront > Intelligent Search > Explained Search**, the search re
 3. Search for a term that has:
   - Products are indexed and visible in both locales, but
   - Clear differences between locales (e.g., translated names).
+
 4. Observe that the search result retrieves products from the main locale (`en-US`), even though the **secondary locale** (`es-AR`) is selected in Explained Search.
 
 ## Workaround
