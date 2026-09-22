@@ -13666,11 +13666,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada",
-    "internalReference": 1376133
-  },
-  {
-    "locale": "es",
     "slug": "la-busqueda-explicada-no-tiene-resultados-cuando-el-idioma-coincide-con-la-configuracion-regional-del-administrador-tambien-configurada-en-la-busqu",
     "internalReference": 830490
   },
@@ -13728,6 +13723,11 @@
     "locale": "es",
     "slug": "la-funcion-de-autocompletado-no-responde-al-iniciar-el-sistema-en-frio",
     "internalReference": 418573
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-de-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada",
+    "internalReference": 1376133
   },
   {
     "locale": "es",
@@ -22676,6 +22676,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-opcao-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada",
+    "internalReference": 1376133
+  },
+  {
+    "locale": "pt",
     "slug": "a-ordenacao-por-desconto-ignora-o-contexto-do-canal-de-vendas",
     "internalReference": 1431337
   },
@@ -22693,11 +22698,6 @@
     "locale": "pt",
     "slug": "a-pesquisa-de-produtos-por-campos-de-id-nao-funciona-com-caracteres-maiusculos",
     "internalReference": 1205216
-  },
-  {
-    "locale": "pt",
-    "slug": "a-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada",
-    "internalReference": 1376133
   },
   {
     "locale": "pt",
