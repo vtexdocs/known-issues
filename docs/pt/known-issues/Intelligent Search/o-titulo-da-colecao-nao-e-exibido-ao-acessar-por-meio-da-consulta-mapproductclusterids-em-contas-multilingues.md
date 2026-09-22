@@ -1,9 +1,9 @@
 ---
-title: 'O título da coleção não é exibido ao acessar por meio da consulta ?map=productClusterIds em contas multilíngues'
+title: 'O título da coleção não é exibido ao acessar por meio da consulta ?map=productClusterIds em contas multilíngues.'
 slug: o-titulo-da-colecao-nao-e-exibido-ao-acessar-por-meio-da-consulta-mapproductclusterids-em-contas-multilingues
 status: PUBLISHED
-createdAt: 2026-04-09T19:01:40.107Z
-updatedAt: 2026-04-09T19:01:40.107Z
+createdAt: 2026-04-09T22:00:58.000Z
+updatedAt: 2026-09-22T16:50:25.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,14 +18,15 @@ internalReference: 1390606
 
 ## Sumário
 
-Ao alterar o idioma da loja em uma página de coleção por meio de `?map=productClusterIds`, o título da coleção e a trilha de navegação podem desaparecer.
+Ao alterar o idioma da loja em uma página de coleção por meio de `?map=productClusterIds`, o título da coleção e o caminho de navegação podem desaparecer.
 
-Embora as coleções não devam depender do idioma, o fluxo de indexação atual pode tratar valores vazios relacionados à coleção de uma forma que resulte nesse comportamento inesperado na prateleira.
+Embora as coleções não devam ser dependentes de idioma, o fluxo de indexação atual pode lidar com valores vazios relacionados à coleção de uma forma que resulta nesse comportamento inesperado na prateleira.
 
 ## Simulação
 
 1 - Acesse uma página de coleção por meio de `?map=productClusterIds`.
-2 - Quando a página da coleção é aberta, o título e a trilha de navegação desaparecem.
+
+2 - Ao abrir a página da coleção, o título e o caminho de navegação desaparecem.
 
 ## Workaround
 
