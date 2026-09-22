@@ -1211,6 +1211,11 @@
   },
   {
     "locale": "en",
+    "slug": "incorrect-id-and-department-name-when-exporting-products-spreadsheet",
+    "internalReference": 783363
+  },
+  {
+    "locale": "en",
     "slug": "incorrect-message-error-when-creatingediting-skus",
     "internalReference": 774518
   },
@@ -5153,11 +5158,6 @@
     "locale": "en",
     "slug": "error-importing-product-image-spreadsheet",
     "internalReference": 697200
-  },
-  {
-    "locale": "en",
-    "slug": "incorrect-id-and-department-name-when-exporting-products-spreadsheet",
-    "internalReference": 783363
   },
   {
     "locale": "en",
@@ -10306,6 +10306,11 @@
   },
   {
     "locale": "es",
+    "slug": "id-y-nombre-del-departamento-incorrectos-al-exportar-la-hoja-de-calculo-de-productos",
+    "internalReference": 783363
+  },
+  {
+    "locale": "es",
     "slug": "incoherencia-al-buscar-facetas-que-contengan-resultados-con-valores-de-especificacion-elevados",
     "internalReference": 824198
   },
@@ -14333,11 +14338,6 @@
     "locale": "es",
     "slug": "error-al-importar-planilla-de-imagenes-de-productos",
     "internalReference": 697200
-  },
-  {
-    "locale": "es",
-    "slug": "id-y-nombre-de-departamento-incorrectos-al-exportar-planilla-de-productos",
-    "internalReference": 783363
   },
   {
     "locale": "es",
@@ -19766,6 +19766,11 @@
   },
   {
     "locale": "pt",
+    "slug": "id-e-nome-do-departamento-incorretos-ao-exportar-a-planilha-de-produtos",
+    "internalReference": 783363
+  },
+  {
+    "locale": "pt",
     "slug": "importacao-de-novas-coleccoes-nao-trata-de-importacao-de-produtos-nao-existentes",
     "internalReference": 398602
   },
@@ -23528,11 +23533,6 @@
     "locale": "pt",
     "slug": "erro-ao-importar-planilha-de-imagens-de-produto",
     "internalReference": 697200
-  },
-  {
-    "locale": "pt",
-    "slug": "id-e-nome-de-departamento-incorretos-ao-exportar-planilha-de-produtos",
-    "internalReference": 783363
   },
   {
     "locale": "pt",
