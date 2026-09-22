@@ -3,7 +3,7 @@ title: 'Shopee Mapper does not support dynamic categories — attributes that un
 slug: shopee-mapper-does-not-support-dynamic-categories-attributes-that-unlock-additional-required-subcategories
 status: PUBLISHED
 createdAt: 2026-06-29T18:16:36.000Z
-updatedAt: 2026-06-29T18:16:36.000Z
+updatedAt: 2026-09-22T18:13:11.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
