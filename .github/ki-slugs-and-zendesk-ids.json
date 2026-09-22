@@ -13911,11 +13911,6 @@
   },
   {
     "locale": "es",
-    "slug": "los-resultados-de-busqueda-de-sku-independientes-no-tienen-en-cuenta-la-disponibilidad-regionalizada",
-    "internalReference": 1344487
-  },
-  {
-    "locale": "es",
     "slug": "los-sinonimos-transmiten-una-sensacion-de-exito-incluso-en-el-caso-de-acciones-fallidas",
     "internalReference": 984557
   },
@@ -14028,6 +14023,11 @@
     "locale": "es",
     "slug": "resolver-de-busqueda-que-aplica-las-traducciones-de-messages-al-contenido-ya-traducido",
     "internalReference": 865918
+  },
+  {
+    "locale": "es",
+    "slug": "resultados-de-busqueda-de-sku-independientes-que-no-tienen-en-cuenta-la-disponibilidad-regional",
+    "internalReference": 1344487
   },
   {
     "locale": "es",
@@ -23076,11 +23076,6 @@
   },
   {
     "locale": "pt",
-    "slug": "os-resultados-da-pesquisa-de-skus-independentes-nao-consideram-a-disponibilidade-regionalizada",
-    "internalReference": 1344487
-  },
-  {
-    "locale": "pt",
     "slug": "os-resultados-da-pesquisa-podem-nao-exibir-produtos-dos-sinonimos",
     "internalReference": 1094028
   },
@@ -23193,6 +23188,11 @@
     "locale": "pt",
     "slug": "regras-de-visual-merchandising-que-alteram-produtos-inesperados-devido-a-ids-conflitantes",
     "internalReference": 1092750
+  },
+  {
+    "locale": "pt",
+    "slug": "resultados-de-pesquisa-de-skus-separados-nao-consideram-a-disponibilidade-regional",
+    "internalReference": 1344487
   },
   {
     "locale": "pt",
