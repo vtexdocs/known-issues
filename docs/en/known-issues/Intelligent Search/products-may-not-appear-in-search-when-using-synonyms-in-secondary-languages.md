@@ -2,8 +2,8 @@
 title: 'Products may not appear in search when using synonyms in secondary languages'
 slug: products-may-not-appear-in-search-when-using-synonyms-in-secondary-languages
 status: PUBLISHED
-createdAt: 2025-08-12T17:19:23.086Z
-updatedAt: 2025-08-12T17:19:23.086Z
+createdAt: 2025-07-30T19:40:12.000Z
+updatedAt: 2026-09-22T16:56:17.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,7 +16,6 @@ internalReference: 1268282
 
 ## Summary
 
-
 During indexing, Intelligent Search applies normalization to synonym terms, but it does not normalize product names in secondary languages when matching those synonyms.
 
 Because of this mismatch, synonyms with accents may fail to match product names in non-primary languages, and the affected products may not appear in the search results.
@@ -25,9 +24,7 @@ Affected languages:
 
 - `ca-ES` - catalan
 
-
-#### Simulation
-
+## Simulation
 
 Follow the steps hereafter to simulate the scenario:
 1 - Create a synonym with accents in the affected locale.
@@ -35,10 +32,6 @@ Follow the steps hereafter to simulate the scenario:
 
 The result does not retrieve the expected products where the original terms of the product name have accents.
 
-
-#### Workaround
-
+## Workaround
 
 N/A
-
-
