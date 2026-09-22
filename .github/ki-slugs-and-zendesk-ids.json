@@ -14451,7 +14451,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-las-ofertas-en-en-espera-de-revision",
+    "slug": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-ofertas-en-waitingreview",
     "internalReference": 1401046
   },
   {
@@ -23556,7 +23556,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-aguardando-revisao",
+    "slug": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-waitingreview",
     "internalReference": 1401046
   },
   {
