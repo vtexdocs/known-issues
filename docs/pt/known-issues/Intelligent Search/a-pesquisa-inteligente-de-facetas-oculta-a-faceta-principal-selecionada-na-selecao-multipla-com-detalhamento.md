@@ -3,7 +3,7 @@ title: 'A pesquisa inteligente de facetas oculta a faceta principal selecionada 
 slug: a-pesquisa-inteligente-de-facetas-oculta-a-faceta-principal-selecionada-na-selecao-multipla-com-detalhamento
 status: PUBLISHED
 createdAt: 2026-07-08T21:55:44.000Z
-updatedAt: 2026-07-08T21:55:44.000Z
+updatedAt: 2026-09-22T16:16:22.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
