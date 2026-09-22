@@ -726,6 +726,11 @@
   },
   {
     "locale": "en",
+    "slug": "catalog-api-get-sku-id-by-ref-id-dont-work-if-the-refid-has-special-characters-such-as",
+    "internalReference": 467501
+  },
+  {
+    "locale": "en",
     "slug": "catalog-brand-api-rest-allows-the-client-to-break-the-information-if-sending-request-with-incorrect-values",
     "internalReference": 1126473
   },
@@ -10411,6 +10416,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-api-del-catalogo-obtener-id-de-sku-por-id-de-referencia-no-funciona-si-el-refid-tiene-caracteres-especiales-como",
+    "internalReference": 467501
+  },
+  {
+    "locale": "es",
     "slug": "la-api-del-catalogo-stockkeepingunit-permite-valores-de-condicion-comercial-no-validos",
     "internalReference": 769053
   },
@@ -18943,6 +18953,11 @@
     "locale": "pt",
     "slug": "a-api-de-aprovacao-automatica-aceita-qualquer-valor",
     "internalReference": 713704
+  },
+  {
+    "locale": "pt",
+    "slug": "a-api-de-catalogo-que-obtem-o-id-da-sku-pelo-id-de-referencia-nao-funciona-se-o-id-de-referencia-contiver-caracteres-especiais-como-o-sinal-de",
+    "internalReference": 467501
   },
   {
     "locale": "pt",
