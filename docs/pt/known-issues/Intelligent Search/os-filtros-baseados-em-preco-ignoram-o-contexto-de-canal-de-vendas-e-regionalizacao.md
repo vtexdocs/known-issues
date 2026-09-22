@@ -3,7 +3,7 @@ title: 'Os filtros baseados em preço ignoram o contexto de canal de vendas e re
 slug: os-filtros-baseados-em-preco-ignoram-o-contexto-de-canal-de-vendas-e-regionalizacao
 status: PUBLISHED
 createdAt: 2026-07-07T20:38:08.000Z
-updatedAt: 2026-07-07T20:38:08.000Z
+updatedAt: 2026-09-22T16:17:13.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
