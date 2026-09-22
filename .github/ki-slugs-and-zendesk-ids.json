@@ -1476,6 +1476,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
+    "internalReference": 1427405
+  },
+  {
+    "locale": "en",
     "slug": "product-availability-display-delayed-when-using-multiple-sales-channels",
     "internalReference": 949411
   },
@@ -4633,11 +4638,6 @@
     "locale": "en",
     "slug": "prioritization-by-products-keyword-not-considering-stopwords",
     "internalReference": 1041743
-  },
-  {
-    "locale": "en",
-    "slug": "product-and-sku-import-fails-for-large-size-of-spreadsheet-file",
-    "internalReference": 1427405
   },
   {
     "locale": "en",
@@ -10566,6 +10566,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
+    "internalReference": 1427405
+  },
+  {
+    "locale": "es",
     "slug": "la-importacion-de-productosskus-no-es-compatible-con-lb",
     "internalReference": 337860
   },
@@ -13728,11 +13733,6 @@
     "locale": "es",
     "slug": "la-funcion-de-busqueda-inteligente-oculta-la-faceta-principal-seleccionada-en-la-exploracion-en-profundidad-de-seleccion-multiple",
     "internalReference": 1432016
-  },
-  {
-    "locale": "es",
-    "slug": "la-importacion-de-productos-y-sku-falla-cuando-el-archivo-de-hoja-de-calculo-es-de-gran-tamano",
-    "internalReference": 1427405
   },
   {
     "locale": "es",
@@ -19136,6 +19136,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha",
+    "internalReference": 1427405
+  },
+  {
+    "locale": "pt",
     "slug": "a-insercao-de-varios-valores-de-especificacao-nao-esta-funcionando-no-catalogo-legado",
     "internalReference": 1246453
   },
@@ -22668,11 +22673,6 @@
     "locale": "pt",
     "slug": "a-funcao-pesquisa-inteligente-de-sinonimos-nao-recria-sinonimos-excluidos",
     "internalReference": 1211321
-  },
-  {
-    "locale": "pt",
-    "slug": "a-importacao-de-produtos-e-skus-falha-devido-ao-tamanho-grande-da-planilha",
-    "internalReference": 1427405
   },
   {
     "locale": "pt",
