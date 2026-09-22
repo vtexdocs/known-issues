@@ -1,9 +1,9 @@
 ---
-title: 'Contas com "-" no nome não têm métricas no relatório de pesquisa'
+title: 'Contas com "-" no nome não têm métricas no relatório de pesquisa.'
 slug: contas-com-no-nome-nao-tem-metricas-no-relatorio-de-pesquisa
 status: PUBLISHED
-createdAt: 2025-12-26T20:13:17.471Z
-updatedAt: 2025-12-26T20:13:17.471Z
+createdAt: 2025-12-26T23:12:28.000Z
+updatedAt: 2026-09-22T16:52:20.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,17 +18,12 @@ internalReference: 1344531
 
 ## Sumário
 
+Se o nome da conta for algo como `minha-conta`, o relatório de pesquisa não receberá dados. Mesmo com os eventos configurados corretamente.
 
-Se o nome da conta for algo como "my-account", o relatório de pesquisa não receberá dados. Mesmo com os eventos configurados corretamente.
 ## Simulação
 
-
-Tente procurar as análises de pesquisa de qualquer conta que tenha um "-" em seu nome. Ela estará em branco.
-
+Tente procurar as análises de pesquisa de qualquer conta que tenha um "-" no nome. Elas estarão em branco.
 
 ## Workaround
 
-
 N/A
-
-
