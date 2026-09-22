@@ -2,8 +2,8 @@
 title: 'Product Import Error with Unmodified file'
 slug: product-import-error-with-unmodified-file
 status: PUBLISHED
-createdAt: 2026-05-04T12:06:58.640Z
-updatedAt: 2026-05-04T12:06:58.640Z
+createdAt: 2026-05-04T15:02:19.000Z
+updatedAt: 2026-09-22T20:20:23.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
