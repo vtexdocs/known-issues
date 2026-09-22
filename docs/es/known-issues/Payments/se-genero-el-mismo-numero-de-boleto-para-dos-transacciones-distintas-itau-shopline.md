@@ -3,14 +3,14 @@ title: 'Se generó el mismo número de boleto para dos transacciones distintas (
 slug: se-genero-el-mismo-numero-de-boleto-para-dos-transacciones-distintas-itau-shopline
 status: PUBLISHED
 createdAt: 2020-09-18T01:03:17.000Z
-updatedAt: 2026-09-22T17:02:29.000Z
+updatedAt: 2026-09-22T17:03:30.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: same-boleto-number-generated-for-two-distinct-transactions-itau-shopline
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 288549
 ---
 
