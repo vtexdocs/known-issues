@@ -13536,7 +13536,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-formulario-de-busqueda-inteligente-de-sinonimos-puede-congelar-el-campo-de-tipo-de-sinonimo-despues-de-crear-un-sinonimo-unidireccional",
+    "slug": "el-formulario-de-sinonimos-de-busqueda-inteligente-puede-bloquear-el-campo-de-tipo-de-sinonimo-despues-de-crear-un-sinonimo-unidireccional",
     "internalReference": 1215521
   },
   {
@@ -13586,7 +13586,7 @@
   },
   {
     "locale": "es",
-    "slug": "es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilizan-sinonimos-en-lenguas-secundarias",
+    "slug": "es-posible-que-los-productos-no-aparezcan-en-la-busqueda-cuando-se-utilicen-sinonimos-en-idiomas-secundarios",
     "internalReference": 1268282
   },
   {
@@ -22966,7 +22966,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-formulario-intelligent-search-synonyms-pode-congelar-o-campo-de-tipo-de-sinonimo-apos-a-criacao-de-um-sinonimo-unidirecional",
+    "slug": "o-formulario-de-sinonimos-da-busca-inteligente-pode-congelar-o-campo-de-tipo-de-sinonimo-apos-a-criacao-de-um-sinonimo-unidirecional",
     "internalReference": 1215521
   },
   {
