@@ -3,7 +3,7 @@ title: 'A ausência de notificações de utilização do Checkout pode levar a c
 slug: a-ausencia-de-notificacoes-de-utilizacao-do-checkout-pode-levar-a-contadores-de-utilizacao-de-promocoes-inconsistentes
 status: PUBLISHED
 createdAt: 2026-07-16T05:03:17.000Z
-updatedAt: 2026-07-16T05:03:17.000Z
+updatedAt: 2026-09-22T21:48:49.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
