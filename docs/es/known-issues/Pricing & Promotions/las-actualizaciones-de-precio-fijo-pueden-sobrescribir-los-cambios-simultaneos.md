@@ -3,7 +3,7 @@ title: 'Las actualizaciones de precio fijo pueden sobrescribir los cambios simul
 slug: las-actualizaciones-de-precio-fijo-pueden-sobrescribir-los-cambios-simultaneos
 status: PUBLISHED
 createdAt: 2026-09-09T15:50:21.000Z
-updatedAt: 2026-09-09T15:50:21.000Z
+updatedAt: 2026-09-22T21:43:43.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
