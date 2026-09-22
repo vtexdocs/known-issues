@@ -3,7 +3,7 @@ title: 'El formulario del producto muestra información de usuario desactualizad
 slug: el-formulario-del-producto-muestra-informacion-de-usuario-desactualizada-en-el-panel-de-administracion-para-la-ultima-edicion-en-todo-el-catalogo
 status: PUBLISHED
 createdAt: 2026-09-16T19:35:35.000Z
-updatedAt: 2026-09-16T19:35:35.000Z
+updatedAt: 2026-09-22T17:56:17.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
