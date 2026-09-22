@@ -3,7 +3,7 @@ title: 'La asignación de categorías mediante XLS no se reprocesa para cuentas 
 slug: la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias
 status: PUBLISHED
 createdAt: 2026-07-22T20:14:59.000Z
-updatedAt: 2026-07-22T20:24:59.000Z
+updatedAt: 2026-09-22T18:12:56.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
