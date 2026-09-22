@@ -3,7 +3,7 @@ title: 'Transaction additional-data call fails with "profile Id cannot be null" 
 slug: transaction-additionaldata-call-fails-with-profile-id-cannot-be-null-on-accounts-with-email-rectification-enabled
 status: PUBLISHED
 createdAt: 2026-09-22T21:46:41.000Z
-updatedAt: 2026-09-22T21:46:41.000Z
+updatedAt: 2026-09-22T21:47:59.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
