@@ -7291,6 +7291,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-additionaldata-call-fails-with-profile-id-cannot-be-null-on-accounts-with-email-rectification-enabled",
+    "internalReference": 1464703
+  },
+  {
+    "locale": "en",
     "slug": "transaction-canceled-by-timeout-timeout-no-request-para-o-sistema-de-parcelamento",
     "internalReference": 533844
   },
@@ -16011,6 +16016,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-llamada-a-datos-adicionales-de-la-transaccion-falla-con-el-error-el-id-de-perfil-no-puede-ser-nulo-en-cuentas-con-rectificacion-de-correo-electronico-habilitada",
+    "internalReference": 1464703
+  },
+  {
+    "locale": "es",
     "slug": "la-llamada-al-giftcard-hub-recibe-un-error-500",
     "internalReference": 1286257
   },
@@ -24578,6 +24588,11 @@
     "locale": "pt",
     "slug": "a-captura-automatica-programada-nao-e-exibida",
     "internalReference": 1121837
+  },
+  {
+    "locale": "pt",
+    "slug": "a-chamada-de-dados-adicionais-da-transacao-falha-com-a-mensagem-o-id-do-perfil-nao-pode-ser-nulo-em-contas-com-a-retificacao-de-email-ativada",
+    "internalReference": 1464703
   },
   {
     "locale": "pt",
