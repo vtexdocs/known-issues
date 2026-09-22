@@ -3,7 +3,7 @@ title: 'As atualizações de preço fixo podem sobrescrever alterações simult�
 slug: as-atualizacoes-de-preco-fixo-podem-sobrescrever-alteracoes-simultaneas
 status: PUBLISHED
 createdAt: 2026-09-09T15:50:21.000Z
-updatedAt: 2026-09-09T15:50:21.000Z
+updatedAt: 2026-09-22T21:43:43.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
