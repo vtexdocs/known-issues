@@ -3,7 +3,7 @@ title: 'Fixed Price updates may overwrite concurrent changes'
 slug: fixed-price-updates-may-overwrite-concurrent-changes
 status: PUBLISHED
 createdAt: 2026-09-09T15:50:21.000Z
-updatedAt: 2026-09-09T15:50:21.000Z
+updatedAt: 2026-09-22T21:43:43.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
