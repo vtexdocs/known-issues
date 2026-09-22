@@ -3,7 +3,7 @@ title: 'Amazon Silent Error when Connecting Amazon Integration'
 slug: amazon-silent-error-when-connecting-amazon-integration
 status: PUBLISHED
 createdAt: 2026-08-31T18:41:28.000Z
-updatedAt: 2026-09-22T18:15:58.000Z
+updatedAt: 2026-09-22T19:14:25.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
