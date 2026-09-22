@@ -12696,7 +12696,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-estado-del-pedido-de-amazon-no-se-revisa-al-reprocesar-el-pedido-en-el-puente",
+    "slug": "el-estado-del-pedido-de-amazon-no-se-actualiza-al-reprocesar-el-pedido-en-bridge",
     "internalReference": 1119618
   },
   {
@@ -22231,7 +22231,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-status-do-pedido-da-amazon-nao-e-revisado-ao-reprocessar-o-pedido-na-ponte",
+    "slug": "o-status-do-pedido-da-amazon-nao-e-atualizado-ao-reprocessar-o-pedido-na-plataforma",
     "internalReference": 1119618
   },
   {
