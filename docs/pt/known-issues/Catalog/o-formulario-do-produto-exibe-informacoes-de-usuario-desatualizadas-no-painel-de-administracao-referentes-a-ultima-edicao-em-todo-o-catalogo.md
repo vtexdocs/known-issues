@@ -3,7 +3,7 @@ title: 'O formulário do produto exibe informações de usuário desatualizadas 
 slug: o-formulario-do-produto-exibe-informacoes-de-usuario-desatualizadas-no-painel-de-administracao-referentes-a-ultima-edicao-em-todo-o-catalogo
 status: PUBLISHED
 createdAt: 2026-09-16T19:35:35.000Z
-updatedAt: 2026-09-16T19:35:35.000Z
+updatedAt: 2026-09-22T17:56:17.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
