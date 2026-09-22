@@ -5416,6 +5416,11 @@
   },
   {
     "locale": "en",
+    "slug": "magazine-luiza-integration-not-support-multiple-packages",
+    "internalReference": 1369259
+  },
+  {
+    "locale": "en",
     "slug": "magazine-luiza-main-image-not-respected",
     "internalReference": 1221096
   },
@@ -14586,6 +14591,11 @@
   },
   {
     "locale": "es",
+    "slug": "magazine-luiza-la-integracion-no-admite-multiples-paquetes",
+    "internalReference": 1369259
+  },
+  {
+    "locale": "es",
     "slug": "mercado-livre-anuncios-recreados-incorrectamente-como-crossdocking-para-sku-completos-con-stock-cero",
     "internalReference": 1440697
   },
@@ -23748,6 +23758,11 @@
     "locale": "pt",
     "slug": "fbe-imagens-plppdp-falham-intermitentemente-ao-carregar-o-meta",
     "internalReference": 1382819
+  },
+  {
+    "locale": "pt",
+    "slug": "magazine-luiza-a-integracao-nao-suporta-varios-pacotes",
+    "internalReference": 1369259
   },
   {
     "locale": "pt",
