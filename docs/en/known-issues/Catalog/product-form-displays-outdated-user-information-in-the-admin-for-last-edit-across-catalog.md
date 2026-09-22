@@ -3,7 +3,7 @@ title: 'Product form displays outdated user information in the Admin for last ed
 slug: product-form-displays-outdated-user-information-in-the-admin-for-last-edit-across-catalog
 status: PUBLISHED
 createdAt: 2026-09-16T19:35:35.000Z
-updatedAt: 2026-09-16T19:35:35.000Z
+updatedAt: 2026-09-22T17:56:17.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
