@@ -3,7 +3,7 @@ title: 'Tax UI not showing trade policy exclusion data'
 slug: tax-ui-not-showing-trade-policy-exclusion-data
 status: PUBLISHED
 createdAt: 2026-06-30T23:38:38.000Z
-updatedAt: 2026-07-01T18:36:45.000Z
+updatedAt: 2026-09-22T18:48:55.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
