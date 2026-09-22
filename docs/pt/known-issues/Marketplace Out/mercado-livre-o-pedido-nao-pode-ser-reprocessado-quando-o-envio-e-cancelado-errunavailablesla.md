@@ -3,7 +3,7 @@ title: 'Mercado Livre O pedido não pode ser reprocessado quando o envio é canc
 slug: mercado-livre-o-pedido-nao-pode-ser-reprocessado-quando-o-envio-e-cancelado-errunavailablesla
 status: PUBLISHED
 createdAt: 2026-08-03T20:51:28.000Z
-updatedAt: 2026-08-03T20:51:28.000Z
+updatedAt: 2026-09-22T18:17:32.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
