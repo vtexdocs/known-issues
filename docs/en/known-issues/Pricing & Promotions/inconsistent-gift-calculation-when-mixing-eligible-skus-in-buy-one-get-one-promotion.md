@@ -2,8 +2,8 @@
 title: 'Inconsistent gift calculation when mixing eligible SKUs in Buy One Get One promotion'
 slug: inconsistent-gift-calculation-when-mixing-eligible-skus-in-buy-one-get-one-promotion
 status: PUBLISHED
-createdAt: 2026-04-20T14:26:12.275Z
-updatedAt: 2026-04-20T14:26:12.275Z
+createdAt: 2026-04-20T17:25:36.000Z
+updatedAt: 2026-09-22T21:51:07.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -25,6 +25,7 @@ In Buy One Get One promotions configured with multiple eligible SKUs, gift calcu
   - Minimum quantity = 3 units per SKU
   - Gift multiplier enabled
   - Same rules applied to all SKUs
+
 2. Test the following cart scenarios:
   - 3 units of SKU A → 1 gift ✅
   - 6 units of SKU A → 2 gifts ✅
@@ -33,6 +34,7 @@ In Buy One Get One promotions configured with multiple eligible SKUs, gift calcu
   - 9 units of SKU A → 3 gifts ✅
   - 9 units of SKU A + 3 units of SKU B → 1 gift ❌
   - 9 units of SKU A + 6 units of SKU B → 2 gifts ❌
+
 Observe that:
 
 - When a second SKU reaches the minimum quantity, it starts participating in the calculation.
