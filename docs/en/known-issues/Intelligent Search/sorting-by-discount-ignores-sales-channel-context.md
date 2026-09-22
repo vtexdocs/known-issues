@@ -3,7 +3,7 @@ title: 'Sorting by discount ignores Sales Channel context'
 slug: sorting-by-discount-ignores-sales-channel-context
 status: PUBLISHED
 createdAt: 2026-07-07T20:33:35.000Z
-updatedAt: 2026-07-07T20:33:35.000Z
+updatedAt: 2026-09-22T16:18:18.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
