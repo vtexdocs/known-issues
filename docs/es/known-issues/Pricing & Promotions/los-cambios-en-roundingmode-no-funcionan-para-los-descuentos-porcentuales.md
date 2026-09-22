@@ -3,7 +3,7 @@ title: 'Los cambios en RoundingMode no funcionan para los descuentos porcentuale
 slug: los-cambios-en-roundingmode-no-funcionan-para-los-descuentos-porcentuales
 status: PUBLISHED
 createdAt: 2025-03-12T19:53:08.000Z
-updatedAt: 2026-08-15T23:19:03.000Z
+updatedAt: 2026-09-22T23:47:50.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
