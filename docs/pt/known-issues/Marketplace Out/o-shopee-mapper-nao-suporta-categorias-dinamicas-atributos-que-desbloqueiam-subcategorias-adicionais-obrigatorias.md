@@ -3,7 +3,7 @@ title: 'O Shopee Mapper não suporta categorias dinâmicas — atributos que des
 slug: o-shopee-mapper-nao-suporta-categorias-dinamicas-atributos-que-desbloqueiam-subcategorias-adicionais-obrigatorias
 status: PUBLISHED
 createdAt: 2026-06-29T18:16:36.000Z
-updatedAt: 2026-06-29T18:16:36.000Z
+updatedAt: 2026-09-22T18:13:11.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
