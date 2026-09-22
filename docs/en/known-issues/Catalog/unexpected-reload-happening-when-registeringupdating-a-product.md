@@ -2,15 +2,15 @@
 title: 'Unexpected reload happening when registering/updating a product'
 slug: unexpected-reload-happening-when-registeringupdating-a-product
 status: PUBLISHED
-createdAt: 2023-07-17T18:28:05.000Z
-updatedAt: 2023-10-20T13:42:16.000Z
+createdAt: 2023-07-17T21:28:05.000Z
+updatedAt: 2026-09-22T22:12:15.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: unexpected-reload-happening-when-registeringupdating-a-product
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 863542
 ---
 
@@ -18,12 +18,12 @@ internalReference: 863542
 
 When registering or updating a product form, some users are reporting that when doing this action several times in a row, at some point the page forces and refreshes on its own.
 
-We couldn't find a pattern to justify this
+We couldn't find a pattern to justify this.
 
 ## Simulation
 
 Updating/registering a product form several times in a row.
-it is hard do simulate since it is totally random
+It is hard to simulate since it is totally random.
 
 ## Workaround
 
