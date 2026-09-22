@@ -3,7 +3,7 @@ title: 'A chamada de dados adicionais da transação falha com a mensagem "o ID 
 slug: a-chamada-de-dados-adicionais-da-transacao-falha-com-a-mensagem-o-id-do-perfil-nao-pode-ser-nulo-em-contas-com-a-retificacao-de-email-ativada
 status: PUBLISHED
 createdAt: 2026-09-22T21:46:41.000Z
-updatedAt: 2026-09-22T21:46:41.000Z
+updatedAt: 2026-09-22T21:47:59.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
