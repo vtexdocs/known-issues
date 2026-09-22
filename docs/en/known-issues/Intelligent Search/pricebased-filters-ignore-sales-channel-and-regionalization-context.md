@@ -3,7 +3,7 @@ title: 'Price-based filters ignore Sales Channel and Regionalization context'
 slug: pricebased-filters-ignore-sales-channel-and-regionalization-context
 status: PUBLISHED
 createdAt: 2026-07-07T20:38:08.000Z
-updatedAt: 2026-07-07T20:38:08.000Z
+updatedAt: 2026-09-22T16:17:13.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
