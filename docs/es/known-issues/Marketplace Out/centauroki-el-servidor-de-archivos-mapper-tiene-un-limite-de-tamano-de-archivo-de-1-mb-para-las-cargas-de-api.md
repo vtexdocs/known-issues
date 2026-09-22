@@ -3,7 +3,7 @@ title: 'CentauroKI El servidor de archivos Mapper tiene un límite de tamaño de
 slug: centauroki-el-servidor-de-archivos-mapper-tiene-un-limite-de-tamano-de-archivo-de-1-mb-para-las-cargas-de-api
 status: PUBLISHED
 createdAt: 2026-09-10T23:30:29.000Z
-updatedAt: 2026-09-10T23:30:41.000Z
+updatedAt: 2026-09-22T18:15:52.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
