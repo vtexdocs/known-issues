@@ -14361,7 +14361,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-filtro-de-busqueda-no-funciona-mas-alla-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
+    "slug": "el-filtro-de-busqueda-no-funciona-fuera-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
     "internalReference": 1406339
   },
   {
@@ -23636,7 +23636,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-filtro-de-pesquisa-nao-funciona-fora-da-primeira-pagina-na-secao-de-skus-recebidos",
+    "slug": "o-filtro-de-pesquisa-nao-esta-funcionando-fora-da-primeira-pagina-na-secao-de-skus-recebidos",
     "internalReference": 1406339
   },
   {
