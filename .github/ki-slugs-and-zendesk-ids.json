@@ -10281,7 +10281,7 @@
   },
   {
     "locale": "es",
-    "slug": "giftlist-la-fecha-del-evento-guardada-en-la-ui-no-es-la-misma-que-se-refleja-en-la-bd",
+    "slug": "lista-de-regalos-los-datos-del-evento-salvado-en-la-interfaz-de-usuario-no-son-mensajes-que-se-reflejen-en-la-bd",
     "internalReference": 402134
   },
   {
@@ -19731,7 +19731,7 @@
   },
   {
     "locale": "pt",
-    "slug": "giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd",
+    "slug": "giftlist-dados-de-evento-salvos-na-ui-nao-e-a-mesma-que-reflete-no-bd",
     "internalReference": 402134
   },
   {
