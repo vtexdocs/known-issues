@@ -3,7 +3,7 @@ title: 'Mercado Livre Order fails to reprocess when shipment is cancelled (ERR_U
 slug: mercado-livre-order-fails-to-reprocess-when-shipment-is-cancelled-errunavailablesla
 status: PUBLISHED
 createdAt: 2026-08-03T20:51:28.000Z
-updatedAt: 2026-08-03T20:51:28.000Z
+updatedAt: 2026-09-22T18:17:32.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
