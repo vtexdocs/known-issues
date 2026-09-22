@@ -17441,7 +17441,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-promocion-se-aplica-a-todos-los-ans-en-lugar-de-solo-al-metodo-de-envio-seleccionado",
+    "slug": "la-promocion-se-aplica-a-todos-los-sla-en-lugar-de-solo-a-un-metodo-de-envio-seleccionado",
     "internalReference": 1265187
   },
   {
@@ -26466,7 +26466,7 @@
   },
   {
     "locale": "pt",
-    "slug": "a-promocao-se-aplica-a-todos-os-slas-em-vez-de-apenas-ao-metodo-de-envio-selecionado",
+    "slug": "a-promocao-se-aplica-a-todos-os-slas-e-nao-apenas-ao-metodo-de-envio-selecionado",
     "internalReference": 1265187
   },
   {
