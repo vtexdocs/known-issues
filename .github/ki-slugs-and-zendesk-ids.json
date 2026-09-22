@@ -17176,13 +17176,13 @@
   },
   {
     "locale": "es",
-    "slug": "calculo-incorrecto-del-descuento-para-mas-por-menos-con-precio-maximo-despues-de-la-division-del-articulo-por-la-aplicacion-de-promocion-anterior",
-    "internalReference": 1093789
+    "slug": "calculo-inconsistente-del-regalo-al-combinar-sku-elegibles-en-la-promocion-compre-uno-y-llevese-otro-gratis",
+    "internalReference": 1395338
   },
   {
     "locale": "es",
-    "slug": "calculo-incorrecto-del-regalo-al-combinar-referencias-elegibles-en-la-promocion-compra-uno-y-llevate-otro-gratis",
-    "internalReference": 1395338
+    "slug": "calculo-incorrecto-del-descuento-para-mas-por-menos-con-precio-maximo-despues-de-la-division-del-articulo-por-la-aplicacion-de-promocion-anterior",
+    "internalReference": 1093789
   },
   {
     "locale": "es",
@@ -26566,7 +26566,7 @@
   },
   {
     "locale": "pt",
-    "slug": "calculo-incorreto-do-brinde-ao-combinar-skus-elegiveis-na-promocao-compre-um-ganhe-outro",
+    "slug": "calculo-inconsistente-de-brindes-ao-misturar-skus-elegiveis-na-promocao-compre-um-e-leve-outro",
     "internalReference": 1395338
   },
   {
