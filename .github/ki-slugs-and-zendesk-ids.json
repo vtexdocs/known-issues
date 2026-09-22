@@ -10831,7 +10831,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-campos-de-texto-de-las-dimensiones-quedan-deseleccionados-durante-la-creacion-de-sku",
+    "slug": "los-campos-de-texto-de-dimension-se-deseleccionan-durante-la-creacion-de-sku",
     "internalReference": 786048
   },
   {
@@ -19496,6 +19496,11 @@
   },
   {
     "locale": "pt",
+    "slug": "campos-de-texto-de-dimensao-desmarcados-durante-a-criacao-de-sku",
+    "internalReference": 786048
+  },
+  {
+    "locale": "pt",
     "slug": "caracteres-especiais-podem-ser-quebrados-nos-resultados-do-portal-para-valores-de-campo",
     "internalReference": 1289146
   },
@@ -20093,11 +20098,6 @@
     "locale": "pt",
     "slug": "os-calculos-de-componentes-do-kit-nao-atualizam-automaticamente-seu-preco-final",
     "internalReference": 1217509
-  },
-  {
-    "locale": "pt",
-    "slug": "os-campos-de-texto-de-dimensao-ficam-desmarcados-durante-a-criacao-do-sku",
-    "internalReference": 786048
   },
   {
     "locale": "pt",
