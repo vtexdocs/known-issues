@@ -3,7 +3,7 @@ title: 'La página de historial de indexación muestra un alto volumen de produc
 slug: la-pagina-de-historial-de-indexacion-muestra-un-alto-volumen-de-productos-con-retraso-en-la-indexacion
 status: PUBLISHED
 createdAt: 2026-04-27T19:51:12.000Z
-updatedAt: 2026-07-02T15:48:31.000Z
+updatedAt: 2026-09-22T16:48:30.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
