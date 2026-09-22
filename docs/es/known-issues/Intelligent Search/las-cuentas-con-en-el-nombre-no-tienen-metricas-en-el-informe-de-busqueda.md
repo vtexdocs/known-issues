@@ -1,9 +1,9 @@
 ---
-title: 'Las cuentas con "-" en el nombre no tienen métricas en el informe de búsqueda'
+title: 'Las cuentas con "-" en el nombre no tienen métricas en el informe de búsqueda.'
 slug: las-cuentas-con-en-el-nombre-no-tienen-metricas-en-el-informe-de-busqueda
 status: PUBLISHED
-createdAt: 2025-12-26T20:13:20.812Z
-updatedAt: 2025-12-26T20:13:20.812Z
+createdAt: 2025-12-26T23:12:28.000Z
+updatedAt: 2026-09-22T16:52:20.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,18 +18,12 @@ internalReference: 1344531
 
 ## Sumario
 
+Si el nombre de la cuenta es algo como «mi-cuenta», el informe de búsqueda no recibe datos, incluso con los eventos configurados correctamente.
 
-Si el nombre de la cuenta es algo como `mi-cuenta` el informe de búsqueda no recibe datos. Incluso con los eventos correctamente configurados.
+## Simulación
 
-
-#### Simulación
-
-
-Intente buscar la analítica de búsqueda de cualquier cuenta que tenga un "-" en su nombre. Estará en blanco.
+Intente consultar el análisis de búsqueda de cualquier cuenta cuyo nombre contenga un guion (-). Aparecerá en blanco.
 
 ## Workaround
 
-
-N/A
-
-
+No aplica
