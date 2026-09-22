@@ -3,7 +3,7 @@ title: 'La falta de notificaciones de uso de Checkout puede provocar que los con
 slug: la-falta-de-notificaciones-de-uso-de-checkout-puede-provocar-que-los-contadores-de-uso-de-las-promociones-sean-inconsistentes
 status: PUBLISHED
 createdAt: 2026-07-16T05:03:17.000Z
-updatedAt: 2026-07-16T05:03:17.000Z
+updatedAt: 2026-09-22T21:48:49.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,7 +18,7 @@ internalReference: 1435307
 
 ## Sumario
 
-El contador de uso de promociones puede volverse inconsistente cuando las notificaciones de uso y cancelación no se procesan simétricamente. El contador de promociones depende de dos notificaciones:
+El contador de uso de promociones puede volverse inconsistente cuando las notificaciones de uso y cancelación no se procesan simétricamente. El contador de promociones se basa en dos notificaciones:
 
 - El proceso de pago notifica cuando se utiliza una promoción.
 
