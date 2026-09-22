@@ -17311,11 +17311,6 @@
   },
   {
     "locale": "es",
-    "slug": "es-posible-que-las-promociones-de-suscripcion-con-una-periodicidad-definida-no-se-apliquen-a-los-pedidos-recurrentes",
-    "internalReference": 1416445
-  },
-  {
-    "locale": "es",
     "slug": "exportaciones-de-precios-generadas-con-un-formato-que-no-es-aceptado-por-el-proceso-de-importacion",
     "internalReference": 584975
   },
@@ -17493,6 +17488,11 @@
     "locale": "es",
     "slug": "las-promociones-de-regalo-no-funcionan-como-se-esperaba-cuando-actuan-junto-con-otra-promocion-de-regalo",
     "internalReference": 729980
+  },
+  {
+    "locale": "es",
+    "slug": "las-promociones-de-suscripcion-con-periodicidad-definida-pueden-no-aplicarse-a-los-pedidos-recurrentes",
+    "internalReference": 1416445
   },
   {
     "locale": "es",
@@ -26521,11 +26521,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-promocoes-de-assinatura-com-periodicidade-definida-podem-nao-se-aplicar-a-pedidos-recorrentes",
-    "internalReference": 1416445
-  },
-  {
-    "locale": "pt",
     "slug": "as-promocoes-de-brindes-nao-funcionam-como-esperado-quando-atuam-junto-com-outra-promocao-de-brindes",
     "internalReference": 729980
   },
@@ -26758,6 +26753,11 @@
     "locale": "pt",
     "slug": "promocoes-com-valor-minimo-e-condicoes-de-brinde-que-nao-exibem-o-brinde-no-carrinho",
     "internalReference": 445569
+  },
+  {
+    "locale": "pt",
+    "slug": "promocoes-de-assinatura-com-periodicidade-definida-podem-nao-se-aplicar-a-pedidos-recorrentes",
+    "internalReference": 1416445
   },
   {
     "locale": "pt",
