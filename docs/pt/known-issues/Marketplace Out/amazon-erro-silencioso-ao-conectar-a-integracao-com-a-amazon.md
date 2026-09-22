@@ -3,7 +3,7 @@ title: 'Amazon Erro silencioso ao conectar a integração com a Amazon'
 slug: amazon-erro-silencioso-ao-conectar-a-integracao-com-a-amazon
 status: PUBLISHED
 createdAt: 2026-08-31T18:41:28.000Z
-updatedAt: 2026-08-31T18:41:28.000Z
+updatedAt: 2026-09-22T18:15:58.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
