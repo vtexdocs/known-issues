@@ -3,7 +3,7 @@ title: 'A importação de preços fixos pode reportar incorretamente sucesso qua
 slug: a-importacao-de-precos-fixos-pode-reportar-incorretamente-sucesso-quando-a-coluna-sku-estiver-formatada-como-um-numero
 status: PUBLISHED
 createdAt: 2026-09-01T00:05:14.000Z
-updatedAt: 2026-09-01T00:05:14.000Z
+updatedAt: 2026-09-22T21:45:46.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
