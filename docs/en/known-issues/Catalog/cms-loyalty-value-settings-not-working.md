@@ -2,8 +2,8 @@
 title: 'CMS Loyalty Value Settings not Working'
 slug: cms-loyalty-value-settings-not-working
 status: PUBLISHED
-createdAt: 2023-01-04T14:17:41.000Z
-updatedAt: 2023-01-04T14:18:02.000Z
+createdAt: 2023-01-04T17:17:41.000Z
+updatedAt: 2026-09-23T17:22:14.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
