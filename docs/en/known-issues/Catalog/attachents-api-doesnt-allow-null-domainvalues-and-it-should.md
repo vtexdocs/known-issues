@@ -2,8 +2,8 @@
 title: "Attachents API doesn't allow null \"domainValues\" (and it should)"
 slug: attachents-api-doesnt-allow-null-domainvalues-and-it-should
 status: PUBLISHED
-createdAt: 2023-09-11T19:02:39.000Z
-updatedAt: 2023-09-11T19:02:39.000Z
+createdAt: 2023-09-11T22:02:39.000Z
+updatedAt: 2026-09-23T17:04:15.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
