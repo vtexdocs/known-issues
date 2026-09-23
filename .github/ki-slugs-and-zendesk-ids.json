@@ -5841,6 +5841,11 @@
   },
   {
     "locale": "en",
+    "slug": "order-stuck-in-an-intermediate-workflow-status-due-to-a-workflow-desynchronization",
+    "internalReference": 1465447
+  },
+  {
+    "locale": "en",
     "slug": "order-stuck-in-onordercompletedffm-fulfillment-or-onordercompleted-marketplace-even-after-successful-creation-iscompleted-true",
     "internalReference": 1218615
   },
@@ -14858,6 +14863,11 @@
     "locale": "es",
     "slug": "el-pedido-con-interes-presenta-problemas-al-intentar-devolver-todos-los-articulos-y-reembolsar-el-importe-total-del-pago",
     "internalReference": 376077
+  },
+  {
+    "locale": "es",
+    "slug": "el-pedido-se-encuentra-atascado-en-un-estado-de-flujo-de-trabajo-intermedio-debido-a-una-desincronizacion-del-flujo-de-trabajo",
+    "internalReference": 1465447
   },
   {
     "locale": "es",
@@ -24328,6 +24338,11 @@
     "locale": "pt",
     "slug": "o-pedido-com-juros-apresenta-problemas-ao-tentar-devolver-todos-os-itens-e-reembolsar-o-valor-total-pago",
     "internalReference": 376077
+  },
+  {
+    "locale": "pt",
+    "slug": "o-pedido-ficou-preso-em-um-status-intermediario-do-fluxo-de-trabalho-devido-a-uma-dessincronizacao-do-fluxo-de-trabalho",
+    "internalReference": 1465447
   },
   {
     "locale": "pt",
