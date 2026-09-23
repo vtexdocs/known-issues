@@ -2,8 +2,8 @@
 title: 'Catalog Myvtex Iframe HTML Select Breaking for Chrome 108'
 slug: catalog-myvtex-iframe-html-select-breaking-for-chrome-108
 status: PUBLISHED
-createdAt: 2022-12-06T18:58:05.000Z
-updatedAt: 2022-12-06T18:58:21.000Z
+createdAt: 2022-12-06T21:58:05.000Z
+updatedAt: 2026-09-23T17:42:02.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
