@@ -2,8 +2,8 @@
 title: 'XML <price> related tags do not load contents for unavailable items'
 slug: xml-price-related-tags-do-not-load-contents-for-unavailable-items
 status: PUBLISHED
-createdAt: 2024-01-31T19:11:06.000Z
-updatedAt: 2024-01-31T19:11:06.000Z
+createdAt: 2024-01-31T22:11:06.000Z
+updatedAt: 2026-09-23T16:55:18.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
