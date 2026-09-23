@@ -3,7 +3,7 @@ title: 'ActivateIfPossible Overwritten by New Catalog UI'
 slug: activateifpossible-overwritten-by-new-catalog-ui
 status: PUBLISHED
 createdAt: 2026-06-15T18:04:30.000Z
-updatedAt: 2026-06-15T18:04:30.000Z
+updatedAt: 2026-09-23T16:41:47.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
