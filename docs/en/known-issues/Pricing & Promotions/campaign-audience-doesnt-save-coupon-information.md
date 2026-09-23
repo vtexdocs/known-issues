@@ -3,7 +3,7 @@ title: "Campaign Audience doesn't save coupon information"
 slug: campaign-audience-doesnt-save-coupon-information
 status: PUBLISHED
 createdAt: 2022-02-10T16:21:28.000Z
-updatedAt: 2025-09-04T18:02:18.000Z
+updatedAt: 2026-09-23T15:23:07.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
