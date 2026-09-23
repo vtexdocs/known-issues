@@ -2,8 +2,8 @@
 title: "Portal don't respect the tag \"Principal\" of SKU's Image"
 slug: portal-dont-respect-the-tag-principal-of-skus-image
 status: PUBLISHED
-createdAt: 2022-12-07T17:47:12.000Z
-updatedAt: 2022-12-08T13:43:57.000Z
+createdAt: 2022-12-07T20:47:12.000Z
+updatedAt: 2026-09-23T17:24:25.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
