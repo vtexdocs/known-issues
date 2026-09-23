@@ -3,7 +3,7 @@ title: 'Catalog specification value 0 is omitted from product specification payl
 slug: catalog-specification-value-0-is-omitted-from-product-specification-payload
 status: PUBLISHED
 createdAt: 2026-05-12T17:13:15.000Z
-updatedAt: 2026-05-12T18:46:21.000Z
+updatedAt: 2026-09-23T16:47:33.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
