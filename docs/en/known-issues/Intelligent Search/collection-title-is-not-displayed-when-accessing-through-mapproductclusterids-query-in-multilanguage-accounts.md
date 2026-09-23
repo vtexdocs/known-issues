@@ -3,14 +3,14 @@ title: 'Collection title is not displayed when accessing through ?map=productClu
 slug: collection-title-is-not-displayed-when-accessing-through-mapproductclusterids-query-in-multilanguage-accounts
 status: PUBLISHED
 createdAt: 2026-04-09T22:00:58.000Z
-updatedAt: 2026-09-22T16:50:25.000Z
+updatedAt: 2026-09-23T16:03:43.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: collection-title-is-not-displayed-when-accessing-through-mapproductclusterids-query-in-multilanguage-accounts
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1390606
 ---
 
