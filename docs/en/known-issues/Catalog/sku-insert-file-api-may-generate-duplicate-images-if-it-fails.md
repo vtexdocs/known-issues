@@ -3,7 +3,7 @@ title: 'SKU Insert FIle API may generate duplicate images if it fails'
 slug: sku-insert-file-api-may-generate-duplicate-images-if-it-fails
 status: PUBLISHED
 createdAt: 2026-06-23T16:52:48.000Z
-updatedAt: 2026-06-23T16:52:48.000Z
+updatedAt: 2026-09-23T16:41:22.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
