@@ -10786,7 +10786,7 @@
   },
   {
     "locale": "es",
-    "slug": "las-etiquetas-xml-relacionadas-con-price-no-cargan-el-contenido-de-los-articulos-que-no-estan-disponibles",
+    "slug": "las-etiquetas-xml-price-relacionadas-no-cargan-el-contenido-de-los-articulos-no-disponibles",
     "internalReference": 974722
   },
   {
@@ -19456,7 +19456,7 @@
   },
   {
     "locale": "pt",
-    "slug": "as-tags-relacionadas-a-price-no-xml-nao-carregam-o-conteudo-de-itens-indisponiveis",
+    "slug": "as-tags-xml-relacionadas-a-price-nao-carregam-conteudo-para-itens-indisponiveis",
     "internalReference": 974722
   },
   {
