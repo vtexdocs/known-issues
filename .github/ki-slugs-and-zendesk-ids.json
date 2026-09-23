@@ -6956,6 +6956,11 @@
   },
   {
     "locale": "en",
+    "slug": "orders-created-with-empty-userprofileid",
+    "internalReference": 1465130
+  },
+  {
+    "locale": "en",
     "slug": "orders-placed-with-gift-card-generate-transactions-with-brazilian-currency-r",
     "internalReference": 1083379
   },
@@ -16516,6 +16521,11 @@
   },
   {
     "locale": "es",
+    "slug": "pedidos-creados-con-userprofileid-vacio",
+    "internalReference": 1465130
+  },
+  {
+    "locale": "es",
     "slug": "problema-al-validar-el-campo-de-valor-al-comprar-con-dos-tarjetas",
     "internalReference": 460683
   },
@@ -25693,6 +25703,11 @@
     "locale": "pt",
     "slug": "pedido-travado-em-pagamento-pendente-apesar-da-transacao-ter-sido-aprovada-oms-le-status-obsoleto-ao-processar-pagamento-aprovado",
     "internalReference": 1456295
+  },
+  {
+    "locale": "pt",
+    "slug": "pedidos-criados-com-userprofileid-vazio",
+    "internalReference": 1465130
   },
   {
     "locale": "pt",
