@@ -10171,13 +10171,13 @@
   },
   {
     "locale": "es",
-    "slug": "el-producto-inactivo-sigue-apareciendo-en-la-pdp-o-en-la-caja",
-    "internalReference": 542264
+    "slug": "el-producto-en-el-portal-del-vendedor-no-se-carga-cuando-no-hay-imagenes",
+    "internalReference": 800480
   },
   {
     "locale": "es",
-    "slug": "el-producto-no-se-carga-en-el-portal-del-vendedor-cuando-no-hay-imagenes",
-    "internalReference": 800480
+    "slug": "el-producto-inactivo-sigue-apareciendo-en-la-pdp-o-en-la-caja",
+    "internalReference": 542264
   },
   {
     "locale": "es",
@@ -20056,7 +20056,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-produto-no-portal-do-vendedor-nao-carrega-quando-nao-ha-imagens",
+    "slug": "o-produto-nao-carrega-no-seller-portal-quando-nao-ha-imagens",
     "internalReference": 800480
   },
   {
