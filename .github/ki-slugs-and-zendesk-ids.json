@@ -16976,7 +16976,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-captura-de-solicitudes-no-registra-nuevos-eventos-cuando-se-utilizan-almacenes-heredados",
+    "slug": "la-funcion-request-capture-no-registra-nuevos-eventos-al-usar-almacenes-heredados",
     "internalReference": 604254
   },
   {
@@ -26066,6 +26066,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-captura-de-solicitacoes-nao-esta-registrando-novos-eventos-ao-usar-armazenamentos-legados",
+    "internalReference": 604254
+  },
+  {
+    "locale": "pt",
     "slug": "a-classificacao-manual-das-colecoes-nao-funciona-como-esperado",
     "internalReference": 295245
   },
@@ -26313,11 +26318,6 @@
     "locale": "pt",
     "slug": "snippets-de-produto-que-nao-utilizam-o-formato-aggregateoffer-para-ofertas-com-mais-de-um-vendedor",
     "internalReference": 753505
-  },
-  {
-    "locale": "pt",
-    "slug": "solicitar-captura-sem-registro-de-novos-eventos-ao-utilizar-lojas-legadas",
-    "internalReference": 604254
   },
   {
     "locale": "pt",
