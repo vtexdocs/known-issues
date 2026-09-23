@@ -3,7 +3,7 @@ title: 'A inserção do kit de catálogo permite referência circular.'
 slug: a-insercao-do-kit-de-catalogo-permite-referencia-circular
 status: PUBLISHED
 createdAt: 2026-06-24T18:49:40.000Z
-updatedAt: 2026-06-24T18:49:40.000Z
+updatedAt: 2026-09-23T16:40:11.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
