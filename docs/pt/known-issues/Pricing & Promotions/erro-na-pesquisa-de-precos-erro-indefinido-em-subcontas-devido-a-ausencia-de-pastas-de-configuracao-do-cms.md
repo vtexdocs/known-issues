@@ -3,7 +3,7 @@ title: 'Erro na pesquisa de preços ("Erro - indefinido") em subcontas devido à
 slug: erro-na-pesquisa-de-precos-erro-indefinido-em-subcontas-devido-a-ausencia-de-pastas-de-configuracao-do-cms
 status: PUBLISHED
 createdAt: 2026-07-31T16:52:22.000Z
-updatedAt: 2026-07-31T16:52:22.000Z
+updatedAt: 2026-09-23T16:35:49.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
