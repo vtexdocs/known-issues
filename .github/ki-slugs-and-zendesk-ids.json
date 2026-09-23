@@ -15211,13 +15211,13 @@
   },
   {
     "locale": "es",
-    "slug": "pedido-atascado-en-onordercompletedffm-cumplimiento-o-en-onordercompleted-mercado-incluso-despues-de-una-creacion-correcta-iscompleted-true",
-    "internalReference": 1218615
+    "slug": "pedido-atascado-en-estado-de-vendedor-solicitud-de-cancelacion-denegada-ffm",
+    "internalReference": 1004978
   },
   {
     "locale": "es",
-    "slug": "pedido-bloqueado-en-el-estado-del-vendedor-cancellationrequestdeniedffm",
-    "internalReference": 1004978
+    "slug": "pedido-atascado-en-onordercompletedffm-cumplimiento-o-en-onordercompleted-mercado-incluso-despues-de-una-creacion-correcta-iscompleted-true",
+    "internalReference": 1218615
   },
   {
     "locale": "es",
@@ -24451,13 +24451,13 @@
   },
   {
     "locale": "pt",
-    "slug": "pedido-preso-em-onordercompletedffm-fulfillment-ou-onordercompleted-marketplace-mesmo-apos-a-criacao-bemsucedida-iscompleted-true",
-    "internalReference": 1218615
+    "slug": "pedido-preso-com-status-de-vendedor-cancellationrequestdeniedffm",
+    "internalReference": 1004978
   },
   {
     "locale": "pt",
-    "slug": "pedido-preso-no-status-de-vendedor-cancellationrequestdeniedffm",
-    "internalReference": 1004978
+    "slug": "pedido-preso-em-onordercompletedffm-fulfillment-ou-onordercompleted-marketplace-mesmo-apos-a-criacao-bemsucedida-iscompleted-true",
+    "internalReference": 1218615
   },
   {
     "locale": "pt",
