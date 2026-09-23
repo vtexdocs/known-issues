@@ -3,7 +3,7 @@ title: 'Error de búsqueda de precios ("Error - indefinido") en subcuentas debid
 slug: error-de-busqueda-de-precios-error-indefinido-en-subcuentas-debido-a-la-falta-de-carpetas-de-configuracion-de-cms
 status: PUBLISHED
 createdAt: 2026-07-31T16:52:22.000Z
-updatedAt: 2026-07-31T16:52:22.000Z
+updatedAt: 2026-09-23T16:35:49.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
