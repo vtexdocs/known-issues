@@ -3,14 +3,14 @@ title: 'O título da coleção não é exibido ao acessar por meio da consulta ?
 slug: o-titulo-da-colecao-nao-e-exibido-ao-acessar-por-meio-da-consulta-mapproductclusterids-em-contas-multilingues
 status: PUBLISHED
 createdAt: 2026-04-09T22:00:58.000Z
-updatedAt: 2026-09-22T16:50:25.000Z
+updatedAt: 2026-09-23T16:03:43.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: collection-title-is-not-displayed-when-accessing-through-mapproductclusterids-query-in-multilanguage-accounts
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1390606
 ---
 
