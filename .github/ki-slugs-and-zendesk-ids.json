@@ -8156,6 +8156,11 @@
   },
   {
     "locale": "en",
+    "slug": "it-is-not-possible-to-create-a-promotion-with-end-date-from-the-year-2100-onwards",
+    "internalReference": 833957
+  },
+  {
+    "locale": "en",
     "slug": "max-shipping-discount-not-updating-pricetags",
     "internalReference": 904190
   },
@@ -17531,6 +17536,11 @@
   },
   {
     "locale": "es",
+    "slug": "no-es-posible-crear-una-promocion-con-fecha-de-finalizacion-a-partir-del-ano-2100",
+    "internalReference": 833957
+  },
+  {
+    "locale": "es",
     "slug": "no-funciona-la-busqueda-de-varios-productos-en-el-modulo-de-precios",
     "internalReference": 1222033
   },
@@ -26648,6 +26658,11 @@
     "locale": "pt",
     "slug": "mensagem-incorreta-cupom-expirado-exibida-na-finalizacao-da-compra-ao-usar-uma-promocao-cujo-atributo-isarchived-true",
     "internalReference": 1375848
+  },
+  {
+    "locale": "pt",
+    "slug": "nao-e-possivel-criar-uma-promocao-com-data-de-termino-a-partir-do-ano-2100",
+    "internalReference": 833957
   },
   {
     "locale": "pt",
