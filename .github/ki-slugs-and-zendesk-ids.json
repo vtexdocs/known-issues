@@ -5896,6 +5896,11 @@
   },
   {
     "locale": "en",
+    "slug": "orders-stuck-in-verifying-invoice",
+    "internalReference": 1465086
+  },
+  {
+    "locale": "en",
     "slug": "orders-that-fail-to-reach-the-invoiced-status-even-after-the-invoice-has-been-correctly-entered",
     "internalReference": 1372902
   },
@@ -15236,6 +15241,11 @@
   },
   {
     "locale": "es",
+    "slug": "pedidos-atascados-en-verificando-factura",
+    "internalReference": 1465086
+  },
+  {
+    "locale": "es",
     "slug": "pedidos-bloqueados-en-el-estado-de-inicio-de-tratamiento",
     "internalReference": 1218606
   },
@@ -24468,6 +24478,11 @@
     "locale": "pt",
     "slug": "pedidos-ficam-presos-no-status-solicitacao-de-cancelamento-no-marketplace-quando-o-vendedor-emite-a-fatura-ao-mesmo-tempo-condicao-de-corrida-entre-cancelamento-e-faturamento",
     "internalReference": 1400005
+  },
+  {
+    "locale": "pt",
+    "slug": "pedidos-presos-em-verificando-fatura",
+    "internalReference": 1465086
   },
   {
     "locale": "pt",
