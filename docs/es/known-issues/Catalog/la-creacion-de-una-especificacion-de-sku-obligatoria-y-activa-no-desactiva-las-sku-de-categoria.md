@@ -3,7 +3,7 @@ title: 'La creación de una especificación de SKU obligatoria y activa no desac
 slug: la-creacion-de-una-especificacion-de-sku-obligatoria-y-activa-no-desactiva-las-sku-de-categoria
 status: PUBLISHED
 createdAt: 2026-07-30T21:47:00.000Z
-updatedAt: 2026-07-30T21:47:00.000Z
+updatedAt: 2026-09-23T16:36:31.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
