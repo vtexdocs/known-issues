@@ -3,7 +3,7 @@ title: 'Legacy Stores Redirect to Empty Category when there are Only Similars'
 slug: legacy-stores-redirect-to-empty-category-when-there-are-only-similars
 status: PUBLISHED
 createdAt: 2026-05-28T20:25:12.000Z
-updatedAt: 2026-06-02T22:20:31.000Z
+updatedAt: 2026-09-23T16:42:11.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
