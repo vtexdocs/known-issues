@@ -1,23 +1,20 @@
 ---
 title: 'Order stuck at seller status cancellation-request-denied-ffm'
-id: 5hBeTQMKmo5C63QRAOSvT2
+slug: order-stuck-at-seller-status-cancellationrequestdeniedffm
 status: PUBLISHED
-createdAt: 2024-03-22T17:50:37.946Z
-updatedAt: 2024-03-22T17:50:38.822Z
-publishedAt: 2024-03-22T17:50:38.822Z
-firstPublishedAt: 2024-03-22T17:50:38.822Z
+createdAt: 2024-03-22T20:50:22.000Z
+updatedAt: 2026-09-23T22:27:41.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: order-stuck-at-seller-status-cancellationrequestdeniedffm
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1004978
 ---
 
 ## Summary
-
 
 We identified that some sellers, in the VTEX seller and marketplace structure, when requesting cancellation, then refuse this cancellation via the UI, or call the API "cancellation-request-denied-ffm", this is as if they were denying the request itself of cancellation, for some reason, the request to deny the cancellation overlaps with the request to cancel.
 As a result, the order is stuck at the seller, in the "cancellation-request-denied-ffm" status.
@@ -25,11 +22,7 @@ And in some cases, the marketplace itself tries to request cancellation, as a re
 On the other hand, we have the case where the marketplace does not receive this cancellation notification and continues with your order until the Invoiced status!
 In all cases, we are unable to change the status of these orders.
 
-
-##
-
 ## Simulation
-
 
 1- Create an order, with seller whiteLabel;
 2- In the seller's order, advance the status to "handling";
@@ -40,15 +33,6 @@ In all cases, we are unable to change the status of these orders.
 
 It may happen that the Marketplace order continues with the order and goes to invoice, when it sends the invoice.
 
-
-##
-
 ## Workaround
 
-
 This is not a workaround, but guidance to accounts, once the seller requests cancellation, do not refuse the request itself.
-
-
-
-
-
