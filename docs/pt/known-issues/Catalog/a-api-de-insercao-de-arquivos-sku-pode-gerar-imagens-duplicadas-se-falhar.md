@@ -3,7 +3,7 @@ title: 'A API de Inserção de Arquivos SKU pode gerar imagens duplicadas se fal
 slug: a-api-de-insercao-de-arquivos-sku-pode-gerar-imagens-duplicadas-se-falhar
 status: PUBLISHED
 createdAt: 2026-06-23T16:52:48.000Z
-updatedAt: 2026-06-23T16:52:48.000Z
+updatedAt: 2026-09-23T16:41:22.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
