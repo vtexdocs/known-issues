@@ -3,7 +3,7 @@ title: 'Pricing search error ("Error - undefined") on sub-accounts due to missin
 slug: pricing-search-error-error-undefined-on-subaccounts-due-to-missing-cms-configuration-folders
 status: PUBLISHED
 createdAt: 2026-07-31T16:52:22.000Z
-updatedAt: 2026-07-31T16:52:22.000Z
+updatedAt: 2026-09-23T16:35:49.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
