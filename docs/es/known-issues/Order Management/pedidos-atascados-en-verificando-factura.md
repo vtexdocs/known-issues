@@ -3,14 +3,14 @@ title: 'Pedidos atascados en “Verificando factura”'
 slug: pedidos-atascados-en-verificando-factura
 status: PUBLISHED
 createdAt: 2026-09-23T17:44:32.000Z
-updatedAt: 2026-09-23T17:44:32.000Z
+updatedAt: 2026-09-23T17:45:50.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: orders-stuck-in-verifying-invoice
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 1465086
 ---
 
