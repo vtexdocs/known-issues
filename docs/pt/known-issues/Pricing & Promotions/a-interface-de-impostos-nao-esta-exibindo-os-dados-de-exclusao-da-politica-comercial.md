@@ -3,7 +3,7 @@ title: 'A interface de impostos não está exibindo os dados de exclusão da pol
 slug: a-interface-de-impostos-nao-esta-exibindo-os-dados-de-exclusao-da-politica-comercial
 status: PUBLISHED
 createdAt: 2026-06-30T23:38:38.000Z
-updatedAt: 2026-09-22T18:48:55.000Z
+updatedAt: 2026-09-23T16:39:35.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
