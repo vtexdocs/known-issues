@@ -9771,7 +9771,7 @@
   },
   {
     "locale": "es",
-    "slug": "activateifpossible-ha-sido-sustituido-por-la-nueva-interfaz-de-usuario-del-catalogo",
+    "slug": "activateifpossible-sobrescrito-por-la-nueva-interfaz-de-usuario-del-catalogo",
     "internalReference": 1420981
   },
   {
@@ -19326,7 +19326,7 @@
   },
   {
     "locale": "pt",
-    "slug": "activateifpossible-substituido-pela-nova-interface-do-usuario-do-catalogo",
+    "slug": "activateifpossible-sobrescrito-pela-nova-interface-do-catalogo",
     "internalReference": 1420981
   },
   {
@@ -19428,11 +19428,6 @@
     "locale": "pt",
     "slug": "as-inconsistencias-da-pesquisa-de-catalogo-podem-nao-retornar-produtos-devido-a-um-problema-de-indexacao",
     "internalReference": 1330325
-  },
-  {
-    "locale": "pt",
-    "slug": "as-lojas-antigas-redirecionam-para-uma-categoria-vazia-quando-ha-apenas-produtos-semelhantes",
-    "internalReference": 1413684
   },
   {
     "locale": "pt",
@@ -19843,6 +19838,11 @@
     "locale": "pt",
     "slug": "links-de-paginacao-nos-resultados-da-pesquisa-que-nao-funcionam-nas-paginas-da-giftlist",
     "internalReference": 481330
+  },
+  {
+    "locale": "pt",
+    "slug": "lojas-antigas-redirecionam-para-uma-categoria-vazia-quando-so-existem-itens-semelhantes",
+    "internalReference": 1413684
   },
   {
     "locale": "pt",
