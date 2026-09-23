@@ -3,7 +3,7 @@ title: 'Catalog Kit Insertion Allows Circular Reference'
 slug: catalog-kit-insertion-allows-circular-reference
 status: PUBLISHED
 createdAt: 2026-06-24T18:49:40.000Z
-updatedAt: 2026-06-24T18:49:40.000Z
+updatedAt: 2026-09-23T16:40:11.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
