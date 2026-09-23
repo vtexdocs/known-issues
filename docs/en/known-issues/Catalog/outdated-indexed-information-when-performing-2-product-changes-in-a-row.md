@@ -2,8 +2,8 @@
 title: 'Outdated indexed information when performing 2 product changes in a row.'
 slug: outdated-indexed-information-when-performing-2-product-changes-in-a-row
 status: PUBLISHED
-createdAt: 2023-09-26T14:44:24.000Z
-updatedAt: 2023-09-26T14:44:24.000Z
+createdAt: 2023-09-26T17:44:24.000Z
+updatedAt: 2026-09-23T17:00:45.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
