@@ -3,7 +3,7 @@ title: 'Criar uma especificação de SKU obrigatória e ativa não desativa as S
 slug: criar-uma-especificacao-de-sku-obrigatoria-e-ativa-nao-desativa-as-skus-da-categoria
 status: PUBLISHED
 createdAt: 2026-07-30T21:47:00.000Z
-updatedAt: 2026-07-30T21:47:00.000Z
+updatedAt: 2026-09-23T16:36:31.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
