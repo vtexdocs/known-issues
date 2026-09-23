@@ -3,7 +3,7 @@ title: 'Pedidos creados con userProfileId vacío'
 slug: pedidos-creados-con-userprofileid-vacio
 status: PUBLISHED
 createdAt: 2026-09-23T18:33:36.000Z
-updatedAt: 2026-09-23T18:33:36.000Z
+updatedAt: 2026-09-23T18:34:32.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
