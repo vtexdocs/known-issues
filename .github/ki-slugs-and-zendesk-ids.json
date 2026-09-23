@@ -10336,6 +10336,11 @@
   },
   {
     "locale": "es",
+    "slug": "informacion-indexada-desactualizada-al-realizar-2-cambios-de-producto-consecutivos",
+    "internalReference": 907428
+  },
+  {
+    "locale": "es",
     "slug": "kit-price-deletion-no-funciona",
     "internalReference": 1234002
   },
@@ -10608,11 +10613,6 @@
     "locale": "es",
     "slug": "la-importacion-de-productosskus-no-es-compatible-con-lb",
     "internalReference": 337860
-  },
-  {
-    "locale": "es",
-    "slug": "la-informacion-indexada-queda-desactualizada-cuando-se-realizan-dos-cambios-de-producto-seguidos",
-    "internalReference": 907428
   },
   {
     "locale": "es",
@@ -19806,7 +19806,7 @@
   },
   {
     "locale": "pt",
-    "slug": "informacoes-indexadas-desatualizadas-ao-realizar-duas-alteracoes-de-produto-consecutivas",
+    "slug": "informacoes-indexadas-desatualizadas-ao-realizar-2-alteracoes-de-produto-consecutivas",
     "internalReference": 907428
   },
   {
