@@ -5401,6 +5401,11 @@
   },
   {
     "locale": "en",
+    "slug": "app-fbe-checkout-pixel-app-throws-a-maximum-call-stack-size-exceeded-error-in-the-checkout",
+    "internalReference": 1465789
+  },
+  {
+    "locale": "en",
     "slug": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
     "internalReference": 1438301
   },
@@ -14608,6 +14613,11 @@
     "locale": "es",
     "slug": "amazoncoincidencia-en-algunos-casos-el-sku-vuelve-a-estar-en-pendiente-de-revision-despues-de-la-confirmacion-de-la-coincidencia-sin-ninguna-indicacion-del-motivo-del-rechazo-de-amazon",
     "internalReference": 1456640
+  },
+  {
+    "locale": "es",
+    "slug": "app-fbe-la-aplicacion-checkout-pixel-genera-un-error-de-se-ha-superado-el-tamano-maximo-de-la-pila-de-llamadas-en-el-proceso-de-pago",
+    "internalReference": 1465789
   },
   {
     "locale": "es",
@@ -23828,6 +23838,11 @@
     "locale": "pt",
     "slug": "amazonmatch-em-alguns-casos-o-sku-volta-para-aguardando-revisao-apos-a-confirmacao-da-correspondencia-sem-nenhuma-indicacao-do-motivo-da-rejeicao-da-amazon",
     "internalReference": 1456640
+  },
+  {
+    "locale": "pt",
+    "slug": "app-fbe-o-aplicativo-checkout-pixel-apresenta-um-erro-de-tamanho-maximo-da-pilha-de-chamadas-excedido-no-checkout",
+    "internalReference": 1465789
   },
   {
     "locale": "pt",
