@@ -3,14 +3,14 @@ title: 'Error al exportar precios con metadatos'
 slug: error-al-exportar-precios-con-metadatos
 status: PUBLISHED
 createdAt: 2023-07-12T11:48:49.000Z
-updatedAt: 2023-07-12T11:48:49.000Z
+updatedAt: 2026-09-24T00:00:00.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slugEN: error-exporting-prices-with-metadata
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 860290
 ---
 
