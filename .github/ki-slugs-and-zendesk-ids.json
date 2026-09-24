@@ -7886,7 +7886,7 @@
   },
   {
     "locale": "en",
-    "slug": "error-exporting-prices-with-metadata",
+    "slug": "merchants-are-not-receiving-the-fixed-price-report",
     "internalReference": 860290
   },
   {
@@ -16936,7 +16936,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-al-exportar-precios-con-metadatos",
+    "slug": "los-comerciantes-no-reciben-el-informe-de-precios-fijos",
     "internalReference": 860290
   },
   {
@@ -26046,7 +26046,7 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-ao-exportar-precos-com-metadados",
+    "slug": "os-comerciantes-nao-estao-recebendo-o-relatorio-de-preco-fixo",
     "internalReference": 860290
   },
   {
