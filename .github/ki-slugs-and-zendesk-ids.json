@@ -1576,6 +1576,11 @@
   },
   {
     "locale": "en",
+    "slug": "products-created-by-api-and-not-associated-with-any-sku-are-being-shown-as-available-on-the-admin-when-using-any-filter",
+    "internalReference": 492648
+  },
+  {
+    "locale": "en",
     "slug": "products-with-sku-variations-approved-on-received-skus-are-being-created-with-duplicated-skus-on-the-catalog",
     "internalReference": 889676
   },
@@ -10916,6 +10921,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-productos-creados-mediante-api-y-no-asociados-a-ningun-sku-se-muestran-como-disponibles-en-el-panel-de-administracion-al-usar-cualquier-filtro",
+    "internalReference": 492648
+  },
+  {
+    "locale": "es",
     "slug": "los-productos-no-se-actualizan-tras-la-creacionactualizacion-de-las-politicas-comerciales",
     "internalReference": 1286569
   },
@@ -20218,6 +20228,11 @@
     "locale": "pt",
     "slug": "produto-inativo-ainda-aparecendo-no-pdp-ou-checkout",
     "internalReference": 542264
+  },
+  {
+    "locale": "pt",
+    "slug": "produtos-criados-por-api-e-nao-associados-a-nenhum-sku-estao-sendo-exibidos-como-disponiveis-no-painel-de-administracao-ao-usar-qualquer-filtro",
+    "internalReference": 492648
   },
   {
     "locale": "pt",
