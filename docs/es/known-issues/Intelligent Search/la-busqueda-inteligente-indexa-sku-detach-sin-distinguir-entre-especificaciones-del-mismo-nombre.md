@@ -3,7 +3,7 @@ title: 'La búsqueda inteligente indexa SKU Detach sin distinguir entre especifi
 slug: la-busqueda-inteligente-indexa-sku-detach-sin-distinguir-entre-especificaciones-del-mismo-nombre
 status: PUBLISHED
 createdAt: 2026-09-24T16:44:22.000Z
-updatedAt: 2026-09-24T16:44:22.000Z
+updatedAt: 2026-09-24T16:44:50.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
