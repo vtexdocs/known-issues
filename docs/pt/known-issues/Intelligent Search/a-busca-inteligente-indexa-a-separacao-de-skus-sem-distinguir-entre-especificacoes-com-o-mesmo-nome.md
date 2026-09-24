@@ -3,7 +3,7 @@ title: 'A Busca Inteligente indexa a separação de SKUs sem distinguir entre es
 slug: a-busca-inteligente-indexa-a-separacao-de-skus-sem-distinguir-entre-especificacoes-com-o-mesmo-nome
 status: PUBLISHED
 createdAt: 2026-09-24T16:44:22.000Z
-updatedAt: 2026-09-24T16:44:22.000Z
+updatedAt: 2026-09-24T16:44:50.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
