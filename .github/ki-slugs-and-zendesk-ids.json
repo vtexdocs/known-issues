@@ -4541,6 +4541,11 @@
   },
   {
     "locale": "en",
+    "slug": "intelligent-search-indexes-sku-detach-without-distinguishing-between-samename-specifications",
+    "internalReference": 1465798
+  },
+  {
+    "locale": "en",
     "slug": "intelligent-search-language-settings-not-in-sync-with-store-configurations",
     "internalReference": 990343
   },
@@ -13746,6 +13751,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-busqueda-inteligente-indexa-sku-detach-sin-distinguir-entre-especificaciones-del-mismo-nombre",
+    "internalReference": 1465798
+  },
+  {
+    "locale": "es",
     "slug": "la-busqueda-inteligente-multilingue-no-admite-dos-variantes-del-mismo-idioma-o-jerga",
     "internalReference": 841704
   },
@@ -22758,6 +22768,11 @@
     "locale": "pt",
     "slug": "a-barra-de-pesquisa-das-configuracoes-de-redirecionamento-inteligente-da-pesquisa-diferencia-maiusculas-de-minusculas",
     "internalReference": 361894
+  },
+  {
+    "locale": "pt",
+    "slug": "a-busca-inteligente-indexa-a-separacao-de-skus-sem-distinguir-entre-especificacoes-com-o-mesmo-nome",
+    "internalReference": 1465798
   },
   {
     "locale": "pt",
