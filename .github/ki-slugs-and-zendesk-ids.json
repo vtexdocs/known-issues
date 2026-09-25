@@ -4061,6 +4061,11 @@
   },
   {
     "locale": "en",
+    "slug": "custom-domain-moved-between-faststore-projects-keeps-routing-to-the-previous-account",
+    "internalReference": 1466415
+  },
+  {
+    "locale": "en",
     "slug": "error-the-specified-root-directory-name-does-not-exist-when-using-version-tags",
     "internalReference": 1083941
   },
@@ -13293,6 +13298,11 @@
     "locale": "es",
     "slug": "el-carro-faststore-fusiona-los-articulos-de-la-cadena-de-montaje",
     "internalReference": 1050068
+  },
+  {
+    "locale": "es",
+    "slug": "el-dominio-personalizado-movido-entre-proyectos-de-faststore-sigue-redirigiendo-a-la-cuenta-anterior",
+    "internalReference": 1466415
   },
   {
     "locale": "es",
@@ -22583,6 +22593,11 @@
     "locale": "pt",
     "slug": "o-carrinho-nao-e-atualizado-no-faststore-se-for-feita-uma-solicitacao-externa-para-atualizar-o-formulario-de-pedido",
     "internalReference": 1127034
+  },
+  {
+    "locale": "pt",
+    "slug": "o-dominio-personalizado-movido-entre-projetos-faststore-continua-redirecionando-para-a-conta-anterior",
+    "internalReference": 1466415
   },
   {
     "locale": "pt",
