@@ -3,7 +3,7 @@ title: 'As promoções de adesão opcional podem ser configuradas com vendedores
 slug: as-promocoes-de-adesao-opcional-podem-ser-configuradas-com-vendedores-de-marca-branca-via-api
 status: PUBLISHED
 createdAt: 2026-09-25T20:19:09.000Z
-updatedAt: 2026-09-25T20:19:09.000Z
+updatedAt: 2026-09-25T20:20:57.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
