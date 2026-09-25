@@ -3,14 +3,14 @@ title: 'Product returning as unavailable even with stock in a whitelabel seller'
 slug: product-returning-as-unavailable-even-with-stock-in-a-whitelabel-seller
 status: PUBLISHED
 createdAt: 2021-07-30T17:20:12.000Z
-updatedAt: 2025-11-26T23:42:16.000Z
+updatedAt: 2026-09-25T16:20:59.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: product-returning-as-unavailable-even-with-stock-in-a-whitelabel-seller
 locale: en
-kiStatus: No Fix
+kiStatus: Fixed
 internalReference: 404499
 ---
 
@@ -30,4 +30,4 @@ This doesn't happen with Intelligent Search, which provides full support for thi
 
 ## Workaround
 
-Enable "Show out of stock" in the marketplace account.
+Enable "Show out of stock" in the marketplace account or use Intelligent Search.
