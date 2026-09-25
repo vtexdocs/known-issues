@@ -3,7 +3,7 @@ title: 'Las promociones de suscripción voluntaria se pueden configurar con vend
 slug: las-promociones-de-suscripcion-voluntaria-se-pueden-configurar-con-vendedores-de-marca-blanca-a-traves-de-la-api
 status: PUBLISHED
 createdAt: 2026-09-25T20:19:09.000Z
-updatedAt: 2026-09-25T20:19:09.000Z
+updatedAt: 2026-09-25T20:20:57.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
