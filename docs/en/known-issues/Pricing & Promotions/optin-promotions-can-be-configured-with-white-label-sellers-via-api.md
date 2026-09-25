@@ -3,7 +3,7 @@ title: 'Opt-in promotions can be configured with White Label sellers via API'
 slug: optin-promotions-can-be-configured-with-white-label-sellers-via-api
 status: PUBLISHED
 createdAt: 2026-09-25T20:19:09.000Z
-updatedAt: 2026-09-25T20:19:09.000Z
+updatedAt: 2026-09-25T20:20:57.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
