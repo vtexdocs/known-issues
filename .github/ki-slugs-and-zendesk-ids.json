@@ -181,6 +181,11 @@
   },
   {
     "locale": "en",
+    "slug": "b2b-organizations-always-deletes-last-registered-address-when-deleting-addresses-in-the-storefront",
+    "internalReference": 1466734
+  },
+  {
+    "locale": "en",
     "slug": "b2b-organizations-detail-ui-only-shows-100-first-sellers",
     "internalReference": 966450
   },
@@ -9521,6 +9526,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-organizaciones-b2b-siempre-eliminan-la-ultima-direccion-registrada-al-eliminar-direcciones-en-la-tienda-online",
+    "internalReference": 1466734
+  },
+  {
+    "locale": "es",
     "slug": "las-organizaciones-inactivas-se-muestran-al-cambiar-de-organizacion",
     "internalReference": 1092989
   },
@@ -18793,6 +18803,11 @@
     "locale": "pt",
     "slug": "organizacoes-b2b-sem-um-numero-de-endereco-como-um-endereco-valido",
     "internalReference": 1173874
+  },
+  {
+    "locale": "pt",
+    "slug": "organizacoes-b2b-sempre-excluem-o-ultimo-endereco-cadastrado-ao-remover-enderecos-da-loja-virtual",
+    "internalReference": 1466734
   },
   {
     "locale": "pt",
