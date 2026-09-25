@@ -10206,7 +10206,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-producto-aparece-como-agotado-aunque-haya-existencias-en-un-vendedor-de-marca-blanca",
+    "slug": "el-producto-aparece-como-no-disponible-incluso-con-existencias-en-un-vendedor-de-marca-blanca",
     "internalReference": 404499
   },
   {
@@ -20131,7 +20131,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-produto-aparece-como-indisponivel-mesmo-havendo-estoque-em-um-vendedor-de-marca-branca",
+    "slug": "o-produto-esta-sendo-devolvido-como-indisponivel-mesmo-havendo-estoque-em-um-vendedor-de-marca-branca",
     "internalReference": 404499
   },
   {
