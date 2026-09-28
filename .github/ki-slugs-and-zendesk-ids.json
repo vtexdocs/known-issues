@@ -8371,6 +8371,11 @@
   },
   {
     "locale": "en",
+    "slug": "promotions-may-accumulate-with-manual-prices-when-accumulatewithmanualprice-is-not-explicitly-set",
+    "internalReference": 1467018
+  },
+  {
+    "locale": "en",
     "slug": "promotions-ui-loading-wrong-currency-information",
     "internalReference": 718908
   },
@@ -17606,6 +17611,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-promociones-pueden-acumularse-con-los-precios-manuales-cuando-no-se-establece-explicitamente-la-opcion-accumulatewithmanualprice",
+    "internalReference": 1467018
+  },
+  {
+    "locale": "es",
     "slug": "las-reglas-de-la-tabla-de-precios-no-persisten-al-crear-varias-reglas-sin-actualizar-la-pagina",
     "internalReference": 1256473
   },
@@ -26693,6 +26703,11 @@
     "locale": "pt",
     "slug": "as-promocoes-mais-por-menos-estao-sendo-aplicadas-incorretamente-a-quantidades-sobrepostas",
     "internalReference": 1149846
+  },
+  {
+    "locale": "pt",
+    "slug": "as-promocoes-podem-acumular-com-precos-manuais-quando-accumulatewithmanualprice-nao-for-explicitamente-definido",
+    "internalReference": 1467018
   },
   {
     "locale": "pt",
