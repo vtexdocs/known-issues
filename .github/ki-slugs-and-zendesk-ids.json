@@ -651,11 +651,6 @@
   },
   {
     "locale": "en",
-    "slug": "apply-the-discount-to-the-most-expensive-items-ui-not-saving-data",
-    "internalReference": 1011071
-  },
-  {
-    "locale": "en",
     "slug": "attachents-api-doesnt-allow-null-domainvalues-and-it-should",
     "internalReference": 897480
   },
@@ -1483,11 +1478,6 @@
     "locale": "en",
     "slug": "position-of-the-trade-policy-depends-on-the-page-it-is-shown-on-the-admin-interface",
     "internalReference": 286470
-  },
-  {
-    "locale": "en",
-    "slug": "pricing-api-allows-negative-values",
-    "internalReference": 774548
   },
   {
     "locale": "en",
@@ -3461,11 +3451,6 @@
   },
   {
     "locale": "en",
-    "slug": "amazon-order-status-is-not-revised-when-reprocessing-order-on-bridge",
-    "internalReference": 1119618
-  },
-  {
-    "locale": "en",
     "slug": "amazon-orders-stock-reservation",
     "internalReference": 670572
   },
@@ -3538,11 +3523,6 @@
     "locale": "en",
     "slug": "custom-attribute-mapper-mercado-livre",
     "internalReference": 521197
-  },
-  {
-    "locale": "en",
-    "slug": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
-    "internalReference": 1370670
   },
   {
     "locale": "en",
@@ -3663,11 +3643,6 @@
     "locale": "en",
     "slug": "magazine-luiza-order-canceled-on-marketplace-didnt-cancel-on-vtex",
     "internalReference": 792618
-  },
-  {
-    "locale": "en",
-    "slug": "magazine-luiza-order-canceled-on-marketplace-didnt-update-status-on-vtex",
-    "internalReference": 865926
   },
   {
     "locale": "en",
@@ -5201,11 +5176,6 @@
   },
   {
     "locale": "en",
-    "slug": "category-mapping-spreadsheet-does-not-include-offers-in-waitingreview",
-    "internalReference": 1401046
-  },
-  {
-    "locale": "en",
     "slug": "create-seller-with-additional-information-is-returning-an-error",
     "internalReference": 741110
   },
@@ -5291,11 +5261,6 @@
   },
   {
     "locale": "en",
-    "slug": "search-filter-not-working-outside-the-first-page-in-received-sku-section",
-    "internalReference": 1406339
-  },
-  {
-    "locale": "en",
     "slug": "seller-group-creation-does-not-add-selected-sellers",
     "internalReference": 926969
   },
@@ -5303,11 +5268,6 @@
     "locale": "en",
     "slug": "seller-inactivation-in-new-seller-register-ui-does-not-trigger-product-reindexing-marketplace-sync-gap",
     "internalReference": 915970
-  },
-  {
-    "locale": "en",
-    "slug": "seller-invite-route-not-found-after-account-creation",
-    "internalReference": 1167493
   },
   {
     "locale": "en",
@@ -5371,8 +5331,23 @@
   },
   {
     "locale": "en",
+    "slug": "category-mapping-spreadsheet-does-not-include-offers-in-waitingreview",
+    "internalReference": 1401046
+  },
+  {
+    "locale": "en",
     "slug": "markeplacein-suggestions-api-cursor-pagination-next-only-covers-pending-suggestions-and-may-look-like-it-stopped-early",
     "internalReference": 1448547
+  },
+  {
+    "locale": "en",
+    "slug": "search-filter-not-working-outside-the-first-page-in-received-sku-section",
+    "internalReference": 1406339
+  },
+  {
+    "locale": "en",
+    "slug": "seller-invite-route-not-found-after-account-creation",
+    "internalReference": 1167493
   },
   {
     "locale": "en",
@@ -5393,6 +5368,11 @@
     "locale": "en",
     "slug": "amazon-order-cancellation-flow",
     "internalReference": 588456
+  },
+  {
+    "locale": "en",
+    "slug": "amazon-order-status-is-not-revised-when-reprocessing-order-on-bridge",
+    "internalReference": 1119618
   },
   {
     "locale": "en",
@@ -5431,6 +5411,11 @@
   },
   {
     "locale": "en",
+    "slug": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
+    "internalReference": 1370670
+  },
+  {
+    "locale": "en",
     "slug": "dafiti-installment-interest-incorrectly-increases-item-sellingprice-in-dafiti-orders",
     "internalReference": 1428531
   },
@@ -5448,6 +5433,11 @@
     "locale": "en",
     "slug": "magazine-luiza-main-image-not-respected",
     "internalReference": 1221096
+  },
+  {
+    "locale": "en",
+    "slug": "magazine-luiza-order-canceled-on-marketplace-didnt-update-status-on-vtex",
+    "internalReference": 865926
   },
   {
     "locale": "en",
@@ -8006,6 +7996,11 @@
   },
   {
     "locale": "en",
+    "slug": "apply-the-discount-to-the-most-expensive-items-ui-not-saving-data",
+    "internalReference": 1011071
+  },
+  {
+    "locale": "en",
     "slug": "applying-a-coupon-removes-initial-utm-campaign-promotion-from-cart",
     "internalReference": 1088010
   },
@@ -8288,6 +8283,11 @@
     "locale": "en",
     "slug": "price-variation-limit-only-works-in-the-main-policy",
     "internalReference": 509540
+  },
+  {
+    "locale": "en",
+    "slug": "pricing-api-allows-negative-values",
+    "internalReference": 774548
   },
   {
     "locale": "en",
@@ -9876,11 +9876,6 @@
   },
   {
     "locale": "es",
-    "slug": "aplicar-el-descuento-a-los-articulos-mas-caros-la-interfaz-de-usuario-no-guarda-los-datos",
-    "internalReference": 1011071
-  },
-  {
-    "locale": "es",
     "slug": "boton-para-excluir-el-campo-de-especificacion-no-funcional",
     "internalReference": 328943
   },
@@ -10351,11 +10346,6 @@
   },
   {
     "locale": "es",
-    "slug": "lista-de-regalos-los-datos-del-evento-salvado-en-la-interfaz-de-usuario-no-son-mensajes-que-se-reflejen-en-la-bd",
-    "internalReference": 402134
-  },
-  {
-    "locale": "es",
     "slug": "global-category-no-se-carga-correctamente-en-chrome-v12606478182-official-build-64bit",
     "internalReference": 1075366
   },
@@ -10468,11 +10458,6 @@
     "locale": "es",
     "slug": "la-api-de-politica-comercial-no-genera-solicitudes-de-reindexacion",
     "internalReference": 276511
-  },
-  {
-    "locale": "es",
-    "slug": "la-api-de-precios-permite-valores-negativos",
-    "internalReference": 774548
   },
   {
     "locale": "es",
@@ -10893,6 +10878,11 @@
     "locale": "es",
     "slug": "las-traducciones-del-catalogo-no-se-muestran-en-la-interfaz-de-usuario",
     "internalReference": 861892
+  },
+  {
+    "locale": "es",
+    "slug": "lista-de-regalos-los-datos-del-evento-salvado-en-la-interfaz-de-usuario-no-son-mensajes-que-se-reflejen-en-la-bd",
+    "internalReference": 402134
   },
   {
     "locale": "es",
@@ -12751,11 +12741,6 @@
   },
   {
     "locale": "es",
-    "slug": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-del-mercado-tipo-de-imagen-no-compatible",
-    "internalReference": 1370670
-  },
-  {
-    "locale": "es",
     "slug": "dafiti-pedidos-que-se-encuentran-en-a-la-espera-de-autorizacion-de-envio-en-vtex-pero-que-siguen-en-pagopendiente-en-dafiti",
     "internalReference": 719606
   },
@@ -12783,11 +12768,6 @@
     "locale": "es",
     "slug": "el-centro-de-promociones-de-meli-no-vincula-los-sku-a-la-promocion",
     "internalReference": 801348
-  },
-  {
-    "locale": "es",
-    "slug": "el-estado-del-pedido-de-amazon-no-se-actualiza-al-reprocesar-el-pedido-en-bridge",
-    "internalReference": 1119618
   },
   {
     "locale": "es",
@@ -12973,11 +12953,6 @@
     "locale": "es",
     "slug": "magalu-sku-que-se-integra-con-las-especificaciones-de-otro-marketplace",
     "internalReference": 689151
-  },
-  {
-    "locale": "es",
-    "slug": "magazine-luiza-el-pedido-cancelado-en-el-mercado-no-se-actualizo-en-vtex",
-    "internalReference": 865926
   },
   {
     "locale": "es",
@@ -13566,11 +13541,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-funcion-de-autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-se-renderiza-la-pagina-de-perfil-de-usuario-plp",
-    "internalReference": 1208038
-  },
-  {
-    "locale": "es",
     "slug": "autocompletar-trayendo-productos-de-sugerencia-mostrados-con-retraso",
     "internalReference": 615616
   },
@@ -13828,6 +13798,11 @@
     "locale": "es",
     "slug": "la-funcion-de-autocompletado-no-responde-al-iniciar-el-sistema-en-frio",
     "internalReference": 418573
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-de-autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-se-renderiza-la-pagina-de-perfil-de-usuario-plp",
+    "internalReference": 1208038
   },
   {
     "locale": "es",
@@ -14446,11 +14421,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-filtro-de-busqueda-no-funciona-fuera-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
-    "internalReference": 1406339
-  },
-  {
-    "locale": "es",
     "slug": "el-filtro-de-referencias-recibidas-no-funciona-con-caracteres-especiales",
     "internalReference": 944533
   },
@@ -14536,11 +14506,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-ofertas-en-waitingreview",
-    "internalReference": 1401046
-  },
-  {
-    "locale": "es",
     "slug": "la-hoja-de-calculo-de-skus-aprobados-no-muestra-el-precio",
     "internalReference": 552155
   },
@@ -14601,8 +14566,18 @@
   },
   {
     "locale": "es",
+    "slug": "el-filtro-de-busqueda-no-funciona-fuera-de-la-primera-pagina-en-la-seccion-de-sku-recibidos",
+    "internalReference": 1406339
+  },
+  {
+    "locale": "es",
     "slug": "invitacion-del-vendedor-ruta-no-encontrada-despues-de-la-creacion-de-la-cuenta",
     "internalReference": 1167493
+  },
+  {
+    "locale": "es",
+    "slug": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-ofertas-en-waitingreview",
+    "internalReference": 1401046
   },
   {
     "locale": "es",
@@ -14666,6 +14641,16 @@
   },
   {
     "locale": "es",
+    "slug": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-del-mercado-tipo-de-imagen-no-compatible",
+    "internalReference": 1370670
+  },
+  {
+    "locale": "es",
+    "slug": "el-estado-del-pedido-de-amazon-no-se-actualiza-al-reprocesar-el-pedido-en-bridge",
+    "internalReference": 1119618
+  },
+  {
+    "locale": "es",
     "slug": "fbe-las-imagenes-plppdp-fallan-intermitentemente-al-cargarse-cuando-meta",
     "internalReference": 1382819
   },
@@ -14673,6 +14658,11 @@
     "locale": "es",
     "slug": "la-asignacion-de-categorias-mediante-xls-no-se-reprocesa-para-cuentas-con-un-gran-volumen-de-sugerencias",
     "internalReference": 1438301
+  },
+  {
+    "locale": "es",
+    "slug": "magazine-luiza-el-pedido-cancelado-en-el-mercado-no-se-actualizo-en-vtex",
+    "internalReference": 865926
   },
   {
     "locale": "es",
@@ -17056,11 +17046,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-funcion-request-capture-no-registra-nuevos-eventos-al-usar-almacenes-heredados",
-    "internalReference": 604254
-  },
-  {
-    "locale": "es",
     "slug": "la-clasificacion-manual-de-las-colecciones-no-funciona-como-se-esperaba",
     "internalReference": 295245
   },
@@ -17098,6 +17083,11 @@
     "locale": "es",
     "slug": "la-funcion-getcurrentproductwithvariations-de-vtexjs-trae-los-datos-del-sku-del-componente-y-no-del-sku-del-kit",
     "internalReference": 324416
+  },
+  {
+    "locale": "es",
+    "slug": "la-funcion-request-capture-no-registra-nuevos-eventos-al-usar-almacenes-heredados",
+    "internalReference": 604254
   },
   {
     "locale": "es",
@@ -17271,6 +17261,11 @@
   },
   {
     "locale": "es",
+    "slug": "aplicar-el-descuento-a-los-articulos-mas-caros-la-interfaz-de-usuario-no-guarda-los-datos",
+    "internalReference": 1011071
+  },
+  {
+    "locale": "es",
     "slug": "calculo-inconsistente-del-regalo-al-combinar-sku-elegibles-en-la-promocion-compre-uno-y-llevese-otro-gratis",
     "internalReference": 1395338
   },
@@ -17418,6 +17413,11 @@
     "locale": "es",
     "slug": "informacion-incorrecta-en-los-campos-de-fecha-de-caducidad-de-las-promociones",
     "internalReference": 611284
+  },
+  {
+    "locale": "es",
+    "slug": "la-api-de-precios-permite-valores-negativos",
+    "internalReference": 774548
   },
   {
     "locale": "es",
@@ -19126,11 +19126,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-api-de-precos-permite-valores-negativos",
-    "internalReference": 774548
-  },
-  {
-    "locale": "pt",
     "slug": "a-api-do-catalogo-aceita-listas-de-itens-mas-a-interface-do-usuario-nao-reflete-isso",
     "internalReference": 1348787
   },
@@ -19311,11 +19306,6 @@
   },
   {
     "locale": "pt",
-    "slug": "produtos-similares-a-interface-do-usuario-apresentou-problemas-com-muitos-produtos",
-    "internalReference": 868425
-  },
-  {
-    "locale": "pt",
     "slug": "a-limpeza-completa-do-catalogo-nao-aciona-uma-nova-indexacao-da-pesquisa-inteligente",
     "internalReference": 449763
   },
@@ -19471,11 +19461,6 @@
   },
   {
     "locale": "pt",
-    "slug": "aplicar-o-desconto-aos-itens-mais-caros-a-interface-do-usuario-nao-esta-salvando-os-dados",
-    "internalReference": 1011071
-  },
-  {
-    "locale": "pt",
     "slug": "as-apis-quem-viu-tambem-viu-quem-viu-tambem-comprou-e-quem-comprou-tambem-comprou-nem-sempre-funcionam-como-esperado",
     "internalReference": 712015
   },
@@ -19583,11 +19568,6 @@
     "locale": "pt",
     "slug": "botao-para-excluir-campo-de-especificacao-nao-funcional",
     "internalReference": 328943
-  },
-  {
-    "locale": "pt",
-    "slug": "o-buscacep-nao-esta-funcionando-no-formulario-de-criacao-da-lista-de-presentes",
-    "internalReference": 342418
   },
   {
     "locale": "pt",
@@ -20031,6 +20011,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-buscacep-nao-esta-funcionando-no-formulario-de-criacao-da-lista-de-presentes",
+    "internalReference": 342418
+  },
+  {
+    "locale": "pt",
     "slug": "o-campo-de-codigo-fiscal-xml-do-catalog-integration-nao-esta-sendo-renderizado",
     "internalReference": 1031109
   },
@@ -20201,11 +20186,6 @@
   },
   {
     "locale": "pt",
-    "slug": "recarregamento-inesperado-ocorrendo-ao-registraratualizar-um-produto",
-    "internalReference": 863542
-  },
-  {
-    "locale": "pt",
     "slug": "ocorreu-um-erro-de-tempo-limite-ao-excluir-algumas-colecoes-por-meio-da-api",
     "internalReference": 1447421
   },
@@ -20296,6 +20276,11 @@
   },
   {
     "locale": "pt",
+    "slug": "produtos-similares-a-interface-do-usuario-apresentou-problemas-com-muitos-produtos",
+    "internalReference": 868425
+  },
+  {
+    "locale": "pt",
     "slug": "produtosskus-importacao-nao-suporta-lb",
     "internalReference": 337860
   },
@@ -20303,6 +20288,11 @@
     "locale": "pt",
     "slug": "programacao-de-data-de-fim-para-colecoes-nao-funcionando",
     "internalReference": 497880
+  },
+  {
+    "locale": "pt",
+    "slug": "recarregamento-inesperado-ocorrendo-ao-registraratualizar-um-produto",
+    "internalReference": 863542
   },
   {
     "locale": "pt",
@@ -22021,11 +22011,6 @@
   },
   {
     "locale": "pt",
-    "slug": "dafiti-urls-de-imagens-convertidas-para-webp-causam-rejeicao-pelo-marketplace-tipo-de-imagem-nao-suportado",
-    "internalReference": 1370670
-  },
-  {
-    "locale": "pt",
     "slug": "divergencia-no-tempo-de-entrega-netshoes",
     "internalReference": 635509
   },
@@ -22173,11 +22158,6 @@
     "locale": "pt",
     "slug": "magazine-luiza-erro-no-pedido-referencia-de-objeto-nao-definida-para-uma-instancia-de-objeto",
     "internalReference": 777298
-  },
-  {
-    "locale": "pt",
-    "slug": "magazine-luiza-pedido-cancelado-no-marketplace-mas-o-status-nao-foi-atualizado-no-vtex",
-    "internalReference": 865926
   },
   {
     "locale": "pt",
@@ -22388,11 +22368,6 @@
     "locale": "pt",
     "slug": "o-sku-removido-do-amazon-sc-nao-esta-sendo-desativado-no-portal-da-amazon",
     "internalReference": 827760
-  },
-  {
-    "locale": "pt",
-    "slug": "o-status-do-pedido-da-amazon-nao-e-atualizado-ao-reprocessar-o-pedido-na-plataforma",
-    "internalReference": 1119618
   },
   {
     "locale": "pt",
@@ -22981,11 +22956,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-banner-nao-respeita-a-especificidade-do-nivel-de-pesquisa-nas-paginas-de-pesquisa",
-    "internalReference": 566809
-  },
-  {
-    "locale": "pt",
     "slug": "botao-salvar-desativado-ao-modificar-sinonimos-de-pesquisa-importados",
     "internalReference": 508893
   },
@@ -23123,6 +23093,11 @@
     "locale": "pt",
     "slug": "o-banner-excluido-ainda-pode-aparecer-no-plp",
     "internalReference": 1295586
+  },
+  {
+    "locale": "pt",
+    "slug": "o-banner-nao-respeita-a-especificidade-do-nivel-de-pesquisa-nas-paginas-de-pesquisa",
+    "internalReference": 566809
   },
   {
     "locale": "pt",
@@ -23706,11 +23681,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-waitingreview",
-    "internalReference": 1401046
-  },
-  {
-    "locale": "pt",
     "slug": "ao-carregar-a-pagina-catalog-maping-no-administrador-a-mensagem-inicial-nao-e-traduzida",
     "internalReference": 717066
   },
@@ -23738,11 +23708,6 @@
     "locale": "pt",
     "slug": "conversor-que-converte-altura-largura-peso-e-comprimento-para-01",
     "internalReference": 886168
-  },
-  {
-    "locale": "pt",
-    "slug": "convite-do-vendedor-rota-nao-encontrada-apos-a-criacao-da-conta",
-    "internalReference": 1167493
   },
   {
     "locale": "pt",
@@ -23783,11 +23748,6 @@
     "locale": "pt",
     "slug": "o-campo-trocas-e-devolucoes-nao-e-atualizado-na-interface-de-gerenciamento-do-vendedor-apos-o-salvamento",
     "internalReference": 689886
-  },
-  {
-    "locale": "pt",
-    "slug": "o-filtro-de-pesquisa-nao-esta-funcionando-fora-da-primeira-pagina-na-secao-de-skus-recebidos",
-    "internalReference": 1406339
   },
   {
     "locale": "pt",
@@ -23851,8 +23811,23 @@
   },
   {
     "locale": "pt",
+    "slug": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-waitingreview",
+    "internalReference": 1401046
+  },
+  {
+    "locale": "pt",
+    "slug": "convite-do-vendedor-rota-nao-encontrada-apos-a-criacao-da-conta",
+    "internalReference": 1167493
+  },
+  {
+    "locale": "pt",
     "slug": "markeplacein-a-paginacao-do-cursor-da-api-de-sugestoes-next-abrange-apenas-sugestoes-pendentes-e-pode-parecer-que-parou-antes-do-tempo",
     "internalReference": 1448547
+  },
+  {
+    "locale": "pt",
+    "slug": "o-filtro-de-pesquisa-nao-esta-funcionando-fora-da-primeira-pagina-na-secao-de-skus-recebidos",
+    "internalReference": 1406339
   },
   {
     "locale": "pt",
@@ -23911,6 +23886,11 @@
   },
   {
     "locale": "pt",
+    "slug": "dafiti-urls-de-imagens-convertidas-para-webp-causam-rejeicao-pelo-marketplace-tipo-de-imagem-nao-suportado",
+    "internalReference": 1370670
+  },
+  {
+    "locale": "pt",
     "slug": "fbe-imagens-plppdp-falham-intermitentemente-ao-carregar-o-meta",
     "internalReference": 1382819
   },
@@ -23923,6 +23903,11 @@
     "locale": "pt",
     "slug": "magazine-luiza-imagem-principal-nao-respeitada",
     "internalReference": 1221096
+  },
+  {
+    "locale": "pt",
+    "slug": "magazine-luiza-pedido-cancelado-no-marketplace-mas-o-status-nao-foi-atualizado-no-vtex",
+    "internalReference": 865926
   },
   {
     "locale": "pt",
@@ -23948,6 +23933,11 @@
     "locale": "pt",
     "slug": "o-shopee-mapper-nao-suporta-categorias-dinamicas-atributos-que-desbloqueiam-subcategorias-adicionais-obrigatorias",
     "internalReference": 1427436
+  },
+  {
+    "locale": "pt",
+    "slug": "o-status-do-pedido-da-amazon-nao-e-atualizado-ao-reprocessar-o-pedido-na-plataforma",
+    "internalReference": 1119618
   },
   {
     "locale": "pt",
@@ -26491,6 +26481,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-api-de-precos-permite-valores-negativos",
+    "internalReference": 774548
+  },
+  {
+    "locale": "pt",
     "slug": "a-api-de-promocao-de-varios-skus-nao-esta-funcionando",
     "internalReference": 729990
   },
@@ -26653,6 +26648,11 @@
     "locale": "pt",
     "slug": "alteracao-da-interface-do-usuario-do-publicoalvo-da-campanha-de-diferente-de-para-igual-a-com-uma-colecao",
     "internalReference": 881131
+  },
+  {
+    "locale": "pt",
+    "slug": "aplicar-o-desconto-aos-itens-mais-caros-a-interface-do-usuario-nao-esta-salvando-os-dados",
+    "internalReference": 1011071
   },
   {
     "locale": "pt",
