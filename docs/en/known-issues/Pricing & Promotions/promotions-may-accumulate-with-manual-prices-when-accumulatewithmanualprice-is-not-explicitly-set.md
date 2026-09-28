@@ -3,7 +3,7 @@ title: 'Promotions may accumulate with manual prices when accumulateWithManualPr
 slug: promotions-may-accumulate-with-manual-prices-when-accumulatewithmanualprice-is-not-explicitly-set
 status: PUBLISHED
 createdAt: 2026-09-28T16:41:03.000Z
-updatedAt: 2026-09-28T16:41:03.000Z
+updatedAt: 2026-09-28T16:47:59.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
