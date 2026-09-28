@@ -3,7 +3,7 @@ title: 'Las promociones pueden acumularse con los precios manuales cuando no se 
 slug: las-promociones-pueden-acumularse-con-los-precios-manuales-cuando-no-se-establece-explicitamente-la-opcion-accumulatewithmanualprice
 status: PUBLISHED
 createdAt: 2026-09-28T16:41:03.000Z
-updatedAt: 2026-09-28T16:41:03.000Z
+updatedAt: 2026-09-28T16:47:59.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
@@ -20,7 +20,7 @@ internalReference: 1467018
 
 Algunas promociones pueden aplicarse a artículos con precios manuales incluso cuando el campo `accumulateWithManualPrice` no está configurado explícitamente en la promoción.
 
-Según el comportamiento actual del producto, las promociones de precio no deberían acumularse con los precios manuales por defecto. Sin embargo, cuando el campo es `null` o se omite, el motor de RnB no aplica esta restricción de forma consistente a todos los tipos de promoción.
+Según el comportamiento actual del producto, las promociones de precios no deberían acumularse con los precios manuales por defecto. Sin embargo, cuando el campo es `null` o se omite, el motor de RnB no aplica esta restricción de forma consistente a todos los tipos de promoción.
 
 El comportamiento real depende de los efectos de la promoción y de cómo se evalúa. Por lo tanto, las promociones que no deberían acumularse con los precios manuales aún pueden aplicarse a artículos con precios manuales.
 
