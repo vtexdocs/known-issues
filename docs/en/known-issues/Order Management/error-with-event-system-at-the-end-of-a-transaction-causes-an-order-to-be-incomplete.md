@@ -3,14 +3,14 @@ title: 'Error with event system at the end of a transaction causes an order to b
 slug: error-with-event-system-at-the-end-of-a-transaction-causes-an-order-to-be-incomplete
 status: PUBLISHED
 createdAt: 2021-08-27T23:54:04.000Z
-updatedAt: 2025-02-11T19:42:39.000Z
+updatedAt: 2026-09-28T22:53:24.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: error-with-event-system-at-the-end-of-a-transaction-causes-an-order-to-be-incomplete
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 421137
 ---
 
