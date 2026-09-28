@@ -5091,11 +5091,6 @@
   },
   {
     "locale": "en",
-    "slug": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
-    "internalReference": 380471
-  },
-  {
-    "locale": "en",
     "slug": "shipping-simulator-ui-returns-empty-postal-code-range-weight-range-for-kits-skus",
     "internalReference": 1382356
   },
@@ -14311,11 +14306,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-politica-de-envio-con-un-volumen-maximo-incorrecto-en-la-hoja-de-calculo-no-muestra-el-mensaje-de-error-en-la-simulacion",
-    "internalReference": 380471
-  },
-  {
-    "locale": "es",
     "slug": "la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio",
     "internalReference": 1268196
   },
@@ -23453,11 +23443,6 @@
     "locale": "pt",
     "slug": "a-permissao-de-acesso-total-ao-inventario-logistico-nao-funcionou-como-esperado",
     "internalReference": 482353
-  },
-  {
-    "locale": "pt",
-    "slug": "a-politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-exibe-a-mensagem-de-erro-na-simulacao",
-    "internalReference": 380471
   },
   {
     "locale": "pt",
