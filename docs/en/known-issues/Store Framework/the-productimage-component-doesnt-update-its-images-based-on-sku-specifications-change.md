@@ -2,15 +2,15 @@
 title: "The ProductImage component doesn't update its images based on SKU specifications change"
 slug: the-productimage-component-doesnt-update-its-images-based-on-sku-specifications-change
 status: PUBLISHED
-createdAt: 2022-09-30T21:46:04.000Z
-updatedAt: 2023-05-23T18:34:40.000Z
+createdAt: 2022-10-01T00:46:04.000Z
+updatedAt: 2026-09-28T20:42:05.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: the-productimage-component-doesnt-update-its-images-based-on-sku-specifications-change
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 669619
 ---
 
