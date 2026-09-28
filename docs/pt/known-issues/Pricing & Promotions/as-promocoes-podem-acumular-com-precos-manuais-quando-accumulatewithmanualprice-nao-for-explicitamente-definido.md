@@ -3,7 +3,7 @@ title: 'As promoções podem acumular com preços manuais quando `accumulateWith
 slug: as-promocoes-podem-acumular-com-precos-manuais-quando-accumulatewithmanualprice-nao-for-explicitamente-definido
 status: PUBLISHED
 createdAt: 2026-09-28T16:41:03.000Z
-updatedAt: 2026-09-28T16:41:03.000Z
+updatedAt: 2026-09-28T16:47:59.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
