@@ -5491,6 +5491,11 @@
   },
   {
     "locale": "en",
+    "slug": "shopee-product-protection-amount-is-added-to-the-shipping-total-of-integrated-orders",
+    "internalReference": 1468080
+  },
+  {
+    "locale": "en",
     "slug": "disqualification-of-seller-at-pickup-point-due-to-divergent-quantity-between-slas-at-checkout",
     "internalReference": 1228333
   },
@@ -14713,6 +14718,11 @@
     "locale": "es",
     "slug": "shopee-el-atributo-de-marca-no-se-envio-o-se-sobrescribio-durante-la-sincronizacion-del-producto",
     "internalReference": 1323634
+  },
+  {
+    "locale": "es",
+    "slug": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-envio-de-los-pedidos-integrados",
+    "internalReference": 1468080
   },
   {
     "locale": "es",
@@ -23973,6 +23983,11 @@
     "locale": "pt",
     "slug": "shopee-o-atributo-da-marca-nao-foi-enviado-ou-foi-sobrescrito-durante-a-sincronizacao-do-produto",
     "internalReference": 1323634
+  },
+  {
+    "locale": "pt",
+    "slug": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-frete-de-pedidos-integrados",
+    "internalReference": 1468080
   },
   {
     "locale": "pt",
