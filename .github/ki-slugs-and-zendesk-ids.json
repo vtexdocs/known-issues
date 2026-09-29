@@ -4916,11 +4916,6 @@
   },
   {
     "locale": "en",
-    "slug": "api-shipping-estimate-returns-wrong-info-when-sc-is-null",
-    "internalReference": 554948
-  },
-  {
-    "locale": "en",
     "slug": "availablequantity-value-inconsistent-due-to-the-large-number-of-routes-created-to-deliver-the-item",
     "internalReference": 1034211
   },
@@ -4983,11 +4978,6 @@
     "locale": "en",
     "slug": "freight-values-update-api-taking-time-to-reflect-on-simulation-module",
     "internalReference": 621230
-  },
-  {
-    "locale": "en",
-    "slug": "inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive",
-    "internalReference": 346163
   },
   {
     "locale": "en",
@@ -14186,11 +14176,6 @@
   },
   {
     "locale": "es",
-    "slug": "divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas",
-    "internalReference": 346163
-  },
-  {
-    "locale": "es",
     "slug": "divergencia-de-inventario-la-logistica-maneja-el-cero-a-la-izquierda-como-otra-sku",
     "internalReference": 427610
   },
@@ -14263,11 +14248,6 @@
     "locale": "es",
     "slug": "la-api-del-almacen-demuestra-la-eliminacion-de-puntos-de-recogida-almacen-instore",
     "internalReference": 573017
-  },
-  {
-    "locale": "es",
-    "slug": "la-api-shipping-estimate-devuelve-informacion-erronea-cuando-la-sc-es-nula",
-    "internalReference": 554948
   },
   {
     "locale": "es",
@@ -23466,11 +23446,6 @@
   },
   {
     "locale": "pt",
-    "slug": "api-shipping-estimate-devolve-informacoes-erradas-quando-sc-e-nulo",
-    "internalReference": 554948
-  },
-  {
-    "locale": "pt",
     "slug": "armazem-api-demonstra-o-ponto-de-retirada-eliminado-instore-warehouse",
     "internalReference": 573017
   },
@@ -23513,11 +23488,6 @@
     "locale": "pt",
     "slug": "divergencia-de-estoque-a-logistica-nao-tem-o-mesmo-tratamento-a-esquerda-que-outra-sku",
     "internalReference": 427610
-  },
-  {
-    "locale": "pt",
-    "slug": "divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas",
-    "internalReference": 346163
   },
   {
     "locale": "pt",
