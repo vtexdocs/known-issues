@@ -596,6 +596,11 @@
   },
   {
     "locale": "en",
+    "slug": "view-in-pages-link-in-planner-calendar-opens-a-broken-url-with-literal",
+    "internalReference": 1468037
+  },
+  {
+    "locale": "en",
     "slug": "when-deleting-routes-from-the-routesjson-file-they-are-not-deleted-from-the-ui",
     "internalReference": 1172460
   },
@@ -9648,6 +9653,11 @@
     "locale": "es",
     "slug": "el-editor-del-sitio-tiene-problemas-de-representacion-intermitente-en-la-pantalla-pequena",
     "internalReference": 399339
+  },
+  {
+    "locale": "es",
+    "slug": "el-enlace-ver-en-paginas-en-el-calendario-del-planificador-abre-una-url-rota-con-un-error-literal",
+    "internalReference": 1468037
   },
   {
     "locale": "es",
@@ -18993,6 +19003,11 @@
     "locale": "pt",
     "slug": "o-headless-cms-nao-esta-simulando-dados-entre-espacos-de-trabalho",
     "internalReference": 1215583
+  },
+  {
+    "locale": "pt",
+    "slug": "o-link-ver-em-paginas-no-calendario-do-planejador-abre-uma-url-quebrada-com-um-texto-literal",
+    "internalReference": 1468037
   },
   {
     "locale": "pt",
