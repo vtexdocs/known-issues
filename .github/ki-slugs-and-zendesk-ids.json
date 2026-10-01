@@ -9221,6 +9221,11 @@
   },
   {
     "locale": "en",
+    "slug": "audit-csv-export-fails-for-large-result-sets-while-the-ui-reports-success",
+    "internalReference": 1468936
+  },
+  {
+    "locale": "en",
     "slug": "order-not-notified-carrier-leaves-label-barcode-incomplete",
     "internalReference": 872530
   },
@@ -18458,6 +18463,11 @@
     "locale": "es",
     "slug": "si-las-tablas-de-correios-no-estan-concatenadas-en-el-filtro-de-listo-para-enviar-la-generacion-de-etiquetas-no-funciona-correctamente",
     "internalReference": 517449
+  },
+  {
+    "locale": "es",
+    "slug": "la-exportacion-de-auditoria-csv-falla-para-conjuntos-de-resultados-grandes-aunque-la-interfaz-de-usuario-informa-que-se-realizo-correctamente",
+    "internalReference": 1468936
   },
   {
     "locale": "es",
@@ -27708,6 +27718,11 @@
     "locale": "pt",
     "slug": "se-as-tabelas-dos-correios-nao-estiverem-concatenadas-no-filtro-ready-to-dispatch-a-geracao-de-etiquetas-nao-funciona-corretamente",
     "internalReference": 517449
+  },
+  {
+    "locale": "pt",
+    "slug": "a-exportacao-de-csv-para-auditoria-falha-para-conjuntos-de-resultados-grandes-embora-a-interface-do-usuario-relate-sucesso",
+    "internalReference": 1468936
   },
   {
     "locale": "pt",
