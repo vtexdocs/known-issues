@@ -5771,6 +5771,11 @@
   },
   {
     "locale": "en",
+    "slug": "native-split-with-asymmetric-financial-charge-across-suborders-settles-less-than-the-invoiced-amount",
+    "internalReference": 1469699
+  },
+  {
+    "locale": "en",
     "slug": "new-ui-do-not-shows-on-orders-the-correct-delivery-window-estimated",
     "internalReference": 620668
   },
@@ -15081,6 +15086,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-division-nativa-con-cargo-financiero-asimetrico-entre-subordenes-se-liquida-por-un-monto-menor-al-facturado",
+    "internalReference": 1469699
+  },
+  {
+    "locale": "es",
     "slug": "la-eliminacion-del-usuario-de-la-regla-de-autorizacion-de-pedidos-bloquea-el-pedido-y-no-permite-el-reprocesamiento-de-la-interfaz-de-usuario",
     "internalReference": 623376
   },
@@ -24033,6 +24043,11 @@
     "locale": "pt",
     "slug": "a-atualizacao-do-rastreamento-falha-quando-o-invoicenumber-contem-rotas-de-faturas-omsorders",
     "internalReference": 1302085
+  },
+  {
+    "locale": "pt",
+    "slug": "a-divisao-nativa-com-cobranca-financeira-assimetrica-entre-subpedidos-resulta-em-um-valor-inferior-ao-faturado",
+    "internalReference": 1469699
   },
   {
     "locale": "pt",
