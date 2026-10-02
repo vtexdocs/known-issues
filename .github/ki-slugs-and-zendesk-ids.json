@@ -9431,7 +9431,7 @@
   },
   {
     "locale": "es",
-    "slug": "error-en-el-recuento-de-la-cantidad-de-sku-en-la-caja-cuando-se-aplica-la-promocion-mas-por-menos-en-cotizaciones-b2b",
+    "slug": "error-en-el-recuento-de-la-cantidad-de-sku-en-el-proceso-de-pago-cuando-se-aplica-la-promocion-mas-por-menos-en-las-cotizaciones-b2b",
     "internalReference": 1281922
   },
   {
@@ -18711,7 +18711,7 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-na-contagem-da-quantidade-de-sku-no-checkout-quando-a-promocao-mais-por-menos-e-aplicada-em-cotacoes-b2b",
+    "slug": "erro-na-contagem-da-quantidade-de-skus-no-checkout-quando-a-promocao-mais-por-menos-e-aplicada-em-orcamentos-b2b",
     "internalReference": 1281922
   },
   {
