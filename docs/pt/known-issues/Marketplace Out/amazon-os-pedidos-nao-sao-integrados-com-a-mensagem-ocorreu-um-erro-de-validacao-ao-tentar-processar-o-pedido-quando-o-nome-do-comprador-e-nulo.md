@@ -3,7 +3,7 @@ title: 'Amazon Os pedidos não são integrados com a mensagem "Ocorreu um erro d
 slug: amazon-os-pedidos-nao-sao-integrados-com-a-mensagem-ocorreu-um-erro-de-validacao-ao-tentar-processar-o-pedido-quando-o-nome-do-comprador-e-nulo
 status: PUBLISHED
 createdAt: 2026-10-02T20:01:28.000Z
-updatedAt: 2026-10-02T20:01:28.000Z
+updatedAt: 2026-10-02T20:19:17.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
