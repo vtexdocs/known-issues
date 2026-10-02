@@ -18566,11 +18566,6 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-ao-listar-as-dependencias-do-espaco-de-trabalho-ao-tentar-acessar-uma-conta",
-    "internalReference": 1260934
-  },
-  {
-    "locale": "pt",
     "slug": "erro-ao-tentar-publicar-ou-vincular-um-aplicativo",
     "internalReference": 1056882
   },
@@ -18603,6 +18598,11 @@
     "locale": "pt",
     "slug": "o-vbase-responde-404-para-vtexpagesgraphql",
     "internalReference": 822031
+  },
+  {
+    "locale": "pt",
+    "slug": "ocorreu-o-erro-erro-ao-listar-as-dependencias-do-espaco-de-trabalho-ao-tentar-acessar-uma-conta",
+    "internalReference": 1260934
   },
   {
     "locale": "pt",
