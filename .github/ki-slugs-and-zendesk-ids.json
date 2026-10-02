@@ -4071,6 +4071,11 @@
   },
   {
     "locale": "en",
+    "slug": "faststore-does-not-return-product-seo-information-title-and-meta-description-on-graphql-query",
+    "internalReference": 929029
+  },
+  {
+    "locale": "en",
     "slug": "faststore-facets-considering-not-removing-facets-set-to-ne-hidden",
     "internalReference": 1029837
   },
@@ -4093,11 +4098,6 @@
     "locale": "en",
     "slug": "faststore-stores-have-no-conversion-data-in-intelligent-search-reports",
     "internalReference": 1157002
-  },
-  {
-    "locale": "en",
-    "slug": "faststore-v1-dont-return-seo-information-on-graphql-query",
-    "internalReference": 929029
   },
   {
     "locale": "en",
@@ -13361,13 +13361,13 @@
   },
   {
     "locale": "es",
-    "slug": "faststore-no-recibe-eventos-rc",
-    "internalReference": 1136559
+    "slug": "faststore-no-devuelve-informacion-seo-del-producto-titulo-y-meta-descripcion-en-la-consulta-graphql",
+    "internalReference": 929029
   },
   {
     "locale": "es",
-    "slug": "faststore-v1-no-devuelve-informacion-seo-en-la-consulta-graphql",
-    "internalReference": 929029
+    "slug": "faststore-no-recibe-eventos-rc",
+    "internalReference": 1136559
   },
   {
     "locale": "es",
@@ -22621,7 +22621,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-faststore-v1-nao-retorna-informacoes-de-seo-na-consulta-graphql",
+    "slug": "o-faststore-nao-retorna-informacoes-de-seo-do-produto-titulo-e-meta-descricao-em-consultas-graphql",
     "internalReference": 929029
   },
   {
