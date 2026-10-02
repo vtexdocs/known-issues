@@ -5371,6 +5371,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-orders-fail-to-integrate-with-a-validation-error-occurred-while-trying-to-process-the-order-when-the-buyer-name-is-null",
+    "internalReference": 1469662
+  },
+  {
+    "locale": "en",
     "slug": "amazon-silent-error-when-connecting-amazon-integration",
     "internalReference": 1454182
   },
@@ -14603,6 +14608,11 @@
     "locale": "es",
     "slug": "amazon-los-pedidos-nfe-para-amazon-dba-easy-ship-son-rechazados-cuando-el-comprador-aplica-un-descuento-promocional",
     "internalReference": 1447551
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-los-pedidos-no-se-integran-correctamente-y-aparece-el-mensaje-se-produjo-un-error-de-validacion-al-intentar-procesar-el-pedido-cuando-el-nombre-del-comprador-es-nulo",
+    "internalReference": 1469662
   },
   {
     "locale": "es",
@@ -23858,6 +23868,11 @@
     "locale": "pt",
     "slug": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual",
     "internalReference": 1446100
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-os-pedidos-nao-sao-integrados-com-a-mensagem-ocorreu-um-erro-de-validacao-ao-tentar-processar-o-pedido-quando-o-nome-do-comprador-e-nulo",
+    "internalReference": 1469662
   },
   {
     "locale": "pt",
