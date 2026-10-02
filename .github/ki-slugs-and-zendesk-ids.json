@@ -9641,13 +9641,13 @@
   },
   {
     "locale": "es",
-    "slug": "dominio-final-diferente-de-myvtex-debido-a-la-version-antigua-del-componente-en-el-editor-de-sitios",
-    "internalReference": 948071
+    "slug": "el-contenido-del-editor-del-sitio-configurado-para-aplicarse-a-categorias-especificas-no-se-muestra-si-no-se-accede-a-la-categoria-mediante-su-enla",
+    "internalReference": 371994
   },
   {
     "locale": "es",
-    "slug": "el-contenido-del-editor-del-sitio-configurado-para-aplicarse-a-categorias-especificas-no-se-muestra-si-no-se-accede-a-la-categoria-mediante-su-enla",
-    "internalReference": 371994
+    "slug": "el-dominio-final-es-diferente-de-myvtex-debido-a-una-version-antigua-del-componente-en-el-editor-de-sitios",
+    "internalReference": 948071
   },
   {
     "locale": "es",
@@ -18986,7 +18986,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-dominio-final-e-diferente-do-myvtex-devido-a-versao-antiga-do-componente-no-site-editor",
+    "slug": "o-dominio-final-e-diferente-de-myvtex-devido-a-versao-antiga-do-componente-no-editor-de-sites",
     "internalReference": 948071
   },
   {
