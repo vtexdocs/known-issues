@@ -3,7 +3,7 @@ title: 'Las cuentas con "-" en el nombre no tienen m√©tricas en el informe de b√
 slug: las-cuentas-con-en-el-nombre-no-tienen-metricas-en-el-informe-de-busqueda
 status: PUBLISHED
 createdAt: 2025-12-26T23:12:28.000Z
-updatedAt: 2026-09-22T16:52:20.000Z
+updatedAt: 2026-10-06T17:19:53.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
