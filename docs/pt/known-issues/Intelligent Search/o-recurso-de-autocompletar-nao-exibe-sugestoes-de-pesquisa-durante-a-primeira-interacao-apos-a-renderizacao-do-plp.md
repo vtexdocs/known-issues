@@ -3,7 +3,7 @@ title: 'O recurso de autocompletar não exibe sugestões de pesquisa durante a p
 slug: o-recurso-de-autocompletar-nao-exibe-sugestoes-de-pesquisa-durante-a-primeira-interacao-apos-a-renderizacao-do-plp
 status: PUBLISHED
 createdAt: 2025-04-09T15:44:09.000Z
-updatedAt: 2026-09-22T16:54:37.000Z
+updatedAt: 2026-10-06T17:21:54.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
