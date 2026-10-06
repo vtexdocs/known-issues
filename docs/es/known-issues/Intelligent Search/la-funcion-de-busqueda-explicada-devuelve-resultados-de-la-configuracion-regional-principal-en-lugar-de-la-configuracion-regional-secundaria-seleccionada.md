@@ -3,7 +3,7 @@ title: 'La función de búsqueda explicada devuelve resultados de la configuraci
 slug: la-funcion-de-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada
 status: PUBLISHED
 createdAt: 2026-03-10T17:16:30.000Z
-updatedAt: 2026-09-22T16:51:07.000Z
+updatedAt: 2026-10-06T17:19:39.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
