@@ -3,7 +3,7 @@ title: "Intelligent Search multilanguage doesn't support 2 variations of the sam
 slug: intelligent-search-multilanguage-doesnt-support-2-variations-of-the-same-languageidiom
 status: PUBLISHED
 createdAt: 2023-06-09T23:41:19.000Z
-updatedAt: 2026-01-27T19:36:01.000Z
+updatedAt: 2026-10-06T17:22:48.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
