@@ -15161,7 +15161,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-solicitud-de-liquidacion-de-las-ordenes-no-tiene-en-cuenta-el-valor-de-los-intereses",
+    "slug": "la-solicitud-de-liquidacion-de-ordenes-no-tiene-en-cuenta-el-valor-de-los-intereses",
     "internalReference": 1130035
   },
   {
@@ -24451,6 +24451,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-pedido-de-liquidacao-de-ordens-nao-leva-em-consideracao-o-valor-dos-juros",
+    "internalReference": 1130035
+  },
+  {
+    "locale": "pt",
     "slug": "o-pedido-ficou-preso-em-um-status-intermediario-do-fluxo-de-trabalho-devido-a-uma-dessincronizacao-do-fluxo-de-trabalho",
     "internalReference": 1465447
   },
@@ -24668,11 +24673,6 @@
     "locale": "pt",
     "slug": "recurso-de-indexacao-do-feed-hook-que-ignora-eventos-nos-filtros-fromorders",
     "internalReference": 832400
-  },
-  {
-    "locale": "pt",
-    "slug": "solicitacao-de-liquidacao-de-ordens-nao-leva-em-conta-o-valor-dos-juros",
-    "internalReference": 1130035
   },
   {
     "locale": "pt",
