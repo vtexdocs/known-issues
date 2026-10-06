@@ -3,7 +3,7 @@ title: "Manual sorting of collections doesn't work as expected"
 slug: manual-sorting-of-collections-doesnt-work-as-expected
 status: PUBLISHED
 createdAt: 2020-10-09T18:09:41.000Z
-updatedAt: 2025-07-30T22:40:37.000Z
+updatedAt: 2026-10-06T18:33:43.000Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
@@ -21,6 +21,7 @@ Manual sorting of collections doesn't work as expected. There are two ways to so
 
 1. Using the ContentPlaceHolder control type collection;
 2. Using a search or search context of a Landing Page with the SearchResult control (in this case, the querystring _O=productClusterOrder_{ProductClusterId}%20asc_ must be used).
+
 
 In both cases, the system supports sorting up to **30** SKUs of the collection. When the collection has more than 30 SKUs, all spare SKUs will be listed BEFORE those positioned between 1 and 30.
 
