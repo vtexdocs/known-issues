@@ -3,7 +3,7 @@ title: 'O formulário de sinônimos da Busca Inteligente pode congelar o campo d
 slug: o-formulario-de-sinonimos-da-busca-inteligente-pode-congelar-o-campo-de-tipo-de-sinonimo-apos-a-criacao-de-um-sinonimo-unidirecional
 status: PUBLISHED
 createdAt: 2025-04-24T21:39:54.000Z
-updatedAt: 2026-09-22T16:54:53.000Z
+updatedAt: 2026-10-06T17:21:46.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
