@@ -13941,7 +13941,7 @@
   },
   {
     "locale": "es",
-    "slug": "los-banners-de-busqueda-no-borran-las-reglas-de-las-reglas-de-activacion",
+    "slug": "los-banners-de-busqueda-no-eliminan-las-reglas-de-las-reglas-de-activacion",
     "internalReference": 1142901
   },
   {
@@ -14046,7 +14046,7 @@
   },
   {
     "locale": "es",
-    "slug": "plp-no-se-carga-cuando-los-valores-de-las-facetas-son-palabras-reservadas",
+    "slug": "plp-no-se-carga-cuando-los-valores-de-faceta-son-palabras-reservadas",
     "internalReference": 1193294
   },
   {
@@ -23176,7 +23176,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-plp-nao-e-carregado-quando-os-valores-da-faceta-sao-palavras-reservadas",
+    "slug": "o-plp-nao-carrega-quando-os-valores-das-facetas-sao-palavras-reservadas",
     "internalReference": 1193294
   },
   {
