@@ -13771,7 +13771,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-busqueda-inteligente-multilingue-no-admite-dos-variantes-del-mismo-idioma-o-jerga",
+    "slug": "la-busqueda-inteligente-multilingue-no-admite-dos-variaciones-del-mismo-idioma-o-modismo",
     "internalReference": 841704
   },
   {
@@ -22826,6 +22826,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-busca-inteligente-multilingue-nao-suporta-duas-variacoes-da-mesma-linguaidioma",
+    "internalReference": 841704
+  },
+  {
+    "locale": "pt",
     "slug": "a-busca-inteligente-retorna-produtos-gerados-pela-divisao-de-sku-com-disponibilidade-incorreta",
     "internalReference": 1456597
   },
@@ -22903,11 +22908,6 @@
     "locale": "pt",
     "slug": "a-pesquisa-inteligente-de-facetas-oculta-a-faceta-principal-selecionada-na-selecao-multipla-com-detalhamento",
     "internalReference": 1432016
-  },
-  {
-    "locale": "pt",
-    "slug": "a-pesquisa-inteligente-multilingue-nao-suporta-duas-variacoes-do-mesmo-idioma",
-    "internalReference": 841704
   },
   {
     "locale": "pt",
