@@ -3,7 +3,7 @@ title: 'A ordenação por desconto ignora o contexto do canal de vendas.'
 slug: a-ordenacao-por-desconto-ignora-o-contexto-do-canal-de-vendas
 status: PUBLISHED
 createdAt: 2026-07-07T20:33:35.000Z
-updatedAt: 2026-09-22T16:18:18.000Z
+updatedAt: 2026-10-06T17:19:22.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -26,7 +26,7 @@ Como resultado, as porcentagens de desconto usadas para classificar os produtos 
 
 ## Simulação
 
-Em uma loja com promoções ou descontos específicos para canais de vendas específicos, acesse qualquer Página de Produtos enquanto estiver classificando por melhor desconto (`OrderByBestDiscountDESC` / `discount:desc`) — você notará que a ordem não reflete os descontos aplicáveis ​​ao canal de vendas ativo, pois o índice contém apenas os valores de desconto indexados.
+Em uma loja com promoções ou descontos específicos para canais de vendas específicos, acesse qualquer Página de Produtos enquanto estiver ordenando pelo melhor desconto (`OrderByBestDiscountDESC` / `discount:desc`) — você notará que a ordem não reflete os descontos aplicáveis ​​ao canal de vendas ativo, pois o índice contém apenas os valores de desconto indexados.
 
 ## Workaround
 
