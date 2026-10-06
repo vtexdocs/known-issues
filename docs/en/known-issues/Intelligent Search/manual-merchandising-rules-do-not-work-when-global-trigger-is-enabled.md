@@ -3,7 +3,7 @@ title: 'Manual merchandising rules do not work when Global trigger is enabled'
 slug: manual-merchandising-rules-do-not-work-when-global-trigger-is-enabled
 status: PUBLISHED
 createdAt: 2024-12-06T23:20:32.000Z
-updatedAt: 2026-09-22T16:54:18.000Z
+updatedAt: 2026-10-06T17:22:11.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
