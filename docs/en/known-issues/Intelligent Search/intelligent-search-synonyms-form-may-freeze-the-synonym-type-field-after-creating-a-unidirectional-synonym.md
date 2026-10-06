@@ -3,7 +3,7 @@ title: 'Intelligent Search Synonyms form may freeze the synonym type field after
 slug: intelligent-search-synonyms-form-may-freeze-the-synonym-type-field-after-creating-a-unidirectional-synonym
 status: PUBLISHED
 createdAt: 2025-04-24T21:39:54.000Z
-updatedAt: 2026-09-22T16:54:53.000Z
+updatedAt: 2026-10-06T17:21:46.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
