@@ -3,7 +3,7 @@ title: 'La función de autocompletar no muestra sugerencias de búsqueda durante
 slug: la-funcion-de-autocompletar-no-muestra-sugerencias-de-busqueda-durante-la-primera-interaccion-despues-de-que-se-renderiza-la-pagina-de-perfil-de-usuario-plp
 status: PUBLISHED
 createdAt: 2025-04-09T15:44:09.000Z
-updatedAt: 2026-09-22T16:54:37.000Z
+updatedAt: 2026-10-06T17:21:54.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
