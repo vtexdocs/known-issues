@@ -13636,7 +13636,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-mismo-id-de-opcion-en-diferentes-facetas-afecta-a-la-seleccion-de-facetas-en-una-version-movil",
+    "slug": "el-mismo-id-de-opcion-en-diferentes-facetas-afecta-la-seleccion-de-facetas-en-una-version-movil",
     "internalReference": 1328394
   },
   {
@@ -13651,7 +13651,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-selector-sku-detach-enumera-las-especificaciones-del-producto-en-los-ajustes-de-busqueda",
+    "slug": "el-selector-de-desacoplamiento-de-sku-muestra-las-especificaciones-del-producto-en-la-configuracion-de-busqueda",
     "internalReference": 1338042
   },
   {
@@ -22866,6 +22866,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-mesma-id-de-opcao-em-diferentes-facetas-afeta-a-selecao-de-facetas-na-versao-movel",
+    "internalReference": 1328394
+  },
+  {
+    "locale": "pt",
     "slug": "a-opcao-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada",
     "internalReference": 1376133
   },
@@ -23166,11 +23171,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-mesmo-id-de-opcao-em-diferentes-facetas-afeta-a-selecao-de-facetas-em-uma-versao-movel",
-    "internalReference": 1328394
-  },
-  {
-    "locale": "pt",
     "slug": "o-nome-do-grupo-nao-e-atualizado-automaticamente-na-pesquisa-inteligente",
     "internalReference": 821481
   },
@@ -23201,7 +23201,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-seletor-sku-detach-lista-as-especificacoes-do-produto-nas-configuracoes-de-pesquisa",
+    "slug": "o-seletor-de-desanexacao-de-sku-lista-as-especificacoes-do-produto-nas-configuracoes-de-pesquisa",
     "internalReference": 1338042
   },
   {
