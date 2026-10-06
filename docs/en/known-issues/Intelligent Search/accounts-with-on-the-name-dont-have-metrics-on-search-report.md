@@ -3,7 +3,7 @@ title: "Accounts with \"-\" on the name don't have metrics on search report"
 slug: accounts-with-on-the-name-dont-have-metrics-on-search-report
 status: PUBLISHED
 createdAt: 2025-12-26T23:12:28.000Z
-updatedAt: 2026-09-22T16:52:20.000Z
+updatedAt: 2026-10-06T17:19:53.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
