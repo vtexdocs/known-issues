@@ -23026,13 +23026,13 @@
   },
   {
     "locale": "pt",
-    "slug": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-busca",
-    "internalReference": 793570
+    "slug": "contas-com-no-nome-nao-possuem-metricas-no-relatorio-de-pesquisa",
+    "internalReference": 1344531
   },
   {
     "locale": "pt",
-    "slug": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-pesquisa",
-    "internalReference": 1344531
+    "slug": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-busca",
+    "internalReference": 793570
   },
   {
     "locale": "pt",
