@@ -3,7 +3,7 @@ title: 'Explained Search returns results from main locale instead of selected se
 slug: explained-search-returns-results-from-main-locale-instead-of-selected-secondary-locale
 status: PUBLISHED
 createdAt: 2026-03-10T17:16:30.000Z
-updatedAt: 2026-09-22T16:51:07.000Z
+updatedAt: 2026-10-06T17:19:39.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
