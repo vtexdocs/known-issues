@@ -2,8 +2,8 @@
 title: 'Search facets disappear when using back button after clicking "Show more"'
 slug: search-facets-disappear-when-using-back-button-after-clicking-show-more
 status: PUBLISHED
-createdAt: 2025-12-17T11:53:29.825Z
-updatedAt: 2025-12-17T11:53:29.825Z
+createdAt: 2025-12-17T14:51:11.000Z
+updatedAt: 2026-10-06T17:20:10.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,13 +16,9 @@ internalReference: 1341077
 
 ## Summary
 
-
 When the user clicks the back button on any page, except page 1 of the PLP, the filters disappear from the screen.
 
-
-#### Simulation
-
-
+## Simulation
 
 1. Go to any PLP in the store (e.g., a category or search results page).
 2. Scroll and click the "**Show more"** button to load the next page of products on the PLP.
@@ -30,11 +26,6 @@ When the user clicks the back button on any page, except page 1 of the PLP, the 
 4. Click the browser **Back** button.
 5. Observe that the facets will disappear.
 
-
-#### Workaround
-
+## Workaround
 
 N/A
-
-
-
