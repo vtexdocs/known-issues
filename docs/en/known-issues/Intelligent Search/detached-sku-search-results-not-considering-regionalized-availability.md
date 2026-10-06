@@ -3,7 +3,7 @@ title: 'Detached SKU search results not considering regionalized availability'
 slug: detached-sku-search-results-not-considering-regionalized-availability
 status: PUBLISHED
 createdAt: 2025-12-26T22:00:45.000Z
-updatedAt: 2026-09-22T16:53:47.000Z
+updatedAt: 2026-10-06T17:20:02.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
