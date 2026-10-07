@@ -3,7 +3,7 @@ title: 'O desconto no frete foi descartado devido ao arredondamento em promoçõ
 slug: o-desconto-no-frete-foi-descartado-devido-ao-arredondamento-em-promocoes-cumulativas
 status: PUBLISHED
 createdAt: 2026-10-07T22:47:33.000Z
-updatedAt: 2026-10-07T22:47:33.000Z
+updatedAt: 2026-10-07T22:48:21.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
