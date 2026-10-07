@@ -8426,6 +8426,11 @@
   },
   {
     "locale": "en",
+    "slug": "shipping-discount-discarded-due-to-rounding-in-cumulative-promotions",
+    "internalReference": 1471558
+  },
+  {
+    "locale": "en",
     "slug": "some-payment-methods-are-not-displayed-at-buy-together-promotions-on-the-new-ui",
     "internalReference": 1091169
   },
@@ -17348,6 +17353,11 @@
     "locale": "es",
     "slug": "el-cupon-no-funciona-y-aparece-el-mensaje-el-cupon-ha-caducado",
     "internalReference": 1379679
+  },
+  {
+    "locale": "es",
+    "slug": "el-descuento-de-envio-se-descarto-debido-al-redondeo-en-las-promociones-acumulativas",
+    "internalReference": 1471558
   },
   {
     "locale": "es",
@@ -26873,6 +26883,11 @@
     "locale": "pt",
     "slug": "o-desconto-maximo-de-frete-nao-esta-atualizando-as-etiquetas-de-preco",
     "internalReference": 904190
+  },
+  {
+    "locale": "pt",
+    "slug": "o-desconto-no-frete-foi-descartado-devido-ao-arredondamento-em-promocoes-cumulativas",
+    "internalReference": 1471558
   },
   {
     "locale": "pt",
