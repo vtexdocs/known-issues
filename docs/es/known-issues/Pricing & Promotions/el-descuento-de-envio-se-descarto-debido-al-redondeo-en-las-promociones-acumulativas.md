@@ -3,7 +3,7 @@ title: 'El descuento de envío se descartó debido al redondeo en las promocione
 slug: el-descuento-de-envio-se-descarto-debido-al-redondeo-en-las-promociones-acumulativas
 status: PUBLISHED
 createdAt: 2026-10-07T22:47:33.000Z
-updatedAt: 2026-10-07T22:48:21.000Z
+updatedAt: 2026-10-07T22:52:48.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
