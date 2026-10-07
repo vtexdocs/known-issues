@@ -11901,11 +11901,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-interfaz-de-pago-no-aplica-automaticamente-la-opcion-envio-economico-a-los-articulos-que-no-tienen-metodos-de-envio-comunes",
-    "internalReference": 329846
-  },
-  {
-    "locale": "es",
     "slug": "la-interfaz-de-pago-no-muestra-un-mensaje-de-error-cuando-un-usuario-con-el-perfil-completo-activa-la-opcion-de-que-el-regalo-no-esta-disponible",
     "internalReference": 1381105
   },
@@ -11913,6 +11908,11 @@
     "locale": "es",
     "slug": "la-interfaz-de-pago-no-puede-agrupar-paquetes-cuando-dos-o-mas-opciones-de-entrega-tienen-el-mismo-precio",
     "internalReference": 1105920
+  },
+  {
+    "locale": "es",
+    "slug": "la-interfaz-de-pago-no-utiliza-automaticamente-el-envio-simplificado-para-articulos-sin-metodos-de-envio-comunes",
+    "internalReference": 329846
   },
   {
     "locale": "es",
@@ -20596,6 +20596,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-interface-de-finalizacao-da-compra-nao-esta-usando-automaticamente-o-envio-simplificado-para-itens-sem-metodos-de-envio-comuns",
+    "internalReference": 329846
+  },
+  {
+    "locale": "pt",
     "slug": "a-interface-de-usuario-do-checkout-altera-o-endereco-selecionado-quando-ha-mais-de-um-endereco-disponivel",
     "internalReference": 1138817
   },
@@ -20628,11 +20633,6 @@
     "locale": "pt",
     "slug": "a-interface-do-checkout-exibe-o-frete-gratis-quando-o-usuario-altera-as-opcoes-de-entrega",
     "internalReference": 897109
-  },
-  {
-    "locale": "pt",
-    "slug": "a-interface-do-checkout-nao-esta-utilizando-automaticamente-a-opcao-frete-economico-para-itens-sem-metodos-de-envio-comuns",
-    "internalReference": 329846
   },
   {
     "locale": "pt",
