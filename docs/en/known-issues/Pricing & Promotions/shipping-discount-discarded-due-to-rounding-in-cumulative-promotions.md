@@ -3,7 +3,7 @@ title: 'Shipping discount discarded due to rounding in cumulative promotions'
 slug: shipping-discount-discarded-due-to-rounding-in-cumulative-promotions
 status: PUBLISHED
 createdAt: 2026-10-07T22:47:33.000Z
-updatedAt: 2026-10-07T22:48:21.000Z
+updatedAt: 2026-10-07T22:52:48.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
