@@ -3,7 +3,7 @@ title: 'Apenas um agente recebe notificação por e-mail em uma chamada ativa.'
 slug: apenas-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa
 status: PUBLISHED
 createdAt: 2025-04-30T16:10:04.000Z
-updatedAt: 2026-10-08T16:38:29.000Z
+updatedAt: 2026-10-08T17:32:51.000Z
 contentType: knownIssue
 productTeam: Personal Shopper
 author: 2mXZkbi0oi061KicTExNjo
