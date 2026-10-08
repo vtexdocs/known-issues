@@ -4241,6 +4241,11 @@
   },
   {
     "locale": "en",
+    "slug": "license-manager-authorization-checks-intermittently-time-out-causing-failures-in-dependent-services",
+    "internalReference": 1471842
+  },
+  {
+    "locale": "en",
     "slug": "login-preference-with-password-cannot-be-undone-in-admin",
     "internalReference": 1020548
   },
@@ -13516,6 +13521,11 @@
   },
   {
     "locale": "es",
+    "slug": "las-comprobaciones-de-autorizacion-del-administrador-de-licencias-agotan-el-tiempo-de-espera-de-forma-intermitente-lo-que-provoca-fallos-en-los-servicios-dependientes",
+    "internalReference": 1471842
+  },
+  {
+    "locale": "es",
     "slug": "las-cookies-de-sesion-se-comparten-entre-diferentes-enlaces-cuando-no-se-encuentran-en-el-mismo-nivel-de-ruta",
     "internalReference": 925071
   },
@@ -22753,6 +22763,11 @@
     "locale": "pt",
     "slug": "a-solucao-saml-nao-permite-o-envio-do-samlrequest-como-sequencia-de-consulta-no-login-do-crm",
     "internalReference": 789146
+  },
+  {
+    "locale": "pt",
+    "slug": "as-verificacoes-de-autorizacao-do-gerenciador-de-licencas-expiram-intermitentemente-causando-falhas-em-servicos-dependentes",
+    "internalReference": 1471842
   },
   {
     "locale": "pt",
