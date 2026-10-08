@@ -18,7 +18,7 @@ internalReference: 1218130
 
 ## Sumário
 
-> **Observação: Após uma recente revisão interna, decidimos descontinuar o Personal Shopper. Por esse motivo, este Problema Conhecido não será corrigido. Para saber mais sobre nossa solução de compras personalizadas, confira a **Plataforma CX** **(****https://www.vtex.com/en-us/solutions/business-needs/agentic-customer-service****), que oferece suporte às jornadas de compra e pós-compra, trazendo mais agilidade ao processo e potencialmente aumentando a conversão de vendas.**
+> **Observação: Após uma recente revisão interna, decidimos descontinuar o Personal Shopper. Por esse motivo, este Problema Conhecido não será corrigido. Para saber mais sobre nossa solução de compras personalizadas, confira a Plataforma CX (https://www.vtex.com/en-us/solutions/business-needs/agentic-customer-service), que oferece suporte às jornadas de compra e pós-compra, trazendo mais agilidade ao processo e potencialmente aumentando a conversão de vendas.**
 
 Quando a atribuição manual de agentes está habilitada no Personal Shopper, apenas um dos agentes atribuídos a uma chamada recebe a notificação por e-mail. Os outros agentes atribuídos não são notificados, podendo perder chamadas de clientes. Esse comportamento não se limita a uma conta específica.
 
@@ -26,9 +26,9 @@ Quando a atribuição manual de agentes está habilitada no Personal Shopper, ap
 
 1. No painel de administração, habilite a atribuição manual de agentes para o Personal Shopper.
 
-2. Cadastre pelo menos dois agentes e atribua-os à mesma [loja / fila / sessão].
+2. Cadastre pelo menos dois agentes e atribua-os à mesma [loja/fila/sessão].
 
-3. Como cliente, solicite uma chamada do Personal Shopper na loja.
+3. Como cliente, solicite uma chamada do Personal Shopper na loja virtual.
 4. Verifique a caixa de entrada de cada agente atribuído:
 
 ## Workaround
