@@ -18,7 +18,7 @@ internalReference: 1355130
 
 ## Sumário
 
-> **Observação: Após uma recente revisão interna, decidimos descontinuar o Personal Shopper. Por esse motivo, este Problema Conhecido não será corrigido. Para saber mais sobre nossa solução de compras personalizadas, confira a **Plataforma CX** (****https://www.vtex.com/en-us/solutions/business-needs/agentic-customer-service****), que oferece suporte às jornadas de compra e pós-venda, trazendo mais agilidade ao processo e potencialmente aumentando a conversão de vendas.**
+> **Observação: Após uma recente revisão interna, decidimos descontinuar o Personal Shopper. Por esse motivo, este Problema Conhecido não será corrigido. Para saber mais sobre nossa solução de compras personalizadas, confira a Plataforma CX (https://www.vtex.com/en-us/solutions/business-needs/agentic-customer-service), que oferece suporte às jornadas de compra e pós-venda, trazendo mais agilidade ao processo e potencialmente aumentando a conversão de vendas.
 
 No aplicativo Personal Shopper, quando uma chamada de vídeo é iniciada por um usuário na loja, o atendente não recebe notificações no WhatsApp.
 
