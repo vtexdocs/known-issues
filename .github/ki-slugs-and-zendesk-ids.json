@@ -7606,6 +7606,11 @@
   },
   {
     "locale": "en",
+    "slug": "only-one-agent-receives-email-notification-in-active-call",
+    "internalReference": 1218130
+  },
+  {
+    "locale": "en",
     "slug": "change-identified-customer-button-does-not-work-properly",
     "internalReference": 1237322
   },
@@ -7678,11 +7683,6 @@
     "locale": "en",
     "slug": "pick-and-pack-worksheets-remain-open-and-cannot-be-completed",
     "internalReference": 1160144
-  },
-  {
-    "locale": "en",
-    "slug": "ps-only-one-agent-receives-email-notification-in-active-call",
-    "internalReference": 1218130
   },
   {
     "locale": "en",
@@ -16861,6 +16861,11 @@
   },
   {
     "locale": "es",
+    "slug": "solo-un-agente-recibe-notificacion-por-correo-electronico-en-una-llamada-activa",
+    "internalReference": 1218130
+  },
+  {
+    "locale": "es",
     "slug": "aplicacion-de-ventas-al-intentar-pagar-con-tarjeta-digital-o-escaneada-no-se-puede-rellenar-el-campo-del-cvv",
     "internalReference": 1380651
   },
@@ -16943,11 +16948,6 @@
     "locale": "es",
     "slug": "metodo-de-envio-de-logistica-en-automatizacion-de-pedidos-pnp-se-vincula-incorrectamente-a-una-categoria-de-producto-cuando-ambas-comparten-el-mismo-id",
     "internalReference": 1313989
-  },
-  {
-    "locale": "es",
-    "slug": "ps-solo-un-agente-recibe-notificacion-por-correo-electronico-en-llamada-activa",
-    "internalReference": 1218130
   },
   {
     "locale": "es",
@@ -26126,6 +26126,11 @@
   },
   {
     "locale": "pt",
+    "slug": "apenas-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa",
+    "internalReference": 1218130
+  },
+  {
+    "locale": "pt",
     "slug": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp",
     "internalReference": 1355130
   },
@@ -26213,11 +26218,6 @@
     "locale": "pt",
     "slug": "planilha-presa-na-coluna-a-embalar-com-o-status-embalado-apos-a-confirmacao-da-embalagem",
     "internalReference": 1299842
-  },
-  {
-    "locale": "pt",
-    "slug": "ps-somente-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa",
-    "internalReference": 1218130
   },
   {
     "locale": "pt",
