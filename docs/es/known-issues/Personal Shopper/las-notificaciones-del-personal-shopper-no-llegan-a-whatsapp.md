@@ -18,7 +18,7 @@ internalReference: 1355130
 
 ## Sumario
 
-> **Nota: Tras una reciente revisión interna, hemos decidido descontinuar el servicio de Personal Shopper. Por este motivo, este problema conocido no se solucionará. Para obtener más información sobre nuestra solución de compras personalizadas, consulte la Plataforma CX (https://www.vtex.com/en-us/solutions/business-needs/agentic-customer-service), que abarca tanto el proceso de compra como el posventa, aportando mayor agilidad y un potencial aumento en la conversión de ventas.
+> **Nota: Tras una reciente revisión interna, hemos decidido descontinuar el servicio de Personal Shopper. Por este motivo, este problema conocido no se solucionará. Para obtener más información sobre nuestra solución de compras personalizadas, consulte la Plataforma CX (https://www.vtex.com/en-us/solutions/business-needs/agentic-customer-service), que abarca tanto el proceso de compra como el posventa, aportando mayor agilidad y un potencial aumento en la conversión de ventas.**
 
 En la aplicación Personal Shopper, cuando un usuario inicia una videollamada desde la tienda, el asistente no recibe notificaciones en WhatsApp.
 
