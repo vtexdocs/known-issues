@@ -6986,6 +6986,11 @@
   },
   {
     "locale": "en",
+    "slug": "orders-cancelled-when-payment-authorization-gets-no-response-from-the-payment-gateway",
+    "internalReference": 1471795
+  },
+  {
+    "locale": "en",
     "slug": "orders-created-with-empty-userprofileid",
     "internalReference": 1465130
   },
@@ -16408,6 +16413,11 @@
     "locale": "es",
     "slug": "los-pedidos-realizados-con-tarjeta-regalo-generan-transacciones-con-moneda-brasilena-r",
     "internalReference": 1083379
+  },
+  {
+    "locale": "es",
+    "slug": "los-pedidos-se-cancelan-cuando-la-autorizacion-de-pago-no-recibe-respuesta-de-la-pasarela-de-pago",
+    "internalReference": 1471795
   },
   {
     "locale": "es",
@@ -25853,6 +25863,11 @@
     "locale": "pt",
     "slug": "pedido-travado-em-pagamento-pendente-apesar-da-transacao-ter-sido-aprovada-oms-le-status-obsoleto-ao-processar-pagamento-aprovado",
     "internalReference": 1456295
+  },
+  {
+    "locale": "pt",
+    "slug": "pedidos-cancelados-quando-a-autorizacao-de-pagamento-nao-recebe-resposta-do-gateway-de-pagamento",
+    "internalReference": 1471795
   },
   {
     "locale": "pt",
