@@ -16,7 +16,7 @@ internalReference: 1218130
 
 ## Summary
 
-> **Note: Following a recent internal review, we have decided to discontinue Personal Shopper. For this reason, this Known Issue will not be fixed. To learn more about our solution for personalized shopping, check out** **CX Platform** **(****https://www.vtex.com/en-us/solutions/business-needs/agentic-customer-service****), which supports both the purchase and post-purchase journeys, bringing more agility to the process and potentially increasing sales conversion.**
+> **Note: Following a recent internal review, we have decided to discontinue Personal Shopper. For this reason, this Known Issue will not be fixed. To learn more about our solution for personalized shopping, check out CX Platform (https://www.vtex.com/en-us/solutions/business-needs/agentic-customer-service), which supports both the purchase and post-purchase journeys, bringing more agility to the process and potentially increasing sales conversion.**
 
 When manual agent assignment is enabled in Personal Shopper, only one of the agents assigned to a call receives the email notification. The other assigned agents are not notified, so they may miss incoming calls from customers. This behavior is not limited to a specific account.
 
