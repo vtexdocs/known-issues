@@ -3,14 +3,14 @@ title: 'Solo un agente recibe notificación por correo electrónico en una llama
 slug: solo-un-agente-recibe-notificacion-por-correo-electronico-en-una-llamada-activa
 status: PUBLISHED
 createdAt: 2025-04-30T16:10:04.000Z
-updatedAt: 2026-10-08T16:36:04.000Z
+updatedAt: 2026-10-08T16:36:47.000Z
 contentType: knownIssue
 productTeam: Personal Shopper
 author: 2mXZkbi0oi061KicTExNjo
 tag: Personal Shopper
 slugEN: only-one-agent-receives-email-notification-in-active-call
 locale: es
-kiStatus: Fixed
+kiStatus: No Fix
 internalReference: 1218130
 ---
 
