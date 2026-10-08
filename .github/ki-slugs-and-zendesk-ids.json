@@ -8686,6 +8686,11 @@
   },
   {
     "locale": "en",
+    "slug": "canonical-link-keeps-the-trailing-slash-of-the-requested-url-on-routes-declared-in-the-themes-routesjson",
+    "internalReference": 1472057
+  },
+  {
+    "locale": "en",
     "slug": "canonical-tags-are-not-applied-after-3rd-category-level",
     "internalReference": 932349
   },
@@ -18018,6 +18023,11 @@
     "locale": "es",
     "slug": "el-diseno-de-la-pagina-cambia-a-movil-cuando-se-imprime-ctrlp-en-chrome",
     "internalReference": 454680
+  },
+  {
+    "locale": "es",
+    "slug": "el-enlace-canonico-conserva-la-barra-diagonal-final-de-la-url-solicitada-en-las-rutas-declaradas-en-el-archivo-routesjson-del-tema",
+    "internalReference": 1472057
   },
   {
     "locale": "es",
@@ -27548,6 +27558,11 @@
     "locale": "pt",
     "slug": "o-layout-de-divulgacao-nao-pode-ser-usado-corretamente-quando-a-animacao-de-propulsao-e-definida-como-verdadeira",
     "internalReference": 417947
+  },
+  {
+    "locale": "pt",
+    "slug": "o-link-canonico-mantem-a-barra-invertida-final-da-url-solicitada-nas-rotas-declaradas-no-arquivo-routesjson-do-tema",
+    "internalReference": 1472057
   },
   {
     "locale": "pt",
