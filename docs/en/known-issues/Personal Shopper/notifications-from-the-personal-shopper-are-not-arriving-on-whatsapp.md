@@ -3,7 +3,7 @@ title: 'Notifications from the personal shopper are not arriving on WhatsApp.'
 slug: notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp
 status: PUBLISHED
 createdAt: 2026-01-23T17:41:41.000Z
-updatedAt: 2026-10-08T16:38:58.000Z
+updatedAt: 2026-10-08T17:47:50.000Z
 contentType: knownIssue
 productTeam: Personal Shopper
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,11 +16,7 @@ internalReference: 1355130
 
 ## Summary
 
-**Note:** Following a recent internal review, this product has been discontinued, so we will no longer be offering it moving forward.
-
-If you’d like to learn more about our solution for personalized shopping, we have a product called CX Platform that supports both the purchasing process and the post-purchase experience, providing greater efficiency and the potential to increase sales conversions.
-
-For any information about the CX Platform, please contact the sales team.
+> **Note: Following a recent internal review, we have decided to discontinue Personal Shopper. For this reason, this Known Issue will not be fixed. To learn more about our solution for personalized shopping, check out** **CX Platform** **(****https://www.vtex.com/en-us/solutions/business-needs/agentic-customer-service****), which supports both the purchase and post-purchase journeys, bringing more agility to the process and potentially increasing sales conversion.**
 
 
 In the Personal Shopper app, when a video call is initiated by a user on the store's front end, the attendant does not receive notifications on WhatsApp.
