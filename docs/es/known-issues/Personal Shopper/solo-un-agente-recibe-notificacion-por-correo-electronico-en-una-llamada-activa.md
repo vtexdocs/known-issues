@@ -3,7 +3,7 @@ title: 'Solo un agente recibe notificación por correo electrónico en una llama
 slug: solo-un-agente-recibe-notificacion-por-correo-electronico-en-una-llamada-activa
 status: PUBLISHED
 createdAt: 2025-04-30T16:10:04.000Z
-updatedAt: 2026-10-08T16:36:47.000Z
+updatedAt: 2026-10-08T16:38:29.000Z
 contentType: knownIssue
 productTeam: Personal Shopper
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,8 +18,7 @@ internalReference: 1218130
 
 ## Sumario
 
-**Nota: Tras una reciente revisión interna, hemos decidido descontinuar el servicio de Personal Shopper. Por este motivo, este problema conocido no se solucionará.**
-**Para obtener más información sobre nuestra solución de compras personalizadas, consulte la **Plataforma CX**, que abarca tanto el proceso de compra como el posventa, aportando mayor agilidad y un potencial aumento en la conversión de ventas.**
+> **Nota: Tras una reciente revisión interna, hemos decidido descontinuar el servicio de Personal Shopper. Por este motivo, este problema conocido no se solucionará. Para obtener más información sobre nuestra solución de compras personalizadas, consulte la **Plataforma CX** (https://www.vtex.com/en-us/solutions/business-needs/agentic-customer-service), que ofrece soporte tanto para la compra como para la posventa, aportando mayor agilidad al proceso y aumentando potencialmente la conversión de ventas.**
 
 Cuando la asignación manual de agentes está habilitada en Personal Shopper, solo uno de los agentes asignados a una llamada recibe la notificación por correo electrónico. Los demás agentes asignados no reciben notificación, por lo que podrían perder llamadas entrantes de clientes. Este comportamiento no se limita a una cuenta específica.
 
@@ -28,20 +27,20 @@ Cuando la asignación manual de agentes está habilitada en Personal Shopper, so
 1. En el panel de administración, habilite la asignación manual de agentes para Personal Shopper.
 
 2. Registre al menos dos agentes y asígnelos a la misma [tienda/cola/sesión].
+3. Como cliente, solicite una llamada de un Asesor de Compras Personal desde la tienda.
 
-3. Como cliente, solicite una llamada de Personal Shopper desde la tienda.
-4. Revisa la bandeja de entrada de cada agente asignado:
+4. Revise la bandeja de entrada de cada agente asignado:
 
 ## Workaround
 
-1. En el panel de administración, ve a [ruta exacta del menú, por ejemplo: Asesor de compras > Configuración > Agentes].
+1. En el panel de administración, vaya a [ruta exacta del menú, por ejemplo: Asesor de Compras Personal > Configuración > Agentes].
 
-2. Identifica al agente que no recibe las notificaciones por correo electrónico.
+2. Identifique al agente que no recibe las notificaciones por correo electrónico.
 
-3. Elimina a este agente.
+3. Elimine a este agente.
 
-4. Registra al agente nuevamente, utilizando la misma dirección de correo electrónico y la misma configuración.
+4. Registre al agente nuevamente, utilizando la misma dirección de correo electrónico y la misma configuración.
 
-5. Guarda los cambios.
+5. Guarde los cambios.
 
-6. Solicita una nueva llamada para confirmar que todos los agentes asignados reciben la notificación por correo electrónico.
+6. Solicite una nueva llamada para confirmar que todos los agentes asignados reciben la notificación por correo electrónico.
