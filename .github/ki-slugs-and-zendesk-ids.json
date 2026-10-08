@@ -5361,6 +5361,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-mexico-orders-fulfilled-by-amazon-fba-arent-integrated",
+    "internalReference": 1471894
+  },
+  {
+    "locale": "en",
     "slug": "amazon-nfe-for-amazon-dba-easy-ship-orders-rejected-when-a-promotional-discount-is-applied-by-the-buyer",
     "internalReference": 1447551
   },
@@ -14628,6 +14633,11 @@
     "locale": "es",
     "slug": "amazon-error-silencioso-al-conectar-la-integracion-de-amazon",
     "internalReference": 1454182
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-los-pedidos-de-mexico-gestionados-por-amazon-fba-no-estan-integrados",
+    "internalReference": 1471894
   },
   {
     "locale": "es",
@@ -23913,6 +23923,11 @@
     "locale": "pt",
     "slug": "amazon-o-status-de-correspondencia-do-sku-volta-para-aguardando-revisao-apos-confirmacao-manual",
     "internalReference": 1446100
+  },
+  {
+    "locale": "pt",
+    "slug": "amazon-os-pedidos-do-mexico-enviados-pela-amazon-fba-nao-estao-integrados",
+    "internalReference": 1471894
   },
   {
     "locale": "pt",
