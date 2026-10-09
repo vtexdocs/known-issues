@@ -3,14 +3,14 @@ title: 'O reembolso dividido foi registrado, mas nunca enviado ao fornecedor (im
 slug: o-reembolso-dividido-foi-registrado-mas-nunca-enviado-ao-fornecedor-imposto-externo
 status: PUBLISHED
 createdAt: 2026-08-31T19:20:00.000Z
-updatedAt: 2026-09-15T00:50:19.000Z
+updatedAt: 2026-10-09T22:23:10.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: split-refund-recorded-but-never-sent-to-the-provider-external-tax
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1454215
 ---
 
