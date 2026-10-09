@@ -3,14 +3,14 @@ title: 'Split refund recorded but never sent to the provider (external tax)'
 slug: split-refund-recorded-but-never-sent-to-the-provider-external-tax
 status: PUBLISHED
 createdAt: 2026-08-31T19:20:00.000Z
-updatedAt: 2026-09-15T00:50:19.000Z
+updatedAt: 2026-10-09T22:23:10.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: split-refund-recorded-but-never-sent-to-the-provider-external-tax
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1454215
 ---
 
