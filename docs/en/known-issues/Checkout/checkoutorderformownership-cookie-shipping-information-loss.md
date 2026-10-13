@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slugEN: checkoutorderformownership-cookie-shipping-information-loss
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1452215
 ---
 
