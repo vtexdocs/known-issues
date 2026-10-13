@@ -10,7 +10,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: card-security-code-null-after-switching-payment-methods-in-checkout
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 442772
 ---
 
