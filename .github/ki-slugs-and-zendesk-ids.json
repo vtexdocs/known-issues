@@ -13746,7 +13746,7 @@
   },
   {
     "locale": "es",
-    "slug": "filtros-por-especificaciones-sku-sin-tener-en-cuenta-la-disponibilidad-regionalizada",
+    "slug": "filtros-por-especificaciones-de-sku-sin-tener-en-cuenta-la-disponibilidad-regional",
     "internalReference": 1045111
   },
   {
@@ -23131,11 +23131,6 @@
   },
   {
     "locale": "pt",
-    "slug": "filtra-por-especificacoes-de-sku-sem-considerar-a-disponibilidade-regionalizada",
-    "internalReference": 1045111
-  },
-  {
-    "locale": "pt",
     "slug": "filtro-de-preco-aplicado-sobre-o-preco-a-vista-em-vez-do-preco-normal",
     "internalReference": 982664
   },
@@ -23143,6 +23138,11 @@
     "locale": "pt",
     "slug": "filtros-por-especificacoes-de-sku-que-nao-consideram-uma-politica-comercial-especifica",
     "internalReference": 1160165
+  },
+  {
+    "locale": "pt",
+    "slug": "filtros-por-especificacoes-de-sku-sem-considerar-a-disponibilidade-regional",
+    "internalReference": 1045111
   },
   {
     "locale": "pt",
