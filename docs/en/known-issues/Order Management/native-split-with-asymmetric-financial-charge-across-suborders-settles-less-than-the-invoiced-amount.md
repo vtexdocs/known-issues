@@ -3,7 +3,7 @@ title: 'Native split with asymmetric financial charge across suborders settles l
 slug: native-split-with-asymmetric-financial-charge-across-suborders-settles-less-than-the-invoiced-amount
 status: PUBLISHED
 createdAt: 2026-10-02T20:46:00.000Z
-updatedAt: 2026-10-02T20:46:00.000Z
+updatedAt: 2026-10-13T23:53:11.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
