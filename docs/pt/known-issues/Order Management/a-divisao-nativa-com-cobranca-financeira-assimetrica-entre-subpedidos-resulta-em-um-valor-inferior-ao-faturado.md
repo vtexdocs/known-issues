@@ -3,7 +3,7 @@ title: 'A divisão nativa com cobrança financeira assimétrica entre subpedidos
 slug: a-divisao-nativa-com-cobranca-financeira-assimetrica-entre-subpedidos-resulta-em-um-valor-inferior-ao-faturado
 status: PUBLISHED
 createdAt: 2026-10-02T20:46:00.000Z
-updatedAt: 2026-10-02T20:46:00.000Z
+updatedAt: 2026-10-13T23:53:11.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
