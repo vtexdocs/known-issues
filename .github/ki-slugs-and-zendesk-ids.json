@@ -5496,7 +5496,7 @@
   },
   {
     "locale": "en",
-    "slug": "shopee-product-protection-amount-is-added-to-the-shipping-total-of-integrated-orders",
+    "slug": "shopee-product-protection-amount-is-added-to-the-order-total-of-integrated-orders",
     "internalReference": 1468080
   },
   {
@@ -14756,7 +14756,7 @@
   },
   {
     "locale": "es",
-    "slug": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-envio-de-los-pedidos-integrados",
+    "slug": "shopee-el-importe-de-la-proteccion-del-producto-se-anade-al-total-del-pedido-en-los-pedidos-integrados",
     "internalReference": 1468080
   },
   {
@@ -24051,7 +24051,7 @@
   },
   {
     "locale": "pt",
-    "slug": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-frete-de-pedidos-integrados",
+    "slug": "shopee-o-valor-da-protecao-do-produto-e-adicionado-ao-total-do-pedido-em-pedidos-integrados",
     "internalReference": 1468080
   },
   {
