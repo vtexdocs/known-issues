@@ -3,7 +3,7 @@ title: 'Cálculo incorreto de desconto em promoções com múltiplos métodos de
 slug: calculo-incorreto-de-desconto-em-promocoes-com-multiplos-metodos-de-pagamento
 status: PUBLISHED
 createdAt: 2026-10-15T20:15:33.000Z
-updatedAt: 2026-10-15T20:15:33.000Z
+updatedAt: 2026-10-15T20:16:07.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
