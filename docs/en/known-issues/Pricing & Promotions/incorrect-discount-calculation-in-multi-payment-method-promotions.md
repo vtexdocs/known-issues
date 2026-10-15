@@ -3,7 +3,7 @@ title: 'Incorrect Discount Calculation in Multi Payment Method promotions'
 slug: incorrect-discount-calculation-in-multi-payment-method-promotions
 status: PUBLISHED
 createdAt: 2026-10-15T20:15:33.000Z
-updatedAt: 2026-10-15T20:15:33.000Z
+updatedAt: 2026-10-15T20:16:07.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
