@@ -3,7 +3,7 @@ title: "Order can't be created due to invalid credit card"
 slug: order-cant-be-created-due-to-invalid-credit-card
 status: PUBLISHED
 createdAt: 2022-06-29T21:38:33.000Z
-updatedAt: 2025-10-20T16:43:41.000Z
+updatedAt: 2026-10-15T20:51:25.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
