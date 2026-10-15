@@ -5461,6 +5461,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-package-dimensions-are-now-mandatory-for-me1-items-on-mercado-livre",
+    "internalReference": 1474056
+  },
+  {
+    "locale": "en",
     "slug": "netshoes-main-image-not-respected",
     "internalReference": 1220978
   },
@@ -14736,6 +14741,11 @@
   },
   {
     "locale": "es",
+    "slug": "mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre",
+    "internalReference": 1474056
+  },
+  {
+    "locale": "es",
     "slug": "netshoes-imagen-principal-no-respetada",
     "internalReference": 1220978
   },
@@ -24003,6 +24013,11 @@
     "locale": "pt",
     "slug": "mercado-livre-anuncios-recriados-incorretamente-como-crossdocking-para-skus-completos-com-estoque-zero",
     "internalReference": 1440697
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre",
+    "internalReference": 1474056
   },
   {
     "locale": "pt",
