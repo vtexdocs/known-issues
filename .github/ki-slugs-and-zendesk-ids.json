@@ -8211,6 +8211,11 @@
   },
   {
     "locale": "en",
+    "slug": "incorrect-discount-calculation-in-multi-payment-method-promotions",
+    "internalReference": 1474203
+  },
+  {
+    "locale": "en",
     "slug": "incorrect-information-in-the-expiration-date-fields-of-promotions",
     "internalReference": 611284
   },
@@ -17343,6 +17348,11 @@
     "locale": "es",
     "slug": "calculo-inconsistente-del-regalo-al-combinar-sku-elegibles-en-la-promocion-compre-uno-y-llevese-otro-gratis",
     "internalReference": 1395338
+  },
+  {
+    "locale": "es",
+    "slug": "calculo-incorrecto-del-descuento-en-promociones-con-multiples-metodos-de-pago",
+    "internalReference": 1474203
   },
   {
     "locale": "es",
@@ -26848,6 +26858,11 @@
     "locale": "pt",
     "slug": "calculo-inconsistente-de-brindes-ao-misturar-skus-elegiveis-na-promocao-compre-um-e-leve-outro",
     "internalReference": 1395338
+  },
+  {
+    "locale": "pt",
+    "slug": "calculo-incorreto-de-desconto-em-promocoes-com-multiplos-metodos-de-pagamento",
+    "internalReference": 1474203
   },
   {
     "locale": "pt",
