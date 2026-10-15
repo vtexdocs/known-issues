@@ -12421,7 +12421,7 @@
   },
   {
     "locale": "es",
-    "slug": "no-se-puede-crear-el-pedido-porque-la-tarjeta-de-credito-no-es-valida",
+    "slug": "no-se-puede-crear-el-pedido-debido-a-que-la-tarjeta-de-credito-no-es-valida",
     "internalReference": 607742
   },
   {
@@ -21311,7 +21311,7 @@
   },
   {
     "locale": "pt",
-    "slug": "nao-e-possivel-criar-o-pedido-devido-a-um-cartao-de-credito-invalido",
+    "slug": "nao-foi-possivel-criar-o-pedido-devido-a-um-cartao-de-credito-invalido",
     "internalReference": 607742
   },
   {
