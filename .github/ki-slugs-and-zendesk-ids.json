@@ -4786,6 +4786,11 @@
   },
   {
     "locale": "en",
+    "slug": "show-more-pagination-repeats-products-after-show-less-back-to-page-1",
+    "internalReference": 1474360
+  },
+  {
+    "locale": "en",
     "slug": "sku-detach-selector-lists-product-specifications-in-the-search-settings",
     "internalReference": 1338042
   },
@@ -14071,6 +14076,11 @@
   },
   {
     "locale": "es",
+    "slug": "mostrar-mas-paginacion-repite-los-productos-despues-de-mostrar-menos-volver-a-la-pagina-1",
+    "internalReference": 1474360
+  },
+  {
+    "locale": "es",
     "slug": "muestreo-para-filtros-de-busqueda-inesperadamente-agresivo-omitiendo-valores-de-filtro",
     "internalReference": 1202555
   },
@@ -22968,6 +22978,11 @@
     "locale": "pt",
     "slug": "a-paginacao-inteligente-dos-valores-de-campo-da-busca-inteligente-e-limitada-a-9999-itens",
     "internalReference": 428486
+  },
+  {
+    "locale": "pt",
+    "slug": "a-paginacao-mostrar-mais-repete-os-produtos-apos-mostrar-menos-e-retorna-a-pagina-1",
+    "internalReference": 1474360
   },
   {
     "locale": "pt",
