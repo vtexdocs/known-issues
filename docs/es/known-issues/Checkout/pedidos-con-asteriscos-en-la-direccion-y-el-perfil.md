@@ -1,9 +1,9 @@
 ---
-title: 'Pedidos con asteriscos en la dirección y el perfil'
+title: 'Pedidos con asteriscos en la dirección y el perfil.'
 slug: pedidos-con-asteriscos-en-la-direccion-y-el-perfil
 status: PUBLISHED
-createdAt: 2021-04-26T23:27:09.000Z
-updatedAt: 2024-06-06T20:16:02.000Z
+createdAt: 2021-04-27T02:27:09.000Z
+updatedAt: 2026-10-15T22:11:05.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,20 +18,23 @@ internalReference: 360783
 
 ## Sumario
 
-Hay pedidos en los que los campos `invoiceAddress`, `shippingAddress` o `clientProfileData` se envían «enmascarados» en lugar de con la dirección real. Este comportamiento se produce cuando un usuario finaliza la compra con un formulario de pedido que contiene datos enmascarados que se han convertido en cadenas de texto. Dado que se trata de campos de texto, los datos del pedido se rellenan con la máscara «***».
+Es posible que se creen pedidos con campos `invoiceAddress`, `shippingAddress` o `clientProfileData` que contengan caracteres `*`, lo que da la impresión de que los datos están enmascarados. Este comportamiento se produce cuando un usuario completa la compra con un formulario de pedido que contiene caracteres especiales `*` convertidos a cadena. Dado que estos son campos de cadena, los datos del pedido se rellenan con caracteres `***`, lo que da la impresión de que los datos están enmascarados.
 
-Por lo tanto, el error radica en que nuestra API para realizar pedidos permite objetos con caracteres especiales en estos campos.
+El error reside en que nuestra API para realizar pedidos permite objetos con caracteres especiales en estos campos.
 
 ## Simulación
 
-1. Añade algunos productos a tu carrito;
-2. Durante el proceso de pago, introduce una dirección de facturación válida e inicia sesión en tu cuenta;
-3. Abandona el carrito o sal del sitio web sin completar la compra;
-4. Utiliza nuestra API para insertar un archivo adjunto e introduce una dirección con «***» en algunos campos, como el del barrio;
-5. Realiza un pedido utilizando este mismo carrito;
-6. Ten en cuenta que el pedido tendrá los datos de envío con estos caracteres especiales.
+1. Añada algunos productos a su carrito;
+
+2. Durante el proceso de pago, introduzca una dirección de facturación válida e inicie sesión en su cuenta;
+
+3. Abandone el carrito o salga del sitio web sin completar la compra;
+
+4. Utilice nuestra API para insertar un archivo adjunto e introduzca datos de perfil con caracteres "***" en algunos campos, como el del nombre;
+
+5. Realice un pedido utilizando este mismo carrito;
+6. Tenga en cuenta que el pedido incluirá los datos de envío con estos caracteres especiales.
 
 ## Workaround
 
-provisional**
-N/A
+No aplica
