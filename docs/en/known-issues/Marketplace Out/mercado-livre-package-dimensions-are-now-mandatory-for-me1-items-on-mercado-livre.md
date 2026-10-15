@@ -3,7 +3,7 @@ title: 'Mercado Livre Package dimensions are now mandatory for ME1 items on Merc
 slug: mercado-livre-package-dimensions-are-now-mandatory-for-me1-items-on-mercado-livre
 status: PUBLISHED
 createdAt: 2026-10-15T16:41:43.000Z
-updatedAt: 2026-10-15T16:43:31.000Z
+updatedAt: 2026-10-15T16:44:16.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
