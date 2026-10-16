@@ -8136,6 +8136,11 @@
   },
   {
     "locale": "en",
+    "slug": "error-when-adding-a-store-usage-limit-to-a-promotion-with-an-existing-customer-usage-limit",
+    "internalReference": 1474500
+  },
+  {
+    "locale": "en",
     "slug": "expired-prices-not-deletableupdatable-due-to-price-variation-limit",
     "internalReference": 325695
   },
@@ -17478,6 +17483,11 @@
     "locale": "es",
     "slug": "el-valor-del-taxpercentage-del-producto-guardado-por-el-searchresolver-es-incorrecto-debido-al-redondeo",
     "internalReference": 470143
+  },
+  {
+    "locale": "es",
+    "slug": "error-al-agregar-un-limite-de-uso-de-la-tienda-a-una-promocion-con-un-limite-de-uso-del-cliente-existente",
+    "internalReference": 1474500
   },
   {
     "locale": "es",
@@ -26903,6 +26913,11 @@
     "locale": "pt",
     "slug": "divergencia-na-reparticao-de-impostos",
     "internalReference": 561466
+  },
+  {
+    "locale": "pt",
+    "slug": "erro-ao-adicionar-um-limite-de-uso-da-loja-a-uma-promocao-com-um-limite-de-uso-do-cliente-ja-existente",
+    "internalReference": 1474500
   },
   {
     "locale": "pt",
