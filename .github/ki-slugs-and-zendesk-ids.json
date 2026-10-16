@@ -6416,7 +6416,7 @@
   },
   {
     "locale": "en",
-    "slug": "console-error-report-only-refused-to-apply-inline-style-because-it-violates-the-following-content-security",
+    "slug": "csp-reportonly-console-errors-in-iovtexpaymentscombr-payment-iframes-invalid-header-syntax-and-io2vtexcom-not-allowed",
     "internalReference": 1017370
   },
   {
@@ -15921,11 +15921,6 @@
   },
   {
     "locale": "es",
-    "slug": "error-de-consola-solo-informe-se-ha-denegado-la-aplicacion-del-estilo-en-linea-porque-infringe-la-siguiente-seguridad-de-contenido",
-    "internalReference": 1017370
-  },
-  {
-    "locale": "es",
     "slug": "error-de-mensaje-erroneo-al-utilizar-una-tarjeta-regalo-inexistente",
     "internalReference": 584102
   },
@@ -15958,6 +15953,11 @@
     "locale": "es",
     "slug": "error-provocado-por-un-token-sobrescrito-en-el-conector-heredado-de-paypal-para-el-estado-de-pago-pendiente",
     "internalReference": 308214
+  },
+  {
+    "locale": "es",
+    "slug": "errores-de-consola-de-solo-informe-de-csp-en-iframes-de-pago-de-iovtexpaymentscombr-sintaxis-de-encabezado-no-valida-e-io2vtexcom-no-permitido",
+    "internalReference": 1017370
   },
   {
     "locale": "es",
@@ -25326,11 +25326,6 @@
   },
   {
     "locale": "pt",
-    "slug": "erro-de-console-report-only-recusouse-a-aplicar-o-estilo-inline-porque-ele-viola-a-seguinte-seguranca-de-conteudo",
-    "internalReference": 1017370
-  },
-  {
-    "locale": "pt",
     "slug": "erro-de-transacao-causado-por-incompatibilidade-na-validacao-do-bin-nas-regras-de-pagamento",
     "internalReference": 1398229
   },
@@ -26048,6 +26043,11 @@
     "locale": "pt",
     "slug": "regras-de-autorizacao-concorrentes-geradas-ao-receber-um-valor-delaytocancel",
     "internalReference": 1338614
+  },
+  {
+    "locale": "pt",
+    "slug": "relatorio-csp-apenas-erros-no-console-em-iframes-de-pagamento-iovtexpaymentscombr-sintaxe-de-cabecalho-invalida-e-io2vtexcom-nao-permitido",
+    "internalReference": 1017370
   },
   {
     "locale": "pt",
