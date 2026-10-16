@@ -3,7 +3,7 @@ title: 'Error When Adding a Store Usage Limit to a Promotion with an Existing Cu
 slug: error-when-adding-a-store-usage-limit-to-a-promotion-with-an-existing-customer-usage-limit
 status: PUBLISHED
 createdAt: 2026-10-16T16:31:43.000Z
-updatedAt: 2026-10-16T16:31:43.000Z
+updatedAt: 2026-10-16T16:32:25.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
