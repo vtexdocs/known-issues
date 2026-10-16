@@ -6651,6 +6651,11 @@
   },
   {
     "locale": "en",
+    "slug": "gift-card-balance-changed-even-though-the-transaction-request-failed",
+    "internalReference": 491195
+  },
+  {
+    "locale": "en",
     "slug": "gift-card-creation-error-via-admin",
     "internalReference": 986327
   },
@@ -6698,11 +6703,6 @@
     "locale": "en",
     "slug": "giftcard-hub-timeout-returned-as-401-unauthorized",
     "internalReference": 1416045
-  },
-  {
-    "locale": "en",
-    "slug": "giftcard-not-getting-refund-after-transaction-cancellation",
-    "internalReference": 491195
   },
   {
     "locale": "en",
@@ -15811,6 +15811,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-saldo-de-la-tarjeta-de-regalo-cambio-a-pesar-de-que-la-solicitud-de-transaccion-fallo",
+    "internalReference": 491195
+  },
+  {
+    "locale": "es",
     "slug": "el-sistema-no-admite-mas-de-una-afiliacion-de-pago-aplazado-para-el-metodo-de-pago-con-tarjeta-de-debito-en-linea",
     "internalReference": 319750
   },
@@ -16598,11 +16603,6 @@
     "locale": "es",
     "slug": "no-se-pueden-cancelar-las-transacciones-que-han-cambiado-la-configuracion-de-la-division-del-pago",
     "internalReference": 364382
-  },
-  {
-    "locale": "es",
-    "slug": "no-se-reembolsa-la-tarjeta-regalo-tras-la-cancelacion-de-la-transaccion",
-    "internalReference": 491195
   },
   {
     "locale": "es",
@@ -25796,6 +25796,11 @@
   },
   {
     "locale": "pt",
+    "slug": "o-saldo-do-cartaopresente-foi-alterado-mesmo-que-a-solicitacao-de-transacao-tenha-falhado",
+    "internalReference": 491195
+  },
+  {
+    "locale": "pt",
     "slug": "o-sistema-antissuperficies-antigo-nao-consegue-concluir-uma-solicitacao-quando-o-accountid-esta-faltando",
     "internalReference": 496298
   },
@@ -25828,11 +25833,6 @@
     "locale": "pt",
     "slug": "o-tempo-limite-do-giftcard-hub-resultou-no-codigo-de-erro-401-nao-autorizado",
     "internalReference": 1416045
-  },
-  {
-    "locale": "pt",
-    "slug": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao",
-    "internalReference": 491195
   },
   {
     "locale": "pt",
