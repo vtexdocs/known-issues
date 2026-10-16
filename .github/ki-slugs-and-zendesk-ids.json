@@ -9426,11 +9426,6 @@
   },
   {
     "locale": "es",
-    "slug": "b2b-checkout-settings-esta-considerando-la-direccion-de-recogida-para-las-entregas",
-    "internalReference": 1186568
-  },
-  {
-    "locale": "es",
     "slug": "b2b-organizations-no-limita-el-numero-de-colecciones-que-se-pueden-configurar-para-una-organizacion-lo-que-puede-provocar-que-los-filtros-basados-en-segmentos-no-funcionen",
     "internalReference": 1416519
   },
@@ -9523,6 +9518,11 @@
     "locale": "es",
     "slug": "la-comparacion-de-productos-no-permite-cambiar-las-casillas-si-se-mantiene-el-cajon-abierto",
     "internalReference": 568409
+  },
+  {
+    "locale": "es",
+    "slug": "la-configuracion-de-pago-b2b-esta-considerando-la-direccion-de-recogida-para-las-entregas",
+    "internalReference": 1186568
   },
   {
     "locale": "es",
@@ -18796,6 +18796,11 @@
   },
   {
     "locale": "pt",
+    "slug": "as-configuracoes-de-finalizacao-de-compra-b2b-consideram-o-endereco-de-coleta-para-entregas",
+    "internalReference": 1186568
+  },
+  {
+    "locale": "pt",
     "slug": "as-opcoes-de-envio-ficam-travadas-ao-tentar-selecionar-uma-opcao",
     "internalReference": 898888
   },
@@ -18803,11 +18808,6 @@
     "locale": "pt",
     "slug": "as-organizacoes-b2b-nao-levam-em-conta-a-localizacao-geografica-ao-registrar-enderecos",
     "internalReference": 904907
-  },
-  {
-    "locale": "pt",
-    "slug": "b2b-checkout-settings-esta-considerando-o-endereco-de-coleta-para-entregas",
-    "internalReference": 1186568
   },
   {
     "locale": "pt",
