@@ -5791,11 +5791,6 @@
   },
   {
     "locale": "en",
-    "slug": "native-split-with-asymmetric-financial-charge-across-suborders-settles-less-than-the-invoiced-amount",
-    "internalReference": 1469699
-  },
-  {
-    "locale": "en",
     "slug": "new-ui-do-not-shows-on-orders-the-correct-delivery-window-estimated",
     "internalReference": 620668
   },
@@ -5848,6 +5843,11 @@
     "locale": "en",
     "slug": "order-card-info-causing-confusing-on-status",
     "internalReference": 619778
+  },
+  {
+    "locale": "en",
+    "slug": "order-changes-can-leave-capture-cancellation-and-refund-amounts-out-of-sync-with-the-order",
+    "internalReference": 1469699
   },
   {
     "locale": "en",
@@ -15151,11 +15151,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-division-nativa-con-cargo-financiero-asimetrico-entre-subordenes-se-liquida-por-un-monto-menor-al-facturado",
-    "internalReference": 1469699
-  },
-  {
-    "locale": "es",
     "slug": "la-eliminacion-del-usuario-de-la-regla-de-autorizacion-de-pedidos-bloquea-el-pedido-y-no-permite-el-reprocesamiento-de-la-interfaz-de-usuario",
     "internalReference": 623376
   },
@@ -15243,6 +15238,11 @@
     "locale": "es",
     "slug": "los-articulos-no-se-muestran-en-el-listado-de-asociacion-de-articulos-en-la-configuracion-de-los-planes-de-suscripcion",
     "internalReference": 648117
+  },
+  {
+    "locale": "es",
+    "slug": "los-cambios-en-el-pedido-pueden-provocar-que-los-importes-de-captura-cancelacion-y-reembolso-no-coincidan-con-el-pedido",
+    "internalReference": 1469699
   },
   {
     "locale": "es",
@@ -24156,11 +24156,6 @@
   },
   {
     "locale": "pt",
-    "slug": "a-divisao-nativa-com-cobranca-financeira-assimetrica-entre-subpedidos-resulta-em-um-valor-inferior-ao-faturado",
-    "internalReference": 1469699
-  },
-  {
-    "locale": "pt",
     "slug": "a-exclusao-do-usuario-da-regra-de-autorizacao-de-pedido-bloqueia-o-pedido-e-nao-permite-o-reprocessamento-da-iu",
     "internalReference": 623376
   },
@@ -24208,6 +24203,11 @@
     "locale": "pt",
     "slug": "alguns-enderecos-preenchidos-automaticamente-pelo-google-nao-podem-ser-salvos-em-minha-conta",
     "internalReference": 415388
+  },
+  {
+    "locale": "pt",
+    "slug": "alteracoes-no-pedido-podem-fazer-com-que-os-valores-de-captura-cancelamento-e-reembolso-fiquem-dessincronizados-com-o-pedido",
+    "internalReference": 1469699
   },
   {
     "locale": "pt",
