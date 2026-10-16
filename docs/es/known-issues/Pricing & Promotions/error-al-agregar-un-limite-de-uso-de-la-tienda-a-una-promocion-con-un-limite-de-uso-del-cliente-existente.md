@@ -3,7 +3,7 @@ title: 'Error al agregar un límite de uso de la tienda a una promoción con un 
 slug: error-al-agregar-un-limite-de-uso-de-la-tienda-a-una-promocion-con-un-limite-de-uso-del-cliente-existente
 status: PUBLISHED
 createdAt: 2026-10-16T16:31:43.000Z
-updatedAt: 2026-10-16T16:31:43.000Z
+updatedAt: 2026-10-16T16:32:25.000Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
