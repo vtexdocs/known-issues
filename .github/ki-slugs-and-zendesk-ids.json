@@ -4231,11 +4231,6 @@
   },
   {
     "locale": "en",
-    "slug": "divergence-in-the-number-of-used-permissions-in-the-security-monitor",
-    "internalReference": 1222306
-  },
-  {
-    "locale": "en",
     "slug": "issue-with-session-apis-using-public-properties-beginning-with-the-same-prefix",
     "internalReference": 885011
   },
@@ -9281,6 +9276,11 @@
   },
   {
     "locale": "en",
+    "slug": "divergence-in-the-number-of-used-permissions-in-the-security-monitor",
+    "internalReference": 1222306
+  },
+  {
+    "locale": "en",
     "slug": "order-not-notified-carrier-leaves-label-barcode-incomplete",
     "internalReference": 872530
   },
@@ -9361,7 +9361,7 @@
   },
   {
     "locale": "es",
-    "slug": "cuenta-de-vendedor-creada-con-edicionpatrocinador-incorrecto-durante-la-incorporacion",
+    "slug": "cuenta-de-vendedor-creada-con-edicionpatrocinador-incorrecto-durante-el-proceso-de-incorporacion",
     "internalReference": 1238783
   },
   {
@@ -13513,11 +13513,6 @@
     "locale": "es",
     "slug": "actualizar-el-nombre-del-usuario-en-la-seccion-de-inicio-de-sesion",
     "internalReference": 542029
-  },
-  {
-    "locale": "es",
-    "slug": "divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad",
-    "internalReference": 1222306
   },
   {
     "locale": "es",
@@ -18576,6 +18571,11 @@
   },
   {
     "locale": "es",
+    "slug": "divergencia-en-el-numero-de-permisos-utilizados-en-el-monitor-de-seguridad",
+    "internalReference": 1222306
+  },
+  {
+    "locale": "es",
     "slug": "la-exportacion-de-auditoria-csv-falla-para-conjuntos-de-resultados-grandes-aunque-la-interfaz-de-usuario-informa-que-se-realizo-correctamente",
     "internalReference": 1468936
   },
@@ -18671,7 +18671,7 @@
   },
   {
     "locale": "pt",
-    "slug": "conta-de-vendedor-criada-com-edicaopatrocinador-incorreto-durante-a-integracao",
+    "slug": "conta-de-vendedor-criada-com-edicaopatrocinador-incorretos-durante-o-processo-de-integracao",
     "internalReference": 1238783
   },
   {
@@ -22833,11 +22833,6 @@
     "locale": "pt",
     "slug": "atualizar-o-nome-do-usuario-na-secao-de-login",
     "internalReference": 542029
-  },
-  {
-    "locale": "pt",
-    "slug": "divergencia-no-numero-de-permissoes-utilizadas-no-monitor-de-seguranca",
-    "internalReference": 1222306
   },
   {
     "locale": "pt",
@@ -27888,6 +27883,11 @@
     "locale": "pt",
     "slug": "a-exportacao-de-csv-para-auditoria-falha-para-conjuntos-de-resultados-grandes-embora-a-interface-do-usuario-relate-sucesso",
     "internalReference": 1468936
+  },
+  {
+    "locale": "pt",
+    "slug": "divergencia-no-numero-de-permissoes-utilizadas-no-monitor-de-seguranca",
+    "internalReference": 1222306
   },
   {
     "locale": "pt",
