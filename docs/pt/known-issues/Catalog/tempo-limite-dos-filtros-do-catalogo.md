@@ -2,8 +2,8 @@
 title: 'Tempo limite dos filtros do catálogo'
 slug: tempo-limite-dos-filtros-do-catalogo
 status: PUBLISHED
-createdAt: 2023-10-19T17:11:21.000Z
-updatedAt: 2023-10-19T17:11:21.000Z
+createdAt: 2023-10-19T20:11:21.000Z
+updatedAt: 2026-10-23T23:32:36.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,14 +18,12 @@ internalReference: 922350
 
 ## Sumário
 
-Em lojas com um grande número de SKUs (1 milhão ou mais), frequentemente, ao filtrar usando os filtros da interface do catálogo — seja no menu principal ou na seção de relatórios —, se a consulta de filtragem retornar um resultado muito extenso, a interface de usuário entra em tempo limite (erro 504 de tempo limite do gateway)
+Para lojas com um grande número de SKUs (5 milhões ou mais), frequentemente, ao filtrar usando os filtros da interface do catálogo, seja no menu principal ou na seção de relatórios, se a consulta de filtro retornar um resultado muito grande, a interface expira (erro 504 - tempo limite do gateway).
 
 ## Simulação
 
-Não há uma maneira confiável de simular isso de forma consistente — apenas consultas grandes específicas para poucas contas resultam no erro.
+Não há uma maneira confiável de simular isso de forma consistente - apenas consultas grandes específicas para algumas contas resultam no erro.
 
 ## Workaround
 
-Solicite uma “limpeza do filtro do usuário” à equipe de produto.
-
-Além disso, se a mesma consulta estiver gerando um tempo limite com frequência (ou seja, você filtra por um departamento específico e ocorre um tempo limite), considere aplicar filtros que selecionem um subconjunto do que você deseja (no mesmo exemplo, uma categoria dentro do departamento em questão)
+Filtre para lotes menores de produtos ao usar os filtros da interface do catálogo.
