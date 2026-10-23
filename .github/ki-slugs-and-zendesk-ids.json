@@ -10991,6 +10991,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-filtros-del-catalogo-tienen-un-tiempo-de-espera-agotado",
+    "internalReference": 922350
+  },
+  {
+    "locale": "es",
     "slug": "los-formatos-de-imagen-jpg-o-png-no-funcionan-en-el-catalogo-del-portal-del-vendedor",
     "internalReference": 1020505
   },
@@ -11178,11 +11183,6 @@
     "locale": "es",
     "slug": "tiempo-de-espera-de-las-colecciones",
     "internalReference": 434026
-  },
-  {
-    "locale": "es",
-    "slug": "tiempo-de-espera-de-los-filtros-del-catalogo",
-    "internalReference": 922350
   },
   {
     "locale": "es",
