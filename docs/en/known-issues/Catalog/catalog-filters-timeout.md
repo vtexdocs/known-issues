@@ -2,8 +2,8 @@
 title: 'Catalog Filters Timeout'
 slug: catalog-filters-timeout
 status: PUBLISHED
-createdAt: 2023-10-19T17:11:21.000Z
-updatedAt: 2023-10-19T17:11:21.000Z
+createdAt: 2023-10-19T20:11:21.000Z
+updatedAt: 2026-10-23T23:32:36.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,7 +16,7 @@ internalReference: 922350
 
 ## Summary
 
-For stores with a large quantity of skus (1 million or more), often, when filtering using the catalog UI's filters, either for the main menu or for the reports section, if the filter query returns a very large result, the UI times out (504 gateway timeout)
+For stores with a large quantity of skus (5 million or more), often, when filtering using the catalog UI's filters, either for the main menu or for the reports section, if the filter query returns a very large result, the UI times out (504 gateway timeout)
 
 ## Simulation
 
@@ -24,6 +24,4 @@ There is no reliable way to simulate it consistently - only specific large queri
 
 ## Workaround
 
-Request a "user filter cleanup" to the product team.
-
-Also, if the same query is often generating a timeout (i.e. you filter for a specific department and it times out), consider performing filters that select a subset of what you want (in the same example, a category within the given department)
+Filter for smaller chunks of products when using the catalog UI filters.
