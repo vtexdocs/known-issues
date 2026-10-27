@@ -5351,6 +5351,11 @@
   },
   {
     "locale": "en",
+    "slug": "seller-lead-invitation-acceptance-links-the-invite-to-any-existing-active-vtex-account-without-validating-ownership",
+    "internalReference": 1477830
+  },
+  {
+    "locale": "en",
     "slug": "amazon-in-some-cases-a-sku-may-be-published-successfully-on-amazon-but-the-stock-is-not-updated-and-remains-at-zero",
     "internalReference": 1431243
   },
@@ -14636,6 +14641,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-aceptacion-de-la-invitacion-de-contacto-del-vendedor-vincula-la-invitacion-a-cualquier-cuenta-vtex-activa-existente-sin-validar-la-propiedad",
+    "internalReference": 1477830
+  },
+  {
+    "locale": "es",
     "slug": "la-hoja-de-calculo-de-asignacion-de-categorias-no-incluye-ofertas-en-waitingreview",
     "internalReference": 1401046
   },
@@ -16006,11 +16016,6 @@
   },
   {
     "locale": "es",
-    "slug": "los-pedidos-de-tarjetas-de-regalo-se-quedan-bloqueados-despues-de-la-facturacion-falta-el-id-de-transaccion-del-proveedor-en-la-autorizacion",
-    "internalReference": 855864
-  },
-  {
-    "locale": "es",
     "slug": "gift-card-hub-esta-anadiendo-una-barra-invertida-extra-al-llamar-a-los-proveedores",
     "internalReference": 669575
   },
@@ -16458,6 +16463,11 @@
     "locale": "es",
     "slug": "los-parametros-de-3ds2-no-se-estan-validando",
     "internalReference": 349166
+  },
+  {
+    "locale": "es",
+    "slug": "los-pedidos-de-tarjetas-de-regalo-se-quedan-bloqueados-despues-de-la-facturacion-falta-el-id-de-transaccion-del-proveedor-en-la-autorizacion",
+    "internalReference": 855864
   },
   {
     "locale": "es",
@@ -23931,6 +23941,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-aceitacao-do-convite-para-contato-de-vendedor-vincula-o-convite-a-qualquer-conta-vtex-ativa-existente-sem-necessidade-de-validar-a-propriedade",
+    "internalReference": 1477830
+  },
+  {
+    "locale": "pt",
     "slug": "a-planilha-de-mapeamento-de-categorias-nao-inclui-ofertas-em-waitingreview",
     "internalReference": 1401046
   },
@@ -25716,11 +25731,6 @@
   },
   {
     "locale": "pt",
-    "slug": "pedidos-de-valepresente-ficam-retidos-apos-a-emissao-da-fatura-id-da-transacao-do-fornecedor-ausente-na-autorizacao",
-    "internalReference": 855864
-  },
-  {
-    "locale": "pt",
     "slug": "o-hub-do-gift-card-esta-adicionando-uma-contrabarra-extra-ao-ligar-para-os-fornecedores",
     "internalReference": 669575
   },
@@ -25953,6 +25963,11 @@
     "locale": "pt",
     "slug": "pedidos-criados-com-userprofileid-vazio",
     "internalReference": 1465130
+  },
+  {
+    "locale": "pt",
+    "slug": "pedidos-de-valepresente-ficam-retidos-apos-a-emissao-da-fatura-id-da-transacao-do-fornecedor-ausente-na-autorizacao",
+    "internalReference": 855864
   },
   {
     "locale": "pt",
