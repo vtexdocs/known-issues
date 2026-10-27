@@ -3,7 +3,7 @@ title: 'La disponibilidad del producto no se actualiza después de un cambio de 
 slug: la-disponibilidad-del-producto-no-se-actualiza-despues-de-un-cambio-de-codigo-postal-al-regresar-a-una-pagina-visitada-anteriormente-usando-el-boton-atras-del-navegador
 status: PUBLISHED
 createdAt: 2026-10-27T18:28:12.000Z
-updatedAt: 2026-10-27T18:28:12.000Z
+updatedAt: 2026-10-27T18:30:06.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
