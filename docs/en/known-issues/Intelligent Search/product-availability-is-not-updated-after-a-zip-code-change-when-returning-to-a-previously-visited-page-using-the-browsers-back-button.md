@@ -3,7 +3,7 @@ title: "Product availability is not updated after a ZIP code change when returni
 slug: product-availability-is-not-updated-after-a-zip-code-change-when-returning-to-a-previously-visited-page-using-the-browsers-back-button
 status: PUBLISHED
 createdAt: 2026-10-27T18:28:12.000Z
-updatedAt: 2026-10-27T18:28:12.000Z
+updatedAt: 2026-10-27T18:30:06.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -27,6 +27,7 @@ The issue only occurs within the same browser tab, when the page is revisited wi
 3. Click the browser's back button to return to the previously visited page, without reloading it.
 
 **Expected behavior:** The shelf is refreshed and shows the availability for the new ZIP code.
+
 **Actual behavior:** The shelf keeps showing the availability of the previous ZIP code until the page is reloaded.
 
 ## Workaround
