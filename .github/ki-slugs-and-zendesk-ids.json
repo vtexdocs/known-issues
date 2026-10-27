@@ -4651,6 +4651,11 @@
   },
   {
     "locale": "en",
+    "slug": "product-availability-is-not-updated-after-a-zip-code-change-when-returning-to-a-previously-visited-page-using-the-browsers-back-button",
+    "internalReference": 1477964
+  },
+  {
+    "locale": "en",
     "slug": "product-highlights-doesnt-work-into-a-product-list",
     "internalReference": 546844
   },
@@ -13851,6 +13856,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-disponibilidad-del-producto-no-se-actualiza-despues-de-un-cambio-de-codigo-postal-al-regresar-a-una-pagina-visitada-anteriormente-usando-el-boton-atras-del-navegador",
+    "internalReference": 1477964
+  },
+  {
+    "locale": "es",
     "slug": "la-emisora-no-notifica-todos-los-cambios-de-stock-al-modulo-de-busqueda-inteligente",
     "internalReference": 683345
   },
@@ -22948,6 +22958,11 @@
     "locale": "pt",
     "slug": "a-composicao-dos-criterios-nao-e-retornada-na-ui-de-pesquisa-explicada",
     "internalReference": 852898
+  },
+  {
+    "locale": "pt",
+    "slug": "a-disponibilidade-do-produto-nao-e-atualizada-apos-uma-alteracao-do-cep-ao-retornar-a-uma-pagina-visitada-anteriormente-usando-o-botao-voltar-do-navegador",
+    "internalReference": 1477964
   },
   {
     "locale": "pt",
