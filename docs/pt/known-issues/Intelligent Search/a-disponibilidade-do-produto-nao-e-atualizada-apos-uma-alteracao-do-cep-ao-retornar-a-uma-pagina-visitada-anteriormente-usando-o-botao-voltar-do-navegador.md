@@ -3,7 +3,7 @@ title: 'A disponibilidade do produto não é atualizada após uma alteração do
 slug: a-disponibilidade-do-produto-nao-e-atualizada-apos-uma-alteracao-do-cep-ao-retornar-a-uma-pagina-visitada-anteriormente-usando-o-botao-voltar-do-navegador
 status: PUBLISHED
 createdAt: 2026-10-27T18:28:12.000Z
-updatedAt: 2026-10-27T18:28:12.000Z
+updatedAt: 2026-10-27T18:30:06.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
