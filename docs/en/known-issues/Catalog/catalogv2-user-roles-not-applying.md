@@ -3,7 +3,7 @@ title: 'CatalogV2 User Roles not Applying'
 slug: catalogv2-user-roles-not-applying
 status: PUBLISHED
 createdAt: 2021-12-16T18:28:26.000Z
-updatedAt: 2026-03-06T22:25:04.000Z
+updatedAt: 2026-10-28T17:39:32.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -32,4 +32,4 @@ When a user is linked to a role configured as read-only in License Manager, they
 
 ## Workaround
 
-Use the License Manager API to manage these permissions.
+Use the GraphQL APIs of the catalog v2 to manage these permissions.
