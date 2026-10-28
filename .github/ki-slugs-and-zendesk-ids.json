@@ -5041,11 +5041,6 @@
   },
   {
     "locale": "en",
-    "slug": "pickup-points-do-not-work-in-the-shipping-simulator-in-countries-that-do-not-use-our-postal-code-api",
-    "internalReference": 1262007
-  },
-  {
-    "locale": "en",
     "slug": "problems-opening-manage-inventory-by-admin-page-with-error-ui",
     "internalReference": 466491
   },
@@ -5088,11 +5083,6 @@
     "locale": "en",
     "slug": "sla-offer-fluctuating-between-different-shipping-policies-due-to-cache-in-estimated-date-of-30-seconds",
     "internalReference": 1036916
-  },
-  {
-    "locale": "en",
-    "slug": "space-in-street-property-in-postal-code-json-affects-address-field-display-at-checkout",
-    "internalReference": 872935
   },
   {
     "locale": "en",
@@ -14276,11 +14266,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-espacio-en-el-campo-codigo-postal-del-json-afecta-a-la-visualizacion-del-campo-de-la-direccion-durante-el-proceso-de-pago",
-    "internalReference": 872935
-  },
-  {
-    "locale": "es",
     "slug": "el-mercado-externo-fob-integra-un-pedido-codigo-erro-fmt010",
     "internalReference": 532377
   },
@@ -14388,11 +14373,6 @@
     "locale": "es",
     "slug": "los-almacenes-excluidos-siguen-devolviendo-la-disponibilidad-de-stock-en-la-simulacion-y-la-api-de-disponibilidad",
     "internalReference": 1246900
-  },
-  {
-    "locale": "es",
-    "slug": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-envios-en-los-paises-que-no-utilizan-nuestra-api-de-codigos-postales",
-    "internalReference": 1262007
   },
   {
     "locale": "es",
@@ -23691,11 +23671,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-espaco-na-propriedade-da-rua-no-codigo-postal-json-afeta-a-exibicao-do-campo-de-endereco-no-checkout",
-    "internalReference": 872935
-  },
-  {
-    "locale": "pt",
     "slug": "o-feriado-nao-e-mostrado-na-lista-depois-de-usar-o-api-para-criar-put",
     "internalReference": 571040
   },
@@ -23718,11 +23693,6 @@
     "locale": "pt",
     "slug": "os-armazens-excluidos-continuam-a-apresentar-disponibilidade-de-estoque-na-simulacao-e-na-api-de-disponibilidade",
     "internalReference": 1246900
-  },
-  {
-    "locale": "pt",
-    "slug": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-envios-em-paises-que-nao-utilizam-nossa-api-de-codigo-postal",
-    "internalReference": 1262007
   },
   {
     "locale": "pt",
