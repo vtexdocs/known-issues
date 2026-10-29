@@ -14841,6 +14841,11 @@
   },
   {
     "locale": "es",
+    "slug": "al-acceder-a-mis-pedidos-el-nombre-que-aparece-es-el-nombre-del-producto-sin-la-informacion-del-codigo-sku",
+    "internalReference": 694809
+  },
+  {
+    "locale": "es",
     "slug": "al-anadir-una-sku-a-traves-de-nuestra-funcionalidad-cambiar-pedido-el-nombre-del-producto-no-se-muestra-en-el-pedido-ni-en-la-notificacion-por-corr",
     "internalReference": 557978
   },
@@ -14848,11 +14853,6 @@
     "locale": "es",
     "slug": "al-compartir-la-transaccion-de-ordenes-divididas-con-el-cambio-de-vendedor-el-flujo-de-estado-esta-roto",
     "internalReference": 1082298
-  },
-  {
-    "locale": "es",
-    "slug": "al-consultar-mis-pedidos-el-nombre-que-aparece-es-el-del-productname-sin-la-informacion-del-sku-name",
-    "internalReference": 694809
   },
   {
     "locale": "es",
