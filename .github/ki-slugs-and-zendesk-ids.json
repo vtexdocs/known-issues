@@ -14856,7 +14856,7 @@
   },
   {
     "locale": "es",
-    "slug": "bandera-de-entrega-en-mis-pedidos-debido-a-un-error-al-rellenar-la-factura",
+    "slug": "error-de-entrega-en-mis-pedidos-debido-a-un-error-al-completar-la-factura",
     "internalReference": 547053
   },
   {
@@ -24271,7 +24271,7 @@
   },
   {
     "locale": "pt",
-    "slug": "bandeira-de-entrega-em-meus-pedidos-devido-a-um-erro-no-preenchimento-da-nota-fiscal",
+    "slug": "sinal-de-entrega-em-meus-pedidos-devido-a-um-erro-no-preenchimento-da-fatura",
     "internalReference": 547053
   },
   {
