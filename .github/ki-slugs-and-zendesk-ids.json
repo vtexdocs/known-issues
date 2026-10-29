@@ -14871,11 +14871,6 @@
   },
   {
     "locale": "es",
-    "slug": "cambiar-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
-    "internalReference": 1080187
-  },
-  {
-    "locale": "es",
     "slug": "caracter-especial-en-el-informe-del-nombre-del-vendedor",
     "internalReference": 756243
   },
@@ -14898,6 +14893,11 @@
     "locale": "es",
     "slug": "el-articulo-anadido-a-la-orden-de-modificacion-se-encuentra-en-otro-paquete-tras-la-facturacion",
     "internalReference": 412526
+  },
+  {
+    "locale": "es",
+    "slug": "el-cambio-v1-el-articulo-desaparece-de-la-interfaz-de-usuario-despues-de-ser-facturado-escenario-con-promocion",
+    "internalReference": 1080187
   },
   {
     "locale": "es",
@@ -24211,6 +24211,11 @@
   },
   {
     "locale": "pt",
+    "slug": "alteracao-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao",
+    "internalReference": 1080187
+  },
+  {
+    "locale": "pt",
     "slug": "alteracoes-no-pedido-podem-fazer-com-que-os-valores-de-captura-cancelamento-e-reembolso-fiquem-dessincronizados-com-o-pedido",
     "internalReference": 1469699
   },
@@ -24218,11 +24223,6 @@
     "locale": "pt",
     "slug": "alterar-pedido-usando-api-sem-troca-de-pedido-por-email",
     "internalReference": 380509
-  },
-  {
-    "locale": "pt",
-    "slug": "alterar-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao",
-    "internalReference": 1080187
   },
   {
     "locale": "pt",
