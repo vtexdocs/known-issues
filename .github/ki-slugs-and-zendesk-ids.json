@@ -15206,7 +15206,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-reason-como-en-la-version-1-de-changeorders",
+    "slug": "la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-de-motivo-como-en-la-version-1-de-changeorders",
     "internalReference": 1290946
   },
   {
@@ -24541,7 +24541,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-modelo-vtexcommerceorderchangedv2-nao-pode-enviar-o-campo-reason-como-na-versao-1-de-changeorders",
+    "slug": "o-modelo-vtexcommerceorderchangedv2-nao-consegue-enviar-o-campo-de-motivo-diferentemente-da-versao-1-do-changeorders",
     "internalReference": 1290946
   },
   {
