@@ -5766,6 +5766,11 @@
   },
   {
     "locale": "en",
+    "slug": "my-account-addresses-required-field-alert-not-showing-for-citystate",
+    "internalReference": 373277
+  },
+  {
+    "locale": "en",
     "slug": "my-account-receiver-name-field-doesnt-recognize-input",
     "internalReference": 568527
   },
@@ -15281,6 +15286,11 @@
   },
   {
     "locale": "es",
+    "slug": "mi-cuenta-direcciones-no-se-muestra-la-alerta-de-campo-obligatorio-para-ciudadestado",
+    "internalReference": 373277
+  },
+  {
+    "locale": "es",
     "slug": "mi-suscripcion-muestra-un-mensaje-de-error-cuando-esta-vinculada-a-un-punto-de-recogida",
     "internalReference": 692523
   },
@@ -24393,6 +24403,11 @@
     "locale": "pt",
     "slug": "minha-assinatura-exibe-uma-mensagem-de-erro-quando-esta-associada-a-um-ponto-de-retirada",
     "internalReference": 692523
+  },
+  {
+    "locale": "pt",
+    "slug": "minha-conta-enderecos-alerta-de-campo-obrigatorio-nao-exibido-para-cidadeestado",
+    "internalReference": 373277
   },
   {
     "locale": "pt",
