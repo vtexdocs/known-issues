@@ -2,15 +2,15 @@
 title: 'First subscription cycle is skipped'
 slug: first-subscription-cycle-is-skipped
 status: PUBLISHED
-createdAt: 2022-02-21T14:31:13.000Z
-updatedAt: 2024-02-05T14:10:17.000Z
+createdAt: 2022-02-21T17:31:13.000Z
+updatedAt: 2026-10-29T21:41:14.000Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: first-subscription-cycle-is-skipped
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 528556
 ---
 
