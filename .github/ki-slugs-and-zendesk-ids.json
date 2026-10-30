@@ -5046,11 +5046,6 @@
   },
   {
     "locale": "en",
-    "slug": "route-prioritization-does-not-offer-the-best-option-in-terms-of-quantity-of-packages-and-items",
-    "internalReference": 927747
-  },
-  {
-    "locale": "en",
     "slug": "search-item-field-does-not-return-anything-in-logistics-simulation",
     "internalReference": 697628
   },
@@ -14351,11 +14346,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-priorizacion-de-rutas-no-ofrece-la-mejor-opcion-en-cuanto-a-cantidad-de-paquetes-y-articulos",
-    "internalReference": 927747
-  },
-  {
-    "locale": "es",
     "slug": "la-simulacion-de-pago-con-una-gran-cantidad-de-articulos-del-mismo-sku-da-lugar-a-un-tiempo-de-espera-de-logistica-agotado",
     "internalReference": 330775
   },
@@ -23568,11 +23558,6 @@
     "locale": "pt",
     "slug": "a-politica-de-envio-que-esta-no-status-em-processamento-e-exibida-como-ativa-na-nova-interface-de-logistica",
     "internalReference": 925914
-  },
-  {
-    "locale": "pt",
-    "slug": "a-priorizacao-de-rotas-nao-oferece-a-melhor-opcao-em-termos-de-quantidade-de-pacotes-e-itens",
-    "internalReference": 927747
   },
   {
     "locale": "pt",
