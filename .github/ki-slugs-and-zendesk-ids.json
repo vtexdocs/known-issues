@@ -7026,6 +7026,11 @@
   },
   {
     "locale": "en",
+    "slug": "payment-cancellation-delayed-over-one-hour-after-antifraud-rejection-in-native-split-transactions",
+    "internalReference": 1480709
+  },
+  {
+    "locale": "en",
     "slug": "payment-conditions-set-to-process-transactions-in-installments-other-than-1x-are-processing-transactions-as-prepaid-in-full",
     "internalReference": 1030652
   },
@@ -16078,6 +16083,11 @@
     "locale": "es",
     "slug": "la-ausencia-del-campo-minicartbuyerid-provoca-que-el-sistema-antifraude-cancele-las-transacciones",
     "internalReference": 514335
+  },
+  {
+    "locale": "es",
+    "slug": "la-cancelacion-del-pago-se-retraso-mas-de-una-hora-tras-el-rechazo-por-parte-del-sistema-antifraude-en-transacciones-divididas-nativas",
+    "internalReference": 1480709
   },
   {
     "locale": "es",
@@ -25138,6 +25148,11 @@
     "locale": "pt",
     "slug": "callcenter-users-cant-delete-a-customers-credit-card-via-my-account",
     "internalReference": 294001
+  },
+  {
+    "locale": "pt",
+    "slug": "cancelamento-de-pagamento-atrasado-em-mais-de-uma-hora-apos-rejeicao-antifraude-em-transacoes-nativas-divididas",
+    "internalReference": 1480709
   },
   {
     "locale": "pt",
