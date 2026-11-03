@@ -5011,11 +5011,6 @@
   },
   {
     "locale": "en",
-    "slug": "logistics-simulation-with-minimum-and-maximum-price-in-shipping-policy-does-not-work-when-productprice-as-0-zero",
-    "internalReference": 553080
-  },
-  {
-    "locale": "en",
     "slug": "logistics-simulator-is-showing-default-currency-instead-of-local-currency",
     "internalReference": 514551
   },
@@ -5103,11 +5098,6 @@
     "locale": "en",
     "slug": "the-holiday-is-not-shown-in-the-list-after-using-the-api-to-create-put",
     "internalReference": 571040
-  },
-  {
-    "locale": "en",
-    "slug": "the-template-relatoriodeimportacaodeestoque-does-not-support-multilanguage",
-    "internalReference": 585906
   },
   {
     "locale": "en",
@@ -14336,11 +14326,6 @@
   },
   {
     "locale": "es",
-    "slug": "la-plantilla-relatoriodeimportacaodeestoque-no-admite-el-multilinguismo",
-    "internalReference": 585906
-  },
-  {
-    "locale": "es",
     "slug": "la-priorizacion-de-almacenes-no-es-determinista-durante-la-simulacion-de-envio",
     "internalReference": 1268196
   },
@@ -14348,11 +14333,6 @@
     "locale": "es",
     "slug": "la-simulacion-de-pago-con-una-gran-cantidad-de-articulos-del-mismo-sku-da-lugar-a-un-tiempo-de-espera-de-logistica-agotado",
     "internalReference": 330775
-  },
-  {
-    "locale": "es",
-    "slug": "la-simulacion-logistica-con-el-precio-minimo-y-maximo-en-la-politica-de-envio-no-funciona-cuando-productprice-es-0-cero",
-    "internalReference": 553080
   },
   {
     "locale": "es",
@@ -14851,11 +14831,6 @@
   },
   {
     "locale": "es",
-    "slug": "error-de-entrega-en-mis-pedidos-debido-a-un-error-al-completar-la-factura",
-    "internalReference": 547053
-  },
-  {
-    "locale": "es",
     "slug": "calculo-de-la-facturacion-de-los-pedidos-utilizando-el-valor-de-la-factura-de-entrada-en-la-validacion-de-la-factura-de-salida",
     "internalReference": 930491
   },
@@ -15058,6 +15033,11 @@
     "locale": "es",
     "slug": "error-al-visualizar-el-perfil-del-operador-del-centro-de-llamadas-vista-de-pedidos-restringida",
     "internalReference": 1129938
+  },
+  {
+    "locale": "es",
+    "slug": "error-de-entrega-en-mis-pedidos-debido-a-un-error-al-completar-la-factura",
+    "internalReference": 547053
   },
   {
     "locale": "es",
@@ -19636,11 +19616,6 @@
   },
   {
     "locale": "pt",
-    "slug": "funcoes-de-usuario-do-catalogv2-nao-se-aplicam",
-    "internalReference": 489297
-  },
-  {
-    "locale": "pt",
     "slug": "as-inconsistencias-da-pesquisa-de-catalogo-podem-nao-retornar-produtos-devido-a-um-problema-de-indexacao",
     "internalReference": 1330325
   },
@@ -19953,6 +19928,11 @@
     "locale": "pt",
     "slug": "fullcleanup-pode-gerar-um-tempo-limite",
     "internalReference": 1228132
+  },
+  {
+    "locale": "pt",
+    "slug": "funcoes-de-usuario-do-catalogv2-nao-se-aplicam",
+    "internalReference": 489297
   },
   {
     "locale": "pt",
@@ -23671,11 +23651,6 @@
   },
   {
     "locale": "pt",
-    "slug": "o-modelo-relatoriodeimportacaodeestoque-nao-suporta-multilinguagem",
-    "internalReference": 585906
-  },
-  {
-    "locale": "pt",
     "slug": "o-simulador-logistico-esta-mostrando-a-moeda-padrao-em-vez-da-moeda-local",
     "internalReference": 514551
   },
@@ -23698,11 +23673,6 @@
     "locale": "pt",
     "slug": "problemas-ao-abrir-a-pagina-gerenciar-inventario-por-admin-com-erro-ui",
     "internalReference": 466491
-  },
-  {
-    "locale": "pt",
-    "slug": "simulacao-logistica-com-preco-minimo-e-maximo-na-politica-de-embarque-nao-funciona-quando-o-preco-do-produto-como-0-zero",
-    "internalReference": 553080
   },
   {
     "locale": "pt",
@@ -24266,11 +24236,6 @@
   },
   {
     "locale": "pt",
-    "slug": "sinal-de-entrega-em-meus-pedidos-devido-a-um-erro-no-preenchimento-da-fatura",
-    "internalReference": 547053
-  },
-  {
-    "locale": "pt",
     "slug": "calculo-da-faturacao-de-pedidos-com-base-no-valor-da-nota-fiscal-de-entrada-na-validacao-da-nota-fiscal-de-saida",
     "internalReference": 930491
   },
@@ -24778,6 +24743,11 @@
     "locale": "pt",
     "slug": "recurso-de-indexacao-do-feed-hook-que-ignora-eventos-nos-filtros-fromorders",
     "internalReference": 832400
+  },
+  {
+    "locale": "pt",
+    "slug": "sinal-de-entrega-em-meus-pedidos-devido-a-um-erro-no-preenchimento-da-fatura",
+    "internalReference": 547053
   },
   {
     "locale": "pt",
