@@ -3,7 +3,7 @@ title: 'Payment cancellation delayed over one hour after antifraud rejection in 
 slug: payment-cancellation-delayed-over-one-hour-after-antifraud-rejection-in-native-split-transactions
 status: PUBLISHED
 createdAt: 2026-11-03T22:48:20.000Z
-updatedAt: 2026-11-03T22:48:20.000Z
+updatedAt: 2026-11-03T22:56:15.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
