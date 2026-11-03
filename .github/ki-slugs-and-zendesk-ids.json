@@ -1576,6 +1576,11 @@
   },
   {
     "locale": "en",
+    "slug": "products-can-enter-inactive-state-despite-all-skus-being-inactive",
+    "internalReference": 1480822
+  },
+  {
+    "locale": "en",
     "slug": "products-created-by-api-and-not-associated-with-any-sku-are-being-shown-as-available-on-the-admin-when-using-any-filter",
     "internalReference": 492648
   },
@@ -11011,6 +11016,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-productos-pueden-entrar-en-estado-inactivo-a-pesar-de-que-todos-los-sku-esten-inactivos",
+    "internalReference": 1480822
+  },
+  {
+    "locale": "es",
     "slug": "los-productos-sin-sku-no-aparecen-en-el-panel-de-administracion-al-realizar-una-busqueda-por-id-de-producto",
     "internalReference": 740431
   },
@@ -20323,6 +20333,11 @@
     "locale": "pt",
     "slug": "os-produtos-nao-sao-atualizados-depois-que-as-politicas-comerciais-sao-criadasatualizadas",
     "internalReference": 1286569
+  },
+  {
+    "locale": "pt",
+    "slug": "os-produtos-podem-entrar-em-estado-inativo-mesmo-que-todos-os-skus-estejam-inativos",
+    "internalReference": 1480822
   },
   {
     "locale": "pt",
