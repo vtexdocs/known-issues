@@ -3,7 +3,7 @@ title: 'La cancelación del pago se retrasó más de una hora tras el rechazo po
 slug: la-cancelacion-del-pago-se-retraso-mas-de-una-hora-tras-el-rechazo-por-parte-del-sistema-antifraude-en-transacciones-divididas-nativas
 status: PUBLISHED
 createdAt: 2026-11-03T22:48:20.000Z
-updatedAt: 2026-11-03T22:48:20.000Z
+updatedAt: 2026-11-03T22:56:15.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
