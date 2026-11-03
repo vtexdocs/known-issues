@@ -3,7 +3,7 @@ title: 'Cancelamento de pagamento atrasado em mais de uma hora após rejeição 
 slug: cancelamento-de-pagamento-atrasado-em-mais-de-uma-hora-apos-rejeicao-antifraude-em-transacoes-nativas-divididas
 status: PUBLISHED
 createdAt: 2026-11-03T22:48:20.000Z
-updatedAt: 2026-11-03T22:48:20.000Z
+updatedAt: 2026-11-03T22:56:15.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
