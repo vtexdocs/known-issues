@@ -7171,7 +7171,7 @@
   },
   {
     "locale": "en",
-    "slug": "outdated-card-brand-regex-causes-brand-misidentification-at-checkout",
+    "slug": "regex-conflict-causes-us-to-misidentify-mastercard-as-visa",
     "internalReference": 893588
   },
   {
@@ -16896,7 +16896,7 @@
   },
   {
     "locale": "es",
-    "slug": "la-expresion-regular-de-marca-de-tarjeta-obsoleta-provoca-una-identificacion-erronea-de-la-marca-en-el-momento-del-pago",
+    "slug": "un-conflicto-de-regex-hace-que-identifiquemos-erroneamente-mastercard-como-visa",
     "internalReference": 893588
   },
   {
@@ -25681,7 +25681,7 @@
   },
   {
     "locale": "pt",
-    "slug": "expressoes-regulares-desatualizadas-para-marcas-de-cartoes-causam-identificacao-incorreta-da-marca-no-caixa",
+    "slug": "o-conflito-de-regex-nos-faz-identificar-erroneamente-mastercard-como-visa",
     "internalReference": 893588
   },
   {
