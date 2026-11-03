@@ -7161,11 +7161,6 @@
   },
   {
     "locale": "en",
-    "slug": "regex-conflict-causes-us-to-misidentify-mastercard-as-visa",
-    "internalReference": 893588
-  },
-  {
-    "locale": "en",
     "slug": "regex-conflict-causes-us-to-misidentify-the-cards-brand",
     "internalReference": 316213
   },
@@ -16876,11 +16871,6 @@
   },
   {
     "locale": "es",
-    "slug": "un-conflicto-de-regex-hace-que-identifiquemos-erroneamente-mastercard-como-visa",
-    "internalReference": 893588
-  },
-  {
-    "locale": "es",
     "slug": "una-regex-de-elo-obsoleta-nos-hace-identificar-erroneamente-algunos-bins",
     "internalReference": 1015043
   },
@@ -25648,11 +25638,6 @@
     "locale": "pt",
     "slug": "o-conector-payu-nao-consegue-processar-pagamentos-quando-os-dados-de-envio-contem-mais-de-40-caracteres",
     "internalReference": 902539
-  },
-  {
-    "locale": "pt",
-    "slug": "o-conflito-de-regex-nos-faz-identificar-erroneamente-mastercard-como-visa",
-    "internalReference": 893588
   },
   {
     "locale": "pt",
