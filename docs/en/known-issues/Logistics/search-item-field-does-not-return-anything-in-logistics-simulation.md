@@ -3,14 +3,14 @@ title: 'Search item field does not return anything in logistics simulation'
 slug: search-item-field-does-not-return-anything-in-logistics-simulation
 status: PUBLISHED
 createdAt: 2022-11-14T18:06:22.000Z
-updatedAt: 2026-08-18T16:36:13.000Z
+updatedAt: 2026-11-04T20:55:08.000Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slugEN: search-item-field-does-not-return-anything-in-logistics-simulation
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 697628
 ---
 
