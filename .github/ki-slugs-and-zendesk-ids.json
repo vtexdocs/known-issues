@@ -7616,16 +7616,6 @@
   },
   {
     "locale": "en",
-    "slug": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
-    "internalReference": 1355130
-  },
-  {
-    "locale": "en",
-    "slug": "only-one-agent-receives-email-notification-in-active-call",
-    "internalReference": 1218130
-  },
-  {
-    "locale": "en",
     "slug": "change-identified-customer-button-does-not-work-properly",
     "internalReference": 1237322
   },
@@ -16903,16 +16893,6 @@
     "locale": "es",
     "slug": "zonas-desfasadas-en-la-direccion-de-facturacion-de-guatemala-en-la-pagina-de-pago",
     "internalReference": 373603
-  },
-  {
-    "locale": "es",
-    "slug": "las-notificaciones-del-personal-shopper-no-llegan-a-whatsapp",
-    "internalReference": 1355130
-  },
-  {
-    "locale": "es",
-    "slug": "solo-un-agente-recibe-notificacion-por-correo-electronico-en-una-llamada-activa",
-    "internalReference": 1218130
   },
   {
     "locale": "es",
@@ -26208,16 +26188,6 @@
     "locale": "pt",
     "slug": "zonas-locais-desatualizadas-no-endereco-de-faturamento-da-guatemala-na-pagina-de-checkout",
     "internalReference": 373603
-  },
-  {
-    "locale": "pt",
-    "slug": "apenas-um-agente-recebe-notificacao-por-email-em-uma-chamada-ativa",
-    "internalReference": 1218130
-  },
-  {
-    "locale": "pt",
-    "slug": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp",
-    "internalReference": 1355130
   },
   {
     "locale": "pt",
