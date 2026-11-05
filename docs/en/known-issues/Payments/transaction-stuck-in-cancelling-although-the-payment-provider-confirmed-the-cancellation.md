@@ -3,7 +3,7 @@ title: 'Transaction stuck in "Cancelling" although the payment provider confirme
 slug: transaction-stuck-in-cancelling-although-the-payment-provider-confirmed-the-cancellation
 status: PUBLISHED
 createdAt: 2026-11-05T18:17:04.000Z
-updatedAt: 2026-11-05T18:17:03.000Z
+updatedAt: 2026-11-05T18:19:09.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
