@@ -3,7 +3,7 @@ title: 'Mercado Livre Error al volver a autenticar la integración'
 slug: mercado-livre-error-al-volver-a-autenticar-la-integracion
 status: PUBLISHED
 createdAt: 2026-11-06T01:58:24.000Z
-updatedAt: 2026-11-06T01:58:24.000Z
+updatedAt: 2026-11-06T01:59:23.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
