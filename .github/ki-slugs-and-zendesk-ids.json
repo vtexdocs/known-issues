@@ -7421,6 +7421,11 @@
   },
   {
     "locale": "en",
+    "slug": "transaction-stuck-in-cancelling-although-the-payment-provider-confirmed-the-cancellation",
+    "internalReference": 1481557
+  },
+  {
+    "locale": "en",
     "slug": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
     "internalReference": 1376434
   },
@@ -16278,6 +16283,11 @@
     "locale": "es",
     "slug": "la-transaccion-se-queda-bloqueada-en-la-fase-de-cancelacion-cuando-se-rechaza-una-de-las-tarjetas",
     "internalReference": 429082
+  },
+  {
+    "locale": "es",
+    "slug": "la-transaccion-se-quedo-atascada-en-cancelando-aunque-el-proveedor-de-pagos-confirmo-la-cancelacion",
+    "internalReference": 1481557
   },
   {
     "locale": "es",
@@ -26073,6 +26083,11 @@
     "locale": "pt",
     "slug": "transacao-presa-em-aprovado-enquanto-o-pagamento-permanece-liquidado-ao-usar-liquidacoes-parciais",
     "internalReference": 1319395
+  },
+  {
+    "locale": "pt",
+    "slug": "transacao-presa-em-cancelando-embora-o-provedor-de-pagamento-tenha-confirmado-o-cancelamento",
+    "internalReference": 1481557
   },
   {
     "locale": "pt",
