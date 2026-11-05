@@ -3,7 +3,7 @@ title: 'La transacción se quedó atascada en "Cancelando" aunque el proveedor d
 slug: la-transaccion-se-quedo-atascada-en-cancelando-aunque-el-proveedor-de-pagos-confirmo-la-cancelacion
 status: PUBLISHED
 createdAt: 2026-11-05T18:17:04.000Z
-updatedAt: 2026-11-05T18:17:03.000Z
+updatedAt: 2026-11-05T18:19:09.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
