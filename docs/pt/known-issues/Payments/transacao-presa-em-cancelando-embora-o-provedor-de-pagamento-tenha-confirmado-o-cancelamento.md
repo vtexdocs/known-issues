@@ -3,7 +3,7 @@ title: 'Transação presa em "Cancelando", embora o provedor de pagamento tenha 
 slug: transacao-presa-em-cancelando-embora-o-provedor-de-pagamento-tenha-confirmado-o-cancelamento
 status: PUBLISHED
 createdAt: 2026-11-05T18:17:04.000Z
-updatedAt: 2026-11-05T18:17:03.000Z
+updatedAt: 2026-11-05T18:19:09.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
