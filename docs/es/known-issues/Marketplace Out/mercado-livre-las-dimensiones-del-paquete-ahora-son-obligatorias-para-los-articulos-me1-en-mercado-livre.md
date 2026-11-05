@@ -3,14 +3,14 @@ title: 'Mercado Livre Las dimensiones del paquete ahora son obligatorias para lo
 slug: mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre
 status: PUBLISHED
 createdAt: 2026-10-15T16:41:43.000Z
-updatedAt: 2026-10-15T16:44:16.000Z
+updatedAt: 2026-11-05T18:26:31.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace Out
 slugEN: mercado-livre-package-dimensions-are-now-mandatory-for-me1-items-on-mercado-livre
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1474056
 ---
 
