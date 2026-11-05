@@ -5446,6 +5446,11 @@
   },
   {
     "locale": "en",
+    "slug": "mercado-livre-error-when-reauthenticating-the-integration",
+    "internalReference": 1481892
+  },
+  {
+    "locale": "en",
     "slug": "mercado-livre-order-fails-to-reprocess-when-shipment-is-cancelled-errunavailablesla",
     "internalReference": 1442735
   },
@@ -14736,6 +14741,11 @@
   },
   {
     "locale": "es",
+    "slug": "mercado-livre-error-al-volver-a-autenticar-la-integracion",
+    "internalReference": 1481892
+  },
+  {
+    "locale": "es",
     "slug": "mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre",
     "internalReference": 1474056
   },
@@ -24018,6 +24028,11 @@
     "locale": "pt",
     "slug": "mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre",
     "internalReference": 1474056
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-erro-ao-reautenticar-a-integracao",
+    "internalReference": 1481892
   },
   {
     "locale": "pt",
