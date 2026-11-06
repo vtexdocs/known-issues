@@ -5421,6 +5421,11 @@
   },
   {
     "locale": "en",
+    "slug": "facebook-review-your-account-permission-on-facebook-error-requires-support-to-remove-the-integration-authentication",
+    "internalReference": 1481964
+  },
+  {
+    "locale": "en",
     "slug": "fbe-plppdp-images-intermittently-fail-to-load-when-meta",
     "internalReference": 1382819
   },
@@ -14703,6 +14708,11 @@
     "locale": "es",
     "slug": "el-estado-del-pedido-de-amazon-no-se-actualiza-al-reprocesar-el-pedido-en-bridge",
     "internalReference": 1119618
+  },
+  {
+    "locale": "es",
+    "slug": "facebook-el-error-revisa-los-permisos-de-tu-cuenta-en-facebook-requiere-asistencia-para-eliminar-la-autenticacion-de-integracion",
+    "internalReference": 1481964
   },
   {
     "locale": "es",
@@ -23998,6 +24008,11 @@
     "locale": "pt",
     "slug": "dafiti-urls-de-imagens-convertidas-para-webp-causam-rejeicao-pelo-marketplace-tipo-de-imagem-nao-suportado",
     "internalReference": 1370670
+  },
+  {
+    "locale": "pt",
+    "slug": "facebook-o-erro-revise-as-permissoes-da-sua-conta-no-facebook-requer-suporte-para-remover-a-autenticacao-de-integracao",
+    "internalReference": 1481964
   },
   {
     "locale": "pt",
