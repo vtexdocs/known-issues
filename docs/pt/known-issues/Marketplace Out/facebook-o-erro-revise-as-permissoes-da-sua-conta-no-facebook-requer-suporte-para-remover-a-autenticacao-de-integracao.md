@@ -3,7 +3,7 @@ title: 'Facebook O erro “Revise as permissões da sua conta no Facebook” req
 slug: facebook-o-erro-revise-as-permissoes-da-sua-conta-no-facebook-requer-suporte-para-remover-a-autenticacao-de-integracao
 status: PUBLISHED
 createdAt: 2026-11-06T15:09:21.000Z
-updatedAt: 2026-11-06T15:09:21.000Z
+updatedAt: 2026-11-06T15:10:03.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
