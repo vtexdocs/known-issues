@@ -3,7 +3,7 @@ title: 'Mercado Livre Error when re-authenticating the integration'
 slug: mercado-livre-error-when-reauthenticating-the-integration
 status: PUBLISHED
 createdAt: 2026-11-06T01:58:24.000Z
-updatedAt: 2026-11-06T01:59:23.000Z
+updatedAt: 2026-11-06T19:56:18.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
