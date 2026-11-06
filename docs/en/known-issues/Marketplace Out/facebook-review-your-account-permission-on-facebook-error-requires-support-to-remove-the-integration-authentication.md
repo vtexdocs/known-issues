@@ -3,7 +3,7 @@ title: 'Facebook “Review your account permission on Facebook” error requires
 slug: facebook-review-your-account-permission-on-facebook-error-requires-support-to-remove-the-integration-authentication
 status: PUBLISHED
 createdAt: 2026-11-06T15:09:21.000Z
-updatedAt: 2026-11-06T15:09:21.000Z
+updatedAt: 2026-11-06T15:10:03.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
