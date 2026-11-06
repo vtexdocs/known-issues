@@ -2,8 +2,8 @@
 title: 'Search results may not display products from the synonyms'
 slug: search-results-may-not-display-products-from-the-synonyms
 status: PUBLISHED
-createdAt: 2024-09-06T21:15:38.000Z
-updatedAt: 2026-05-07T16:18:32.000Z
+createdAt: 2026-11-06T22:59:57.000Z
+updatedAt: 2026-11-06T22:59:57.000Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
@@ -11,7 +11,7 @@ tag: Intelligent Search
 slugEN: search-results-may-not-display-products-from-the-synonyms
 locale: en
 kiStatus: Backlog
-internalReference: 1094028
+internalReference: 1482294
 ---
 
 ## Summary
