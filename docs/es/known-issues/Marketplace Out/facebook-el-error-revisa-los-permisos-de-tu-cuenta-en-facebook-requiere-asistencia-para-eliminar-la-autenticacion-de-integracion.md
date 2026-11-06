@@ -3,7 +3,7 @@ title: 'Facebook El error "Revisa los permisos de tu cuenta en Facebook" requier
 slug: facebook-el-error-revisa-los-permisos-de-tu-cuenta-en-facebook-requiere-asistencia-para-eliminar-la-autenticacion-de-integracion
 status: PUBLISHED
 createdAt: 2026-11-06T15:09:21.000Z
-updatedAt: 2026-11-06T15:09:21.000Z
+updatedAt: 2026-11-06T15:10:03.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
