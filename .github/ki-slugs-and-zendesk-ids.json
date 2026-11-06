@@ -5386,6 +5386,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-tracking-failure-is-not-displayed-in-bridge-when-the-invoice-items-dont-match-the-order-items",
+    "internalReference": 1482337
+  },
+  {
+    "locale": "en",
     "slug": "amazonmatch-in-some-cases-sku-reverts-to-pending-review-after-match-confirmation-with-no-indication-of-amazons-rejection-reason",
     "internalReference": 1456640
   },
@@ -14633,6 +14638,11 @@
     "locale": "es",
     "slug": "markeplacein-la-paginacion-del-cursor-de-la-api-de-sugerencias-next-solo-cubre-las-sugerencias-pendientes-y-puede-parecer-que-se-detuvo-antes-de-tiempo",
     "internalReference": 1448547
+  },
+  {
+    "locale": "es",
+    "slug": "amazon-el-error-de-seguimiento-no-se-muestra-en-bridge-cuando-los-articulos-de-la-factura-no-coinciden-con-los-articulos-del-pedido",
+    "internalReference": 1482337
   },
   {
     "locale": "es",
@@ -23938,6 +23948,11 @@
     "locale": "pt",
     "slug": "o-filtro-de-pesquisa-nao-esta-funcionando-fora-da-primeira-pagina-na-secao-de-skus-recebidos",
     "internalReference": 1406339
+  },
+  {
+    "locale": "pt",
+    "slug": "a-falha-de-rastreamento-da-amazon-nao-e-exibida-no-bridge-quando-os-itens-da-fatura-nao-correspondem-aos-itens-do-pedido",
+    "internalReference": 1482337
   },
   {
     "locale": "pt",
