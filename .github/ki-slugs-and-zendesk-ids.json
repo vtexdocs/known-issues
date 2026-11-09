@@ -9261,6 +9261,11 @@
   },
   {
     "locale": "en",
+    "slug": "vtexstructureddata-settings-page-shows-gtin-value-ean-as-default-but-the-app-uses-the-sku-id-until-the-setting-is-saved",
+    "internalReference": 1482707
+  },
+  {
+    "locale": "en",
     "slug": "when-disabling-native-service-worker-its-not-possible-to-use-a-custom-one",
     "internalReference": 770949
   },
@@ -18576,6 +18581,11 @@
   },
   {
     "locale": "es",
+    "slug": "vtexstructureddata-la-pagina-de-configuracion-muestra-el-valor-gtin-ean-como-predeterminado-pero-la-aplicacion-utiliza-el-id-de-sku-hasta-que-se-guarda-la-configuracion",
+    "internalReference": 1482707
+  },
+  {
+    "locale": "es",
     "slug": "si-las-tablas-de-correios-no-estan-concatenadas-en-el-filtro-de-listo-para-enviar-la-generacion-de-etiquetas-no-funciona-correctamente",
     "internalReference": 517449
   },
@@ -27888,6 +27898,11 @@
     "locale": "pt",
     "slug": "valores-de-itens-incorretos-do-minicart-devido-a-solicitacoes-simultaneas-com-a-promocao-stepper-e-more-for-less",
     "internalReference": 1185655
+  },
+  {
+    "locale": "pt",
+    "slug": "vtexstructureddata-a-pagina-de-configuracoes-mostra-o-valor-gtin-ean-como-padrao-mas-o-aplicativo-usa-o-id-sku-ate-que-a-configuracao-seja-salva",
+    "internalReference": 1482707
   },
   {
     "locale": "pt",
