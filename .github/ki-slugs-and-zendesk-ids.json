@@ -11321,7 +11321,7 @@
   },
   {
     "locale": "es",
-    "slug": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
+    "slug": "el-paso-de-pago-al-finalizar-la-compra-no-funciona-si-apple-pay-es-el-primer-metodo-de-pago",
     "internalReference": 704699
   },
   {
@@ -20661,6 +20661,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-etapa-de-pagamento-no-checkout-nao-funciona-se-o-apple-pay-for-o-primeiro-metodo-de-pagamento",
+    "internalReference": 704699
+  },
+  {
+    "locale": "pt",
     "slug": "a-falsificacao-de-identidade-e-ignorada-apos-a-conclusao-de-uma-compra",
     "internalReference": 1003545
   },
@@ -21103,11 +21108,6 @@
     "locale": "pt",
     "slug": "checkout-incorretamente-enviando-detalhes-do-item-para-a-transacao",
     "internalReference": 535859
-  },
-  {
-    "locale": "pt",
-    "slug": "checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method",
-    "internalReference": 704699
   },
   {
     "locale": "pt",
