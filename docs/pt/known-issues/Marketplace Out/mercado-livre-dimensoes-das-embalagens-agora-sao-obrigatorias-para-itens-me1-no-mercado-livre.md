@@ -3,7 +3,7 @@ title: 'Mercado Livre Dimensões das embalagens agora são obrigatórias para it
 slug: mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre
 status: PUBLISHED
 createdAt: 2026-10-15T16:41:43.000Z
-updatedAt: 2026-11-05T18:26:31.000Z
+updatedAt: 2026-11-10T15:03:13.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
