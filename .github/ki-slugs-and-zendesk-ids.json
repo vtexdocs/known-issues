@@ -306,6 +306,11 @@
   },
   {
     "locale": "en",
+    "slug": "order-again-flow-in-b2b-suite-can-lead-to-orders-placed-with-wrong-marketing-data",
+    "internalReference": 1483449
+  },
+  {
+    "locale": "en",
     "slug": "order-again-from-b2b-orders-history-doesnt-work",
     "internalReference": 819920
   },
@@ -333,11 +338,6 @@
     "locale": "en",
     "slug": "quickorder-app-concurrency-issues-when-adding-items",
     "internalReference": 1450887
-  },
-  {
-    "locale": "en",
-    "slug": "reorder-flow-in-b2b-suite-can-lead-to-orders-placed-with-wrong-marketing-data",
-    "internalReference": 1483449
   },
   {
     "locale": "en",
@@ -9481,7 +9481,7 @@
   },
   {
     "locale": "es",
-    "slug": "el-flujo-de-reordenamiento-en-b2b-suite-puede-provocar-que-se-realicen-pedidos-con-datos-de-marketing-incorrectos",
+    "slug": "el-flujo-de-volver-a-pedir-en-b2b-suite-puede-dar-lugar-a-pedidos-realizados-con-datos-de-marketing-incorrectos",
     "internalReference": 1483449
   },
   {
@@ -18911,7 +18911,7 @@
   },
   {
     "locale": "pt",
-    "slug": "o-fluxo-de-recompra-no-b2b-suite-pode-levar-a-pedidos-feitos-com-dados-de-marketing-incorretos",
+    "slug": "o-fluxo-fazer-novo-pedido-no-b2b-suite-pode-levar-a-pedidos-feitos-com-dados-de-marketing-incorretos",
     "internalReference": 1483449
   },
   {
