@@ -3,7 +3,7 @@ title: 'A pré-visualização do frete entra em loop quando um item possui vári
 slug: a-previsualizacao-do-frete-entra-em-loop-quando-um-item-possui-varias-opcoes-de-entrega-e-o-preco-do-frete-muda-entre-as-simulacoes
 status: PUBLISHED
 createdAt: 2026-08-14T22:40:27.000Z
-updatedAt: 2026-08-14T22:40:27.000Z
+updatedAt: 2026-11-11T00:23:36.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
