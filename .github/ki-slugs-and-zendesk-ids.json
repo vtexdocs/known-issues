@@ -4411,6 +4411,11 @@
   },
   {
     "locale": "en",
+    "slug": "deleted-product-may-still-appears-in-intelligent-search-after-a-concurrent-update",
+    "internalReference": 1483590
+  },
+  {
+    "locale": "en",
     "slug": "detached-sku-search-results-not-considering-regionalized-availability",
     "internalReference": 1344487
   },
@@ -13733,6 +13738,11 @@
     "locale": "es",
     "slug": "entradas-duplicadas-para-categoriasvalores-de-especificacion-en-el-mismo-nivel",
     "internalReference": 562588
+  },
+  {
+    "locale": "es",
+    "slug": "es-posible-que-el-producto-eliminado-siga-apareciendo-en-la-busqueda-inteligente-despues-de-una-actualizacion-simultanea",
+    "internalReference": 1483590
   },
   {
     "locale": "es",
@@ -23313,6 +23323,11 @@
     "locale": "pt",
     "slug": "o-plp-nao-carrega-quando-os-valores-das-facetas-sao-palavras-reservadas",
     "internalReference": 1193294
+  },
+  {
+    "locale": "pt",
+    "slug": "o-produto-excluido-ainda-pode-aparecer-na-busca-inteligente-apos-uma-atualizacao-simultanea",
+    "internalReference": 1483590
   },
   {
     "locale": "pt",
