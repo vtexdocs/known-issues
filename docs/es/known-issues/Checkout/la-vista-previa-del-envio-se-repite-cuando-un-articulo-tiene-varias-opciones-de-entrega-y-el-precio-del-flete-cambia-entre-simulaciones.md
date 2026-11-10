@@ -3,7 +3,7 @@ title: 'La vista previa del envío se repite cuando un artículo tiene varias op
 slug: la-vista-previa-del-envio-se-repite-cuando-un-articulo-tiene-varias-opciones-de-entrega-y-el-precio-del-flete-cambia-entre-simulaciones
 status: PUBLISHED
 createdAt: 2026-08-14T22:40:27.000Z
-updatedAt: 2026-11-11T00:23:36.000Z
+updatedAt: 2026-11-11T00:27:32.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
