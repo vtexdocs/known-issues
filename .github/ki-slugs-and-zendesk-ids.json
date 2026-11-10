@@ -336,6 +336,11 @@
   },
   {
     "locale": "en",
+    "slug": "reorder-flow-in-b2b-suite-can-lead-to-orders-placed-with-wrong-marketing-data",
+    "internalReference": 1483449
+  },
+  {
+    "locale": "en",
     "slug": "sales-channel-configured-in-b2b-settings-is-not-assigned-after-approving-organizations",
     "internalReference": 866933
   },
@@ -9473,6 +9478,11 @@
     "locale": "es",
     "slug": "el-filtro-de-organizacion-de-busqueda-no-se-aplica-despues-de-cambiar-la-organizacion-en-el-frontend-de-la-tienda",
     "internalReference": 1168794
+  },
+  {
+    "locale": "es",
+    "slug": "el-flujo-de-reordenamiento-en-b2b-suite-puede-provocar-que-se-realicen-pedidos-con-datos-de-marketing-incorrectos",
+    "internalReference": 1483449
   },
   {
     "locale": "es",
@@ -18898,6 +18908,11 @@
     "locale": "pt",
     "slug": "o-filtro-search-organization-nao-esta-sendo-aplicado-apos-a-alteracao-da-organizacao-no-frontend-da-loja",
     "internalReference": 1168794
+  },
+  {
+    "locale": "pt",
+    "slug": "o-fluxo-de-recompra-no-b2b-suite-pode-levar-a-pedidos-feitos-com-dados-de-marketing-incorretos",
+    "internalReference": 1483449
   },
   {
     "locale": "pt",
