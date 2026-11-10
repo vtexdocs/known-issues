@@ -3,7 +3,7 @@ title: 'Shipping preview loops when an item has multiple delivery options and th
 slug: shipping-preview-loops-when-an-item-has-multiple-delivery-options-and-the-freight-price-changes-between-simulations
 status: PUBLISHED
 createdAt: 2026-08-14T22:40:27.000Z
-updatedAt: 2026-08-14T22:40:27.000Z
+updatedAt: 2026-11-11T00:23:36.000Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
