@@ -3866,11 +3866,6 @@
   },
   {
     "locale": "en",
-    "slug": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
-    "internalReference": 1399947
-  },
-  {
-    "locale": "en",
     "slug": "mercado-livre-firstload-failure-in-mercado-libre-promotions-admin-data-only-loads-after-navigating-awayback",
     "internalReference": 1327218
   },
@@ -5453,6 +5448,11 @@
     "locale": "en",
     "slug": "mercado-livre-ads-incorrectly-recreated-as-crossdocking-for-full-skus-with-zero-stock",
     "internalReference": 1440697
+  },
+  {
+    "locale": "en",
+    "slug": "mercado-livre-error-when-accepting-buyboxme2-suggestion-brand-attribute-required",
+    "internalReference": 1399947
   },
   {
     "locale": "en",
@@ -11326,11 +11326,6 @@
   },
   {
     "locale": "es",
-    "slug": "el-paso-de-pago-al-finalizar-la-compra-no-funciona-si-apple-pay-es-el-primer-metodo-de-pago",
-    "internalReference": 704699
-  },
-  {
-    "locale": "es",
     "slug": "checkout-permite-anadir-cantidades-de-sku-por-encima-del-stock-disponible-cuando-la-simulacion-de-vendedor-externo-devuelve-0-como-cantidad",
     "internalReference": 1316990
   },
@@ -11623,6 +11618,11 @@
     "locale": "es",
     "slug": "el-parametro-ignoreprofiledata-del-carrito-vuelve-a-establecerse-en-false-despues-de-que-el-comprador-cierre-sesion-durante-el-proceso-de-pago",
     "internalReference": 1401421
+  },
+  {
+    "locale": "es",
+    "slug": "el-paso-de-pago-al-finalizar-la-compra-no-funciona-si-apple-pay-es-el-primer-metodo-de-pago",
+    "internalReference": 704699
   },
   {
     "locale": "es",
@@ -13168,11 +13168,6 @@
     "locale": "es",
     "slug": "mercado-livre-error-40000-40007-despues-de-hacer-clic-en-el-boton-para-publicar-en-el-catalogo-buybox",
     "internalReference": 1122911
-  },
-  {
-    "locale": "es",
-    "slug": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
-    "internalReference": 1399947
   },
   {
     "locale": "es",
@@ -14763,6 +14758,11 @@
     "locale": "es",
     "slug": "mercado-livre-el-pedido-no-se-puede-reprocesar-cuando-se-cancela-el-envio-errunavailablesla",
     "internalReference": 1442735
+  },
+  {
+    "locale": "es",
+    "slug": "mercado-livre-error-al-aceptar-la-sugerencia-de-buyboxme2-se-requiere-el-atributo-brand",
+    "internalReference": 1399947
   },
   {
     "locale": "es",
@@ -22406,11 +22406,6 @@
   },
   {
     "locale": "pt",
-    "slug": "mercado-livre-erro-ao-aceitar-a-sugestao-buyboxme2-atributo-brand-obrigatorio",
-    "internalReference": 1399947
-  },
-  {
-    "locale": "pt",
     "slug": "mercado-livre-erro-ao-baixar-faturas-no-modulo-faturas",
     "internalReference": 1087545
   },
@@ -24068,6 +24063,11 @@
     "locale": "pt",
     "slug": "mercado-livre-dimensoes-das-embalagens-agora-sao-obrigatorias-para-itens-me1-no-mercado-livre",
     "internalReference": 1474056
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-erro-ao-aceitar-a-sugestao-buyboxme2-atributo-brand-obrigatorio",
+    "internalReference": 1399947
   },
   {
     "locale": "pt",
