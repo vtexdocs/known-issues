@@ -631,6 +631,11 @@
   },
   {
     "locale": "en",
+    "slug": "activateifpossible-set-to-false-if-mandatory-specifications-are-not-fully-saved-on-catalog-admin",
+    "internalReference": 1484224
+  },
+  {
+    "locale": "en",
     "slug": "admin-collection-brand-list-timeout",
     "internalReference": 639905
   },
@@ -9913,6 +9918,11 @@
     "locale": "es",
     "slug": "problemas-con-los-componentes-de-renderizado-en-el-editor-de-sitios",
     "internalReference": 415674
+  },
+  {
+    "locale": "es",
+    "slug": "activateifpossible-se-establece-en-false-si-las-especificaciones-obligatorias-no-se-guardan-completamente-en-el-administrador-del-catalogo",
+    "internalReference": 1484224
   },
   {
     "locale": "es",
@@ -19513,6 +19523,11 @@
     "locale": "pt",
     "slug": "a-navegacao-de-especificacao-da-arvore-de-categorias-pode-retornar-dados-incorretos",
     "internalReference": 1179682
+  },
+  {
+    "locale": "pt",
+    "slug": "a-opcao-activateifpossible-deve-ser-definida-como-false-se-as-especificacoes-obrigatorias-nao-estiverem-totalmente-salvas-no-painel-de-administracao-do-catalogo",
+    "internalReference": 1484224
   },
   {
     "locale": "pt",
