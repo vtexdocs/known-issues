@@ -9286,6 +9286,11 @@
   },
   {
     "locale": "en",
+    "slug": "vtexstructureddata-app-settings-are-not-applied-in-pdp-ssr-html",
+    "internalReference": 1484644
+  },
+  {
+    "locale": "en",
     "slug": "vtexstructureddata-settings-page-shows-gtin-value-ean-as-default-but-the-app-uses-the-sku-id-until-the-setting-is-saved",
     "internalReference": 1482707
   },
@@ -18628,6 +18633,11 @@
     "locale": "es",
     "slug": "visualizacion-del-sitio-en-version-de-escritorio-al-acceder-desde-un-ipad-con-safari",
     "internalReference": 735208
+  },
+  {
+    "locale": "es",
+    "slug": "vtexstructureddata-la-configuracion-de-la-aplicacion-no-se-aplica-en-pdp-ssr-html",
+    "internalReference": 1484644
   },
   {
     "locale": "es",
@@ -27978,6 +27988,11 @@
     "locale": "pt",
     "slug": "vtexstructureddata-a-pagina-de-configuracoes-mostra-o-valor-gtin-ean-como-padrao-mas-o-aplicativo-usa-o-id-sku-ate-que-a-configuracao-seja-salva",
     "internalReference": 1482707
+  },
+  {
+    "locale": "pt",
+    "slug": "vtexstructureddata-as-configuracoes-do-aplicativo-nao-sao-aplicadas-no-pdp-ssr-html",
+    "internalReference": 1484644
   },
   {
     "locale": "pt",
