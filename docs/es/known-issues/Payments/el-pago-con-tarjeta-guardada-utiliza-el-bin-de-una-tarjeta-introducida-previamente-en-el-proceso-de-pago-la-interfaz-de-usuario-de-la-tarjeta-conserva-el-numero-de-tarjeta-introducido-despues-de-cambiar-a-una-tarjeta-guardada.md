@@ -3,7 +3,7 @@ title: 'El pago con tarjeta guardada utiliza el BIN de una tarjeta introducida p
 slug: el-pago-con-tarjeta-guardada-utiliza-el-bin-de-una-tarjeta-introducida-previamente-en-el-proceso-de-pago-la-interfaz-de-usuario-de-la-tarjeta-conserva-el-numero-de-tarjeta-introducido-despues-de-cambiar-a-una-tarjeta-guardada
 status: PUBLISHED
 createdAt: 2026-11-12T17:39:36.000Z
-updatedAt: 2026-11-12T17:39:36.000Z
+updatedAt: 2026-11-12T17:42:24.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
