@@ -5411,6 +5411,11 @@
   },
   {
     "locale": "en",
+    "slug": "app-fbe-store-pages-wait-for-an-external-file-to-load-when-facebook-business-extension-is-installed",
+    "internalReference": 1484482
+  },
+  {
+    "locale": "en",
     "slug": "category-mapping-via-xls-not-reprocessed-for-accounts-with-large-volume-of-suggestions",
     "internalReference": 1438301
   },
@@ -14728,6 +14733,11 @@
     "locale": "es",
     "slug": "app-fbe-la-aplicacion-checkout-pixel-genera-un-error-de-se-ha-superado-el-tamano-maximo-de-la-pila-de-llamadas-en-el-proceso-de-pago",
     "internalReference": 1465789
+  },
+  {
+    "locale": "es",
+    "slug": "app-fbe-las-paginas-de-la-tienda-esperan-a-que-se-cargue-un-archivo-externo-cuando-se-instala-la-extension-de-facebook-business",
+    "internalReference": 1484482
   },
   {
     "locale": "es",
@@ -24058,6 +24068,11 @@
     "locale": "pt",
     "slug": "amazonmatch-em-alguns-casos-o-sku-volta-para-aguardando-revisao-apos-a-confirmacao-da-correspondencia-sem-nenhuma-indicacao-do-motivo-da-rejeicao-da-amazon",
     "internalReference": 1456640
+  },
+  {
+    "locale": "pt",
+    "slug": "app-fbe-as-paginas-da-loja-aguardam-o-carregamento-de-um-arquivo-externo-quando-a-extensao-de-negocios-do-facebook-esta-instalada",
+    "internalReference": 1484482
   },
   {
     "locale": "pt",
