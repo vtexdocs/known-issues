@@ -3,7 +3,7 @@ title: 'Custom sitemap (saveIndex) returns "Entity not found" on the final domai
 slug: custom-sitemap-saveindex-returns-entity-not-found-on-the-final-domain
 status: PUBLISHED
 createdAt: 2026-09-17T23:26:22.000Z
-updatedAt: 2026-09-18T21:13:21.000Z
+updatedAt: 2026-11-12T16:05:07.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -16,7 +16,7 @@ internalReference: 1462938
 
 ## Summary
 
-Stores that use the `saveIndex` feature to generate custom sitemaps (URLs in the format `/sitemap/{index-name}.xml`) may get an "Entity not found" error when accessing these files through the final production domain, even though the master index (/sitemap.xml) is updated correctly. The same file still works normally on `*.myvtex.com`. The issue is related to a routing difference between the two domains, which causes the custom index to not be recognized correctly on the final domain.
+Stores that use the `saveIndex` feature to generate custom sitemaps (URLs in the format `/sitemap/{index-name}.xml`) may get an “Entity not found” error when accessing these files through the final production domain, even though the master index (`/sitemap.xml`) is updated correctly. The same file still works normally on `*.myvtex.com`. The issue is related to a routing difference between the two domains, which causes the custom index to not be recognized correctly on the final domain.
 
 ## Simulation
 
@@ -27,4 +27,8 @@ Stores that use the `saveIndex` feature to generate custom sitemaps (URLs in the
 
 ## Workaround
 
-The affected store must open a support ticket requesting the workaround, which will be applied on a per-account basis
+The workaround is **only valid for Store Framework stores**. **FastStore stores cannot have the workaround applied.**
+
+For affected Store Framework stores, open a support ticket requesting the workaround, which will be applied on a per-account basis.
+
+For FastStore stores, there is no workaround available at the moment. The store must wait for the permanent fix.
