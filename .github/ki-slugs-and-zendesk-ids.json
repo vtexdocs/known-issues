@@ -7231,6 +7231,11 @@
   },
   {
     "locale": "en",
+    "slug": "savedcard-payment-uses-the-bin-of-a-previously-typed-card-in-checkout-card-ui-keeps-the-typed-card-number-after-switching-to-a-saved-card",
+    "internalReference": 1484421
+  },
+  {
+    "locale": "en",
     "slug": "scheduled-automatic-capture-does-not-appear",
     "internalReference": 1121837
   },
@@ -15803,6 +15808,11 @@
     "locale": "es",
     "slug": "el-menu-desplegable-de-las-cuotas-en-la-interfaz-de-compra-esta-suelto-cuando-se-desplaza-la-pantalla",
     "internalReference": 540257
+  },
+  {
+    "locale": "es",
+    "slug": "el-pago-con-tarjeta-guardada-utiliza-el-bin-de-una-tarjeta-introducida-previamente-en-el-proceso-de-pago-la-interfaz-de-usuario-de-la-tarjeta-conserva-el-numero-de-tarjeta-introducido-despues-de-cambiar-a-una-tarjeta-guardada",
+    "internalReference": 1484421
   },
   {
     "locale": "es",
@@ -25808,6 +25818,11 @@
     "locale": "pt",
     "slug": "o-mesmo-numero-de-boleto-foi-gerado-para-duas-transacoes-distintas-itau-shopline",
     "internalReference": 288549
+  },
+  {
+    "locale": "pt",
+    "slug": "o-pagamento-com-cartao-salvo-utiliza-o-bin-de-um-cartao-previamente-digitado-no-checkout-a-interface-do-cartao-mantem-o-numero-do-cartao-digitado-apos-a-troca-para-um-cartao-salvo",
+    "internalReference": 1484421
   },
   {
     "locale": "pt",
