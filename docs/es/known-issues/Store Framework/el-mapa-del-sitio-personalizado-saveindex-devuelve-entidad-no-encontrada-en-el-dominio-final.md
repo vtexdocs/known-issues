@@ -3,7 +3,7 @@ title: 'El mapa del sitio personalizado (saveIndex) devuelve "Entidad no encontr
 slug: el-mapa-del-sitio-personalizado-saveindex-devuelve-entidad-no-encontrada-en-el-dominio-final
 status: PUBLISHED
 createdAt: 2026-09-17T23:26:22.000Z
-updatedAt: 2026-09-18T21:13:21.000Z
+updatedAt: 2026-11-12T16:05:07.000Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
@@ -18,7 +18,7 @@ internalReference: 1462938
 
 ## Sumario
 
-Las tiendas que utilizan la función `saveIndex` para generar mapas del sitio personalizados (URLs con el formato `/sitemap/{index-name}.xml`) pueden recibir un error de "Entidad no encontrada" al acceder a estos archivos a través del dominio de producción final, aunque el índice maestro (/sitemap.xml) se actualice correctamente. El mismo archivo funciona con normalidad en `*.myvtex.com`. El problema se debe a una diferencia de enrutamiento entre ambos dominios, lo que provoca que el índice personalizado no se reconozca correctamente en el dominio final.
+Las tiendas que utilizan la función `saveIndex` para generar mapas del sitio personalizados (URLs con el formato `/sitemap/{index-name}.xml`) pueden recibir un error de "Entidad no encontrada" al acceder a estos archivos a través del dominio de producción final, aunque el índice maestro (`/sitemap.xml`) se actualice correctamente. El mismo archivo funciona con normalidad en `*.myvtex.com`. El problema se debe a una diferencia de enrutamiento entre ambos dominios, lo que provoca que el índice personalizado no se reconozca correctamente en el dominio final.
 
 ## Simulación
 
@@ -30,4 +30,8 @@ Las tiendas que utilizan la función `saveIndex` para generar mapas del sitio pe
 
 ## Workaround
 
-La tienda afectada debe abrir un ticket de soporte solicitando la solución alternativa, que se aplicará por cuenta.
+Esta solución alternativa **solo es válida para tiendas Store Framework**. **Las tiendas FastStore no pueden beneficiarse de esta solución alternativa.**
+
+Para las tiendas Store Framework afectadas, abra un ticket de soporte solicitando la solución alternativa, que se aplicará por cuenta.
+
+Para las tiendas FastStore, no hay ninguna solución alternativa disponible por el momento. La tienda debe esperar a la corrección definitiva.
