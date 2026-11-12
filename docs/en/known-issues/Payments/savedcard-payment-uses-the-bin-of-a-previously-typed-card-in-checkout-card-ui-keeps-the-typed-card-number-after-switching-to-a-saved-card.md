@@ -3,7 +3,7 @@ title: 'Saved-card payment uses the BIN of a previously typed card in Checkout (
 slug: savedcard-payment-uses-the-bin-of-a-previously-typed-card-in-checkout-card-ui-keeps-the-typed-card-number-after-switching-to-a-saved-card
 status: PUBLISHED
 createdAt: 2026-11-12T17:39:36.000Z
-updatedAt: 2026-11-12T17:39:36.000Z
+updatedAt: 2026-11-12T17:42:24.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
