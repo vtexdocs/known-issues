@@ -3,7 +3,7 @@ title: 'O pagamento com cartão salvo utiliza o BIN de um cartão previamente di
 slug: o-pagamento-com-cartao-salvo-utiliza-o-bin-de-um-cartao-previamente-digitado-no-checkout-a-interface-do-cartao-mantem-o-numero-do-cartao-digitado-apos-a-troca-para-um-cartao-salvo
 status: PUBLISHED
 createdAt: 2026-11-12T17:39:36.000Z
-updatedAt: 2026-11-12T17:39:36.000Z
+updatedAt: 2026-11-12T17:42:24.000Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
