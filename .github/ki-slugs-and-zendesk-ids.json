@@ -5451,6 +5451,11 @@
   },
   {
     "locale": "en",
+    "slug": "magalu-sla-not-available-in-multilevel-architecture",
+    "internalReference": 719367
+  },
+  {
+    "locale": "en",
     "slug": "magazine-luiza-integration-not-support-multiple-packages",
     "internalReference": 1369259
   },
@@ -14786,6 +14791,11 @@
   },
   {
     "locale": "es",
+    "slug": "magalu-sla-no-disponible-en-arquitectura-multinivel",
+    "internalReference": 719367
+  },
+  {
+    "locale": "es",
     "slug": "magazine-luiza-el-pedido-cancelado-en-el-mercado-no-se-actualizo-en-vtex",
     "internalReference": 865926
   },
@@ -24118,6 +24128,11 @@
     "locale": "pt",
     "slug": "fbe-imagens-plppdp-falham-intermitentemente-ao-carregar-o-meta",
     "internalReference": 1382819
+  },
+  {
+    "locale": "pt",
+    "slug": "magalu-sla-nao-disponivel-na-arquitetura-multinivel",
+    "internalReference": 719367
   },
   {
     "locale": "pt",
