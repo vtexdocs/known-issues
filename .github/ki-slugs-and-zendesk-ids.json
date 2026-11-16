@@ -5596,6 +5596,11 @@
   },
   {
     "locale": "en",
+    "slug": "change-order-v2-item-removal-with-compensateshippingchanges-free-shipping-leaves-nonzero-pricesellingprice-per-item-in-logisticsinfo",
+    "internalReference": 1485635
+  },
+  {
+    "locale": "en",
     "slug": "change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion",
     "internalReference": 1080187
   },
@@ -15391,6 +15396,11 @@
   },
   {
     "locale": "es",
+    "slug": "modificar-pedido-v2-eliminacion-de-articulo-con-compensacionshippingchanges-envio-gratuito-deja-un-precioprecio-de-venta-distinto-de-cero-por-articulo-en-logisticsinfo",
+    "internalReference": 1485635
+  },
+  {
+    "locale": "es",
     "slug": "my-orders-on-my-account-error-message-ocorreu-um-erro-inesperado-estamos-trabalhando-para-resolvelo-tente-novamente-mais-tarde",
     "internalReference": 356936
   },
@@ -24328,6 +24338,11 @@
     "locale": "pt",
     "slug": "a-nova-iu-nao-mostra-o-valor-faturado-na-pagina-de-itens-de-retorno",
     "internalReference": 664838
+  },
+  {
+    "locale": "pt",
+    "slug": "a-remocao-do-item-change-order-v2-com-compensationshippingchanges-frete-gratis-resulta-em-um-precopreco-de-venda-diferente-de-zero-por-item-em-logisticsinfo",
+    "internalReference": 1485635
   },
   {
     "locale": "pt",
