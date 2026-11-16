@@ -8801,6 +8801,11 @@
   },
   {
     "locale": "en",
+    "slug": "custom-header-with-key-link-is-not-delivered-on-store-framework-stores",
+    "internalReference": 1485532
+  },
+  {
+    "locale": "en",
     "slug": "custom-headers-are-not-applied-to-all-pages",
     "internalReference": 1170580
   },
@@ -18138,6 +18143,11 @@
     "locale": "es",
     "slug": "el-diseno-de-la-pagina-cambia-a-movil-cuando-se-imprime-ctrlp-en-chrome",
     "internalReference": 454680
+  },
+  {
+    "locale": "es",
+    "slug": "el-encabezado-personalizado-con-la-clave-link-no-se-entrega-en-las-tiendas-de-store-framework",
+    "internalReference": 1485532
   },
   {
     "locale": "es",
@@ -27633,6 +27643,11 @@
     "locale": "pt",
     "slug": "o-breadcrumb-nao-esta-sendo-lido-pelos-rastreadores-devido-ao-tempo-limite-do-ssr",
     "internalReference": 460999
+  },
+  {
+    "locale": "pt",
+    "slug": "o-cabecalho-personalizado-com-a-chave-link-nao-e-entregue-em-lojas-com-o-store-framework",
+    "internalReference": 1485532
   },
   {
     "locale": "pt",
