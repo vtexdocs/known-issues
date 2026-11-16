@@ -3666,16 +3666,6 @@
   },
   {
     "locale": "en",
-    "slug": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
-    "internalReference": 777298
-  },
-  {
-    "locale": "en",
-    "slug": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
-    "internalReference": 1200833
-  },
-  {
-    "locale": "en",
     "slug": "magazine-luiza-orders-with-approved-status-on-the-marketplace-are-not-being-approved-on-vtex",
     "internalReference": 823443
   },
@@ -3888,11 +3878,6 @@
     "locale": "en",
     "slug": "mercado-livre-mapper-attribute-size",
     "internalReference": 592577
-  },
-  {
-    "locale": "en",
-    "slug": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
-    "internalReference": 1403557
   },
   {
     "locale": "en",
@@ -5361,6 +5346,11 @@
   },
   {
     "locale": "en",
+    "slug": "amazon-listing-sku-cant-be-sent-through-product-publication-after-its-images-are-replaced-in-the-catalog",
+    "internalReference": 1485622
+  },
+  {
+    "locale": "en",
     "slug": "amazon-mexico-orders-fulfilled-by-amazon-fba-arent-integrated",
     "internalReference": 1471894
   },
@@ -5471,6 +5461,16 @@
   },
   {
     "locale": "en",
+    "slug": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
+    "internalReference": 777298
+  },
+  {
+    "locale": "en",
+    "slug": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
+    "internalReference": 1200833
+  },
+  {
+    "locale": "en",
     "slug": "mercado-livre-ads-incorrectly-recreated-as-crossdocking-for-full-skus-with-zero-stock",
     "internalReference": 1440697
   },
@@ -5483,6 +5483,11 @@
     "locale": "en",
     "slug": "mercado-livre-error-when-reauthenticating-the-integration",
     "internalReference": 1481892
+  },
+  {
+    "locale": "en",
+    "slug": "mercado-livre-multiorigin-orders-allocated-to-inactive-stock",
+    "internalReference": 1403557
   },
   {
     "locale": "en",
@@ -13106,11 +13111,6 @@
   },
   {
     "locale": "es",
-    "slug": "magazine-luiza-pedido-con-error-la-referencia-a-objeto-no-esta-establecida-en-una-instancia-de-un-objeto",
-    "internalReference": 777298
-  },
-  {
-    "locale": "es",
     "slug": "magazine-luiza-pedido-fob-integrado-con-entrega-convencional",
     "internalReference": 721951
   },
@@ -13251,11 +13251,6 @@
   },
   {
     "locale": "es",
-    "slug": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
-    "internalReference": 1403557
-  },
-  {
-    "locale": "es",
     "slug": "mercado-livre-sku-bridge-no-registra-algunos-mensajes-de-error",
     "internalReference": 1069692
   },
@@ -13318,11 +13313,6 @@
     "locale": "es",
     "slug": "revista-luiza-error-de-puente-solicitud-bloqueada-por-cdn-de-mercado",
     "internalReference": 1327151
-  },
-  {
-    "locale": "es",
-    "slug": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
-    "internalReference": 1200833
   },
   {
     "locale": "es",
@@ -14716,6 +14706,11 @@
   },
   {
     "locale": "es",
+    "slug": "amazon-listado-el-sku-no-se-puede-enviar-a-traves-de-la-publicacion-del-producto-despues-de-que-sus-imagenes-se-hayan-reemplazado-en-el-catalogo",
+    "internalReference": 1485622
+  },
+  {
+    "locale": "es",
     "slug": "amazon-los-pedidos-de-mexico-gestionados-por-amazon-fba-no-estan-integrados",
     "internalReference": 1471894
   },
@@ -14816,6 +14811,16 @@
   },
   {
     "locale": "es",
+    "slug": "magazine-luiza-pedido-con-error-la-referencia-a-objeto-no-esta-establecida-en-una-instancia-de-un-objeto",
+    "internalReference": 777298
+  },
+  {
+    "locale": "es",
+    "slug": "magazine-luiza-pedidos-pendientes-de-autorizacion-de-envio-incluso-si-son-aprobados-por-marketplace",
+    "internalReference": 1200833
+  },
+  {
+    "locale": "es",
     "slug": "mercado-livre-anuncios-recreados-incorrectamente-como-crossdocking-para-sku-completos-con-stock-cero",
     "internalReference": 1440697
   },
@@ -14838,6 +14843,11 @@
     "locale": "es",
     "slug": "mercado-livre-las-dimensiones-del-paquete-ahora-son-obligatorias-para-los-articulos-me1-en-mercado-livre",
     "internalReference": 1474056
+  },
+  {
+    "locale": "es",
+    "slug": "mercado-livre-multiorigen-pedidos-asignados-a-stock-inactivo",
+    "internalReference": 1403557
   },
   {
     "locale": "es",
@@ -22396,11 +22406,6 @@
   },
   {
     "locale": "pt",
-    "slug": "magazine-luiza-pedido-com-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto",
-    "internalReference": 777298
-  },
-  {
-    "locale": "pt",
     "slug": "magazine-luiza-os-pedidos-com-o-status-aprovado-no-marketplace-nao-estao-sendo-aprovados-no-vtex",
     "internalReference": 823443
   },
@@ -22408,11 +22413,6 @@
     "locale": "pt",
     "slug": "magazine-luiza-pedido-cancelado-no-marketplace-mas-nao-no-vtex",
     "internalReference": 792618
-  },
-  {
-    "locale": "pt",
-    "slug": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace",
-    "internalReference": 1200833
   },
   {
     "locale": "pt",
@@ -22518,11 +22518,6 @@
     "locale": "pt",
     "slug": "mercado-livre-menu-bridge-orders-nao-mostra-as-informacoes-de-shippingid",
     "internalReference": 1001903
-  },
-  {
-    "locale": "pt",
-    "slug": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo",
-    "internalReference": 1403557
   },
   {
     "locale": "pt",
@@ -24071,6 +24066,11 @@
   },
   {
     "locale": "pt",
+    "slug": "amazon-listagem-o-sku-nao-pode-ser-enviado-atraves-da-publicacao-do-produto-apos-a-substituicao-de-suas-imagens-no-catalogo",
+    "internalReference": 1485622
+  },
+  {
+    "locale": "pt",
     "slug": "amazon-nfe-para-pedidos-amazon-dba-easy-ship-rejeitados-quando-um-desconto-promocional-e-aplicado-pelo-comprador",
     "internalReference": 1447551
   },
@@ -24161,6 +24161,16 @@
   },
   {
     "locale": "pt",
+    "slug": "magazine-luiza-pedido-com-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto",
+    "internalReference": 777298
+  },
+  {
+    "locale": "pt",
+    "slug": "magazine-luiza-pedidos-aguardando-autorizacao-de-envio-mesmo-se-aprovados-pelo-marketplace",
+    "internalReference": 1200833
+  },
+  {
+    "locale": "pt",
     "slug": "mercado-livre-anuncios-recriados-incorretamente-como-crossdocking-para-skus-completos-com-estoque-zero",
     "internalReference": 1440697
   },
@@ -24178,6 +24188,11 @@
     "locale": "pt",
     "slug": "mercado-livre-erro-ao-reautenticar-a-integracao",
     "internalReference": 1481892
+  },
+  {
+    "locale": "pt",
+    "slug": "mercado-livre-multiorigem-pedidos-alocados-a-estoque-inativo",
+    "internalReference": 1403557
   },
   {
     "locale": "pt",
