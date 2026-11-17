@@ -391,6 +391,11 @@
   },
   {
     "locale": "en",
+    "slug": "top-bar-customization-inactive-organization-message-doesnt-work",
+    "internalReference": 1485873
+  },
+  {
+    "locale": "en",
     "slug": "users-created-in-accounts-with-emailrectification-feature-are-not-created-in-vtex-id",
     "internalReference": 1165203
   },
@@ -3233,11 +3238,6 @@
     "locale": "en",
     "slug": "tax-service-uses-document-data-instead-of-customer-email",
     "internalReference": 548671
-  },
-  {
-    "locale": "en",
-    "slug": "top-bar-customization-inactive-organization-message-doesnt-work",
-    "internalReference": 1485873
   },
   {
     "locale": "en",
@@ -9546,6 +9546,11 @@
   },
   {
     "locale": "es",
+    "slug": "el-mensaje-de-organizacion-inactiva-de-personalizacion-de-la-barra-superior-no-funciona",
+    "internalReference": 1485873
+  },
+  {
+    "locale": "es",
     "slug": "el-registro-estatal-no-se-ha-completado-tras-aprobar-la-solicitud-de-la-organizacion",
     "internalReference": 825127
   },
@@ -11638,11 +11643,6 @@
     "locale": "es",
     "slug": "el-listprice-mostrado-en-un-carrito-no-considera-si-el-precio-regular-esta-siendo-modificado-por-un-unitmultiplier",
     "internalReference": 578649
-  },
-  {
-    "locale": "es",
-    "slug": "el-mensaje-de-organizacion-inactiva-de-personalizacion-de-la-barra-superior-no-funciona",
-    "internalReference": 1485873
   },
   {
     "locale": "es",
@@ -18891,6 +18891,11 @@
   },
   {
     "locale": "pt",
+    "slug": "a-personalizacao-da-barra-superior-e-a-mensagem-de-organizacao-inativa-nao-funcionam",
+    "internalReference": 1485873
+  },
+  {
+    "locale": "pt",
     "slug": "a-pesquisa-na-guia-usuarios-em-detalhes-da-organizacao-b2b-nao-filtra-quando-nao-ha-nenhum-resultado",
     "internalReference": 1079002
   },
@@ -20973,11 +20978,6 @@
     "locale": "pt",
     "slug": "a-pagina-orderplaced-retorna-um-erro-404-para-pedidos-sem-pagamento-id-de-pagamento-nulo",
     "internalReference": 1414430
-  },
-  {
-    "locale": "pt",
-    "slug": "a-personalizacao-da-barra-superior-e-a-mensagem-de-organizacao-inativa-nao-funcionam",
-    "internalReference": 1485873
   },
   {
     "locale": "pt",
