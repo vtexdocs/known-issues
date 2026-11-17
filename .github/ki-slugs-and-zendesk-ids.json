@@ -9101,6 +9101,11 @@
   },
   {
     "locale": "en",
+    "slug": "regionid-outside-the-base64-format-discards-the-visitors-region-from-the-session-during-ssr",
+    "internalReference": 1486293
+  },
+  {
+    "locale": "en",
     "slug": "request-routing-is-inconsistent-when-running-ab-tests",
     "internalReference": 931246
   },
@@ -18656,6 +18661,11 @@
   },
   {
     "locale": "es",
+    "slug": "si-regionid-no-esta-en-formato-base64-se-descarta-la-region-del-visitante-de-la-sesion-durante-el-ssr",
+    "internalReference": 1486293
+  },
+  {
+    "locale": "es",
     "slug": "sliderlayout-bug-when-using-prop-infinite-as-always-on-mobile",
     "internalReference": 920725
   },
@@ -27868,6 +27878,11 @@
     "locale": "pt",
     "slug": "o-recurso-aplicar-ao-tema-nao-funciona-no-editor-do-site-com-paginas-personalizadas",
     "internalReference": 580543
+  },
+  {
+    "locale": "pt",
+    "slug": "o-regionid-fora-do-formato-base64-descarta-a-regiao-do-visitante-da-sessao-durante-a-renderizacao-no-servidor-ssr",
+    "internalReference": 1486293
   },
   {
     "locale": "pt",
