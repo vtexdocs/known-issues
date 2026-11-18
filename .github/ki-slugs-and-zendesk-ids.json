@@ -6566,6 +6566,11 @@
   },
   {
     "locale": "en",
+    "slug": "empty-response-fields-returned-as-null-for-connectors-with-additional-fields-enabled",
+    "internalReference": 1486591
+  },
+  {
+    "locale": "en",
     "slug": "erederest-connector-doesnt-capture-payment-from-get-request-when-its-amount-is-lower-than-the-total-value-of-the-payment",
     "internalReference": 664081
   },
@@ -16556,6 +16561,11 @@
   },
   {
     "locale": "es",
+    "slug": "los-campos-de-respuesta-vacios-se-devuelven-como-null-para-los-conectores-con-campos-adicionales-habilitados",
+    "internalReference": 1486591
+  },
+  {
+    "locale": "es",
     "slug": "los-metodos-de-pago-desactivados-siguen-mostrandose",
     "internalReference": 1235817
   },
@@ -25378,6 +25388,11 @@
     "locale": "pt",
     "slug": "callcenter-users-cant-delete-a-customers-credit-card-via-my-account",
     "internalReference": 294001
+  },
+  {
+    "locale": "pt",
+    "slug": "campos-de-resposta-vazios-sao-retornados-como-nulo-para-conectores-com-campos-adicionais-habilitados",
+    "internalReference": 1486591
   },
   {
     "locale": "pt",
