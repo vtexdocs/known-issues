@@ -9016,6 +9016,11 @@
   },
   {
     "locale": "en",
+    "slug": "plp-renders-blank-on-back-navigation-after-pagination-pdp-regionalization-and-full-reload",
+    "internalReference": 1486412
+  },
+  {
+    "locale": "en",
     "slug": "plp-with-show-more-renders-blank-after-browser-back-navigation-from-checkout",
     "internalReference": 1301762
   },
@@ -18441,6 +18446,11 @@
   },
   {
     "locale": "es",
+    "slug": "la-plp-se-muestra-en-blanco-en-la-navegacion-hacia-atras-despues-de-la-paginacion-la-regionalizacion-de-pdp-y-la-recarga-completa",
+    "internalReference": 1486412
+  },
+  {
+    "locale": "es",
     "slug": "la-posicion-de-la-imagen-seleccionada-en-la-pdp-no-se-restablece-al-cambiar-de-producto",
     "internalReference": 595434
   },
@@ -27483,6 +27493,11 @@
     "locale": "pt",
     "slug": "a-mutacao-impersonate-do-storegraphql-nao-carrega-dados-de-perfil-para-usuarios-criados-manualmente",
     "internalReference": 1214877
+  },
+  {
+    "locale": "pt",
+    "slug": "a-pagina-inicial-plp-fica-em-branco-na-navegacao-para-tras-apos-paginacao-regionalizacao-da-pagina-de-detalhes-do-produto-pdp-e-recarregamento-completo",
+    "internalReference": 1486412
   },
   {
     "locale": "pt",
