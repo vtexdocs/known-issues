@@ -3,14 +3,14 @@ title: 'Amazon Los pedidos no se integran correctamente y aparece el mensaje "Se
 slug: amazon-los-pedidos-no-se-integran-correctamente-y-aparece-el-mensaje-se-produjo-un-error-de-validacion-al-intentar-procesar-el-pedido-cuando-el-nombre-del-comprador-es-nulo
 status: PUBLISHED
 createdAt: 2026-10-02T20:01:28.000Z
-updatedAt: 2026-10-02T20:19:17.000Z
+updatedAt: 2026-11-18T23:39:04.000Z
 contentType: knownIssue
 productTeam: Marketplace Out
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace Out
 slugEN: amazon-orders-fail-to-integrate-with-a-validation-error-occurred-while-trying-to-process-the-order-when-the-buyer-name-is-null
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1469662
 ---
 
