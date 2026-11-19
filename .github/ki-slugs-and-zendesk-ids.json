@@ -7956,11 +7956,6 @@
   },
   {
     "locale": "en",
-    "slug": "restrict-the-defaultsrc-of-the-header-content-security-policy-could-break-the-checkout",
-    "internalReference": 763359
-  },
-  {
-    "locale": "en",
     "slug": "search-api-not-returning-showifnotavailabletrue-skus-for-fqspecificationfilter-queries",
     "internalReference": 336896
   },
@@ -17416,11 +17411,6 @@
   },
   {
     "locale": "es",
-    "slug": "restringir-el-valor-defaultsrc-de-la-politica-de-seguridad-de-contenidos-csp-del-encabezado-podria-impedir-que-se-complete-el-proceso-de-pago",
-    "internalReference": 763359
-  },
-  {
-    "locale": "es",
     "slug": "sww-en-las-paginas-con-colecciones-o-categorias",
     "internalReference": 785324
   },
@@ -26788,11 +26778,6 @@
     "locale": "pt",
     "slug": "quando-um-item-do-conjunto-esta-em-falta-o-conjunto-aparece-como-esgotado-na-pesquisa",
     "internalReference": 342720
-  },
-  {
-    "locale": "pt",
-    "slug": "restringir-o-parametro-defaultsrc-da-politica-de-seguranca-de-conteudo-csp-do-cabecalho-pode-impedir-o-funcionamento-do-processo-de-checkout",
-    "internalReference": 763359
   },
   {
     "locale": "pt",
