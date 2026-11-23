@@ -3,14 +3,14 @@ title: 'As configurações de finalização de compra B2B consideram o endereço
 slug: as-configuracoes-de-finalizacao-de-compra-b2b-consideram-o-endereco-de-coleta-para-entregas
 status: PUBLISHED
 createdAt: 2025-02-26T20:57:28.000Z
-updatedAt: 2026-10-16T16:58:24.000Z
+updatedAt: 2026-11-23T17:37:06.000Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slugEN: b2b-checkout-settings-is-considering-pickup-address-for-deliveries
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1186568
 ---
 
