@@ -7491,11 +7491,6 @@
   },
   {
     "locale": "en",
-    "slug": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
-    "internalReference": 1376434
-  },
-  {
-    "locale": "en",
     "slug": "transaction-stuck-in-cancelling-when-payments-are-finished",
     "internalReference": 1363196
   },
@@ -7538,11 +7533,6 @@
     "locale": "en",
     "slug": "transactions-filter-by-date-in-admin-not-working",
     "internalReference": 1180441
-  },
-  {
-    "locale": "en",
-    "slug": "transactions-made-with-payu-do-not-change-from-cancelling-status",
-    "internalReference": 338124
   },
   {
     "locale": "en",
@@ -16501,11 +16491,6 @@
   },
   {
     "locale": "es",
-    "slug": "las-transacciones-realizadas-con-payu-no-pasan-del-estado-de-cancelacion",
-    "internalReference": 338124
-  },
-  {
-    "locale": "es",
     "slug": "las-transacciones-se-atascan-en-cancelacion-y-los-pagos-permanecen-en-liquidacion",
     "internalReference": 1317866
   },
@@ -16968,11 +16953,6 @@
     "locale": "es",
     "slug": "transaccion-bloqueada-en-estado-autorizado-o-pendiente-de-autorizacion-despues-de-haber-sido-aprobada",
     "internalReference": 1037765
-  },
-  {
-    "locale": "es",
-    "slug": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-un-objeto",
-    "internalReference": 1376434
   },
   {
     "locale": "es",
@@ -25346,11 +25326,6 @@
   },
   {
     "locale": "pt",
-    "slug": "as-transacoes-realizadas-com-o-payu-nao-mudam-de-status-apos-o-cancelamento",
-    "internalReference": 338124
-  },
-  {
-    "locale": "pt",
     "slug": "atualizacao-regex-da-cabal",
     "internalReference": 374652
   },
@@ -26333,11 +26308,6 @@
     "locale": "pt",
     "slug": "transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-entre-recipientssplitremainvalue",
     "internalReference": 1295769
-  },
-  {
-    "locale": "pt",
-    "slug": "transacao-presa-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto",
-    "internalReference": 1376434
   },
   {
     "locale": "pt",
