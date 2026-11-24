@@ -3231,6 +3231,11 @@
   },
   {
     "locale": "en",
+    "slug": "tax-service-getting-different-values-from-marketplace-and-fullfilment-when-a-more-for-less-promotion-is-used",
+    "internalReference": 937730
+  },
+  {
+    "locale": "en",
     "slug": "tax-service-request-uses-shippingdataaddress-even-when-a-cart-has-two-selected-address",
     "internalReference": 1074168
   },
@@ -11753,6 +11758,11 @@
     "locale": "es",
     "slug": "el-servicio-de-impuestos-aplica-el-mismo-precio-a-los-articulos-que-aparecen-mas-de-una-vez-cuando-se-utiliza-la-opcion-de-ensamblaje",
     "internalReference": 906518
+  },
+  {
+    "locale": "es",
+    "slug": "el-servicio-de-impuestos-obtiene-valores-diferentes-de-marketplace-y-fulfillment-cuando-se-utiliza-una-promocion-de-mas-por-menos",
+    "internalReference": 937730
   },
   {
     "locale": "es",
@@ -21803,6 +21813,11 @@
     "locale": "pt",
     "slug": "o-seletor-do-metodo-de-entrega-nao-aparece-em-alguns-cenarios",
     "internalReference": 293784
+  },
+  {
+    "locale": "pt",
+    "slug": "o-servico-de-impostos-obtem-valores-diferentes-do-marketplace-e-do-fulfillment-quando-uma-promocao-mais-por-menos-e-utilizada",
+    "internalReference": 937730
   },
   {
     "locale": "pt",
