@@ -6281,7 +6281,7 @@
   },
   {
     "locale": "en",
-    "slug": "wrong-warehouse-assigned-to-item-added-via-changeorderv2-ffmsos-shippingenricher-ignores-logistics-deliveryids",
+    "slug": "wrong-warehouse-assigned-to-items-in-multiwarehouse-orders-after-a-changeorderv2-add-remove-or-reduce-quantity",
     "internalReference": 1433311
   },
   {
@@ -15581,7 +15581,7 @@
   },
   {
     "locale": "es",
-    "slug": "se-asigno-un-almacen-incorrecto-al-articulo-agregado-mediante-changeorderv2-ffmsos-shippingenricher-ignora-los-deliveryids-de-logistica",
+    "slug": "se-asigno-un-almacen-incorrecto-a-los-articulos-en-pedidos-de-varios-almacenes-despues-de-un-changeorderv2-agregar-eliminar-o-reducir-la-cantidad",
     "internalReference": 1433311
   },
   {
@@ -24421,7 +24421,7 @@
   },
   {
     "locale": "pt",
-    "slug": "armazem-incorreto-atribuido-ao-item-adicionado-via-changeorderv2-ffmsos-shippingenricher-ignora-os-deliveryids-da-logistica",
+    "slug": "armazem-incorreto-atribuido-a-itens-em-pedidos-com-varios-armazens-apos-uma-alteracao-de-pedido-changeorderv2-adicionar-remover-ou-reduzir-quantidade",
     "internalReference": 1433311
   },
   {
