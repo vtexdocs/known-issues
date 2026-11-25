@@ -3,7 +3,7 @@ title: 'Insert SKU File API doesnt accept URLs from servers that require "User-A
 slug: insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-useragent-header
 status: PUBLISHED
 createdAt: 2024-07-22T22:48:57.000Z
-updatedAt: 2026-11-25T19:29:01.000Z
+updatedAt: 2026-11-25T19:28:49.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
