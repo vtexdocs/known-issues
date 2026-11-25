@@ -1,16 +1,16 @@
 ---
-title: 'A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho "User-Agent"'
+title: 'A API Insert SKU File não aceita URLs de servidores que exigem o cabeçalho "User-Agent".'
 slug: a-api-insert-sku-file-nao-aceita-urls-de-servidores-que-exigem-o-cabecalho-useragent
 status: PUBLISHED
-createdAt: 2025-08-12T18:56:25.129Z
-updatedAt: 2025-08-12T18:56:25.129Z
+createdAt: 2024-07-22T22:48:57.000Z
+updatedAt: 2026-11-25T19:29:01.000Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-useragent-header
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1069222
 ---
 
@@ -18,25 +18,19 @@ internalReference: 1069222
 
 ## Sumário
 
+O **User-Agent** é uma sequência de texto que um navegador web ou outro cliente envia a um servidor web no cabeçalho de uma requisição HTTP para se identificar. Essa sequência contém informações sobre o tipo de navegador, sistema operacional e, às vezes, detalhes adicionais como a versão do navegador e o mecanismo de renderização utilizado.
 
-O **User-Agent** é uma cadeia de texto que um navegador da Web ou outro cliente envia a um servidor da Web em um cabeçalho de solicitação HTTP para se identificar. Essa cadeia contém informações sobre o tipo de navegador, o sistema operacional e, às vezes, detalhes adicionais como a versão do navegador e o mecanismo de renderização usado.
+Isso geralmente é solicitado como medida de segurança por servidores, como aqueles que hospedam imagens, e pode ser passado via URL no corpo da requisição da API de inserção de arquivo SKU.
 
-Isso geralmente é solicitado como medida de segurança por servidores, como os que hospedam imagens, que podem ser passadas via URL no corpo da solicitação da API de inserção de arquivo SKU.
-
-Esse tipo de autenticação, no entanto, não é enviado atualmente pelo servidor VTEX ao reunir as imagens para uma SKU, portanto, servidores de terceiros podem bloquear a solicitação.
+No entanto, esse tipo de autenticação não é enviado atualmente pelo servidor VTEX ao coletar as imagens para um SKU, portanto, servidores de terceiros podem bloquear a requisição.
 
 ## Simulação
 
+1. Usando a API de arquivo SKU, seja no método Create ou Update (write) (https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit/-skuId-/file), passando uma URL que possui requisitos de user-agent no servidor para buscar dados.
+2. Uma resposta HTTP do tipo 4xx será exibida, seja um 400 genérico ou um 403 mais específico, dependendo do tipo de resposta implementado.
 
+Também é possível observar esse comportamento em ferramentas como o Postman, enviando um cabeçalho "User-Agent" vazio na requisição.
 
-1. Usando a API de arquivo SKU (https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit/-skuId-/file) Create ou Update (métodos de gravação), passando um URL que tem requisitos de agente de usuário do lado do servidor para buscar dados
-2. Uma resposta do tipo HTTP 4xx será exibida, seja uma resposta genérica 400 ou uma resposta mais específica 403, dependendo do tipo de resposta implementada.
-
-Também pode ser possível ver isso acontecendo por meio de ferramentas como o Postman, enviando um cabeçalho "User-Agent" vazio na solicitação.
 ## Workaround
 
-
-Opte pelo upload de arquivos por meio de planilha, dados de formulário (usando as APIs) ou desative os requisitos de agente de usuário no lado do servidor.
-
-
-
+Opte pelo upload do arquivo via planilha, formulário (usando as APIs) ou desabilite os requisitos de user-agent no servidor.
